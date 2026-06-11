@@ -1,82 +1,19 @@
 {
   "actual": {
-    "titulo": "El mediodía",
-    "descripcion": "Una propuesta cargada de entretenimiento, juegos y una conexión directa con la calle. Este programa está conducido por el animador Daniel Fuenzalida en un espacio dinámico y cercano, donde el animador interactuará directamente con el público a través de concursos y actividades que invitarán a la audiencia a sentirse parte del programa.",
-    "inicio": "2026-06-11T03:15:00",
-    "fin": "2026-06-11T05:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmediodia.jpg"
+    "titulo": "Caso cerrado",
+    "descripcion": "La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica. Con mediación sensata busca mantener la armonía y la paz en las relaciones personales. Resuelve en poco más de quince minutos casos que pueden tomar meses en una corte y lo hace de manera bastante equilibrada. Antes de la transmisión del espacio, ambas partes firman un acuerdo legal, jurando que se regirán por las decisiones que ella tome.",
+    "inicio": "2026-06-11T17:45:00",
+    "fin": "2026-06-11T19:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casocerrado.jpg"
   },
   "siguiente": {
-    "titulo": "Hora 24",
-    "descripcion": "Actualidad e información.",
-    "inicio": "2026-06-11T05:00:00",
-    "fin": "2026-06-11T05:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hora24.jpg"
+    "titulo": "¡Ahora caigo!",
+    "descripcion": "Emocionante concurso de conocimientos donde los participantes deben responder rápidas preguntas de trivia para evitar caer en una misteriosa trampa y llevarse el premio.",
+    "inicio": "2026-06-11T19:00:00",
+    "fin": "2026-06-11T21:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0104_ahoracaigo.jpg"
   },
   "lista": [
-    {
-      "titulo": "El mediodía",
-      "descripcion": "Una propuesta cargada de entretenimiento, juegos y una conexión directa con la calle. Este programa está conducido por el animador Daniel Fuenzalida en un espacio dinámico y cercano, donde el animador interactuará directamente con el público a través de concursos y actividades que invitarán a la audiencia a sentirse parte del programa.",
-      "inicio": "2026-06-11T03:15:00",
-      "fin": "2026-06-11T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmediodia.jpg"
-    },
-    {
-      "titulo": "Hora 24",
-      "descripcion": "Actualidad e información.",
-      "inicio": "2026-06-11T05:00:00",
-      "fin": "2026-06-11T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hora24.jpg"
-    },
-    {
-      "titulo": "Previa 24",
-      "descripcion": "Espacio matutino de noticias, con toda la información de la jornada.",
-      "inicio": "2026-06-11T05:30:00",
-      "fin": "2026-06-11T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/previa24.jpg"
-    },
-    {
-      "titulo": "24 Horas: Tu mañana",
-      "descripcion": "Informativo matinal para comenzar el día revisando las principales noticias de la jornada y el pulso de la ciudad.",
-      "inicio": "2026-06-11T06:00:00",
-      "fin": "2026-06-11T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horastumanana.jpg"
-    },
-    {
-      "titulo": "Buenos días a todos",
-      "descripcion": "El histórico y querido matinal que te acompaña diariamente con gran simpatía, reportajes sociales, utilísima información y maravillosas entrevistas, brindando la mejor y más familiar compañía matutina.",
-      "inicio": "2026-06-11T08:00:00",
-      "fin": "2026-06-11T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buenosdiasatodos.jpg"
-    },
-    {
-      "titulo": "El mediodía",
-      "descripcion": "Una propuesta cargada de entretenimiento, juegos y una conexión directa con la calle. Este programa está conducido por el animador Daniel Fuenzalida en un espacio dinámico y cercano, donde el animador interactuará directamente con el público a través de concursos y actividades que invitarán a la audiencia a sentirse parte del programa.",
-      "inicio": "2026-06-11T11:00:00",
-      "fin": "2026-06-11T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmediodia.jpg"
-    },
-    {
-      "titulo": "24 Horas al día",
-      "descripcion": "Segmento especial con un completo resumen informativo sobre política, economía, deportes y actualidad de Chile, Latinoamérica y el mundo.",
-      "inicio": "2026-06-11T13:00:00",
-      "fin": "2026-06-11T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasaldia.jpg"
-    },
-    {
-      "titulo": "Pampa ilusión",
-      "descripcion": "La hija exiliada de un empresario inglés regresa a casa, en medio de la lucha de clases entre la burguesía y el proletariado en la oficina salitrera de Humberstone, durante la aguda crisis financiera de los años treinta.",
-      "inicio": "2026-06-11T15:00:00",
-      "fin": "2026-06-11T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0104_fallback.jpg"
-    },
-    {
-      "titulo": "La promesa",
-      "descripcion": "Una mujer consigue trabajo en el palacio de La Promesa como recompensa por salvar al hijo de los marqueses, pero nadie sabe que tiene sus propios planes: vengar la muerte de su madre y encontrar a su hermano desaparecido.",
-      "inicio": "2026-06-11T16:30:00",
-      "fin": "2026-06-11T17:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapromesa.jpg"
-    },
     {
       "titulo": "Caso cerrado",
       "descripcion": "La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica. Con mediación sensata busca mantener la armonía y la paz en las relaciones personales. Resuelve en poco más de quince minutos casos que pueden tomar meses en una corte y lo hace de manera bastante equilibrada. Antes de la transmisión del espacio, ambas partes firman un acuerdo legal, jurando que se regirán por las decisiones que ella tome.",
@@ -146,6 +83,69 @@
       "inicio": "2026-06-12T03:15:00",
       "fin": "2026-06-12T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmediodia.jpg"
+    },
+    {
+      "titulo": "Hora 24",
+      "descripcion": "Actualidad e información.",
+      "inicio": "2026-06-12T05:00:00",
+      "fin": "2026-06-12T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hora24.jpg"
+    },
+    {
+      "titulo": "Previa 24",
+      "descripcion": "Espacio matutino de noticias, con toda la información de la jornada.",
+      "inicio": "2026-06-12T05:30:00",
+      "fin": "2026-06-12T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/previa24.jpg"
+    },
+    {
+      "titulo": "24 Horas: Tu mañana",
+      "descripcion": "Informativo matinal para comenzar el día revisando las principales noticias de la jornada y el pulso de la ciudad.",
+      "inicio": "2026-06-12T06:00:00",
+      "fin": "2026-06-12T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horastumanana.jpg"
+    },
+    {
+      "titulo": "Buenos días a todos",
+      "descripcion": "El histórico y querido matinal que te acompaña diariamente con gran simpatía, reportajes sociales, utilísima información y maravillosas entrevistas, brindando la mejor y más familiar compañía matutina.",
+      "inicio": "2026-06-12T08:00:00",
+      "fin": "2026-06-12T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buenosdiasatodos.jpg"
+    },
+    {
+      "titulo": "El mediodía",
+      "descripcion": "Una propuesta cargada de entretenimiento, juegos y una conexión directa con la calle. Este programa está conducido por el animador Daniel Fuenzalida en un espacio dinámico y cercano, donde el animador interactuará directamente con el público a través de concursos y actividades que invitarán a la audiencia a sentirse parte del programa.",
+      "inicio": "2026-06-12T11:00:00",
+      "fin": "2026-06-12T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmediodia.jpg"
+    },
+    {
+      "titulo": "24 Horas al día",
+      "descripcion": "Segmento especial con un completo resumen informativo sobre política, economía, deportes y actualidad de Chile, Latinoamérica y el mundo.",
+      "inicio": "2026-06-12T13:00:00",
+      "fin": "2026-06-12T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasaldia.jpg"
+    },
+    {
+      "titulo": "Pampa ilusión",
+      "descripcion": "La hija exiliada de un empresario inglés regresa a casa, en medio de la lucha de clases entre la burguesía y el proletariado en la oficina salitrera de Humberstone, durante la aguda crisis financiera de los años treinta.",
+      "inicio": "2026-06-12T15:00:00",
+      "fin": "2026-06-12T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0104_fallback.jpg"
+    },
+    {
+      "titulo": "La promesa",
+      "descripcion": "Una mujer consigue trabajo en el palacio de La Promesa como recompensa por salvar al hijo de los marqueses, pero nadie sabe que tiene sus propios planes: vengar la muerte de su madre y encontrar a su hermano desaparecido.",
+      "inicio": "2026-06-12T16:30:00",
+      "fin": "2026-06-12T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapromesa.jpg"
+    },
+    {
+      "titulo": "Caso cerrado",
+      "descripcion": "La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica. Con mediación sensata busca mantener la armonía y la paz en las relaciones personales. Resuelve en poco más de quince minutos casos que pueden tomar meses en una corte y lo hace de manera bastante equilibrada. Antes de la transmisión del espacio, ambas partes firman un acuerdo legal, jurando que se regirán por las decisiones que ella tome.",
+      "inicio": "2026-06-12T17:45:00",
+      "fin": "2026-06-12T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casocerrado.jpg"
     }
   ]
 }

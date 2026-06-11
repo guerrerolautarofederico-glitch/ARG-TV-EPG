@@ -1,75 +1,19 @@
 {
   "actual": {
-    "titulo": "PBO Noticias",
-    "descripcion": "Los hechos noticiosos más relevantes para la actualidad nacional e internacional reunidos en un solo lugar.",
-    "inicio": "2026-06-11T04:00:00",
-    "fin": "2026-06-11T05:00:00",
+    "titulo": "PBO Salud",
+    "descripcion": "Lo último en información relacionada con la salud.",
+    "inicio": "2026-06-11T17:00:00",
+    "fin": "2026-06-11T19:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Combutters",
-    "descripcion": "Desde un sótano que simula ser un centro de control y laboratorio, Philips maquinará todas sus ideas y recibirá a sus invitados.",
-    "inicio": "2026-06-11T05:00:00",
-    "fin": "2026-06-11T06:00:00",
+    "titulo": "PBO Campeonisimo",
+    "descripcion": "Un espacio para enterarte de lo mejor del deporte.",
+    "inicio": "2026-06-11T19:00:00",
+    "fin": "2026-06-11T20:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "PBO Noticias",
-      "descripcion": "Los hechos noticiosos más relevantes para la actualidad nacional e internacional reunidos en un solo lugar.",
-      "inicio": "2026-06-11T04:00:00",
-      "fin": "2026-06-11T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Combutters",
-      "descripcion": "Desde un sótano que simula ser un centro de control y laboratorio, Philips maquinará todas sus ideas y recibirá a sus invitados.",
-      "inicio": "2026-06-11T05:00:00",
-      "fin": "2026-06-11T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "PBO Noticias 5 AM",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-11T06:00:00",
-      "fin": "2026-06-11T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "PBO Noticias 6 AM",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-11T07:00:00",
-      "fin": "2026-06-11T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "PBO Noticias 9 AM",
-      "descripcion": "La información más fresca y relevante para la actualidad nacional e internacional reunida en un solo lugar.",
-      "inicio": "2026-06-11T10:00:00",
-      "fin": "2026-06-11T11:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "PBO con Chema Salcedo",
-      "descripcion": "Programa que presenta noticias, entrevistas y demás información importante.",
-      "inicio": "2026-06-11T11:05:00",
-      "fin": "2026-06-11T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Resumen de noticias",
-      "descripcion": "Una mirada a las noticias de última hora de todo tipo para el público.",
-      "inicio": "2026-06-11T15:00:00",
-      "fin": "2026-06-11T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los capos del humor",
-      "descripcion": "Recordando los momentos más divertidos del género humorístico.",
-      "inicio": "2026-06-11T15:30:00",
-      "fin": "2026-06-11T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "PBO Salud",
       "descripcion": "Lo último en información relacionada con la salud.",
@@ -138,6 +82,62 @@
       "descripcion": "Los hechos noticiosos más relevantes para la actualidad nacional e internacional reunidos en un solo lugar.",
       "inicio": "2026-06-12T04:00:00",
       "fin": "2026-06-12T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Combutters",
+      "descripcion": "Desde un sótano que simula ser un centro de control y laboratorio, Philips maquinará todas sus ideas y recibirá a sus invitados.",
+      "inicio": "2026-06-12T05:00:00",
+      "fin": "2026-06-12T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "PBO Noticias 5 AM",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-12T06:00:00",
+      "fin": "2026-06-12T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "PBO Noticias 6 AM",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-12T07:00:00",
+      "fin": "2026-06-12T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "PBO Noticias 9 AM",
+      "descripcion": "La información más fresca y relevante para la actualidad nacional e internacional reunida en un solo lugar.",
+      "inicio": "2026-06-12T10:00:00",
+      "fin": "2026-06-12T11:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "PBO con Chema Salcedo",
+      "descripcion": "Programa que presenta noticias, entrevistas y demás información importante.",
+      "inicio": "2026-06-12T11:05:00",
+      "fin": "2026-06-12T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Resumen de noticias",
+      "descripcion": "Una mirada a las noticias de última hora de todo tipo para el público.",
+      "inicio": "2026-06-12T15:00:00",
+      "fin": "2026-06-12T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los capos del humor",
+      "descripcion": "Recordando los momentos más divertidos del género humorístico.",
+      "inicio": "2026-06-12T15:30:00",
+      "fin": "2026-06-12T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "PBO Salud",
+      "descripcion": "Lo último en información relacionada con la salud.",
+      "inicio": "2026-06-12T17:00:00",
+      "fin": "2026-06-12T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

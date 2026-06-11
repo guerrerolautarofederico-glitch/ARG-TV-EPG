@@ -1,110 +1,19 @@
 {
   "actual": {
-    "titulo": "Informe T13",
-    "descripcion": "Cápsulas de la principal información de Chile.",
-    "inicio": "2026-06-11T04:00:00",
-    "fin": "2026-06-11T05:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informet13.jpg"
+    "titulo": "En Vivo",
+    "descripcion": "La información de este programa no se encuentra disponible.",
+    "inicio": "2026-06-11T16:30:00",
+    "fin": "2026-06-11T18:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Infórmate en un 3x3",
-    "descripcion": "Programa informativo que presenta las noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama.",
-    "inicio": "2026-06-11T05:00:00",
-    "fin": "2026-06-11T06:00:00",
+    "titulo": "Raya para la suma",
+    "descripcion": "La información de este programa no se encuentra disponible.",
+    "inicio": "2026-06-11T18:00:00",
+    "fin": "2026-06-11T18:15:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Informe T13",
-      "descripcion": "Cápsulas de la principal información de Chile.",
-      "inicio": "2026-06-11T04:00:00",
-      "fin": "2026-06-11T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informet13.jpg"
-    },
-    {
-      "titulo": "Infórmate en un 3x3",
-      "descripcion": "Programa informativo que presenta las noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama.",
-      "inicio": "2026-06-11T05:00:00",
-      "fin": "2026-06-11T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
-    },
-    {
-      "titulo": "Teletrece AM",
-      "descripcion": "Informativo matinal con la revisión de las noticias más relevantes de las últimas horas. Además el programa incluye despachos en directo y entrevistas a personajes relevantes del acontecer nacional. Un equipo de periodistas analiza en profundidad los acontecimientos para que el público se informe de la forma más completa.",
-      "inicio": "2026-06-11T06:00:00",
-      "fin": "2026-06-11T07:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletreceam.jpg"
-    },
-    {
-      "titulo": "Conversaciones T13",
-      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-      "inicio": "2026-06-11T07:50:00",
-      "fin": "2026-06-11T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
-    },
-    {
-      "titulo": "La mañana en vivo",
-      "descripcion": "Las noticias y los temas que marcan la pauta informativa desde una mirada más cercana, para comenzar el día con toda la información.",
-      "inicio": "2026-06-11T08:00:00",
-      "fin": "2026-06-11T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananaenvivo.jpg"
-    },
-    {
-      "titulo": "Conversaciones T13",
-      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-      "inicio": "2026-06-11T09:30:00",
-      "fin": "2026-06-11T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
-    },
-    {
-      "titulo": "Vivo AM",
-      "descripcion": "Un programa con la mejor información de actualidad, las novedades deportivas y un toque de buen humor.",
-      "inicio": "2026-06-11T10:00:00",
-      "fin": "2026-06-11T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
-    },
-    {
-      "titulo": "Hablemos a las 12",
-      "descripcion": "Programa de noticias con la información actualizada de los hechos más importantes.",
-      "inicio": "2026-06-11T12:00:00",
-      "fin": "2026-06-11T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hablemosalas12.jpg"
-    },
-    {
-      "titulo": "Entretiempo",
-      "descripcion": "Espacio donde se habla de los mejores goles, hay resúmenes de partidos y toda la emoción del mundo de los deportes.",
-      "inicio": "2026-06-11T12:30:00",
-      "fin": "2026-06-11T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
-    },
-    {
-      "titulo": "Teletrece tarde",
-      "descripcion": "Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.",
-      "inicio": "2026-06-11T13:00:00",
-      "fin": "2026-06-11T14:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-06-11T14:50:00",
-      "fin": "2026-06-11T15:08:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_eltiempo.jpg"
-    },
-    {
-      "titulo": "La tarde es nuestra",
-      "descripcion": "Un espacio con un estilo de periodismo ciudadano que profundizará en los temas reales y cotidianos que preocupan y afectan a todos los habitantes de Chile.",
-      "inicio": "2026-06-11T15:08:00",
-      "fin": "2026-06-11T16:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/latardeesnuestra.jpg"
-    },
-    {
-      "titulo": "Conversaciones T13",
-      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-      "inicio": "2026-06-11T16:10:00",
-      "fin": "2026-06-11T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
-    },
     {
       "titulo": "En Vivo",
       "descripcion": "La información de este programa no se encuentra disponible.",
@@ -209,6 +118,104 @@
       "inicio": "2026-06-12T04:30:00",
       "fin": "2026-06-12T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informet13.jpg"
+    },
+    {
+      "titulo": "Infórmate en un 3x3",
+      "descripcion": "Programa informativo que presenta las noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama.",
+      "inicio": "2026-06-12T05:00:00",
+      "fin": "2026-06-12T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
+    },
+    {
+      "titulo": "Teletrece AM",
+      "descripcion": "Informativo matinal con la revisión de las noticias más relevantes de las últimas horas. Además el programa incluye despachos en directo y entrevistas a personajes relevantes del acontecer nacional. Un equipo de periodistas analiza en profundidad los acontecimientos para que el público se informe de la forma más completa.",
+      "inicio": "2026-06-12T06:00:00",
+      "fin": "2026-06-12T07:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletreceam.jpg"
+    },
+    {
+      "titulo": "Conversaciones T13",
+      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
+      "inicio": "2026-06-12T07:50:00",
+      "fin": "2026-06-12T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
+    },
+    {
+      "titulo": "La mañana en vivo",
+      "descripcion": "Las noticias y los temas que marcan la pauta informativa desde una mirada más cercana, para comenzar el día con toda la información.",
+      "inicio": "2026-06-12T08:00:00",
+      "fin": "2026-06-12T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananaenvivo.jpg"
+    },
+    {
+      "titulo": "Conversaciones T13",
+      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
+      "inicio": "2026-06-12T09:30:00",
+      "fin": "2026-06-12T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
+    },
+    {
+      "titulo": "Vivo AM",
+      "descripcion": "Un programa con la mejor información de actualidad, las novedades deportivas y un toque de buen humor.",
+      "inicio": "2026-06-12T10:00:00",
+      "fin": "2026-06-12T11:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
+    },
+    {
+      "titulo": "Conversaciones T13",
+      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
+      "inicio": "2026-06-12T11:20:00",
+      "fin": "2026-06-12T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
+    },
+    {
+      "titulo": "En primera fila",
+      "descripcion": "Recopilación de noticias relacionadas al espectáculo.",
+      "inicio": "2026-06-12T11:30:00",
+      "fin": "2026-06-12T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enprimerafila.jpg"
+    },
+    {
+      "titulo": "Entretiempo",
+      "descripcion": "Espacio donde se habla de los mejores goles, hay resúmenes de partidos y toda la emoción del mundo de los deportes.",
+      "inicio": "2026-06-12T12:30:00",
+      "fin": "2026-06-12T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
+    },
+    {
+      "titulo": "Teletrece tarde",
+      "descripcion": "Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.",
+      "inicio": "2026-06-12T13:00:00",
+      "fin": "2026-06-12T14:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Toda la informacion meteorológica del país.",
+      "inicio": "2026-06-12T14:50:00",
+      "fin": "2026-06-12T15:08:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_eltiempo.jpg"
+    },
+    {
+      "titulo": "La tarde es nuestra",
+      "descripcion": "Un espacio con un estilo de periodismo ciudadano que profundizará en los temas reales y cotidianos que preocupan y afectan a todos los habitantes de Chile.",
+      "inicio": "2026-06-12T15:08:00",
+      "fin": "2026-06-12T16:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/latardeesnuestra.jpg"
+    },
+    {
+      "titulo": "Conversaciones T13",
+      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
+      "inicio": "2026-06-12T16:10:00",
+      "fin": "2026-06-12T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
+    },
+    {
+      "titulo": "En Vivo",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-12T16:30:00",
+      "fin": "2026-06-12T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
     }
   ]
 }

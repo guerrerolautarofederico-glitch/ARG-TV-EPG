@@ -1,131 +1,19 @@
 {
   "actual": {
-    "titulo": "Trasnoche",
-    "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
-    "inicio": "2026-06-11T04:10:00",
-    "fin": "2026-06-11T05:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_trasnoche.jpg"
+    "titulo": "Podría ser otra cosa",
+    "descripcion": "Información y conversación con el sello de Bío Bío. Un espacio para analizar la contingencia, escuchar las entrevistas que marcan pauta y profundizar en los temas que hoy son noticia en Chile.",
+    "inicio": "2026-06-11T17:10:00",
+    "fin": "2026-06-11T18:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/podriaserotracosa.jpg"
   },
   "siguiente": {
-    "titulo": "El Informador",
-    "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-    "inicio": "2026-06-11T05:00:00",
-    "fin": "2026-06-11T05:10:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    "titulo": "Radiograma Vespertino",
+    "descripcion": "El balance informativo de la jornada con análisis a fondo y contexto. Una revisión detallada de las noticias del momento para entender la realidad política, social y económica del país.",
+    "inicio": "2026-06-11T18:00:00",
+    "fin": "2026-06-11T20:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiogramavespertino.jpg"
   },
   "lista": [
-    {
-      "titulo": "Trasnoche",
-      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
-      "inicio": "2026-06-11T04:10:00",
-      "fin": "2026-06-11T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_trasnoche.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-06-11T05:00:00",
-      "fin": "2026-06-11T05:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "Trasnoche",
-      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
-      "inicio": "2026-06-11T05:10:00",
-      "fin": "2026-06-11T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_trasnoche.jpg"
-    },
-    {
-      "titulo": "Radiograma Matinal",
-      "descripcion": "Empezando el día informados sobre las noticias del momento sobre política, economía, tiempo, cultura, deporte, transporte, noticias del mundo y más.",
-      "inicio": "2026-06-11T06:00:00",
-      "fin": "2026-06-11T10:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiogramamatinal.jpg"
-    },
-    {
-      "titulo": "Expreso Bio Bio",
-      "descripcion": "El pulso de la mañana con la rapidez de Bío Bío. Noticias en desarrollo, entrevistas a los protagonistas y el análisis ciudadano de la contingencia para que comiences el día totalmente informado.",
-      "inicio": "2026-06-11T10:15:00",
-      "fin": "2026-06-11T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobio.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-06-11T11:00:00",
-      "fin": "2026-06-11T11:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "Expreso Bio Bio",
-      "descripcion": "El pulso de la mañana con la rapidez de Bío Bío. Noticias en desarrollo, entrevistas a los protagonistas y el análisis ciudadano de la contingencia para que comiences el día totalmente informado.",
-      "inicio": "2026-06-11T11:10:00",
-      "fin": "2026-06-11T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobio.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-06-11T12:00:00",
-      "fin": "2026-06-11T12:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "Expreso Bio Bio",
-      "descripcion": "El pulso de la mañana con la rapidez de Bío Bío. Noticias en desarrollo, entrevistas a los protagonistas y el análisis ciudadano de la contingencia para que comiences el día totalmente informado.",
-      "inicio": "2026-06-11T12:10:00",
-      "fin": "2026-06-11T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobio.jpg"
-    },
-    {
-      "titulo": "Radiograma Mediodía",
-      "descripcion": "Radiograma Mediodía te mantiene completamente informado sobre las noticias de actualidad más importantes, las cuales se han ido desarrollando durante el día.",
-      "inicio": "2026-06-11T13:00:00",
-      "fin": "2026-06-11T14:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiogramamediodia.jpg"
-    },
-    {
-      "titulo": "Expreso Pm",
-      "descripcion": "Un punto de encuentro para la cultura y el entretenimiento. Descubre lo mejor del deporte y la actualidad mediante entrevistas exclusivas y la voz de nuestros auditores. ¡Tu opinión es la noticia!.",
-      "inicio": "2026-06-11T14:15:00",
-      "fin": "2026-06-11T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobio.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-06-11T15:00:00",
-      "fin": "2026-06-11T15:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "Expreso Pm",
-      "descripcion": "Un punto de encuentro para la cultura y el entretenimiento. Descubre lo mejor del deporte y la actualidad mediante entrevistas exclusivas y la voz de nuestros auditores. ¡Tu opinión es la noticia!.",
-      "inicio": "2026-06-11T15:15:00",
-      "fin": "2026-06-11T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobio.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-06-11T16:00:00",
-      "fin": "2026-06-11T16:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "Podría ser otra cosa",
-      "descripcion": "Información y conversación con el sello de Bío Bío. Un espacio para analizar la contingencia, escuchar las entrevistas que marcan pauta y profundizar en los temas que hoy son noticia en Chile.",
-      "inicio": "2026-06-11T16:10:00",
-      "fin": "2026-06-11T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/podriaserotracosa.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-06-11T17:00:00",
-      "fin": "2026-06-11T17:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
     {
       "titulo": "Podría ser otra cosa",
       "descripcion": "Información y conversación con el sello de Bío Bío. Un espacio para analizar la contingencia, escuchar las entrevistas que marcan pauta y profundizar en los temas que hoy son noticia en Chile.",
@@ -293,6 +181,118 @@
       "inicio": "2026-06-12T04:10:00",
       "fin": "2026-06-12T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_trasnoche.jpg"
+    },
+    {
+      "titulo": "El Informador",
+      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
+      "inicio": "2026-06-12T05:00:00",
+      "fin": "2026-06-12T05:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "Trasnoche",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-06-12T05:10:00",
+      "fin": "2026-06-12T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_trasnoche.jpg"
+    },
+    {
+      "titulo": "Radiograma Matinal",
+      "descripcion": "Empezando el día informados sobre las noticias del momento sobre política, economía, tiempo, cultura, deporte, transporte, noticias del mundo y más.",
+      "inicio": "2026-06-12T06:00:00",
+      "fin": "2026-06-12T10:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiogramamatinal.jpg"
+    },
+    {
+      "titulo": "Expreso Bio Bio",
+      "descripcion": "El pulso de la mañana con la rapidez de Bío Bío. Noticias en desarrollo, entrevistas a los protagonistas y el análisis ciudadano de la contingencia para que comiences el día totalmente informado.",
+      "inicio": "2026-06-12T10:15:00",
+      "fin": "2026-06-12T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobio.jpg"
+    },
+    {
+      "titulo": "El Informador",
+      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
+      "inicio": "2026-06-12T11:00:00",
+      "fin": "2026-06-12T11:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "Expreso Bio Bio",
+      "descripcion": "El pulso de la mañana con la rapidez de Bío Bío. Noticias en desarrollo, entrevistas a los protagonistas y el análisis ciudadano de la contingencia para que comiences el día totalmente informado.",
+      "inicio": "2026-06-12T11:10:00",
+      "fin": "2026-06-12T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobio.jpg"
+    },
+    {
+      "titulo": "El Informador",
+      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
+      "inicio": "2026-06-12T12:00:00",
+      "fin": "2026-06-12T12:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "Expreso Bio Bio",
+      "descripcion": "El pulso de la mañana con la rapidez de Bío Bío. Noticias en desarrollo, entrevistas a los protagonistas y el análisis ciudadano de la contingencia para que comiences el día totalmente informado.",
+      "inicio": "2026-06-12T12:10:00",
+      "fin": "2026-06-12T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobio.jpg"
+    },
+    {
+      "titulo": "Radiograma Mediodía",
+      "descripcion": "Radiograma Mediodía te mantiene completamente informado sobre las noticias de actualidad más importantes, las cuales se han ido desarrollando durante el día.",
+      "inicio": "2026-06-12T13:00:00",
+      "fin": "2026-06-12T14:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiogramamediodia.jpg"
+    },
+    {
+      "titulo": "Expreso Pm",
+      "descripcion": "Un punto de encuentro para la cultura y el entretenimiento. Descubre lo mejor del deporte y la actualidad mediante entrevistas exclusivas y la voz de nuestros auditores. ¡Tu opinión es la noticia!.",
+      "inicio": "2026-06-12T14:15:00",
+      "fin": "2026-06-12T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobio.jpg"
+    },
+    {
+      "titulo": "El Informador",
+      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
+      "inicio": "2026-06-12T15:00:00",
+      "fin": "2026-06-12T15:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "Expreso Pm",
+      "descripcion": "Un punto de encuentro para la cultura y el entretenimiento. Descubre lo mejor del deporte y la actualidad mediante entrevistas exclusivas y la voz de nuestros auditores. ¡Tu opinión es la noticia!.",
+      "inicio": "2026-06-12T15:15:00",
+      "fin": "2026-06-12T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobio.jpg"
+    },
+    {
+      "titulo": "El Informador",
+      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
+      "inicio": "2026-06-12T16:00:00",
+      "fin": "2026-06-12T16:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "Podría ser otra cosa",
+      "descripcion": "Información y conversación con el sello de Bío Bío. Un espacio para analizar la contingencia, escuchar las entrevistas que marcan pauta y profundizar en los temas que hoy son noticia en Chile.",
+      "inicio": "2026-06-12T16:10:00",
+      "fin": "2026-06-12T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/podriaserotracosa.jpg"
+    },
+    {
+      "titulo": "El Informador",
+      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
+      "inicio": "2026-06-12T17:00:00",
+      "fin": "2026-06-12T17:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "Podría ser otra cosa",
+      "descripcion": "Información y conversación con el sello de Bío Bío. Un espacio para analizar la contingencia, escuchar las entrevistas que marcan pauta y profundizar en los temas que hoy son noticia en Chile.",
+      "inicio": "2026-06-12T17:10:00",
+      "fin": "2026-06-12T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/podriaserotracosa.jpg"
     }
   ]
 }
