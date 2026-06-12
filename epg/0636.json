@@ -1,145 +1,19 @@
 {
   "actual": {
-    "titulo": "La promesa",
-    "descripcion": "Una mujer consigue trabajo en el palacio de La Promesa como recompensa por salvar al hijo de los marqueses, pero nadie sabe que tiene sus propios planes: vengar la muerte de su madre y encontrar a su hermano desaparecido.",
-    "inicio": "2026-06-11T17:35:00",
-    "fin": "2026-06-11T18:40:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapromesa.jpg"
+    "titulo": "Cifras y letras",
+    "descripcion": "Concurso cuyas pruebas deben superarse jugando con cifras y letras, donde en cada entrega, los concursantes luchan por llevarse el gran premio acumulado.",
+    "inicio": "2026-06-12T16:15:00",
+    "fin": "2026-06-12T16:45:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Un país mágico • Cantabria",
-    "descripcion": "Cantabria ║ Un recorrido por Cantabria, donde se visita el palacio preferido del rey Alfonso XIII; se descubren los secretos de uno de los taquillazos del cine español y se hace una visita por Santander.",
-    "inicio": "2026-06-11T18:40:00",
-    "fin": "2026-06-11T20:00:00",
+    "titulo": "Valle Salvaje",
+    "descripcion": "Tras la muerte de su padre, la joven Adriana descubre que, como consecuencia de un pacto secreto, deberá viajar hasta Valle Salvaje, en el norte de España, para casarse con un desconocido, pero un oscuro secreto la persigue hasta el remoto valle.",
+    "inicio": "2026-06-12T16:45:00",
+    "fin": "2026-06-12T17:35:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "La promesa",
-      "descripcion": "Una mujer consigue trabajo en el palacio de La Promesa como recompensa por salvar al hijo de los marqueses, pero nadie sabe que tiene sus propios planes: vengar la muerte de su madre y encontrar a su hermano desaparecido.",
-      "inicio": "2026-06-11T17:35:00",
-      "fin": "2026-06-11T18:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapromesa.jpg"
-    },
-    {
-      "titulo": "Un país mágico • Cantabria",
-      "descripcion": "Cantabria ║ Un recorrido por Cantabria, donde se visita el palacio preferido del rey Alfonso XIII; se descubren los secretos de uno de los taquillazos del cine español y se hace una visita por Santander.",
-      "inicio": "2026-06-11T18:40:00",
-      "fin": "2026-06-11T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TD Internacional",
-      "descripcion": "Espacio donde se presentan las noticias nacionales e internacionales.",
-      "inicio": "2026-06-11T20:00:00",
-      "fin": "2026-06-11T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La revuelta",
-      "descripcion": "David Broncano entrevista de forma impredecible a gente famosa en el teatro Príncipe Gran Vía de Madrid.",
-      "inicio": "2026-06-11T20:30:00",
-      "fin": "2026-06-11T21:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El perro andaluz by Manu Sánchez",
-      "descripcion": "Una apuesta televisiva que combina humor, música, actualidad, entrevistas y reflexión social desde una mirada contemporánea.",
-      "inicio": "2026-06-11T21:45:00",
-      "fin": "2026-06-11T23:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Operación África",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-11T23:05:00",
-      "fin": "2026-06-12T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Telediario Matinal",
-      "descripcion": "Rápido y exhaustivo repaso de todas las noticias de interés general, tanto nacionales como internacionales y deportivas, la información de la bolsa y sorteos.",
-      "inicio": "2026-06-12T01:30:00",
-      "fin": "2026-06-12T01:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La hora de la 1",
-      "descripcion": "Programa con información sobre temas variados ligados a la actualidad, desde política hasta sociedad.",
-      "inicio": "2026-06-12T01:50:00",
-      "fin": "2026-06-12T09:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La hora de la 1",
-      "descripcion": "Programa con información sobre temas variados ligados a la actualidad, desde política hasta sociedad.",
-      "inicio": "2026-06-12T09:50:00",
-      "fin": "2026-06-12T10:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Directo Al Grano",
-      "descripcion": "Información sobre la agro industria.",
-      "inicio": "2026-06-12T10:15:00",
-      "fin": "2026-06-12T11:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/directoalgrano.jpg"
-    },
-    {
-      "titulo": "Las rutas de Ambrosio • Granada",
-      "descripcion": "Granada ║ El chef llega hasta Granada, ciudad de cimientos nazaríes y cuna de la zambra. De su combinación de culturas resulta no solo un bello paisaje arquitectónico, sino un olor y un sabor muy especiales.",
-      "inicio": "2026-06-12T11:45:00",
-      "fin": "2026-06-12T12:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Saber y ganar",
-      "descripcion": "Concursos que ponen a prueba los conocimientos y agilidad mental a través de un auténtico bombardeo de preguntas de ámbito general.",
-      "inicio": "2026-06-12T12:40:00",
-      "fin": "2026-06-12T13:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Malas lenguas",
-      "descripcion": "Espacio de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales. Las herramientas de verificación ofrecen un análisis detallado de titulares, declaraciones e imágenes.",
-      "inicio": "2026-06-12T13:35:00",
-      "fin": "2026-06-12T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Turismo rural en el mundo • Barcelona",
-      "descripcion": "Barcelona ║ En el noreste de España se descubre una provincia de grandes macizos montañosos y majestuosas cordilleras. De vastos bosques y ríos caudalosos.",
-      "inicio": "2026-06-12T14:00:00",
-      "fin": "2026-06-12T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Teledeporte, Directo Al Mundial",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-12T14:30:00",
-      "fin": "2026-06-12T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias 24h",
-      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-      "inicio": "2026-06-12T15:00:00",
-      "fin": "2026-06-12T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Informe semanal",
-      "descripcion": "Programa de reportajes de actualidad nacional, internacional, cultura, sociedad y deportes.",
-      "inicio": "2026-06-12T15:30:00",
-      "fin": "2026-06-12T15:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cifras y letras",
-      "descripcion": "Concurso cuyas pruebas deben superarse jugando con cifras y letras, donde en cada entrega, los concursantes luchan por llevarse el gran premio acumulado.",
-      "inicio": "2026-06-12T15:45:00",
-      "fin": "2026-06-12T16:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Cifras y letras",
       "descripcion": "Concurso cuyas pruebas deben superarse jugando con cifras y letras, donde en cada entrega, los concursantes luchan por llevarse el gran premio acumulado.",
@@ -160,6 +34,181 @@
       "inicio": "2026-06-12T17:35:00",
       "fin": "2026-06-12T18:40:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapromesa.jpg"
+    },
+    {
+      "titulo": "Sukha",
+      "descripcion": "Un espacio dedicado a la exploración de la cultura, la salud y el bienestar a través del debate.",
+      "inicio": "2026-06-12T18:40:00",
+      "fin": "2026-06-12T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Turismo rural en el mundo • Barcelona",
+      "descripcion": "Barcelona ║ En el noreste de España se descubre una provincia de grandes macizos montañosos y majestuosas cordilleras. De vastos bosques y ríos caudalosos.",
+      "inicio": "2026-06-12T19:15:00",
+      "fin": "2026-06-12T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TD Internacional",
+      "descripcion": "Espacio donde se presentan las noticias nacionales e internacionales.",
+      "inicio": "2026-06-12T20:00:00",
+      "fin": "2026-06-12T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La suerte en tus manos",
+      "descripcion": "Se hace un análisis de los juegos de loterías y apuestas del Estado, y se retransmite el sorteo de Bonoloto y de Euromillones del viernes.",
+      "inicio": "2026-06-12T20:30:00",
+      "fin": "2026-06-12T20:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Barrio Esperanza",
+      "descripcion": "Tras cumplir ocho años de injusta prisión, Esperanza intenta rehacer su vida enseñando en la humilde escuela de su antiguo barrio, enfrentando los prejuicios de su comunidad.",
+      "inicio": "2026-06-12T20:35:00",
+      "fin": "2026-06-12T21:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Me meto en un jardín",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-12T21:50:00",
+      "fin": "2026-06-12T22:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Me meto en un jardín",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-12T22:40:00",
+      "fin": "2026-06-12T23:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El perro andaluz by Manu Sánchez",
+      "descripcion": "Una apuesta televisiva que combina humor, música, actualidad, entrevistas y reflexión social desde una mirada contemporánea.",
+      "inicio": "2026-06-12T23:45:00",
+      "fin": "2026-06-13T01:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sukha",
+      "descripcion": "Un espacio dedicado a la exploración de la cultura, la salud y el bienestar a través del debate.",
+      "inicio": "2026-06-13T01:15:00",
+      "fin": "2026-06-13T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias 24h",
+      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
+      "inicio": "2026-06-13T02:00:00",
+      "fin": "2026-06-13T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Flash moda",
+      "descripcion": "Una revista informativa sobre el mundo de la moda presentado por Nieves Álvarez.",
+      "inicio": "2026-06-13T06:00:00",
+      "fin": "2026-06-13T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Imprescindibles",
+      "descripcion": "Conociendo las distintas personalidades a través de varios testimonios.",
+      "inicio": "2026-06-13T06:30:00",
+      "fin": "2026-06-13T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tenderete",
+      "descripcion": "Un programa que reúne a grupos y artistas amateurs que interpretan canciones populares de las Islas Canarias.",
+      "inicio": "2026-06-13T07:30:00",
+      "fin": "2026-06-13T08:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telediario 1ª edición",
+      "descripcion": "Espacio de información audiovisual que hace un repaso diario a la actualidad general de España y el mundo.",
+      "inicio": "2026-06-13T08:55:00",
+      "fin": "2026-06-13T09:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Teledeporte, Directo Al Mundial",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-13T09:25:00",
+      "fin": "2026-06-13T09:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Página dos",
+      "descripcion": "Espacio que acerca a las pantallas el mundo de la literatura, con entrevistas a escritores, recomendaciones y promoción de lanzamientos editoriales.",
+      "inicio": "2026-06-13T09:55:00",
+      "fin": "2026-06-13T10:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El escarabajo verde",
+      "descripcion": "Un magacín sobre la ecología y el medio ambiente, que se centra en la relación que el hombre establece con el planeta mostrando un punto de vista informativo y analizando temas actuales.",
+      "inicio": "2026-06-13T10:25:00",
+      "fin": "2026-06-13T10:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Será anunciado",
+      "descripcion": "Programación que se anunciará.",
+      "inicio": "2026-06-13T10:55:00",
+      "fin": "2026-06-13T11:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Audiencia Abierta",
+      "descripcion": "Programa que da a conocer las competencias, el funcionamiento y la acción cotidiana del Jefe del Estado, el Rey Felipe VI, en España.",
+      "inicio": "2026-06-13T11:45:00",
+      "fin": "2026-06-13T12:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "D corazón",
+      "descripcion": "Un repaso a toda la actualidad social de España.",
+      "inicio": "2026-06-13T12:20:00",
+      "fin": "2026-06-13T14:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Saber y ganar - Fin de semana",
+      "descripcion": "Concursos que ponen a prueba los conocimientos y agilidad mental a través de un auténtico bombardeo de preguntas de ámbito general.",
+      "inicio": "2026-06-13T14:10:00",
+      "fin": "2026-06-13T14:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telediario 2",
+      "descripcion": "Telediario con la información más importante de España y del mundo, al momento.",
+      "inicio": "2026-06-13T14:55:00",
+      "fin": "2026-06-13T15:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Deportes",
+      "descripcion": "La actualidad deportiva del día en el mundo con los periodistas de France 24, en una revista ilustrada desde los terrenos de juego y fuera de ellos.",
+      "inicio": "2026-06-13T15:25:00",
+      "fin": "2026-06-13T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Informe semanal",
+      "descripcion": "Programa de reportajes de actualidad nacional, internacional, cultura, sociedad y deportes.",
+      "inicio": "2026-06-13T15:30:00",
+      "fin": "2026-06-13T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "MasterChef",
+      "descripcion": "El más entretenido concurso de cocina para principiantes donde los chefs deberán crear los más deliciosos platillos para convencer a un jurado calificador.",
+      "inicio": "2026-06-13T16:00:00",
+      "fin": "2026-06-13T18:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
