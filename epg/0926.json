@@ -1,166 +1,19 @@
 {
   "actual": {
-    "titulo": "Agenda",
-    "descripcion": "Espacio informativo que detalla los eventos políticos, culturales y económicos más importantes que marcarán el ritmo noticioso de la jornada a nivel nacional.",
-    "inicio": "2026-06-12T16:00:00",
-    "fin": "2026-06-12T18:00:00",
+    "titulo": "El mundial de la jineteada",
+    "descripcion": "Transmisión de la edición número 49 del Festival Nacional de Jineteada y Folclore.",
+    "inicio": "2026-06-13T12:00:00",
+    "fin": "2026-06-13T12:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Ana Paula TV",
-    "descripcion": "Un magazine dinámico donde se analizan las últimas tendencias en moda, salud, tecnología y espectáculos, ofreciendo debates enriquecedores sobre temas de gran interés actual.",
-    "inicio": "2026-06-12T18:00:00",
-    "fin": "2026-06-12T18:30:00",
+    "titulo": "A toda costa",
+    "descripcion": "Un espectacular recorrido turístico por los destinos más hermosos de Argentina, destacando sus paradisíacos paisajes y las emocionantes actividades náuticas de la región.",
+    "inicio": "2026-06-13T12:30:00",
+    "fin": "2026-06-13T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Agenda",
-      "descripcion": "Espacio informativo que detalla los eventos políticos, culturales y económicos más importantes que marcarán el ritmo noticioso de la jornada a nivel nacional.",
-      "inicio": "2026-06-12T16:00:00",
-      "fin": "2026-06-12T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ana Paula TV",
-      "descripcion": "Un magazine dinámico donde se analizan las últimas tendencias en moda, salud, tecnología y espectáculos, ofreciendo debates enriquecedores sobre temas de gran interés actual.",
-      "inicio": "2026-06-12T18:00:00",
-      "fin": "2026-06-12T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Me gusta TV",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-12T18:30:00",
-      "fin": "2026-06-12T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Estudio 360",
-      "descripcion": "Manténgase informado de todo el acontecer local, nacional e internacional.",
-      "inicio": "2026-06-12T19:00:00",
-      "fin": "2026-06-12T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pronóstico reservado",
-      "descripcion": "Espacio en vivo de entretenimiento y entrevistas.",
-      "inicio": "2026-06-12T21:00:00",
-      "fin": "2026-06-12T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A toda costa",
-      "descripcion": "Un espectacular recorrido turístico por los destinos más hermosos de Argentina, destacando sus paradisíacos paisajes y las emocionantes actividades náuticas de la región.",
-      "inicio": "2026-06-12T22:00:00",
-      "fin": "2026-06-12T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El viajero",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-12T22:30:00",
-      "fin": "2026-06-12T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Festival - Variar",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-12T23:00:00",
-      "fin": "2026-06-13T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tradición y cultura",
-      "descripcion": "Disfruta de un espacio en el que se trata la información referente a la tradición equina paraguaya.",
-      "inicio": "2026-06-13T04:00:00",
-      "fin": "2026-06-13T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Raíces salteñas",
-      "descripcion": "Espacio tradicionalista, conducido por Carlos López Vélez, en el cual se expresa e inculca el respeto por los símbolos patrios y el cuidado de las tradiciones de la tierra mediante entrevistas, reportajes e informes.",
-      "inicio": "2026-06-13T05:00:00",
-      "fin": "2026-06-13T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Chamameceros, sangre nueva",
-      "descripcion": "Programa de música regional donde el canto y la danza se entrelazan con la sangre nueva para difundir el sentimiento de toda una región.",
-      "inicio": "2026-06-13T06:00:00",
-      "fin": "2026-06-13T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Semanario de noticias",
-      "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
-      "inicio": "2026-06-13T06:30:00",
-      "fin": "2026-06-13T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Amigos del campo",
-      "descripcion": "Espacio agrícola que conecta al público con la realidad rural, presentando interesantes entrevistas e información comercial útil para los trabajadores y productores de la zona.",
-      "inicio": "2026-06-13T07:00:00",
-      "fin": "2026-06-13T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Entre mates y guitarras",
-      "descripcion": "Con la conducción de Eduardo Monteverde, llega este espacio que busca resaltar lo mejor de la música uruguaya y artiguista.",
-      "inicio": "2026-06-13T07:30:00",
-      "fin": "2026-06-13T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Actividad productiva",
-      "descripcion": "Dinámico programa de entrenamiento que combina movimientos de artes marciales y ejercicios aeróbicos al ritmo de la música, ideal para quemar calorías y liberar estrés.",
-      "inicio": "2026-06-13T08:30:00",
-      "fin": "2026-06-13T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lo nuestro",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-13T09:00:00",
-      "fin": "2026-06-13T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mercosur y el campo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-13T09:30:00",
-      "fin": "2026-06-13T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mundo aéreo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-13T10:00:00",
-      "fin": "2026-06-13T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Relato de viajero",
-      "descripcion": "Disfruta de estos recorridos llenos de aventura por el territorio argentino y el mundo.",
-      "inicio": "2026-06-13T10:30:00",
-      "fin": "2026-06-13T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Desde la patria chica",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-13T11:00:00",
-      "fin": "2026-06-13T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Litoral del mi gente",
-      "descripcion": "Programa cultural que se caracteriza por mostrar la cultura, las costumbres y las historias de la gente de las provincias del Litoral con grabaciones en distintas localidades como Jujuy.",
-      "inicio": "2026-06-13T11:30:00",
-      "fin": "2026-06-13T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "El mundial de la jineteada",
       "descripcion": "Transmisión de la edición número 49 del Festival Nacional de Jineteada y Folclore.",
@@ -229,6 +82,181 @@
       "descripcion": "Virginia Acosta nos invita a recorrer la provincia de Corrientes, ciudad por ciudad.",
       "inicio": "2026-06-13T16:30:00",
       "fin": "2026-06-13T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Desde las gateras",
+      "descripcion": "Espacio hípico que trae los detalles de las competiciones de caballos. Los premios, los participantes y el desarrollo de los torneos los encontrarás aquí.",
+      "inicio": "2026-06-13T17:00:00",
+      "fin": "2026-06-13T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Estancias y tradiciones",
+      "descripcion": "Espacio que revaloriza la historia de las tierras de San Luis, conociendo sus familias tradicionales y sus campos.",
+      "inicio": "2026-06-13T17:30:00",
+      "fin": "2026-06-13T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Folklore y tradición",
+      "descripcion": "Espacio enfocado en las tradiciones argentinas. Cada provincia es expuesta desde sus costumbres; además, te presentamos los festivales más importantes de cada localidad para que conozcas Argentina desde adentro.",
+      "inicio": "2026-06-13T18:00:00",
+      "fin": "2026-06-13T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La juntada",
+      "descripcion": "Un espacio en el que se generan diversos debates, y sus participantes son millennials y centennials.",
+      "inicio": "2026-06-13T18:30:00",
+      "fin": "2026-06-13T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El viajero",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-13T19:00:00",
+      "fin": "2026-06-13T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Amigos al volante",
+      "descripcion": "Acompaña a un divertido grupo de conductores mientras recorren rutas sorprendentes, compartiendo su pasión por los motores, anécdotas y mucha camaradería.",
+      "inicio": "2026-06-13T19:30:00",
+      "fin": "2026-06-13T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Musicalisimo",
+      "descripcion": "Lo mejor de la música popular. Información de eventos, la movida, entrevistas a famosos, y diferentes notas sobre el acontecer nacional.",
+      "inicio": "2026-06-13T20:00:00",
+      "fin": "2026-06-13T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Festival - Variar",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-13T21:00:00",
+      "fin": "2026-06-13T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Todo al toque",
+      "descripcion": "Show de espectáculos, música, turismo, entretenimiento, carnaval, entre otros temas. De la mano de Fabian Battaglia, para todo el público argentino y fuera de sus fronteras.",
+      "inicio": "2026-06-13T23:00:00",
+      "fin": "2026-06-13T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Festival - Variar",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-13T23:30:00",
+      "fin": "2026-06-14T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Entre mates y guitarras",
+      "descripcion": "Con la conducción de Eduardo Monteverde, llega este espacio que busca resaltar lo mejor de la música uruguaya y artiguista.",
+      "inicio": "2026-06-14T04:00:00",
+      "fin": "2026-06-14T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lo nuestro",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-14T05:00:00",
+      "fin": "2026-06-14T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Amigos del campo",
+      "descripcion": "Espacio agrícola que conecta al público con la realidad rural, presentando interesantes entrevistas e información comercial útil para los trabajadores y productores de la zona.",
+      "inicio": "2026-06-14T05:30:00",
+      "fin": "2026-06-14T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Punto de referencia",
+      "descripcion": "Agustín y Rafael González te invitan a este espacio dedicado a llevarte la actualidad de la ciudad más antigua del nordeste de Argentina, Corrientes. Un segmento variado de opinión en el que te enterarás de diversos temas que conciernen a esta localidad.",
+      "inicio": "2026-06-14T06:00:00",
+      "fin": "2026-06-14T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Desde la patria chica",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-14T06:30:00",
+      "fin": "2026-06-14T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tradición y cultura",
+      "descripcion": "Disfruta de un espacio en el que se trata la información referente a la tradición equina paraguaya.",
+      "inicio": "2026-06-14T07:00:00",
+      "fin": "2026-06-14T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Semanario de noticias",
+      "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
+      "inicio": "2026-06-14T08:00:00",
+      "fin": "2026-06-14T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Entre amigos",
+      "descripcion": "Una conversación como sólo Jarito sabe llevarla, entre amigos.",
+      "inicio": "2026-06-14T08:30:00",
+      "fin": "2026-06-14T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Punto Litoral",
+      "descripcion": "Acompaña a Julio Domínguez en este segmento en el que te presenta las principales actividades y novedades relacionadas con la pesca, la caza y el turismo, resaltando además los principales concursos que se originan en Argentina.",
+      "inicio": "2026-06-14T09:00:00",
+      "fin": "2026-06-14T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El pato TV",
+      "descripcion": "En cada entrega, los lugares más pintorescos e idóneos para la práctica de los deportes de aventuras. Toda la información necesaria para el seguidor de la pesca y caza de nuestra región.",
+      "inicio": "2026-06-14T09:30:00",
+      "fin": "2026-06-14T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El viajero",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-14T10:00:00",
+      "fin": "2026-06-14T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ciudad por ciudad",
+      "descripcion": "Virginia Acosta nos invita a recorrer la provincia de Corrientes, ciudad por ciudad.",
+      "inicio": "2026-06-14T10:30:00",
+      "fin": "2026-06-14T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sentí Argentina",
+      "descripcion": "Un espacio de turismo y cultura con los eventos más destacados de la Argentina, así como un recorrido por sus más bellos rincones.",
+      "inicio": "2026-06-14T11:00:00",
+      "fin": "2026-06-14T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Chamameceros, sangre nueva",
+      "descripcion": "Programa de música regional donde el canto y la danza se entrelazan con la sangre nueva para difundir el sentimiento de toda una región.",
+      "inicio": "2026-06-14T11:30:00",
+      "fin": "2026-06-14T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Desde las gateras",
+      "descripcion": "Espacio hípico que trae los detalles de las competiciones de caballos. Los premios, los participantes y el desarrollo de los torneos los encontrarás aquí.",
+      "inicio": "2026-06-14T12:00:00",
+      "fin": "2026-06-14T12:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
