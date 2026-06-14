@@ -1,185 +1,171 @@
 {
   "actual": {
-    "titulo": "The King's Man: La primera misión",
-    "descripcion": "Un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas. Un hombre tendrá que luchar contra reloj para detenerlos.",
-    "inicio": "2026-06-13T11:45:00",
-    "fin": "2026-06-13T13:50:00",
+    "titulo": "Captain America: Civil War",
+    "descripcion": "Después de que otro incidente internacional involucre a Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes. Esta nueva situación dividirá a Los Vengadores, mientras intentan proteger al mundo de un nuevo y terrible villano.",
+    "inicio": "2026-06-14T11:45:00",
+    "fin": "2026-06-14T13:50:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Logan",
-    "descripcion": "2029. Hace 25 años que no nacen nuevos mutantes. Logan pasa los días bebiendo, escondido en un remoto lugar de la frontera mexicana y ganándose la vida como conductor de coches de alquiler. Sus compañeros son Caliban y un acabado Profesor X.",
-    "inicio": "2026-06-13T13:50:00",
-    "fin": "2026-06-13T15:50:00",
+    "titulo": "Cuatro Fantásticos",
+    "descripcion": "Cuatro jóvenes astronautas adquieren superpoderes al ser transportados a un universo alternativo y quedar expuestos a la radiación cósmica. Ahora tienen que usar sus nuevas habilidades para proteger el planeta contra un viejo conocido que ahora se ha convertido en un temible enemigo.",
+    "inicio": "2026-06-14T13:50:00",
+    "fin": "2026-06-14T15:50:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "The King's Man: La primera misión",
-      "descripcion": "Un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas. Un hombre tendrá que luchar contra reloj para detenerlos.",
-      "inicio": "2026-06-13T11:45:00",
-      "fin": "2026-06-13T13:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Logan",
-      "descripcion": "2029. Hace 25 años que no nacen nuevos mutantes. Logan pasa los días bebiendo, escondido en un remoto lugar de la frontera mexicana y ganándose la vida como conductor de coches de alquiler. Sus compañeros son Caliban y un acabado Profesor X.",
-      "inicio": "2026-06-13T13:50:00",
-      "fin": "2026-06-13T15:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Deadpool",
-      "descripcion": "Wade Wilson, tras ser sometido a un cruel experimento científico, adquiere poderes especiales que le convierten en Deadpool. Armado con sus nuevas habilidades y un retorcido sentido del humor tratará de dar caza al hombre que casi destruye su vida.",
-      "inicio": "2026-06-13T15:50:00",
-      "fin": "2026-06-13T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Blue Beetle",
-      "descripcion": "El joven Jaime Reyes se transforma inesperadamente en un poderoso y espectacular superhéroe cuando un milenario y mágico escarabajo alienígena se fusiona accidentalmente con él, cambiando su gran destino.",
-      "inicio": "2026-06-13T18:00:00",
-      "fin": "2026-06-13T20:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Kingsman: The Secret Service",
-      "descripcion": "Una agencia de espías ultrasecretos recluta a un joven de la calle en su competitivo programa de entrenamiento, cuando un genio tecnológico amenaza al mundo.",
-      "inicio": "2026-06-13T20:05:00",
-      "fin": "2026-06-13T22:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Walking Dead • Honor",
-      "descripcion": "Honor ║ Rick y el grupo se enfrentan a nuevos desafíos después de una batalla.",
-      "inicio": "2026-06-13T22:05:00",
-      "fin": "2026-06-13T22:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Walking Dead • Los perdidos y los saqueadores",
-      "descripcion": "Los perdidos y los saqueadores ║ Los diferentes grupos unen sus fuerzas y se reúnen en Hilltop. Aaron y Enid buscan aliados. Simon se hace cargo de la situación.",
-      "inicio": "2026-06-13T22:55:00",
-      "fin": "2026-06-13T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Walking Dead • Vivos o muertos",
-      "descripcion": "Vivos o muertos ║ Maggie toma una decisión difícil en Hilltop, mientras que la fe de Gabriel se tambalea. Por otro lado, Daryl encuentra mala compañía mientras su grupo se desplaza a Hilltop.",
-      "inicio": "2026-06-13T23:30:00",
-      "fin": "2026-06-14T00:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Walking Dead • La clave",
-      "descripcion": "La clave ║ El liderazgo de Hilltop se enfrenta a un difícil dilema tras la llegada de visitantes inesperados. Mientras tanto, Rick se encuentra cara a cara con un adversario.",
-      "inicio": "2026-06-14T00:20:00",
-      "fin": "2026-06-14T01:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Walking Dead • No nos hagas extraviarnos",
-      "descripcion": "No nos hagas extraviarnos ║ Llegan visitantes inesperados a Hilltop y, con ellos, también llegan los problemas. Mientras tanto, la comunidad se pone en acción y se producen una serie de revelaciones desgarradoras.",
-      "inicio": "2026-06-14T01:10:00",
-      "fin": "2026-06-14T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bones • El cadáver en la vaina",
-      "descripcion": "El cadáver en la vaina ║ El equipo investiga el cadáver de un hombre que se dedicaba a limpiar escenas de crímenes, cuyo cuerpo ha aparecido en la playa dentro de una cápsula plástica sellada. Las sospechas recaen sobre su viuda, su hijastro y el dueño de una empresa rival.",
-      "inicio": "2026-06-14T02:00:00",
-      "fin": "2026-06-14T02:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bones • La gracia del chiste",
-      "descripcion": "La gracia del chiste ║ Un artista callejero cae junto a un cadáver y el bote de pegamento que sostenía provoca que se quede adherido al cadáver. Para analizar los restos, el equipo debe llevárselo todo al laboratorio, incluido al artista.",
-      "inicio": "2026-06-14T02:55:00",
-      "fin": "2026-06-14T03:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bull • La pieza que falta",
-      "descripcion": "La pieza que falta ║ Un médico es acusado de asesinato, pues su ADN aparece en la escena del crimen. Sin embargo, Bull y Benny intentan formar un jurado con personas que estén predispuestas a confiar en su instinto y no solo en las pruebas.",
-      "inicio": "2026-06-14T03:50:00",
-      "fin": "2026-06-14T04:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bull • Engáñame dos veces",
-      "descripcion": "Engáñame dos veces ║ El marido de Marissa es acusado de homicidio involuntario cuando uno de sus empleados fallece por negligencia. Bull y Benny pretenden seleccionar a miembros del jurado que creen que fue un accidente.",
-      "inicio": "2026-06-14T04:40:00",
-      "fin": "2026-06-14T05:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bull • Una chica sin sentimientos",
-      "descripcion": "Una chica sin sentimientos ║ Bill se siente culpable porque una antigua paciente de la clínica psiquiátrica que él cerró ha asesinado a su hermano. Ahora, Bull la defiende y trata de conseguir un jurado compuesto por personas que sientan afinidad por los enfermos mentales.",
-      "inicio": "2026-06-14T05:35:00",
-      "fin": "2026-06-14T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Simpson • El Abuelo contra la impotencia sexual",
-      "descripcion": "El Abuelo contra la impotencia sexual ║ El Abuelo inventa un tónico revitalizante gracias al cual salva la vida sexual de Marge y Homer. Aun así, al mismo tiempo se rompe la relación entre el anciano y su hijo.",
-      "inicio": "2026-06-14T06:00:00",
-      "fin": "2026-06-14T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Simpson • Miedo a volar",
-      "descripcion": "Miedo a volar ║ Homer consigue billetes de avión con los que puede volar a cualquier Estado. Sin embargo, Marge tiene miedo a volar, así que acude a una psicóloga para superar el trauma.",
-      "inicio": "2026-06-14T06:30:00",
-      "fin": "2026-06-14T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Simpson • Homer el Grande",
-      "descripcion": "Homer el Grande ║ Homero se une a los Canteros, una organización secreta. Un día destroza el pergamino sagrado y es expulsado, pero cuando los miembros descubren que tiene una mancha de nacimiento en su cuerpo, creen que es el elegido para ser el jefe del grupo.",
-      "inicio": "2026-06-14T07:00:00",
-      "fin": "2026-06-14T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Simpson • Y con Maggie, tres",
-      "descripcion": "Y con Maggie, tres ║ Cuando Bart y Lisa descubren que en el álbum familiar no hay fotos de Maggie, preguntan a sus padres por qué. Entonces, Homer les cuenta la historia del nacimiento de su hermana y de cómo dejó su puesto en la central para trabajar en la bolera.",
-      "inicio": "2026-06-14T07:30:00",
-      "fin": "2026-06-14T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Elementary",
-      "descripcion": "Esta adaptación del personaje del clásico de Sir Arthur Conan Doyle, Sherlock Holmes, sitúa al famoso detective en el Manhattan actual después de un tiempo en rehabilitación. Después de salir de clínica, encuentra que su padre le ha asignado una compañera sobria para que viva con él, la Dra. Joan Watson. Ella es una cirujana que ya no practica porque su licencia fue revocada tres años atrás, tras haber perdido a un paciente. Ahora ella busca la redención ayudando a adictos a mantenerse limpios. Aunque Holmes ya tiene la solución perfecta para mantenerse sobrio mediante su trabajo como consultor de la policía de la ciudad de Nueva York, los dos se dan cuenta que hacen un buen equipo y están resolviendo los casos criminales más difíciles que la policía tiene a su cargo.",
-      "inicio": "2026-06-14T08:00:00",
-      "fin": "2026-06-14T08:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Elementary",
-      "descripcion": "Esta adaptación del personaje del clásico de Sir Arthur Conan Doyle, Sherlock Holmes, sitúa al famoso detective en el Manhattan actual después de un tiempo en rehabilitación. Después de salir de clínica, encuentra que su padre le ha asignado una compañera sobria para que viva con él, la Dra. Joan Watson. Ella es una cirujana que ya no practica porque su licencia fue revocada tres años atrás, tras haber perdido a un paciente. Ahora ella busca la redención ayudando a adictos a mantenerse limpios. Aunque Holmes ya tiene la solución perfecta para mantenerse sobrio mediante su trabajo como consultor de la policía de la ciudad de Nueva York, los dos se dan cuenta que hacen un buen equipo y están resolviendo los casos criminales más difíciles que la policía tiene a su cargo.",
-      "inicio": "2026-06-14T08:50:00",
-      "fin": "2026-06-14T09:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Elementary",
-      "descripcion": "Esta adaptación del personaje del clásico de Sir Arthur Conan Doyle, Sherlock Holmes, sitúa al famoso detective en el Manhattan actual después de un tiempo en rehabilitación. Después de salir de clínica, encuentra que su padre le ha asignado una compañera sobria para que viva con él, la Dra. Joan Watson. Ella es una cirujana que ya no practica porque su licencia fue revocada tres años atrás, tras haber perdido a un paciente. Ahora ella busca la redención ayudando a adictos a mantenerse limpios. Aunque Holmes ya tiene la solución perfecta para mantenerse sobrio mediante su trabajo como consultor de la policía de la ciudad de Nueva York, los dos se dan cuenta que hacen un buen equipo y están resolviendo los casos criminales más difíciles que la policía tiene a su cargo.",
-      "inicio": "2026-06-14T09:40:00",
-      "fin": "2026-06-14T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Elementary • Apostarlo todo",
-      "descripcion": "Apostarlo todo ║ Una mujer que afirma haber sido socia del hermano de Sherlock en el pasado, les asegura a Holmes y a Watson que su vida corre peligro.",
-      "inicio": "2026-06-14T10:30:00",
-      "fin": "2026-06-14T11:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Captain America: Civil War",
       "descripcion": "Después de que otro incidente internacional involucre a Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes. Esta nueva situación dividirá a Los Vengadores, mientras intentan proteger al mundo de un nuevo y terrible villano.",
       "inicio": "2026-06-14T11:45:00",
       "fin": "2026-06-14T13:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cuatro Fantásticos",
+      "descripcion": "Cuatro jóvenes astronautas adquieren superpoderes al ser transportados a un universo alternativo y quedar expuestos a la radiación cósmica. Ahora tienen que usar sus nuevas habilidades para proteger el planeta contra un viejo conocido que ahora se ha convertido en un temible enemigo.",
+      "inicio": "2026-06-14T13:50:00",
+      "fin": "2026-06-14T15:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Blue Beetle",
+      "descripcion": "El joven Jaime Reyes se transforma inesperadamente en un poderoso y espectacular superhéroe cuando un milenario y mágico escarabajo alienígena se fusiona accidentalmente con él, cambiando su gran destino.",
+      "inicio": "2026-06-14T15:50:00",
+      "fin": "2026-06-14T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Capitán América: El primer vengador",
+      "descripcion": "Steve Rogers, débil y enclenque, quiere ser soldado y luchar por su país, pero siempre es rechazado. Movido por sus súplicas, el general Chester Phillips le ofrece la oportunidad de participar en un experimento especial que lo convertirá en un supersoldado. Tras un intensivo programa de entrenamiento físico y táctico, recibe su primera misión como Capitán América.",
+      "inicio": "2026-06-14T18:00:00",
+      "fin": "2026-06-14T20:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The King's Man: La primera misión",
+      "descripcion": "Un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas. Un hombre tendrá que luchar contra reloj para detenerlos.",
+      "inicio": "2026-06-14T20:05:00",
+      "fin": "2026-06-14T22:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Walking Dead • Todavía tiene que significar algo",
+      "descripcion": "Todavía tiene que significar algo ║ Un prisionero de Heaps hace un descubrimiento, mientras que Carol busca a alguien en el bosque. Por otro lado, Rick y Morgan se ven rodeados de extraños.",
+      "inicio": "2026-06-14T22:10:00",
+      "fin": "2026-06-14T22:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Walking Dead • Valía",
+      "descripcion": "Valía ║ Mientras los hombres de Negan continúan con su ofensiva, Aaron sigue buscando aliados nuevos pese a que pueda costarle la vida. Mientras tanto, Daryl y Rosita se enfrentan a un viejo amigo.",
+      "inicio": "2026-06-14T22:40:00",
+      "fin": "2026-06-14T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Walking Dead • Ira",
+      "descripcion": "Ira ║ Las comunidades aúnan fuerzas en la última batalla contra los Salvadores a medida que se desata una guerra total.",
+      "inicio": "2026-06-14T23:30:00",
+      "fin": "2026-06-15T00:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Walking Dead • Un nuevo comienzo",
+      "descripcion": "Un nuevo comienzo ║ Rick y su grupo viajan hasta Washington, D. C. para buscar los artefactos que necesitarán para construir la civilización que él y Carl imaginaron.",
+      "inicio": "2026-06-15T00:20:00",
+      "fin": "2026-06-15T01:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Walking Dead • El puente",
+      "descripcion": "El puente ║ Las comunidades unen fuerzas para reformar un puente que facilitará el comercio y la comunicación entre ellas. Sin embargo, alguien es herido de gravedad en el lugar de las obras.",
+      "inicio": "2026-06-15T01:10:00",
+      "fin": "2026-06-15T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Walking Dead • Señales de aviso",
+      "descripcion": "Señales de aviso ║ Una desaparición misteriosa pone en peligro los planes de futuro de Rick y divide al grupo mientras construyen un puente.",
+      "inicio": "2026-06-15T02:00:00",
+      "fin": "2026-06-15T02:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Walking Dead • Agradecidos",
+      "descripcion": "Agradecidos ║ La esperanza de Rick de un futuro civilizado es amenazada por una repentina evaluación de los pecados del pasado, que continúan sin perdón ni solución.",
+      "inicio": "2026-06-15T02:50:00",
+      "fin": "2026-06-15T03:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El cuerpo del delito • Macroanatomía",
+      "descripcion": "Macroanatomía ║ El cuerpo de la víctima de un asesinato aparece entre los cadáveres de una escuela de medicina y uno de los estudiantes más brillantes ayuda a Megan con la investigación.",
+      "inicio": "2026-06-15T03:40:00",
+      "fin": "2026-06-15T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El cuerpo del delito • Matices de azul",
+      "descripcion": "Matices de azul ║ En este episodio, el equipo investiga el asesinato de un policía encubierto en una parada de camiones.",
+      "inicio": "2026-06-15T04:30:00",
+      "fin": "2026-06-15T05:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bones • La gracia del chiste",
+      "descripcion": "La gracia del chiste ║ Un artista callejero cae junto a un cadáver y el bote de pegamento que sostenía provoca que se quede adherido al cadáver. Para analizar los restos, el equipo debe llevárselo todo al laboratorio, incluido al artista.",
+      "inicio": "2026-06-15T05:20:00",
+      "fin": "2026-06-15T06:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bones • El fantasma en la máquina",
+      "descripcion": "El fantasma en la máquina ║ El equipo investiga la muerte de Colin y le piden ayuda a un médium para tratar de ayudar al espíritu del niño de 14 años. A parir de ese momento, algunos miembros del equipo se cuestionan sus propios sentimientos sobre la vida y la muerte.",
+      "inicio": "2026-06-15T06:10:00",
+      "fin": "2026-06-15T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Elementary",
+      "descripcion": "Esta adaptación del personaje del clásico de Sir Arthur Conan Doyle, Sherlock Holmes, sitúa al famoso detective en el Manhattan actual después de un tiempo en rehabilitación. Después de salir de clínica, encuentra que su padre le ha asignado una compañera sobria para que viva con él, la Dra. Joan Watson. Ella es una cirujana que ya no practica porque su licencia fue revocada tres años atrás, tras haber perdido a un paciente. Ahora ella busca la redención ayudando a adictos a mantenerse limpios. Aunque Holmes ya tiene la solución perfecta para mantenerse sobrio mediante su trabajo como consultor de la policía de la ciudad de Nueva York, los dos se dan cuenta que hacen un buen equipo y están resolviendo los casos criminales más difíciles que la policía tiene a su cargo.",
+      "inicio": "2026-06-15T07:00:00",
+      "fin": "2026-06-15T07:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Elementary • Up to Heaven and Down to Hell",
+      "descripcion": "Up to Heaven and Down to Hell ║ Asesinan a una mujer rica que dejó a su perro como único heredero de su fortuna. Por otro lado, Watson contacta con Gregson, y la novia de este, una ex policía de Nueva York, causa, sin quererlo, problemas.",
+      "inicio": "2026-06-15T07:50:00",
+      "fin": "2026-06-15T08:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bull • Hilando fino",
+      "descripcion": "Hilando fino ║ Bull defiende a Julia Martín, jefa médica forense de la Ciudad de Nueva York, a quien acusan de manipular evidencia.",
+      "inicio": "2026-06-15T08:45:00",
+      "fin": "2026-06-15T09:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bull • Antecedentes",
+      "descripcion": "Antecedentes ║ El súbito fallecimiento del padre de Benny reúne a Bull con su exmujer, pero los sentimientos que nacen en este reencuentro ponen en peligro la relación de Bull con Diana. El hermano de un millonario muerto quiere demandar al médico del difunto.",
+      "inicio": "2026-06-15T09:40:00",
+      "fin": "2026-06-15T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bull • Dejar todo atrás",
+      "descripcion": "Dejar todo atrás ║ Bull trata de sembrar dudas entre los miembros del jurado durante el juicio en el que se dirime si su amigo Nathan es culpable o inocente del asesinato de su mujer.",
+      "inicio": "2026-06-15T10:30:00",
+      "fin": "2026-06-15T11:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "GoldenEye: El regreso del 007",
+      "descripcion": "Bond debe enfrentarse a un nuevo y peligroso enemigo. Ayudado por el Hampa rusa, su traicionero oponente ha robado un helicóptero de alto secreto y la mortífera arma espacial soviética 'Goldeneye', con la que planea arrasar completamente el mundo occidental.",
+      "inicio": "2026-06-15T11:45:00",
+      "fin": "2026-06-15T13:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

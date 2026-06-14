@@ -1,241 +1,164 @@
 {
   "actual": {
-    "titulo": "Audiencia Abierta",
-    "descripcion": "Programa que da a conocer las competencias, el funcionamiento y la acción cotidiana del Jefe del Estado, el Rey Felipe VI, en España.",
-    "inicio": "2026-06-13T11:45:00",
-    "fin": "2026-06-13T12:20:00",
+    "titulo": "Flash moda",
+    "descripcion": "Una revista informativa sobre el mundo de la moda presentado por Nieves Álvarez.",
+    "inicio": "2026-06-14T11:50:00",
+    "fin": "2026-06-14T12:20:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
     "titulo": "D corazón",
     "descripcion": "Un repaso a toda la actualidad social de España.",
-    "inicio": "2026-06-13T12:20:00",
-    "fin": "2026-06-13T14:10:00",
+    "inicio": "2026-06-14T12:20:00",
+    "fin": "2026-06-14T14:10:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Audiencia Abierta",
-      "descripcion": "Programa que da a conocer las competencias, el funcionamiento y la acción cotidiana del Jefe del Estado, el Rey Felipe VI, en España.",
-      "inicio": "2026-06-13T11:45:00",
-      "fin": "2026-06-13T12:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "D corazón",
-      "descripcion": "Un repaso a toda la actualidad social de España.",
-      "inicio": "2026-06-13T12:20:00",
-      "fin": "2026-06-13T14:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Saber y ganar - Fin de semana",
-      "descripcion": "Concursos que ponen a prueba los conocimientos y agilidad mental a través de un auténtico bombardeo de preguntas de ámbito general.",
-      "inicio": "2026-06-13T14:10:00",
-      "fin": "2026-06-13T14:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Telediario 2",
-      "descripcion": "Telediario con la información más importante de España y del mundo, al momento.",
-      "inicio": "2026-06-13T14:55:00",
-      "fin": "2026-06-13T15:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Deportes",
-      "descripcion": "La actualidad deportiva del día en el mundo con los periodistas de France 24, en una revista ilustrada desde los terrenos de juego y fuera de ellos.",
-      "inicio": "2026-06-13T15:25:00",
-      "fin": "2026-06-13T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Informe semanal",
-      "descripcion": "Programa de reportajes de actualidad nacional, internacional, cultura, sociedad y deportes.",
-      "inicio": "2026-06-13T15:30:00",
-      "fin": "2026-06-13T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "MasterChef",
-      "descripcion": "El más entretenido concurso de cocina para principiantes donde los chefs deberán crear los más deliciosos platillos para convencer a un jurado calificador.",
-      "inicio": "2026-06-13T16:00:00",
-      "fin": "2026-06-13T18:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Viaje al centro de la tele",
-      "descripcion": "Las caras más frescas y sorprendentes de algunas de las mejores imágenes que Televisión Española ha mostrado en las últimas décadas.",
-      "inicio": "2026-06-13T18:45:00",
-      "fin": "2026-06-13T19:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Aquí la Tierra",
-      "descripcion": "Descubre de manera amena cómo la meteorología y los fenómenos naturales influyen directamente en la salud, la economía y las costumbres de nuestra sociedad.",
-      "inicio": "2026-06-13T19:35:00",
-      "fin": "2026-06-13T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TD Internacional",
-      "descripcion": "Espacio donde se presentan las noticias nacionales e internacionales.",
-      "inicio": "2026-06-13T20:00:00",
-      "fin": "2026-06-13T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La suerte en tus manos",
-      "descripcion": "Se hace un análisis de los juegos de loterías y apuestas del Estado, y se retransmite el sorteo de Bonoloto y de Euromillones del viernes.",
-      "inicio": "2026-06-13T20:30:00",
-      "fin": "2026-06-13T21:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Historia de nuestro cine",
-      "descripcion": "Espacio que ofrece un recorrido por lo mejor del cine español desde los años 30 hasta la actualidad de la mano de un grupo de expertos que introducirán cada película.",
-      "inicio": "2026-06-13T21:05:00",
-      "fin": "2026-06-13T21:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Historia de nuestro cine",
-      "descripcion": "Espacio que ofrece un recorrido por lo mejor del cine español desde los años 30 hasta la actualidad de la mano de un grupo de expertos que introducirán cada película.",
-      "inicio": "2026-06-13T21:10:00",
-      "fin": "2026-06-13T22:44:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Historia de nuestro cine",
-      "descripcion": "Espacio que ofrece un recorrido por lo mejor del cine español desde los años 30 hasta la actualidad de la mano de un grupo de expertos que introducirán cada película.",
-      "inicio": "2026-06-13T22:44:00",
-      "fin": "2026-06-13T22:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Días de cine",
-      "descripcion": "Un espacio dedicado a la crítica cinematográfica desde un punto de vista sencillo, ameno y divertido, que invierta, además, al espectador a acercarse a las salas de cine.",
-      "inicio": "2026-06-13T22:45:00",
-      "fin": "2026-06-14T01:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tendido cero",
-      "descripcion": "Entrevistas y reportajes sobre el mundo taurino.",
-      "inicio": "2026-06-14T01:35:00",
-      "fin": "2026-06-14T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias 24h",
-      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-      "inicio": "2026-06-14T02:30:00",
-      "fin": "2026-06-14T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Medina en TVE",
-      "descripcion": "Espacio dedicado a la reflexión religiosa de culto islámico.",
-      "inicio": "2026-06-14T06:00:00",
-      "fin": "2026-06-14T06:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Buenas noticias TV",
-      "descripcion": "Programa que se propone compartir el mensaje de las Buenas Noticias que Jesucristo anunció, pero de forma actual y relevante, utilizando el lenguaje audiovisual, a través de las vidas de cristianos que experimentan la presencia y el poder de Dios.",
-      "inicio": "2026-06-14T06:15:00",
-      "fin": "2026-06-14T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Shalom",
-      "descripcion": "Una reflexión sobre el pensamiento y la identidad judía, las celebraciones y las actividades relacionadas con la religión, lo que contribuye a una mayor difusión de las diferentes culturas.",
-      "inicio": "2026-06-14T06:30:00",
-      "fin": "2026-06-14T06:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Últimas preguntas",
-      "descripcion": "Programa que narra temas relacionados con la fe, en forma de diálogo y desde la perspectiva del humanismo cristiano. Siempre teniendo en cuenta la dimensión social del hombre y de la perspectiva misionera de la Iglesia Católica.",
-      "inicio": "2026-06-14T06:45:00",
-      "fin": "2026-06-14T07:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Testimonio",
-      "descripcion": "Espacio católico en el que una persona da testimonio público de su fe, con el fin de promover la fe cristiana en la fuerza que genera la comunicación social de ese testimonio.",
-      "inicio": "2026-06-14T07:10:00",
-      "fin": "2026-06-14T07:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pueblo de Dios",
-      "descripcion": "Programa de reportajes sobre los que tienen fe y demuestran que otro mundo es posible. Se comparten experiencias e iniciativas de personas comprometidas en acciones de solidaridad.",
-      "inicio": "2026-06-14T07:15:00",
-      "fin": "2026-06-14T07:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Zoom Tendencias",
-      "descripcion": "Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética; estilos que marcan tendencias.",
-      "inicio": "2026-06-14T07:40:00",
-      "fin": "2026-06-14T08:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Objetivo igualdad",
-      "descripcion": "Relatos y entrevistas que exponen los problemas de desigualdad entre hombres y mujeres de todo el mundo.",
-      "inicio": "2026-06-14T08:05:00",
-      "fin": "2026-06-14T08:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Conversatorios en Casa de América",
-      "descripcion": "Un programa de entrevistas a reconocidos personajes en una conversación tranquila para ahondar en la riqueza, la diversidad y la cultura de las sociedades latinoamericanas.",
-      "inicio": "2026-06-14T08:20:00",
-      "fin": "2026-06-14T08:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Telediario 1ª edición",
-      "descripcion": "Espacio de información audiovisual que hace un repaso diario a la actualidad general de España y el mundo.",
-      "inicio": "2026-06-14T08:55:00",
-      "fin": "2026-06-14T09:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Teledeporte, Directo Al Mundial",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-14T09:25:00",
-      "fin": "2026-06-14T09:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ríos",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-14T09:55:00",
-      "fin": "2026-06-14T10:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "España sin asfalto",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-14T10:55:00",
-      "fin": "2026-06-14T11:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Crecemos juntas",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-14T11:20:00",
-      "fin": "2026-06-14T11:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Flash moda",
       "descripcion": "Una revista informativa sobre el mundo de la moda presentado por Nieves Álvarez.",
       "inicio": "2026-06-14T11:50:00",
       "fin": "2026-06-14T12:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "D corazón",
+      "descripcion": "Un repaso a toda la actualidad social de España.",
+      "inicio": "2026-06-14T12:20:00",
+      "fin": "2026-06-14T14:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Saber y ganar - Fin de semana",
+      "descripcion": "Concursos que ponen a prueba los conocimientos y agilidad mental a través de un auténtico bombardeo de preguntas de ámbito general.",
+      "inicio": "2026-06-14T14:10:00",
+      "fin": "2026-06-14T14:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telediario 2",
+      "descripcion": "Telediario con la información más importante de España y del mundo, al momento.",
+      "inicio": "2026-06-14T14:55:00",
+      "fin": "2026-06-14T15:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Deportes",
+      "descripcion": "La actualidad deportiva del día en el mundo con los periodistas de France 24, en una revista ilustrada desde los terrenos de juego y fuera de ellos.",
+      "inicio": "2026-06-14T15:50:00",
+      "fin": "2026-06-14T15:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Barrio Esperanza",
+      "descripcion": "Tras cumplir ocho años de injusta prisión, Esperanza intenta rehacer su vida enseñando en la humilde escuela de su antiguo barrio, enfrentando los prejuicios de su comunidad.",
+      "inicio": "2026-06-14T15:55:00",
+      "fin": "2026-06-14T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TD Internacional",
+      "descripcion": "Espacio donde se presentan las noticias nacionales e internacionales.",
+      "inicio": "2026-06-14T20:00:00",
+      "fin": "2026-06-14T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La suerte en tus manos",
+      "descripcion": "Se hace un análisis de los juegos de loterías y apuestas del Estado, y se retransmite el sorteo de Bonoloto y de Euromillones del viernes.",
+      "inicio": "2026-06-14T20:30:00",
+      "fin": "2026-06-14T20:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Imprescindibles",
+      "descripcion": "Conociendo las distintas personalidades a través de varios testimonios.",
+      "inicio": "2026-06-14T20:35:00",
+      "fin": "2026-06-14T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Órbita Laika",
+      "descripcion": "Programa de divulgación científica divertido y sorprendente, repleto de curiosidades y humor.",
+      "inicio": "2026-06-14T21:30:00",
+      "fin": "2026-06-14T22:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En portada",
+      "descripcion": "Programa informativo constituido por reportajes monográficos de contenido internacional. Su vocación preferente es el compromiso informativo con las vidas, problemas y conflictos que constituyen la inmensa mayoría de la población mundial.",
+      "inicio": "2026-06-14T22:25:00",
+      "fin": "2026-06-14T23:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Plano general",
+      "descripcion": "Jenaro Castro muestra el lado humano de personajes relevantes de todos los ámbitos. Un viaje introspectivo con voluntad de homenajear la trayectoria de los distintos invitados que, además, eligen su música preferida y el lugar de la entrevista.",
+      "inicio": "2026-06-14T23:05:00",
+      "fin": "2026-06-14T23:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Metrópolis",
+      "descripcion": "Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.",
+      "inicio": "2026-06-14T23:35:00",
+      "fin": "2026-06-15T00:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Españoles en el mundo",
+      "descripcion": "Españoles que residen fuera de España muestran su lugar de residencia y su entorno. En cada programa se descubre un país nuevo, su gastronomía, lugares de interés de la mano de un grupo de españoles.",
+      "inicio": "2026-06-15T00:40:00",
+      "fin": "2026-06-15T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Metrópolis",
+      "descripcion": "Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.",
+      "inicio": "2026-06-15T01:30:00",
+      "fin": "2026-06-15T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La hora de la 1",
+      "descripcion": "Programa con información sobre temas variados ligados a la actualidad, desde política hasta sociedad.",
+      "inicio": "2026-06-15T02:00:00",
+      "fin": "2026-06-15T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ahora o nunca",
+      "descripcion": "Revista deportiva y de entretenimiento que combina los resultados de los juegos con la actualidad del mundo del cine, la música y las celebridades.",
+      "inicio": "2026-06-15T08:00:00",
+      "fin": "2026-06-15T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telediario 1ª edición",
+      "descripcion": "Espacio de información audiovisual que hace un repaso diario a la actualidad general de España y el mundo.",
+      "inicio": "2026-06-15T09:00:00",
+      "fin": "2026-06-15T09:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Españoles en el mundo",
+      "descripcion": "Españoles que residen fuera de España muestran su lugar de residencia y su entorno. En cada programa se descubre un país nuevo, su gastronomía, lugares de interés de la mano de un grupo de españoles.",
+      "inicio": "2026-06-15T09:50:00",
+      "fin": "2026-06-15T10:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Españoles en el mundo",
+      "descripcion": "Españoles que residen fuera de España muestran su lugar de residencia y su entorno. En cada programa se descubre un país nuevo, su gastronomía, lugares de interés de la mano de un grupo de españoles.",
+      "inicio": "2026-06-15T10:40:00",
+      "fin": "2026-06-15T11:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un país mágico",
+      "descripcion": "Un viaje a lugares especiales en los que se respira la magia de España; una charla con cantantes, actores, deportistas, artesanos y artistas locales.",
+      "inicio": "2026-06-15T11:35:00",
+      "fin": "2026-06-15T12:25:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
