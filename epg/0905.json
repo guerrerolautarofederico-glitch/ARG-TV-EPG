@@ -1,89 +1,19 @@
 {
   "actual": {
-    "titulo": "¿La ves?",
-    "descripcion": "Un análisis de la actualidad junto a Jonatan Viale, con entrevistas con los personajes del día y toda la información para abrir los ojos bien grandes a la realidad.",
-    "inicio": "2026-06-15T19:00:00",
-    "fin": "2026-06-15T20:30:00",
+    "titulo": "TN Central",
+    "descripcion": "El resumen completo de los temas que impactaron en el día y el anticipo de los títulos de los diarios del día siguiente. Todo lo que ocurrió en el país y en el mundo. Móviles en vivo para saber qué está pasando al instante.",
+    "inicio": "2026-06-16T17:00:00",
+    "fin": "2026-06-16T19:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Solo una vuelta más",
-    "descripcion": "Programa de opinión y debate de los temas de actualidad, en el que la palabra circula y hay lugar para profundizar la escucha y el análisis. Se propone una conversación seria sobre los temas que nos preocupan, pero sin perder el humor.",
-    "inicio": "2026-06-15T20:30:00",
-    "fin": "2026-06-15T22:00:00",
+    "titulo": "¿La ves?",
+    "descripcion": "Un análisis de la actualidad junto a Jonatan Viale, con entrevistas con los personajes del día y toda la información para abrir los ojos bien grandes a la realidad.",
+    "inicio": "2026-06-16T19:00:00",
+    "fin": "2026-06-16T20:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "¿La ves?",
-      "descripcion": "Un análisis de la actualidad junto a Jonatan Viale, con entrevistas con los personajes del día y toda la información para abrir los ojos bien grandes a la realidad.",
-      "inicio": "2026-06-15T19:00:00",
-      "fin": "2026-06-15T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Solo una vuelta más",
-      "descripcion": "Programa de opinión y debate de los temas de actualidad, en el que la palabra circula y hay lugar para profundizar la escucha y el análisis. Se propone una conversación seria sobre los temas que nos preocupan, pero sin perder el humor.",
-      "inicio": "2026-06-15T20:30:00",
-      "fin": "2026-06-15T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TN de noche",
-      "descripcion": "El resumen de los sucesos más impactantes e importantes del acontecer diario. Temas políticos, económicos, de nuevas tecnologías, culturales y de espectáculos son presentados para que te mantengas actualizado.",
-      "inicio": "2026-06-15T22:00:00",
-      "fin": "2026-06-16T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TN",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-16T00:00:00",
-      "fin": "2026-06-16T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tiempo, tránsito y noticias",
-      "descripcion": "Sintoniza esta edición informativa con el reporte más completo del acontecer nacional e internacional del momento, incluyendo además el pronóstico del tiempo y las condiciones del tránsito vehicular.",
-      "inicio": "2026-06-16T04:00:00",
-      "fin": "2026-06-16T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TN de 6 a 10",
-      "descripcion": "Noticiero de la mañana con toda la información para empezar el día bien informado. Móviles en vivo, estado del tránsito, meteorología, actualidad, deportes, espectáculos, información internacional y mucho más.",
-      "inicio": "2026-06-16T05:00:00",
-      "fin": "2026-06-16T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TN de 10 a 13",
-      "descripcion": "De lunes a viernes, todas las noticias del día y móviles en vivo desde el lugar de los hechos.",
-      "inicio": "2026-06-16T09:00:00",
-      "fin": "2026-06-16T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Nuestra tarde",
-      "descripcion": "Un ciclo lleno de información, opinión, humor, columnistas, pero también con una manera diferente de atravesar los temas más calientes del momento.",
-      "inicio": "2026-06-16T12:00:00",
-      "fin": "2026-06-16T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hablemos de esto",
-      "descripcion": "Una nueva propuesta, con toda la información de último momento, pero también la pausa para el análisis profundo de los temas más candentes de la actualidad.",
-      "inicio": "2026-06-16T14:00:00",
-      "fin": "2026-06-16T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Está pasando",
-      "descripcion": "Un noticiero informativo con todo lo que tenés que saber para volver a casa: el tránsito, clima, cortes.",
-      "inicio": "2026-06-16T16:00:00",
-      "fin": "2026-06-16T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "TN Central",
       "descripcion": "El resumen completo de los temas que impactaron en el día y el anticipo de los títulos de los diarios del día siguiente. Todo lo que ocurrió en el país y en el mundo. Móviles en vivo para saber qué está pasando al instante.",
@@ -96,6 +26,76 @@
       "descripcion": "Un análisis de la actualidad junto a Jonatan Viale, con entrevistas con los personajes del día y toda la información para abrir los ojos bien grandes a la realidad.",
       "inicio": "2026-06-16T19:00:00",
       "fin": "2026-06-16T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Solo una vuelta más",
+      "descripcion": "Programa de opinión y debate de los temas de actualidad, en el que la palabra circula y hay lugar para profundizar la escucha y el análisis. Se propone una conversación seria sobre los temas que nos preocupan, pero sin perder el humor.",
+      "inicio": "2026-06-16T20:30:00",
+      "fin": "2026-06-16T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TN de noche",
+      "descripcion": "El resumen de los sucesos más impactantes e importantes del acontecer diario. Temas políticos, económicos, de nuevas tecnologías, culturales y de espectáculos son presentados para que te mantengas actualizado.",
+      "inicio": "2026-06-16T22:00:00",
+      "fin": "2026-06-17T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Re despiertos",
+      "descripcion": "Podrás ver las últimas tendencias en redes sociales, la data de los principales portales y cámaras web en distintas partes del mundo. Además, habrá música, deportes, espectáculos, turismo, cocina y por supuesto la mejor compañía.",
+      "inicio": "2026-06-17T00:00:00",
+      "fin": "2026-06-17T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tiempo, tránsito y noticias",
+      "descripcion": "Sintoniza esta edición informativa con el reporte más completo del acontecer nacional e internacional del momento, incluyendo además el pronóstico del tiempo y las condiciones del tránsito vehicular.",
+      "inicio": "2026-06-17T04:00:00",
+      "fin": "2026-06-17T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TN de 6 a 10",
+      "descripcion": "Noticiero de la mañana con toda la información para empezar el día bien informado. Móviles en vivo, estado del tránsito, meteorología, actualidad, deportes, espectáculos, información internacional y mucho más.",
+      "inicio": "2026-06-17T05:00:00",
+      "fin": "2026-06-17T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TN de 10 a 13",
+      "descripcion": "De lunes a viernes, todas las noticias del día y móviles en vivo desde el lugar de los hechos.",
+      "inicio": "2026-06-17T09:00:00",
+      "fin": "2026-06-17T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Nuestra tarde",
+      "descripcion": "Un ciclo lleno de información, opinión, humor, columnistas, pero también con una manera diferente de atravesar los temas más calientes del momento.",
+      "inicio": "2026-06-17T12:00:00",
+      "fin": "2026-06-17T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hablemos de esto",
+      "descripcion": "Una nueva propuesta, con toda la información de último momento, pero también la pausa para el análisis profundo de los temas más candentes de la actualidad.",
+      "inicio": "2026-06-17T14:00:00",
+      "fin": "2026-06-17T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Está pasando",
+      "descripcion": "Un noticiero informativo con todo lo que tenés que saber para volver a casa: el tránsito, clima, cortes.",
+      "inicio": "2026-06-17T16:00:00",
+      "fin": "2026-06-17T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TN Central",
+      "descripcion": "El resumen completo de los temas que impactaron en el día y el anticipo de los títulos de los diarios del día siguiente. Todo lo que ocurrió en el país y en el mundo. Móviles en vivo para saber qué está pasando al instante.",
+      "inicio": "2026-06-17T17:00:00",
+      "fin": "2026-06-17T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
