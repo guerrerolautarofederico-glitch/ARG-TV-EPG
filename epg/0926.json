@@ -1,117 +1,19 @@
 {
   "actual": {
-    "titulo": "Mundo aéreo",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-06-16T18:30:00",
-    "fin": "2026-06-16T19:00:00",
+    "titulo": "Agenda",
+    "descripcion": "Espacio informativo que detalla los eventos políticos, culturales y económicos más importantes que marcarán el ritmo noticioso de la jornada a nivel nacional.",
+    "inicio": "2026-06-17T16:00:00",
+    "fin": "2026-06-17T18:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Estudio 360",
-    "descripcion": "Manténgase informado de todo el acontecer local, nacional e internacional.",
-    "inicio": "2026-06-16T19:00:00",
-    "fin": "2026-06-16T21:00:00",
+    "titulo": "Cata de libros",
+    "descripcion": "Un espacio de 'degustación y experiencias de lectura' donde se comparten recomendaciones y análisis literarios.",
+    "inicio": "2026-06-17T18:00:00",
+    "fin": "2026-06-17T19:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Mundo aéreo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-16T18:30:00",
-      "fin": "2026-06-16T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Estudio 360",
-      "descripcion": "Manténgase informado de todo el acontecer local, nacional e internacional.",
-      "inicio": "2026-06-16T19:00:00",
-      "fin": "2026-06-16T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pronóstico reservado",
-      "descripcion": "Espacio en vivo de entretenimiento y entrevistas.",
-      "inicio": "2026-06-16T21:00:00",
-      "fin": "2026-06-16T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Viva al aire libre",
-      "descripcion": "Un espacio que traslada a los más recónditos lugares para observar los pintorescos y variados paisajes de la región y, además, lleva a cabo actividades al aire libre como la pesca. Un contacto con la naturaleza.",
-      "inicio": "2026-06-16T22:00:00",
-      "fin": "2026-06-16T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El pato TV",
-      "descripcion": "En cada entrega, los lugares más pintorescos e idóneos para la práctica de los deportes de aventuras. Toda la información necesaria para el seguidor de la pesca y caza de nuestra región.",
-      "inicio": "2026-06-16T22:30:00",
-      "fin": "2026-06-16T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Festival - Variar",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-16T23:00:00",
-      "fin": "2026-06-17T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Amigos del campo",
-      "descripcion": "Espacio agrícola que conecta al público con la realidad rural, presentando interesantes entrevistas e información comercial útil para los trabajadores y productores de la zona.",
-      "inicio": "2026-06-17T06:00:00",
-      "fin": "2026-06-17T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Amanecer rural",
-      "descripcion": "Informativo matutino especializado que provee a los agricultores y ganaderos el análisis detallado de los precios de mercado, el clima y noticias claves para la producción nacional.",
-      "inicio": "2026-06-17T06:30:00",
-      "fin": "2026-06-17T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Buen día noticias",
-      "descripcion": "Inicia tu día excelentemente informado con las más relevantes, actuales y valiosas noticias del país, analizadas a fondo por un gran equipo de dedicados y experimentados periodistas.",
-      "inicio": "2026-06-17T07:00:00",
-      "fin": "2026-06-17T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Agenda",
-      "descripcion": "Espacio informativo que detalla los eventos políticos, culturales y económicos más importantes que marcarán el ritmo noticioso de la jornada a nivel nacional.",
-      "inicio": "2026-06-17T09:00:00",
-      "fin": "2026-06-17T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "47M",
-      "descripcion": "Informativo en vivo que repasa la actualidad diaria y presenta segmentos variados de moda, ciencia, deportes y entretenimiento.",
-      "inicio": "2026-06-17T11:00:00",
-      "fin": "2026-06-17T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sentí Argentina",
-      "descripcion": "Un espacio de turismo y cultura con los eventos más destacados de la Argentina, así como un recorrido por sus más bellos rincones.",
-      "inicio": "2026-06-17T13:00:00",
-      "fin": "2026-06-17T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Amigos al volante",
-      "descripcion": "Acompaña a un divertido grupo de conductores mientras recorren rutas sorprendentes, compartiendo su pasión por los motores, anécdotas y mucha camaradería.",
-      "inicio": "2026-06-17T13:30:00",
-      "fin": "2026-06-17T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "María Delirio",
-      "descripcion": "Magazine diario en vivo de moda, cultura y espectaculo.",
-      "inicio": "2026-06-17T14:00:00",
-      "fin": "2026-06-17T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Agenda",
       "descripcion": "Espacio informativo que detalla los eventos políticos, culturales y económicos más importantes que marcarán el ritmo noticioso de la jornada a nivel nacional.",
@@ -124,6 +26,104 @@
       "descripcion": "Un espacio de 'degustación y experiencias de lectura' donde se comparten recomendaciones y análisis literarios.",
       "inicio": "2026-06-17T18:00:00",
       "fin": "2026-06-17T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Estudio 360",
+      "descripcion": "Manténgase informado de todo el acontecer local, nacional e internacional.",
+      "inicio": "2026-06-17T19:00:00",
+      "fin": "2026-06-17T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pronóstico reservado",
+      "descripcion": "Espacio en vivo de entretenimiento y entrevistas.",
+      "inicio": "2026-06-17T21:00:00",
+      "fin": "2026-06-17T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Vivencias",
+      "descripcion": "Historias ocultas dentro de la naturaleza, situaciones vividas por los humanos dentro de la maleza, que pudieron haber tenido un desenlace fatal.",
+      "inicio": "2026-06-17T22:00:00",
+      "fin": "2026-06-17T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Industria turística",
+      "descripcion": "Formosa es una hermosa provincia, situada en la región del Norte Grande Argentino, de la que cualquier visitante saldría encantado. Por eso este espacio está enfocado en mostrarte lo mejor de la industria turística de este territorio.",
+      "inicio": "2026-06-17T22:30:00",
+      "fin": "2026-06-17T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Festival - Variar",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-17T23:00:00",
+      "fin": "2026-06-18T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Desde las gateras",
+      "descripcion": "Espacio hípico que trae los detalles de las competiciones de caballos. Los premios, los participantes y el desarrollo de los torneos los encontrarás aquí.",
+      "inicio": "2026-06-18T06:00:00",
+      "fin": "2026-06-18T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Amanecer rural",
+      "descripcion": "Informativo matutino especializado que provee a los agricultores y ganaderos el análisis detallado de los precios de mercado, el clima y noticias claves para la producción nacional.",
+      "inicio": "2026-06-18T06:30:00",
+      "fin": "2026-06-18T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Buen día noticias",
+      "descripcion": "Inicia tu día excelentemente informado con las más relevantes, actuales y valiosas noticias del país, analizadas a fondo por un gran equipo de dedicados y experimentados periodistas.",
+      "inicio": "2026-06-18T07:00:00",
+      "fin": "2026-06-18T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Agenda",
+      "descripcion": "Espacio informativo que detalla los eventos políticos, culturales y económicos más importantes que marcarán el ritmo noticioso de la jornada a nivel nacional.",
+      "inicio": "2026-06-18T09:00:00",
+      "fin": "2026-06-18T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "47M",
+      "descripcion": "Informativo en vivo que repasa la actualidad diaria y presenta segmentos variados de moda, ciencia, deportes y entretenimiento.",
+      "inicio": "2026-06-18T11:00:00",
+      "fin": "2026-06-18T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El pato TV",
+      "descripcion": "En cada entrega, los lugares más pintorescos e idóneos para la práctica de los deportes de aventuras. Toda la información necesaria para el seguidor de la pesca y caza de nuestra región.",
+      "inicio": "2026-06-18T13:00:00",
+      "fin": "2026-06-18T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Chamigo Team TV",
+      "descripcion": "Presenta lo mejor de la pesca deportiva, el turismo y la naturaleza.",
+      "inicio": "2026-06-18T13:30:00",
+      "fin": "2026-06-18T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "María Delirio",
+      "descripcion": "Magazine diario en vivo de moda, cultura y espectaculo.",
+      "inicio": "2026-06-18T14:00:00",
+      "fin": "2026-06-18T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Agenda",
+      "descripcion": "Espacio informativo que detalla los eventos políticos, culturales y económicos más importantes que marcarán el ritmo noticioso de la jornada a nivel nacional.",
+      "inicio": "2026-06-18T16:00:00",
+      "fin": "2026-06-18T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
