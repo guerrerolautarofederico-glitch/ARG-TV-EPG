@@ -1,124 +1,19 @@
 {
   "actual": {
-    "titulo": "Cuestión de peso",
-    "descripcion": "Cuestión de peso es un reality show que presenta a diversas personas con sobrepeso y sigue sus intentos diarios por reducir su peso.",
-    "inicio": "2026-06-19T15:15:00",
-    "fin": "2026-06-19T17:15:00",
+    "titulo": "Sabores de cocina",
+    "descripcion": "Programa dedicado al mundo de la gastronomía.",
+    "inicio": "2026-06-20T12:00:00",
+    "fin": "2026-06-20T12:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "¡Ahora caigo!",
-    "descripcion": "Emocionante concurso de conocimientos donde los participantes deben responder rápidas preguntas de trivia para evitar caer en una misteriosa trampa y llevarse el premio.",
-    "inicio": "2026-06-19T17:15:00",
-    "fin": "2026-06-19T19:00:00",
+    "titulo": "Pioneros",
+    "descripcion": "Acompáñanos en este segmento especial y aprende un poco más sobre los representantes y pioneros de la Iglesia de Jesucristo de los Santos de los Últimos Días, en un recorrido a través de diferentes partes del mundo.",
+    "inicio": "2026-06-20T12:30:00",
+    "fin": "2026-06-20T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Cuestión de peso",
-      "descripcion": "Cuestión de peso es un reality show que presenta a diversas personas con sobrepeso y sigue sus intentos diarios por reducir su peso.",
-      "inicio": "2026-06-19T15:15:00",
-      "fin": "2026-06-19T17:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Ahora caigo!",
-      "descripcion": "Emocionante concurso de conocimientos donde los participantes deben responder rápidas preguntas de trivia para evitar caer en una misteriosa trampa y llevarse el premio.",
-      "inicio": "2026-06-19T17:15:00",
-      "fin": "2026-06-19T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Telenoche Doce",
-      "descripcion": "Encara los temas locales de actualidad con una profundidad y un despliegue único en la provincia. El énfasis está puesto en los eventos locales, pero no son ajenas tampoco las cuestiones políticas o económicas de alcance nacional e internacional.",
-      "inicio": "2026-06-19T19:00:00",
-      "fin": "2026-06-19T20:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Es mi sueño",
-      "descripcion": "Un certamen que combina actuaciones en vivo con relatos personales cargados de emoción. Los participantes deben abrir su corazón, contar qué los trajo hasta ahí y cuál es el sueño que buscan cumplir frente a millones de personas.",
-      "inicio": "2026-06-19T20:20:00",
-      "fin": "2026-06-19T21:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Otro día perdido",
-      "descripcion": "Un big show donde la actualidad se mezcla con el humor, la ironía y la tecnología en una propuesta de gran despliegue. Monólogos punzantes, entrevistas, inteligencia artificial, bandas en vivo y mucho más.",
-      "inicio": "2026-06-19T21:50:00",
-      "fin": "2026-06-19T23:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Proyecto Motorhome - Mundial",
-      "descripcion": "Con Proyecto Motorhome, vivís el mundial como nadie más te lo va a mostrar. Una cobertura inédita de la Copa del Mundo 2026. Periodismo, turismo, convivencia, cultura, humor y la mirada del hincha en cada una de las sedes.",
-      "inicio": "2026-06-19T23:35:00",
-      "fin": "2026-06-20T00:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Última página",
-      "descripcion": "Claudio Fantini realiza un análisis profundo e intenta prever los escenarios futuros a corto plazo de la política nacional argentina, exponiendo las claves de los procesos que se desarrollan actualmente, así como también de los partidos.",
-      "inicio": "2026-06-20T00:05:00",
-      "fin": "2026-06-20T00:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En síntesis",
-      "descripcion": "La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.",
-      "inicio": "2026-06-20T00:20:00",
-      "fin": "2026-06-20T01:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fuera del aire",
-      "descripcion": "Fin de emisión.",
-      "inicio": "2026-06-20T01:05:00",
-      "fin": "2026-06-20T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fueradelaire.jpg"
-    },
-    {
-      "titulo": "Monteadentro",
-      "descripcion": "Dos hermanos, pertenecientes a una de las últimas familias de arrieros en Colombia, se reúnen para un desafiante viaje a los picos más altos de los Andes, a pesar de haber estado llevando vidas distanciadas. Alonso, uno de ellos, vive forzosamente en la ciudad acompañando a su madre, ya que los médicos no le permiten volver al campo. Novier, el otro hermano, aún vive en las montañas de Caldas e intenta ganarse la vida manteniendo su tradición arriera y la vieja casa en la montaña, de la misma manera que lo hicieron su abuelo y su padre. Mientras cada uno de ellos lucha por subsistir, son visitados por los recuerdos de un pasado juntos que les hace desear volver a sus orígenes.",
-      "inicio": "2026-06-20T08:00:00",
-      "fin": "2026-06-20T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hoy y siempre, tango",
-      "descripcion": "Programa de la televisión cordobesa sobre el tango de hoy y siempre.",
-      "inicio": "2026-06-20T09:00:00",
-      "fin": "2026-06-20T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pasteleando",
-      "descripcion": "Cristina Maricel Colazo conduce una propuesta pensada para los amantes de lo dulce y la cocina casera. La pastelera busca transmitir sus conocimientos, técnicas y secretos del mundo de la pastelería para que el público amplíe sus conocimientos. El programa estará enfocado en recetas accesibles, consejos prácticos y elaboraciones paso a paso, con la intención de que el público pueda replicarlas fácilmente.",
-      "inicio": "2026-06-20T09:30:00",
-      "fin": "2026-06-20T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Para su salud",
-      "descripcion": "Espacio conducido por Ricardo Guarino, en el cual te presentamos información, entrevistas y contenidos de salud en general.",
-      "inicio": "2026-06-20T10:00:00",
-      "fin": "2026-06-20T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Caminos del interior",
-      "descripcion": "Un espacio para recorrer Córdoba y conocer su cultura, sus costumbres, sus fiestas y su orgullo, a través de un reflejo de las actividades de sus municipios, comunas, instituciones y empresas.",
-      "inicio": "2026-06-20T10:30:00",
-      "fin": "2026-06-20T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Agroverdad",
-      "descripcion": "Un análisis detallado del quehacer agropecuario y ganadero, resaltando tanto a los grandes productores como a los pequeños actores fundamentales en la economía rural.",
-      "inicio": "2026-06-20T11:30:00",
-      "fin": "2026-06-20T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Sabores de cocina",
       "descripcion": "Programa dedicado al mundo de la gastronomía.",
@@ -166,6 +61,90 @@
       "descripcion": "Selección de las mejores películas del mundo.",
       "inicio": "2026-06-20T16:15:00",
       "fin": "2026-06-20T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mariana de viaje",
+      "descripcion": "Es un espacio de turismo que muestra diferentes destinos, testimonios de viajeros e historias de cada lugar con la compañía y conducción de Mariana Bonelli. El formato contempla una crónica vívida y pormenorizada de cada destino con el testimonio en primera persona de su conductora o enviados especiales, lo cual le brinda un estilo único y atractivo ya que permite que el espectador se sienta formando parte del recorrido. Por otro lado, la experiencia de viaje en el proceso de producción permite brindar información y datos útiles que pueden ayudar a la audiencia a tomar una buena decisión al momento de programar un viaje. Excursiones, paisajes, usos y costumbres de cada lugar, naturaleza, urbanismo, historias, leyendas, mitos, platos típicos, música, actividades y servicios turísticos de excelencia mostrados con distinción y dinamismo.",
+      "inicio": "2026-06-20T17:45:00",
+      "fin": "2026-06-20T18:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tv 4.0",
+      "descripcion": "Diego Robledo conduce un espacio para conocer los proyectos y las mentes que lideran la economía del conocimiento en nuestra región. Junto al presentador, el público explora el ecosistema que diseña el futuro a través de la ciencia, la tecnología y la innovación.",
+      "inicio": "2026-06-20T18:15:00",
+      "fin": "2026-06-20T18:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Voz y voto",
+      "descripcion": "Información de primera mano sobre temas políticos de relevancia nacional.",
+      "inicio": "2026-06-20T18:45:00",
+      "fin": "2026-06-20T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Resto del mundo",
+      "descripcion": "Un recorrido por los lugares más alucinantes del mundo.",
+      "inicio": "2026-06-20T19:45:00",
+      "fin": "2026-06-20T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La noche de Mirtha",
+      "descripcion": "La Chiqui encabezará las mesas con las figuras y los invitados más representativos, importantes y destacados de la cultura, política, espectáculos y el deporte. Jimena Monteverde será la encargada de preparar los exquisitos platos para los invitados, que disfrutarán en una escenografía renovada, moderna y lujosa.",
+      "inicio": "2026-06-20T20:30:00",
+      "fin": "2026-06-20T22:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Como dos extraños",
+      "descripcion": "Juan Adrián Ratti y Chicha Osorio invitan a personalidades del arte, del deporte, la política y los medios para compartir una entrevista intimista, donde mantienen una charla abierta y emotiva.",
+      "inicio": "2026-06-20T22:15:00",
+      "fin": "2026-06-20T22:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cuarteteando - La previa",
+      "descripcion": "La previa al programa Cuarteteando.",
+      "inicio": "2026-06-20T22:45:00",
+      "fin": "2026-06-20T23:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fuera del aire",
+      "descripcion": "Fin de emisión.",
+      "inicio": "2026-06-20T23:45:00",
+      "fin": "2026-06-21T07:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fueradelaire.jpg"
+    },
+    {
+      "titulo": "Los Tres Chiflados",
+      "descripcion": "Moe, Larry y Curly son tres tipos algo locos, con los que te divertirás muchísimo, ya que son graciosos y atolondrados. Disfruta de sus aventuras y ocurrencias. Siempre tendrán un objetivo que cumplir y ciertas reglas que acatar, sin embargo, el trío hilarante meterá la pata en cualquier momento y serán castigados por sus jefes.",
+      "inicio": "2026-06-21T07:45:00",
+      "fin": "2026-06-21T08:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sofy",
+      "descripcion": "Comparte con nosotros el mundo mágico e infantil de Sofy, con canciones y mucha diversión.",
+      "inicio": "2026-06-21T08:45:00",
+      "fin": "2026-06-21T09:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol infantil",
+      "descripcion": "Transmisión de los torneos de fútbol donde participan los niños de la región, quienes son las jóvenes promesas de esta disciplina deportiva. Además, entrevistas, comentarios, estadísticas, premios y actividades de los clubes.",
+      "inicio": "2026-06-21T09:15:00",
+      "fin": "2026-06-21T11:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cuarteteando",
+      "descripcion": "Es la sección de ElDoceTV que te trae todo el cuarteto a Internet. Transmisiones en vivo, noticias, coberturas, entrevistas y la agenda de los bailes en tu celular.",
+      "inicio": "2026-06-21T11:45:00",
+      "fin": "2026-06-21T12:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
