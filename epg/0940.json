@@ -1,150 +1,115 @@
 {
   "actual": {
-    "titulo": "Sabores de cocina",
-    "descripcion": "Programa dedicado al mundo de la gastronomía.",
-    "inicio": "2026-06-20T12:00:00",
-    "fin": "2026-06-20T12:30:00",
+    "titulo": "Cuarteteando",
+    "descripcion": "Es la sección de ElDoceTV que te trae todo el cuarteto a Internet. Transmisiones en vivo, noticias, coberturas, entrevistas y la agenda de los bailes en tu celular.",
+    "inicio": "2026-06-21T11:45:00",
+    "fin": "2026-06-21T12:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Pioneros",
-    "descripcion": "Acompáñanos en este segmento especial y aprende un poco más sobre los representantes y pioneros de la Iglesia de Jesucristo de los Santos de los Últimos Días, en un recorrido a través de diferentes partes del mundo.",
-    "inicio": "2026-06-20T12:30:00",
-    "fin": "2026-06-20T13:00:00",
+    "titulo": "Almorzando con Juana",
+    "descripcion": "Juana Viale recibe a las figuras más destacadas de la política, la cultura, el deporte y el espectáculo nacional para compartir un agradable almuerzo y entrevistas exclusivas.",
+    "inicio": "2026-06-21T12:45:00",
+    "fin": "2026-06-21T14:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Sabores de cocina",
-      "descripcion": "Programa dedicado al mundo de la gastronomía.",
-      "inicio": "2026-06-20T12:00:00",
-      "fin": "2026-06-20T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pioneros",
-      "descripcion": "Acompáñanos en este segmento especial y aprende un poco más sobre los representantes y pioneros de la Iglesia de Jesucristo de los Santos de los Últimos Días, en un recorrido a través de diferentes partes del mundo.",
-      "inicio": "2026-06-20T12:30:00",
-      "fin": "2026-06-20T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Nivel Unno",
-      "descripcion": "Magazine en el cual conocerás paisajes y culturas mostrados desde una perspectiva única, además de estar al día con lo último de la moda.",
-      "inicio": "2026-06-20T13:00:00",
-      "fin": "2026-06-20T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dmag Tv",
-      "descripcion": "Espacio que funciona como revista y plataforma de contenidos de moda, arte, diseño y música de vanguardia, con una mirada diferente de las tendencias.",
-      "inicio": "2026-06-20T13:30:00",
-      "fin": "2026-06-20T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mundo inmobiliario",
-      "descripcion": "Un programa dedicado a la construcción, y a las oportunidades inmobiliarias.",
-      "inicio": "2026-06-20T14:00:00",
-      "fin": "2026-06-20T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cine 13",
-      "descripcion": "Selección de las mejores películas del mundo.",
-      "inicio": "2026-06-20T14:30:00",
-      "fin": "2026-06-20T16:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cine",
-      "descripcion": "Selección de las mejores películas del mundo.",
-      "inicio": "2026-06-20T16:15:00",
-      "fin": "2026-06-20T17:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mariana de viaje",
-      "descripcion": "Es un espacio de turismo que muestra diferentes destinos, testimonios de viajeros e historias de cada lugar con la compañía y conducción de Mariana Bonelli. El formato contempla una crónica vívida y pormenorizada de cada destino con el testimonio en primera persona de su conductora o enviados especiales, lo cual le brinda un estilo único y atractivo ya que permite que el espectador se sienta formando parte del recorrido. Por otro lado, la experiencia de viaje en el proceso de producción permite brindar información y datos útiles que pueden ayudar a la audiencia a tomar una buena decisión al momento de programar un viaje. Excursiones, paisajes, usos y costumbres de cada lugar, naturaleza, urbanismo, historias, leyendas, mitos, platos típicos, música, actividades y servicios turísticos de excelencia mostrados con distinción y dinamismo.",
-      "inicio": "2026-06-20T17:45:00",
-      "fin": "2026-06-20T18:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tv 4.0",
-      "descripcion": "Diego Robledo conduce un espacio para conocer los proyectos y las mentes que lideran la economía del conocimiento en nuestra región. Junto al presentador, el público explora el ecosistema que diseña el futuro a través de la ciencia, la tecnología y la innovación.",
-      "inicio": "2026-06-20T18:15:00",
-      "fin": "2026-06-20T18:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Voz y voto",
-      "descripcion": "Información de primera mano sobre temas políticos de relevancia nacional.",
-      "inicio": "2026-06-20T18:45:00",
-      "fin": "2026-06-20T19:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Resto del mundo",
-      "descripcion": "Un recorrido por los lugares más alucinantes del mundo.",
-      "inicio": "2026-06-20T19:45:00",
-      "fin": "2026-06-20T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La noche de Mirtha",
-      "descripcion": "La Chiqui encabezará las mesas con las figuras y los invitados más representativos, importantes y destacados de la cultura, política, espectáculos y el deporte. Jimena Monteverde será la encargada de preparar los exquisitos platos para los invitados, que disfrutarán en una escenografía renovada, moderna y lujosa.",
-      "inicio": "2026-06-20T20:30:00",
-      "fin": "2026-06-20T22:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Como dos extraños",
-      "descripcion": "Juan Adrián Ratti y Chicha Osorio invitan a personalidades del arte, del deporte, la política y los medios para compartir una entrevista intimista, donde mantienen una charla abierta y emotiva.",
-      "inicio": "2026-06-20T22:15:00",
-      "fin": "2026-06-20T22:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuarteteando - La previa",
-      "descripcion": "La previa al programa Cuarteteando.",
-      "inicio": "2026-06-20T22:45:00",
-      "fin": "2026-06-20T23:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fuera del aire",
-      "descripcion": "Fin de emisión.",
-      "inicio": "2026-06-20T23:45:00",
-      "fin": "2026-06-21T07:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fueradelaire.jpg"
-    },
-    {
-      "titulo": "Los Tres Chiflados",
-      "descripcion": "Moe, Larry y Curly son tres tipos algo locos, con los que te divertirás muchísimo, ya que son graciosos y atolondrados. Disfruta de sus aventuras y ocurrencias. Siempre tendrán un objetivo que cumplir y ciertas reglas que acatar, sin embargo, el trío hilarante meterá la pata en cualquier momento y serán castigados por sus jefes.",
-      "inicio": "2026-06-21T07:45:00",
-      "fin": "2026-06-21T08:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sofy",
-      "descripcion": "Comparte con nosotros el mundo mágico e infantil de Sofy, con canciones y mucha diversión.",
-      "inicio": "2026-06-21T08:45:00",
-      "fin": "2026-06-21T09:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol infantil",
-      "descripcion": "Transmisión de los torneos de fútbol donde participan los niños de la región, quienes son las jóvenes promesas de esta disciplina deportiva. Además, entrevistas, comentarios, estadísticas, premios y actividades de los clubes.",
-      "inicio": "2026-06-21T09:15:00",
-      "fin": "2026-06-21T11:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Cuarteteando",
       "descripcion": "Es la sección de ElDoceTV que te trae todo el cuarteto a Internet. Transmisiones en vivo, noticias, coberturas, entrevistas y la agenda de los bailes en tu celular.",
       "inicio": "2026-06-21T11:45:00",
       "fin": "2026-06-21T12:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Almorzando con Juana",
+      "descripcion": "Juana Viale recibe a las figuras más destacadas de la política, la cultura, el deporte y el espectáculo nacional para compartir un agradable almuerzo y entrevistas exclusivas.",
+      "inicio": "2026-06-21T12:45:00",
+      "fin": "2026-06-21T14:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Alta moda",
+      "descripcion": "Revista de estilo que te acerca las últimas tendencias, consejos de diseño y la actualidad de la moda, todo desde una perspectiva fresca y local.",
+      "inicio": "2026-06-21T14:45:00",
+      "fin": "2026-06-21T15:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Chichilo en el Doce",
+      "descripcion": "Un programa de humor conducido por el gran humorista cordobés Chichilo Viale, con quien pasaremos un grato y divertido momento junto a invitados especiales, juegos y diferentes personajes del humor cordobés que pondrán su arte cada domingo.",
+      "inicio": "2026-06-21T15:45:00",
+      "fin": "2026-06-21T16:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Genio",
+      "descripcion": "Un hombre adicto al trabajo solicita la ayuda de un genio mágico para recuperar a su familia antes de Navidad.",
+      "inicio": "2026-06-21T16:45:00",
+      "fin": "2026-06-21T18:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Eiffel",
+      "descripcion": "El gobierno francés presiona a Gustave Eiffel para diseñar algo espectacular para la Exposición Universal de París de 1889, pero él no está interesado. Sin embargo, todo cambia cuando una misteriosa mujer de su pasado lo inspira.",
+      "inicio": "2026-06-21T18:15:00",
+      "fin": "2026-06-21T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Deportes en marcha",
+      "descripcion": "Espacio dedicado a las actividades deportivas en general, dándole mayor importancia al fútbol, desde Primera División hasta el Argentino A, y a la cobertura de los equipos cordobeses: Talleres, Belgrano, Instituto, Racing y Juniors. A todo esto se suma el material generado por el boxeo, el rugby y las demás disciplinas destacadas que vayan a disputarse en Córdoba o por tener a algún cordobés como protagonista.",
+      "inicio": "2026-06-21T20:00:00",
+      "fin": "2026-06-21T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La otra boda",
+      "descripcion": "Cuando dos bodas se reservan por accidente el mismo día y lugar, cada cortejo nupcial tiene el desafío de preservar el momento especial de su familia. En.",
+      "inicio": "2026-06-21T21:00:00",
+      "fin": "2026-06-21T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Motores en marcha",
+      "descripcion": "Segmento dedicado al mundo del automovilismo, tanto a nivel nacional como internacional, con coberturas especiales de los campeonatos disputados en la provincia de Córdoba. Asimismo, se presentan las últimas noticias sobre el TC 2000, la Fórmula 1 y otras categorías que cuentan con equipos cordobeses, además de novedades y nuevos modelos, tambien se muestran las pruebas dinámicas y los accesorios de los vehículos.",
+      "inicio": "2026-06-21T23:00:00",
+      "fin": "2026-06-22T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fuera del aire",
+      "descripcion": "Fin de emisión.",
+      "inicio": "2026-06-22T00:00:00",
+      "fin": "2026-06-22T05:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fueradelaire.jpg"
+    },
+    {
+      "titulo": "Agroverdad bien temprano",
+      "descripcion": "Boletín matutino que informa sobre las últimas tendencias tecnológicas, mercados y novedades clave para mantener a los productores rurales actualizados al iniciar el día.",
+      "inicio": "2026-06-22T05:45:00",
+      "fin": "2026-06-22T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Arriba Córdoba",
+      "descripcion": "Un dinámico y descontracturado espacio informativo matutino que te mantiene al tanto de las últimas noticias, el clima, los servicios y reportes móviles en vivo.",
+      "inicio": "2026-06-22T06:00:00",
+      "fin": "2026-06-22T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El show del lagarto",
+      "descripcion": "Es el magazine local más visto y de mayor penetración dentro de la programación cordobesa de televisión por aire, que es referente de la información y el entretenimiento.",
+      "inicio": "2026-06-22T08:00:00",
+      "fin": "2026-06-22T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticiero 12",
+      "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias regional y nacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la coyuntura.",
+      "inicio": "2026-06-22T11:00:00",
+      "fin": "2026-06-22T12:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

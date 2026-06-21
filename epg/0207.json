@@ -1,199 +1,52 @@
 {
   "actual": {
-    "titulo": "CHV Noticias AM - Fin de semana",
-    "descripcion": "Infórmate al minuto y en video con uno de los principales noticieros de Chile. Actualización constante de lo que sucede en el país y el mundo.",
-    "inicio": "2026-06-20T10:00:00",
-    "fin": "2026-06-20T13:00:00",
+    "titulo": "CHV Noticias",
+    "descripcion": "La información de este programa no se encuentra disponible.",
+    "inicio": "2026-06-21T12:00:00",
+    "fin": "2026-06-21T18:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
   },
   "siguiente": {
-    "titulo": "CHV Noticias tarde",
-    "descripcion": "La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.",
-    "inicio": "2026-06-20T13:00:00",
-    "fin": "2026-06-20T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiastarde.jpg"
+    "titulo": "CHV Noticias",
+    "descripcion": "La información de este programa no se encuentra disponible.",
+    "inicio": "2026-06-21T18:00:00",
+    "fin": "2026-06-22T00:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "CHV Noticias AM - Fin de semana",
-      "descripcion": "Infórmate al minuto y en video con uno de los principales noticieros de Chile. Actualización constante de lo que sucede en el país y el mundo.",
-      "inicio": "2026-06-20T10:00:00",
-      "fin": "2026-06-20T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "CHV Noticias tarde",
-      "descripcion": "La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.",
-      "inicio": "2026-06-20T13:00:00",
-      "fin": "2026-06-20T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiastarde.jpg"
-    },
-    {
-      "titulo": "Reportajes CHV Noticias",
-      "descripcion": "Un espacio que presenta los reportajes que han marcardo la agenda de noticias en las últimas semanas. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
-      "inicio": "2026-06-20T15:00:00",
-      "fin": "2026-06-20T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "CHV futuro",
-      "descripcion": "Un programa de contenido informativo que comparte diversas noticias e historias vinculadas a la ciencia, la tecnología y la importancia de combatir a la crisis climática. Además, se exponen datos sobre salud, calidad de vida y mucho más.",
-      "inicio": "2026-06-20T15:30:00",
-      "fin": "2026-06-20T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "Team Chile al día",
-      "descripcion": "Ignacio Miranda trae todas las novedades de los deportistas olímpicos nacionales.",
-      "inicio": "2026-06-20T16:30:00",
-      "fin": "2026-06-20T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "Bolsillo: CHV Noticias",
-      "descripcion": "Un útil, práctico y educativo programa que ofrece los mejores consejos de ahorro financiero, economía familiar y excelentes decisiones de consumo para organizar correctamente tus valiosos gastos diarios.",
-      "inicio": "2026-06-20T17:00:00",
-      "fin": "2026-06-20T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "La entrevista de Daniel Matamala",
-      "descripcion": "Daniel Matamala conversa con diversas figuras destacadas en ámbitos como la política, la cultura, la ciencia y el medio ambiente.",
-      "inicio": "2026-06-20T18:00:00",
-      "fin": "2026-06-20T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "Hoy en el mundo: resumen semanal",
-      "descripcion": "Soledad Agüero y Carlos Grage informan sobre lo más destacado de la agenda de noticias internacional. A través del trabajo de periodistas, reporteros y expertos analizan los acontecimientos diarios en el mundo.",
-      "inicio": "2026-06-20T18:30:00",
-      "fin": "2026-06-20T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "CHV futuro",
-      "descripcion": "Un programa de contenido informativo que comparte diversas noticias e historias vinculadas a la ciencia, la tecnología y la importancia de combatir a la crisis climática. Además, se exponen datos sobre salud, calidad de vida y mucho más.",
-      "inicio": "2026-06-20T19:00:00",
-      "fin": "2026-06-20T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "CHV noticias Central",
-      "descripcion": "Macarena Pizarro y Daniel Matamala presentan el noticiero más creíble del país. Coberturas, notas y reportajes a fondo para estar informado con todo lo que ocurrió durante la jornada.",
-      "inicio": "2026-06-20T20:00:00",
-      "fin": "2026-06-20T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiascentral.jpg"
-    },
-    {
-      "titulo": "La entrevista de Macarena Pizarro",
-      "descripcion": "Programa de entrevistas a destacadas figuras de Chile y el mundo, conducido por Macarena Pizarro.",
-      "inicio": "2026-06-20T22:30:00",
-      "fin": "2026-06-20T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "Reportajes CHV Noticias",
-      "descripcion": "Un espacio que presenta los reportajes que han marcardo la agenda de noticias en las últimas semanas. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
-      "inicio": "2026-06-20T23:00:00",
-      "fin": "2026-06-21T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "Team Chile al día",
-      "descripcion": "Ignacio Miranda trae todas las novedades de los deportistas olímpicos nacionales.",
-      "inicio": "2026-06-21T00:00:00",
-      "fin": "2026-06-21T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "Hoy en el mundo: resumen semanal",
-      "descripcion": "Soledad Agüero y Carlos Grage informan sobre lo más destacado de la agenda de noticias internacional. A través del trabajo de periodistas, reporteros y expertos analizan los acontecimientos diarios en el mundo.",
-      "inicio": "2026-06-21T00:30:00",
-      "fin": "2026-06-21T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "Reportajes CHV Noticias",
-      "descripcion": "Un espacio que presenta los reportajes que han marcardo la agenda de noticias en las últimas semanas. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
-      "inicio": "2026-06-21T01:00:00",
-      "fin": "2026-06-21T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "CHV futuro",
-      "descripcion": "Un programa de contenido informativo que comparte diversas noticias e historias vinculadas a la ciencia, la tecnología y la importancia de combatir a la crisis climática. Además, se exponen datos sobre salud, calidad de vida y mucho más.",
-      "inicio": "2026-06-21T01:30:00",
-      "fin": "2026-06-21T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "Expedientes CHV Noticias",
-      "descripcion": "Un programa de contenido informativo que reúne las crónicas policiales con los casos que marcaron al país, con la cronología de hechos que causaron conmoción. Notas y entrevistas con análisis para entender cómo, dónde y cuándo sucedió.",
-      "inicio": "2026-06-21T02:30:00",
-      "fin": "2026-06-21T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expedienteschvnoticias.jpg"
-    },
-    {
-      "titulo": "Pelota al piso",
-      "descripcion": "Rodrigo Vera trae un podcast de conversación para conocer en profundidad a los protagonistas del deporte nacional. A través de la charla, se abordan diversos tópicos vinculados a la disciplina abordada y a las propias vivencias de los entrevistados.",
-      "inicio": "2026-06-21T03:30:00",
-      "fin": "2026-06-21T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "Bolsillo: CHV Noticias",
-      "descripcion": "Un útil, práctico y educativo programa que ofrece los mejores consejos de ahorro financiero, economía familiar y excelentes decisiones de consumo para organizar correctamente tus valiosos gastos diarios.",
-      "inicio": "2026-06-21T04:00:00",
-      "fin": "2026-06-21T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "Reportajes CHV Noticias",
-      "descripcion": "Un espacio que presenta los reportajes que han marcardo la agenda de noticias en las últimas semanas. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
-      "inicio": "2026-06-21T05:00:00",
-      "fin": "2026-06-21T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "La entrevista de Macarena Pizarro",
-      "descripcion": "Programa de entrevistas a destacadas figuras de Chile y el mundo, conducido por Macarena Pizarro.",
-      "inicio": "2026-06-21T06:00:00",
-      "fin": "2026-06-21T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "La entrevista de Daniel Matamala",
-      "descripcion": "Daniel Matamala conversa con diversas figuras destacadas en ámbitos como la política, la cultura, la ciencia y el medio ambiente.",
-      "inicio": "2026-06-21T06:30:00",
-      "fin": "2026-06-21T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "Bolsillo: CHV Noticias",
-      "descripcion": "Un útil, práctico y educativo programa que ofrece los mejores consejos de ahorro financiero, economía familiar y excelentes decisiones de consumo para organizar correctamente tus valiosos gastos diarios.",
-      "inicio": "2026-06-21T07:00:00",
-      "fin": "2026-06-21T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "CHV Noticias AM - Fin de semana",
-      "descripcion": "Infórmate al minuto y en video con uno de los principales noticieros de Chile. Actualización constante de lo que sucede en el país y el mundo.",
-      "inicio": "2026-06-21T08:00:00",
-      "fin": "2026-06-21T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "CHV futuro",
-      "descripcion": "Un programa de contenido informativo que comparte diversas noticias e historias vinculadas a la ciencia, la tecnología y la importancia de combatir a la crisis climática. Además, se exponen datos sobre salud, calidad de vida y mucho más.",
-      "inicio": "2026-06-21T11:00:00",
-      "fin": "2026-06-21T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
-    },
-    {
-      "titulo": "Reportajes CHV Noticias",
-      "descripcion": "Un espacio que presenta los reportajes que han marcardo la agenda de noticias en las últimas semanas. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
+      "titulo": "CHV Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
       "inicio": "2026-06-21T12:00:00",
-      "fin": "2026-06-21T13:00:00",
+      "fin": "2026-06-21T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
+    },
+    {
+      "titulo": "CHV Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-21T18:00:00",
+      "fin": "2026-06-22T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
+    },
+    {
+      "titulo": "CHV Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-22T00:00:00",
+      "fin": "2026-06-22T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
+    },
+    {
+      "titulo": "CHV Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-22T06:00:00",
+      "fin": "2026-06-22T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
+    },
+    {
+      "titulo": "CHV Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-22T12:00:00",
+      "fin": "2026-06-22T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
     }
   ]

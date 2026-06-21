@@ -1,137 +1,116 @@
 {
   "actual": {
-    "titulo": "Documentales",
-    "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
-    "inicio": "2026-06-20T12:00:00",
-    "fin": "2026-06-20T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
+    "titulo": "Dibujos animados",
+    "descripcion": "Segmento de programación especialmente recomendado para la infancia.",
+    "inicio": "2026-06-21T12:00:00",
+    "fin": "2026-06-21T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
     "titulo": "VTV Noticias mediodía",
     "descripcion": "Informativo que repasa todo lo acontecido en la región y en nuestro país.",
-    "inicio": "2026-06-20T14:00:00",
-    "fin": "2026-06-20T15:00:00",
+    "inicio": "2026-06-21T14:00:00",
+    "fin": "2026-06-21T15:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Documentales",
-      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
-      "inicio": "2026-06-20T12:00:00",
-      "fin": "2026-06-20T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
-    },
-    {
-      "titulo": "VTV Noticias mediodía",
-      "descripcion": "Informativo que repasa todo lo acontecido en la región y en nuestro país.",
-      "inicio": "2026-06-20T14:00:00",
-      "fin": "2026-06-20T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "CNTV infantil",
-      "descripcion": "Bloque de programación cultural y educativa enfocada en niños, niñas y adolescentes.",
-      "inicio": "2026-06-20T15:00:00",
-      "fin": "2026-06-20T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "Documentales",
-      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
-      "inicio": "2026-06-20T18:30:00",
-      "fin": "2026-06-20T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
-    },
-    {
-      "titulo": "Documentales",
-      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
-      "inicio": "2026-06-20T19:00:00",
-      "fin": "2026-06-20T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
-    },
-    {
-      "titulo": "Documentales",
-      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
-      "inicio": "2026-06-20T20:00:00",
-      "fin": "2026-06-20T20:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
-    },
-    {
-      "titulo": "Portavoz Noticias",
-      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
-      "inicio": "2026-06-20T20:55:00",
-      "fin": "2026-06-20T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "VTV Noticias Central",
-      "descripcion": "Informativo que repasa todo lo acontecido en la región y en nuestro país.",
-      "inicio": "2026-06-20T21:30:00",
-      "fin": "2026-06-20T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "VTV Tiempo",
-      "descripcion": "Información meteorológica en la Provincia del Aconcagua.",
-      "inicio": "2026-06-20T22:30:00",
-      "fin": "2026-06-20T22:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bumerang",
-      "descripcion": "Espacio dedicado a la moda y al estilo de vida de los argentinos.",
-      "inicio": "2026-06-20T22:35:00",
-      "fin": "2026-06-20T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Documentales",
-      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
-      "inicio": "2026-06-20T23:30:00",
-      "fin": "2026-06-21T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
-    },
-    {
-      "titulo": "VTV Noticias edición noche",
-      "descripcion": "Informativo que repasa todo lo acontecido en la región y en nuestro país.",
-      "inicio": "2026-06-21T00:00:00",
-      "fin": "2026-06-21T00:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Música en VTV",
-      "descripcion": "Espacio de videoclips con los artistas del momento.",
-      "inicio": "2026-06-21T00:45:00",
-      "fin": "2026-06-21T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dibujos animados",
-      "descripcion": "Segmento de programación especialmente recomendado para la infancia.",
-      "inicio": "2026-06-21T06:00:00",
-      "fin": "2026-06-21T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dibujos animados",
-      "descripcion": "Segmento de programación especialmente recomendado para la infancia.",
-      "inicio": "2026-06-21T09:00:00",
-      "fin": "2026-06-21T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dibujos animados",
-      "descripcion": "Segmento de programación especialmente recomendado para la infancia.",
-      "inicio": "2026-06-21T11:00:00",
-      "fin": "2026-06-21T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Dibujos animados",
       "descripcion": "Segmento de programación especialmente recomendado para la infancia.",
       "inicio": "2026-06-21T12:00:00",
       "fin": "2026-06-21T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "VTV Noticias mediodía",
+      "descripcion": "Informativo que repasa todo lo acontecido en la región y en nuestro país.",
+      "inicio": "2026-06-21T14:00:00",
+      "fin": "2026-06-21T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación cultural y educativa enfocada en niños, niñas y adolescentes.",
+      "inicio": "2026-06-21T15:00:00",
+      "fin": "2026-06-21T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Música en VTV",
+      "descripcion": "Espacio de videoclips con los artistas del momento.",
+      "inicio": "2026-06-21T17:00:00",
+      "fin": "2026-06-21T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Documentales",
+      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
+      "inicio": "2026-06-21T19:00:00",
+      "fin": "2026-06-21T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
+    },
+    {
+      "titulo": "Bumerang",
+      "descripcion": "Espacio dedicado a la moda y al estilo de vida de los argentinos.",
+      "inicio": "2026-06-21T19:30:00",
+      "fin": "2026-06-21T20:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Portavoz Noticias",
+      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
+      "inicio": "2026-06-21T20:55:00",
+      "fin": "2026-06-21T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "VTV Noticias Central",
+      "descripcion": "Informativo que repasa todo lo acontecido en la región y en nuestro país.",
+      "inicio": "2026-06-21T21:30:00",
+      "fin": "2026-06-21T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "VTV Tiempo",
+      "descripcion": "Información meteorológica en la Provincia del Aconcagua.",
+      "inicio": "2026-06-21T22:30:00",
+      "fin": "2026-06-21T22:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cocktail de tangos",
+      "descripcion": "Jaime Ramírez te invita a recordar y disfrutar de las mejores canciones, compuestas por los mayores exponentes del tango.",
+      "inicio": "2026-06-21T22:35:00",
+      "fin": "2026-06-22T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "VTV Noticias edición noche",
+      "descripcion": "Informativo que repasa todo lo acontecido en la región y en nuestro país.",
+      "inicio": "2026-06-22T00:00:00",
+      "fin": "2026-06-22T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Música en VTV",
+      "descripcion": "Espacio de videoclips con los artistas del momento.",
+      "inicio": "2026-06-22T00:45:00",
+      "fin": "2026-06-22T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación cultural y educativa enfocada en niños, niñas y adolescentes.",
+      "inicio": "2026-06-22T06:00:00",
+      "fin": "2026-06-22T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación cultural y educativa enfocada en niños, niñas y adolescentes.",
+      "inicio": "2026-06-22T12:00:00",
+      "fin": "2026-06-22T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
     }
   ]
 }
