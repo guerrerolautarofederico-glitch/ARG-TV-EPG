@@ -1,103 +1,19 @@
 {
   "actual": {
-    "titulo": "Dale play",
-    "descripcion": "Dos equipos ponen a prueba su conocimiento musical para acumular dinero y llegar al juego final: una vertiginosa carrera contra el tiempo por un premio millonario. Un programa lleno de canciones, humor y desafíos para jugar y cantar en familia.",
-    "inicio": "2026-06-22T18:15:00",
-    "fin": "2026-06-22T20:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/daleplay.jpg"
+    "titulo": "Meganoticias alerta",
+    "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+    "inicio": "2026-06-23T13:00:00",
+    "fin": "2026-06-23T14:55:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasalerta.jpg"
   },
   "siguiente": {
-    "titulo": "Meganoticias Prime",
-    "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-    "inicio": "2026-06-22T20:00:00",
-    "fin": "2026-06-22T21:25:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasprime.jpg"
+    "titulo": "El tiempo",
+    "descripcion": "Toda la informacion meteorológica del país.",
+    "inicio": "2026-06-23T14:55:00",
+    "fin": "2026-06-23T15:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
   },
   "lista": [
-    {
-      "titulo": "Dale play",
-      "descripcion": "Dos equipos ponen a prueba su conocimiento musical para acumular dinero y llegar al juego final: una vertiginosa carrera contra el tiempo por un premio millonario. Un programa lleno de canciones, humor y desafíos para jugar y cantar en familia.",
-      "inicio": "2026-06-22T18:15:00",
-      "fin": "2026-06-22T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/daleplay.jpg"
-    },
-    {
-      "titulo": "Meganoticias Prime",
-      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-      "inicio": "2026-06-22T20:00:00",
-      "fin": "2026-06-22T21:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasprime.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-06-22T21:25:00",
-      "fin": "2026-06-22T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
-    },
-    {
-      "titulo": "Reunión de superados",
-      "descripcion": "Un grupo de WhatsApp de apoderados del establecimiento Thomas Campbell School, liderado por el profesor jefe Rubén, invita a los padres estar comunicados, en donde se vivirarán intensos momentos .",
-      "inicio": "2026-06-22T21:30:00",
-      "fin": "2026-06-22T22:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reuniondesuperados.jpg"
-    },
-    {
-      "titulo": "¿Volverías con tu ex? 2",
-      "descripcion": "Reality donde los participantes se verán enfrentados a la posibilidad de ir por una segunda oportunidad con su ex pareja, o elegir el camino de la venganza.",
-      "inicio": "2026-06-22T22:15:00",
-      "fin": "2026-06-23T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/volveriascontuex2.jpg"
-    },
-    {
-      "titulo": "El juicio de los ex",
-      "descripcion": "Los eliminados de Volverías con tu ex 2 comentan y reaccionan a todo lo que ocurre dentro del encierro.",
-      "inicio": "2026-06-23T00:00:00",
-      "fin": "2026-06-23T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eljuiciodelosex.jpg"
-    },
-    {
-      "titulo": "La hora de jugar - Trasnoche",
-      "descripcion": "Mucho gusto, en una alianza con Lotería, preparan un programa donde la consigna es pasarlo bien y ganar suculentos premios.",
-      "inicio": "2026-06-23T01:00:00",
-      "fin": "2026-06-23T01:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahoradejugartrasnoche.jpg"
-    },
-    {
-      "titulo": "Dale play",
-      "descripcion": "Dos equipos ponen a prueba su conocimiento musical para acumular dinero y llegar al juego final: una vertiginosa carrera contra el tiempo por un premio millonario. Un programa lleno de canciones, humor y desafíos para jugar y cantar en familia.",
-      "inicio": "2026-06-23T01:45:00",
-      "fin": "2026-06-23T03:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/daleplay.jpg"
-    },
-    {
-      "titulo": "Reunión de superados",
-      "descripcion": "Un grupo de WhatsApp de apoderados del establecimiento Thomas Campbell School, liderado por el profesor jefe Rubén, invita a los padres estar comunicados, en donde se vivirarán intensos momentos .",
-      "inicio": "2026-06-23T03:15:00",
-      "fin": "2026-06-23T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reuniondesuperados.jpg"
-    },
-    {
-      "titulo": "Meganoticias ahora",
-      "descripcion": "Una completa y especial cobertura de las elecciones primarias 2024 en diferentes comunas del país, con toda la contingencia y el recuento de los votos, de los 215 candidatos, para la nominación de Alcaldes y Gobernadores Regionales en todo el territorio nacional.",
-      "inicio": "2026-06-23T04:00:00",
-      "fin": "2026-06-23T05:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahora.jpg"
-    },
-    {
-      "titulo": "Meganoticias amanece",
-      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-      "inicio": "2026-06-23T05:45:00",
-      "fin": "2026-06-23T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasamanece.jpg"
-    },
-    {
-      "titulo": "Mucho gusto",
-      "descripcion": "Un programa que se encarga de llevar información y entretenimiento de una manera muy alegre a los hogares chilenos, con un panel de expertos para debatir los hechos más destacados de la actualidad.",
-      "inicio": "2026-06-23T08:00:00",
-      "fin": "2026-06-23T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/muchogusto.jpg"
-    },
     {
       "titulo": "Meganoticias alerta",
       "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
@@ -146,6 +62,90 @@
       "inicio": "2026-06-23T18:15:00",
       "fin": "2026-06-23T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/daleplay.jpg"
+    },
+    {
+      "titulo": "Meganoticias Prime",
+      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+      "inicio": "2026-06-23T20:00:00",
+      "fin": "2026-06-23T21:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasprime.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Toda la informacion meteorológica del país.",
+      "inicio": "2026-06-23T21:25:00",
+      "fin": "2026-06-23T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
+    },
+    {
+      "titulo": "Reunión de superados",
+      "descripcion": "Un grupo de WhatsApp de apoderados del establecimiento Thomas Campbell School, liderado por el profesor jefe Rubén, invita a los padres estar comunicados, en donde se vivirarán intensos momentos .",
+      "inicio": "2026-06-23T21:30:00",
+      "fin": "2026-06-23T22:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reuniondesuperados.jpg"
+    },
+    {
+      "titulo": "¿Volverías con tu ex? 2",
+      "descripcion": "Reality donde los participantes se verán enfrentados a la posibilidad de ir por una segunda oportunidad con su ex pareja, o elegir el camino de la venganza.",
+      "inicio": "2026-06-23T22:15:00",
+      "fin": "2026-06-24T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/volveriascontuex2.jpg"
+    },
+    {
+      "titulo": "El juicio de los ex",
+      "descripcion": "Los eliminados de Volverías con tu ex 2 comentan y reaccionan a todo lo que ocurre dentro del encierro.",
+      "inicio": "2026-06-24T00:00:00",
+      "fin": "2026-06-24T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eljuiciodelosex.jpg"
+    },
+    {
+      "titulo": "La hora de jugar - Trasnoche",
+      "descripcion": "Mucho gusto, en una alianza con Lotería, preparan un programa donde la consigna es pasarlo bien y ganar suculentos premios.",
+      "inicio": "2026-06-24T01:00:00",
+      "fin": "2026-06-24T01:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahoradejugartrasnoche.jpg"
+    },
+    {
+      "titulo": "Dale play",
+      "descripcion": "Dos equipos ponen a prueba su conocimiento musical para acumular dinero y llegar al juego final: una vertiginosa carrera contra el tiempo por un premio millonario. Un programa lleno de canciones, humor y desafíos para jugar y cantar en familia.",
+      "inicio": "2026-06-24T01:45:00",
+      "fin": "2026-06-24T03:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/daleplay.jpg"
+    },
+    {
+      "titulo": "Reunión de superados",
+      "descripcion": "Un grupo de WhatsApp de apoderados del establecimiento Thomas Campbell School, liderado por el profesor jefe Rubén, invita a los padres estar comunicados, en donde se vivirarán intensos momentos .",
+      "inicio": "2026-06-24T03:15:00",
+      "fin": "2026-06-24T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reuniondesuperados.jpg"
+    },
+    {
+      "titulo": "Meganoticias ahora",
+      "descripcion": "Una completa y especial cobertura de las elecciones primarias 2024 en diferentes comunas del país, con toda la contingencia y el recuento de los votos, de los 215 candidatos, para la nominación de Alcaldes y Gobernadores Regionales en todo el territorio nacional.",
+      "inicio": "2026-06-24T04:00:00",
+      "fin": "2026-06-24T05:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahora.jpg"
+    },
+    {
+      "titulo": "Meganoticias amanece",
+      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+      "inicio": "2026-06-24T05:45:00",
+      "fin": "2026-06-24T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasamanece.jpg"
+    },
+    {
+      "titulo": "Mucho gusto",
+      "descripcion": "Un programa que se encarga de llevar información y entretenimiento de una manera muy alegre a los hogares chilenos, con un panel de expertos para debatir los hechos más destacados de la actualidad.",
+      "inicio": "2026-06-24T08:00:00",
+      "fin": "2026-06-24T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/muchogusto.jpg"
+    },
+    {
+      "titulo": "Meganoticias alerta",
+      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+      "inicio": "2026-06-24T13:00:00",
+      "fin": "2026-06-24T14:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasalerta.jpg"
     }
   ]
 }

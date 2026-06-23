@@ -1,89 +1,19 @@
 {
   "actual": {
-    "titulo": "Hola deportes",
-    "descripcion": "Un repaso por el acontecer del deporte nacional e internacional junto a un panel de expertos, invitados y corresponsales desplegados en terreno.",
-    "inicio": "2026-06-22T18:00:00",
-    "fin": "2026-06-22T19:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/holadeportes.jpg"
+    "titulo": "Metrópolis",
+    "descripcion": "Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.",
+    "inicio": "2026-06-23T13:00:00",
+    "fin": "2026-06-23T15:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Cdo",
-    "descripcion": "El deporte llega hasta tu pantalla, preparándote un sitial especial para que disfrutes de tus disciplinas olímpicas favoritas.",
-    "inicio": "2026-06-22T19:30:00",
-    "fin": "2026-06-22T23:30:00",
+    "titulo": "Resúmenes en 30",
+    "descripcion": "Un espacio que presenta los temas más destacados a nivel deportivo en la semana. A través del resumen, el público podrá informarse al competlo sobre partidos, jugadas, eventos, rendimientos y más.",
+    "inicio": "2026-06-23T15:00:00",
+    "fin": "2026-06-23T15:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Hola deportes",
-      "descripcion": "Un repaso por el acontecer del deporte nacional e internacional junto a un panel de expertos, invitados y corresponsales desplegados en terreno.",
-      "inicio": "2026-06-22T18:00:00",
-      "fin": "2026-06-22T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/holadeportes.jpg"
-    },
-    {
-      "titulo": "Cdo",
-      "descripcion": "El deporte llega hasta tu pantalla, preparándote un sitial especial para que disfrutes de tus disciplinas olímpicas favoritas.",
-      "inicio": "2026-06-22T19:30:00",
-      "fin": "2026-06-22T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hola deportes",
-      "descripcion": "Un repaso por el acontecer del deporte nacional e internacional junto a un panel de expertos, invitados y corresponsales desplegados en terreno.",
-      "inicio": "2026-06-22T23:30:00",
-      "fin": "2026-06-23T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/holadeportes.jpg"
-    },
-    {
-      "titulo": "Cdo",
-      "descripcion": "El deporte llega hasta tu pantalla, preparándote un sitial especial para que disfrutes de tus disciplinas olímpicas favoritas.",
-      "inicio": "2026-06-23T01:00:00",
-      "fin": "2026-06-23T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Metrópolis",
-      "descripcion": "Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.",
-      "inicio": "2026-06-23T03:00:00",
-      "fin": "2026-06-23T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cdo",
-      "descripcion": "El deporte llega hasta tu pantalla, preparándote un sitial especial para que disfrutes de tus disciplinas olímpicas favoritas.",
-      "inicio": "2026-06-23T05:00:00",
-      "fin": "2026-06-23T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hola deportes",
-      "descripcion": "Un repaso por el acontecer del deporte nacional e internacional junto a un panel de expertos, invitados y corresponsales desplegados en terreno.",
-      "inicio": "2026-06-23T07:00:00",
-      "fin": "2026-06-23T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/holadeportes.jpg"
-    },
-    {
-      "titulo": "Metrópolis",
-      "descripcion": "Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.",
-      "inicio": "2026-06-23T08:30:00",
-      "fin": "2026-06-23T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cdo",
-      "descripcion": "El deporte llega hasta tu pantalla, preparándote un sitial especial para que disfrutes de tus disciplinas olímpicas favoritas.",
-      "inicio": "2026-06-23T10:30:00",
-      "fin": "2026-06-23T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Resúmenes en 30",
-      "descripcion": "Un espacio que presenta los temas más destacados a nivel deportivo en la semana. A través del resumen, el público podrá informarse al competlo sobre partidos, jugadas, eventos, rendimientos y más.",
-      "inicio": "2026-06-23T12:30:00",
-      "fin": "2026-06-23T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Metrópolis",
       "descripcion": "Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.",
@@ -118,6 +48,83 @@
       "inicio": "2026-06-23T18:00:00",
       "fin": "2026-06-23T19:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/holadeportes.jpg"
+    },
+    {
+      "titulo": "Mi historia con el cáncer",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-23T19:30:00",
+      "fin": "2026-06-23T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mihistoriaconelcancer.jpg"
+    },
+    {
+      "titulo": "Cdo",
+      "descripcion": "El deporte llega hasta tu pantalla, preparándote un sitial especial para que disfrutes de tus disciplinas olímpicas favoritas.",
+      "inicio": "2026-06-23T21:30:00",
+      "fin": "2026-06-23T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hola deportes",
+      "descripcion": "Un repaso por el acontecer del deporte nacional e internacional junto a un panel de expertos, invitados y corresponsales desplegados en terreno.",
+      "inicio": "2026-06-23T23:30:00",
+      "fin": "2026-06-24T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/holadeportes.jpg"
+    },
+    {
+      "titulo": "Cdo",
+      "descripcion": "El deporte llega hasta tu pantalla, preparándote un sitial especial para que disfrutes de tus disciplinas olímpicas favoritas.",
+      "inicio": "2026-06-24T01:00:00",
+      "fin": "2026-06-24T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Metrópolis",
+      "descripcion": "Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.",
+      "inicio": "2026-06-24T03:00:00",
+      "fin": "2026-06-24T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cdo",
+      "descripcion": "El deporte llega hasta tu pantalla, preparándote un sitial especial para que disfrutes de tus disciplinas olímpicas favoritas.",
+      "inicio": "2026-06-24T05:00:00",
+      "fin": "2026-06-24T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hola deportes",
+      "descripcion": "Un repaso por el acontecer del deporte nacional e internacional junto a un panel de expertos, invitados y corresponsales desplegados en terreno.",
+      "inicio": "2026-06-24T07:00:00",
+      "fin": "2026-06-24T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/holadeportes.jpg"
+    },
+    {
+      "titulo": "Metrópolis",
+      "descripcion": "Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.",
+      "inicio": "2026-06-24T08:30:00",
+      "fin": "2026-06-24T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi historia con el cáncer",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-24T12:00:00",
+      "fin": "2026-06-24T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mihistoriaconelcancer.jpg"
+    },
+    {
+      "titulo": "Resúmenes en 30",
+      "descripcion": "Un espacio que presenta los temas más destacados a nivel deportivo en la semana. A través del resumen, el público podrá informarse al competlo sobre partidos, jugadas, eventos, rendimientos y más.",
+      "inicio": "2026-06-24T12:30:00",
+      "fin": "2026-06-24T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Metrópolis",
+      "descripcion": "Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.",
+      "inicio": "2026-06-24T13:00:00",
+      "fin": "2026-06-24T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

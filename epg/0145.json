@@ -1,110 +1,19 @@
 {
   "actual": {
-    "titulo": "Doctor En Casa",
-    "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
-    "inicio": "2026-06-22T17:00:00",
-    "fin": "2026-06-22T19:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/doctorencasa.jpg"
-  },
-  "siguiente": {
-    "titulo": "Teleautos",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-06-22T19:00:00",
-    "fin": "2026-06-22T19:55:00",
+    "titulo": "El Mundo de Beakman",
+    "descripcion": "Un científico estrafalario explica sobre ciencia y naturaleza a los niños.",
+    "inicio": "2026-06-23T14:00:00",
+    "fin": "2026-06-23T15:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
+  "siguiente": {
+    "titulo": "CNTV infantil • Bloque niños",
+    "descripcion": "Bloque niños ║ Bloque de contenido infantil.",
+    "inicio": "2026-06-23T15:00:00",
+    "fin": "2026-06-23T16:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+  },
   "lista": [
-    {
-      "titulo": "Doctor En Casa",
-      "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
-      "inicio": "2026-06-22T17:00:00",
-      "fin": "2026-06-22T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/doctorencasa.jpg"
-    },
-    {
-      "titulo": "Teleautos",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-22T19:00:00",
-      "fin": "2026-06-22T19:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Portavoz Noticias",
-      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
-      "inicio": "2026-06-22T19:55:00",
-      "fin": "2026-06-22T20:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "ITV Noticias",
-      "descripcion": "Se informa a la opinión pública y se genera debate a través de noticias exclusivas, periodismo de investigación e informes accesibles sobre la última agenda informativa.",
-      "inicio": "2026-06-22T20:25:00",
-      "fin": "2026-06-22T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ITV Tiempo",
-      "descripcion": "Información del clima.",
-      "inicio": "2026-06-22T21:00:00",
-      "fin": "2026-06-22T21:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ITV Deportes",
-      "descripcion": "La información deportiva más completa.",
-      "inicio": "2026-06-22T21:15:00",
-      "fin": "2026-06-22T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Portavoz Noticias",
-      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
-      "inicio": "2026-06-22T22:30:00",
-      "fin": "2026-06-22T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "Iglesia Universal",
-      "descripcion": "Promoviendo el mensaje de la existencia de un Dios único, vivo, verdadero y eterno.",
-      "inicio": "2026-06-22T23:00:00",
-      "fin": "2026-06-22T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/iglesiauniversal.jpg"
-    },
-    {
-      "titulo": "Trasnoche en ITV",
-      "descripcion": "Un espacio para acompañar a los televidentes que trasnochan. Si no encuentras algo en la televisión abierta después de la medianoche, este programa es para ti.",
-      "inicio": "2026-06-22T23:30:00",
-      "fin": "2026-06-23T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Portavoz Noticias",
-      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
-      "inicio": "2026-06-23T07:30:00",
-      "fin": "2026-06-23T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "Una mañana en familia",
-      "descripcion": "Un programa sobre temas diversos y frescos de la mano de invitados especiales.",
-      "inicio": "2026-06-23T08:00:00",
-      "fin": "2026-06-23T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Servicios religiosos",
-      "descripcion": "Espacio de servicio comunitario donde se publican obituarios.",
-      "inicio": "2026-06-23T12:00:00",
-      "fin": "2026-06-23T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Teleautos",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-06-23T13:00:00",
-      "fin": "2026-06-23T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "El Mundo de Beakman",
       "descripcion": "Un científico estrafalario explica sobre ciencia y naturaleza a los niños.",
@@ -132,6 +41,97 @@
       "inicio": "2026-06-23T17:00:00",
       "fin": "2026-06-23T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/doctorencasa.jpg"
+    },
+    {
+      "titulo": "Teleautos",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-23T19:00:00",
+      "fin": "2026-06-23T19:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Portavoz Noticias",
+      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
+      "inicio": "2026-06-23T19:55:00",
+      "fin": "2026-06-23T20:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "ITV Noticias",
+      "descripcion": "Se informa a la opinión pública y se genera debate a través de noticias exclusivas, periodismo de investigación e informes accesibles sobre la última agenda informativa.",
+      "inicio": "2026-06-23T20:25:00",
+      "fin": "2026-06-23T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ITV Tiempo",
+      "descripcion": "Información del clima.",
+      "inicio": "2026-06-23T21:00:00",
+      "fin": "2026-06-23T21:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Vivir la historia",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-23T21:15:00",
+      "fin": "2026-06-23T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Portavoz Noticias",
+      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
+      "inicio": "2026-06-23T22:30:00",
+      "fin": "2026-06-23T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Iglesia Universal",
+      "descripcion": "Promoviendo el mensaje de la existencia de un Dios único, vivo, verdadero y eterno.",
+      "inicio": "2026-06-23T23:00:00",
+      "fin": "2026-06-23T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/iglesiauniversal.jpg"
+    },
+    {
+      "titulo": "Trasnoche en ITV",
+      "descripcion": "Un espacio para acompañar a los televidentes que trasnochan. Si no encuentras algo en la televisión abierta después de la medianoche, este programa es para ti.",
+      "inicio": "2026-06-23T23:30:00",
+      "fin": "2026-06-24T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Portavoz Noticias",
+      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
+      "inicio": "2026-06-24T07:30:00",
+      "fin": "2026-06-24T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Una mañana en familia",
+      "descripcion": "Un programa sobre temas diversos y frescos de la mano de invitados especiales.",
+      "inicio": "2026-06-24T08:00:00",
+      "fin": "2026-06-24T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Servicios religiosos",
+      "descripcion": "Espacio de servicio comunitario donde se publican obituarios.",
+      "inicio": "2026-06-24T12:00:00",
+      "fin": "2026-06-24T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Teleautos",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-24T13:00:00",
+      "fin": "2026-06-24T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Mundo de Beakman",
+      "descripcion": "Un científico estrafalario explica sobre ciencia y naturaleza a los niños.",
+      "inicio": "2026-06-24T14:00:00",
+      "fin": "2026-06-24T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
