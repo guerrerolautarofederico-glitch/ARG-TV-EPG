@@ -1,145 +1,19 @@
 {
   "actual": {
-    "titulo": "Portavoz Noticias",
-    "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
-    "inicio": "2026-06-23T14:00:00",
-    "fin": "2026-06-23T14:45:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-  },
-  "siguiente": {
     "titulo": "Documentales",
     "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
-    "inicio": "2026-06-23T14:45:00",
-    "fin": "2026-06-23T15:30:00",
+    "inicio": "2026-06-24T12:00:00",
+    "fin": "2026-06-24T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
   },
+  "siguiente": {
+    "titulo": "Forever",
+    "descripcion": "Forever celebra la sabiduría y experiencia de los adultos mayores. Con entrevistas inspiradoras y consejos prácticos, es un espacio para conectar, aprender y disfrutar de la vida.",
+    "inicio": "2026-06-24T13:00:00",
+    "fin": "2026-06-24T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/forever.jpg"
+  },
   "lista": [
-    {
-      "titulo": "Portavoz Noticias",
-      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
-      "inicio": "2026-06-23T14:00:00",
-      "fin": "2026-06-23T14:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "Documentales",
-      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
-      "inicio": "2026-06-23T14:45:00",
-      "fin": "2026-06-23T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
-    },
-    {
-      "titulo": "Dr. En Casa",
-      "descripcion": "Un programa dedicado a la salud física y mental, con un lenguaje sencillo para todas las edades, que enseña a reconocer síntomas y prevenir enfermedades.",
-      "inicio": "2026-06-23T15:30:00",
-      "fin": "2026-06-23T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pasión a la mexicana",
-      "descripcion": "Pasión a la mexicana es el programa que celebra lo mejor de la música tropical ranchera, llevando a la pantalla los ritmos y emociones que caracterizan esta vibrante tradición musical.",
-      "inicio": "2026-06-23T16:30:00",
-      "fin": "2026-06-23T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasionalamexicana.jpg"
-    },
-    {
-      "titulo": "Documentales",
-      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
-      "inicio": "2026-06-23T17:30:00",
-      "fin": "2026-06-23T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
-    },
-    {
-      "titulo": "Especial Musical",
-      "descripcion": "Espacio musical.",
-      "inicio": "2026-06-23T19:00:00",
-      "fin": "2026-06-23T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Especial Musical",
-      "descripcion": "Espacio musical.",
-      "inicio": "2026-06-23T20:00:00",
-      "fin": "2026-06-23T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Documentales",
-      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
-      "inicio": "2026-06-23T21:00:00",
-      "fin": "2026-06-23T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
-    },
-    {
-      "titulo": "Portavoz Noticias",
-      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
-      "inicio": "2026-06-23T22:00:00",
-      "fin": "2026-06-23T22:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "Documentales",
-      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
-      "inicio": "2026-06-23T22:45:00",
-      "fin": "2026-06-24T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
-    },
-    {
-      "titulo": "Portavoz Noticias",
-      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
-      "inicio": "2026-06-24T00:30:00",
-      "fin": "2026-06-24T01:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "Documentales",
-      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
-      "inicio": "2026-06-24T01:45:00",
-      "fin": "2026-06-24T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
-    },
-    {
-      "titulo": "Especial Musical",
-      "descripcion": "Espacio musical.",
-      "inicio": "2026-06-24T02:30:00",
-      "fin": "2026-06-24T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Forever",
-      "descripcion": "Forever celebra la sabiduría y experiencia de los adultos mayores. Con entrevistas inspiradoras y consejos prácticos, es un espacio para conectar, aprender y disfrutar de la vida.",
-      "inicio": "2026-06-24T07:00:00",
-      "fin": "2026-06-24T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/forever.jpg"
-    },
-    {
-      "titulo": "Portavoz Noticias",
-      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
-      "inicio": "2026-06-24T08:00:00",
-      "fin": "2026-06-24T08:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "Espacio Cultural",
-      "descripcion": "Un programa dedicado a la difusión de las artes y la cultura, con entrevistas a artistas, reportajes sobre eventos y exposiciones, y análisis de las últimas tendencias.",
-      "inicio": "2026-06-24T08:45:00",
-      "fin": "2026-06-24T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dr. En Casa",
-      "descripcion": "Un programa dedicado a la salud física y mental, con un lenguaje sencillo para todas las edades, que enseña a reconocer síntomas y prevenir enfermedades.",
-      "inicio": "2026-06-24T10:00:00",
-      "fin": "2026-06-24T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pasión a la mexicana",
-      "descripcion": "Pasión a la mexicana es el programa que celebra lo mejor de la música tropical ranchera, llevando a la pantalla los ritmos y emociones que caracterizan esta vibrante tradición musical.",
-      "inicio": "2026-06-24T11:00:00",
-      "fin": "2026-06-24T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasionalamexicana.jpg"
-    },
     {
       "titulo": "Documentales",
       "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
@@ -160,6 +34,139 @@
       "inicio": "2026-06-24T14:00:00",
       "fin": "2026-06-24T14:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Documentales",
+      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
+      "inicio": "2026-06-24T14:45:00",
+      "fin": "2026-06-24T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
+    },
+    {
+      "titulo": "Dr. En Casa",
+      "descripcion": "Un programa dedicado a la salud física y mental, con un lenguaje sencillo para todas las edades, que enseña a reconocer síntomas y prevenir enfermedades.",
+      "inicio": "2026-06-24T15:30:00",
+      "fin": "2026-06-24T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pasión a la mexicana",
+      "descripcion": "Pasión a la mexicana es el programa que celebra lo mejor de la música tropical ranchera, llevando a la pantalla los ritmos y emociones que caracterizan esta vibrante tradición musical.",
+      "inicio": "2026-06-24T16:30:00",
+      "fin": "2026-06-24T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasionalamexicana.jpg"
+    },
+    {
+      "titulo": "Documentales",
+      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
+      "inicio": "2026-06-24T17:30:00",
+      "fin": "2026-06-24T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
+    },
+    {
+      "titulo": "Especial Musical",
+      "descripcion": "Espacio musical.",
+      "inicio": "2026-06-24T19:00:00",
+      "fin": "2026-06-24T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Especial Musical",
+      "descripcion": "Espacio musical.",
+      "inicio": "2026-06-24T20:00:00",
+      "fin": "2026-06-24T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Documentales",
+      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
+      "inicio": "2026-06-24T21:00:00",
+      "fin": "2026-06-24T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
+    },
+    {
+      "titulo": "Portavoz Noticias",
+      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
+      "inicio": "2026-06-24T22:00:00",
+      "fin": "2026-06-24T22:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Nuevos Desafíos",
+      "descripcion": "Programa que explora los desafíos del futuro en áreas como la tecnología, la sustentabilidad y la sociedad, presentando innovaciones y soluciones a problemas complejos.",
+      "inicio": "2026-06-24T22:45:00",
+      "fin": "2026-06-24T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Documentales",
+      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
+      "inicio": "2026-06-24T23:30:00",
+      "fin": "2026-06-25T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
+    },
+    {
+      "titulo": "Portavoz Noticias",
+      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
+      "inicio": "2026-06-25T00:30:00",
+      "fin": "2026-06-25T01:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Documentales",
+      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
+      "inicio": "2026-06-25T01:45:00",
+      "fin": "2026-06-25T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
+    },
+    {
+      "titulo": "Especial Musical",
+      "descripcion": "Espacio musical.",
+      "inicio": "2026-06-25T02:30:00",
+      "fin": "2026-06-25T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Forever",
+      "descripcion": "Forever celebra la sabiduría y experiencia de los adultos mayores. Con entrevistas inspiradoras y consejos prácticos, es un espacio para conectar, aprender y disfrutar de la vida.",
+      "inicio": "2026-06-25T07:00:00",
+      "fin": "2026-06-25T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/forever.jpg"
+    },
+    {
+      "titulo": "Portavoz Noticias",
+      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
+      "inicio": "2026-06-25T08:00:00",
+      "fin": "2026-06-25T08:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Espacio Cultural",
+      "descripcion": "Un programa dedicado a la difusión de las artes y la cultura, con entrevistas a artistas, reportajes sobre eventos y exposiciones, y análisis de las últimas tendencias.",
+      "inicio": "2026-06-25T08:45:00",
+      "fin": "2026-06-25T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dr. En Casa",
+      "descripcion": "Un programa dedicado a la salud física y mental, con un lenguaje sencillo para todas las edades, que enseña a reconocer síntomas y prevenir enfermedades.",
+      "inicio": "2026-06-25T10:00:00",
+      "fin": "2026-06-25T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pasión a la mexicana",
+      "descripcion": "Pasión a la mexicana es el programa que celebra lo mejor de la música tropical ranchera, llevando a la pantalla los ritmos y emociones que caracterizan esta vibrante tradición musical.",
+      "inicio": "2026-06-25T11:00:00",
+      "fin": "2026-06-25T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasionalamexicana.jpg"
+    },
+    {
+      "titulo": "Documentales",
+      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
+      "inicio": "2026-06-25T12:00:00",
+      "fin": "2026-06-25T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentales.jpg"
     }
   ]
 }

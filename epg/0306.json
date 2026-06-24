@@ -1,873 +1,19 @@
 {
   "actual": {
-    "titulo": "Jelly Jamm • El Juguete del Rey",
-    "descripcion": "El Juguete del Rey ║ El Rey esconde su monopatín propulsado por un cohete dentro de una caja mágica; Goomo y Bello deciden reclamar el monopatín retando los deseos del Rey.",
-    "inicio": "2026-06-23T14:00:00",
-    "fin": "2026-06-23T14:15:00",
+    "titulo": "ZooMoo tiene cerebro • Leones, Tigres y Osos",
+    "descripcion": "Leones, Tigres y Osos ║ Una mirada a todos esos animales grandes y hermosos que se ven lindos, pero que definitivamente no son cariñosos.",
+    "inicio": "2026-06-24T12:30:00",
+    "fin": "2026-06-24T12:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Jelly Jamm • El cumpleaños de la reina",
-    "descripcion": "El cumpleaños de la reina ║ El Rey y los chicos organizan la mejor fiesta de cumpleaños. Desafortunadamente, todos tienen sus propias ideas de cómo lograr su objetivo.",
-    "inicio": "2026-06-23T14:15:00",
-    "fin": "2026-06-23T14:30:00",
+    "titulo": "ZooMoo tiene cerebro • Todo lo que Necesitas es Amor",
+    "descripcion": "Todo lo que Necesitas es Amor ║ Emmett, Dunia y Rocky compiten para mostrar que los animales son los mejores amigos, ayudantes, compañeros y socios.",
+    "inicio": "2026-06-24T12:45:00",
+    "fin": "2026-06-24T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Jelly Jamm • El Juguete del Rey",
-      "descripcion": "El Juguete del Rey ║ El Rey esconde su monopatín propulsado por un cohete dentro de una caja mágica; Goomo y Bello deciden reclamar el monopatín retando los deseos del Rey.",
-      "inicio": "2026-06-23T14:00:00",
-      "fin": "2026-06-23T14:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jelly Jamm • El cumpleaños de la reina",
-      "descripcion": "El cumpleaños de la reina ║ El Rey y los chicos organizan la mejor fiesta de cumpleaños. Desafortunadamente, todos tienen sus propias ideas de cómo lograr su objetivo.",
-      "inicio": "2026-06-23T14:15:00",
-      "fin": "2026-06-23T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jelly Jamm • Mi Pequeña Reina",
-      "descripcion": "Mi Pequeña Reina ║ Bello se molesta con la Reina cuando cree que ella quiere detener todas sus aventuras. Una noche él desea que la Reina se convierta en niña otra vez. Cuando su deseo se cumple él actúa como el hermano mayor de la Reina.",
-      "inicio": "2026-06-23T14:30:00",
-      "fin": "2026-06-23T14:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jelly Jamm • La Fiesta sorpresa",
-      "descripcion": "La Fiesta sorpresa ║ La emoción de Goomo por su cumpleaños se evapora cuando despierta y descubre que su amado casco ha desaparecido y ninguno de sus amigos aparentemente recuerda su día especial.",
-      "inicio": "2026-06-23T14:45:00",
-      "fin": "2026-06-23T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leo, el explorador • Pájaro de hoja verde mayor",
-      "descripcion": "Pájaro de hoja verde mayor ║ Kai se desanima después de que su gran pájaro verdoso se niega de repente a cantar. Pide ayuda a Leo y a sus amigos guardabosques para encontrar otro pájaro que le haga compañía.",
-      "inicio": "2026-06-23T15:00:00",
-      "fin": "2026-06-23T15:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leo, el explorador • Araña orbe dorada",
-      "descripcion": "Araña orbe dorada ║ Hay un pez de aspecto extraño que está provocando una tormenta de arena submarina.",
-      "inicio": "2026-06-23T15:15:00",
-      "fin": "2026-06-23T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leo, el explorador • Oropéndola de nuca negra",
-      "descripcion": "Oropéndola de nuca negra ║ Zari encuentra un polluelo de oropéndola perdido y, sin darse cuenta, lo coloca sobre un coche.",
-      "inicio": "2026-06-23T15:30:00",
-      "fin": "2026-06-23T15:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leo, el explorador • Colugo malayo",
-      "descripcion": "Colugo malayo ║ El avión de papel de Leo se choca con un colugo y el equipo debe emprender la búsqueda de la madre del animal.",
-      "inicio": "2026-06-23T15:45:00",
-      "fin": "2026-06-23T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Abecedario animal • O es por orangután",
-      "descripcion": "O es por orangután ║ Un vistazo a los orangutanes, los primates pelirrojos que guardan una estrecha relación con los humanos.",
-      "inicio": "2026-06-23T16:00:00",
-      "fin": "2026-06-23T16:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Abecedario animal • G es por gorila",
-      "descripcion": "G es por gorila ║ Un programa de educación y entretenimiento para el aprendizaje de las letras que componen el abecedario, ilustradas con diferentes animales.",
-      "inicio": "2026-06-23T16:05:00",
-      "fin": "2026-06-23T16:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Abecedario animal • L es por lobo marino",
-      "descripcion": "L es por lobo marino ║ Los lobos marinos, unos excelentes acróbatas del mar, pero muy torpes en la tierra.",
-      "inicio": "2026-06-23T16:10:00",
-      "fin": "2026-06-23T16:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sonidos animales • Mono aullador negro",
-      "descripcion": "Mono aullador negro ║ El equipo de ZooMoo aprende sobre los sonidos que emiten los monos aulladores negros.",
-      "inicio": "2026-06-23T16:15:00",
-      "fin": "2026-06-23T16:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sonidos animales • Panda",
-      "descripcion": "Panda ║ Rocky y sus amigos aprenden sobre los sonidos que hace el panda.",
-      "inicio": "2026-06-23T16:20:00",
-      "fin": "2026-06-23T16:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sonidos animales • Rana",
-      "descripcion": "Rana ║ Rocky y compañía intentan adivinar el ruido de animal que su amigo está haciendo.",
-      "inicio": "2026-06-23T16:25:00",
-      "fin": "2026-06-23T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Armadura de animal",
-      "descripcion": "Armadura de animal ║ ¡Vive un Safari Pop con Ninja Gorila! ¿Se puede ayudar a adivinar qué escultura con globos se está haciendo.",
-      "inicio": "2026-06-23T16:30:00",
-      "fin": "2026-06-23T16:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Adivina el animal • Abeja",
-      "descripcion": "Abeja ║ Flash y sus amigos se ponen a prueba jugando a adivinar el nombre de los animales basándose en datos interesantes y en sus características físicas.",
-      "inicio": "2026-06-23T16:45:00",
-      "fin": "2026-06-23T16:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Adivina el animal • Ratón",
-      "descripcion": "Ratón ║ Flash y sus amigos se ponen a prueba jugando a adivinar el nombre de los animales basándose en datos interesantes y en sus características físicas.",
-      "inicio": "2026-06-23T16:50:00",
-      "fin": "2026-06-23T16:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Adivina el animal • Leopardo",
-      "descripcion": "Leopardo ║ Rocky y sus amigos aprenden sobre los sonidos que hace el leopardo.",
-      "inicio": "2026-06-23T16:55:00",
-      "fin": "2026-06-23T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ZooMoo tiene cerebro • Invasores desde el espacio",
-      "descripcion": "Invasores desde el espacio ║ Rory el Tigre dirige el juego donde Latif, Hannah y Panda compiten para dar una revisión de los animales que son tan extraños, raros, que hacen pensar que vienen del espacio exterior.",
-      "inicio": "2026-06-23T17:00:00",
-      "fin": "2026-06-23T17:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ZooMoo tiene cerebro • ¿Dónde está mi maleta?",
-      "descripcion": "¿Dónde está mi maleta? ║ Rory el Tigre dirige el juego y Latif, Dunia y Panda compiten y aprenden sobre los animales que disfrutan de los viajes.",
-      "inicio": "2026-06-23T17:15:00",
-      "fin": "2026-06-23T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ZooMoo tiene cerebro • Pies Felices",
-      "descripcion": "Pies Felices ║ Presentado por Rory el Tigre, y con Emmett, Hannah y Panda como concursantes. Rory tiene ganas de bailar porque este episodio está dedicado a los pies de los animales.",
-      "inicio": "2026-06-23T17:30:00",
-      "fin": "2026-06-23T17:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ZooMoo tiene cerebro • Más Grande que Tú",
-      "descripcion": "Más Grande que Tú ║ Presentado por Rory el Tigre, y con Latif, Dunia y Panda como concursantes, hablan de los animales más grandes del mundo.",
-      "inicio": "2026-06-23T17:45:00",
-      "fin": "2026-06-23T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Estrellas Animales • Súper Tamaño",
-      "descripcion": "Súper Tamaño ║ El equipo Moo y el equipo Zoo intentarán ganar la mayor cantidad de puntos, con la ayuda del feliz anfitrión Dougie Orangután y su peludo asistente, Gorila Ninja.",
-      "inicio": "2026-06-23T18:00:00",
-      "fin": "2026-06-23T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Estrellas Animales • Colas Enmarañadas",
-      "descripcion": "Colas Enmarañadas ║ Existen muchos tipos de cola: grande, pequeña, ondulada o ruidosa. Algunos animales tienen y otros no.",
-      "inicio": "2026-06-23T18:30:00",
-      "fin": "2026-06-23T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jelly Jamm • Los muchos mundos de Jammbo",
-      "descripcion": "Los muchos mundos de Jammbo ║ Ongo se lastima mientras juega y Bello decide mudarse con él hasta que se recupere. Juntos descubren que aun las cosas más pequeñas de la vida pueden ser divertidas e interesantes.",
-      "inicio": "2026-06-23T19:00:00",
-      "fin": "2026-06-23T19:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jelly Jamm • La gran estudiante",
-      "descripcion": "La gran estudiante ║ Cuando Rita intenta algunos experimentos en el laboratorio de Mina, ella pronto descubre que primero necesita aprender algunas lecciones básicas para evitar el desastre.",
-      "inicio": "2026-06-23T19:15:00",
-      "fin": "2026-06-23T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jelly Jamm • El Pianista",
-      "descripcion": "El Pianista ║ Bello descubre que su mejor amigo Goomo tiene talento para la música. Bello hace todo lo posible para mostrar al grupo el talento de su amigo.",
-      "inicio": "2026-06-23T19:30:00",
-      "fin": "2026-06-23T19:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jelly Jamm • Ultravisión",
-      "descripcion": "Ultravisión ║ Rita hace sus propios experimentos en el laboratorio de Mina; Goomo pierde sus lentes, pero cuando Dodo es encontrado usando las gafas y puede ver, Goomo debe decidir si tomar sus gafas otra vez.",
-      "inicio": "2026-06-23T19:45:00",
-      "fin": "2026-06-23T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leo, el explorador • Civeta de las palmeras común",
-      "descripcion": "Civeta de las palmeras común ║ Los pequeños guardabosques parten para traer a casa a una civeta de las palmeras común, después de que roba la comida de Hero.",
-      "inicio": "2026-06-23T20:00:00",
-      "fin": "2026-06-23T20:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leo, el explorador • Langur bandeado raffles",
-      "descripcion": "Langur bandeado raffles ║ Un conductor imprudente choca contra un puente en la copa de un árbol, separando a un joven langur de su familia. Leo y sus amigos trabajan para reunir al bebé con su familia.",
-      "inicio": "2026-06-23T20:15:00",
-      "fin": "2026-06-23T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leo, el explorador • Serpiente de árbol paraíso",
-      "descripcion": "Serpiente de árbol paraíso ║ Zari y sus amigos rangers descubren una serpiente con una habilidad única y la reubican en un entorno más seguro.",
-      "inicio": "2026-06-23T20:30:00",
-      "fin": "2026-06-23T20:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leo, el explorador • Saltarín de fango moteado azul",
-      "descripcion": "Saltarín de fango moteado azul ║ Zari descubre un pez saltarín y lo libera en el mar por accidente. Los guardabosques se unen para encontrarlo y devolverlo a salvo a su hábitat natural en los manglares.",
-      "inicio": "2026-06-23T20:45:00",
-      "fin": "2026-06-23T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Abecedario animal • M es por manaquín",
-      "descripcion": "M es por manaquín ║ Un programa de educación y entretenimiento para el aprendizaje de las letras que componen el abecedario, ilustradas con diferentes animales.",
-      "inicio": "2026-06-23T21:00:00",
-      "fin": "2026-06-23T21:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Abecedario animal • M es por marmota",
-      "descripcion": "M es por marmota ║ Un programa de educación y entretenimiento para el aprendizaje de las letras que componen el abecedario, ilustradas con diferentes animales.",
-      "inicio": "2026-06-23T21:05:00",
-      "fin": "2026-06-23T21:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Abecedario animal • S es por serpiente de mar",
-      "descripcion": "S es por serpiente de mar ║ Una lección sobre las serpientes de mar, que son muy venenosas.",
-      "inicio": "2026-06-23T21:10:00",
-      "fin": "2026-06-23T21:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sonidos animales • Cerdo",
-      "descripcion": "Cerdo ║ Rocky y sus amigos aprenden sobre los sonidos que hace el cerdo.",
-      "inicio": "2026-06-23T21:15:00",
-      "fin": "2026-06-23T21:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sonidos animales • Foca",
-      "descripcion": "Foca ║ Rocky, un león animatrónico, se embarca en una divertida actividad interactiva en la que intenta adivinar el animal correcto que corresponde a los sonidos que imitan los niños.",
-      "inicio": "2026-06-23T21:20:00",
-      "fin": "2026-06-23T21:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sonidos animales • Tigre",
-      "descripcion": "Tigre ║ Se analiza a los tigres y los sonidos que emiten.",
-      "inicio": "2026-06-23T21:25:00",
-      "fin": "2026-06-23T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Pesca ligera",
-      "descripcion": "Pesca ligera ║ Es ahora de acompañar a Gorila Ninja y adivinar qué escultura hace con sus globos.",
-      "inicio": "2026-06-23T21:30:00",
-      "fin": "2026-06-23T21:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Adivina el animal • Camaleón",
-      "descripcion": "Camaleón ║ Flash y sus amigos se ponen a prueba jugando a adivinar el nombre de los animales basándose en datos interesantes y en sus características físicas.",
-      "inicio": "2026-06-23T21:45:00",
-      "fin": "2026-06-23T21:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Adivina el animal • Avestruz",
-      "descripcion": "Avestruz ║ Aprende con este divertido juego y sigue las pistas para adivinar de qué animal se trata. En esta ocasión: el avestruz.",
-      "inicio": "2026-06-23T21:50:00",
-      "fin": "2026-06-23T21:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Adivina el animal • Manatí",
-      "descripcion": "Manatí ║ Aprende con este divertido juego y sigue las pistas para adivinar de qué animal se trata. En esta ocasión: el manatí.",
-      "inicio": "2026-06-23T21:55:00",
-      "fin": "2026-06-23T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ZooMoo tiene cerebro • Carretera a China",
-      "descripcion": "Carretera a China ║ Rory el Tigre dirige y Emmett, Hannah y Panda son los concursantes que compiten para ver quién sabe más de China y los maravillosos y exclusivos animales de allí.",
-      "inicio": "2026-06-23T22:00:00",
-      "fin": "2026-06-23T22:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ZooMoo tiene cerebro • Hora de Cenar",
-      "descripcion": "Hora de Cenar ║ Rory el Tigre dirige y Latif, Dunia y Rocky compiten para demostrar quién sabe más sobre las distintas formas en que comen los animales.",
-      "inicio": "2026-06-23T22:15:00",
-      "fin": "2026-06-23T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ZooMoo tiene cerebro • Leones, Tigres y Osos",
-      "descripcion": "Leones, Tigres y Osos ║ Una mirada a todos esos animales grandes y hermosos que se ven lindos, pero que definitivamente no son cariñosos.",
-      "inicio": "2026-06-23T22:30:00",
-      "fin": "2026-06-23T22:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ZooMoo tiene cerebro • Todo lo que Necesitas es Amor",
-      "descripcion": "Todo lo que Necesitas es Amor ║ Emmett, Dunia y Rocky compiten para mostrar que los animales son los mejores amigos, ayudantes, compañeros y socios.",
-      "inicio": "2026-06-23T22:45:00",
-      "fin": "2026-06-23T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Estrellas Animales • Colores Alocados",
-      "descripcion": "Colores Alocados ║ La gente se vuelve loca por los colores y lo mismo sucede con los animales; las preguntas de hoy son sobre los animales más coloridos del mundo.",
-      "inicio": "2026-06-23T23:00:00",
-      "fin": "2026-06-23T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Estrellas Animales • Los Ruidosos de la Naturaleza",
-      "descripcion": "Los Ruidosos de la Naturaleza ║ Cada sonido, sea extraño, loco o grazniento, llenará el maravilloso mundo de los sonidos en este juego.",
-      "inicio": "2026-06-23T23:30:00",
-      "fin": "2026-06-24T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Reporte de Noticias ZooMoo • Bosque Tropical, Paloma, Elefante",
-      "descripcion": "Bosque Tropical, Paloma, Elefante ║ Títeres en acción y en vivo divierten e informan a sus pequeños espectadores sobre los animales todo el tiempo.",
-      "inicio": "2026-06-24T00:00:00",
-      "fin": "2026-06-24T00:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Reporte de Noticias ZooMoo • Costa de Nueva Zelanda, gatos y pato",
-      "descripcion": "Costa de Nueva Zelanda, gatos y pato ║ Los reportes, la información y las últimas noticias actualizadas sobre el mundo de los animales. Se habla de la costa de Nueva Zelanda, gatos y patos.",
-      "inicio": "2026-06-24T00:15:00",
-      "fin": "2026-06-24T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki • Hora musical",
-      "descripcion": "Hora musical ║ Kooki hace dulce música con su paleta de helado y hace un cohete fantástico para su gatito de juguete.",
-      "inicio": "2026-06-24T00:30:00",
-      "fin": "2026-06-24T00:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ZooMooPedia • ¿Por qué los hipopótamos no van a fiestas?",
-      "descripcion": "¿Por qué los hipopótamos no van a fiestas? ║ ¿Por qué a los hipopótamos no les gustan las fiestas? ZooMooPedia les enseña a los zoomers y a los niños todo lo que quieren saber sobre los hipopótamos, incluyendo por qué duermen en el río y por qué tienen dientes tan grandes.",
-      "inicio": "2026-06-24T00:45:00",
-      "fin": "2026-06-24T00:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lubinho • Jugando en la arena",
-      "descripcion": "Jugando en la arena ║ Lubinho disfruta jugando en la arena con sus amigos.",
-      "inicio": "2026-06-24T00:50:00",
-      "fin": "2026-06-24T00:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ZooMoosic • Camaleón",
-      "descripcion": "Camaleón ║ El camaleón es el gran maestro del disfraz.",
-      "inicio": "2026-06-24T00:55:00",
-      "fin": "2026-06-24T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T01:00:00",
-      "fin": "2026-06-24T01:07:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T01:07:00",
-      "fin": "2026-06-24T01:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T01:15:00",
-      "fin": "2026-06-24T01:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T01:23:00",
-      "fin": "2026-06-24T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Simio o mono",
-      "descripcion": "Simio o mono ║ El Ninja Gorila hace gala de su creatividad transformando globos ordinarios en la escultura de un primate.",
-      "inicio": "2026-06-24T01:30:00",
-      "fin": "2026-06-24T01:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Adornos de árboles",
-      "descripcion": "Adornos de árboles ║ Es hora de acompañar a Gorila Ninja en los Cuentos Pop y adivinar qué escultura está haciendo con los globos.",
-      "inicio": "2026-06-24T01:45:00",
-      "fin": "2026-06-24T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T02:00:00",
-      "fin": "2026-06-24T02:07:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T02:07:00",
-      "fin": "2026-06-24T02:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T02:15:00",
-      "fin": "2026-06-24T02:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T02:23:00",
-      "fin": "2026-06-24T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Mascotas de gran ciudad",
-      "descripcion": "Mascotas de gran ciudad ║ Ninja Gorila hace gala de su creatividad transformando globos en esculturas de mascotas que suelen vivir en la gran ciudad.",
-      "inicio": "2026-06-24T02:30:00",
-      "fin": "2026-06-24T02:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Blanco y negro",
-      "descripcion": "Blanco y negro ║ Es hora de acompañar a Gorila Ninja en los Cuentos Pop y adivinar qué escultura está haciendo con los globos.",
-      "inicio": "2026-06-24T02:45:00",
-      "fin": "2026-06-24T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T03:00:00",
-      "fin": "2026-06-24T03:07:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T03:07:00",
-      "fin": "2026-06-24T03:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T03:15:00",
-      "fin": "2026-06-24T03:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T03:23:00",
-      "fin": "2026-06-24T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Caja de cerebros",
-      "descripcion": "Caja de cerebros ║ Es hora de acompañar a Gorila Ninja en los Cuentos Pop y adivinar qué escultura está haciendo con los globos.",
-      "inicio": "2026-06-24T03:30:00",
-      "fin": "2026-06-24T03:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Clavadistas audaces",
-      "descripcion": "Clavadistas audaces ║ Acompaña a Gorila Ninja para adivinar qué animal está haciendo con sus globos.",
-      "inicio": "2026-06-24T03:45:00",
-      "fin": "2026-06-24T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T04:00:00",
-      "fin": "2026-06-24T04:07:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T04:07:00",
-      "fin": "2026-06-24T04:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T04:15:00",
-      "fin": "2026-06-24T04:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T04:23:00",
-      "fin": "2026-06-24T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Después del anochecer",
-      "descripcion": "Después del anochecer ║ Es hora de acompañar a Gorila Ninja en los Cuentos Pop y adivinar qué escultura está haciendo con los globos.",
-      "inicio": "2026-06-24T04:30:00",
-      "fin": "2026-06-24T04:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Lenguas difíciles",
-      "descripcion": "Lenguas difíciles ║ Es hora de acompañar a Gorila Ninja en los Cuentos Pop y adivinar qué escultura está haciendo con los globos.",
-      "inicio": "2026-06-24T04:45:00",
-      "fin": "2026-06-24T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T05:00:00",
-      "fin": "2026-06-24T05:07:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T05:07:00",
-      "fin": "2026-06-24T05:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T05:15:00",
-      "fin": "2026-06-24T05:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T05:23:00",
-      "fin": "2026-06-24T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Simio o mono",
-      "descripcion": "Simio o mono ║ El Ninja Gorila hace gala de su creatividad transformando globos ordinarios en la escultura de un primate.",
-      "inicio": "2026-06-24T05:30:00",
-      "fin": "2026-06-24T05:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Adornos de árboles",
-      "descripcion": "Adornos de árboles ║ Es hora de acompañar a Gorila Ninja en los Cuentos Pop y adivinar qué escultura está haciendo con los globos.",
-      "inicio": "2026-06-24T05:45:00",
-      "fin": "2026-06-24T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T06:00:00",
-      "fin": "2026-06-24T06:07:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T06:07:00",
-      "fin": "2026-06-24T06:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T06:15:00",
-      "fin": "2026-06-24T06:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T06:23:00",
-      "fin": "2026-06-24T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Mascotas de gran ciudad",
-      "descripcion": "Mascotas de gran ciudad ║ Ninja Gorila hace gala de su creatividad transformando globos en esculturas de mascotas que suelen vivir en la gran ciudad.",
-      "inicio": "2026-06-24T06:30:00",
-      "fin": "2026-06-24T06:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Blanco y negro",
-      "descripcion": "Blanco y negro ║ Es hora de acompañar a Gorila Ninja en los Cuentos Pop y adivinar qué escultura está haciendo con los globos.",
-      "inicio": "2026-06-24T06:45:00",
-      "fin": "2026-06-24T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T07:00:00",
-      "fin": "2026-06-24T07:07:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T07:07:00",
-      "fin": "2026-06-24T07:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T07:15:00",
-      "fin": "2026-06-24T07:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T07:23:00",
-      "fin": "2026-06-24T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Caja de cerebros",
-      "descripcion": "Caja de cerebros ║ Es hora de acompañar a Gorila Ninja en los Cuentos Pop y adivinar qué escultura está haciendo con los globos.",
-      "inicio": "2026-06-24T07:30:00",
-      "fin": "2026-06-24T07:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Clavadistas audaces",
-      "descripcion": "Clavadistas audaces ║ Acompaña a Gorila Ninja para adivinar qué animal está haciendo con sus globos.",
-      "inicio": "2026-06-24T07:45:00",
-      "fin": "2026-06-24T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T08:00:00",
-      "fin": "2026-06-24T08:07:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T08:07:00",
-      "fin": "2026-06-24T08:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T08:15:00",
-      "fin": "2026-06-24T08:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de manualidades de Kooki",
-      "descripcion": "Kooki, una osa panda roja divertida y juguetona, ayuda a desatar el lado creativo de los niños y crean juntos dos manualidades.",
-      "inicio": "2026-06-24T08:23:00",
-      "fin": "2026-06-24T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Después del anochecer",
-      "descripcion": "Después del anochecer ║ Es hora de acompañar a Gorila Ninja en los Cuentos Pop y adivinar qué escultura está haciendo con los globos.",
-      "inicio": "2026-06-24T08:30:00",
-      "fin": "2026-06-24T08:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Lenguas difíciles",
-      "descripcion": "Lenguas difíciles ║ Es hora de acompañar a Gorila Ninja en los Cuentos Pop y adivinar qué escultura está haciendo con los globos.",
-      "inicio": "2026-06-24T08:45:00",
-      "fin": "2026-06-24T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jelly Jamm • Los muchos mundos de Jammbo",
-      "descripcion": "Los muchos mundos de Jammbo ║ Ongo se lastima mientras juega y Bello decide mudarse con él hasta que se recupere. Juntos descubren que aun las cosas más pequeñas de la vida pueden ser divertidas e interesantes.",
-      "inicio": "2026-06-24T09:00:00",
-      "fin": "2026-06-24T09:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jelly Jamm • La gran estudiante",
-      "descripcion": "La gran estudiante ║ Cuando Rita intenta algunos experimentos en el laboratorio de Mina, ella pronto descubre que primero necesita aprender algunas lecciones básicas para evitar el desastre.",
-      "inicio": "2026-06-24T09:15:00",
-      "fin": "2026-06-24T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jelly Jamm • El Pianista",
-      "descripcion": "El Pianista ║ Bello descubre que su mejor amigo Goomo tiene talento para la música. Bello hace todo lo posible para mostrar al grupo el talento de su amigo.",
-      "inicio": "2026-06-24T09:30:00",
-      "fin": "2026-06-24T09:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jelly Jamm • Ultravisión",
-      "descripcion": "Ultravisión ║ Rita hace sus propios experimentos en el laboratorio de Mina; Goomo pierde sus lentes, pero cuando Dodo es encontrado usando las gafas y puede ver, Goomo debe decidir si tomar sus gafas otra vez.",
-      "inicio": "2026-06-24T09:45:00",
-      "fin": "2026-06-24T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leo, el explorador • Civeta de las palmeras común",
-      "descripcion": "Civeta de las palmeras común ║ Los pequeños guardabosques parten para traer a casa a una civeta de las palmeras común, después de que roba la comida de Hero.",
-      "inicio": "2026-06-24T10:00:00",
-      "fin": "2026-06-24T10:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leo, el explorador • Langur bandeado raffles",
-      "descripcion": "Langur bandeado raffles ║ Un conductor imprudente choca contra un puente en la copa de un árbol, separando a un joven langur de su familia. Leo y sus amigos trabajan para reunir al bebé con su familia.",
-      "inicio": "2026-06-24T10:15:00",
-      "fin": "2026-06-24T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leo, el explorador • Serpiente de árbol paraíso",
-      "descripcion": "Serpiente de árbol paraíso ║ Zari y sus amigos rangers descubren una serpiente con una habilidad única y la reubican en un entorno más seguro.",
-      "inicio": "2026-06-24T10:30:00",
-      "fin": "2026-06-24T10:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leo, el explorador • Saltarín de fango moteado azul",
-      "descripcion": "Saltarín de fango moteado azul ║ Zari descubre un pez saltarín y lo libera en el mar por accidente. Los guardabosques se unen para encontrarlo y devolverlo a salvo a su hábitat natural en los manglares.",
-      "inicio": "2026-06-24T10:45:00",
-      "fin": "2026-06-24T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Abecedario animal • M es por manaquín",
-      "descripcion": "M es por manaquín ║ Un programa de educación y entretenimiento para el aprendizaje de las letras que componen el abecedario, ilustradas con diferentes animales.",
-      "inicio": "2026-06-24T11:00:00",
-      "fin": "2026-06-24T11:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Abecedario animal • M es por marmota",
-      "descripcion": "M es por marmota ║ Un programa de educación y entretenimiento para el aprendizaje de las letras que componen el abecedario, ilustradas con diferentes animales.",
-      "inicio": "2026-06-24T11:05:00",
-      "fin": "2026-06-24T11:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Abecedario animal • S es por serpiente de mar",
-      "descripcion": "S es por serpiente de mar ║ Una lección sobre las serpientes de mar, que son muy venenosas.",
-      "inicio": "2026-06-24T11:10:00",
-      "fin": "2026-06-24T11:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sonidos animales • Cerdo",
-      "descripcion": "Cerdo ║ Rocky y sus amigos aprenden sobre los sonidos que hace el cerdo.",
-      "inicio": "2026-06-24T11:15:00",
-      "fin": "2026-06-24T11:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sonidos animales • Foca",
-      "descripcion": "Foca ║ Rocky, un león animatrónico, se embarca en una divertida actividad interactiva en la que intenta adivinar el animal correcto que corresponde a los sonidos que imitan los niños.",
-      "inicio": "2026-06-24T11:20:00",
-      "fin": "2026-06-24T11:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sonidos animales • Tigre",
-      "descripcion": "Tigre ║ Se analiza a los tigres y los sonidos que emiten.",
-      "inicio": "2026-06-24T11:25:00",
-      "fin": "2026-06-24T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos Pop • Pesca ligera",
-      "descripcion": "Pesca ligera ║ Es ahora de acompañar a Gorila Ninja y adivinar qué escultura hace con sus globos.",
-      "inicio": "2026-06-24T11:30:00",
-      "fin": "2026-06-24T11:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Adivina el animal • Camaleón",
-      "descripcion": "Camaleón ║ Flash y sus amigos se ponen a prueba jugando a adivinar el nombre de los animales basándose en datos interesantes y en sus características físicas.",
-      "inicio": "2026-06-24T11:45:00",
-      "fin": "2026-06-24T11:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Adivina el animal • Avestruz",
-      "descripcion": "Avestruz ║ Aprende con este divertido juego y sigue las pistas para adivinar de qué animal se trata. En esta ocasión: el avestruz.",
-      "inicio": "2026-06-24T11:50:00",
-      "fin": "2026-06-24T11:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Adivina el animal • Manatí",
-      "descripcion": "Manatí ║ Aprende con este divertido juego y sigue las pistas para adivinar de qué animal se trata. En esta ocasión: el manatí.",
-      "inicio": "2026-06-24T11:55:00",
-      "fin": "2026-06-24T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ZooMoo tiene cerebro • Carretera a China",
-      "descripcion": "Carretera a China ║ Rory el Tigre dirige y Emmett, Hannah y Panda son los concursantes que compiten para ver quién sabe más de China y los maravillosos y exclusivos animales de allí.",
-      "inicio": "2026-06-24T12:00:00",
-      "fin": "2026-06-24T12:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ZooMoo tiene cerebro • Hora de Cenar",
-      "descripcion": "Hora de Cenar ║ Rory el Tigre dirige y Latif, Dunia y Rocky compiten para demostrar quién sabe más sobre las distintas formas en que comen los animales.",
-      "inicio": "2026-06-24T12:15:00",
-      "fin": "2026-06-24T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "ZooMoo tiene cerebro • Leones, Tigres y Osos",
       "descripcion": "Leones, Tigres y Osos ║ Una mirada a todos esos animales grandes y hermosos que se ven lindos, pero que definitivamente no son cariñosos.",
@@ -901,6 +47,776 @@
       "descripcion": "Los muchos mundos de Jammbo ║ Ongo se lastima mientras juega y Bello decide mudarse con él hasta que se recupere. Juntos descubren que aun las cosas más pequeñas de la vida pueden ser divertidas e interesantes.",
       "inicio": "2026-06-24T14:00:00",
       "fin": "2026-06-24T14:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • La gran estudiante",
+      "descripcion": "La gran estudiante ║ Cuando Rita intenta algunos experimentos en el laboratorio de Mina, ella pronto descubre que primero necesita aprender algunas lecciones básicas para evitar el desastre.",
+      "inicio": "2026-06-24T14:15:00",
+      "fin": "2026-06-24T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • El Pianista",
+      "descripcion": "El Pianista ║ Bello descubre que su mejor amigo Goomo tiene talento para la música. Bello hace todo lo posible para mostrar al grupo el talento de su amigo.",
+      "inicio": "2026-06-24T14:30:00",
+      "fin": "2026-06-24T14:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Ultravisión",
+      "descripcion": "Ultravisión ║ Rita hace sus propios experimentos en el laboratorio de Mina; Goomo pierde sus lentes, pero cuando Dodo es encontrado usando las gafas y puede ver, Goomo debe decidir si tomar sus gafas otra vez.",
+      "inicio": "2026-06-24T14:45:00",
+      "fin": "2026-06-24T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Leo, el explorador • Civeta de las palmeras común",
+      "descripcion": "Civeta de las palmeras común ║ Los pequeños guardabosques parten para traer a casa a una civeta de las palmeras común, después de que roba la comida de Hero.",
+      "inicio": "2026-06-24T15:00:00",
+      "fin": "2026-06-24T15:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Leo, el explorador • Langur bandeado raffles",
+      "descripcion": "Langur bandeado raffles ║ Un conductor imprudente choca contra un puente en la copa de un árbol, separando a un joven langur de su familia. Leo y sus amigos trabajan para reunir al bebé con su familia.",
+      "inicio": "2026-06-24T15:15:00",
+      "fin": "2026-06-24T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Leo, el explorador • Serpiente de árbol paraíso",
+      "descripcion": "Serpiente de árbol paraíso ║ Zari y sus amigos rangers descubren una serpiente con una habilidad única y la reubican en un entorno más seguro.",
+      "inicio": "2026-06-24T15:30:00",
+      "fin": "2026-06-24T15:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Leo, el explorador • Saltarín de fango moteado azul",
+      "descripcion": "Saltarín de fango moteado azul ║ Zari descubre un pez saltarín y lo libera en el mar por accidente. Los guardabosques se unen para encontrarlo y devolverlo a salvo a su hábitat natural en los manglares.",
+      "inicio": "2026-06-24T15:45:00",
+      "fin": "2026-06-24T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Abecedario animal • M es por manaquín",
+      "descripcion": "M es por manaquín ║ Un programa de educación y entretenimiento para el aprendizaje de las letras que componen el abecedario, ilustradas con diferentes animales.",
+      "inicio": "2026-06-24T16:00:00",
+      "fin": "2026-06-24T16:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Abecedario animal • M es por marmota",
+      "descripcion": "M es por marmota ║ Un programa de educación y entretenimiento para el aprendizaje de las letras que componen el abecedario, ilustradas con diferentes animales.",
+      "inicio": "2026-06-24T16:05:00",
+      "fin": "2026-06-24T16:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Abecedario animal • S es por serpiente de mar",
+      "descripcion": "S es por serpiente de mar ║ Una lección sobre las serpientes de mar, que son muy venenosas.",
+      "inicio": "2026-06-24T16:10:00",
+      "fin": "2026-06-24T16:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonidos animales • Cerdo",
+      "descripcion": "Cerdo ║ Rocky y sus amigos aprenden sobre los sonidos que hace el cerdo.",
+      "inicio": "2026-06-24T16:15:00",
+      "fin": "2026-06-24T16:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonidos animales • Foca",
+      "descripcion": "Foca ║ Rocky, un león animatrónico, se embarca en una divertida actividad interactiva en la que intenta adivinar el animal correcto que corresponde a los sonidos que imitan los niños.",
+      "inicio": "2026-06-24T16:20:00",
+      "fin": "2026-06-24T16:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonidos animales • Tigre",
+      "descripcion": "Tigre ║ Se analiza a los tigres y los sonidos que emiten.",
+      "inicio": "2026-06-24T16:25:00",
+      "fin": "2026-06-24T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cuentos Pop • Pesca ligera",
+      "descripcion": "Pesca ligera ║ Es ahora de acompañar a Gorila Ninja y adivinar qué escultura hace con sus globos.",
+      "inicio": "2026-06-24T16:30:00",
+      "fin": "2026-06-24T16:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Adivina el animal • Camaleón",
+      "descripcion": "Camaleón ║ Flash y sus amigos se ponen a prueba jugando a adivinar el nombre de los animales basándose en datos interesantes y en sus características físicas.",
+      "inicio": "2026-06-24T16:45:00",
+      "fin": "2026-06-24T16:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Adivina el animal • Avestruz",
+      "descripcion": "Avestruz ║ Aprende con este divertido juego y sigue las pistas para adivinar de qué animal se trata. En esta ocasión: el avestruz.",
+      "inicio": "2026-06-24T16:50:00",
+      "fin": "2026-06-24T16:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Adivina el animal • Manatí",
+      "descripcion": "Manatí ║ Aprende con este divertido juego y sigue las pistas para adivinar de qué animal se trata. En esta ocasión: el manatí.",
+      "inicio": "2026-06-24T16:55:00",
+      "fin": "2026-06-24T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ZooMoo tiene cerebro • Carretera a China",
+      "descripcion": "Carretera a China ║ Rory el Tigre dirige y Emmett, Hannah y Panda son los concursantes que compiten para ver quién sabe más de China y los maravillosos y exclusivos animales de allí.",
+      "inicio": "2026-06-24T17:00:00",
+      "fin": "2026-06-24T17:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ZooMoo tiene cerebro • Hora de Cenar",
+      "descripcion": "Hora de Cenar ║ Rory el Tigre dirige y Latif, Dunia y Rocky compiten para demostrar quién sabe más sobre las distintas formas en que comen los animales.",
+      "inicio": "2026-06-24T17:15:00",
+      "fin": "2026-06-24T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ZooMoo tiene cerebro • Leones, Tigres y Osos",
+      "descripcion": "Leones, Tigres y Osos ║ Una mirada a todos esos animales grandes y hermosos que se ven lindos, pero que definitivamente no son cariñosos.",
+      "inicio": "2026-06-24T17:30:00",
+      "fin": "2026-06-24T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ZooMoo tiene cerebro • Todo lo que Necesitas es Amor",
+      "descripcion": "Todo lo que Necesitas es Amor ║ Emmett, Dunia y Rocky compiten para mostrar que los animales son los mejores amigos, ayudantes, compañeros y socios.",
+      "inicio": "2026-06-24T17:45:00",
+      "fin": "2026-06-24T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Estrellas Animales • Colores Alocados",
+      "descripcion": "Colores Alocados ║ La gente se vuelve loca por los colores y lo mismo sucede con los animales; las preguntas de hoy son sobre los animales más coloridos del mundo.",
+      "inicio": "2026-06-24T18:00:00",
+      "fin": "2026-06-24T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Estrellas Animales • Los Ruidosos de la Naturaleza",
+      "descripcion": "Los Ruidosos de la Naturaleza ║ Cada sonido, sea extraño, loco o grazniento, llenará el maravilloso mundo de los sonidos en este juego.",
+      "inicio": "2026-06-24T18:30:00",
+      "fin": "2026-06-24T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Universo rosa",
+      "descripcion": "Universo rosa ║ Rita desea que todo en Jammbo sea de su color favorito, rosa. Sin embargo, cuando todos comienzan a ponerse rosas es una carrera para cambiar a Jammbo a su estado previo antes de que sea demasiado tarde.",
+      "inicio": "2026-06-24T19:00:00",
+      "fin": "2026-06-24T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Naturaleza salvaje",
+      "descripcion": "Naturaleza salvaje ║ Rita y Goomo descubren un huevo de Dodo e intentan mirar de cerca, pero cuando lo pierden deben recuperarlo rápidamente.",
+      "inicio": "2026-06-24T19:15:00",
+      "fin": "2026-06-24T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Cazasonidos",
+      "descripcion": "Cazasonidos ║ Cuando los Discos de Sonido se vuelven locos, Bello y Rita deben regresar cada sonido a su lugar apropiado.",
+      "inicio": "2026-06-24T19:30:00",
+      "fin": "2026-06-24T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Bello, el tuerto",
+      "descripcion": "Bello, el tuerto ║ Bello está molesto porque necesita llevar un parche, pero sus amigos le demostrarán que una canción puede convertirlo en una diversión.",
+      "inicio": "2026-06-24T19:45:00",
+      "fin": "2026-06-24T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Leo, el explorador • Pájaro de hoja verde mayor",
+      "descripcion": "Pájaro de hoja verde mayor ║ Kai se desanima después de que su gran pájaro verdoso se niega de repente a cantar. Pide ayuda a Leo y a sus amigos guardabosques para encontrar otro pájaro que le haga compañía.",
+      "inicio": "2026-06-24T20:00:00",
+      "fin": "2026-06-24T20:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Leo, el explorador • Araña orbe dorada",
+      "descripcion": "Araña orbe dorada ║ Hay un pez de aspecto extraño que está provocando una tormenta de arena submarina.",
+      "inicio": "2026-06-24T20:15:00",
+      "fin": "2026-06-24T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Leo, el explorador • Oropéndola de nuca negra",
+      "descripcion": "Oropéndola de nuca negra ║ Zari encuentra un polluelo de oropéndola perdido y, sin darse cuenta, lo coloca sobre un coche.",
+      "inicio": "2026-06-24T20:30:00",
+      "fin": "2026-06-24T20:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Leo, el explorador • Balanceando los árboles",
+      "descripcion": "Balanceando los árboles ║ Una tormenta destruye el nido de un orangután y resulta herido. Los exploradores lo ayudan a recuperarse mientras reconstruyen su nido.",
+      "inicio": "2026-06-24T20:45:00",
+      "fin": "2026-06-24T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Abecedario animal • C es por coyote",
+      "descripcion": "C es por coyote ║ Un programa de educación y entretenimiento para el aprendizaje de las letras que componen el abecedario, ilustradas con diferentes animales.",
+      "inicio": "2026-06-24T21:00:00",
+      "fin": "2026-06-24T21:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Abecedario animal • F es por flamenco",
+      "descripcion": "F es por flamenco ║ Un programa de educación y entretenimiento para el aprendizaje de las letras que componen el abecedario, ilustradas con diferentes animales.",
+      "inicio": "2026-06-24T21:05:00",
+      "fin": "2026-06-24T21:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Abecedario animal • Z es por zorro",
+      "descripcion": "Z es por zorro ║ Un programa de educación y entretenimiento para el aprendizaje de las letras que componen el abecedario, ilustradas con diferentes animales.",
+      "inicio": "2026-06-24T21:10:00",
+      "fin": "2026-06-24T21:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonidos animales • Chacal",
+      "descripcion": "Chacal ║ Rocky, un león animatrónico, se embarca en una divertida actividad interactiva en la que intenta adivinar el animal correcto que corresponde a los sonidos que imitan los niños.",
+      "inicio": "2026-06-24T21:15:00",
+      "fin": "2026-06-24T21:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonidos animales • Ciervo",
+      "descripcion": "Ciervo ║ Rocky y sus amigos aprenden sobre los sonidos que hace el ciervo.",
+      "inicio": "2026-06-24T21:20:00",
+      "fin": "2026-06-24T21:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonidos animales • Caimán",
+      "descripcion": "Caimán ║ Rocky y sus amigos aprenden sobre los sonidos que hace el caimán.",
+      "inicio": "2026-06-24T21:25:00",
+      "fin": "2026-06-24T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cuentos Pop • Bebés acuáticos",
+      "descripcion": "Bebés acuáticos ║ Es hora de acompañar a Gorila Ninja en los Cuentos Pop y adivinar qué escultura está haciendo con los globos.",
+      "inicio": "2026-06-24T21:30:00",
+      "fin": "2026-06-24T21:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Adivina el animal • Águila",
+      "descripcion": "Águila ║ Aprende con este divertido juego y sigue las pistas para adivinar de qué animal se trata. En esta ocasión: el águila.",
+      "inicio": "2026-06-24T21:45:00",
+      "fin": "2026-06-24T21:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Adivina el animal • Araña",
+      "descripcion": "Araña ║ Flash y sus amigos se ponen a prueba jugando a adivinar el nombre de los animales basándose en datos interesantes y en sus características físicas.",
+      "inicio": "2026-06-24T21:50:00",
+      "fin": "2026-06-24T21:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Adivina el animal • Iguana marina",
+      "descripcion": "Iguana marina ║ Flash y sus amigos se ponen a prueba jugando a adivinar el nombre de los animales basándose en datos interesantes y en sus características físicas.",
+      "inicio": "2026-06-24T21:55:00",
+      "fin": "2026-06-24T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ZooMoo tiene cerebro • Ponerle Calor",
+      "descripcion": "Ponerle Calor ║ Rory el Tigre dirige el concurso y Emmett, Hannah y Rocky compiten y muestran sus conocimientos sobre cómo los animales lidian con el calor.",
+      "inicio": "2026-06-24T22:00:00",
+      "fin": "2026-06-24T22:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ZooMoo tiene cerebro • Hazañas asombrosas",
+      "descripcion": "Hazañas asombrosas ║ Rory el Tigre es el presentador y Latif, Dunia y Panda compiten para ver las cosas maravillosas y fantásticas que pueden hacer los animales.",
+      "inicio": "2026-06-24T22:15:00",
+      "fin": "2026-06-24T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ZooMoo tiene cerebro • Gran Tierra del Sur",
+      "descripcion": "Gran Tierra del Sur ║ Rory el Tigre dirigiendo y Latif, Hannah y Rocky son los concursantes que emprenden un viaje al gran país del sur, también conocido como Australia.",
+      "inicio": "2026-06-24T22:30:00",
+      "fin": "2026-06-24T22:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ZooMoo tiene cerebro • Ve Más Despacio, Te Mueves Muy Rápido",
+      "descripcion": "Ve Más Despacio, Te Mueves Muy Rápido ║ Presentado por Rory el Tigre, y con Emmett, Hannah y Panda como concursantes, el juego de este día está dedicado a los animales que se mueven realmente muuuy leeento.",
+      "inicio": "2026-06-24T22:45:00",
+      "fin": "2026-06-24T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Estrellas Animales • Animales Asombrosos",
+      "descripcion": "Animales Asombrosos ║ Animales y preguntas increíbles, sorprendentes y asombrosas.",
+      "inicio": "2026-06-24T23:00:00",
+      "fin": "2026-06-24T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Estrellas Animales • Dientes Hermosos",
+      "descripcion": "Dientes Hermosos ║ Un programa con muchos dientes ¡Mordiscos! Y una sonrisa ganadora. Todos los animales tienen dientes asombrosos.",
+      "inicio": "2026-06-24T23:30:00",
+      "fin": "2026-06-25T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi Dinosaurio • Apatosaurus",
+      "descripcion": "Apatosaurus ║ Únete a Rocky, Latif, Panda y sus amigos mientras dan rienda suelta a su veta artística y dibujan unos dinosaurios muy lindos.",
+      "inicio": "2026-06-25T00:00:00",
+      "fin": "2026-06-25T00:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi Dinosaurio • Quirostenotes",
+      "descripcion": "Quirostenotes ║ Únete a Rocky, Latif, Panda y sus amigos mientras dan rienda suelta a su veta artística y dibujan unos dinosaurios muy lindos.",
+      "inicio": "2026-06-25T00:05:00",
+      "fin": "2026-06-25T00:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi Dinosaurio • Edmontosaurio",
+      "descripcion": "Edmontosaurio ║ Únete a Rocky, Latif, Panda y sus amigos mientras dan rienda suelta a su veta artística y dibujan unos dinosaurios muy lindos.",
+      "inicio": "2026-06-25T00:10:00",
+      "fin": "2026-06-25T00:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Arte de arena • Pelicano Australiano",
+      "descripcion": "Pelicano Australiano ║ Personajes de dibujos animados crean figuras sorprendentes usando arena para ello.",
+      "inicio": "2026-06-25T00:15:00",
+      "fin": "2026-06-25T00:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Arte de arena • Flamenco",
+      "descripcion": "Flamenco ║ Personajes de dibujos animados crean figuras sorprendentes usando arena para ello.",
+      "inicio": "2026-06-25T00:20:00",
+      "fin": "2026-06-25T00:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Arte de arena • Mangosta anillada",
+      "descripcion": "Mangosta anillada ║ Personajes de dibujos animados crean figuras sorprendentes usando arena para ello.",
+      "inicio": "2026-06-25T00:25:00",
+      "fin": "2026-06-25T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Contando con Paula • El coro de la granja",
+      "descripcion": "El coro de la granja ║ Se aprende a contar con Paula, sus amigos y los números mientras se embarcan en aventuras en diferentes lugares. Desde las selvas amazónicas hasta los océanos más profundos, pasando por los desiertos más cálidos e incluso el espacio exterior.",
+      "inicio": "2026-06-25T00:30:00",
+      "fin": "2026-06-25T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ZooMooPedia • ¿Por qué los cocodrilos no se cepillan los dientes?",
+      "descripcion": "¿Por qué los cocodrilos no se cepillan los dientes? ║ ¿Por qué los cocodrilos no van al dentista? ZooMooPedia enseña a los zoomers y a los niños todo lo que se quiere saber sobre los cocodrilos, incluso por qué se parecen a los dinosaurios y cómo se esconden.",
+      "inicio": "2026-06-25T00:45:00",
+      "fin": "2026-06-25T00:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lubinho • Agua para nadar y agua para beber",
+      "descripcion": "Agua para nadar y agua para beber ║ Lubinho aprende la importancia de beber agua luego de jugar todo el día.",
+      "inicio": "2026-06-25T00:50:00",
+      "fin": "2026-06-25T00:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ZooMoosic • Vuela, Flamenco",
+      "descripcion": "Vuela, Flamenco ║ Baila como un Flamenco.",
+      "inicio": "2026-06-25T00:55:00",
+      "fin": "2026-06-25T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • El misterio de los árboles",
+      "descripcion": "El misterio de los árboles ║ Gnomo despierta pensando que ha arruinado los árboles de Jellyberry cuando los descubre derribados, pero Mina y Bello descubren que fue el Rey quien lo hizo y deben responsabilizarlo por sus acciones.",
+      "inicio": "2026-06-25T01:00:00",
+      "fin": "2026-06-25T01:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Bello, el inventor",
+      "descripcion": "Bello, el inventor ║ Bello descubre de la forma más complicada el significado detrás de las palabras. Él se entromete con la más reciente creación de Mina, un robot gigante para cambiar los focos.",
+      "inicio": "2026-06-25T01:15:00",
+      "fin": "2026-06-25T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Detective de sonido",
+      "descripcion": "Detective de sonido ║ Bello y Gnomo están decididos a resolver el misterio de quién está robando la fruta del jardín real.",
+      "inicio": "2026-06-25T01:30:00",
+      "fin": "2026-06-25T01:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Rita Pierde a Princesa",
+      "descripcion": "Rita Pierde a Princesa ║ Rita pierde a Princess y recorre desesperadamente el planeta Jammbo para encontrarla.",
+      "inicio": "2026-06-25T01:45:00",
+      "fin": "2026-06-25T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Reina Rita",
+      "descripcion": "Reina Rita ║ La Reina sale de vacaciones y el Rey se queda a cargo de todas las responsabilidades por lo que busca a una persona que lo ayude.",
+      "inicio": "2026-06-25T02:00:00",
+      "fin": "2026-06-25T02:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Historias de miedo",
+      "descripcion": "Historias de miedo ║ Los chicos están contando historias escalofriantes durante un campamento; Goomo cuenta la historia más aterradora acerca de un monstruo y luego va a buscar un bocadillo.",
+      "inicio": "2026-06-25T02:15:00",
+      "fin": "2026-06-25T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Las mentiras vuelan",
+      "descripcion": "Las mentiras vuelan ║ Tras cometer un error Bello se escuda en una historia muy poco verosímil. Mina, enfadada con él, le someterá a una dura prueba: \"El Caramelo De La Verdad\". Un caramelo que hace flotar a aquel que miente.",
+      "inicio": "2026-06-25T02:30:00",
+      "fin": "2026-06-25T02:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • El columpio de Mina",
+      "descripcion": "El columpio de Mina ║ Mina intenta construir un columpio increíble para agradar al Rey. Ella pronto descubre que la tecnología no puede reemplazar a la amistad y cooperación.",
+      "inicio": "2026-06-25T02:45:00",
+      "fin": "2026-06-25T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Apprentice Bello",
+      "descripcion": "Apprentice Bello ║ A Bello se le asigna un trabajo muy importante: ¡está a cargo de administrar Music Factory! Aunque la Reina deja el manual de instrucciones, Bello lo ignora. Tan pronto como ella se va a tomar un merecido descanso, toda la operación se vuelve loca.",
+      "inicio": "2026-06-25T03:00:00",
+      "fin": "2026-06-25T03:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Pulseras tramposas",
+      "descripcion": "Pulseras tramposas ║ Rita está cansada de perder en todos los juegos, por eso se alía con unos brazaletes que la ayudarán a ganar todos los juegos de los que participe.",
+      "inicio": "2026-06-25T03:15:00",
+      "fin": "2026-06-25T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Operación salvar Jammbo",
+      "descripcion": "Operación salvar Jammbo ║ Los chicos, el Rey y la Reina descubren que su basura causa contaminación y deciden reciclar para restablecer la salud y belleza de Jammbo.",
+      "inicio": "2026-06-25T03:30:00",
+      "fin": "2026-06-25T03:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Experimentos de Invisibilidad",
+      "descripcion": "Experimentos de Invisibilidad ║ Cuando Mina descubre cómo volverse invisible y volver objetos invisibles, no puede resistir probarlo en sus amigos desprevenidos; después de un día de acontecimientos extraños e inexplicables los niños descubren que Mina es la culpable.",
+      "inicio": "2026-06-25T03:45:00",
+      "fin": "2026-06-25T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • La aurora musical",
+      "descripcion": "La aurora musical ║ Goomo está muy entusiasmado con uno de los eventos más impresionantes en Jammbo.",
+      "inicio": "2026-06-25T04:00:00",
+      "fin": "2026-06-25T04:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Castillo encantado",
+      "descripcion": "Castillo encantado ║ Durante una feroz tormenta de truenos y relámpagos, Bello y Goomo buscan refugio.",
+      "inicio": "2026-06-25T04:15:00",
+      "fin": "2026-06-25T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • El Juguete del Rey",
+      "descripcion": "El Juguete del Rey ║ El Rey esconde su monopatín propulsado por un cohete dentro de una caja mágica; Goomo y Bello deciden reclamar el monopatín retando los deseos del Rey.",
+      "inicio": "2026-06-25T04:30:00",
+      "fin": "2026-06-25T04:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • El cumpleaños de la reina",
+      "descripcion": "El cumpleaños de la reina ║ El Rey y los chicos organizan la mejor fiesta de cumpleaños. Desafortunadamente, todos tienen sus propias ideas de cómo lograr su objetivo.",
+      "inicio": "2026-06-25T04:45:00",
+      "fin": "2026-06-25T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • El misterio de los árboles",
+      "descripcion": "El misterio de los árboles ║ Gnomo despierta pensando que ha arruinado los árboles de Jellyberry cuando los descubre derribados, pero Mina y Bello descubren que fue el Rey quien lo hizo y deben responsabilizarlo por sus acciones.",
+      "inicio": "2026-06-25T05:00:00",
+      "fin": "2026-06-25T05:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Bello, el inventor",
+      "descripcion": "Bello, el inventor ║ Bello descubre de la forma más complicada el significado detrás de las palabras. Él se entromete con la más reciente creación de Mina, un robot gigante para cambiar los focos.",
+      "inicio": "2026-06-25T05:15:00",
+      "fin": "2026-06-25T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Detective de sonido",
+      "descripcion": "Detective de sonido ║ Bello y Gnomo están decididos a resolver el misterio de quién está robando la fruta del jardín real.",
+      "inicio": "2026-06-25T05:30:00",
+      "fin": "2026-06-25T05:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Rita Pierde a Princesa",
+      "descripcion": "Rita Pierde a Princesa ║ Rita pierde a Princess y recorre desesperadamente el planeta Jammbo para encontrarla.",
+      "inicio": "2026-06-25T05:45:00",
+      "fin": "2026-06-25T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Reina Rita",
+      "descripcion": "Reina Rita ║ La Reina sale de vacaciones y el Rey se queda a cargo de todas las responsabilidades por lo que busca a una persona que lo ayude.",
+      "inicio": "2026-06-25T06:00:00",
+      "fin": "2026-06-25T06:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Historias de miedo",
+      "descripcion": "Historias de miedo ║ Los chicos están contando historias escalofriantes durante un campamento; Goomo cuenta la historia más aterradora acerca de un monstruo y luego va a buscar un bocadillo.",
+      "inicio": "2026-06-25T06:15:00",
+      "fin": "2026-06-25T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Las mentiras vuelan",
+      "descripcion": "Las mentiras vuelan ║ Tras cometer un error Bello se escuda en una historia muy poco verosímil. Mina, enfadada con él, le someterá a una dura prueba: \"El Caramelo De La Verdad\". Un caramelo que hace flotar a aquel que miente.",
+      "inicio": "2026-06-25T06:30:00",
+      "fin": "2026-06-25T06:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • El columpio de Mina",
+      "descripcion": "El columpio de Mina ║ Mina intenta construir un columpio increíble para agradar al Rey. Ella pronto descubre que la tecnología no puede reemplazar a la amistad y cooperación.",
+      "inicio": "2026-06-25T06:45:00",
+      "fin": "2026-06-25T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Apprentice Bello",
+      "descripcion": "Apprentice Bello ║ A Bello se le asigna un trabajo muy importante: ¡está a cargo de administrar Music Factory! Aunque la Reina deja el manual de instrucciones, Bello lo ignora. Tan pronto como ella se va a tomar un merecido descanso, toda la operación se vuelve loca.",
+      "inicio": "2026-06-25T07:00:00",
+      "fin": "2026-06-25T07:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Pulseras tramposas",
+      "descripcion": "Pulseras tramposas ║ Rita está cansada de perder en todos los juegos, por eso se alía con unos brazaletes que la ayudarán a ganar todos los juegos de los que participe.",
+      "inicio": "2026-06-25T07:15:00",
+      "fin": "2026-06-25T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Operación salvar Jammbo",
+      "descripcion": "Operación salvar Jammbo ║ Los chicos, el Rey y la Reina descubren que su basura causa contaminación y deciden reciclar para restablecer la salud y belleza de Jammbo.",
+      "inicio": "2026-06-25T07:30:00",
+      "fin": "2026-06-25T07:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Experimentos de Invisibilidad",
+      "descripcion": "Experimentos de Invisibilidad ║ Cuando Mina descubre cómo volverse invisible y volver objetos invisibles, no puede resistir probarlo en sus amigos desprevenidos; después de un día de acontecimientos extraños e inexplicables los niños descubren que Mina es la culpable.",
+      "inicio": "2026-06-25T07:45:00",
+      "fin": "2026-06-25T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • La aurora musical",
+      "descripcion": "La aurora musical ║ Goomo está muy entusiasmado con uno de los eventos más impresionantes en Jammbo.",
+      "inicio": "2026-06-25T08:00:00",
+      "fin": "2026-06-25T08:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Castillo encantado",
+      "descripcion": "Castillo encantado ║ Durante una feroz tormenta de truenos y relámpagos, Bello y Goomo buscan refugio.",
+      "inicio": "2026-06-25T08:15:00",
+      "fin": "2026-06-25T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • El Juguete del Rey",
+      "descripcion": "El Juguete del Rey ║ El Rey esconde su monopatín propulsado por un cohete dentro de una caja mágica; Goomo y Bello deciden reclamar el monopatín retando los deseos del Rey.",
+      "inicio": "2026-06-25T08:30:00",
+      "fin": "2026-06-25T08:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • El cumpleaños de la reina",
+      "descripcion": "El cumpleaños de la reina ║ El Rey y los chicos organizan la mejor fiesta de cumpleaños. Desafortunadamente, todos tienen sus propias ideas de cómo lograr su objetivo.",
+      "inicio": "2026-06-25T08:45:00",
+      "fin": "2026-06-25T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Universo rosa",
+      "descripcion": "Universo rosa ║ Rita desea que todo en Jammbo sea de su color favorito, rosa. Sin embargo, cuando todos comienzan a ponerse rosas es una carrera para cambiar a Jammbo a su estado previo antes de que sea demasiado tarde.",
+      "inicio": "2026-06-25T09:00:00",
+      "fin": "2026-06-25T09:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Naturaleza salvaje",
+      "descripcion": "Naturaleza salvaje ║ Rita y Goomo descubren un huevo de Dodo e intentan mirar de cerca, pero cuando lo pierden deben recuperarlo rápidamente.",
+      "inicio": "2026-06-25T09:15:00",
+      "fin": "2026-06-25T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Cazasonidos",
+      "descripcion": "Cazasonidos ║ Cuando los Discos de Sonido se vuelven locos, Bello y Rita deben regresar cada sonido a su lugar apropiado.",
+      "inicio": "2026-06-25T09:30:00",
+      "fin": "2026-06-25T09:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jelly Jamm • Bello, el tuerto",
+      "descripcion": "Bello, el tuerto ║ Bello está molesto porque necesita llevar un parche, pero sus amigos le demostrarán que una canción puede convertirlo en una diversión.",
+      "inicio": "2026-06-25T09:45:00",
+      "fin": "2026-06-25T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Leo, el explorador • Pájaro de hoja verde mayor",
+      "descripcion": "Pájaro de hoja verde mayor ║ Kai se desanima después de que su gran pájaro verdoso se niega de repente a cantar. Pide ayuda a Leo y a sus amigos guardabosques para encontrar otro pájaro que le haga compañía.",
+      "inicio": "2026-06-25T10:00:00",
+      "fin": "2026-06-25T10:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Leo, el explorador • Araña orbe dorada",
+      "descripcion": "Araña orbe dorada ║ Hay un pez de aspecto extraño que está provocando una tormenta de arena submarina.",
+      "inicio": "2026-06-25T10:15:00",
+      "fin": "2026-06-25T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Leo, el explorador • Oropéndola de nuca negra",
+      "descripcion": "Oropéndola de nuca negra ║ Zari encuentra un polluelo de oropéndola perdido y, sin darse cuenta, lo coloca sobre un coche.",
+      "inicio": "2026-06-25T10:30:00",
+      "fin": "2026-06-25T10:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Leo, el explorador • Balanceando los árboles",
+      "descripcion": "Balanceando los árboles ║ Una tormenta destruye el nido de un orangután y resulta herido. Los exploradores lo ayudan a recuperarse mientras reconstruyen su nido.",
+      "inicio": "2026-06-25T10:45:00",
+      "fin": "2026-06-25T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Abecedario animal • C es por coyote",
+      "descripcion": "C es por coyote ║ Un programa de educación y entretenimiento para el aprendizaje de las letras que componen el abecedario, ilustradas con diferentes animales.",
+      "inicio": "2026-06-25T11:00:00",
+      "fin": "2026-06-25T11:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Abecedario animal • F es por flamenco",
+      "descripcion": "F es por flamenco ║ Un programa de educación y entretenimiento para el aprendizaje de las letras que componen el abecedario, ilustradas con diferentes animales.",
+      "inicio": "2026-06-25T11:05:00",
+      "fin": "2026-06-25T11:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Abecedario animal • Z es por zorro",
+      "descripcion": "Z es por zorro ║ Un programa de educación y entretenimiento para el aprendizaje de las letras que componen el abecedario, ilustradas con diferentes animales.",
+      "inicio": "2026-06-25T11:10:00",
+      "fin": "2026-06-25T11:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonidos animales • Chacal",
+      "descripcion": "Chacal ║ Rocky, un león animatrónico, se embarca en una divertida actividad interactiva en la que intenta adivinar el animal correcto que corresponde a los sonidos que imitan los niños.",
+      "inicio": "2026-06-25T11:15:00",
+      "fin": "2026-06-25T11:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonidos animales • Ciervo",
+      "descripcion": "Ciervo ║ Rocky y sus amigos aprenden sobre los sonidos que hace el ciervo.",
+      "inicio": "2026-06-25T11:20:00",
+      "fin": "2026-06-25T11:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonidos animales • Caimán",
+      "descripcion": "Caimán ║ Rocky y sus amigos aprenden sobre los sonidos que hace el caimán.",
+      "inicio": "2026-06-25T11:25:00",
+      "fin": "2026-06-25T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cuentos Pop • Bebés acuáticos",
+      "descripcion": "Bebés acuáticos ║ Es hora de acompañar a Gorila Ninja en los Cuentos Pop y adivinar qué escultura está haciendo con los globos.",
+      "inicio": "2026-06-25T11:30:00",
+      "fin": "2026-06-25T11:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Adivina el animal • Águila",
+      "descripcion": "Águila ║ Aprende con este divertido juego y sigue las pistas para adivinar de qué animal se trata. En esta ocasión: el águila.",
+      "inicio": "2026-06-25T11:45:00",
+      "fin": "2026-06-25T11:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Adivina el animal • Araña",
+      "descripcion": "Araña ║ Flash y sus amigos se ponen a prueba jugando a adivinar el nombre de los animales basándose en datos interesantes y en sus características físicas.",
+      "inicio": "2026-06-25T11:50:00",
+      "fin": "2026-06-25T11:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Adivina el animal • Iguana marina",
+      "descripcion": "Iguana marina ║ Flash y sus amigos se ponen a prueba jugando a adivinar el nombre de los animales basándose en datos interesantes y en sus características físicas.",
+      "inicio": "2026-06-25T11:55:00",
+      "fin": "2026-06-25T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ZooMoo tiene cerebro • Ponerle Calor",
+      "descripcion": "Ponerle Calor ║ Rory el Tigre dirige el concurso y Emmett, Hannah y Rocky compiten y muestran sus conocimientos sobre cómo los animales lidian con el calor.",
+      "inicio": "2026-06-25T12:00:00",
+      "fin": "2026-06-25T12:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ZooMoo tiene cerebro • Hazañas asombrosas",
+      "descripcion": "Hazañas asombrosas ║ Rory el Tigre es el presentador y Latif, Dunia y Panda compiten para ver las cosas maravillosas y fantásticas que pueden hacer los animales.",
+      "inicio": "2026-06-25T12:15:00",
+      "fin": "2026-06-25T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ZooMoo tiene cerebro • Gran Tierra del Sur",
+      "descripcion": "Gran Tierra del Sur ║ Rory el Tigre dirigiendo y Latif, Hannah y Rocky son los concursantes que emprenden un viaje al gran país del sur, también conocido como Australia.",
+      "inicio": "2026-06-25T12:30:00",
+      "fin": "2026-06-25T12:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

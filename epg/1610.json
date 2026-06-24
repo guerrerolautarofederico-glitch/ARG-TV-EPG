@@ -1,264 +1,19 @@
 {
   "actual": {
-    "titulo": "La panadería dulce de Juan Manuel • Tarta de avellanas y duraznos; trenza de chocolate",
-    "descripcion": "Tarta de avellanas y duraznos; trenza de chocolate ║ Un recorrido desde las facturas argentinas hasta clásicos del mundo como baklava o amarettis. Recetas paso a paso para preparar estas delicias.",
-    "inicio": "2026-06-23T14:00:00",
-    "fin": "2026-06-23T14:30:00",
+    "titulo": "Los favoritos de Margarita Bernal en Cartagena",
+    "descripcion": "La cocinera colombiana Margarita Bernal visita la histórica ciudad de Cartagena para mostrar sus sitios gastronómicos favoritos. Invita a visitar restaurantes exclusivos, cafeterías, bares típicos y a probar la cocina callejera.",
+    "inicio": "2026-06-24T12:30:00",
+    "fin": "2026-06-24T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "La ruta del mar patagónico • Puerto Madryn, langostinos",
-    "descripcion": "Puerto Madryn, langostinos ║ Tupac viaja para hacer un avistamiento de ballenas, y en Puerto Madryn prueba chocolates inspirados en ellas. También prueba algunos platos típicos de la ciudad, y después descubre langostinos salvajes de Rawson.",
-    "inicio": "2026-06-23T14:30:00",
-    "fin": "2026-06-23T15:00:00",
+    "titulo": "Guardianes de tradición Argentina",
+    "descripcion": "En esta ocasión, se preparan las empanadas que hacía la fundadora del comedor de Las Águilas, con una masa que posee un ingrediente que la hace diferente. Además, se muestra cómo preparar el flan casero del lugar y se disfruta del clásico cabrito serrano.",
+    "inicio": "2026-06-24T13:00:00",
+    "fin": "2026-06-24T13:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "La panadería dulce de Juan Manuel • Tarta de avellanas y duraznos; trenza de chocolate",
-      "descripcion": "Tarta de avellanas y duraznos; trenza de chocolate ║ Un recorrido desde las facturas argentinas hasta clásicos del mundo como baklava o amarettis. Recetas paso a paso para preparar estas delicias.",
-      "inicio": "2026-06-23T14:00:00",
-      "fin": "2026-06-23T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La ruta del mar patagónico • Puerto Madryn, langostinos",
-      "descripcion": "Puerto Madryn, langostinos ║ Tupac viaja para hacer un avistamiento de ballenas, y en Puerto Madryn prueba chocolates inspirados en ellas. También prueba algunos platos típicos de la ciudad, y después descubre langostinos salvajes de Rawson.",
-      "inicio": "2026-06-23T14:30:00",
-      "fin": "2026-06-23T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Meriendas de Buenos Aires",
-      "descripcion": "Una visita a la emblemática confitería La Ideal con sus clásicas meriendas. También, una prueba de un pay de queso muy original en Lab Sucré y una experiencia de té única de Hotel Alvear.",
-      "inicio": "2026-06-23T15:00:00",
-      "fin": "2026-06-23T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jamie: 5 ingredientes mediterráneos • Pescado al vapor, pasta griega con pollo",
-      "descripcion": "Pescado al vapor, pasta griega con pollo ║ Jamie cocina pescado al vapor, pasta griega con pollo y verduras congeladas, y hamburguesa de salchichas. A continuación, la leyenda de cocina italiana, Gennaro Contaldo, prepara unos ñoquis caseros con solo cinco ingredientes.",
-      "inicio": "2026-06-23T15:30:00",
-      "fin": "2026-06-23T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Postres fáciles • Sándwich de chocolate y maní, tarta flan, mil hojas sin hojaldre",
-      "descripcion": "Sándwich de chocolate y maní, tarta flan, mil hojas sin hojaldre ║ Los postres siempre son una opción irresistible para darse un gusto cualquier día o para un festejo. Se presentan las recetas más sencillas para realizar postres clásicos y novedosos.",
-      "inicio": "2026-06-23T16:30:00",
-      "fin": "2026-06-23T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Abuela querida",
-      "descripcion": "Una conmovedora historia que explora los fuertes lazos familiares, los secretos del pasado y la influencia de una cariñosa abuela matriarca.",
-      "inicio": "2026-06-23T17:00:00",
-      "fin": "2026-06-23T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Petersen en México • Guadalajara",
-      "descripcion": "Guadalajara ║ Los Petersen visitan Guadalajara. Van a Kamilos 333 para probar la carne en su jugo. También visitan Xokol, restaurante especializado en tortillas.",
-      "inicio": "2026-06-23T17:30:00",
-      "fin": "2026-06-23T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Maestros del alfajor • Otras tapas",
-      "descripcion": "Otras tapas ║ En este episodio, Juan Manuel Herrera decide ahondar en el mundo de las masas de la golosina: sabores clásicos, reversiones e incluso tapas con harinas alternativas. Un mundo con infinitas variables, pero con su dulzura característica.",
-      "inicio": "2026-06-23T18:00:00",
-      "fin": "2026-06-23T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Me voy a comer el mundo • Croacia",
-      "descripcion": "Croacia ║ Una visita a Croacia para pasear por Zagreb, elaborar platos croatas tradicionales, entrar en tabernas y visitar el mercado de Dolac. Una visita a la hermosa Dubrovnik, en la Costa Dálmata.",
-      "inicio": "2026-06-23T18:30:00",
-      "fin": "2026-06-23T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los favoritos de Mauricio en Nueva York • Keki Modern Cakes",
-      "descripcion": "Keki Modern Cakes ║ Nueva York es la capital pastelera del mundo. El francés Dominique Ansel abre las puertas de su prestigioso local en SoHo. Keki Modern Cakes presenta los pasteles más esponjosos con una receta japonesa de excelencia.",
-      "inicio": "2026-06-23T19:30:00",
-      "fin": "2026-06-23T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Abuela querida",
-      "descripcion": "Una conmovedora historia que explora los fuertes lazos familiares, los secretos del pasado y la influencia de una cariñosa abuela matriarca.",
-      "inicio": "2026-06-23T20:00:00",
-      "fin": "2026-06-23T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jamie: 5 ingredientes mediterráneos • Pescado al vapor, pasta griega con pollo",
-      "descripcion": "Pescado al vapor, pasta griega con pollo ║ Jamie cocina pescado al vapor, pasta griega con pollo y verduras congeladas, y hamburguesa de salchichas. A continuación, la leyenda de cocina italiana, Gennaro Contaldo, prepara unos ñoquis caseros con solo cinco ingredientes.",
-      "inicio": "2026-06-23T20:30:00",
-      "fin": "2026-06-23T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Postres fáciles • Sándwich de chocolate y maní, tarta flan, mil hojas sin hojaldre",
-      "descripcion": "Sándwich de chocolate y maní, tarta flan, mil hojas sin hojaldre ║ Los postres siempre son una opción irresistible para darse un gusto cualquier día o para un festejo. Se presentan las recetas más sencillas para realizar postres clásicos y novedosos.",
-      "inicio": "2026-06-23T21:30:00",
-      "fin": "2026-06-23T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Petersen en México • Guadalajara",
-      "descripcion": "Guadalajara ║ Los Petersen visitan Guadalajara. Van a Kamilos 333 para probar la carne en su jugo. También visitan Xokol, restaurante especializado en tortillas.",
-      "inicio": "2026-06-23T22:00:00",
-      "fin": "2026-06-23T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Meriendas de Buenos Aires",
-      "descripcion": "Una visita a la emblemática confitería La Ideal con sus clásicas meriendas. También, una prueba de un pay de queso muy original en Lab Sucré y una experiencia de té única de Hotel Alvear.",
-      "inicio": "2026-06-23T22:30:00",
-      "fin": "2026-06-23T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los favoritos de Margarita Bernal en Cartagena",
-      "descripcion": "La cocinera colombiana Margarita Bernal visita la histórica ciudad de Cartagena para mostrar sus sitios gastronómicos favoritos. Invita a visitar restaurantes exclusivos, cafeterías, bares típicos y a probar la cocina callejera.",
-      "inicio": "2026-06-23T23:00:00",
-      "fin": "2026-06-23T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Maestros de la empanada • Empanada de queso de cabra",
-      "descripcion": "Empanada de queso de cabra ║ En Cafayate, Tupac muestra cómo se hace la clásica empanada de carne cortada a cuchillo; prepara empanada de queso de cabra. En San Isidro, Buenos Aires, se deleita con una empanada de salmón rosado y realiza una degustación de empanadas.",
-      "inicio": "2026-06-23T23:30:00",
-      "fin": "2026-06-24T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los fogones tradicionales Argentina • French; Tepalqué",
-      "descripcion": "French; Tepalqué ║ Hoy Walter y Emilse enseñan a deshuesar y rellenar una paleta de cordero para acompañar con diversos purés: al morrón asado, a la albahaca y a los cuatro quesos. Además, Doña Paulina nos regala su receta de torta negra.",
-      "inicio": "2026-06-24T00:00:00",
-      "fin": "2026-06-24T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Unidos por la cocina • Fundación Nosotros",
-      "descripcion": "Fundación Nosotros ║ Felicitas visita la Fundación Nosotros, donde jóvenes con discapacidad trabajan en un taller de panadería. Allí preparan galletitas marineras y budines que se venden en una feria semanal abierta al barrio.",
-      "inicio": "2026-06-24T00:30:00",
-      "fin": "2026-06-24T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cocina de mar. Pacífico • Quesadilla de papa, chileatole con pescado",
-      "descripcion": "Quesadilla de papa, chileatole con pescado ║ El chef Álex Ruiz prepara unas quesadillas de papa con ceviche de camarón. Luego, muestra otra variedad para cocinar maíz combinado con pescado y hace un chileatole con pescado.",
-      "inicio": "2026-06-24T01:00:00",
-      "fin": "2026-06-24T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Exploradora de Sabores • Datiles y durazno",
-      "descripcion": "Datiles y durazno ║ Soledad comparte una receta para preparar una torta húmeda de duraznos y dátiles.",
-      "inicio": "2026-06-24T01:30:00",
-      "fin": "2026-06-24T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La panadería dulce de Juan Manuel • Abizcochados dulces; chausson aux pommes",
-      "descripcion": "Abizcochados dulces; chausson aux pommes ║ Un recorrido desde las facturas argentinas hasta clásicos del mundo como baklava o amarettis. Recetas paso a paso para preparar estas delicias.",
-      "inicio": "2026-06-24T02:00:00",
-      "fin": "2026-06-24T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los infalibles de Gross",
-      "descripcion": "El éxito en la pastelería depende la receta. Qué mejor que contar con una selección de los platos infalibles del maestro Osvaldo Gross para poner manos a la obra.",
-      "inicio": "2026-06-24T02:30:00",
-      "fin": "2026-06-24T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Maestros del ceviche • Ica, el pisco en la gastronomía",
-      "descripcion": "Ica, el pisco en la gastronomía ║ Luciano Mazzetti visita la Finca La Caravedo, donde se preparan los piscos más conocidos del Perú, y muestra su proceso de destilado. Para terminar, un maestro del ceviche de la zona le prepara varios ceviches al pisco.",
-      "inicio": "2026-06-24T03:00:00",
-      "fin": "2026-06-24T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Unidos por la cocina • Fundación Nosotros",
-      "descripcion": "Fundación Nosotros ║ Felicitas visita la Fundación Nosotros, donde jóvenes con discapacidad trabajan en un taller de panadería. Allí preparan galletitas marineras y budines que se venden en una feria semanal abierta al barrio.",
-      "inicio": "2026-06-24T03:30:00",
-      "fin": "2026-06-24T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Postres fáciles • Galletitas arrugadas, masitas de limón, mousse de dulce de leche express",
-      "descripcion": "Galletitas arrugadas, masitas de limón, mousse de dulce de leche express ║ Recetas para todos los gustos: atención a los fanáticos de la hora de té porque Estefi trae galletitas arrugadas y masitas de limón. Además, si a alguien le encanta el dulce de leche, podrá probar una deliciosa receta de mousse de dulce de leche exprés.",
-      "inicio": "2026-06-24T04:00:00",
-      "fin": "2026-06-24T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Con vistas al mar",
-      "descripcion": "Es el turno de visitar el restaurante El Churrasco en Gran Canaria. También una visita a la Duna Soler en Valencia, donde cocinan deliciosos arroces, y el restaurante El Camarón en Punta Umbría, Huelva, para probar su cazuela de rape y marisco.",
-      "inicio": "2026-06-24T04:30:00",
-      "fin": "2026-06-24T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Celebrar en casa con Julieta y Felicitas • Spaghetti al huevo. Croquetas, aceitunas y alcauciles",
-      "descripcion": "Spaghetti al huevo. Croquetas, aceitunas y alcauciles ║ Julieta se luce con unos spaghetti al huevo con crema de zucchinis y Feli no se queda atrás con sus famosas croquetas, aceitunas y alcauciles.",
-      "inicio": "2026-06-24T05:00:00",
-      "fin": "2026-06-24T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fiesta en casa. Al aire libre • Chupitos de panna cotta de parmesano",
-      "descripcion": "Chupitos de panna cotta de parmesano ║ Carmen López del Hierro elabora tres recetas deliciosas: chupitos de panna cotta de parmesano con mermelada de tomate, cerdo con frutas secas y panzanella toscana.",
-      "inicio": "2026-06-24T09:00:00",
-      "fin": "2026-06-24T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los fogones tradicionales Argentina • French; Tepalqué",
-      "descripcion": "French; Tepalqué ║ Hoy Walter y Emilse enseñan a deshuesar y rellenar una paleta de cordero para acompañar con diversos purés: al morrón asado, a la albahaca y a los cuatro quesos. Además, Doña Paulina nos regala su receta de torta negra.",
-      "inicio": "2026-06-24T09:30:00",
-      "fin": "2026-06-24T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La Raya: entre España y Portugal • Hijos del barranqueño",
-      "descripcion": "Hijos del barranqueño ║ Un viaje hasta los límites de Huelva con Portugal, donde el protagonista será el ibérico. Aquí se ganan premios, como el del bar \"El emigrante\", donde Antonia y sus hijos preparan la carrillera de cerdo ibérico más codiciada.",
-      "inicio": "2026-06-24T10:00:00",
-      "fin": "2026-06-24T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los infalibles de Gross",
-      "descripcion": "El éxito en la pastelería depende la receta. Qué mejor que contar con una selección de los platos infalibles del maestro Osvaldo Gross para poner manos a la obra.",
-      "inicio": "2026-06-24T10:30:00",
-      "fin": "2026-06-24T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Unidos por la cocina • Fundación Nosotros",
-      "descripcion": "Fundación Nosotros ║ Felicitas visita la Fundación Nosotros, donde jóvenes con discapacidad trabajan en un taller de panadería. Allí preparan galletitas marineras y budines que se venden en una feria semanal abierta al barrio.",
-      "inicio": "2026-06-24T11:00:00",
-      "fin": "2026-06-24T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Postres fáciles • Galletitas arrugadas, masitas de limón, mousse de dulce de leche express",
-      "descripcion": "Galletitas arrugadas, masitas de limón, mousse de dulce de leche express ║ Recetas para todos los gustos: atención a los fanáticos de la hora de té porque Estefi trae galletitas arrugadas y masitas de limón. Además, si a alguien le encanta el dulce de leche, podrá probar una deliciosa receta de mousse de dulce de leche exprés.",
-      "inicio": "2026-06-24T11:30:00",
-      "fin": "2026-06-24T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Celebrar en casa con Julieta y Felicitas • Spaghetti al huevo. Croquetas, aceitunas y alcauciles",
-      "descripcion": "Spaghetti al huevo. Croquetas, aceitunas y alcauciles ║ Julieta se luce con unos spaghetti al huevo con crema de zucchinis y Feli no se queda atrás con sus famosas croquetas, aceitunas y alcauciles.",
-      "inicio": "2026-06-24T12:00:00",
-      "fin": "2026-06-24T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Los favoritos de Margarita Bernal en Cartagena",
       "descripcion": "La cocinera colombiana Margarita Bernal visita la histórica ciudad de Cartagena para mostrar sus sitios gastronómicos favoritos. Invita a visitar restaurantes exclusivos, cafeterías, bares típicos y a probar la cocina callejera.",
@@ -285,6 +40,251 @@
       "descripcion": "Abizcochados dulces; chausson aux pommes ║ Un recorrido desde las facturas argentinas hasta clásicos del mundo como baklava o amarettis. Recetas paso a paso para preparar estas delicias.",
       "inicio": "2026-06-24T14:00:00",
       "fin": "2026-06-24T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Maestros de la empanada • Empanada de queso de cabra",
+      "descripcion": "Empanada de queso de cabra ║ En Cafayate, Tupac muestra cómo se hace la clásica empanada de carne cortada a cuchillo; prepara empanada de queso de cabra. En San Isidro, Buenos Aires, se deleita con una empanada de salmón rosado y realiza una degustación de empanadas.",
+      "inicio": "2026-06-24T14:30:00",
+      "fin": "2026-06-24T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los imperdibles: Ciudad de México",
+      "descripcion": "En Maizajo, respetan el grano desde que es semilla hasta que llega al comal. Luego, una torre de mariscos que combina lo mejor del Pacífico, y, por ultimo, un postre que nunca pasa de moda en la Ciudad de México: el banana split de la Roxy.",
+      "inicio": "2026-06-24T15:00:00",
+      "fin": "2026-06-24T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rico y saludable con Jamie",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-24T15:30:00",
+      "fin": "2026-06-24T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Postres fáciles • Galletitas arrugadas, masitas de limón, mousse de dulce de leche express",
+      "descripcion": "Galletitas arrugadas, masitas de limón, mousse de dulce de leche express ║ Recetas para todos los gustos: atención a los fanáticos de la hora de té porque Estefi trae galletitas arrugadas y masitas de limón. Además, si a alguien le encanta el dulce de leche, podrá probar una deliciosa receta de mousse de dulce de leche exprés.",
+      "inicio": "2026-06-24T16:30:00",
+      "fin": "2026-06-24T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Guardianes de tradición Argentina",
+      "descripcion": "En esta ocasión, se preparan las empanadas que hacía la fundadora del comedor de Las Águilas, con una masa que posee un ingrediente que la hace diferente. Además, se muestra cómo preparar el flan casero del lugar y se disfruta del clásico cabrito serrano.",
+      "inicio": "2026-06-24T17:00:00",
+      "fin": "2026-06-24T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Días de campo con los Petersen",
+      "descripcion": "Un recorrido por la cuna de la tradición argentina: sus estancias. Los hermanos Petersen visitan los negocios típicos de los pueblos, hablan con los dueños y disfrutan de la cocina, probando platos de otros y preparando recetas propias.",
+      "inicio": "2026-06-24T17:30:00",
+      "fin": "2026-06-24T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Maestros del pan Argentina",
+      "descripcion": "Un viaje a Junín para conocer San Cayetano, una panadería que hornea a leña cada madrugada. Luego, una cremona bien argentina en Panadería Suevia. Además, la historia de la tortilla callejera y el secreto de unas irresistibles figacitas de manteca.",
+      "inicio": "2026-06-24T18:00:00",
+      "fin": "2026-06-24T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Me voy a comer el mundo • Seúl ",
+      "descripcion": "Seúl ║ Verónica visita Seúl, capital de Corea del Sur, y prueba delicias en la exclusiva zona de Seongbuk-dong como la sopa de perro, el pollo frito y la típica barbacoa coreana. Además, el gran Noryangjin, el mercado de pescado, y el mercado Gwangjang.",
+      "inicio": "2026-06-24T18:30:00",
+      "fin": "2026-06-24T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los favoritos de Margarita Bernal en Cartagena",
+      "descripcion": "La cocinera colombiana Margarita Bernal visita la histórica ciudad de Cartagena para mostrar sus sitios gastronómicos favoritos. Invita a visitar restaurantes exclusivos, cafeterías, bares típicos y a probar la cocina callejera.",
+      "inicio": "2026-06-24T19:30:00",
+      "fin": "2026-06-24T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Guardianes de tradición Argentina",
+      "descripcion": "En esta ocasión, se preparan las empanadas que hacía la fundadora del comedor de Las Águilas, con una masa que posee un ingrediente que la hace diferente. Además, se muestra cómo preparar el flan casero del lugar y se disfruta del clásico cabrito serrano.",
+      "inicio": "2026-06-24T20:00:00",
+      "fin": "2026-06-24T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rico y saludable con Jamie",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-06-24T20:30:00",
+      "fin": "2026-06-24T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Postres fáciles • Galletitas arrugadas, masitas de limón, mousse de dulce de leche express",
+      "descripcion": "Galletitas arrugadas, masitas de limón, mousse de dulce de leche express ║ Recetas para todos los gustos: atención a los fanáticos de la hora de té porque Estefi trae galletitas arrugadas y masitas de limón. Además, si a alguien le encanta el dulce de leche, podrá probar una deliciosa receta de mousse de dulce de leche exprés.",
+      "inicio": "2026-06-24T21:30:00",
+      "fin": "2026-06-24T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Días de campo con los Petersen",
+      "descripcion": "Un recorrido por la cuna de la tradición argentina: sus estancias. Los hermanos Petersen visitan los negocios típicos de los pueblos, hablan con los dueños y disfrutan de la cocina, probando platos de otros y preparando recetas propias.",
+      "inicio": "2026-06-24T22:00:00",
+      "fin": "2026-06-24T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los imperdibles: Ciudad de México",
+      "descripcion": "En Maizajo, respetan el grano desde que es semilla hasta que llega al comal. Luego, una torre de mariscos que combina lo mejor del Pacífico, y, por ultimo, un postre que nunca pasa de moda en la Ciudad de México: el banana split de la Roxy.",
+      "inicio": "2026-06-24T22:30:00",
+      "fin": "2026-06-24T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los favoritos saludables de Mauro Massimino • Tehani",
+      "descripcion": "Tehani ║ Mauro te invita a conocer a Tehani. El almuerzo será en Mudrá, un restaurante de platillos a base de plantas, y para la merienda, ¿qué mejor que las mejores medialunas en Cruasán? El último favorito es un lugar de comida rápida, Avocado Republic.",
+      "inicio": "2026-06-24T23:00:00",
+      "fin": "2026-06-24T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La ruta del mar patagónico • Viedma, pastel de carpa",
+      "descripcion": "Viedma, pastel de carpa ║ En este capítulo, Tupac llega a Las Grutas para una jornada de pesca y cocina lo obtenido junto a un chef local. En Viedma conoce a Mirica, una abuela muy cálida que le prepara un budín croata de frutos secos, y cierra el viaje con un delicioso pastel de carpa.",
+      "inicio": "2026-06-24T23:30:00",
+      "fin": "2026-06-25T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los fogones tradicionales Argentina • Hernández; Concepción del Uruguay",
+      "descripcion": "Hernández; Concepción del Uruguay ║ Silvina comparte la receta del pirok, una preparación alemana que se consume usualmente en la región, y los kreppel, un dulce para acompañar las mateadas. Además, Beto Giménez enseña a preparar el tradicional asado con cuero.",
+      "inicio": "2026-06-25T00:00:00",
+      "fin": "2026-06-25T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La cocina de los clubes • Club Trebolense, Club Unión",
+      "descripcion": "Club Trebolense, Club Unión ║ La cantina del Club Atlético Trebolense de la ciudad del Trébol, Santa Fe y su volcán de ñoquis o de malfattis servidos en pan de campo son los platos más pedidos. En la cantina del Club Unión preparan una famosa bondiola a la mostaza en disco.",
+      "inicio": "2026-06-25T00:30:00",
+      "fin": "2026-06-25T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cocina de mar. Pacífico • Tortitas de papa con camarón, taco estilo Baja",
+      "descripcion": "Tortitas de papa con camarón, taco estilo Baja ║ El chef Alex Ruiz enseña los secretos para hacer unas deliciosas tortitas de papa con camarón. Por otro lado, muestra cómo se prepara el taco estilo Baja, un platillo típico por excelencia en las playas de Baja California.",
+      "inicio": "2026-06-25T01:00:00",
+      "fin": "2026-06-25T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Nardelli al natural • Zucchini",
+      "descripcion": "Zucchini ║ Sole Nardelli propone, desde tierras mendocinas, recetas con ingredientes de primavera-verano: zucchini, zapallito e hinojo. El menú incluye muffins de zucchini, niños envueltos de zapallito, flor de zucchini y ensalada de hinojos.",
+      "inicio": "2026-06-25T01:30:00",
+      "fin": "2026-06-25T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La panadería dulce de Juan Manuel • Pan frutto; Anillo del desierto",
+      "descripcion": "Pan frutto; Anillo del desierto ║ Juan Manuel Herrera enseña las técnicas y comparte todos los tips de un sinfín de recetas sabrosas de la panadería dulce. Hoy: pan fruto y anillo del desierto con levadura de masa madre.",
+      "inicio": "2026-06-25T02:00:00",
+      "fin": "2026-06-25T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los infalibles de Gross",
+      "descripcion": "El éxito en la pastelería depende la receta. Qué mejor que contar con una selección de los platos infalibles del maestro Osvaldo Gross para poner manos a la obra.",
+      "inicio": "2026-06-25T02:30:00",
+      "fin": "2026-06-25T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Maestros del ceviche • Tumbes, gastronomía y naturaleza",
+      "descripcion": "Tumbes, gastronomía y naturaleza ║ En esta ocasión, Luciano Mazzetti visita el Puerto Pizarro, donde recorre el zoocriadero de cocodrilos y la isla de pájaros. También se visita a dos hermanas, cada una con una cevichería muy popular en Tumbes: \"Aquí me quedo\" y \"La rica caballa\".",
+      "inicio": "2026-06-25T03:00:00",
+      "fin": "2026-06-25T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La cocina de los clubes • Club Trebolense, Club Unión",
+      "descripcion": "Club Trebolense, Club Unión ║ La cantina del Club Atlético Trebolense de la ciudad del Trébol, Santa Fe y su volcán de ñoquis o de malfattis servidos en pan de campo son los platos más pedidos. En la cantina del Club Unión preparan una famosa bondiola a la mostaza en disco.",
+      "inicio": "2026-06-25T03:30:00",
+      "fin": "2026-06-25T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Postres fáciles • Pastel de leche caliente, cuadritos húmedos de limón glaseados, almendrado",
+      "descripcion": "Pastel de leche caliente, cuadritos húmedos de limón glaseados, almendrado ║ Estefi Colombo ama los dulces, pero odia complicarse la vida. Así que presenta las mejores opciones para los golosos que tienen ganas de hacerla fácil. Prepara tres deliciosas recetas: pastel de leche caliente, cuadraditos húmedos glaseados y almendrado.",
+      "inicio": "2026-06-25T04:00:00",
+      "fin": "2026-06-25T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Con vistas al mar",
+      "descripcion": "Es el turno de visitar el restaurante El Churrasco en Gran Canaria. También una visita a la Duna Soler en Valencia, donde cocinan deliciosos arroces, y el restaurante El Camarón en Punta Umbría, Huelva, para probar su cazuela de rape y marisco.",
+      "inicio": "2026-06-25T04:30:00",
+      "fin": "2026-06-25T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Celebrar en casa con Julieta y Felicitas • Vacío con salsa romesco; Rabo estofado",
+      "descripcion": "Vacío con salsa romesco; Rabo estofado ║ El vacío a la parrilla con salsa romesco, servido con berenjenas y lentejas, y el reconfortante rabo estofado de cocción lenta son ideales para una comida gourmet pero hogareña.",
+      "inicio": "2026-06-25T05:00:00",
+      "fin": "2026-06-25T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fiesta en casa. Al aire libre • Salteado de fabas y almeja al cava",
+      "descripcion": "Salteado de fabas y almeja al cava ║ Carmen López del Hierro elabora dos recetas: salteado de fabas y almejas al cava, y ravioli relleno de pollo y membrillo con salsa de Idiazábal.",
+      "inicio": "2026-06-25T09:00:00",
+      "fin": "2026-06-25T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los fogones tradicionales Argentina • Hernández; Concepción del Uruguay",
+      "descripcion": "Hernández; Concepción del Uruguay ║ Silvina comparte la receta del pirok, una preparación alemana que se consume usualmente en la región, y los kreppel, un dulce para acompañar las mateadas. Además, Beto Giménez enseña a preparar el tradicional asado con cuero.",
+      "inicio": "2026-06-25T09:30:00",
+      "fin": "2026-06-25T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pasión por el marisco",
+      "descripcion": "El chef muestra los mariscos de la Costa de la Muerte en Galicia, prestando especial atención al centollo. Luego, enseña a cocinarlo en casa y presenta recetas como el bogavante asado con eneldo y el salpicón del buey de mar.",
+      "inicio": "2026-06-25T10:00:00",
+      "fin": "2026-06-25T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los infalibles de Gross",
+      "descripcion": "El éxito en la pastelería depende la receta. Qué mejor que contar con una selección de los platos infalibles del maestro Osvaldo Gross para poner manos a la obra.",
+      "inicio": "2026-06-25T10:30:00",
+      "fin": "2026-06-25T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La cocina de los clubes • Club Trebolense, Club Unión",
+      "descripcion": "Club Trebolense, Club Unión ║ La cantina del Club Atlético Trebolense de la ciudad del Trébol, Santa Fe y su volcán de ñoquis o de malfattis servidos en pan de campo son los platos más pedidos. En la cantina del Club Unión preparan una famosa bondiola a la mostaza en disco.",
+      "inicio": "2026-06-25T11:00:00",
+      "fin": "2026-06-25T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Postres fáciles • Pastel de leche caliente, cuadritos húmedos de limón glaseados, almendrado",
+      "descripcion": "Pastel de leche caliente, cuadritos húmedos de limón glaseados, almendrado ║ Estefi Colombo ama los dulces, pero odia complicarse la vida. Así que presenta las mejores opciones para los golosos que tienen ganas de hacerla fácil. Prepara tres deliciosas recetas: pastel de leche caliente, cuadraditos húmedos glaseados y almendrado.",
+      "inicio": "2026-06-25T11:30:00",
+      "fin": "2026-06-25T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Celebrar en casa con Julieta y Felicitas • Vacío con salsa romesco; Rabo estofado",
+      "descripcion": "Vacío con salsa romesco; Rabo estofado ║ El vacío a la parrilla con salsa romesco, servido con berenjenas y lentejas, y el reconfortante rabo estofado de cocción lenta son ideales para una comida gourmet pero hogareña.",
+      "inicio": "2026-06-25T12:00:00",
+      "fin": "2026-06-25T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los favoritos saludables de Mauro Massimino • Tehani",
+      "descripcion": "Tehani ║ Mauro te invita a conocer a Tehani. El almuerzo será en Mudrá, un restaurante de platillos a base de plantas, y para la merienda, ¿qué mejor que las mejores medialunas en Cruasán? El último favorito es un lugar de comida rápida, Avocado Republic.",
+      "inicio": "2026-06-25T12:30:00",
+      "fin": "2026-06-25T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
