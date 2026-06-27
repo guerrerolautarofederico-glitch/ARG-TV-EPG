@@ -1,82 +1,19 @@
 {
   "actual": {
-    "titulo": "Mediodía Económico",
-    "descripcion": "Información económica y financiera del país.",
-    "inicio": "2026-06-26T12:15:00",
-    "fin": "2026-06-26T14:00:00",
+    "titulo": "Resumen Fin de Semana",
+    "descripcion": "Contenido especial y selección de los mejores programas de la semana.",
+    "inicio": "2026-06-27T09:00:00",
+    "fin": "2026-06-27T11:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
     "titulo": "Destacados",
-    "descripcion": "El resumen imperdible con los contenidos más relevantes de Canal E.",
-    "inicio": "2026-06-26T14:00:00",
-    "fin": "2026-06-26T14:15:00",
+    "descripcion": "El resumen imperdible. Presentamos los contenidos más relevantes y las noticias clave emitidas por Canal E.",
+    "inicio": "2026-06-27T11:45:00",
+    "fin": "2026-06-27T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Mediodía Económico",
-      "descripcion": "Información económica y financiera del país.",
-      "inicio": "2026-06-26T12:15:00",
-      "fin": "2026-06-26T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Destacados",
-      "descripcion": "El resumen imperdible con los contenidos más relevantes de Canal E.",
-      "inicio": "2026-06-26T14:00:00",
-      "fin": "2026-06-26T14:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La tarde",
-      "descripcion": "Análisis de noticias con Pepe Gil Vidal y Mario Gorodich.",
-      "inicio": "2026-06-26T14:15:00",
-      "fin": "2026-06-26T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Rueda de Cierre",
-      "descripcion": "Cierre de la jornada con información económica nacional e internacional.",
-      "inicio": "2026-06-26T17:00:00",
-      "fin": "2026-06-26T18:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Regreso",
-      "descripcion": "Actualidad económica y política.",
-      "inicio": "2026-06-26T18:15:00",
-      "fin": "2026-06-26T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Conversaciones Convergentes",
-      "descripcion": "Cada semana, un tema, un especialista y una conversación distendida: aquí nos escuchamos.",
-      "inicio": "2026-06-26T20:30:00",
-      "fin": "2026-06-26T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Primera Mañana",
-      "descripcion": "Repetición del espacio informativo sobre actualidad nacional e internacional.",
-      "inicio": "2026-06-26T21:00:00",
-      "fin": "2026-06-27T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Resumen Fin de Semana",
-      "descripcion": "Contenido especial y selección de los mejores programas de la semana.",
-      "inicio": "2026-06-27T00:00:00",
-      "fin": "2026-06-27T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Conversaciones Convergentes",
-      "descripcion": "Cada semana, un tema, un especialista y una conversación distendida.",
-      "inicio": "2026-06-27T08:30:00",
-      "fin": "2026-06-27T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Resumen Fin de Semana",
       "descripcion": "Contenido especial y selección de los mejores programas de la semana.",
@@ -96,6 +33,55 @@
       "descripcion": "Una selección de los mejores momentos y segmentos de la semana de Canal E.",
       "inicio": "2026-06-27T12:00:00",
       "fin": "2026-06-27T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Resumen Fin de Semana",
+      "descripcion": "Contenido especial y selección de los mejores programas de la semana.",
+      "inicio": "2026-06-27T14:30:00",
+      "fin": "2026-06-27T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cierre de Emisión",
+      "descripcion": "Fin de la programación diaria.",
+      "inicio": "2026-06-27T22:00:00",
+      "fin": "2026-06-28T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mediodía Económico",
+      "descripcion": "Repetición. Un espacio que aborda toda la información económica y financiera del país.",
+      "inicio": "2026-06-28T00:00:00",
+      "fin": "2026-06-28T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La tarde",
+      "descripcion": "Repetición. El análisis de las noticias más importantes de la jornada.",
+      "inicio": "2026-06-28T02:00:00",
+      "fin": "2026-06-28T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rueda de Cierre",
+      "descripcion": "Repetición. Información económica a nivel nacional e internacional.",
+      "inicio": "2026-06-28T05:00:00",
+      "fin": "2026-06-28T06:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Regreso",
+      "descripcion": "Actualidad económica del país.",
+      "inicio": "2026-06-28T06:15:00",
+      "fin": "2026-06-28T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Primera Mañana",
+      "descripcion": "Repetición. Espacio informativo sobre actualidad nacional e internacional.",
+      "inicio": "2026-06-28T09:00:00",
+      "fin": "2026-06-28T12:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
