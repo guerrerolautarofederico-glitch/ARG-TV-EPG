@@ -1,129 +1,164 @@
 {
   "actual": {
-    "titulo": "Cierre de transmisiones",
-    "descripcion": "Fin de emisión.",
-    "inicio": "2026-06-28T02:00:00",
-    "fin": "2026-06-28T11:58:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
+    "titulo": "Sala 3",
+    "descripcion": "Espacio de exhibición cinematográfica y audiovisual.",
+    "inicio": "2026-06-29T16:30:00",
+    "fin": "2026-06-29T17:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Inicio de Transmisiones",
-    "descripcion": "Apertura de la señal y comienzo de la programación diaria.",
-    "inicio": "2026-06-28T11:58:00",
-    "fin": "2026-06-28T12:00:00",
+    "titulo": "Filme Extranjero",
+    "descripcion": "Emisión de una película destacada del cine internacional.",
+    "inicio": "2026-06-29T17:30:00",
+    "fin": "2026-06-29T18:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Cierre de transmisiones",
-      "descripcion": "Fin de emisión.",
-      "inicio": "2026-06-28T02:00:00",
-      "fin": "2026-06-28T11:58:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
-    },
-    {
-      "titulo": "Inicio de Transmisiones",
-      "descripcion": "Apertura de la señal y comienzo de la programación diaria.",
-      "inicio": "2026-06-28T11:58:00",
-      "fin": "2026-06-28T12:00:00",
+      "titulo": "Sala 3",
+      "descripcion": "Espacio de exhibición cinematográfica y audiovisual.",
+      "inicio": "2026-06-29T16:30:00",
+      "fin": "2026-06-29T17:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Stop a la Destrucción del Mundo",
-      "descripcion": "Programa enfocado en medio ambiente, ecología y sustentabilidad.",
-      "inicio": "2026-06-28T12:00:00",
-      "fin": "2026-06-28T12:30:00",
+      "titulo": "Filme Extranjero",
+      "descripcion": "Emisión de una película destacada del cine internacional.",
+      "inicio": "2026-06-29T17:30:00",
+      "fin": "2026-06-29T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Moomin / El Bosque de Tallac",
-      "descripcion": "Emisión de clásicos de la animación japonesa infantil. Parte del bloque infantil Zona Brocacochi.",
-      "inicio": "2026-06-28T12:30:00",
-      "fin": "2026-06-28T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Clips, El Recital",
-      "descripcion": "Presentación de videos musicales y recitales en vivo.",
-      "inicio": "2026-06-28T14:00:00",
-      "fin": "2026-06-28T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sala 3: Cine Infantil / Familiar",
-      "descripcion": "Ciclo de cine enfocado para disfrutar en familia.",
-      "inicio": "2026-06-28T15:30:00",
-      "fin": "2026-06-28T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Las Vacaciones de Tulio, Patana y el Pequeño Tim / 101 Dálmatas",
-      "descripcion": "Spin-off de 31 Minutos y la clásica serie animada de Disney. Parte del bloque infantil Zona Brocacochi.",
-      "inicio": "2026-06-28T17:30:00",
-      "fin": "2026-06-28T18:30:00",
+      "titulo": "El Conde Pátula",
+      "descripcion": "Serie animada británica sobre un pato vampiro vegetariano. Parte del bloque infantil Zona Brocacochi.",
+      "inicio": "2026-06-29T18:00:00",
+      "fin": "2026-06-29T18:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV Comunitarias",
       "descripcion": "Bloque destinado a visibilizar programas de canales y realizadores locales.",
-      "inicio": "2026-06-28T18:30:00",
-      "fin": "2026-06-28T19:00:00",
+      "inicio": "2026-06-29T18:45:00",
+      "fin": "2026-06-29T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Rockin The Rock",
-      "descripcion": "Programa de La Granja TV dedicado a la escena, cultura y bandas de rock.",
-      "inicio": "2026-06-28T19:00:00",
-      "fin": "2026-06-28T20:00:00",
+      "titulo": "Salud en Comunidad",
+      "descripcion": "Programa de Quilicura TV enfocado en prevención, salud pública y vida sana.",
+      "inicio": "2026-06-29T19:00:00",
+      "fin": "2026-06-29T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TeleSUR",
       "descripcion": "Emisión de noticias y actualidad internacional de la cadena latinoamericana.",
-      "inicio": "2026-06-28T20:00:00",
-      "fin": "2026-06-28T22:00:00",
+      "inicio": "2026-06-29T20:00:00",
+      "fin": "2026-06-29T21:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Julia",
-      "descripcion": "Emisión de la serie de ficción destacada del domingo.",
-      "inicio": "2026-06-28T22:00:00",
-      "fin": "2026-06-28T23:45:00",
+      "titulo": "RT Noticias",
+      "descripcion": "Informativo internacional con el análisis de los principales hechos del mundo.",
+      "inicio": "2026-06-29T21:00:00",
+      "fin": "2026-06-29T21:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Documentales RT",
-      "descripcion": "Trabajos periodísticos de formato largo y documentales producidos por la cadena internacional RT.",
-      "inicio": "2026-06-28T23:45:00",
-      "fin": "2026-06-29T01:15:00",
+      "titulo": "Vistazo",
+      "descripcion": "Programa informativo de reportajes y análisis de la contingencia.",
+      "inicio": "2026-06-29T21:30:00",
+      "fin": "2026-06-29T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Museo de la Memoria en Conce",
+      "descripcion": "Programa cultural y documental centrado en la memoria histórica y los derechos humanos.",
+      "inicio": "2026-06-29T22:00:00",
+      "fin": "2026-06-29T23:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Swix Cultural",
+      "descripcion": "Espacio dedicado al arte y la difusión cultural.",
+      "inicio": "2026-06-29T23:45:00",
+      "fin": "2026-06-30T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Series de Medianoche",
+      "descripcion": "Bloque de emisión de series de ficción.",
+      "inicio": "2026-06-30T00:30:00",
+      "fin": "2026-06-30T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Serie Retro",
+      "descripcion": "Emisión de una serie clásica de la televisión.",
+      "inicio": "2026-06-30T01:00:00",
+      "fin": "2026-06-30T01:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Cierre de transmisiones",
       "descripcion": "Fin de emisión.",
-      "inicio": "2026-06-29T01:15:00",
-      "fin": "2026-06-29T07:58:00",
+      "inicio": "2026-06-30T01:15:00",
+      "fin": "2026-06-30T07:58:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
     },
     {
       "titulo": "Inicio de Transmisiones",
       "descripcion": "Apertura de la señal y comienzo de la programación diaria.",
-      "inicio": "2026-06-29T07:58:00",
-      "fin": "2026-06-29T08:00:00",
+      "inicio": "2026-06-30T07:58:00",
+      "fin": "2026-06-30T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Turno AM",
       "descripcion": "Programa matinal con actualidad, servicios y entretenimiento.",
-      "inicio": "2026-06-29T08:00:00",
-      "fin": "2026-06-29T10:00:00",
+      "inicio": "2026-06-30T08:00:00",
+      "fin": "2026-06-30T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Turno en Vivo",
       "descripcion": "Programa informativo matutino con despachos y temas de interés en directo.",
-      "inicio": "2026-06-29T10:00:00",
-      "fin": "2026-06-29T12:00:00",
+      "inicio": "2026-06-30T10:00:00",
+      "fin": "2026-06-30T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "CNTV Infantil",
+      "descripcion": "Bloque de programación cultural y educativa enfocada en niños, niñas y adolescentes.",
+      "inicio": "2026-06-30T12:00:00",
+      "fin": "2026-06-30T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Clips",
+      "descripcion": "Selección de videos musicales.",
+      "inicio": "2026-06-30T13:00:00",
+      "fin": "2026-06-30T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Deportemanía",
+      "descripcion": "Programa dedicado a la revisión del acontecer deportivo, resúmenes y debates.",
+      "inicio": "2026-06-30T13:30:00",
+      "fin": "2026-06-30T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "CNTV Infantil",
+      "descripcion": "Bloque de programación cultural y educativa enfocada en niños, niñas y adolescentes.",
+      "inicio": "2026-06-30T15:30:00",
+      "fin": "2026-06-30T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Tarde Color: Violeta",
+      "descripcion": "Espacio de mediación cultural y programación artística.",
+      "inicio": "2026-06-30T16:30:00",
+      "fin": "2026-06-30T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

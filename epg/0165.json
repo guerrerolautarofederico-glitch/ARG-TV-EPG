@@ -1,186 +1,172 @@
 {
   "actual": {
-    "titulo": "¡Escápate!",
-    "descripcion": "Un programa de viajes que recorre diferentes destinos, mostrando su cultura, paisajes y gastronomía.",
-    "inicio": "2026-06-28T10:30:00",
-    "fin": "2026-06-28T11:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/escapate.jpg"
-  },
-  "siguiente": {
     "titulo": "Dr. En Casa",
     "descripcion": "Un programa dedicado a la salud física y mental, con un lenguaje sencillo para todas las edades, que enseña a reconocer síntomas y prevenir enfermedades.",
-    "inicio": "2026-06-28T11:30:00",
-    "fin": "2026-06-28T12:00:00",
+    "inicio": "2026-06-29T16:00:00",
+    "fin": "2026-06-29T17:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+  },
+  "siguiente": {
+    "titulo": "Ponteonline",
+    "descripcion": "Un programa que mezcla radio y redes sociales, con un formato similar a un programa de televisión, enfocado en la comunicación y el emprendimiento.",
+    "inicio": "2026-06-29T17:00:00",
+    "fin": "2026-06-29T19:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ponteonline.jpg"
   },
   "lista": [
     {
-      "titulo": "¡Escápate!",
-      "descripcion": "Un programa de viajes que recorre diferentes destinos, mostrando su cultura, paisajes y gastronomía.",
-      "inicio": "2026-06-28T10:30:00",
-      "fin": "2026-06-28T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/escapate.jpg"
-    },
-    {
       "titulo": "Dr. En Casa",
       "descripcion": "Un programa dedicado a la salud física y mental, con un lenguaje sencillo para todas las edades, que enseña a reconocer síntomas y prevenir enfermedades.",
-      "inicio": "2026-06-28T11:30:00",
-      "fin": "2026-06-28T12:00:00",
+      "inicio": "2026-06-29T16:00:00",
+      "fin": "2026-06-29T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ponteonline",
+      "descripcion": "Un programa que mezcla radio y redes sociales, con un formato similar a un programa de televisión, enfocado en la comunicación y el emprendimiento.",
+      "inicio": "2026-06-29T17:00:00",
+      "fin": "2026-06-29T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ponteonline.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "Programación pendiente de confirmación.",
+      "inicio": "2026-06-29T19:00:00",
+      "fin": "2026-06-29T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Por confirmar",
       "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-06-28T12:00:00",
-      "fin": "2026-06-28T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Por confirmar",
-      "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-06-28T13:00:00",
-      "fin": "2026-06-28T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Escápate!",
-      "descripcion": "Un programa de viajes que recorre diferentes destinos, mostrando su cultura, paisajes y gastronomía.",
-      "inicio": "2026-06-28T14:30:00",
-      "fin": "2026-06-28T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/escapate.jpg"
-    },
-    {
-      "titulo": "Cómo te afecta",
-      "descripcion": "Examina cómo temas como la corrupción y la desigualdad impactan directamente la vida de los ciudadanos en América Latina.",
-      "inicio": "2026-06-28T15:00:00",
-      "fin": "2026-06-28T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dr. En Casa",
-      "descripcion": "Un programa dedicado a la salud física y mental, con un lenguaje sencillo para todas las edades, que enseña a reconocer síntomas y prevenir enfermedades.",
-      "inicio": "2026-06-28T16:00:00",
-      "fin": "2026-06-28T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Por confirmar",
-      "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-06-28T17:00:00",
-      "fin": "2026-06-28T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Por confirmar",
-      "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-06-28T18:00:00",
-      "fin": "2026-06-28T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Por confirmar",
-      "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-06-28T19:00:00",
-      "fin": "2026-06-28T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Por confirmar",
-      "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-06-28T20:00:00",
-      "fin": "2026-06-28T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Visión futuro",
-      "descripcion": "Un programa para los que miran hacia adelante, presentando ideas de científicos destacados y visionarios.",
-      "inicio": "2026-06-28T21:30:00",
-      "fin": "2026-06-28T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/visionfuturo.jpg"
-    },
-    {
-      "titulo": "Global 3000",
-      "descripcion": "Magacín dedicado a la globalización, que trata los retos y oportunidades de un planeta interconectado.",
-      "inicio": "2026-06-28T22:00:00",
-      "fin": "2026-06-28T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Eco Latinoamérica",
-      "descripcion": "Magazine sobre el medio ambiente, enfocado en la preservación de la diversidad biológica, el suministro energético y nuevos conceptos de utilización de materias primas.",
-      "inicio": "2026-06-28T22:30:00",
-      "fin": "2026-06-28T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ecolatinoamerica.jpg"
-    },
-    {
-      "titulo": "Dr. En Casa",
-      "descripcion": "Un programa dedicado a la salud física y mental, con un lenguaje sencillo para todas las edades, que enseña a reconocer síntomas y prevenir enfermedades.",
-      "inicio": "2026-06-28T23:00:00",
-      "fin": "2026-06-29T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Por confirmar",
-      "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-06-29T00:00:00",
-      "fin": "2026-06-29T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Por confirmar",
-      "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-06-29T01:00:00",
-      "fin": "2026-06-29T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fuera de Aire",
-      "descripcion": "Cierre de transmisiones.",
-      "inicio": "2026-06-29T02:00:00",
-      "fin": "2026-06-29T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Por confirmar",
-      "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-06-29T06:00:00",
-      "fin": "2026-06-29T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Por confirmar",
-      "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-06-29T07:00:00",
-      "fin": "2026-06-29T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Por confirmar",
-      "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-06-29T08:00:00",
-      "fin": "2026-06-29T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Por confirmar",
-      "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-06-29T09:00:00",
-      "fin": "2026-06-29T10:00:00",
+      "inicio": "2026-06-29T20:00:00",
+      "fin": "2026-06-29T21:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Cultura 21",
       "descripcion": "Un magacín sobre la cultura en Alemania del siglo XXI, mostrando las tendencias artísticas y grandes eventos culturales.",
-      "inicio": "2026-06-29T10:00:00",
-      "fin": "2026-06-29T10:30:00",
+      "inicio": "2026-06-29T21:30:00",
+      "fin": "2026-06-29T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cultura21.jpg"
     },
     {
       "titulo": "Enlaces",
       "descripcion": "Programa que ofrece las últimas noticias y titulares de política, economía y ciencia a nivel mundial.",
-      "inicio": "2026-06-29T10:30:00",
-      "fin": "2026-06-29T11:30:00",
+      "inicio": "2026-06-29T22:00:00",
+      "fin": "2026-06-29T22:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlaces.jpg"
+    },
+    {
+      "titulo": "Cómo te afecta",
+      "descripcion": "Examina cómo temas como la corrupción y la desigualdad impactan directamente la vida de los ciudadanos en América Latina.",
+      "inicio": "2026-06-29T22:30:00",
+      "fin": "2026-06-29T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dr. En Casa",
+      "descripcion": "Un programa dedicado a la salud física y mental, con un lenguaje sencillo para todas las edades, que enseña a reconocer síntomas y prevenir enfermedades.",
+      "inicio": "2026-06-29T23:00:00",
+      "fin": "2026-06-30T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "Programación pendiente de confirmación.",
+      "inicio": "2026-06-30T00:00:00",
+      "fin": "2026-06-30T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "Programación pendiente de confirmación.",
+      "inicio": "2026-06-30T01:00:00",
+      "fin": "2026-06-30T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fuera de Aire",
+      "descripcion": "Cierre de transmisiones.",
+      "inicio": "2026-06-30T02:00:00",
+      "fin": "2026-06-30T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "Programación pendiente de confirmación.",
+      "inicio": "2026-06-30T06:00:00",
+      "fin": "2026-06-30T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "Programación pendiente de confirmación.",
+      "inicio": "2026-06-30T07:00:00",
+      "fin": "2026-06-30T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "Programación pendiente de confirmación.",
+      "inicio": "2026-06-30T08:00:00",
+      "fin": "2026-06-30T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "Programación pendiente de confirmación.",
+      "inicio": "2026-06-30T09:00:00",
+      "fin": "2026-06-30T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Documentales Dw",
+      "descripcion": "Ofrece información más allá de los titulares a través de los mejores documentales de canales alemanes y productoras internacionales.",
+      "inicio": "2026-06-30T10:30:00",
+      "fin": "2026-06-30T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentalesdw.jpg"
+    },
+    {
+      "titulo": "Dr. En Casa",
+      "descripcion": "Un programa dedicado a la salud física y mental, con un lenguaje sencillo para todas las edades, que enseña a reconocer síntomas y prevenir enfermedades.",
+      "inicio": "2026-06-30T11:30:00",
+      "fin": "2026-06-30T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "Programación pendiente de confirmación.",
+      "inicio": "2026-06-30T12:00:00",
+      "fin": "2026-06-30T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "Programación pendiente de confirmación.",
+      "inicio": "2026-06-30T13:00:00",
+      "fin": "2026-06-30T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rpm",
+      "descripcion": "Programa sobre automovilismo y el mundo motor.",
+      "inicio": "2026-06-30T14:30:00",
+      "fin": "2026-06-30T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Visión futuro",
+      "descripcion": "Un programa para los que miran hacia adelante, presentando ideas de científicos destacados y visionarios.",
+      "inicio": "2026-06-30T15:00:00",
+      "fin": "2026-06-30T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/visionfuturo.jpg"
+    },
+    {
+      "titulo": "Dr. En Casa",
+      "descripcion": "Un programa dedicado a la salud física y mental, con un lenguaje sencillo para todas las edades, que enseña a reconocer síntomas y prevenir enfermedades.",
+      "inicio": "2026-06-30T16:00:00",
+      "fin": "2026-06-30T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
