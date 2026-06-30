@@ -1,145 +1,19 @@
 {
   "actual": {
-    "titulo": "DirecTV - DGO Presentan: Espiando la casa",
-    "descripcion": "Un espacio para ver lo que está ocurriendo en la casa más famosa del país.",
-    "inicio": "2026-06-29T15:45:00",
-    "fin": "2026-06-29T18:00:00",
+    "titulo": "El noticiero de la gente",
+    "descripcion": "Las noticias más relevantes, desde la perspectiva y participación activa de la gente.",
+    "inicio": "2026-06-30T10:50:00",
+    "fin": "2026-06-30T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Bahar ¿Estás lista para despertar?",
-    "descripcion": "Bahar retoma su carrera médica tras superar una grave enfermedad, enfrentándose a la oposición de su esposo infiel, Timur, con el apoyo de Evren y su hijo Aziz.",
-    "inicio": "2026-06-29T18:00:00",
-    "fin": "2026-06-29T19:00:00",
+    "titulo": "La Capital+ presenta",
+    "descripcion": "Magazine matutino de actualidad e información, emitido en simultáneo con la plataforma de streaming del diario La Capital. Conducido por Iliana Luetik y Álvaro Maté, el ciclo repasa las noticias locales y nacionales más importantes de la jornada, ofreciendo análisis, entrevistas y entretenimiento para comenzar el día.",
+    "inicio": "2026-06-30T13:00:00",
+    "fin": "2026-06-30T13:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "DirecTV - DGO Presentan: Espiando la casa",
-      "descripcion": "Un espacio para ver lo que está ocurriendo en la casa más famosa del país.",
-      "inicio": "2026-06-29T15:45:00",
-      "fin": "2026-06-29T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bahar ¿Estás lista para despertar?",
-      "descripcion": "Bahar retoma su carrera médica tras superar una grave enfermedad, enfrentándose a la oposición de su esposo infiel, Timur, con el apoyo de Evren y su hijo Aziz.",
-      "inicio": "2026-06-29T18:00:00",
-      "fin": "2026-06-29T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Telefe noticias Rosario - 2da edición",
-      "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
-      "inicio": "2026-06-29T19:00:00",
-      "fin": "2026-06-29T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Por el mundo Mundial",
-      "descripcion": "Marley y Ian Lucas salen a recorrer las ciudades que serán sede de la Copa del Mundo, para contagiar toda la fiesta y el color del mundial. Visitarán las ciudades clave para vivir los encuentros con mucho humor, recorridos imperdibles y la diversión que acompaña al programa en cada destino.",
-      "inicio": "2026-06-29T20:30:00",
-      "fin": "2026-06-29T21:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "GH - Gala de eliminación",
-      "descripcion": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.",
-      "inicio": "2026-06-29T21:15:00",
-      "fin": "2026-06-29T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DirecTV - DGO Presentan: Espiando la casa",
-      "descripcion": "Un espacio para ver lo que está ocurriendo en la casa más famosa del país.",
-      "inicio": "2026-06-29T23:00:00",
-      "fin": "2026-06-29T23:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Good Night",
-      "descripcion": "Mostramos todo el turismo nocturno de Argentina.",
-      "inicio": "2026-06-29T23:15:00",
-      "fin": "2026-06-29T23:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Staff",
-      "descripcion": "Una propuesta ágil para irse a dormir bien informado.",
-      "inicio": "2026-06-29T23:45:00",
-      "fin": "2026-06-30T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Juntos por el mundial",
-      "descripcion": "Un resumen destacado de la Copa del Mundo 2026. Toda la información importante, el análisis técnico, los momentos clave y la palabra exclusiva de los protagonistas en un formato ágil para vivir la pasión mundialista.",
-      "inicio": "2026-06-30T00:00:00",
-      "fin": "2026-06-30T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pare de Sufrir",
-      "descripcion": "Un programa que lleva un mensaje de fe y esperanza a las familias que lo necesitan por cualquier tipo de sufrimiento. Un espacio con mensajes positivos y con historias de superación para inspirarse.",
-      "inicio": "2026-06-30T00:30:00",
-      "fin": "2026-06-30T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/iglesiauniversal.jpg"
-    },
-    {
-      "titulo": "Telefe Noticias",
-      "descripcion": "El sello del compromiso periodístico para contar toda la información del día y un gran equipo de investigación para una mirada profunda de la realidad.",
-      "inicio": "2026-06-30T01:00:00",
-      "fin": "2026-06-30T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Montecristo",
-      "descripcion": "Santiago Díaz Herrera es un joven que lo tiene todo: amor, futuro, familia, éxito. Pero la traición de quienes lo rodean convierte todo esto en un infierno.",
-      "inicio": "2026-06-30T02:30:00",
-      "fin": "2026-06-30T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Graduados",
-      "descripcion": "Narra la historia de Andy y Loli, compañeros del colegio secundario que no volvieron a verse en 18 años. El cruce les revelará un secreto inesperado que cambiará sus vidas para siempre, y los obligará a ellos y a sus ex compañeros del secundario, a replantearse qué han hecho con sus deseos de la adolescencia; a partir de allí, el reencuentro con los demás 'graduados', de aquella promoción estudiantil del 89, modificará sus vidas cotidianas.",
-      "inicio": "2026-06-30T03:30:00",
-      "fin": "2026-06-30T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El noticiero de la gente",
-      "descripcion": "Las noticias más relevantes, desde la perspectiva y participación activa de la gente.",
-      "inicio": "2026-06-30T04:30:00",
-      "fin": "2026-06-30T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Imágenes de la ciudad",
-      "descripcion": "Imágenes de la ciudad de Rosario.",
-      "inicio": "2026-06-30T05:00:00",
-      "fin": "2026-06-30T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Buen Telefe",
-      "descripcion": "Todo lo que pasó a la noche 'mientras vos dormías', los columnistas más importantes y un gran equipo de exteriores para traer en vivo todo lo que está sucediendo en el arranque del día.",
-      "inicio": "2026-06-30T06:00:00",
-      "fin": "2026-06-30T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Juntos a la mañana",
-      "descripcion": "Un magazine informativo con Sonia Marchesi, junto a Cecilia Casabonne y Franco Fogante. El programa cuenta con la colaboración de todo el equipo periodístico de Rosario y la presencia destacada de Carlos Bermejo, referente del ámbito. El público podrá disfrutar de entrevistas, noticias, servicios, entretenimiento y móviles en puntos clave de la ciudad.",
-      "inicio": "2026-06-30T08:00:00",
-      "fin": "2026-06-30T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ariel en su salsa",
-      "descripcion": "Un espacio que propone nuevas recetas y platos tradicionales recreados con el toque de Ariel, como excusa para compartir grandes momentos. Además de la invitación cotidiana al espectador para participar con sus secretos familiares y sus propuestas para que junto a Ariel simplifiquen la comida de todos los días, y mucho más, en un ciclo con mucho gusto y diversión para toda la familia.",
-      "inicio": "2026-06-30T10:00:00",
-      "fin": "2026-06-30T10:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "El noticiero de la gente",
       "descripcion": "Las noticias más relevantes, desde la perspectiva y participación activa de la gente.",
@@ -166,6 +40,132 @@
       "descripcion": "Un espacio para ver lo que está ocurriendo en la casa más famosa del país.",
       "inicio": "2026-06-30T15:30:00",
       "fin": "2026-06-30T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bahar ¿Estás lista para despertar?",
+      "descripcion": "Bahar retoma su carrera médica tras superar una grave enfermedad, enfrentándose a la oposición de su esposo infiel, Timur, con el apoyo de Evren y su hijo Aziz.",
+      "inicio": "2026-06-30T18:00:00",
+      "fin": "2026-06-30T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telefe noticias Rosario - 2da edición",
+      "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
+      "inicio": "2026-06-30T19:00:00",
+      "fin": "2026-06-30T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Por el mundo Mundial",
+      "descripcion": "Marley y Ian Lucas salen a recorrer las ciudades que serán sede de la Copa del Mundo, para contagiar toda la fiesta y el color del mundial. Visitarán las ciudades clave para vivir los encuentros con mucho humor, recorridos imperdibles y la diversión que acompaña al programa en cada destino.",
+      "inicio": "2026-06-30T20:30:00",
+      "fin": "2026-06-30T21:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Gh",
+      "descripcion": "La casa más famosa del país vuelve a abrir sus puertas con una ambientación totalmente renovada, donde los participantes deberán sobreponerse al encierro y la convivencia para avanzar y quedarse con el tan anhelado premio.",
+      "inicio": "2026-06-30T21:15:00",
+      "fin": "2026-06-30T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DirecTV - DGO Presentan: Espiando la casa",
+      "descripcion": "Un espacio para ver lo que está ocurriendo en la casa más famosa del país.",
+      "inicio": "2026-06-30T23:00:00",
+      "fin": "2026-06-30T23:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En primera persona",
+      "descripcion": "El programa aborda historias de vida, actualidad, perfiles políticos y personales.",
+      "inicio": "2026-06-30T23:15:00",
+      "fin": "2026-06-30T23:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Staff",
+      "descripcion": "Una propuesta ágil para irse a dormir bien informado.",
+      "inicio": "2026-06-30T23:45:00",
+      "fin": "2026-07-01T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Juntos por el mundial",
+      "descripcion": "Un resumen destacado de la Copa del Mundo 2026. Toda la información importante, el análisis técnico, los momentos clave y la palabra exclusiva de los protagonistas en un formato ágil para vivir la pasión mundialista.",
+      "inicio": "2026-07-01T00:00:00",
+      "fin": "2026-07-01T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pare de Sufrir",
+      "descripcion": "Un programa que lleva un mensaje de fe y esperanza a las familias que lo necesitan por cualquier tipo de sufrimiento. Un espacio con mensajes positivos y con historias de superación para inspirarse.",
+      "inicio": "2026-07-01T00:30:00",
+      "fin": "2026-07-01T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/iglesiauniversal.jpg"
+    },
+    {
+      "titulo": "Telefe Noticias",
+      "descripcion": "El sello del compromiso periodístico para contar toda la información del día y un gran equipo de investigación para una mirada profunda de la realidad.",
+      "inicio": "2026-07-01T01:00:00",
+      "fin": "2026-07-01T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Montecristo",
+      "descripcion": "Santiago Díaz Herrera es un joven que lo tiene todo: amor, futuro, familia, éxito. Pero la traición de quienes lo rodean convierte todo esto en un infierno.",
+      "inicio": "2026-07-01T02:30:00",
+      "fin": "2026-07-01T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Graduados",
+      "descripcion": "Narra la historia de Andy y Loli, compañeros del colegio secundario que no volvieron a verse en 18 años. El cruce les revelará un secreto inesperado que cambiará sus vidas para siempre, y los obligará a ellos y a sus ex compañeros del secundario, a replantearse qué han hecho con sus deseos de la adolescencia; a partir de allí, el reencuentro con los demás 'graduados', de aquella promoción estudiantil del 89, modificará sus vidas cotidianas.",
+      "inicio": "2026-07-01T03:30:00",
+      "fin": "2026-07-01T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ariel en su salsa",
+      "descripcion": "Un espacio que propone nuevas recetas y platos tradicionales recreados con el toque de Ariel, como excusa para compartir grandes momentos. Además de la invitación cotidiana al espectador para participar con sus secretos familiares y sus propuestas para que junto a Ariel simplifiquen la comida de todos los días, y mucho más, en un ciclo con mucho gusto y diversión para toda la familia.",
+      "inicio": "2026-07-01T04:30:00",
+      "fin": "2026-07-01T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Imágenes de la ciudad",
+      "descripcion": "Imágenes de la ciudad de Rosario.",
+      "inicio": "2026-07-01T05:00:00",
+      "fin": "2026-07-01T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Buen Telefe",
+      "descripcion": "Todo lo que pasó a la noche 'mientras vos dormías', los columnistas más importantes y un gran equipo de exteriores para traer en vivo todo lo que está sucediendo en el arranque del día.",
+      "inicio": "2026-07-01T06:00:00",
+      "fin": "2026-07-01T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Juntos a la mañana",
+      "descripcion": "Un magazine informativo con Sonia Marchesi, junto a Cecilia Casabonne y Franco Fogante. El programa cuenta con la colaboración de todo el equipo periodístico de Rosario y la presencia destacada de Carlos Bermejo, referente del ámbito. El público podrá disfrutar de entrevistas, noticias, servicios, entretenimiento y móviles en puntos clave de la ciudad.",
+      "inicio": "2026-07-01T08:00:00",
+      "fin": "2026-07-01T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ariel en su salsa",
+      "descripcion": "Un espacio que propone nuevas recetas y platos tradicionales recreados con el toque de Ariel, como excusa para compartir grandes momentos. Además de la invitación cotidiana al espectador para participar con sus secretos familiares y sus propuestas para que junto a Ariel simplifiquen la comida de todos los días, y mucho más, en un ciclo con mucho gusto y diversión para toda la familia.",
+      "inicio": "2026-07-01T10:00:00",
+      "fin": "2026-07-01T10:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El noticiero de la gente",
+      "descripcion": "Las noticias más relevantes, desde la perspectiva y participación activa de la gente.",
+      "inicio": "2026-07-01T10:50:00",
+      "fin": "2026-07-01T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

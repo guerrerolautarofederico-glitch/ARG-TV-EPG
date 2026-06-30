@@ -1,103 +1,19 @@
 {
   "actual": {
-    "titulo": "Yo soy Betty, la fea",
-    "descripcion": "Betty era una mujer que estaba acostumbrada a la idea de quedarse solterona, una joven poco agraciada que nadie invitaba a salir y que se conformaba con el recuerdo tormentoso de un novio que la dejó a los pocos días. Ella vivía para sacar las mejores notas de la universidad, para hacer cursos y posgrados y con esto hacer feliz a su padre, quien se siente muy orgulloso de su hija.",
-    "inicio": "2026-06-29T16:10:00",
-    "fin": "2026-06-29T17:05:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yosoybettylafea.jpg"
+    "titulo": "Tu día",
+    "descripcion": "En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.",
+    "inicio": "2026-06-30T07:50:00",
+    "fin": "2026-06-30T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tudia.jpg"
   },
   "siguiente": {
-    "titulo": "¡Hay que decirlo!",
-    "descripcion": "Un espacio para divertir y acompañar las tardes con noticias del mundo del espectáculo y con el humor garantizado. La conducción está a cargo de Pamela Díaz y Nacho Gutiérrez, un grupo de panelistas expertos y destacados invitados.",
-    "inicio": "2026-06-29T17:05:00",
-    "fin": "2026-06-29T19:15:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hayquedecirlo.jpg"
+    "titulo": "Teletrece tarde",
+    "descripcion": "Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.",
+    "inicio": "2026-06-30T13:00:00",
+    "fin": "2026-06-30T14:50:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
   },
   "lista": [
-    {
-      "titulo": "Yo soy Betty, la fea",
-      "descripcion": "Betty era una mujer que estaba acostumbrada a la idea de quedarse solterona, una joven poco agraciada que nadie invitaba a salir y que se conformaba con el recuerdo tormentoso de un novio que la dejó a los pocos días. Ella vivía para sacar las mejores notas de la universidad, para hacer cursos y posgrados y con esto hacer feliz a su padre, quien se siente muy orgulloso de su hija.",
-      "inicio": "2026-06-29T16:10:00",
-      "fin": "2026-06-29T17:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yosoybettylafea.jpg"
-    },
-    {
-      "titulo": "¡Hay que decirlo!",
-      "descripcion": "Un espacio para divertir y acompañar las tardes con noticias del mundo del espectáculo y con el humor garantizado. La conducción está a cargo de Pamela Díaz y Nacho Gutiérrez, un grupo de panelistas expertos y destacados invitados.",
-      "inicio": "2026-06-29T17:05:00",
-      "fin": "2026-06-29T19:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hayquedecirlo.jpg"
-    },
-    {
-      "titulo": "¡Qué dice Chile!",
-      "descripcion": "Dos grupos compiten entre sí para nombrar las respuestas más populares de una encuesta con el fin de ganar un premio en dinero. Además, el público participa en vivo y enviando preguntas. Las personas que participan también pueden ganar premios así qe tanto participantes como público lo darán todo.",
-      "inicio": "2026-06-29T19:15:00",
-      "fin": "2026-06-29T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/quedicechile.jpg"
-    },
-    {
-      "titulo": "Teletrece",
-      "descripcion": "El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.",
-      "inicio": "2026-06-29T21:00:00",
-      "fin": "2026-06-29T22:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrece.jpg"
-    },
-    {
-      "titulo": "D13 Mundial",
-      "descripcion": "Ignacio Valenzuela y Juan Cristóbal Guarello conducen un espacio en el que entregan todos los detalles y novedades de la Copa del Mundo 2026. A través del espacio, el público podrá informarse sobre jugadas, goles, rendimientos y más.",
-      "inicio": "2026-06-29T22:25:00",
-      "fin": "2026-06-29T22:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/d13mundial.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Espacio que trae información meteorológica nacional e internacional, para que te mantengas actualizado del estado del clima en las próximas horas.",
-      "inicio": "2026-06-29T22:55:00",
-      "fin": "2026-06-29T23:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_eltiempo.jpg"
-    },
-    {
-      "titulo": "Vecinos al límite",
-      "descripcion": "Un reality ubicado en un barrio con cuatro casas muy diferentes. Un barrio donde los vecinos serán protagonistas. En cada una de esas casas vivirá uno de cuatro equipos, compuestos por participantes desconocidos y liderados por famosos, quienes competirán para ver quiénes podrán pasar a vivir en la mejor de éstas, y quiénes serán desalojados. Todo esto con el fin de disputarse un importante premio en dinero. Entre sus participantes, se destaca Felipe Contreras, el ex galán de Juego de Ilusiones y con una carrera de más de veinte años en las teleseries.",
-      "inicio": "2026-06-29T23:05:00",
-      "fin": "2026-06-30T01:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vecinosallimite.jpg"
-    },
-    {
-      "titulo": "De buena fuente",
-      "descripcion": "Un podcast que repasa lo más destacado del ámbito del fútbol con humor y análisis. Junto a los periodistas y exfutbolistas Sebastián Molina, Coke Hevia, el exarquero Nicolás Peric y Nacho Pop, el público se informa de forma distendida.",
-      "inicio": "2026-06-30T01:20:00",
-      "fin": "2026-06-30T02:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/debuenafuente.jpg"
-    },
-    {
-      "titulo": "Vecinos al límite - Extra",
-      "descripcion": "Edición especial con momentos seleccionados que complementan la experiencia del capítulo estreno.",
-      "inicio": "2026-06-30T02:05:00",
-      "fin": "2026-06-30T03:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vecinosallimite.jpg"
-    },
-    {
-      "titulo": "¡Hay que decirlo!",
-      "descripcion": "Un espacio para divertir y acompañar las tardes con noticias del mundo del espectáculo y con el humor garantizado. La conducción está a cargo de Pamela Díaz y Nacho Gutiérrez, un grupo de panelistas expertos y destacados invitados.",
-      "inicio": "2026-06-30T03:55:00",
-      "fin": "2026-06-30T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hayquedecirlo.jpg"
-    },
-    {
-      "titulo": "3x3",
-      "descripcion": "Programa infomativo chileno para arrancar las mañanas actualizado que se presenta en un formato libre y distendido. 45 minutos de noticias y diversión para despertarse con buen humor y acompañar los desayunos de una forma distinta.",
-      "inicio": "2026-06-30T05:00:00",
-      "fin": "2026-06-30T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/3x3.jpg"
-    },
-    {
-      "titulo": "Teletrece AM",
-      "descripcion": "Informativo matinal con la revisión de las noticias más relevantes de las últimas horas. Además el programa incluye despachos en directo y entrevistas a personajes relevantes del acontecer nacional. Un equipo de periodistas analiza en profundidad los acontecimientos para que el público se informe de la forma más completa.",
-      "inicio": "2026-06-30T06:00:00",
-      "fin": "2026-06-30T07:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletreceam.jpg"
-    },
     {
       "titulo": "Tu día",
       "descripcion": "En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.",
@@ -139,6 +55,97 @@
       "inicio": "2026-06-30T16:10:00",
       "fin": "2026-06-30T17:05:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yosoybettylafea.jpg"
+    },
+    {
+      "titulo": "¡Hay que decirlo!",
+      "descripcion": "Un espacio para divertir y acompañar las tardes con noticias del mundo del espectáculo y con el humor garantizado. La conducción está a cargo de Pamela Díaz y Nacho Gutiérrez, un grupo de panelistas expertos y destacados invitados.",
+      "inicio": "2026-06-30T17:05:00",
+      "fin": "2026-06-30T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hayquedecirlo.jpg"
+    },
+    {
+      "titulo": "¡Qué dice Chile!",
+      "descripcion": "Dos grupos compiten entre sí para nombrar las respuestas más populares de una encuesta con el fin de ganar un premio en dinero. Además, el público participa en vivo y enviando preguntas. Las personas que participan también pueden ganar premios así qe tanto participantes como público lo darán todo.",
+      "inicio": "2026-06-30T19:15:00",
+      "fin": "2026-06-30T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/quedicechile.jpg"
+    },
+    {
+      "titulo": "Teletrece",
+      "descripcion": "El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.",
+      "inicio": "2026-06-30T21:00:00",
+      "fin": "2026-06-30T22:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrece.jpg"
+    },
+    {
+      "titulo": "D13 Mundial",
+      "descripcion": "Ignacio Valenzuela y Juan Cristóbal Guarello conducen un espacio en el que entregan todos los detalles y novedades de la Copa del Mundo 2026. A través del espacio, el público podrá informarse sobre jugadas, goles, rendimientos y más.",
+      "inicio": "2026-06-30T22:25:00",
+      "fin": "2026-06-30T22:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/d13mundial.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Espacio que trae información meteorológica nacional e internacional, para que te mantengas actualizado del estado del clima en las próximas horas.",
+      "inicio": "2026-06-30T22:55:00",
+      "fin": "2026-06-30T23:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_eltiempo.jpg"
+    },
+    {
+      "titulo": "Vecinos al límite",
+      "descripcion": "Un reality ubicado en un barrio con cuatro casas muy diferentes. Un barrio donde los vecinos serán protagonistas. En cada una de esas casas vivirá uno de cuatro equipos, compuestos por participantes desconocidos y liderados por famosos, quienes competirán para ver quiénes podrán pasar a vivir en la mejor de éstas, y quiénes serán desalojados. Todo esto con el fin de disputarse un importante premio en dinero. Entre sus participantes, se destaca Felipe Contreras, el ex galán de Juego de Ilusiones y con una carrera de más de veinte años en las teleseries.",
+      "inicio": "2026-06-30T23:05:00",
+      "fin": "2026-07-01T01:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vecinosallimite.jpg"
+    },
+    {
+      "titulo": "De buena fuente",
+      "descripcion": "Un podcast que repasa lo más destacado del ámbito del fútbol con humor y análisis. Junto a los periodistas y exfutbolistas Sebastián Molina, Coke Hevia, el exarquero Nicolás Peric y Nacho Pop, el público se informa de forma distendida.",
+      "inicio": "2026-07-01T01:20:00",
+      "fin": "2026-07-01T02:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/debuenafuente.jpg"
+    },
+    {
+      "titulo": "Vecinos al límite - Extra",
+      "descripcion": "Edición especial con momentos seleccionados que complementan la experiencia del capítulo estreno.",
+      "inicio": "2026-07-01T02:05:00",
+      "fin": "2026-07-01T03:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vecinosallimite.jpg"
+    },
+    {
+      "titulo": "Teletrece noche",
+      "descripcion": "Segmento informativo transmitido a la medianoche, en el cual podrás conocer un resumen sobre las informaciones más destacadas de la actualidad en Chile y el mundo, incluyendo diversas secciones.",
+      "inicio": "2026-07-01T03:10:00",
+      "fin": "2026-07-01T03:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecenoche.jpg"
+    },
+    {
+      "titulo": "¡Hay que decirlo!",
+      "descripcion": "Un espacio para divertir y acompañar las tardes con noticias del mundo del espectáculo y con el humor garantizado. La conducción está a cargo de Pamela Díaz y Nacho Gutiérrez, un grupo de panelistas expertos y destacados invitados.",
+      "inicio": "2026-07-01T03:55:00",
+      "fin": "2026-07-01T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hayquedecirlo.jpg"
+    },
+    {
+      "titulo": "3x3",
+      "descripcion": "Programa infomativo chileno para arrancar las mañanas actualizado que se presenta en un formato libre y distendido. 45 minutos de noticias y diversión para despertarse con buen humor y acompañar los desayunos de una forma distinta.",
+      "inicio": "2026-07-01T05:00:00",
+      "fin": "2026-07-01T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/3x3.jpg"
+    },
+    {
+      "titulo": "Teletrece AM",
+      "descripcion": "Informativo matinal con la revisión de las noticias más relevantes de las últimas horas. Además el programa incluye despachos en directo y entrevistas a personajes relevantes del acontecer nacional. Un equipo de periodistas analiza en profundidad los acontecimientos para que el público se informe de la forma más completa.",
+      "inicio": "2026-07-01T06:00:00",
+      "fin": "2026-07-01T07:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletreceam.jpg"
+    },
+    {
+      "titulo": "Tu día",
+      "descripcion": "En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.",
+      "inicio": "2026-07-01T07:50:00",
+      "fin": "2026-07-01T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tudia.jpg"
     }
   ]
 }
