@@ -2,143 +2,185 @@
   "actual": {
     "titulo": "Con sabor y saber",
     "descripcion": "Un programa que combina la gastronomía con temas relacionados con los alimentos, como la sobrepesca, el impacto ecológico de la producción agraria y ganadera o las tradiciones culinarias.",
-    "inicio": "2026-07-02T12:00:00",
-    "fin": "2026-07-02T12:30:00",
+    "inicio": "2026-07-03T12:00:00",
+    "fin": "2026-07-03T12:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/consaborysaber.jpg"
   },
   "siguiente": {
-    "titulo": "Ahorra o nunca",
-    "descripcion": "Un movimiento que busca transformar la relación de las personas con sus finanzas. Un show que combina educación financiera con entretenimiento. Se abordan temas cruciales como ahorro, inversión, presupuesto familiar y emprendimiento.",
-    "inicio": "2026-07-02T12:30:00",
-    "fin": "2026-07-02T13:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahorraonunca.jpg"
+    "titulo": "Club de emprendedores",
+    "descripcion": "Un espacio para fortalecer las habilidades de los emprendedores con el fin de que logren sus metas financieras.",
+    "inicio": "2026-07-03T12:30:00",
+    "fin": "2026-07-03T13:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Con sabor y saber",
-      "descripcion": "Un programa que combina la gastronomía con temas relacionados con los alimentos, como la sobrepesca, el impacto ecológico de la producción agraria y ganadera o las tradiciones culinarias.",
-      "inicio": "2026-07-02T12:00:00",
-      "fin": "2026-07-02T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/consaborysaber.jpg"
-    },
-    {
-      "titulo": "Ahorra o nunca",
-      "descripcion": "Un movimiento que busca transformar la relación de las personas con sus finanzas. Un show que combina educación financiera con entretenimiento. Se abordan temas cruciales como ahorro, inversión, presupuesto familiar y emprendimiento.",
-      "inicio": "2026-07-02T12:30:00",
-      "fin": "2026-07-02T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahorraonunca.jpg"
-    },
-    {
-      "titulo": "Historias que inspiran",
-      "descripcion": "Un programa que cuenta historias de aquellos que decidieron creer en una idea y llevarla a cabo más allá de las dificultades.",
-      "inicio": "2026-07-02T13:30:00",
-      "fin": "2026-07-02T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/historiasqueinspiran.jpg"
-    },
-    {
-      "titulo": "Con camiseta",
-      "descripcion": "Debate futbolístico sin pauta y sin filtro.",
-      "inicio": "2026-07-02T14:00:00",
-      "fin": "2026-07-02T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "No es lo mismo",
-      "descripcion": "Un programa de entretenimiento que trae la información que se debe conocer de todo el mundo del espectáculo.",
-      "inicio": "2026-07-02T15:00:00",
-      "fin": "2026-07-02T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noeslomismo.jpg"
-    },
-    {
-      "titulo": "La verdadera historia",
-      "descripcion": "Las polémicas, los romances y los escándalos de los artistas: sus luces y sombras.",
-      "inicio": "2026-07-02T17:00:00",
-      "fin": "2026-07-02T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laverdaderahistoria.jpg"
-    },
-    {
-      "titulo": "Con camiseta",
-      "descripcion": "Debate futbolístico sin pauta y sin filtro.",
-      "inicio": "2026-07-02T18:00:00",
-      "fin": "2026-07-02T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¿Cómo estamos hoy?",
-      "descripcion": "Una propuesta matutina diferente, con entretenidos y variados invitados.",
-      "inicio": "2026-07-02T19:00:00",
-      "fin": "2026-07-02T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comoestamoshoy.jpg"
-    },
-    {
-      "titulo": "No es lo mismo",
-      "descripcion": "Un programa de entretenimiento que trae la información que se debe conocer de todo el mundo del espectáculo.",
-      "inicio": "2026-07-02T21:00:00",
-      "fin": "2026-07-02T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noeslomismo.jpg"
-    },
-    {
-      "titulo": "El sueño americano",
-      "descripcion": "El destino definitivo para aprender a invertir en propiedades en Estados Unidos. Cada semana se exploran las mejores estrategias y oportunidades en el lucrativo mundo del mercado inmobiliario estadounidense.",
-      "inicio": "2026-07-02T23:00:00",
-      "fin": "2026-07-03T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tevex",
-      "descripcion": "Programación por anunciarse.",
-      "inicio": "2026-07-03T02:00:00",
-      "fin": "2026-07-03T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Reflexiones matinales",
-      "descripcion": "Un espacio en el que se transmiten reflexiones bíblicas.",
-      "inicio": "2026-07-03T07:00:00",
-      "fin": "2026-07-03T07:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reflexionesmatinales.jpg"
-    },
-    {
-      "titulo": "Documentales Dw",
-      "descripcion": "Documentales y reportajes de Alemania y el mundo. Historias del ámbito de la cultura, la política, la ciencia, la naturaleza y el deporte.",
-      "inicio": "2026-07-03T07:15:00",
-      "fin": "2026-07-03T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentalesdw.jpg"
-    },
-    {
-      "titulo": "Historias que inspiran",
-      "descripcion": "Un programa que cuenta historias de aquellos que decidieron creer en una idea y llevarla a cabo más allá de las dificultades.",
-      "inicio": "2026-07-03T08:00:00",
-      "fin": "2026-07-03T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/historiasqueinspiran.jpg"
-    },
-    {
-      "titulo": "Economía creativa",
-      "descripcion": "Un acercamiento a un sector en auge en América Latina: las startups. Emprendimientos novedosos, que abarcan desde la educación virtual hasta la biotecnología.",
-      "inicio": "2026-07-03T08:30:00",
-      "fin": "2026-07-03T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/economiacreativa.jpg"
-    },
-    {
-      "titulo": "Ahorra o nunca",
-      "descripcion": "Un movimiento que busca transformar la relación de las personas con sus finanzas. Un show que combina educación financiera con entretenimiento. Se abordan temas cruciales como ahorro, inversión, presupuesto familiar y emprendimiento.",
-      "inicio": "2026-07-03T09:00:00",
-      "fin": "2026-07-03T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahorraonunca.jpg"
-    },
-    {
-      "titulo": "¿Cómo estamos hoy?",
-      "descripcion": "Una propuesta matutina diferente, con entretenidos y variados invitados.",
-      "inicio": "2026-07-03T10:00:00",
-      "fin": "2026-07-03T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comoestamoshoy.jpg"
-    },
     {
       "titulo": "Con sabor y saber",
       "descripcion": "Un programa que combina la gastronomía con temas relacionados con los alimentos, como la sobrepesca, el impacto ecológico de la producción agraria y ganadera o las tradiciones culinarias.",
       "inicio": "2026-07-03T12:00:00",
       "fin": "2026-07-03T12:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/consaborysaber.jpg"
+    },
+    {
+      "titulo": "Club de emprendedores",
+      "descripcion": "Un espacio para fortalecer las habilidades de los emprendedores con el fin de que logren sus metas financieras.",
+      "inicio": "2026-07-03T12:30:00",
+      "fin": "2026-07-03T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Historias que inspiran",
+      "descripcion": "Un programa que cuenta historias de aquellos que decidieron creer en una idea y llevarla a cabo más allá de las dificultades.",
+      "inicio": "2026-07-03T13:30:00",
+      "fin": "2026-07-03T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/historiasqueinspiran.jpg"
+    },
+    {
+      "titulo": "Con camiseta",
+      "descripcion": "Debate futbolístico sin pauta y sin filtro.",
+      "inicio": "2026-07-03T14:00:00",
+      "fin": "2026-07-03T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "No es lo mismo",
+      "descripcion": "Un programa de entretenimiento que trae la información que se debe conocer de todo el mundo del espectáculo.",
+      "inicio": "2026-07-03T15:00:00",
+      "fin": "2026-07-03T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noeslomismo.jpg"
+    },
+    {
+      "titulo": "La verdadera historia",
+      "descripcion": "Las polémicas, los romances y los escándalos de los artistas: sus luces y sombras.",
+      "inicio": "2026-07-03T17:00:00",
+      "fin": "2026-07-03T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laverdaderahistoria.jpg"
+    },
+    {
+      "titulo": "Con camiseta",
+      "descripcion": "Debate futbolístico sin pauta y sin filtro.",
+      "inicio": "2026-07-03T18:00:00",
+      "fin": "2026-07-03T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Cómo estamos hoy?",
+      "descripcion": "Una propuesta matutina diferente, con entretenidos y variados invitados.",
+      "inicio": "2026-07-03T19:00:00",
+      "fin": "2026-07-03T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comoestamoshoy.jpg"
+    },
+    {
+      "titulo": "Ahorra o nunca",
+      "descripcion": "Un movimiento que busca transformar la relación de las personas con sus finanzas. Un show que combina educación financiera con entretenimiento. Se abordan temas cruciales como ahorro, inversión, presupuesto familiar y emprendimiento.",
+      "inicio": "2026-07-03T21:00:00",
+      "fin": "2026-07-03T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahorraonunca.jpg"
+    },
+    {
+      "titulo": "Se tenía que decir",
+      "descripcion": "Toda la actualidad nacional e internacional. De una manera distinta y perspicaz, los detalles de las noticias que impactan a Chile y al mundo.",
+      "inicio": "2026-07-03T22:00:00",
+      "fin": "2026-07-03T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/seteniaquedecir.jpg"
+    },
+    {
+      "titulo": "¿Dónde están los emprendedores?",
+      "descripcion": "Espacio donde se conocen de cerca a los emprendedores más destacados de Chile. A través de entrevistas y momentos auténticos, descubrirás el lado más personal de quienes han alcanzado el éxito en sus negocios.",
+      "inicio": "2026-07-03T23:00:00",
+      "fin": "2026-07-04T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dondeestanlosemprendedores.jpg"
+    },
+    {
+      "titulo": "¿Cómo estamos hoy?",
+      "descripcion": "Una propuesta matutina diferente, con entretenidos y variados invitados.",
+      "inicio": "2026-07-04T00:00:00",
+      "fin": "2026-07-04T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comoestamoshoy.jpg"
+    },
+    {
+      "titulo": "Con camiseta",
+      "descripcion": "Debate futbolístico sin pauta y sin filtro.",
+      "inicio": "2026-07-04T02:00:00",
+      "fin": "2026-07-04T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La verdadera historia",
+      "descripcion": "Las polémicas, los romances y los escándalos de los artistas: sus luces y sombras.",
+      "inicio": "2026-07-04T03:00:00",
+      "fin": "2026-07-04T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laverdaderahistoria.jpg"
+    },
+    {
+      "titulo": "Se tenía que decir",
+      "descripcion": "Toda la actualidad nacional e internacional. De una manera distinta y perspicaz, los detalles de las noticias que impactan a Chile y al mundo.",
+      "inicio": "2026-07-04T04:00:00",
+      "fin": "2026-07-04T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/seteniaquedecir.jpg"
+    },
+    {
+      "titulo": "No es lo mismo",
+      "descripcion": "Un programa de entretenimiento que trae la información que se debe conocer de todo el mundo del espectáculo.",
+      "inicio": "2026-07-04T05:00:00",
+      "fin": "2026-07-04T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noeslomismo.jpg"
+    },
+    {
+      "titulo": "Reflexiones matinales",
+      "descripcion": "Un espacio en el que se transmiten reflexiones bíblicas.",
+      "inicio": "2026-07-04T07:00:00",
+      "fin": "2026-07-04T07:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reflexionesmatinales.jpg"
+    },
+    {
+      "titulo": "Documentales Dw",
+      "descripcion": "Documentales y reportajes de Alemania y el mundo. Historias del ámbito de la cultura, la política, la ciencia, la naturaleza y el deporte.",
+      "inicio": "2026-07-04T07:15:00",
+      "fin": "2026-07-04T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentalesdw.jpg"
+    },
+    {
+      "titulo": "Historias que inspiran",
+      "descripcion": "Un programa que cuenta historias de aquellos que decidieron creer en una idea y llevarla a cabo más allá de las dificultades.",
+      "inicio": "2026-07-04T08:00:00",
+      "fin": "2026-07-04T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/historiasqueinspiran.jpg"
+    },
+    {
+      "titulo": "Economía creativa",
+      "descripcion": "Un acercamiento a un sector en auge en América Latina: las startups. Emprendimientos novedosos, que abarcan desde la educación virtual hasta la biotecnología.",
+      "inicio": "2026-07-04T08:30:00",
+      "fin": "2026-07-04T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/economiacreativa.jpg"
+    },
+    {
+      "titulo": "Ahorra o nunca",
+      "descripcion": "Un movimiento que busca transformar la relación de las personas con sus finanzas. Un show que combina educación financiera con entretenimiento. Se abordan temas cruciales como ahorro, inversión, presupuesto familiar y emprendimiento.",
+      "inicio": "2026-07-04T09:00:00",
+      "fin": "2026-07-04T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahorraonunca.jpg"
+    },
+    {
+      "titulo": "Conciencia de valores",
+      "descripcion": "Programa de conversación de alto contenido cultural y social mediante conversaciones con amenos personajes.",
+      "inicio": "2026-07-04T10:00:00",
+      "fin": "2026-07-04T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/concienciadevalores.jpg"
+    },
+    {
+      "titulo": "El sueño americano",
+      "descripcion": "El destino definitivo para aprender a invertir en propiedades en Estados Unidos. Cada semana se exploran las mejores estrategias y oportunidades en el lucrativo mundo del mercado inmobiliario estadounidense.",
+      "inicio": "2026-07-04T11:00:00",
+      "fin": "2026-07-04T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clínica Merced",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-07-04T12:00:00",
+      "fin": "2026-07-04T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
