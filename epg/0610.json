@@ -1,339 +1,353 @@
 {
   "actual": {
-    "titulo": "Fiesta en casa. Al aire libre",
-    "descripcion": "Fiesta en casa. Al aire libre.",
-    "inicio": "2026-07-03T12:00:00",
-    "fin": "2026-07-03T12:30:00",
+    "titulo": "La ruta del Mar patagónico • Santa Cruz, merluza negra",
+    "descripcion": "Santa Cruz, merluza negra ║ Tupac Guantay viaja a Ushuaia, donde prueba la merluza negra junto a un cocinero local. También visita el tren y el faro más australes. Después, sigue viaje hacia Santa Cruz, donde un grupo de chefs lo esperan con un menú de platos regionales.",
+    "inicio": "2026-07-06T08:30:00",
+    "fin": "2026-07-06T09:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "La cocina de los recuerdos",
-    "descripcion": "Sergio Camacho revive sus más sentidos recuerdos a través del arte de la comida.",
-    "inicio": "2026-07-03T12:30:00",
-    "fin": "2026-07-03T13:00:00",
+    "titulo": "Platos de cuchara • Platos para el verano",
+    "descripcion": "Platos para el verano ║ En este episodio, Zahie Téllez prepara recetas ideales para el verano: sopa fría de aguacates, sopa fría de elote y sopa fría de jitomate. Refrescantes y deliciosas opciones para incorporar a nuestros Platos de Cuchara.",
+    "inicio": "2026-07-06T09:00:00",
+    "fin": "2026-07-06T09:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Fiesta en casa. Al aire libre",
-      "descripcion": "Fiesta en casa. Al aire libre.",
-      "inicio": "2026-07-03T12:00:00",
-      "fin": "2026-07-03T12:30:00",
+      "titulo": "La ruta del Mar patagónico • Santa Cruz, merluza negra",
+      "descripcion": "Santa Cruz, merluza negra ║ Tupac Guantay viaja a Ushuaia, donde prueba la merluza negra junto a un cocinero local. También visita el tren y el faro más australes. Después, sigue viaje hacia Santa Cruz, donde un grupo de chefs lo esperan con un menú de platos regionales.",
+      "inicio": "2026-07-06T08:30:00",
+      "fin": "2026-07-06T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "La cocina de los recuerdos",
-      "descripcion": "Sergio Camacho revive sus más sentidos recuerdos a través del arte de la comida.",
-      "inicio": "2026-07-03T12:30:00",
-      "fin": "2026-07-03T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los fogones tradicionales México",
-      "descripcion": "Una visita a los más remotos parajes en busca de los tesoros culinarios de cada región. Los platos que se transmiten de generación en generación, preparados por los lugareños en sus propios fogones.",
-      "inicio": "2026-07-03T13:00:00",
-      "fin": "2026-07-03T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La cocina de Sonia Ortiz",
-      "descripcion": "Sonia Ortiz comparte una gran variedad de recetas fáciles y llenas de sabor que la hicieron popular en las redes sociales.",
-      "inicio": "2026-07-03T13:30:00",
-      "fin": "2026-07-03T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Con solo una olla",
-      "descripcion": "Recetas fáciles y prácticas para compartir con familia y amigos que pueden prepararse con solo una olla. Deliciosas opciones con pocos utensilios para lucirse con platos sin ensuciar la cocina.",
-      "inicio": "2026-07-03T14:00:00",
-      "fin": "2026-07-03T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La ruta del chile",
-      "descripcion": "Se recorre México para conocer la esencia del chile, un ingrediente de su cocina. Puebla, CDMX, Tlaxcala y Michoacán son algunos de los sitios que visitara Quique Cervantes en esta aventura gastronómica.",
-      "inicio": "2026-07-03T14:30:00",
-      "fin": "2026-07-03T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Petersen en el litoral",
-      "descripcion": "Los hermanos Petersen recorren las provincias del litoral argentino probando los típicos productos regionales.",
-      "inicio": "2026-07-03T15:00:00",
-      "fin": "2026-07-03T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Platos de cuchara",
-      "descripcion": "Un espacio dedicado a las sopas, tanto en su versión tradicional como servidas frías con aguacate y elote. También caldillos, arroces y hasta los clásicos pozoles mexicanos. Recetas sabrosas y cautivadoras para compartir en familia.",
-      "inicio": "2026-07-03T15:30:00",
-      "fin": "2026-07-03T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Celebrando juntos con Jamie",
-      "descripcion": "El chef Jamie Oliver ofrece una colección de recetas pensadas para ser disfrutadas con amigos, familia y seres queridos.",
-      "inicio": "2026-07-03T16:00:00",
-      "fin": "2026-07-03T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La cocina de Sonia Ortiz",
-      "descripcion": "Sonia Ortiz comparte una gran variedad de recetas fáciles y llenas de sabor que la hicieron popular en las redes sociales.",
-      "inicio": "2026-07-03T17:00:00",
-      "fin": "2026-07-03T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ruta 40. Norte",
-      "descripcion": "Un recorrido de la mano del cocinero salteño Tupac Guantay quien, además de su provincia, hace un recorrido gastronómico por Jujuy, Catamarca y Tucumán.",
-      "inicio": "2026-07-03T17:30:00",
-      "fin": "2026-07-03T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pueblos para comérselos: México",
-      "descripcion": "Un recorrido por diversos pueblos de México con el corazón abierto y los sentidos despiertos. Con la guía de anfitriones locales, se descubren los secretos que hacen único a cada lugar: los platillos, los paisajes, su historia y la de sus habitantes.",
-      "inicio": "2026-07-03T18:00:00",
-      "fin": "2026-07-03T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los imperdibles: Ciudad de México",
-      "descripcion": "Los imperdibles: Ciudad de México.",
-      "inicio": "2026-07-03T18:30:00",
-      "fin": "2026-07-03T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los favoritos de Benito Taibo",
-      "descripcion": "El historiador Benito Taibo propone un recorrido por Ciudad de México y Puebla, en el que invita a conocer sus sitios favoritos: cafés, restaurantes y mercados, entre otros.",
-      "inicio": "2026-07-03T19:00:00",
-      "fin": "2026-07-03T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cocina de mar. Pacífico",
-      "descripcion": "Alex Ruiz, reconocido chef oaxaqueño, deleita con los mejores platos que el litoral del Pacífico mexicano puede ofrecer al mundo.",
-      "inicio": "2026-07-03T19:30:00",
-      "fin": "2026-07-03T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Petersen en el litoral",
-      "descripcion": "Los hermanos Petersen recorren las provincias del litoral argentino probando los típicos productos regionales.",
-      "inicio": "2026-07-03T20:00:00",
-      "fin": "2026-07-03T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mapa de los sabores de México",
-      "descripcion": "Un programa donde se cocinan platos que hicieron famosas a algunas ciudades mexicanas, recetas típicas y platillos que identifican a una región.",
-      "inicio": "2026-07-03T20:30:00",
-      "fin": "2026-07-03T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Me voy a comer el mundo",
-      "descripcion": "Se conoce a fondo la cocina de veintidós grandes ciudades de todo el mundo, en las que la periodista visitará sus mercados y restaurantes en su afán por investigar las costumbres de cada destino.",
-      "inicio": "2026-07-03T21:00:00",
-      "fin": "2026-07-03T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los imperdibles: Ciudad de México",
-      "descripcion": "Los imperdibles: Ciudad de México.",
-      "inicio": "2026-07-03T22:00:00",
-      "fin": "2026-07-03T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Maestros del taco",
-      "descripcion": "En las principales ciudades del México, Poncho averigua cuáles son las taquerías favoritas del lugar. De res, de cochinita o de pescado, siempre se trata de los mejores tacos recomendados de boca a boca en cada localidad.",
-      "inicio": "2026-07-03T22:30:00",
-      "fin": "2026-07-03T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Celebrando juntos con Jamie",
-      "descripcion": "El chef Jamie Oliver ofrece una colección de recetas pensadas para ser disfrutadas con amigos, familia y seres queridos.",
-      "inicio": "2026-07-03T23:00:00",
-      "fin": "2026-07-04T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pueblos para comérselos: México",
-      "descripcion": "Un recorrido por diversos pueblos de México con el corazón abierto y los sentidos despiertos. Con la guía de anfitriones locales, se descubren los secretos que hacen único a cada lugar: los platillos, los paisajes, su historia y la de sus habitantes.",
-      "inicio": "2026-07-04T00:00:00",
-      "fin": "2026-07-04T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Petersen en el litoral",
-      "descripcion": "Los hermanos Petersen recorren las provincias del litoral argentino probando los típicos productos regionales.",
-      "inicio": "2026-07-04T00:30:00",
-      "fin": "2026-07-04T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los favoritos de Benito Taibo",
-      "descripcion": "El historiador Benito Taibo propone un recorrido por Ciudad de México y Puebla, en el que invita a conocer sus sitios favoritos: cafés, restaurantes y mercados, entre otros.",
-      "inicio": "2026-07-04T01:00:00",
-      "fin": "2026-07-04T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cocina de mar. Pacífico",
-      "descripcion": "Alex Ruiz, reconocido chef oaxaqueño, deleita con los mejores platos que el litoral del Pacífico mexicano puede ofrecer al mundo.",
-      "inicio": "2026-07-04T01:30:00",
-      "fin": "2026-07-04T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La ruta del cacao",
-      "descripcion": "Un recorrido por México, Colombia y Ecuador para hablar con quienes mejor conocen al cacao, un alimento insignia de América. Plantaciones, chocolaterías y los mejores chefs de cada región ponen en valor este tesoro americano.",
-      "inicio": "2026-07-04T02:00:00",
-      "fin": "2026-07-04T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Amigos con mucho gusto",
-      "descripcion": "Se exploran las cofradías gastronómicas de España. Estos grupos nacieron hace 500 años, y sus miembros mantienen algunos ritos medievales. Algunas de estas cofradías están ligadas a un alimento y otras a un plato emblemático.",
-      "inicio": "2026-07-04T02:30:00",
-      "fin": "2026-07-04T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los imperdibles: Ciudad de México",
-      "descripcion": "Los imperdibles: Ciudad de México.",
-      "inicio": "2026-07-04T03:00:00",
-      "fin": "2026-07-04T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Asado de obra",
-      "descripcion": "El asado forma parte del ADN argentino, y esto se refleja en una costumbre: el asado de los viernes que comparten los trabajadores de las obras en construcción. Se descubren las sabrosas recetas que los obreros disfrutan en su lugar de trabajo.",
-      "inicio": "2026-07-04T03:30:00",
-      "fin": "2026-07-04T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Unidos por la cocina",
-      "descripcion": "Celebración de la inclusión social a través de la gastronomía. Cada episodio muestra cómo la cocina puede ser un puente entre personas de distintos contextos, promoviendo valores como la solidaridad, el trabajo en equipo y la creatividad culinaria.",
-      "inicio": "2026-07-04T04:00:00",
-      "fin": "2026-07-04T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Abuelita linda",
-      "descripcion": "Verónica Zumalacárregui recorre las ciudades más importantes de México y se sienta en la mesa de las abuelitas más lindas para disfrutar lo mejor de su cocina.",
-      "inicio": "2026-07-04T04:30:00",
-      "fin": "2026-07-04T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fiestas con sabor mexicano",
-      "descripcion": "Las fiestas mexicanas están llenas de tradición, color y sabores. Un recorrido por las principales celebraciones, como el festejo del niñopa, las morismas, el hanal pixan y el viernes santo. Se recrean los platos típicos de esas fiestas.",
-      "inicio": "2026-07-04T05:00:00",
-      "fin": "2026-07-04T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "México en una tortilla",
-      "descripcion": "Un viaje gastronómico en torno al maíz como eje central de la gastronomía mexicana. El ABC de la tortilla y los secretos para preparar tacos, memelas, sopes, chalupas, enchiladas y tlayudas.",
-      "inicio": "2026-07-04T05:30:00",
-      "fin": "2026-07-04T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pueblos para comérselos: México",
-      "descripcion": "Un recorrido por diversos pueblos de México con el corazón abierto y los sentidos despiertos. Con la guía de anfitriones locales, se descubren los secretos que hacen único a cada lugar: los platillos, los paisajes, su historia y la de sus habitantes.",
-      "inicio": "2026-07-04T06:00:00",
-      "fin": "2026-07-04T06:30:00",
+      "titulo": "Platos de cuchara • Platos para el verano",
+      "descripcion": "Platos para el verano ║ En este episodio, Zahie Téllez prepara recetas ideales para el verano: sopa fría de aguacates, sopa fría de elote y sopa fría de jitomate. Refrescantes y deliciosas opciones para incorporar a nuestros Platos de Cuchara.",
+      "inicio": "2026-07-06T09:00:00",
+      "fin": "2026-07-06T09:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Dulces con historia",
       "descripcion": "Con mucha azúcar, emoción y los secretos mejor guardados de los obradores, el programa nos acerca a pastelerías centenarias, dulces únicos y sabiduría transmitida de generación en generación.",
-      "inicio": "2026-07-04T06:30:00",
-      "fin": "2026-07-04T07:00:00",
+      "inicio": "2026-07-06T09:30:00",
+      "fin": "2026-07-06T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "La pastelería de Paulina",
-      "descripcion": "Los encuentros y las celebraciones siempre se disfrutan más si hay pasteles ricos en la mesa. En esta serie, Paulina abre las puertas de su pastelería para mostrar cómo se realizan aquellos deliciosos postres de cumpleaños y fiestas.",
-      "inicio": "2026-07-04T07:00:00",
-      "fin": "2026-07-04T07:30:00",
+      "titulo": "Los fogones tradicionales México",
+      "descripcion": "Una visita a los más remotos parajes en busca de los tesoros culinarios de cada región. Los platos que se transmiten de generación en generación, preparados por los lugareños en sus propios fogones.",
+      "inicio": "2026-07-06T10:00:00",
+      "fin": "2026-07-06T10:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Historias del vino. Chile",
-      "descripcion": "Periodista y escritor chileno, especializado en vinos, cuenta historias de vida que tienen a esta bebida como protagonista. Emprendedores que dejaron sus profesiones anteriores para dedicarse a los viñedos o herederos de bodegas familiares.",
-      "inicio": "2026-07-04T07:30:00",
-      "fin": "2026-07-04T08:00:00",
+      "titulo": "Amigos con mucho gusto • Cofradía de los Santicos, de los cucos, de la tortilla irunesa",
+      "descripcion": "Cofradía de los Santicos, de los cucos, de la tortilla irunesa ║ En Vega Baja de Alicante, la alcachofa da para elaborar muchas recetas ancestrales, y claro, no podía faltar una peña gastronómica, la de Almoradí, que recrea al detalle las cocinas antiguas. La catedral de Burgos es la cuna de Los Cucos, defensores de la famosa morcilla burgalesa, forma parte de un plato espectacular: la olla poderosa. Y en Irún, en pleno País vasco, un encuentro con la cofradía de la tortilla irunesa.",
+      "inicio": "2026-07-06T10:30:00",
+      "fin": "2026-07-06T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "La ruta del cacao",
-      "descripcion": "Un recorrido por México, Colombia y Ecuador para hablar con quienes mejor conocen al cacao, un alimento insignia de América. Plantaciones, chocolaterías y los mejores chefs de cada región ponen en valor este tesoro americano.",
-      "inicio": "2026-07-04T08:00:00",
-      "fin": "2026-07-04T08:30:00",
+      "titulo": "Menú para todos los días • Lasagna de sartén, gemelli con espárragos",
+      "descripcion": "Lasagna de sartén, gemelli con espárragos ║ Ideas para cocinar a diario en casa. Se trata de propuestas simples, para hacer en poco tiempo y con ingredientes al alcance de todos. La propuesta de Toño es cocinar lo más tradicional de México y algunos otros platos variados.",
+      "inicio": "2026-07-06T11:00:00",
+      "fin": "2026-07-06T11:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "La cocina de Sonia Ortiz",
-      "descripcion": "Sonia Ortiz comparte una gran variedad de recetas fáciles y llenas de sabor que la hicieron popular en las redes sociales.",
-      "inicio": "2026-07-04T08:30:00",
-      "fin": "2026-07-04T09:00:00",
+      "titulo": "Fiesta en casa. Al aire libre • Salmorejo de manzana con crujiente de cecina",
+      "descripcion": "Salmorejo de manzana con crujiente de cecina ║ Carmen López del Hierro prepara salmorejo de manzana con crujiente de cecina.",
+      "inicio": "2026-07-06T11:30:00",
+      "fin": "2026-07-06T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Los favoritos de Osuna en Querétaro",
-      "descripcion": "Los rincones emblemáticos de la ciudad reflejan sabores e historias únicas que tejen la identidad culinaria local.",
-      "inicio": "2026-07-04T09:00:00",
-      "fin": "2026-07-04T09:30:00",
+      "titulo": "Mapa de los sabores de México • Caldo de xoconostle; Nopal en penca",
+      "descripcion": "Caldo de xoconostle; Nopal en penca ║ El centro de la república es una zona semidesértica por lo que su comida está compuesta básicamente por cactus y agaves, por ello Eduardo cocina un caldo de xoconostle, fruto del desierto y un nopal en penca con salsa de chapulines.",
+      "inicio": "2026-07-06T12:00:00",
+      "fin": "2026-07-06T12:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "La Raya: entre España y Portugal",
-      "descripcion": "Hay una delgada línea que separa España y Portugal, llena de sabores, historias y tradiciones. Se llama La Raya y va desde Galicia hasta Huelva. Se exploran los rincones con más interés gastronómico de esta ruta.",
-      "inicio": "2026-07-04T09:30:00",
-      "fin": "2026-07-04T10:00:00",
+      "titulo": "Los favoritos de Alex Ruiz en Oaxaca",
+      "descripcion": "Alex Ruiz visita, en el centro de la ciudad de Oaxaca, La Atolería. Después, visita El Mercado del Baratillo y El Tendajón. Además, Tacos Chefinita. Y, para cerrar la noche, Sabina Sabe.",
+      "inicio": "2026-07-06T12:30:00",
+      "fin": "2026-07-06T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Productos artesanos: México",
-      "descripcion": "Un recorrido en busca de los mejores productos artesanales de México: la vainilla, el cacao, la pasta de mole y la sal, entre otros. Además, los productores revelan los secretos de las elaboraciones.",
-      "inicio": "2026-07-04T10:00:00",
-      "fin": "2026-07-04T10:30:00",
+      "titulo": "La panadería dulce de Juan Manuel • Danesa con frutas; Alfajor milhojas",
+      "descripcion": "Danesa con frutas; Alfajor milhojas ║ Juan Manuel Herrera comparte desde los clásicos de la panadería dulce hasta las delicias más sofisticadas del mundo. En este episodio: danesas con frutas y un imperdible alfajor milhojas.",
+      "inicio": "2026-07-06T13:00:00",
+      "fin": "2026-07-06T13:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "México en una tortilla",
-      "descripcion": "Un viaje gastronómico en torno al maíz como eje central de la gastronomía mexicana. El ABC de la tortilla y los secretos para preparar tacos, memelas, sopes, chalupas, enchiladas y tlayudas.",
-      "inicio": "2026-07-04T10:30:00",
-      "fin": "2026-07-04T11:00:00",
+      "titulo": "La cocina de los recuerdos • Guacamaya, torrejas con miel de maguey",
+      "descripcion": "Guacamaya, torrejas con miel de maguey ║ Un gran recuerdo de la ciudad de León en el bajo mexicano son las guacamayas, plato tan sencillo como entrañable. Sergio Camacho enseña a prepararlas y después comparte su receta para hacer unas deliciosas torrejas.",
+      "inicio": "2026-07-06T13:30:00",
+      "fin": "2026-07-06T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Maestros de la pasta",
-      "descripcion": "Un viaje para descubrir a los maestros de la pasta, mostrando la profunda conexión que se tiene con este plato de origen italiano. Se exploran las ciudades de Buenos Aires, Bologna, Roma y Calabria, entre otras.",
-      "inicio": "2026-07-04T11:00:00",
-      "fin": "2026-07-04T11:30:00",
+      "titulo": "Hermana Verónica • Ñoquis de papa",
+      "descripcion": "Ñoquis de papa ║ Hermana Verónica.",
+      "inicio": "2026-07-06T14:00:00",
+      "fin": "2026-07-06T14:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Menú para todos los días",
-      "descripcion": "Ideas para cocinar a diario en casa. Se trata de propuestas simples, para hacer en poco tiempo y con ingredientes al alcance de todos. La propuesta de Toño es cocinar lo más tradicional de México y algunos otros platos variados.",
-      "inicio": "2026-07-04T11:30:00",
-      "fin": "2026-07-04T12:00:00",
+      "titulo": "Sonia en su huerta • Aguacate relleno y esparragos a la parmesana",
+      "descripcion": "Aguacate relleno y esparragos a la parmesana ║ Sonia comparte recetas con dos productos de su huerta: aguacates y espárragos.",
+      "inicio": "2026-07-06T14:30:00",
+      "fin": "2026-07-06T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Unidos por la cocina",
-      "descripcion": "Celebración de la inclusión social a través de la gastronomía. Cada episodio muestra cómo la cocina puede ser un puente entre personas de distintos contextos, promoviendo valores como la solidaridad, el trabajo en equipo y la creatividad culinaria.",
-      "inicio": "2026-07-04T12:00:00",
-      "fin": "2026-07-04T12:30:00",
+      "titulo": "Los imperdibles: Ciudad de México",
+      "descripcion": "En Maizajo, respetan el grano desde que es semilla hasta que llega al comal. Luego, una torre de mariscos que combina lo mejor del Pacífico, y, por último, un postre que nunca pasa de moda en la Ciudad de México: el banana split de la Roxy.",
+      "inicio": "2026-07-06T15:00:00",
+      "fin": "2026-07-06T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fiestas con sabor mexicano • Pastes",
+      "descripcion": "Pastes ║ En México, cada estado, cada pueblo, tiene sus fiestas tradicionales. Y cada festividad tiene sus platillos característicos. Nueva temporada de la serie en la que, de la mano de Benito Taibo, descubrimos los mitos, las historias y las recetas típicas de cada celebración.",
+      "inicio": "2026-07-06T15:30:00",
+      "fin": "2026-07-06T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Petersen en Chile • Coquimbo",
+      "descripcion": "Coquimbo ║ Los Petersen llegan a Coquimbo, donde conocen a unos productores de ostiones y descubren cómo se produce la cerveza de Chile. Todo termina con un atardecer inolvidable en la playa La Serena.",
+      "inicio": "2026-07-06T16:00:00",
+      "fin": "2026-07-06T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los favoritos de Alex Ruiz en Oaxaca",
+      "descripcion": "Alex Ruiz visita, en el centro de la ciudad de Oaxaca, La Atolería. Después, visita El Mercado del Baratillo y El Tendajón. Además, Tacos Chefinita. Y, para cerrar la noche, Sabina Sabe.",
+      "inicio": "2026-07-06T16:30:00",
+      "fin": "2026-07-06T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Con pocos ingredientes • Causa a la Estefi, bollitos de pizza, torta de nuez",
+      "descripcion": "Causa a la Estefi, bollitos de pizza, torta de nuez ║ Con pocos productos y mucho sabor, Estefi Colombo trae tres preparaciones fáciles de hacer: causa a la Estefi, bollitos de pizza y torta de nuez.",
+      "inicio": "2026-07-06T17:00:00",
+      "fin": "2026-07-06T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Abuelita linda • Cancún",
+      "descripcion": "Cancún ║ Verónica aprende a elaborar Mojarra en cama de hoja santa con achiote junto a Tita, una abuelita muy moderna de Cancún.",
+      "inicio": "2026-07-06T17:30:00",
+      "fin": "2026-07-06T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonia en su huerta • Aguacate relleno y esparragos a la parmesana",
+      "descripcion": "Aguacate relleno y esparragos a la parmesana ║ Sonia comparte recetas con dos productos de su huerta: aguacates y espárragos.",
+      "inicio": "2026-07-06T18:00:00",
+      "fin": "2026-07-06T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hermana Verónica • Ñoquis de papa",
+      "descripcion": "Ñoquis de papa ║ Hermana Verónica.",
+      "inicio": "2026-07-06T18:30:00",
+      "fin": "2026-07-06T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fiestas con sabor mexicano • Pastes",
+      "descripcion": "Pastes ║ En México, cada estado, cada pueblo, tiene sus fiestas tradicionales. Y cada festividad tiene sus platillos característicos. Nueva temporada de la serie en la que, de la mano de Benito Taibo, descubrimos los mitos, las historias y las recetas típicas de cada celebración.",
+      "inicio": "2026-07-06T19:00:00",
+      "fin": "2026-07-06T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mapa de los sabores de México • Caldo de xoconostle; Nopal en penca",
+      "descripcion": "Caldo de xoconostle; Nopal en penca ║ El centro de la república es una zona semidesértica por lo que su comida está compuesta básicamente por cactus y agaves, por ello Eduardo cocina un caldo de xoconostle, fruto del desierto y un nopal en penca con salsa de chapulines.",
+      "inicio": "2026-07-06T19:30:00",
+      "fin": "2026-07-06T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La ruta del Mar patagónico • Santa Cruz, merluza negra",
+      "descripcion": "Santa Cruz, merluza negra ║ Tupac Guantay viaja a Ushuaia, donde prueba la merluza negra junto a un cocinero local. También visita el tren y el faro más australes. Después, sigue viaje hacia Santa Cruz, donde un grupo de chefs lo esperan con un menú de platos regionales.",
+      "inicio": "2026-07-06T20:00:00",
+      "fin": "2026-07-06T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Platos de cuchara • Platos para el verano",
+      "descripcion": "Platos para el verano ║ En este episodio, Zahie Téllez prepara recetas ideales para el verano: sopa fría de aguacates, sopa fría de elote y sopa fría de jitomate. Refrescantes y deliciosas opciones para incorporar a nuestros Platos de Cuchara.",
+      "inicio": "2026-07-06T20:30:00",
+      "fin": "2026-07-06T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Petersen en Chile • Coquimbo",
+      "descripcion": "Coquimbo ║ Los Petersen llegan a Coquimbo, donde conocen a unos productores de ostiones y descubren cómo se produce la cerveza de Chile. Todo termina con un atardecer inolvidable en la playa La Serena.",
+      "inicio": "2026-07-06T21:00:00",
+      "fin": "2026-07-06T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonia en su huerta • Aguacate relleno y esparragos a la parmesana",
+      "descripcion": "Aguacate relleno y esparragos a la parmesana ║ Sonia comparte recetas con dos productos de su huerta: aguacates y espárragos.",
+      "inicio": "2026-07-06T21:30:00",
+      "fin": "2026-07-06T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Me voy a comer el mundo • Seúl ",
+      "descripcion": "Seúl ║ Verónica visita Seúl, capital de Corea del Sur, y prueba delicias en la exclusiva zona de Seongbuk-dong como la sopa de perro, el pollo frito y la típica barbacoa coreana. Además, el gran Noryangjin, el mercado de pescado, y el mercado Gwangjang.",
+      "inicio": "2026-07-06T22:00:00",
+      "fin": "2026-07-06T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Productos de mi tierra, México • Frijol",
+      "descripcion": "Frijol ║ Enrique Cervantes visita Los Capulines, Morelos. Allí, lo recibe Michel Villegas, quien le habla sobre la producción de frijol. En la cocina, Regula Altamirano prepara frijoles de olla y tamales de frijol.",
+      "inicio": "2026-07-06T23:00:00",
+      "fin": "2026-07-06T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hermana Verónica • Ñoquis de papa",
+      "descripcion": "Ñoquis de papa ║ Hermana Verónica.",
+      "inicio": "2026-07-06T23:30:00",
+      "fin": "2026-07-07T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cocina de mar. Pacífico • Sopes de pez dorado, mole de chicatanas",
+      "descripcion": "Sopes de pez dorado, mole de chicatanas ║ Alex Ruiz prepara unos sopes de pez dorado o Mahi Mahi con frijoles, cubiertos con una ensalada y salsa floja. Luego, cocina un mole de hormigas chicatanas con costillas de cerdo; un plato típico de la costa de Oaxaca.",
+      "inicio": "2026-07-07T00:00:00",
+      "fin": "2026-07-07T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fiestas con sabor mexicano • Pastes",
+      "descripcion": "Pastes ║ En México, cada estado, cada pueblo, tiene sus fiestas tradicionales. Y cada festividad tiene sus platillos característicos. Nueva temporada de la serie en la que, de la mano de Benito Taibo, descubrimos los mitos, las historias y las recetas típicas de cada celebración.",
+      "inicio": "2026-07-07T00:30:00",
+      "fin": "2026-07-07T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Petersen en Chile • Coquimbo",
+      "descripcion": "Coquimbo ║ Los Petersen llegan a Coquimbo, donde conocen a unos productores de ostiones y descubren cómo se produce la cerveza de Chile. Todo termina con un atardecer inolvidable en la playa La Serena.",
+      "inicio": "2026-07-07T01:00:00",
+      "fin": "2026-07-07T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los favoritos de Alex Ruiz en Oaxaca",
+      "descripcion": "Alex Ruiz visita, en el centro de la ciudad de Oaxaca, La Atolería. Después, visita El Mercado del Baratillo y El Tendajón. Además, Tacos Chefinita. Y, para cerrar la noche, Sabina Sabe.",
+      "inicio": "2026-07-07T01:30:00",
+      "fin": "2026-07-07T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ruta 40. Norte • Cusi Cusi, San Antonio de los Cobres",
+      "descripcion": "Cusi Cusi, San Antonio de los Cobres ║ Un recorrido por el inigualable sabor de las famosas empanadas de quinoa y charqui del Valle de la Luna.",
+      "inicio": "2026-07-07T02:00:00",
+      "fin": "2026-07-07T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Parrilla a la mexicana • Torta ahogada a las brasasy tlayuda al carbón",
+      "descripcion": "Torta ahogada a las brasasy tlayuda al carbón ║ Una torta ahogada rellena de pork belly dorado y con la tradicional salsa roja de chile de árbol. También, una versión a la parrilla de la tlayuda oaxaqueña.",
+      "inicio": "2026-07-07T02:30:00",
+      "fin": "2026-07-07T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Asado de obra • Villa General Belgrano, Córdoba",
+      "descripcion": "Villa General Belgrano, Córdoba ║ Una visita a Villa General Belgrano, Córdoba, lugar que emula a ciertos pueblos germanos. En esta ocasión, Marcos Salgado, un lugareño y jefe de obra, prepara cabrito al disco con los spätzle que tanto observó cocinar en la villa serrana.",
+      "inicio": "2026-07-07T03:00:00",
+      "fin": "2026-07-07T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dulces con historia",
+      "descripcion": "Un viaje a la confitería Blanco en Cantabria para descubrir las polkas. Además, en Toledo, una visita a San Telesforo, donde elaboran las marquesas.",
+      "inicio": "2026-07-07T03:30:00",
+      "fin": "2026-07-07T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los favoritos de Margarita Bernal en Cartagena • Época café",
+      "descripcion": "Época café ║ La cocinera colombiana Margarita Bernal visita la histórica ciudad de Cartagena para mostrar sus sitios gastronómicos favoritos. Invita a visitar restaurantes exclusivos, cafeterías, bares típicos y a probar la cocina callejera.",
+      "inicio": "2026-07-07T04:00:00",
+      "fin": "2026-07-07T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Maestros del alfajor • El boom",
+      "descripcion": "El boom ║ Juan Manuel conoce qué hay detrás del éxito del alfajor. Analiza el fenómeno de Capitán del Espacio; viaja a la provincia de Córdoba y visita La Costanera, una confitería centenaria. Además, en Santa Fe, conoce el alfajor santafecino Gayalí.",
+      "inicio": "2026-07-07T04:30:00",
+      "fin": "2026-07-07T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fermentados con Sonia • Kombucha",
+      "descripcion": "Kombucha ║ Sonia comparte sus conocimientos para preparar kombucha de mango, una bebida fermentada con la que preparará un gazpacho. De postre, preparará un tiramisú. Además, hará hidromiel de jamaica fermentada, con la que acompañará unas deliciosas costillas de cerdo.",
+      "inicio": "2026-07-07T05:00:00",
+      "fin": "2026-07-07T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Menú para todos los días • Sopa de tortilla y mariscos, paella de almejas y cerdo",
+      "descripcion": "Sopa de tortilla y mariscos, paella de almejas y cerdo ║ El simpático cocinero Toño de Livier propone dos platos que unen mar y tierra.",
+      "inicio": "2026-07-07T05:30:00",
+      "fin": "2026-07-07T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Abuela querida • Abuela Irma, Sunchales",
+      "descripcion": "Abuela Irma, Sunchales ║ En el corazón de Sunchales, las recetas de la abuela Irma Kerg viajan de generación en generación. En este episodio, pastel tradicional y flädle y strudel salados.",
+      "inicio": "2026-07-07T06:00:00",
+      "fin": "2026-07-07T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Maestros del taco • Rigo",
+      "descripcion": "Rigo ║ Poncho Cadena prueba unos deliciosos tacos en Tacos Rigo, en Cancún. En Campeche, visita la taquería de Norma Ruelas. En Mérida, visita la taquería Kisin.",
+      "inicio": "2026-07-07T06:30:00",
+      "fin": "2026-07-07T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cocina de mar. Pacífico • Tamales de tichindas, tostadas de jaiba",
+      "descripcion": "Tamales de tichindas, tostadas de jaiba ║ Alex prepara unos tamales de tichindas, siguiendo la receta original. Después, un platillo llamado tostadas de jaiba y, para cerrar, un caldo de camarón cantinero, que suele servirse en las cantinas mexicanas.",
+      "inicio": "2026-07-07T07:00:00",
+      "fin": "2026-07-07T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los imperdibles. Buenos Aires",
+      "descripcion": "Una tortilla rellena imperdible. Además, una paella perfeccionada durante 50 años y, por último, una milanesa tan gigante como sabrosa.",
+      "inicio": "2026-07-07T07:30:00",
+      "fin": "2026-07-07T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Con pocos ingredientes • Cheesecake salado, ñoquis de calabaza",
+      "descripcion": "Cheesecake salado, ñoquis de calabaza ║ Tres recetas deliciosas con pocos ingredientes: cheesecake salado, ñoquis de calabaza y sándwich de pan nube.",
+      "inicio": "2026-07-07T08:00:00",
+      "fin": "2026-07-07T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ruta 40. Norte • Cusi Cusi, San Antonio de los Cobres",
+      "descripcion": "Cusi Cusi, San Antonio de los Cobres ║ Un recorrido por el inigualable sabor de las famosas empanadas de quinoa y charqui del Valle de la Luna.",
+      "inicio": "2026-07-07T08:30:00",
+      "fin": "2026-07-07T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
