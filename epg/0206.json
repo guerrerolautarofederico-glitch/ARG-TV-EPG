@@ -1,999 +1,19 @@
 {
   "actual": {
-    "titulo": "El tiempo",
-    "descripcion": "Información meteorológica de todo el mundo.",
-    "inicio": "2026-07-06T08:59:00",
-    "fin": "2026-07-06T09:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    "titulo": "África 7 Dias",
+    "descripcion": "Un recuento en 30 minutos de los acontecimientos que marcaron historia en África durante la semana.",
+    "inicio": "2026-07-07T08:15:00",
+    "fin": "2026-07-07T08:29:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Noticias",
-    "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-    "inicio": "2026-07-06T09:00:00",
-    "fin": "2026-07-06T09:15:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    "titulo": "El tiempo",
+    "descripcion": "Información meteorológica de todo el mundo.",
+    "inicio": "2026-07-07T08:29:00",
+    "fin": "2026-07-07T08:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
   },
   "lista": [
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T08:59:00",
-      "fin": "2026-07-06T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T09:00:00",
-      "fin": "2026-07-06T09:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "En foco",
-      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
-      "inicio": "2026-07-06T09:15:00",
-      "fin": "2026-07-06T09:21:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Invitad@ del día",
-      "descripcion": "Conversaciones con diversos expertos para conocer nuevas perspectivas sobre los grandes temas de cada jornada.",
-      "inicio": "2026-07-06T09:21:00",
-      "fin": "2026-07-06T09:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T09:29:00",
-      "fin": "2026-07-06T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T09:30:00",
-      "fin": "2026-07-06T09:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Carrusel de las artes",
-      "descripcion": "Un espacio para conocer a artistas de diferentes disciplinas y explorar lo más destacado de la escena cultural de Francia. Cineastas, actores, escritores, pintores y vibrantes exposiciones y muestras.",
-      "inicio": "2026-07-06T09:45:00",
-      "fin": "2026-07-06T09:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T09:59:00",
-      "fin": "2026-07-06T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T10:00:00",
-      "fin": "2026-07-06T10:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Ventana a Europa",
-      "descripcion": "Las últimas noticias políticas y sociales del continente europeo con informes en Colombia, México, Argentina y Chile.",
-      "inicio": "2026-07-06T10:15:00",
-      "fin": "2026-07-06T10:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T10:29:00",
-      "fin": "2026-07-06T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T10:30:00",
-      "fin": "2026-07-06T10:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "En foco",
-      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
-      "inicio": "2026-07-06T10:45:00",
-      "fin": "2026-07-06T10:53:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los observadores",
-      "descripcion": "Fotografías, videos y testimonios de personas que no se dedican profesionalmente al periodismo, pero que se encuentran al pie de la noticia. Información que llega desde todos los confines del mundo.",
-      "inicio": "2026-07-06T10:53:00",
-      "fin": "2026-07-06T10:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T10:59:00",
-      "fin": "2026-07-06T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T11:00:00",
-      "fin": "2026-07-06T11:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "En Primera Plana",
-      "descripcion": "Analistas y corresponsales de la prensa extranjera basados en París comentan lo más candente de la actualidad. Una mirada aguda desde la Ciudad Luz.",
-      "inicio": "2026-07-06T11:15:00",
-      "fin": "2026-07-06T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T11:30:00",
-      "fin": "2026-07-06T11:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "En Primera Plana",
-      "descripcion": "Analistas y corresponsales de la prensa extranjera basados en París comentan lo más candente de la actualidad. Una mirada aguda desde la Ciudad Luz.",
-      "inicio": "2026-07-06T11:45:00",
-      "fin": "2026-07-06T11:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T11:59:00",
-      "fin": "2026-07-06T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T12:00:00",
-      "fin": "2026-07-06T12:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-06T12:10:00",
-      "fin": "2026-07-06T12:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Enlace",
-      "descripcion": "Una cita semanal con los temas más importantes de los países del continente americano, presentada por los principales corresponsales.",
-      "inicio": "2026-07-06T12:20:00",
-      "fin": "2026-07-06T12:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T12:29:00",
-      "fin": "2026-07-06T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T12:30:00",
-      "fin": "2026-07-06T12:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "En foco",
-      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
-      "inicio": "2026-07-06T12:40:00",
-      "fin": "2026-07-06T12:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Historia",
-      "descripcion": "France 24 analiza las fechas más significativas de la historia de América Latina y del resto del mundo, poniéndolas en perspectiva con la actualidad.",
-      "inicio": "2026-07-06T12:45:00",
-      "fin": "2026-07-06T12:51:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Migrantes",
-      "descripcion": "Entrevistas a mexicanos que se mudaron a los Estados Unidos y los placeres de la cultura mexicana que extrañan.",
-      "inicio": "2026-07-06T12:51:00",
-      "fin": "2026-07-06T12:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T12:59:00",
-      "fin": "2026-07-06T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Contexto global",
-      "descripcion": "Las noticias clave de América Latina y el mundo, y un análisis completo de las principales conclusiones del día en vivo.",
-      "inicio": "2026-07-06T13:00:00",
-      "fin": "2026-07-06T13:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El debate",
-      "descripcion": "Cuatro invitados debaten el tema del día.",
-      "inicio": "2026-07-06T13:20:00",
-      "fin": "2026-07-06T13:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T13:59:00",
-      "fin": "2026-07-06T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Contexto global",
-      "descripcion": "Las noticias clave de América Latina y el mundo, y un análisis completo de las principales conclusiones del día en vivo.",
-      "inicio": "2026-07-06T14:00:00",
-      "fin": "2026-07-06T14:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-06T14:15:00",
-      "fin": "2026-07-06T14:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T14:29:00",
-      "fin": "2026-07-06T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Contexto global",
-      "descripcion": "Las noticias clave de América Latina y el mundo, y un análisis completo de las principales conclusiones del día en vivo.",
-      "inicio": "2026-07-06T14:30:00",
-      "fin": "2026-07-06T14:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "África 7 Dias",
-      "descripcion": "Un recuento en 30 minutos de los acontecimientos que marcaron historia en África durante la semana.",
-      "inicio": "2026-07-06T14:45:00",
-      "fin": "2026-07-06T14:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T14:59:00",
-      "fin": "2026-07-06T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T15:00:00",
-      "fin": "2026-07-06T15:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Deportes",
-      "descripcion": "La actualidad deportiva del día en el mundo con los periodistas de France 24, en una revista ilustrada desde los terrenos de juego y fuera de ellos.",
-      "inicio": "2026-07-06T15:15:00",
-      "fin": "2026-07-06T15:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En 5 minutos",
-      "descripcion": "Entrevistas a expertos y protagonistas de noticias. Se brinda información sobre el acontecer nacional e internacional.",
-      "inicio": "2026-07-06T15:20:00",
-      "fin": "2026-07-06T15:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T15:29:00",
-      "fin": "2026-07-06T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T15:30:00",
-      "fin": "2026-07-06T15:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "La entrevista",
-      "descripcion": "Entrevistas con una personalidad francesa o internacional del mundo de la economía, la política, cultura o relaciones internacionales.",
-      "inicio": "2026-07-06T15:45:00",
-      "fin": "2026-07-06T15:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T15:59:00",
-      "fin": "2026-07-06T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T16:00:00",
-      "fin": "2026-07-06T16:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "El debate",
-      "descripcion": "Cuatro invitados debaten el tema del día.",
-      "inicio": "2026-07-06T16:15:00",
-      "fin": "2026-07-06T16:54:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En foco",
-      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
-      "inicio": "2026-07-06T16:54:00",
-      "fin": "2026-07-06T16:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T16:59:00",
-      "fin": "2026-07-06T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T17:00:00",
-      "fin": "2026-07-06T17:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Boleto de vuelta",
-      "descripcion": "Los reporteros y corresponsales de France 24 vuelven a lugares que en el pasado estuvieron en primera plana de la actualidad por haber sufrido guerras y desastres naturales o industriales, con el propósito de mostrar cómo viven hoy sus habitantes.",
-      "inicio": "2026-07-06T17:10:00",
-      "fin": "2026-07-06T17:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T17:29:00",
-      "fin": "2026-07-06T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T17:30:00",
-      "fin": "2026-07-06T17:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Reporteros",
-      "descripcion": "Un equipo de reporteros de France 24 aborda un tema en profundidad o analiza un hecho destacado de la actualidad.",
-      "inicio": "2026-07-06T17:40:00",
-      "fin": "2026-07-06T17:54:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En foco",
-      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
-      "inicio": "2026-07-06T17:54:00",
-      "fin": "2026-07-06T17:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T17:59:00",
-      "fin": "2026-07-06T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
-      "inicio": "2026-07-06T18:00:00",
-      "fin": "2026-07-06T18:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Historia",
-      "descripcion": "France 24 analiza las fechas más significativas de la historia de América Latina y del resto del mundo, poniéndolas en perspectiva con la actualidad.",
-      "inicio": "2026-07-06T18:10:00",
-      "fin": "2026-07-06T18:16:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Aquí América",
-      "descripcion": "Programa donde se ofrece una mirada diferente de la información del continente americano.",
-      "inicio": "2026-07-06T18:16:00",
-      "fin": "2026-07-06T18:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T18:29:00",
-      "fin": "2026-07-06T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
-      "inicio": "2026-07-06T18:30:00",
-      "fin": "2026-07-06T18:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Escala en París",
-      "descripcion": "Una cita semanal con personalidades de las artes, la ciencia, la política y el deporte. Más que una escala, un puente entre París y América Latina.",
-      "inicio": "2026-07-06T18:40:00",
-      "fin": "2026-07-06T18:54:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En 5 minutos",
-      "descripcion": "Entrevistas a expertos y protagonistas de noticias. Se brinda información sobre el acontecer nacional e internacional.",
-      "inicio": "2026-07-06T18:54:00",
-      "fin": "2026-07-06T18:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T18:59:00",
-      "fin": "2026-07-06T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-06T19:00:00",
-      "fin": "2026-07-06T19:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El debate",
-      "descripcion": "Cuatro invitados debaten el tema del día.",
-      "inicio": "2026-07-06T19:10:00",
-      "fin": "2026-07-06T19:46:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La entrevista",
-      "descripcion": "Entrevistas con una personalidad francesa o internacional del mundo de la economía, la política, cultura o relaciones internacionales.",
-      "inicio": "2026-07-06T19:46:00",
-      "fin": "2026-07-06T19:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T19:59:00",
-      "fin": "2026-07-06T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-06T20:00:00",
-      "fin": "2026-07-06T20:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Des-informando",
-      "descripcion": "Un programa dedicado a la verificación de hechos en medio del mar de desinformación presente en las redes sociales.",
-      "inicio": "2026-07-06T20:10:00",
-      "fin": "2026-07-06T20:16:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En Primera Plana",
-      "descripcion": "Analistas y corresponsales de la prensa extranjera basados en París comentan lo más candente de la actualidad. Una mirada aguda desde la Ciudad Luz.",
-      "inicio": "2026-07-06T20:16:00",
-      "fin": "2026-07-06T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-06T20:30:00",
-      "fin": "2026-07-06T20:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En Primera Plana",
-      "descripcion": "Analistas y corresponsales de la prensa extranjera basados en París comentan lo más candente de la actualidad. Una mirada aguda desde la Ciudad Luz.",
-      "inicio": "2026-07-06T20:40:00",
-      "fin": "2026-07-06T20:53:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En foco",
-      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
-      "inicio": "2026-07-06T20:53:00",
-      "fin": "2026-07-06T20:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T20:59:00",
-      "fin": "2026-07-06T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
-      "inicio": "2026-07-06T21:00:00",
-      "fin": "2026-07-06T21:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Ventana a Europa",
-      "descripcion": "Las últimas noticias políticas y sociales del continente europeo con informes en Colombia, México, Argentina y Chile.",
-      "inicio": "2026-07-06T21:10:00",
-      "fin": "2026-07-06T21:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Historia",
-      "descripcion": "France 24 analiza las fechas más significativas de la historia de América Latina y del resto del mundo, poniéndolas en perspectiva con la actualidad.",
-      "inicio": "2026-07-06T21:23:00",
-      "fin": "2026-07-06T21:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T21:29:00",
-      "fin": "2026-07-06T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T21:30:00",
-      "fin": "2026-07-06T21:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Reporteros",
-      "descripcion": "Un equipo de reporteros de France 24 aborda un tema en profundidad o analiza un hecho destacado de la actualidad.",
-      "inicio": "2026-07-06T21:40:00",
-      "fin": "2026-07-06T21:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T21:59:00",
-      "fin": "2026-07-06T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T22:00:00",
-      "fin": "2026-07-06T22:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Enlace",
-      "descripcion": "Una cita semanal con los temas más importantes de los países del continente americano, presentada por los principales corresponsales.",
-      "inicio": "2026-07-06T22:10:00",
-      "fin": "2026-07-06T22:16:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Aquí América",
-      "descripcion": "Programa donde se ofrece una mirada diferente de la información del continente americano.",
-      "inicio": "2026-07-06T22:16:00",
-      "fin": "2026-07-06T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T22:30:00",
-      "fin": "2026-07-06T22:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "La entrevista",
-      "descripcion": "Entrevistas con una personalidad francesa o internacional del mundo de la economía, la política, cultura o relaciones internacionales.",
-      "inicio": "2026-07-06T22:40:00",
-      "fin": "2026-07-06T22:53:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En 5 minutos",
-      "descripcion": "Entrevistas a expertos y protagonistas de noticias. Se brinda información sobre el acontecer nacional e internacional.",
-      "inicio": "2026-07-06T22:53:00",
-      "fin": "2026-07-06T22:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T22:59:00",
-      "fin": "2026-07-06T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T23:00:00",
-      "fin": "2026-07-06T23:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Carrusel de las artes",
-      "descripcion": "Un espacio para conocer a artistas de diferentes disciplinas y explorar lo más destacado de la escena cultural de Francia. Cineastas, actores, escritores, pintores y vibrantes exposiciones y muestras.",
-      "inicio": "2026-07-06T23:10:00",
-      "fin": "2026-07-06T23:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cultura",
-      "descripcion": "¿Cómo explican el mundo los cineastas, los novelistas o los artistas? France 24 sale al encuentro de una cultura comprometida con su época.",
-      "inicio": "2026-07-06T23:23:00",
-      "fin": "2026-07-06T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-07-06T23:30:00",
-      "fin": "2026-07-06T23:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Boleto de vuelta",
-      "descripcion": "Los reporteros y corresponsales de France 24 vuelven a lugares que en el pasado estuvieron en primera plana de la actualidad por haber sufrido guerras y desastres naturales o industriales, con el propósito de mostrar cómo viven hoy sus habitantes.",
-      "inicio": "2026-07-06T23:40:00",
-      "fin": "2026-07-06T23:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-06T23:59:00",
-      "fin": "2026-07-07T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-07T00:00:00",
-      "fin": "2026-07-07T00:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "África 7 Dias",
-      "descripcion": "Un recuento en 30 minutos de los acontecimientos que marcaron historia en África durante la semana.",
-      "inicio": "2026-07-07T00:10:00",
-      "fin": "2026-07-07T00:24:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En foco",
-      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
-      "inicio": "2026-07-07T00:24:00",
-      "fin": "2026-07-07T00:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T00:29:00",
-      "fin": "2026-07-07T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-07T00:30:00",
-      "fin": "2026-07-07T00:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Historia",
-      "descripcion": "France 24 analiza las fechas más significativas de la historia de América Latina y del resto del mundo, poniéndolas en perspectiva con la actualidad.",
-      "inicio": "2026-07-07T00:40:00",
-      "fin": "2026-07-07T00:46:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La entrevista",
-      "descripcion": "Entrevistas con una personalidad francesa o internacional del mundo de la economía, la política, cultura o relaciones internacionales.",
-      "inicio": "2026-07-07T00:46:00",
-      "fin": "2026-07-07T00:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T00:59:00",
-      "fin": "2026-07-07T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-07T01:00:00",
-      "fin": "2026-07-07T01:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T01:29:00",
-      "fin": "2026-07-07T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-07T01:30:00",
-      "fin": "2026-07-07T01:54:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En foco",
-      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
-      "inicio": "2026-07-07T01:54:00",
-      "fin": "2026-07-07T01:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T01:59:00",
-      "fin": "2026-07-07T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-07T02:00:00",
-      "fin": "2026-07-07T02:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T02:29:00",
-      "fin": "2026-07-07T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-07T02:30:00",
-      "fin": "2026-07-07T02:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "África 7 Dias",
-      "descripcion": "Un recuento en 30 minutos de los acontecimientos que marcaron historia en África durante la semana.",
-      "inicio": "2026-07-07T02:45:00",
-      "fin": "2026-07-07T02:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T02:59:00",
-      "fin": "2026-07-07T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-07T03:00:00",
-      "fin": "2026-07-07T03:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Reporteros",
-      "descripcion": "Un equipo de reporteros de France 24 aborda un tema en profundidad o analiza un hecho destacado de la actualidad.",
-      "inicio": "2026-07-07T03:15:00",
-      "fin": "2026-07-07T03:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T03:29:00",
-      "fin": "2026-07-07T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
-      "inicio": "2026-07-07T03:30:00",
-      "fin": "2026-07-07T03:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Escala en París",
-      "descripcion": "Una cita semanal con personalidades de las artes, la ciencia, la política y el deporte. Más que una escala, un puente entre París y América Latina.",
-      "inicio": "2026-07-07T03:45:00",
-      "fin": "2026-07-07T03:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T03:59:00",
-      "fin": "2026-07-07T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-07T04:00:00",
-      "fin": "2026-07-07T04:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Revista de prensa",
-      "descripcion": "Información breve centrada en las noticias más importantes de la actualidad nacional e internacional.",
-      "inicio": "2026-07-07T04:15:00",
-      "fin": "2026-07-07T04:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El debate",
-      "descripcion": "Cuatro invitados debaten el tema del día.",
-      "inicio": "2026-07-07T04:20:00",
-      "fin": "2026-07-07T04:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T04:59:00",
-      "fin": "2026-07-07T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-07T05:00:00",
-      "fin": "2026-07-07T05:16:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Invitad@ del día",
-      "descripcion": "Conversaciones con diversos expertos para conocer nuevas perspectivas sobre los grandes temas de cada jornada.",
-      "inicio": "2026-07-07T05:16:00",
-      "fin": "2026-07-07T05:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T05:29:00",
-      "fin": "2026-07-07T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
-      "inicio": "2026-07-07T05:30:00",
-      "fin": "2026-07-07T05:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Boleto de vuelta",
-      "descripcion": "Los reporteros y corresponsales de France 24 vuelven a lugares que en el pasado estuvieron en primera plana de la actualidad por haber sufrido guerras y desastres naturales o industriales, con el propósito de mostrar cómo viven hoy sus habitantes.",
-      "inicio": "2026-07-07T05:45:00",
-      "fin": "2026-07-07T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El mundo ahora",
-      "descripcion": "Las noticias clave del día en América Latina y el mundo, destacando los temas más importantes de salud, economía y deportes, junto con los análisis de invitados y corresponsales.",
-      "inicio": "2026-07-07T06:00:00",
-      "fin": "2026-07-07T06:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T06:29:00",
-      "fin": "2026-07-07T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "El mundo ahora",
-      "descripcion": "Las noticias clave del día en América Latina y el mundo, destacando los temas más importantes de salud, economía y deportes, junto con los análisis de invitados y corresponsales.",
-      "inicio": "2026-07-07T06:30:00",
-      "fin": "2026-07-07T06:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-07-07T06:45:00",
-      "fin": "2026-07-07T06:52:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En foco",
-      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
-      "inicio": "2026-07-07T06:52:00",
-      "fin": "2026-07-07T06:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T06:59:00",
-      "fin": "2026-07-07T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "El mundo ahora",
-      "descripcion": "Las noticias clave del día en América Latina y el mundo, destacando los temas más importantes de salud, economía y deportes, junto con los análisis de invitados y corresponsales.",
-      "inicio": "2026-07-07T07:00:00",
-      "fin": "2026-07-07T07:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T07:29:00",
-      "fin": "2026-07-07T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "El mundo ahora",
-      "descripcion": "Las noticias clave del día en América Latina y el mundo, destacando los temas más importantes de salud, economía y deportes, junto con los análisis de invitados y corresponsales.",
-      "inicio": "2026-07-07T07:30:00",
-      "fin": "2026-07-07T07:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Historia",
-      "descripcion": "France 24 analiza las fechas más significativas de la historia de América Latina y del resto del mundo, poniéndolas en perspectiva con la actualidad.",
-      "inicio": "2026-07-07T07:50:00",
-      "fin": "2026-07-07T07:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Información meteorológica de todo el mundo.",
-      "inicio": "2026-07-07T07:59:00",
-      "fin": "2026-07-07T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
-      "inicio": "2026-07-07T08:00:00",
-      "fin": "2026-07-07T08:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
     {
       "titulo": "África 7 Dias",
       "descripcion": "Un recuento en 30 minutos de los acontecimientos que marcaron historia en África durante la semana.",
@@ -1028,6 +48,1035 @@
       "inicio": "2026-07-07T08:59:00",
       "fin": "2026-07-07T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-07T09:00:00",
+      "fin": "2026-07-07T09:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-07-07T09:15:00",
+      "fin": "2026-07-07T09:21:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Invitad@ del día",
+      "descripcion": "Conversaciones con diversos expertos para conocer nuevas perspectivas sobre los grandes temas de cada jornada.",
+      "inicio": "2026-07-07T09:21:00",
+      "fin": "2026-07-07T09:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T09:29:00",
+      "fin": "2026-07-07T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-07T09:30:00",
+      "fin": "2026-07-07T09:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "En Primera Plana",
+      "descripcion": "Analistas y corresponsales de la prensa extranjera basados en París comentan lo más candente de la actualidad. Una mirada aguda desde la Ciudad Luz.",
+      "inicio": "2026-07-07T09:45:00",
+      "fin": "2026-07-07T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-07T10:00:00",
+      "fin": "2026-07-07T10:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "En Primera Plana",
+      "descripcion": "Analistas y corresponsales de la prensa extranjera basados en París comentan lo más candente de la actualidad. Una mirada aguda desde la Ciudad Luz.",
+      "inicio": "2026-07-07T10:15:00",
+      "fin": "2026-07-07T10:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T10:29:00",
+      "fin": "2026-07-07T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-07T10:30:00",
+      "fin": "2026-07-07T10:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-07-07T10:45:00",
+      "fin": "2026-07-07T10:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Migrantes",
+      "descripcion": "Entrevistas a mexicanos que se mudaron a los Estados Unidos y los placeres de la cultura mexicana que extrañan.",
+      "inicio": "2026-07-07T10:53:00",
+      "fin": "2026-07-07T10:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T10:59:00",
+      "fin": "2026-07-07T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-07-07T11:00:00",
+      "fin": "2026-07-07T11:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "La entrevista",
+      "descripcion": "Entrevistas con una personalidad francesa o internacional del mundo de la economía, la política, cultura o relaciones internacionales.",
+      "inicio": "2026-07-07T11:15:00",
+      "fin": "2026-07-07T11:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T11:29:00",
+      "fin": "2026-07-07T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-07-07T11:30:00",
+      "fin": "2026-07-07T11:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Reporteros",
+      "descripcion": "Un equipo de reporteros de France 24 aborda un tema en profundidad o analiza un hecho destacado de la actualidad.",
+      "inicio": "2026-07-07T11:45:00",
+      "fin": "2026-07-07T11:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T11:59:00",
+      "fin": "2026-07-07T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-07-07T12:00:00",
+      "fin": "2026-07-07T12:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Directo América",
+      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
+      "inicio": "2026-07-07T12:10:00",
+      "fin": "2026-07-07T12:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los observadores",
+      "descripcion": "Fotografías, videos y testimonios de personas que no se dedican profesionalmente al periodismo, pero que se encuentran al pie de la noticia. Información que llega desde todos los confines del mundo.",
+      "inicio": "2026-07-07T12:20:00",
+      "fin": "2026-07-07T12:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T12:29:00",
+      "fin": "2026-07-07T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-07-07T12:30:00",
+      "fin": "2026-07-07T12:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-07-07T12:40:00",
+      "fin": "2026-07-07T12:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Medio Ambiente",
+      "descripcion": "Calentamiento global, especies en extinción, destrucción de bosques, contaminación: la Tierra es un planeta con muchas amenazas, pero también lleno de ideas innovadoras y soluciones sostenibles.",
+      "inicio": "2026-07-07T12:45:00",
+      "fin": "2026-07-07T12:51:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Des-informando",
+      "descripcion": "Un programa dedicado a la verificación de hechos en medio del mar de desinformación presente en las redes sociales.",
+      "inicio": "2026-07-07T12:51:00",
+      "fin": "2026-07-07T12:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T12:59:00",
+      "fin": "2026-07-07T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Contexto global",
+      "descripcion": "Las noticias clave de América Latina y el mundo, y un análisis completo de las principales conclusiones del día en vivo.",
+      "inicio": "2026-07-07T13:00:00",
+      "fin": "2026-07-07T13:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El debate",
+      "descripcion": "Cuatro invitados debaten el tema del día.",
+      "inicio": "2026-07-07T13:20:00",
+      "fin": "2026-07-07T13:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T13:59:00",
+      "fin": "2026-07-07T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Contexto global",
+      "descripcion": "Las noticias clave de América Latina y el mundo, y un análisis completo de las principales conclusiones del día en vivo.",
+      "inicio": "2026-07-07T14:00:00",
+      "fin": "2026-07-07T14:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Directo América",
+      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
+      "inicio": "2026-07-07T14:15:00",
+      "fin": "2026-07-07T14:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T14:29:00",
+      "fin": "2026-07-07T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Contexto global",
+      "descripcion": "Las noticias clave de América Latina y el mundo, y un análisis completo de las principales conclusiones del día en vivo.",
+      "inicio": "2026-07-07T14:30:00",
+      "fin": "2026-07-07T14:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Expreso de Oriente",
+      "descripcion": "Una mirada retrospectiva a una semana de noticias en el Medio Oriente con informes de los corresponsales de France 24 en la región.",
+      "inicio": "2026-07-07T14:45:00",
+      "fin": "2026-07-07T14:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T14:59:00",
+      "fin": "2026-07-07T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-07-07T15:00:00",
+      "fin": "2026-07-07T15:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Deportes",
+      "descripcion": "La actualidad deportiva del día en el mundo con los periodistas de France 24, en una revista ilustrada desde los terrenos de juego y fuera de ellos.",
+      "inicio": "2026-07-07T15:15:00",
+      "fin": "2026-07-07T15:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Migrantes",
+      "descripcion": "Entrevistas a mexicanos que se mudaron a los Estados Unidos y los placeres de la cultura mexicana que extrañan.",
+      "inicio": "2026-07-07T15:20:00",
+      "fin": "2026-07-07T15:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T15:29:00",
+      "fin": "2026-07-07T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-07-07T15:30:00",
+      "fin": "2026-07-07T15:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Ellas Hoy",
+      "descripcion": "El programa de quienes impulsan el cambio en un mundo todavía muy dominado por los hombres. Una cita con iniciativas de hombres y mujeres que luchan por formar sociedades en las que haya mayor igualdad de género.",
+      "inicio": "2026-07-07T15:45:00",
+      "fin": "2026-07-07T15:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T15:59:00",
+      "fin": "2026-07-07T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-07-07T16:00:00",
+      "fin": "2026-07-07T16:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "El debate",
+      "descripcion": "Cuatro invitados debaten el tema del día.",
+      "inicio": "2026-07-07T16:15:00",
+      "fin": "2026-07-07T16:54:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-07-07T16:54:00",
+      "fin": "2026-07-07T16:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T16:59:00",
+      "fin": "2026-07-07T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-07-07T17:00:00",
+      "fin": "2026-07-07T17:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Aquí América",
+      "descripcion": "Programa donde se ofrece una mirada diferente de la información del continente americano.",
+      "inicio": "2026-07-07T17:10:00",
+      "fin": "2026-07-07T17:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En 5 minutos",
+      "descripcion": "Entrevistas a expertos y protagonistas de noticias. Se brinda información sobre el acontecer nacional e internacional.",
+      "inicio": "2026-07-07T17:23:00",
+      "fin": "2026-07-07T17:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T17:29:00",
+      "fin": "2026-07-07T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-07T17:30:00",
+      "fin": "2026-07-07T17:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Ellas Hoy",
+      "descripcion": "El programa de quienes impulsan el cambio en un mundo todavía muy dominado por los hombres. Una cita con iniciativas de hombres y mujeres que luchan por formar sociedades en las que haya mayor igualdad de género.",
+      "inicio": "2026-07-07T17:40:00",
+      "fin": "2026-07-07T17:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Des-informando",
+      "descripcion": "Un programa dedicado a la verificación de hechos en medio del mar de desinformación presente en las redes sociales.",
+      "inicio": "2026-07-07T17:53:00",
+      "fin": "2026-07-07T17:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T17:59:00",
+      "fin": "2026-07-07T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-07T18:00:00",
+      "fin": "2026-07-07T18:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Medio Ambiente",
+      "descripcion": "Calentamiento global, especies en extinción, destrucción de bosques, contaminación: la Tierra es un planeta con muchas amenazas, pero también lleno de ideas innovadoras y soluciones sostenibles.",
+      "inicio": "2026-07-07T18:10:00",
+      "fin": "2026-07-07T18:16:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "África 7 Dias",
+      "descripcion": "Un recuento en 30 minutos de los acontecimientos que marcaron historia en África durante la semana.",
+      "inicio": "2026-07-07T18:16:00",
+      "fin": "2026-07-07T18:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T18:29:00",
+      "fin": "2026-07-07T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Directo América",
+      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
+      "inicio": "2026-07-07T18:30:00",
+      "fin": "2026-07-07T18:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La entrevista",
+      "descripcion": "Entrevistas con una personalidad francesa o internacional del mundo de la economía, la política, cultura o relaciones internacionales.",
+      "inicio": "2026-07-07T18:40:00",
+      "fin": "2026-07-07T18:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-07-07T18:53:00",
+      "fin": "2026-07-07T18:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T18:59:00",
+      "fin": "2026-07-07T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-07T19:00:00",
+      "fin": "2026-07-07T19:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "El debate",
+      "descripcion": "Cuatro invitados debaten el tema del día.",
+      "inicio": "2026-07-07T19:10:00",
+      "fin": "2026-07-07T19:46:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-07-07T19:46:00",
+      "fin": "2026-07-07T19:52:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Des-informando",
+      "descripcion": "Un programa dedicado a la verificación de hechos en medio del mar de desinformación presente en las redes sociales.",
+      "inicio": "2026-07-07T19:52:00",
+      "fin": "2026-07-07T19:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T19:59:00",
+      "fin": "2026-07-07T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-07T20:00:00",
+      "fin": "2026-07-07T20:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Historia",
+      "descripcion": "France 24 analiza las fechas más significativas de la historia de América Latina y del resto del mundo, poniéndolas en perspectiva con la actualidad.",
+      "inicio": "2026-07-07T20:10:00",
+      "fin": "2026-07-07T20:16:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Expreso de Oriente",
+      "descripcion": "Una mirada retrospectiva a una semana de noticias en el Medio Oriente con informes de los corresponsales de France 24 en la región.",
+      "inicio": "2026-07-07T20:16:00",
+      "fin": "2026-07-07T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-07T20:30:00",
+      "fin": "2026-07-07T20:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Los observadores",
+      "descripcion": "Fotografías, videos y testimonios de personas que no se dedican profesionalmente al periodismo, pero que se encuentran al pie de la noticia. Información que llega desde todos los confines del mundo.",
+      "inicio": "2026-07-07T20:40:00",
+      "fin": "2026-07-07T20:46:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Migrantes",
+      "descripcion": "Entrevistas a mexicanos que se mudaron a los Estados Unidos y los placeres de la cultura mexicana que extrañan.",
+      "inicio": "2026-07-07T20:46:00",
+      "fin": "2026-07-07T20:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-07-07T20:53:00",
+      "fin": "2026-07-07T20:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T20:59:00",
+      "fin": "2026-07-07T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-07T21:00:00",
+      "fin": "2026-07-07T21:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "África 7 Dias",
+      "descripcion": "Un recuento en 30 minutos de los acontecimientos que marcaron historia en África durante la semana.",
+      "inicio": "2026-07-07T21:10:00",
+      "fin": "2026-07-07T21:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En 5 minutos",
+      "descripcion": "Entrevistas a expertos y protagonistas de noticias. Se brinda información sobre el acontecer nacional e internacional.",
+      "inicio": "2026-07-07T21:23:00",
+      "fin": "2026-07-07T21:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T21:29:00",
+      "fin": "2026-07-07T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-07-07T21:30:00",
+      "fin": "2026-07-07T21:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Ellas Hoy",
+      "descripcion": "El programa de quienes impulsan el cambio en un mundo todavía muy dominado por los hombres. Una cita con iniciativas de hombres y mujeres que luchan por formar sociedades en las que haya mayor igualdad de género.",
+      "inicio": "2026-07-07T21:40:00",
+      "fin": "2026-07-07T21:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Medio Ambiente",
+      "descripcion": "Calentamiento global, especies en extinción, destrucción de bosques, contaminación: la Tierra es un planeta con muchas amenazas, pero también lleno de ideas innovadoras y soluciones sostenibles.",
+      "inicio": "2026-07-07T21:53:00",
+      "fin": "2026-07-07T21:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T21:59:00",
+      "fin": "2026-07-07T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-07-07T22:00:00",
+      "fin": "2026-07-07T22:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "La entrevista",
+      "descripcion": "Entrevistas con una personalidad francesa o internacional del mundo de la economía, la política, cultura o relaciones internacionales.",
+      "inicio": "2026-07-07T22:10:00",
+      "fin": "2026-07-07T22:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-07-07T22:23:00",
+      "fin": "2026-07-07T22:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T22:29:00",
+      "fin": "2026-07-07T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-07-07T22:30:00",
+      "fin": "2026-07-07T22:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Boleto de vuelta",
+      "descripcion": "Los reporteros y corresponsales de France 24 vuelven a lugares que en el pasado estuvieron en primera plana de la actualidad por haber sufrido guerras y desastres naturales o industriales, con el propósito de mostrar cómo viven hoy sus habitantes.",
+      "inicio": "2026-07-07T22:40:00",
+      "fin": "2026-07-07T22:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T22:59:00",
+      "fin": "2026-07-07T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-07T23:00:00",
+      "fin": "2026-07-07T23:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Aquí América",
+      "descripcion": "Programa donde se ofrece una mirada diferente de la información del continente americano.",
+      "inicio": "2026-07-07T23:10:00",
+      "fin": "2026-07-07T23:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-07-07T23:23:00",
+      "fin": "2026-07-07T23:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T23:29:00",
+      "fin": "2026-07-07T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Directo América",
+      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
+      "inicio": "2026-07-07T23:30:00",
+      "fin": "2026-07-07T23:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Reporteros",
+      "descripcion": "Un equipo de reporteros de France 24 aborda un tema en profundidad o analiza un hecho destacado de la actualidad.",
+      "inicio": "2026-07-07T23:40:00",
+      "fin": "2026-07-07T23:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-07T23:59:00",
+      "fin": "2026-07-08T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-08T00:00:00",
+      "fin": "2026-07-08T00:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "El Expreso de Oriente",
+      "descripcion": "Una mirada retrospectiva a una semana de noticias en el Medio Oriente con informes de los corresponsales de France 24 en la región.",
+      "inicio": "2026-07-08T00:10:00",
+      "fin": "2026-07-08T00:24:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-07-08T00:24:00",
+      "fin": "2026-07-08T00:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T00:29:00",
+      "fin": "2026-07-08T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-08T00:30:00",
+      "fin": "2026-07-08T00:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Medio Ambiente",
+      "descripcion": "Calentamiento global, especies en extinción, destrucción de bosques, contaminación: la Tierra es un planeta con muchas amenazas, pero también lleno de ideas innovadoras y soluciones sostenibles.",
+      "inicio": "2026-07-08T00:40:00",
+      "fin": "2026-07-08T00:46:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ellas Hoy",
+      "descripcion": "El programa de quienes impulsan el cambio en un mundo todavía muy dominado por los hombres. Una cita con iniciativas de hombres y mujeres que luchan por formar sociedades en las que haya mayor igualdad de género.",
+      "inicio": "2026-07-08T00:46:00",
+      "fin": "2026-07-08T00:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T00:59:00",
+      "fin": "2026-07-08T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Directo América",
+      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
+      "inicio": "2026-07-08T01:00:00",
+      "fin": "2026-07-08T01:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T01:29:00",
+      "fin": "2026-07-08T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Directo América",
+      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
+      "inicio": "2026-07-08T01:30:00",
+      "fin": "2026-07-08T01:54:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-07-08T01:54:00",
+      "fin": "2026-07-08T01:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T01:59:00",
+      "fin": "2026-07-08T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Directo América",
+      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
+      "inicio": "2026-07-08T02:00:00",
+      "fin": "2026-07-08T02:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T02:29:00",
+      "fin": "2026-07-08T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Directo América",
+      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
+      "inicio": "2026-07-08T02:30:00",
+      "fin": "2026-07-08T02:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Expreso de Oriente",
+      "descripcion": "Una mirada retrospectiva a una semana de noticias en el Medio Oriente con informes de los corresponsales de France 24 en la región.",
+      "inicio": "2026-07-08T02:45:00",
+      "fin": "2026-07-08T02:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T02:59:00",
+      "fin": "2026-07-08T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Directo América",
+      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
+      "inicio": "2026-07-08T03:00:00",
+      "fin": "2026-07-08T03:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los observadores",
+      "descripcion": "Fotografías, videos y testimonios de personas que no se dedican profesionalmente al periodismo, pero que se encuentran al pie de la noticia. Información que llega desde todos los confines del mundo.",
+      "inicio": "2026-07-08T03:15:00",
+      "fin": "2026-07-08T03:24:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-07-08T03:24:00",
+      "fin": "2026-07-08T03:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T03:29:00",
+      "fin": "2026-07-08T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-08T03:30:00",
+      "fin": "2026-07-08T03:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "La entrevista",
+      "descripcion": "Entrevistas con una personalidad francesa o internacional del mundo de la economía, la política, cultura o relaciones internacionales.",
+      "inicio": "2026-07-08T03:45:00",
+      "fin": "2026-07-08T03:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T03:59:00",
+      "fin": "2026-07-08T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-08T04:00:00",
+      "fin": "2026-07-08T04:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Revista de prensa",
+      "descripcion": "Información breve centrada en las noticias más importantes de la actualidad nacional e internacional.",
+      "inicio": "2026-07-08T04:15:00",
+      "fin": "2026-07-08T04:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El debate",
+      "descripcion": "Cuatro invitados debaten el tema del día.",
+      "inicio": "2026-07-08T04:20:00",
+      "fin": "2026-07-08T04:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T04:59:00",
+      "fin": "2026-07-08T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Directo América",
+      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
+      "inicio": "2026-07-08T05:00:00",
+      "fin": "2026-07-08T05:16:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Invitad@ del día",
+      "descripcion": "Conversaciones con diversos expertos para conocer nuevas perspectivas sobre los grandes temas de cada jornada.",
+      "inicio": "2026-07-08T05:16:00",
+      "fin": "2026-07-08T05:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T05:29:00",
+      "fin": "2026-07-08T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
+      "inicio": "2026-07-08T05:30:00",
+      "fin": "2026-07-08T05:46:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Ellas Hoy",
+      "descripcion": "El programa de quienes impulsan el cambio en un mundo todavía muy dominado por los hombres. Una cita con iniciativas de hombres y mujeres que luchan por formar sociedades en las que haya mayor igualdad de género.",
+      "inicio": "2026-07-08T05:46:00",
+      "fin": "2026-07-08T05:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T05:59:00",
+      "fin": "2026-07-08T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "El mundo ahora",
+      "descripcion": "Las noticias clave del día en América Latina y el mundo, destacando los temas más importantes de salud, economía y deportes, junto con los análisis de invitados y corresponsales.",
+      "inicio": "2026-07-08T06:00:00",
+      "fin": "2026-07-08T06:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T06:29:00",
+      "fin": "2026-07-08T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "El mundo ahora",
+      "descripcion": "Las noticias clave del día en América Latina y el mundo, destacando los temas más importantes de salud, economía y deportes, junto con los análisis de invitados y corresponsales.",
+      "inicio": "2026-07-08T06:30:00",
+      "fin": "2026-07-08T06:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Directo América",
+      "descripcion": "Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
+      "inicio": "2026-07-08T06:45:00",
+      "fin": "2026-07-08T06:52:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-07-08T06:52:00",
+      "fin": "2026-07-08T06:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T06:59:00",
+      "fin": "2026-07-08T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "El mundo ahora",
+      "descripcion": "Las noticias clave del día en América Latina y el mundo, destacando los temas más importantes de salud, economía y deportes, junto con los análisis de invitados y corresponsales.",
+      "inicio": "2026-07-08T07:00:00",
+      "fin": "2026-07-08T07:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T07:29:00",
+      "fin": "2026-07-08T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "El mundo ahora",
+      "descripcion": "Las noticias clave del día en América Latina y el mundo, destacando los temas más importantes de salud, economía y deportes, junto con los análisis de invitados y corresponsales.",
+      "inicio": "2026-07-08T07:30:00",
+      "fin": "2026-07-08T07:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Medio Ambiente",
+      "descripcion": "Calentamiento global, especies en extinción, destrucción de bosques, contaminación: la Tierra es un planeta con muchas amenazas, pero también lleno de ideas innovadoras y soluciones sostenibles.",
+      "inicio": "2026-07-08T07:50:00",
+      "fin": "2026-07-08T07:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-07-08T07:59:00",
+      "fin": "2026-07-08T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-07-08T08:00:00",
+      "fin": "2026-07-08T08:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "El Expreso de Oriente",
+      "descripcion": "Una mirada retrospectiva a una semana de noticias en el Medio Oriente con informes de los corresponsales de France 24 en la región.",
+      "inicio": "2026-07-08T08:15:00",
+      "fin": "2026-07-08T08:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
