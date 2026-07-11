@@ -1,150 +1,178 @@
 {
   "actual": {
-    "titulo": "Longobardi",
-    "descripcion": "Con un estilo ágil y dinámico, Marcelo Longobardi nos ofrece un repaso de los acontecimientos del día y comparte conversaciones detalladas en compañía de diversos expertos.",
-    "inicio": "2026-07-10T07:00:00",
-    "fin": "2026-07-10T09:00:00",
+    "titulo": "Emprendidos",
+    "descripcion": "Un espacio en el que diferentes emprendedores comparten en primera persona sus historias, consejos prácticos y los tips que los ayudaron a alcanzar sus metas comerciales. A su vez, cuenta con un segmento estilo magazine, donde se comparten datos de actualidad y reconocidas figuras revelan el detrás de escena de sus trayectorias profesionales.",
+    "inicio": "2026-07-11T07:00:00",
+    "fin": "2026-07-11T08:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Modo Fontevecchia",
-    "descripcion": "Breaking News, análisis y los mejores columnistas cubriendo los temas más importantes de la Argentina y el mundo.",
-    "inicio": "2026-07-10T09:00:00",
-    "fin": "2026-07-10T12:00:00",
+    "titulo": "Caras y negocios",
+    "descripcion": "Tomás Dente entrevista a emprendedores de PyMEs.",
+    "inicio": "2026-07-11T08:30:00",
+    "fin": "2026-07-11T09:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Longobardi",
-      "descripcion": "Con un estilo ágil y dinámico, Marcelo Longobardi nos ofrece un repaso de los acontecimientos del día y comparte conversaciones detalladas en compañía de diversos expertos.",
-      "inicio": "2026-07-10T07:00:00",
-      "fin": "2026-07-10T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Modo Fontevecchia",
-      "descripcion": "Breaking News, análisis y los mejores columnistas cubriendo los temas más importantes de la Argentina y el mundo.",
-      "inicio": "2026-07-10T09:00:00",
-      "fin": "2026-07-10T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Gossip",
-      "descripcion": "Las últimas primicias, escándalos y tendencias del mundo de las celebridades en un magazine que no nos deja despegar los ojos de la pantalla.",
-      "inicio": "2026-07-10T12:00:00",
-      "fin": "2026-07-10T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Entrometidos",
-      "descripcion": "Las noticias del espectáculo te las informa Tomás Dente y su equipo de panelistas. Primicias exclusivas y la actualidad de tus estrellas favoritas.",
-      "inicio": "2026-07-10T13:30:00",
-      "fin": "2026-07-10T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Qué te pasa",
-      "descripcion": "Toda la actualidad y el debate con los temas del día.",
-      "inicio": "2026-07-10T15:00:00",
-      "fin": "2026-07-10T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Yuyito a la tarde",
-      "descripcion": "Un magazine con toda la actualidad y las noticias del momento.",
-      "inicio": "2026-07-10T16:30:00",
-      "fin": "2026-07-10T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Modo mundial",
-      "descripcion": "Toda la información y el análisis para vivir la Copa del Mundo.",
-      "inicio": "2026-07-10T18:00:00",
-      "fin": "2026-07-10T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Chiche en vivo",
-      "descripcion": "Con la conducción de Chiche Gelblung. la actualidad bajo la mirada crítica y polémica del emblemático periodista.",
-      "inicio": "2026-07-10T19:00:00",
-      "fin": "2026-07-10T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cine Net",
-      "descripcion": "Un momento ameno y distendido con las películas más taquilleras de los últimos tiempos, las principales figuras y las historias más atrapantes.",
-      "inicio": "2026-07-10T20:00:00",
-      "fin": "2026-07-10T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Señor de los Cielos",
-      "descripcion": "Conoce los pasos de Aurelio Casillas en su odisea por convertirse en el narcotraficante más grande en México. Para lograrlo, deberá sortear toda suerte de obstáculos, en un torbellino de emociones, acciones, pasiones desenfrenadas, lujos, intrigas, traiciones y vértigo. Pero, tras él se encuentra Marco Mejía, un agente de policía obsesionado con capturarlo.",
-      "inicio": "2026-07-10T21:30:00",
-      "fin": "2026-07-10T22:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Biri biri",
-      "descripcion": "El programa donde se habla de todo lo que quema: tendencias, famosos, el mundo digital y esos chismes que no te vas a querer perder. Pablo Muney es el conductor, acompañado por un team que siempre aporta data y picante, integrado por Yami Muney, Cati Pugin, Silva Humorista, Mauri Jortack y Daniel Casalnovo.",
-      "inicio": "2026-07-10T22:15:00",
-      "fin": "2026-07-10T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fórmula fútbol",
-      "descripcion": "Programa que analiza el fútbol.",
-      "inicio": "2026-07-10T23:00:00",
-      "fin": "2026-07-11T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TV compras",
-      "descripcion": "Infomerciales de productos de excelencia para el hogar de 'TV compras'.",
-      "inicio": "2026-07-11T00:00:00",
-      "fin": "2026-07-11T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El valor de tus joyas",
-      "descripcion": "Programa que presenta casos típicos de compra y venta de joyas y alhajas.",
-      "inicio": "2026-07-11T01:00:00",
-      "fin": "2026-07-11T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Señor de los Cielos",
-      "descripcion": "Conoce los pasos de Aurelio Casillas en su odisea por convertirse en el narcotraficante más grande en México. Para lograrlo, deberá sortear toda suerte de obstáculos, en un torbellino de emociones, acciones, pasiones desenfrenadas, lujos, intrigas, traiciones y vértigo. Pero, tras él se encuentra Marco Mejía, un agente de policía obsesionado con capturarlo.",
-      "inicio": "2026-07-11T04:00:00",
-      "fin": "2026-07-11T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TV compras",
-      "descripcion": "Infomerciales de productos de excelencia para el hogar de 'TV compras'.",
-      "inicio": "2026-07-11T05:00:00",
-      "fin": "2026-07-11T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hair Recovery",
-      "descripcion": "Hair Recovery es una institución médica líder en recuperación, prevención y mantenimiento capilar, con casi 20 años de trayectoria en el país.",
-      "inicio": "2026-07-11T06:00:00",
-      "fin": "2026-07-11T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Caras y negocios",
-      "descripcion": "Tomás Dente entrevista a emprendedores de PyMEs.",
-      "inicio": "2026-07-11T06:30:00",
-      "fin": "2026-07-11T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Emprendidos",
       "descripcion": "Un espacio en el que diferentes emprendedores comparten en primera persona sus historias, consejos prácticos y los tips que los ayudaron a alcanzar sus metas comerciales. A su vez, cuenta con un segmento estilo magazine, donde se comparten datos de actualidad y reconocidas figuras revelan el detrás de escena de sus trayectorias profesionales.",
       "inicio": "2026-07-11T07:00:00",
       "fin": "2026-07-11T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Caras y negocios",
+      "descripcion": "Tomás Dente entrevista a emprendedores de PyMEs.",
+      "inicio": "2026-07-11T08:30:00",
+      "fin": "2026-07-11T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Música y palabras de inspiración",
+      "descripcion": "Espacio cultural dedicado al lenguaje universal de la música que trae consigo paz, alegría, amor, optimismo mediante mensajes de inspiración que fortalecerán tu espíritu y visión de la vida para tener una mejor jornada diaria.",
+      "inicio": "2026-07-11T09:30:00",
+      "fin": "2026-07-11T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Estética 360 TV",
+      "descripcion": "Un espacio dedicado a la estética.",
+      "inicio": "2026-07-11T10:00:00",
+      "fin": "2026-07-11T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Desafío 10 años menos",
+      "descripcion": "Un programa de estética, salud y belleza. Ofrece valiosos consejos y tratamientos para el bienestar y el self-care, combinando la experiencia médica con la estética.",
+      "inicio": "2026-07-11T10:30:00",
+      "fin": "2026-07-11T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Realeza",
+      "descripcion": "Espacio dedicado a compartir los últimos acontecimientos que involucran a personajes de la realeza.",
+      "inicio": "2026-07-11T11:00:00",
+      "fin": "2026-07-11T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Argentinos x Argentina",
+      "descripcion": "Cada capítulo está dedicado a un lugar turístico en particular, abarcando temas como la naturaleza, cultura, historia, gastronomía, hotelería, paseos y excursiones.",
+      "inicio": "2026-07-11T11:30:00",
+      "fin": "2026-07-11T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espadas y amores",
+      "descripcion": "Wangquan Fu Gui, un formidable guerrero, y Qing Tong, un espíritu enigmático, se embarcan en una tumultuosa historia de amor plagada de una angustia similar a la de ser atravesados por innumerables flechas.",
+      "inicio": "2026-07-11T12:00:00",
+      "fin": "2026-07-11T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Net TV",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-07-11T15:00:00",
+      "fin": "2026-07-11T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Franquicias que crecen",
+      "descripcion": "Te mostramos el detrás de escena del crecimiento: historias reales, datos claros y herramientas prácticas para inspirarte a emprender.",
+      "inicio": "2026-07-11T18:00:00",
+      "fin": "2026-07-11T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Entre nos",
+      "descripcion": "Tomás Dente te acerca a grandes figuras del espectáculo para que te emociones con sus historias de vida y tengas la oportunidad de conocerlos a fondo. Las entrevistas más vibrantes y sensibles.",
+      "inicio": "2026-07-11T19:00:00",
+      "fin": "2026-07-11T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Net TV",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-07-11T20:00:00",
+      "fin": "2026-07-11T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Señor de los Cielos",
+      "descripcion": "Conoce los pasos de Aurelio Casillas en su odisea por convertirse en el narcotraficante más grande en México. Para lograrlo, deberá sortear toda suerte de obstáculos, en un torbellino de emociones, acciones, pasiones desenfrenadas, lujos, intrigas, traiciones y vértigo. Pero, tras él se encuentra Marco Mejía, un agente de policía obsesionado con capturarlo.",
+      "inicio": "2026-07-11T21:30:00",
+      "fin": "2026-07-11T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bpm",
+      "descripcion": "Los DJ's mas importantes de la música electrónica y grandes invitados.",
+      "inicio": "2026-07-11T22:00:00",
+      "fin": "2026-07-11T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Belleza Fashion",
+      "descripcion": "Un espacio que te lleva de la mano por el emocionante mundo de los peinados, la moda, los desfiles y la vida nocturna.",
+      "inicio": "2026-07-11T23:00:00",
+      "fin": "2026-07-11T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Realeza",
+      "descripcion": "Espacio dedicado a compartir los últimos acontecimientos que involucran a personajes de la realeza.",
+      "inicio": "2026-07-11T23:30:00",
+      "fin": "2026-07-12T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TV compras",
+      "descripcion": "Infomerciales de productos de excelencia para el hogar de 'TV compras'.",
+      "inicio": "2026-07-12T00:00:00",
+      "fin": "2026-07-12T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Desafío 10 años menos",
+      "descripcion": "Un programa de estética, salud y belleza. Ofrece valiosos consejos y tratamientos para el bienestar y el self-care, combinando la experiencia médica con la estética.",
+      "inicio": "2026-07-12T01:00:00",
+      "fin": "2026-07-12T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Señor de los Cielos",
+      "descripcion": "Conoce los pasos de Aurelio Casillas en su odisea por convertirse en el narcotraficante más grande en México. Para lograrlo, deberá sortear toda suerte de obstáculos, en un torbellino de emociones, acciones, pasiones desenfrenadas, lujos, intrigas, traiciones y vértigo. Pero, tras él se encuentra Marco Mejía, un agente de policía obsesionado con capturarlo.",
+      "inicio": "2026-07-12T01:30:00",
+      "fin": "2026-07-12T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fórmula fútbol",
+      "descripcion": "Programa que analiza el fútbol.",
+      "inicio": "2026-07-12T05:00:00",
+      "fin": "2026-07-12T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hair Recovery",
+      "descripcion": "Hair Recovery es una institución médica líder en recuperación, prevención y mantenimiento capilar, con casi 20 años de trayectoria en el país.",
+      "inicio": "2026-07-12T06:00:00",
+      "fin": "2026-07-12T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TV compras",
+      "descripcion": "Infomerciales de productos de excelencia para el hogar de 'TV compras'.",
+      "inicio": "2026-07-12T06:30:00",
+      "fin": "2026-07-12T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Caras y negocios",
+      "descripcion": "Tomás Dente entrevista a emprendedores de PyMEs.",
+      "inicio": "2026-07-12T07:00:00",
+      "fin": "2026-07-12T07:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

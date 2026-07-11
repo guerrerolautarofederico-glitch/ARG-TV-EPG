@@ -1,341 +1,19 @@
 {
   "actual": {
-    "titulo": "Noticias",
-    "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-    "inicio": "2026-07-10T08:00:00",
-    "fin": "2026-07-10T08:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
+    "titulo": "Ahí les va",
+    "descripcion": "Información, pero con algo de humor. Humor, pero con mucha información.",
+    "inicio": "2026-07-11T07:00:00",
+    "fin": "2026-07-11T07:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahilesva.jpg"
   },
   "siguiente": {
-    "titulo": "La lista de Erick • Una noche en el museo",
-    "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
-    "inicio": "2026-07-10T08:30:00",
-    "fin": "2026-07-10T09:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
+    "titulo": "RT reporta",
+    "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
+    "inicio": "2026-07-11T07:30:00",
+    "fin": "2026-07-11T08:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
   },
   "lista": [
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T08:00:00",
-      "fin": "2026-07-10T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "La lista de Erick • Una noche en el museo",
-      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
-      "inicio": "2026-07-10T08:30:00",
-      "fin": "2026-07-10T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
-    },
-    {
-      "titulo": "RT reporta",
-      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
-      "inicio": "2026-07-10T09:00:00",
-      "fin": "2026-07-10T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
-    },
-    {
-      "titulo": "El zoom",
-      "descripcion": "El Zoom nos acerca hasta el más mínimo detalle de los procesos geopolíticos y económicos, nos aporta un enfoque diferente de los acontecimientos de escala mundial y retrata la actualidad desde todos ángulos. Como si fuera una precisa lente de una cámara fotográfica, este nuevo programa de RT les ofrece un primer plano de lo que sucede a su alrededor para separar la mentira de la verdad y enseñarles algunos argumentos, pruebas y opiniones que podrían cambiar su punto de vista. El presentador, Javier Rodríguez Carrasco, usará las imágenes que capta El Zoom para que puedan tener una perspectiva completa de la realidad en su pantalla sin tamices, filtros ni prejuicios.",
-      "inicio": "2026-07-10T09:30:00",
-      "fin": "2026-07-10T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T10:00:00",
-      "fin": "2026-07-10T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "La lista de Erick • Una noche en el museo",
-      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
-      "inicio": "2026-07-10T10:30:00",
-      "fin": "2026-07-10T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T11:00:00",
-      "fin": "2026-07-10T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "RT reporta",
-      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
-      "inicio": "2026-07-10T11:30:00",
-      "fin": "2026-07-10T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T12:00:00",
-      "fin": "2026-07-10T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "El zoom",
-      "descripcion": "El Zoom nos acerca hasta el más mínimo detalle de los procesos geopolíticos y económicos, nos aporta un enfoque diferente de los acontecimientos de escala mundial y retrata la actualidad desde todos ángulos. Como si fuera una precisa lente de una cámara fotográfica, este nuevo programa de RT les ofrece un primer plano de lo que sucede a su alrededor para separar la mentira de la verdad y enseñarles algunos argumentos, pruebas y opiniones que podrían cambiar su punto de vista. El presentador, Javier Rodríguez Carrasco, usará las imágenes que capta El Zoom para que puedan tener una perspectiva completa de la realidad en su pantalla sin tamices, filtros ni prejuicios.",
-      "inicio": "2026-07-10T12:30:00",
-      "fin": "2026-07-10T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T13:00:00",
-      "fin": "2026-07-10T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "La lista de Erick • Una noche en el museo",
-      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
-      "inicio": "2026-07-10T13:30:00",
-      "fin": "2026-07-10T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T14:00:00",
-      "fin": "2026-07-10T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "RT reporta",
-      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
-      "inicio": "2026-07-10T14:30:00",
-      "fin": "2026-07-10T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T15:00:00",
-      "fin": "2026-07-10T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "El zoom",
-      "descripcion": "El Zoom nos acerca hasta el más mínimo detalle de los procesos geopolíticos y económicos, nos aporta un enfoque diferente de los acontecimientos de escala mundial y retrata la actualidad desde todos ángulos. Como si fuera una precisa lente de una cámara fotográfica, este nuevo programa de RT les ofrece un primer plano de lo que sucede a su alrededor para separar la mentira de la verdad y enseñarles algunos argumentos, pruebas y opiniones que podrían cambiar su punto de vista. El presentador, Javier Rodríguez Carrasco, usará las imágenes que capta El Zoom para que puedan tener una perspectiva completa de la realidad en su pantalla sin tamices, filtros ni prejuicios.",
-      "inicio": "2026-07-10T15:30:00",
-      "fin": "2026-07-10T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T16:00:00",
-      "fin": "2026-07-10T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "La lista de Erick • Una noche en el museo",
-      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
-      "inicio": "2026-07-10T16:30:00",
-      "fin": "2026-07-10T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T17:00:00",
-      "fin": "2026-07-10T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "RT reporta",
-      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
-      "inicio": "2026-07-10T17:30:00",
-      "fin": "2026-07-10T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T18:00:00",
-      "fin": "2026-07-10T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "El zoom",
-      "descripcion": "El Zoom nos acerca hasta el más mínimo detalle de los procesos geopolíticos y económicos, nos aporta un enfoque diferente de los acontecimientos de escala mundial y retrata la actualidad desde todos ángulos. Como si fuera una precisa lente de una cámara fotográfica, este nuevo programa de RT les ofrece un primer plano de lo que sucede a su alrededor para separar la mentira de la verdad y enseñarles algunos argumentos, pruebas y opiniones que podrían cambiar su punto de vista. El presentador, Javier Rodríguez Carrasco, usará las imágenes que capta El Zoom para que puedan tener una perspectiva completa de la realidad en su pantalla sin tamices, filtros ni prejuicios.",
-      "inicio": "2026-07-10T18:30:00",
-      "fin": "2026-07-10T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T19:00:00",
-      "fin": "2026-07-10T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "La lista de Erick • Una noche en el museo",
-      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
-      "inicio": "2026-07-10T19:30:00",
-      "fin": "2026-07-10T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T20:00:00",
-      "fin": "2026-07-10T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "RT reporta",
-      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
-      "inicio": "2026-07-10T20:30:00",
-      "fin": "2026-07-10T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T21:00:00",
-      "fin": "2026-07-10T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "El zoom",
-      "descripcion": "El Zoom nos acerca hasta el más mínimo detalle de los procesos geopolíticos y económicos, nos aporta un enfoque diferente de los acontecimientos de escala mundial y retrata la actualidad desde todos ángulos. Como si fuera una precisa lente de una cámara fotográfica, este nuevo programa de RT les ofrece un primer plano de lo que sucede a su alrededor para separar la mentira de la verdad y enseñarles algunos argumentos, pruebas y opiniones que podrían cambiar su punto de vista. El presentador, Javier Rodríguez Carrasco, usará las imágenes que capta El Zoom para que puedan tener una perspectiva completa de la realidad en su pantalla sin tamices, filtros ni prejuicios.",
-      "inicio": "2026-07-10T21:30:00",
-      "fin": "2026-07-10T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T22:00:00",
-      "fin": "2026-07-10T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "La lista de Erick • Una noche en el museo",
-      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
-      "inicio": "2026-07-10T22:30:00",
-      "fin": "2026-07-10T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
-      "inicio": "2026-07-10T23:00:00",
-      "fin": "2026-07-10T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
-    },
-    {
-      "titulo": "RT reporta",
-      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
-      "inicio": "2026-07-10T23:30:00",
-      "fin": "2026-07-11T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
-    },
-    {
-      "titulo": "El zoom",
-      "descripcion": "El Zoom nos acerca hasta el más mínimo detalle de los procesos geopolíticos y económicos, nos aporta un enfoque diferente de los acontecimientos de escala mundial y retrata la actualidad desde todos ángulos. Como si fuera una precisa lente de una cámara fotográfica, este nuevo programa de RT les ofrece un primer plano de lo que sucede a su alrededor para separar la mentira de la verdad y enseñarles algunos argumentos, pruebas y opiniones que podrían cambiar su punto de vista. El presentador, Javier Rodríguez Carrasco, usará las imágenes que capta El Zoom para que puedan tener una perspectiva completa de la realidad en su pantalla sin tamices, filtros ni prejuicios.",
-      "inicio": "2026-07-11T00:00:00",
-      "fin": "2026-07-11T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "RT reporta",
-      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
-      "inicio": "2026-07-11T00:30:00",
-      "fin": "2026-07-11T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
-    },
-    {
-      "titulo": "El zoom",
-      "descripcion": "El Zoom nos acerca hasta el más mínimo detalle de los procesos geopolíticos y económicos, nos aporta un enfoque diferente de los acontecimientos de escala mundial y retrata la actualidad desde todos ángulos. Como si fuera una precisa lente de una cámara fotográfica, este nuevo programa de RT les ofrece un primer plano de lo que sucede a su alrededor para separar la mentira de la verdad y enseñarles algunos argumentos, pruebas y opiniones que podrían cambiar su punto de vista. El presentador, Javier Rodríguez Carrasco, usará las imágenes que capta El Zoom para que puedan tener una perspectiva completa de la realidad en su pantalla sin tamices, filtros ni prejuicios.",
-      "inicio": "2026-07-11T01:00:00",
-      "fin": "2026-07-11T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La lista de Erick • Una noche en el museo",
-      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
-      "inicio": "2026-07-11T01:30:00",
-      "fin": "2026-07-11T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
-    },
-    {
-      "titulo": "RT reporta",
-      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
-      "inicio": "2026-07-11T02:00:00",
-      "fin": "2026-07-11T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
-    },
-    {
-      "titulo": "El zoom",
-      "descripcion": "El Zoom nos acerca hasta el más mínimo detalle de los procesos geopolíticos y económicos, nos aporta un enfoque diferente de los acontecimientos de escala mundial y retrata la actualidad desde todos ángulos. Como si fuera una precisa lente de una cámara fotográfica, este nuevo programa de RT les ofrece un primer plano de lo que sucede a su alrededor para separar la mentira de la verdad y enseñarles algunos argumentos, pruebas y opiniones que podrían cambiar su punto de vista. El presentador, Javier Rodríguez Carrasco, usará las imágenes que capta El Zoom para que puedan tener una perspectiva completa de la realidad en su pantalla sin tamices, filtros ni prejuicios.",
-      "inicio": "2026-07-11T02:30:00",
-      "fin": "2026-07-11T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La lista de Erick • Una noche en el museo",
-      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
-      "inicio": "2026-07-11T03:00:00",
-      "fin": "2026-07-11T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
-    },
-    {
-      "titulo": "RT reporta",
-      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
-      "inicio": "2026-07-11T03:30:00",
-      "fin": "2026-07-11T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
-    },
-    {
-      "titulo": "El zoom",
-      "descripcion": "El Zoom nos acerca hasta el más mínimo detalle de los procesos geopolíticos y económicos, nos aporta un enfoque diferente de los acontecimientos de escala mundial y retrata la actualidad desde todos ángulos. Como si fuera una precisa lente de una cámara fotográfica, este nuevo programa de RT les ofrece un primer plano de lo que sucede a su alrededor para separar la mentira de la verdad y enseñarles algunos argumentos, pruebas y opiniones que podrían cambiar su punto de vista. El presentador, Javier Rodríguez Carrasco, usará las imágenes que capta El Zoom para que puedan tener una perspectiva completa de la realidad en su pantalla sin tamices, filtros ni prejuicios.",
-      "inicio": "2026-07-11T04:00:00",
-      "fin": "2026-07-11T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La lista de Erick • Una noche en el museo",
-      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
-      "inicio": "2026-07-11T04:30:00",
-      "fin": "2026-07-11T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
-    },
-    {
-      "titulo": "RT reporta",
-      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
-      "inicio": "2026-07-11T05:00:00",
-      "fin": "2026-07-11T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
-    },
-    {
-      "titulo": "El zoom",
-      "descripcion": "El Zoom nos acerca hasta el más mínimo detalle de los procesos geopolíticos y económicos, nos aporta un enfoque diferente de los acontecimientos de escala mundial y retrata la actualidad desde todos ángulos. Como si fuera una precisa lente de una cámara fotográfica, este nuevo programa de RT les ofrece un primer plano de lo que sucede a su alrededor para separar la mentira de la verdad y enseñarles algunos argumentos, pruebas y opiniones que podrían cambiar su punto de vista. El presentador, Javier Rodríguez Carrasco, usará las imágenes que capta El Zoom para que puedan tener una perspectiva completa de la realidad en su pantalla sin tamices, filtros ni prejuicios.",
-      "inicio": "2026-07-11T05:30:00",
-      "fin": "2026-07-11T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La lista de Erick • Una noche en el museo",
-      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
-      "inicio": "2026-07-11T06:00:00",
-      "fin": "2026-07-11T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
-    },
-    {
-      "titulo": "RT reporta",
-      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
-      "inicio": "2026-07-11T06:30:00",
-      "fin": "2026-07-11T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
-    },
     {
       "titulo": "Ahí les va",
       "descripcion": "Información, pero con algo de humor. Humor, pero con mucha información.",
@@ -356,6 +34,328 @@
       "inicio": "2026-07-11T08:00:00",
       "fin": "2026-07-11T08:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cartassobrelamesa.jpg"
+    },
+    {
+      "titulo": "La lista de Erick • Una noche en el museo",
+      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
+      "inicio": "2026-07-11T08:30:00",
+      "fin": "2026-07-11T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
+    },
+    {
+      "titulo": "Ahí les va",
+      "descripcion": "Información, pero con algo de humor. Humor, pero con mucha información.",
+      "inicio": "2026-07-11T09:00:00",
+      "fin": "2026-07-11T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahilesva.jpg"
+    },
+    {
+      "titulo": "RT reporta",
+      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
+      "inicio": "2026-07-11T09:30:00",
+      "fin": "2026-07-11T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
+      "inicio": "2026-07-11T10:00:00",
+      "fin": "2026-07-11T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
+    },
+    {
+      "titulo": "La lista de Erick • Una noche en el museo",
+      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
+      "inicio": "2026-07-11T10:30:00",
+      "fin": "2026-07-11T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
+    },
+    {
+      "titulo": "Ahí les va",
+      "descripcion": "Información, pero con algo de humor. Humor, pero con mucha información.",
+      "inicio": "2026-07-11T11:00:00",
+      "fin": "2026-07-11T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahilesva.jpg"
+    },
+    {
+      "titulo": "RT reporta",
+      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
+      "inicio": "2026-07-11T11:30:00",
+      "fin": "2026-07-11T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
+      "inicio": "2026-07-11T12:00:00",
+      "fin": "2026-07-11T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
+    },
+    {
+      "titulo": "La lista de Erick • Una noche en el museo",
+      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
+      "inicio": "2026-07-11T12:30:00",
+      "fin": "2026-07-11T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
+    },
+    {
+      "titulo": "Ahí les va",
+      "descripcion": "Información, pero con algo de humor. Humor, pero con mucha información.",
+      "inicio": "2026-07-11T13:00:00",
+      "fin": "2026-07-11T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahilesva.jpg"
+    },
+    {
+      "titulo": "RT reporta",
+      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
+      "inicio": "2026-07-11T13:30:00",
+      "fin": "2026-07-11T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
+      "inicio": "2026-07-11T14:00:00",
+      "fin": "2026-07-11T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
+    },
+    {
+      "titulo": "La lista de Erick • Una noche en el museo",
+      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
+      "inicio": "2026-07-11T14:30:00",
+      "fin": "2026-07-11T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
+    },
+    {
+      "titulo": "Ahí les va",
+      "descripcion": "Información, pero con algo de humor. Humor, pero con mucha información.",
+      "inicio": "2026-07-11T15:00:00",
+      "fin": "2026-07-11T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahilesva.jpg"
+    },
+    {
+      "titulo": "RT reporta",
+      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
+      "inicio": "2026-07-11T15:30:00",
+      "fin": "2026-07-11T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
+    },
+    {
+      "titulo": "Cartas sobre la mesa",
+      "descripcion": "Luis Castro se reúne en un informal debate con expertos y especialistas para comentar junto a una taza de café las jugadas políticas de la actualidad latinoamericana.",
+      "inicio": "2026-07-11T16:00:00",
+      "fin": "2026-07-11T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cartassobrelamesa.jpg"
+    },
+    {
+      "titulo": "La lista de Erick • Una noche en el museo",
+      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
+      "inicio": "2026-07-11T16:30:00",
+      "fin": "2026-07-11T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
+    },
+    {
+      "titulo": "Ahí les va",
+      "descripcion": "Información, pero con algo de humor. Humor, pero con mucha información.",
+      "inicio": "2026-07-11T17:00:00",
+      "fin": "2026-07-11T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahilesva.jpg"
+    },
+    {
+      "titulo": "RT reporta",
+      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
+      "inicio": "2026-07-11T17:30:00",
+      "fin": "2026-07-11T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
+      "inicio": "2026-07-11T18:00:00",
+      "fin": "2026-07-11T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
+    },
+    {
+      "titulo": "La lista de Erick • Una noche en el museo",
+      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
+      "inicio": "2026-07-11T18:30:00",
+      "fin": "2026-07-11T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
+    },
+    {
+      "titulo": "Ahí les va",
+      "descripcion": "Información, pero con algo de humor. Humor, pero con mucha información.",
+      "inicio": "2026-07-11T19:00:00",
+      "fin": "2026-07-11T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahilesva.jpg"
+    },
+    {
+      "titulo": "RT reporta",
+      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
+      "inicio": "2026-07-11T19:30:00",
+      "fin": "2026-07-11T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
+      "inicio": "2026-07-11T20:00:00",
+      "fin": "2026-07-11T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
+    },
+    {
+      "titulo": "La lista de Erick • Una noche en el museo",
+      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
+      "inicio": "2026-07-11T20:30:00",
+      "fin": "2026-07-11T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
+    },
+    {
+      "titulo": "Ahí les va",
+      "descripcion": "Información, pero con algo de humor. Humor, pero con mucha información.",
+      "inicio": "2026-07-11T21:00:00",
+      "fin": "2026-07-11T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahilesva.jpg"
+    },
+    {
+      "titulo": "RT reporta",
+      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
+      "inicio": "2026-07-11T21:30:00",
+      "fin": "2026-07-11T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.",
+      "inicio": "2026-07-11T22:00:00",
+      "fin": "2026-07-11T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0209_noticias.jpg"
+    },
+    {
+      "titulo": "La lista de Erick • Una noche en el museo",
+      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
+      "inicio": "2026-07-11T22:30:00",
+      "fin": "2026-07-11T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
+    },
+    {
+      "titulo": "Ahí les va",
+      "descripcion": "Información, pero con algo de humor. Humor, pero con mucha información.",
+      "inicio": "2026-07-11T23:00:00",
+      "fin": "2026-07-11T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahilesva.jpg"
+    },
+    {
+      "titulo": "RT reporta",
+      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
+      "inicio": "2026-07-11T23:30:00",
+      "fin": "2026-07-12T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
+    },
+    {
+      "titulo": "Cartas sobre la mesa",
+      "descripcion": "Luis Castro se reúne en un informal debate con expertos y especialistas para comentar junto a una taza de café las jugadas políticas de la actualidad latinoamericana.",
+      "inicio": "2026-07-12T00:00:00",
+      "fin": "2026-07-12T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cartassobrelamesa.jpg"
+    },
+    {
+      "titulo": "La lista de Erick • Una noche en el museo",
+      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
+      "inicio": "2026-07-12T00:30:00",
+      "fin": "2026-07-12T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
+    },
+    {
+      "titulo": "Ahí les va",
+      "descripcion": "Información, pero con algo de humor. Humor, pero con mucha información.",
+      "inicio": "2026-07-12T01:00:00",
+      "fin": "2026-07-12T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahilesva.jpg"
+    },
+    {
+      "titulo": "RT reporta",
+      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
+      "inicio": "2026-07-12T01:30:00",
+      "fin": "2026-07-12T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
+    },
+    {
+      "titulo": "Cartas sobre la mesa",
+      "descripcion": "Luis Castro se reúne en un informal debate con expertos y especialistas para comentar junto a una taza de café las jugadas políticas de la actualidad latinoamericana.",
+      "inicio": "2026-07-12T02:00:00",
+      "fin": "2026-07-12T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cartassobrelamesa.jpg"
+    },
+    {
+      "titulo": "La lista de Erick • Una noche en el museo",
+      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
+      "inicio": "2026-07-12T02:30:00",
+      "fin": "2026-07-12T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
+    },
+    {
+      "titulo": "Ahí les va",
+      "descripcion": "Información, pero con algo de humor. Humor, pero con mucha información.",
+      "inicio": "2026-07-12T03:00:00",
+      "fin": "2026-07-12T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahilesva.jpg"
+    },
+    {
+      "titulo": "RT reporta",
+      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
+      "inicio": "2026-07-12T03:30:00",
+      "fin": "2026-07-12T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
+    },
+    {
+      "titulo": "Cartas sobre la mesa",
+      "descripcion": "Luis Castro se reúne en un informal debate con expertos y especialistas para comentar junto a una taza de café las jugadas políticas de la actualidad latinoamericana.",
+      "inicio": "2026-07-12T04:00:00",
+      "fin": "2026-07-12T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cartassobrelamesa.jpg"
+    },
+    {
+      "titulo": "La lista de Erick • Una noche en el museo",
+      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
+      "inicio": "2026-07-12T04:30:00",
+      "fin": "2026-07-12T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
+    },
+    {
+      "titulo": "Ahí les va",
+      "descripcion": "Información, pero con algo de humor. Humor, pero con mucha información.",
+      "inicio": "2026-07-12T05:00:00",
+      "fin": "2026-07-12T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahilesva.jpg"
+    },
+    {
+      "titulo": "RT reporta",
+      "descripcion": "Explosivas declaraciones, gestos imperceptibles, sutiles detalles. Todo lo que los corresponsales experimentan, de primera mano, en el día a día de su trabajo, ahora llega a través de RT reporta. Un programa que permite conocer, a través de la mirada de los periodistas que hacen RT, qué ocurre delante y detrás de las cámaras en cada lugar del mundo donde suceden los hechos que se convierten en noticia.",
+      "inicio": "2026-07-12T05:30:00",
+      "fin": "2026-07-12T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtreporta.jpg"
+    },
+    {
+      "titulo": "Cartas sobre la mesa",
+      "descripcion": "Luis Castro se reúne en un informal debate con expertos y especialistas para comentar junto a una taza de café las jugadas políticas de la actualidad latinoamericana.",
+      "inicio": "2026-07-12T06:00:00",
+      "fin": "2026-07-12T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cartassobrelamesa.jpg"
+    },
+    {
+      "titulo": "La lista de Erick • Una noche en el museo",
+      "descripcion": "Una noche en el museo ║ Erick, un personaje de la idiosincrasia latinoamericana, llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras.",
+      "inicio": "2026-07-12T06:30:00",
+      "fin": "2026-07-12T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lalistadeerick.jpg"
+    },
+    {
+      "titulo": "Rescatando Krasnoarmeisk - Parte I",
+      "descripcion": "Los ataques con drones y la destrucción de barrios enteros en Krasnoarmeisk han transformado la vida cotidiana en una zona de supervivencia. En este contexto, las unidades militares rusas recorren calles para evacuar civiles, repartir ayuda humanitaria y localizar posibles amenazas ocultas entre las ruinas. Pese al riesgo constante, muchos residentes deciden permanecer en su hogar.",
+      "inicio": "2026-07-12T07:00:00",
+      "fin": "2026-07-12T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
