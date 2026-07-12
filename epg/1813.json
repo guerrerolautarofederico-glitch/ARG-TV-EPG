@@ -1,115 +1,101 @@
 {
   "actual": {
-    "titulo": "Mortal Engines",
-    "descripcion": "En un mundo postapocalíptico, miles de años después de la destrucción de la civilización, gigantescas ciudades en movimiento deambulan por la Tierra atacando despiadadamente a pueblos móviles más pequeños. En una de esas colosales urbes, Tom Natsworthy, proveniente de la clase baja de Londres, tendrá que luchar por su vida junto a la peligrosa fugitiva Hester Shaw, y forjar una alianza destinada a cambiar el rumbo del futuro.",
-    "inicio": "2026-07-11T05:00:00",
-    "fin": "2026-07-11T07:15:00",
+    "titulo": "Geo-Tormenta",
+    "descripcion": "La red de satélites diseñada para controlar el clima global empieza a fallar, por lo que un obstinado ingeniero de comunicaciones se ve obligado a trabajar junto a su hermano.",
+    "inicio": "2026-07-12T06:48:00",
+    "fin": "2026-07-12T08:40:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Cómo entrenar a tu dragón 3",
-    "descripcion": "Hipo descubre que Chimuelo no es la única Furia Nocturna y debe buscar el Mundo Oculto, una utopía secreta para descubrir finalmente sus destinos como dragón y jinete.",
-    "inicio": "2026-07-11T07:15:00",
-    "fin": "2026-07-11T09:05:00",
+    "titulo": "The Beekeeper",
+    "descripcion": "Adam Clay se embarca en la misión de matar a los estafadores que provocaron que su casera se suicidara tras robarle dinero para la beneficencia. Verona, la hija de la casera y agente del FBI, sospecha que el enigmático Adam no es quien asegura ser.",
+    "inicio": "2026-07-12T08:40:00",
+    "fin": "2026-07-12T10:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Mortal Engines",
-      "descripcion": "En un mundo postapocalíptico, miles de años después de la destrucción de la civilización, gigantescas ciudades en movimiento deambulan por la Tierra atacando despiadadamente a pueblos móviles más pequeños. En una de esas colosales urbes, Tom Natsworthy, proveniente de la clase baja de Londres, tendrá que luchar por su vida junto a la peligrosa fugitiva Hester Shaw, y forjar una alianza destinada a cambiar el rumbo del futuro.",
-      "inicio": "2026-07-11T05:00:00",
-      "fin": "2026-07-11T07:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cómo entrenar a tu dragón 3",
-      "descripcion": "Hipo descubre que Chimuelo no es la única Furia Nocturna y debe buscar el Mundo Oculto, una utopía secreta para descubrir finalmente sus destinos como dragón y jinete.",
-      "inicio": "2026-07-11T07:15:00",
-      "fin": "2026-07-11T09:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Harry Potter y el cáliz de fuego",
-      "descripcion": "Hogwarts se prepara para el Torneo de los Tres Magos, en el que competirán tres escuelas de hechicería. Para sorpresa de todos, Harry Potter es elegido para participar en la competencia, en la que deberá luchar contra dragones, internarse en el agua y enfrentarse a sus mayores miedos.",
-      "inicio": "2026-07-11T09:05:00",
-      "fin": "2026-07-11T11:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La casa del dragón",
-      "descripcion": "Se centra en la historia de la casa Targaryen, 200 años antes de los acontecimientos de 'Juego de tronos'. Viserys, nieto de Jaehaerys Targaryen, es elegido por los señores de Westeros para ocupar el trono de los siete reinos. Sin embargo, su esencia decente y amable complicará su gobierno y, sobre todo, la elección de su sucesor.",
-      "inicio": "2026-07-11T11:45:00",
-      "fin": "2026-07-11T12:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Teléfono negro 2",
-      "descripcion": "El mal trasciende a la muerte, y el teléfono negro vuelve a sonar cuando el Raptor amenaza a Gwen desde la tumba.",
-      "inicio": "2026-07-11T12:50:00",
-      "fin": "2026-07-11T14:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tornados",
-      "descripcion": "Una ex cazadora de tormentas, que tuvo un devastador encuentro con un tornado durante sus años universitarios, es atraída de regreso a las llanuras abiertas para probar un innovador sistema de seguimiento.",
-      "inicio": "2026-07-11T14:50:00",
-      "fin": "2026-07-11T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Superman",
-      "descripcion": "El multimillonario tecnológico Lex Luthor aprovecha la oportunidad para quitarse de en medio definitivamente al Hombre de Acero. ¿Podrán la reportera Lois Lane y el compañero de cuatro patas de Superman, Krypto, ayudarle antes de que sea tarde.",
-      "inicio": "2026-07-11T17:00:00",
-      "fin": "2026-07-11T19:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Una película de Minecraft",
-      "descripcion": "Cuatro inadaptados son arrastrados por un portal al Overworld, un misterioso lugar que se nutre de la imaginación. Para volver a casa, tendrán que dominar el terreno mientras se embarcan en una búsqueda con un artesano llamado Steve.",
-      "inicio": "2026-07-11T19:15:00",
-      "fin": "2026-07-11T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Wicked For Good",
-      "descripcion": "Elphaba vive en exilio tras ser demonizada como la bruja mala del oeste, y Glinda vive en el palacio de la Ciudad Esmeralda. Un tumulto de personas enojadas se organiza en contra de la bruja mala y ella debe reunirse con Glinda para transformarse.",
-      "inicio": "2026-07-11T21:00:00",
-      "fin": "2026-07-11T23:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Wicked For Good",
-      "descripcion": "Elphaba vive en exilio tras ser demonizada como la bruja mala del oeste, y Glinda vive en el palacio de la Ciudad Esmeralda. Un tumulto de personas enojadas se organiza en contra de la bruja mala y ella debe reunirse con Glinda para transformarse.",
-      "inicio": "2026-07-11T23:25:00",
-      "fin": "2026-07-12T01:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Teléfono negro 2",
-      "descripcion": "El mal trasciende a la muerte, y el teléfono negro vuelve a sonar cuando el Raptor amenaza a Gwen desde la tumba.",
-      "inicio": "2026-07-12T01:50:00",
-      "fin": "2026-07-12T03:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ramy Youssef: In Love",
-      "descripcion": "Ramy interactúa de manera directa con el público mientras aborda una amplia gama de temas, ya sea sobre su matrimonio, su vida como dueño de un perro, la inteligencia artificial o la religión.",
-      "inicio": "2026-07-12T03:50:00",
-      "fin": "2026-07-12T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La trampa",
-      "descripcion": "Un padre y su hija adolescente asisten a un concierto de pop, donde se dan cuenta de que están en el centro de una trama oscura y siniestra.",
-      "inicio": "2026-07-12T05:00:00",
-      "fin": "2026-07-12T06:48:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Geo-Tormenta",
       "descripcion": "La red de satélites diseñada para controlar el clima global empieza a fallar, por lo que un obstinado ingeniero de comunicaciones se ve obligado a trabajar junto a su hermano.",
       "inicio": "2026-07-12T06:48:00",
       "fin": "2026-07-12T08:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Beekeeper",
+      "descripcion": "Adam Clay se embarca en la misión de matar a los estafadores que provocaron que su casera se suicidara tras robarle dinero para la beneficencia. Verona, la hija de la casera y agente del FBI, sospecha que el enigmático Adam no es quien asegura ser.",
+      "inicio": "2026-07-12T08:40:00",
+      "fin": "2026-07-12T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El origen",
+      "descripcion": "Dom Cobb es un ladrón con una extraña habilidad para entrar a los sueños de la gente y robarles los secretos de sus subconscientes. Su habilidad lo ha vuelto muy popular en el mundo del espionaje corporativo, pero ha tenido un gran costo en la gente que ama. Cobb obtiene la oportunidad de redimirse cuando recibe una tarea imposible: plantar una idea en la mente de una persona. Si tiene éxito, será el crimen perfecto, pero un enemigo se anticipa a sus movimientos.",
+      "inicio": "2026-07-12T10:30:00",
+      "fin": "2026-07-12T13:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Interstellar",
+      "descripcion": "Gracias a un descubrimiento, un grupo de científicos y exploradores, encabezados por Cooper, se embarcan en un viaje espacial para encontrar un lugar con las condiciones necesarias para reemplazar a la Tierra y comenzar una nueva vida allí.",
+      "inicio": "2026-07-12T13:05:00",
+      "fin": "2026-07-12T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Batman: El caballero de la noche",
+      "descripcion": "Batman tiene que mantener el equilibrio entre el heroísmo y el vigilantismo para pelear contra un vil criminal conocido como el Guasón, que pretende orillar a Ciudad Gótica a la anarquía.",
+      "inicio": "2026-07-12T16:00:00",
+      "fin": "2026-07-12T18:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Película",
+      "descripcion": "Arte cinematográfico mundial.",
+      "inicio": "2026-07-12T18:40:00",
+      "fin": "2026-07-12T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La casa del dragón",
+      "descripcion": "Se centra en la historia de la casa Targaryen, 200 años antes de los acontecimientos de 'Juego de tronos'. Viserys, nieto de Jaehaerys Targaryen, es elegido por los señores de Westeros para ocupar el trono de los siete reinos. Sin embargo, su esencia decente y amable complicará su gobierno y, sobre todo, la elección de su sucesor.",
+      "inicio": "2026-07-12T21:00:00",
+      "fin": "2026-07-12T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La casa del dragón",
+      "descripcion": "Se centra en la historia de la casa Targaryen, 200 años antes de los acontecimientos de 'Juego de tronos'. Viserys, nieto de Jaehaerys Targaryen, es elegido por los señores de Westeros para ocupar el trono de los siete reinos. Sin embargo, su esencia decente y amable complicará su gobierno y, sobre todo, la elección de su sucesor.",
+      "inicio": "2026-07-12T22:00:00",
+      "fin": "2026-07-12T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Beekeeper",
+      "descripcion": "Adam Clay se embarca en la misión de matar a los estafadores que provocaron que su casera se suicidara tras robarle dinero para la beneficencia. Verona, la hija de la casera y agente del FBI, sospecha que el enigmático Adam no es quien asegura ser.",
+      "inicio": "2026-07-12T23:00:00",
+      "fin": "2026-07-13T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La casa del dragón",
+      "descripcion": "Se centra en la historia de la casa Targaryen, 200 años antes de los acontecimientos de 'Juego de tronos'. Viserys, nieto de Jaehaerys Targaryen, es elegido por los señores de Westeros para ocupar el trono de los siete reinos. Sin embargo, su esencia decente y amable complicará su gobierno y, sobre todo, la elección de su sucesor.",
+      "inicio": "2026-07-13T01:00:00",
+      "fin": "2026-07-13T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rescate del metro 123",
+      "descripcion": "Walter Garber es un controlador del metro de Nueva York que se enfrenta al secuestro de uno de los trenes. Ryder es el líder de una banda criminal que amenaza con ejecutar a los pasajeros del metro si no se le entrega un cuantioso rescate.",
+      "inicio": "2026-07-13T05:00:00",
+      "fin": "2026-07-13T06:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Blackhat",
+      "descripcion": "Un convicto une fuerzas con unos compañeros americanos y chinos para atrapar a una red de alto nivel de crímenes cibernéticos internacionales.",
+      "inicio": "2026-07-13T06:50:00",
+      "fin": "2026-07-13T09:05:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
