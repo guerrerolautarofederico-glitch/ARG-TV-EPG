@@ -1,52 +1,122 @@
 {
   "actual": {
-    "titulo": "El Trece",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-07-16T06:15:00",
-    "fin": "2026-07-16T12:15:00",
+    "titulo": "Arriba argentinos",
+    "descripcion": "La mejor información y todo lo que necesitás saber para arrancar el día. El pronóstico del tiempo, cómo está el tránsito, las noticias de último momento y todo el análisis de lo que pasa en el país en dos horas con la mejor onda.",
+    "inicio": "2026-07-17T06:00:00",
+    "fin": "2026-07-17T08:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "El Trece",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-07-16T12:15:00",
-    "fin": "2026-07-16T18:15:00",
+    "titulo": "La mañana con Moria",
+    "descripcion": "Un provocador magazine de actualidad, con la conducción de Moria Casán y su lengua karateka. El espacio tendrá debates sobre los temas del día, actualidad, policiales, política, espectáculos, salud y entretenimiento.",
+    "inicio": "2026-07-17T08:00:00",
+    "fin": "2026-07-17T09:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "El Trece",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-16T06:15:00",
-      "fin": "2026-07-16T12:15:00",
+      "titulo": "Arriba argentinos",
+      "descripcion": "La mejor información y todo lo que necesitás saber para arrancar el día. El pronóstico del tiempo, cómo está el tránsito, las noticias de último momento y todo el análisis de lo que pasa en el país en dos horas con la mejor onda.",
+      "inicio": "2026-07-17T06:00:00",
+      "fin": "2026-07-17T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La mañana con Moria",
+      "descripcion": "Un provocador magazine de actualidad, con la conducción de Moria Casán y su lengua karateka. El espacio tendrá debates sobre los temas del día, actualidad, policiales, política, espectáculos, salud y entretenimiento.",
+      "inicio": "2026-07-17T08:00:00",
+      "fin": "2026-07-17T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Puro show",
+      "descripcion": "Notas, chismes, móviles en vivo, lo mejor del espectáculo argentino y toda la actualidad, la vivis en un solo lugar, con el estilo único de \"Puro Show\".",
+      "inicio": "2026-07-17T09:30:00",
+      "fin": "2026-07-17T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Zorro",
+      "descripcion": "Montado en su corcel negro, el legendario Zorro lucha contra la injusticia y protege a los más débiles en la California española de principios del siglo XIX.",
+      "inicio": "2026-07-17T11:30:00",
+      "fin": "2026-07-17T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mediodía noticias",
+      "descripcion": "Toda la información sobre lo que pasa en el mundo, en el país y en tu barrio, con la mirada única de un notable equipo de periodistas.",
+      "inicio": "2026-07-17T12:00:00",
+      "fin": "2026-07-17T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La cocina rebelde",
+      "descripcion": "Un magazine vespertino centrado en el mundo de la gastronomía, que contará con un destacado y variado staff de cocineros de la Argentina. A lo largo de cada emisión, pasarán por sus cocinas reconocidos chefs nacionales e internacionales.",
+      "inicio": "2026-07-17T13:30:00",
+      "fin": "2026-07-17T15:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cuestión de peso",
+      "descripcion": "Cuestión de peso es un reality show que presenta a diversas personas con sobrepeso y sigue sus intentos diarios por reducir su peso.",
+      "inicio": "2026-07-17T15:15:00",
+      "fin": "2026-07-17T17:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¡Ahora caigo!",
+      "descripcion": "Los concursantes deberán competir entre ellos en batallas de trivia y así mantenerse de pie sin caer a las fosas del estudio, con el objetivo de ganar miles de pesos.",
+      "inicio": "2026-07-17T17:15:00",
+      "fin": "2026-07-17T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telenoche",
+      "descripcion": "El mejor equipo de profesionales, primero estás vos.",
+      "inicio": "2026-07-17T19:00:00",
+      "fin": "2026-07-17T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Es mi sueño",
+      "descripcion": "Un certamen que combina actuaciones en vivo con relatos personales cargados de emoción. Los participantes deben abrir su corazón, contar qué los trajo hasta ahí y cuál es el sueño que buscan cumplir frente a millones de personas.",
+      "inicio": "2026-07-17T20:00:00",
+      "fin": "2026-07-17T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Otro día perdido",
+      "descripcion": "Un big show donde la actualidad se mezcla con el humor, la ironía y la tecnología en una propuesta de gran despliegue. Monólogos punzantes, entrevistas, inteligencia artificial, bandas en vivo y mucho más.",
+      "inicio": "2026-07-17T21:30:00",
+      "fin": "2026-07-17T23:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En síntesis",
+      "descripcion": "La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.",
+      "inicio": "2026-07-17T23:15:00",
+      "fin": "2026-07-18T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cucinare",
+      "descripcion": "Un programa para deleitarte con recetas sencillas y deliciosas. Con el \"paso a paso\" más completo, de la mano de nuevos referentes de la cocina.",
+      "inicio": "2026-07-18T00:00:00",
+      "fin": "2026-07-18T00:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "El Trece",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-16T12:15:00",
-      "fin": "2026-07-16T18:15:00",
+      "inicio": "2026-07-18T00:15:00",
+      "fin": "2026-07-18T06:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "El Trece",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-16T18:15:00",
-      "fin": "2026-07-17T00:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Trece",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-17T00:15:00",
-      "fin": "2026-07-17T06:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Trece",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-17T06:15:00",
-      "fin": "2026-07-17T12:15:00",
+      "inicio": "2026-07-18T06:15:00",
+      "fin": "2026-07-18T12:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

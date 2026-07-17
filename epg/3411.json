@@ -1,45 +1,80 @@
 {
   "actual": {
     "titulo": "SportsCenter",
-    "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
-    "inicio": "2026-07-16T06:00:00",
-    "fin": "2026-07-16T08:00:00",
+    "descripcion": "Resumen informativo del acontecer deportivo a nivel mundial.",
+    "inicio": "2026-07-17T07:00:00",
+    "fin": "2026-07-17T08:55:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "The ESPYs",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-07-16T08:00:00",
-    "fin": "2026-07-16T23:00:00",
+    "titulo": "Gran Premio de Bélgica, Carrera 1, Circuito de Spa-Francorchamps",
+    "descripcion": "Vive las carreras de clasificación de la 8º edición de la Fórmula 3, el campeonato de automovilismo disputado por monoplazas, organizado bajo el reglamento de Fórmula 3 de la FIA.",
+    "inicio": "2026-07-17T08:55:00",
+    "fin": "2026-07-17T21:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
       "titulo": "SportsCenter",
-      "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
-      "inicio": "2026-07-16T06:00:00",
-      "fin": "2026-07-16T08:00:00",
+      "descripcion": "Resumen informativo del acontecer deportivo a nivel mundial.",
+      "inicio": "2026-07-17T07:00:00",
+      "fin": "2026-07-17T08:55:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "The ESPYs",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-16T08:00:00",
-      "fin": "2026-07-16T23:00:00",
+      "titulo": "Gran Premio de Bélgica, Carrera 1, Circuito de Spa-Francorchamps",
+      "descripcion": "Vive las carreras de clasificación de la 8º edición de la Fórmula 3, el campeonato de automovilismo disputado por monoplazas, organizado bajo el reglamento de Fórmula 3 de la FIA.",
+      "inicio": "2026-07-17T08:55:00",
+      "fin": "2026-07-17T21:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "ESPN",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-16T23:00:00",
-      "fin": "2026-07-17T05:00:00",
+      "titulo": "Argentina vs Gales",
+      "descripcion": "Doce equipos de rugby, del hemisferio norte contra el hemisferio sur, compiten en el Campeonato de Naciones. Seis rondas y un fin de semana de finales sin precedentes determinarán la nación dominante.",
+      "inicio": "2026-07-17T21:30:00",
+      "fin": "2026-07-17T22:35:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "ESPN",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-17T05:00:00",
-      "fin": "2026-07-17T11:00:00",
+      "titulo": "SportsCenter",
+      "descripcion": "Resumen informativo del acontecer deportivo a nivel mundial.",
+      "inicio": "2026-07-17T22:35:00",
+      "fin": "2026-07-18T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Argentina vs Gales",
+      "descripcion": "Doce equipos de rugby, del hemisferio norte contra el hemisferio sur, compiten en el Campeonato de Naciones. Seis rondas y un fin de semana de finales sin precedentes determinarán la nación dominante.",
+      "inicio": "2026-07-18T01:00:00",
+      "fin": "2026-07-18T02:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El show de la Fórmula 1",
+      "descripcion": "Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.",
+      "inicio": "2026-07-18T02:55:00",
+      "fin": "2026-07-18T03:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Gran Premio de Bélgica, Carrera 1, Circuito de Spa-Francorchamps",
+      "descripcion": "Vive las carreras de práctica de la 10º edición de la Fórmula 2, la competición de automovilismo de velocidad creada en el año 2017.",
+      "inicio": "2026-07-18T03:55:00",
+      "fin": "2026-07-18T05:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Gran Premio de Bélgica, Carrera 1, Circuito de Spa-Francorchamps",
+      "descripcion": "Vive las carreras de clasificación de la 10º edición de la Fórmula 2, la competición de automovilismo de velocidad creada en el año 2017.",
+      "inicio": "2026-07-18T05:05:00",
+      "fin": "2026-07-18T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Resumen informativo del acontecer deportivo a nivel mundial.",
+      "inicio": "2026-07-18T06:00:00",
+      "fin": "2026-07-18T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

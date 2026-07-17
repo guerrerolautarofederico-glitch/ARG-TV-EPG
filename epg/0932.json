@@ -1,52 +1,108 @@
 {
   "actual": {
-    "titulo": "C5N Canal 5 Noticias",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-07-16T06:00:00",
-    "fin": "2026-07-16T12:00:00",
+    "titulo": "Mañanas argentinas",
+    "descripcion": "Para informarse mejor. Los destacados de los principales diarios. La más detallada información del día que recién comienza, con móviles en vivo y notas exclusivas.",
+    "inicio": "2026-07-17T05:30:00",
+    "fin": "2026-07-17T09:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "C5N Canal 5 Noticias",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-07-16T12:00:00",
-    "fin": "2026-07-16T18:00:00",
+    "titulo": "La mañana",
+    "descripcion": "Las noticias más destacadas de la mañana minuto a minuto, con entrevistas e historias, con un ritmo ágil y dinámico.",
+    "inicio": "2026-07-17T09:00:00",
+    "fin": "2026-07-17T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "C5N Canal 5 Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-16T06:00:00",
-      "fin": "2026-07-16T12:00:00",
+      "titulo": "Mañanas argentinas",
+      "descripcion": "Para informarse mejor. Los destacados de los principales diarios. La más detallada información del día que recién comienza, con móviles en vivo y notas exclusivas.",
+      "inicio": "2026-07-17T05:30:00",
+      "fin": "2026-07-17T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "C5N Canal 5 Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-16T12:00:00",
-      "fin": "2026-07-16T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "C5N Canal 5 Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-16T18:00:00",
-      "fin": "2026-07-17T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "C5N Canal 5 Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-17T00:00:00",
-      "fin": "2026-07-17T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "C5N Canal 5 Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-17T06:00:00",
+      "titulo": "La mañana",
+      "descripcion": "Las noticias más destacadas de la mañana minuto a minuto, con entrevistas e historias, con un ritmo ágil y dinámico.",
+      "inicio": "2026-07-17T09:00:00",
       "fin": "2026-07-17T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "De una",
+      "descripcion": "Con foco en la actualidad, \"De una\" presta especial atención a las noticias, con dosis de interés general, deportes y espectáculos.",
+      "inicio": "2026-07-17T12:00:00",
+      "fin": "2026-07-17T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Argenzuela",
+      "descripcion": "Un combo de actualidad, política, deportes y espectáculos.",
+      "inicio": "2026-07-17T15:00:00",
+      "fin": "2026-07-17T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El diario",
+      "descripcion": "A la hora del regreso, leemos juntos la actualidad para entender el detrás de escena de la política y las noticias.",
+      "inicio": "2026-07-17T17:00:00",
+      "fin": "2026-07-17T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La última pregunta",
+      "descripcion": "Cuestionamos hechos de la actualidad para obtener respuestas sobre lo que está ocurriendo.",
+      "inicio": "2026-07-17T19:00:00",
+      "fin": "2026-07-17T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Televisión registrada",
+      "descripcion": "El repaso de los temas más importantes de la semana a través de informes que combinan análisis y humor.",
+      "inicio": "2026-07-17T20:30:00",
+      "fin": "2026-07-17T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El expediente",
+      "descripcion": "Programa que investiga los casos policiales más resonantes y realiza un seguimiento minucioso de los criminales más buscados del país.",
+      "inicio": "2026-07-17T22:00:00",
+      "fin": "2026-07-17T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Old Timer",
+      "descripcion": "Los autos que fueron parte de tu infancia, los que manejaba tu viejo y que te hicieron enamorar. Revisamos esos autos de todos los tiempos.",
+      "inicio": "2026-07-17T23:00:00",
+      "fin": "2026-07-17T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Imagen de trabajo",
+      "descripcion": "Espacio dedicado a difundir las actividades específicas del Sindicato Argentino de Televisión, servicios audiovisuales, interactivos y de datos, los temas gremiales y toda la actividad en un contexto amplio y pluralista.",
+      "inicio": "2026-07-17T23:30:00",
+      "fin": "2026-07-18T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El expediente",
+      "descripcion": "Programa que investiga los casos policiales más resonantes y realiza un seguimiento minucioso de los criminales más buscados del país.",
+      "inicio": "2026-07-18T00:00:00",
+      "fin": "2026-07-18T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "C5N Canal 5 Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-07-18T01:00:00",
+      "fin": "2026-07-18T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "C5N Canal 5 Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-07-18T07:00:00",
+      "fin": "2026-07-18T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
