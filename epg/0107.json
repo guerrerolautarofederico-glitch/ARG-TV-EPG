@@ -1,144 +1,123 @@
 {
   "actual": {
-    "titulo": "Teletrece AM",
-    "descripcion": "Informativo matinal con la revisión de las noticias más relevantes de las últimas horas. Además el programa incluye despachos en directo y entrevistas a personajes relevantes del acontecer nacional. Un equipo de periodistas analiza en profundidad los acontecimientos para que el público se informe de la forma más completa.",
-    "inicio": "2026-07-17T06:00:00",
-    "fin": "2026-07-17T07:50:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletreceam.jpg"
+    "titulo": "T13 en vivo",
+    "descripcion": "Ponte al día con las noticias más relevantes de la actualidad.",
+    "inicio": "2026-07-18T03:30:00",
+    "fin": "2026-07-18T07:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Tu día",
-    "descripcion": "En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.",
-    "inicio": "2026-07-17T07:50:00",
-    "fin": "2026-07-17T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tudia.jpg"
+    "titulo": "T13 finde",
+    "descripcion": "Álvaro Paci conversa sobre contingencia, música, panoramas y todos los temas que a la audiencia le importan. Todo ello sin dejar de lado las diversas opiniones en un lenguaje simple y en un estilo más relajado que un noticiero tradicional.",
+    "inicio": "2026-07-18T07:00:00",
+    "fin": "2026-07-18T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13finde.jpg"
   },
   "lista": [
     {
-      "titulo": "Teletrece AM",
-      "descripcion": "Informativo matinal con la revisión de las noticias más relevantes de las últimas horas. Además el programa incluye despachos en directo y entrevistas a personajes relevantes del acontecer nacional. Un equipo de periodistas analiza en profundidad los acontecimientos para que el público se informe de la forma más completa.",
-      "inicio": "2026-07-17T06:00:00",
-      "fin": "2026-07-17T07:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletreceam.jpg"
+      "titulo": "T13 en vivo",
+      "descripcion": "Ponte al día con las noticias más relevantes de la actualidad.",
+      "inicio": "2026-07-18T03:30:00",
+      "fin": "2026-07-18T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
     },
     {
-      "titulo": "Tu día",
-      "descripcion": "En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.",
-      "inicio": "2026-07-17T07:50:00",
-      "fin": "2026-07-17T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tudia.jpg"
+      "titulo": "T13 finde",
+      "descripcion": "Álvaro Paci conversa sobre contingencia, música, panoramas y todos los temas que a la audiencia le importan. Todo ello sin dejar de lado las diversas opiniones en un lenguaje simple y en un estilo más relajado que un noticiero tradicional.",
+      "inicio": "2026-07-18T07:00:00",
+      "fin": "2026-07-18T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13finde.jpg"
     },
     {
       "titulo": "Teletrece tarde",
       "descripcion": "Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.",
-      "inicio": "2026-07-17T13:00:00",
-      "fin": "2026-07-17T14:50:00",
+      "inicio": "2026-07-18T13:00:00",
+      "fin": "2026-07-18T14:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
     },
     {
-      "titulo": "El tiempo",
-      "descripcion": "Espacio que trae información meteorológica nacional e internacional, para que te mantengas actualizado del estado del clima en las próximas horas.",
-      "inicio": "2026-07-17T14:50:00",
-      "fin": "2026-07-17T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_eltiempo.jpg"
+      "titulo": "Especial Prensa",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-07-18T14:30:00",
+      "fin": "2026-07-18T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
     },
     {
-      "titulo": "La tarde es nuestra",
-      "descripcion": "Un espacio con un estilo de periodismo ciudadano que profundizará en los temas reales y cotidianos que preocupan y afectan a todos los habitantes de Chile.",
-      "inicio": "2026-07-17T15:00:00",
-      "fin": "2026-07-17T16:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/latardeesnuestra.jpg"
-    },
-    {
-      "titulo": "Yo soy Betty, la fea",
-      "descripcion": "Betty era una mujer que estaba acostumbrada a la idea de quedarse solterona, una joven poco agraciada que nadie invitaba a salir y que se conformaba con el recuerdo tormentoso de un novio que la dejó a los pocos días. Ella vivía para sacar las mejores notas de la universidad, para hacer cursos y posgrados y con esto hacer feliz a su padre, quien se siente muy orgulloso de su hija.",
-      "inicio": "2026-07-17T16:10:00",
-      "fin": "2026-07-17T17:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yosoybettylafea.jpg"
-    },
-    {
-      "titulo": "¡Hay que decirlo!",
-      "descripcion": "Un espacio para divertir y acompañar las tardes con noticias del mundo del espectáculo y con el humor garantizado. La conducción está a cargo de Pamela Díaz y Nacho Gutiérrez, un grupo de panelistas expertos y destacados invitados.",
-      "inicio": "2026-07-17T17:05:00",
-      "fin": "2026-07-17T19:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hayquedecirlo.jpg"
-    },
-    {
-      "titulo": "¡Qué dice Chile!",
-      "descripcion": "Dos grupos compiten entre sí para nombrar las respuestas más populares de una encuesta con el fin de ganar un premio en dinero. Además, el público participa en vivo y enviando preguntas. Las personas que participan también pueden ganar premios así qe tanto participantes como público lo darán todo.",
-      "inicio": "2026-07-17T19:15:00",
-      "fin": "2026-07-17T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/quedicechile.jpg"
+      "titulo": "Lugares que hablan",
+      "descripcion": "Francisco Saavedra realiza un viaje especial para conocer la geografía de Chile, su gente y sus tradiciones, mostrando diversas locaciones y lugares que, ya sea por su aislamiento o por simple desconocimiento, no están en boca de muchos. En esta ocasión, se sumerge en las gélidas aguas del extremo sur chileno para llegar a la recóndita localidad de Puerto Edén.",
+      "inicio": "2026-07-18T19:15:00",
+      "fin": "2026-07-18T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lugaresquehablan.jpg"
     },
     {
       "titulo": "Teletrece",
       "descripcion": "El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.",
-      "inicio": "2026-07-17T21:00:00",
-      "fin": "2026-07-17T22:25:00",
+      "inicio": "2026-07-18T21:00:00",
+      "fin": "2026-07-18T22:10:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrece.jpg"
     },
     {
       "titulo": "D13 Mundial",
       "descripcion": "Ignacio Valenzuela y Juan Cristóbal Guarello conducen un espacio en el que entregan todos los detalles y novedades de la Copa del Mundo 2026. A través del espacio, el público podrá informarse sobre jugadas, goles, rendimientos y más.",
-      "inicio": "2026-07-17T22:25:00",
-      "fin": "2026-07-17T22:45:00",
+      "inicio": "2026-07-18T22:10:00",
+      "fin": "2026-07-18T22:40:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/d13mundial.jpg"
     },
     {
       "titulo": "El tiempo",
       "descripcion": "Espacio que trae información meteorológica nacional e internacional, para que te mantengas actualizado del estado del clima en las próximas horas.",
-      "inicio": "2026-07-17T22:45:00",
-      "fin": "2026-07-17T22:55:00",
+      "inicio": "2026-07-18T22:40:00",
+      "fin": "2026-07-18T22:50:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_eltiempo.jpg"
     },
     {
-      "titulo": "El Hombre Araña 3",
-      "descripcion": "Peter Parker parece finalmente haber conseguido un equilibrio entre su relación con Mary Jane y sus responsabilidades como súperhéroe. Pero una tormenta amenaza en el horizonte: su traje cambia de repente, volviéndose negro y mejorando sus poderes. Sin embargo, esto viene acompañado de una alteración en él mismo, convirtiéndose en un ser oscuro y vengativo. Obligado a elegir entre el tentador poder que le proporciona el nuevo disfraz y el compasivo ídolo que solía ser, éste deberá vencer sus demonios internos, mientras dos de sus más temidos enemigos, Venom y el Hombre de Arena, utilizarán sus condiciones para calmar su sed de venganza.",
-      "inicio": "2026-07-17T22:55:00",
-      "fin": "2026-07-18T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
+      "titulo": "El clan",
+      "descripcion": "Las cenas clandestinas se están haciendo cada vez más populares en Chile, donde básicamente diferentes cocineros profesionales, o amateurs, realizan una cena informal para mostrar su propuesta gastronómica a un grupo reducido de personas. En este espacio haremos un recorrido por las mejores cenas clandestinas que se están realizando en la ciudad, para mostrar un ambiente poco conocido por algunos, pero muy valorado por otros.",
+      "inicio": "2026-07-18T22:50:00",
+      "fin": "2026-07-19T00:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elclan.jpg"
     },
     {
-      "titulo": "Milf",
-      "descripcion": "Un espacio de conversación y variedades donde predomina la charla amena, el humor y la cotidianidad. El programa se presenta como una reunión entre amigas, abordando la actualidad desde una óptica cercana.",
-      "inicio": "2026-07-18T01:30:00",
-      "fin": "2026-07-18T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/milf.jpg"
+      "titulo": "África salvaje",
+      "descripcion": "Tras el éxito de 'Buscando a Dios' y 'El peregrino', Jorge Said, el aventurero periodista y corresponsal de guerra, regresará a la TV con 'África salvaje', producción del Área del Cultura de Canal 13 que promete cambiar la percepción que tenemos del continente.",
+      "inicio": "2026-07-19T00:40:00",
+      "fin": "2026-07-19T01:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/africasalvaje.jpg"
+    },
+    {
+      "titulo": "Only Comparini",
+      "descripcion": "Un espacio que cada semana tendrá diversos y destacados invitados para conversar y analizar lo que pasa en la actualidad dando lugar a sus distintas perspectivas. El programa será conducido por Marcelo Comparini quien guiará las charlas.",
+      "inicio": "2026-07-19T01:45:00",
+      "fin": "2026-07-19T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/onlycomparini.jpg"
+    },
+    {
+      "titulo": "De buena fuente",
+      "descripcion": "Un podcast que repasa lo más destacado del ámbito del fútbol con humor y análisis. Junto a los periodistas y exfutbolistas Sebastián Molina, Coke Hevia, el exarquero Nicolás Peric y Nacho Pop, el público se informa de forma distendida.",
+      "inicio": "2026-07-19T02:30:00",
+      "fin": "2026-07-19T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/debuenafuente.jpg"
     },
     {
       "titulo": "Dudo",
       "descripcion": "Bajo la conducción de Cristián 'Chico' Pérez, llega Dudo, un espacio que redefine el talk show tradicional con un tono dinámico y relajado. Cada episodio reúne a cuatro invitados que deberán enfrentarse a diversos desafíos lúdicos.",
-      "inicio": "2026-07-18T02:30:00",
-      "fin": "2026-07-18T03:30:00",
+      "inicio": "2026-07-19T03:30:00",
+      "fin": "2026-07-19T04:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dudo.jpg"
-    },
-    {
-      "titulo": "¡Hay que decirlo!",
-      "descripcion": "Un espacio para divertir y acompañar las tardes con noticias del mundo del espectáculo y con el humor garantizado. La conducción está a cargo de Pamela Díaz y Nacho Gutiérrez, un grupo de panelistas expertos y destacados invitados.",
-      "inicio": "2026-07-18T03:30:00",
-      "fin": "2026-07-18T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hayquedecirlo.jpg"
     },
     {
       "titulo": "T13 en vivo",
       "descripcion": "Ponte al día con las noticias más relevantes de la actualidad.",
-      "inicio": "2026-07-18T05:00:00",
-      "fin": "2026-07-18T06:30:00",
+      "inicio": "2026-07-19T04:30:00",
+      "fin": "2026-07-19T06:40:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
     },
     {
       "titulo": "La gracia de viajar",
       "descripcion": "Viaja junto a la fotógrafa María Gracia Subercaseaux a los destinos más exóticos, descubriendo los rincones del mundo, su cultura, su gente, música y gastronomía, y explorar el mundo desde otra perspectiva.",
-      "inicio": "2026-07-18T06:30:00",
-      "fin": "2026-07-18T07:00:00",
+      "inicio": "2026-07-19T06:40:00",
+      "fin": "2026-07-19T07:10:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lagraciadeviajar.jpg"
-    },
-    {
-      "titulo": "El crucero",
-      "descripcion": "Recorremos diferentes continentes a través de El Crucero 13C.",
-      "inicio": "2026-07-18T07:00:00",
-      "fin": "2026-07-18T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcrucero.jpg"
     }
   ]
 }
