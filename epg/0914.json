@@ -1,192 +1,185 @@
 {
   "actual": {
-    "titulo": "El guardián • Parihuela",
-    "descripcion": "Parihuela ║ Don Pedrito prepara el auténtico locro de zapallo. ¡Ya no!.",
-    "inicio": "2026-07-19T07:00:00",
-    "fin": "2026-07-19T08:30:00",
+    "titulo": "El guardián • Ají de gallina",
+    "descripcion": "Ají de gallina ║ Don Pedrito muestra cómo preparar la verdadera receta del ají de gallina.",
+    "inicio": "2026-07-20T07:00:00",
+    "fin": "2026-07-20T08:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Comfort food • La pizza nos hace sentir felices",
-    "descripcion": "La pizza nos hace sentir felices ║ Ignacio va a Pan Sal Aire a ver a Jerónimo y compartir un momento juntos. Allí se inspirará a preparar una receta con base en lo vivido.",
-    "inicio": "2026-07-19T08:30:00",
-    "fin": "2026-07-19T09:00:00",
+    "titulo": "Bendito brunch • Mundo oriental",
+    "descripcion": "Mundo oriental ║ Se preparan deliciosos rollitos vietnamitas, una tartaleta de frutas con naranja y lichis confitados. Después, una bebida tradicional hindú a base de crema de coco, yogur natural, puré de mango y ron de coco.",
+    "inicio": "2026-07-20T08:30:00",
+    "fin": "2026-07-20T09:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "El guardián • Parihuela",
-      "descripcion": "Parihuela ║ Don Pedrito prepara el auténtico locro de zapallo. ¡Ya no!.",
-      "inicio": "2026-07-19T07:00:00",
-      "fin": "2026-07-19T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Comfort food • La pizza nos hace sentir felices",
-      "descripcion": "La pizza nos hace sentir felices ║ Ignacio va a Pan Sal Aire a ver a Jerónimo y compartir un momento juntos. Allí se inspirará a preparar una receta con base en lo vivido.",
-      "inicio": "2026-07-19T08:30:00",
-      "fin": "2026-07-19T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hablando pero comiendo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-19T09:00:00",
-      "fin": "2026-07-19T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A dónde",
-      "descripcion": "Un recorrido culinario que muestra los mejores lugares para la hora del almuerzo. Cada episodio explora tres locales y muestra un platillo de cada uno.",
-      "inicio": "2026-07-19T10:00:00",
-      "fin": "2026-07-19T10:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Studio cocina: Talk show • Sacando la verde con Leslie",
-      "descripcion": "Sacando la verde con Leslie ║ Diversos chefs preparan deliciosos platos inspirados en recetas de su propia cocina y presentan sorpresas especiales para la ocasión.",
-      "inicio": "2026-07-19T10:10:00",
-      "fin": "2026-07-19T11:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ponlo a la parrilla • Carpaccio de lomo",
-      "descripcion": "Carpaccio de lomo ║ Christian enseña cómo se prepara un carpaccio de lomo.",
-      "inicio": "2026-07-19T11:40:00",
-      "fin": "2026-07-19T12:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Destinos ALC • Cusco",
-      "descripcion": "Cusco ║ Un recorrido único y diferente por la capital arqueológica de América, destacando maravillas más allá de lo convencional. Experiencias culturales, paisajes y la gastronomía local.",
-      "inicio": "2026-07-19T12:10:00",
-      "fin": "2026-07-19T13:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ALC News • Latinoamérica cocina",
-      "descripcion": "Latinoamérica cocina ║ La carismática reportera foodie Ariana Villacorta recorre los eventos gastronómicos y de estilo de vida más importantes y entrevista a los personajes más destacados de la industria culinaria.",
-      "inicio": "2026-07-19T13:10:00",
-      "fin": "2026-07-19T13:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pescado desconocido • La pintadilla",
-      "descripcion": "La pintadilla ║ El chef Kumar Paredes demuestra que los tesoros que guarda el mar peruano van más allá de una buena chita y un gran lenguado. Con un estilo diferente, Kumar comparte recetas con las riquezas marinas que por tanto tiempo se mantuvieron ocultas.",
-      "inicio": "2026-07-19T13:20:00",
-      "fin": "2026-07-19T13:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Studio cocina: Talk show • Tu plato y el mío",
-      "descripcion": "Tu plato y el mío ║ Diversos chefs preparan deliciosos platos inspirados en recetas de su propia cocina y presentan sorpresas especiales para la ocasión.",
-      "inicio": "2026-07-19T13:50:00",
-      "fin": "2026-07-19T15:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hablando pero comiendo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-19T15:20:00",
-      "fin": "2026-07-19T16:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ana Avellana • Tres leches crunchy",
-      "descripcion": "Tres leches crunchy ║ Ana Avellana muestra su casa y elabora un delicioso pastel tres leches crujiente.",
-      "inicio": "2026-07-19T16:20:00",
-      "fin": "2026-07-19T16:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A dónde • San Isidro",
-      "descripcion": "San Isidro ║ Un recorrido culinario que muestra los mejores lugares para la hora del almuerzo. Cada episodio explora tres locales y muestra un platillo de cada uno.",
-      "inicio": "2026-07-19T16:50:00",
-      "fin": "2026-07-19T17:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hablando pero comiendo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-19T17:20:00",
-      "fin": "2026-07-19T18:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Studio cocina: Talk show • Sabes, aquí el sabor no frena",
-      "descripcion": "Sabes, aquí el sabor no frena ║ Diversos chefs preparan deliciosos platos inspirados en recetas de su propia cocina y presentan sorpresas especiales para la ocasión.",
-      "inicio": "2026-07-19T18:20:00",
-      "fin": "2026-07-19T19:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sangucheable, el programa • Croque Madame",
-      "descripcion": "Croque Madame ║ Beno dedica el programa a un sanguche muy francés: el croque-madame, y visita la cocina de Parisien y Las Bolena.",
-      "inicio": "2026-07-19T19:50:00",
-      "fin": "2026-07-19T20:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hablando pero comiendo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-19T20:20:00",
-      "fin": "2026-07-19T21:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fuera de carta • Adobo arequipeño tradicional hecho en Lima",
-      "descripcion": "Adobo arequipeño tradicional hecho en Lima ║ El chef Francesco de Sanctis, inspirado en una cocina estacional, se encuentra en la constante búsqueda de insumos disponibles en cada estación para crear nuevos platos.",
-      "inicio": "2026-07-19T21:20:00",
-      "fin": "2026-07-19T21:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ALC News • Latinoamérica cocina",
-      "descripcion": "Latinoamérica cocina ║ La carismática reportera foodie Ariana Villacorta recorre los eventos gastronómicos y de estilo de vida más importantes y entrevista a los personajes más destacados de la industria culinaria.",
-      "inicio": "2026-07-19T21:50:00",
-      "fin": "2026-07-19T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Studio bar: Barras • Pisco sour",
-      "descripcion": "Pisco sour ║ Aprende con Thalía Talavera a preparar el famoso pisco sour peruano.",
-      "inicio": "2026-07-19T22:00:00",
-      "fin": "2026-07-19T22:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Studio cocina: Talk show • Cocina a gas",
-      "descripcion": "Cocina a gas ║ Diversos chefs preparan deliciosos platos inspirados en recetas de su propia cocina y presentan sorpresas especiales para la ocasión.",
-      "inicio": "2026-07-19T22:10:00",
-      "fin": "2026-07-19T23:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Delivery • Ampay a Mario Irivarren",
-      "descripcion": "Ampay a Mario Irivarren ║ Francisco Sierra Alta y Mario Irivarren interceptaron la orden de los makis y se dirigieron a casa de una cumpleañera y sus amigas. El primer reto fue un maquillaje profesional y unos ejercicios con hula-hula.",
-      "inicio": "2026-07-19T23:40:00",
-      "fin": "2026-07-20T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pescado desconocido • El suco o el coco",
-      "descripcion": "El suco o el coco ║ Kumar prepara tres de sus recetas con un pescado desconocido que ha encontrado en el mercado, el coco, con el cual guisa un rocoto relleno de pescado, un tataki haciendo un filete del coco y para el último plato un pescado asado.",
-      "inicio": "2026-07-20T06:00:00",
-      "fin": "2026-07-20T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sangucheable, el programa • Reto Tex Mex",
-      "descripcion": "Reto Tex Mex ║ Beno visita Juicy Lucy y Chilli's para poder observar la preparación de dos de sus más famosas hamburguesas.",
-      "inicio": "2026-07-20T06:30:00",
-      "fin": "2026-07-20T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "El guardián • Ají de gallina",
       "descripcion": "Ají de gallina ║ Don Pedrito muestra cómo preparar la verdadera receta del ají de gallina.",
       "inicio": "2026-07-20T07:00:00",
       "fin": "2026-07-20T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bendito brunch • Mundo oriental",
+      "descripcion": "Mundo oriental ║ Se preparan deliciosos rollitos vietnamitas, una tartaleta de frutas con naranja y lichis confitados. Después, una bebida tradicional hindú a base de crema de coco, yogur natural, puré de mango y ron de coco.",
+      "inicio": "2026-07-20T08:30:00",
+      "fin": "2026-07-20T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hablando pero comiendo",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-07-20T09:00:00",
+      "fin": "2026-07-20T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A dónde",
+      "descripcion": "Un recorrido culinario que muestra los mejores lugares para la hora del almuerzo. Cada episodio explora tres locales y muestra un platillo de cada uno.",
+      "inicio": "2026-07-20T10:00:00",
+      "fin": "2026-07-20T10:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Studio cocina: Talk show • Risas y sabor",
+      "descripcion": "Risas y sabor ║ Diversos chefs preparan deliciosos platos inspirados en recetas de su propia cocina y presentan sorpresas especiales para la ocasión.",
+      "inicio": "2026-07-20T10:10:00",
+      "fin": "2026-07-20T11:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bravos del menú • El comedor",
+      "descripcion": "El comedor ║ Hoy se visita el restaurante 'El comedor'. Jairo le relata a Christian la historia del lugar y los retos que conlleva estar en un local considerado patrimonio cultural. Además, menciona los platillos más pedidos en su restaurante.",
+      "inicio": "2026-07-20T11:40:00",
+      "fin": "2026-07-20T12:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hablando pero comiendo",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-07-20T12:10:00",
+      "fin": "2026-07-20T13:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ALC News • Mayta",
+      "descripcion": "Mayta ║ La carismática reportera foodie Ariana Villacorta recorre los eventos gastronómicos y de estilo de vida más importantes y entrevista a los personajes más destacados de la industria culinaria.",
+      "inicio": "2026-07-20T13:10:00",
+      "fin": "2026-07-20T13:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pescado desconocido • Buscando doncellas",
+      "descripcion": "Buscando doncellas ║ Kumar sale a pescar de nuevo, y en esta ocasión presenta la doncella, un pescado de sabor gomoso y color rosáceo. Kumar preparará un locro, un tallarín rojo y definirá si el tercer plato será crudo o a la plancha.",
+      "inicio": "2026-07-20T13:20:00",
+      "fin": "2026-07-20T13:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Contraplato • Arroz tapado",
+      "descripcion": "Arroz tapado ║ Desde los olivos Christian prepara un arroz tapado que sirve de ejemplo para los concursantes. Fiorella ha elegido a Duina y a Karen, quienes concursarán por los 100 dólares. ¿Quién logrará el mejor sabor?.",
+      "inicio": "2026-07-20T13:50:00",
+      "fin": "2026-07-20T14:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Studio cocina: Talk show • Cuando pienses en comer",
+      "descripcion": "Cuando pienses en comer ║ Diversos chefs preparan deliciosos platos inspirados en recetas de su propia cocina y presentan sorpresas especiales para la ocasión.",
+      "inicio": "2026-07-20T14:20:00",
+      "fin": "2026-07-20T15:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hablando pero comiendo",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-07-20T15:50:00",
+      "fin": "2026-07-20T16:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ponlo a la parrilla • Bondiola de cerdo",
+      "descripcion": "Bondiola de cerdo ║ Christian Bravo regresa con una segunda temporada llena de fuego a la parrilla y bebidas refrescantes. En este primer episodio, prepara bondiola de cerdo ahumada, tostada de huevos revueltos con trucha ahumada y un Johnny ginger.",
+      "inicio": "2026-07-20T16:50:00",
+      "fin": "2026-07-20T17:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Studio cocina: Talk show • ¡La mesa está en todas!",
+      "descripcion": "¡La mesa está en todas! ║ El presentador y productor de televisión Jaime Choca Mandros se une a la mesa para celebrar la gastronomía nacional en un sabroso 'crossover' de espacios culinarios. El chef Ernesto lo deleita con un rico asado de pejerrey con puré.",
+      "inicio": "2026-07-20T17:20:00",
+      "fin": "2026-07-20T18:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A dónde • Aviación",
+      "descripcion": "Aviación ║ Un recorrido culinario que muestra los mejores lugares para la hora del almuerzo. Cada episodio explora tres locales y muestra un platillo de cada uno.",
+      "inicio": "2026-07-20T18:50:00",
+      "fin": "2026-07-20T19:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hablando pero comiendo",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-07-20T19:20:00",
+      "fin": "2026-07-20T20:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Studio cocina: Talk show • Alerta culinaria",
+      "descripcion": "Alerta culinaria ║ Diversos chefs preparan deliciosos platos inspirados en recetas de su propia cocina y presentan sorpresas especiales para la ocasión.",
+      "inicio": "2026-07-20T20:20:00",
+      "fin": "2026-07-20T21:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ALC News • Latinoamérica cocina",
+      "descripcion": "Latinoamérica cocina ║ La carismática reportera foodie Ariana Villacorta recorre los eventos gastronómicos y de estilo de vida más importantes y entrevista a los personajes más destacados de la industria culinaria.",
+      "inicio": "2026-07-20T21:50:00",
+      "fin": "2026-07-20T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Studio bar: Barras • Bar inglés",
+      "descripcion": "Bar inglés ║ Descubre todos los secretos de estos tres cócteles a base de Pisco que se preparan en el Bar Inglés, el mejor bar de Lima, según los Premios SUMMUM 2022.",
+      "inicio": "2026-07-20T22:00:00",
+      "fin": "2026-07-20T22:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Destinos ALC • Santiago de Chile con Beno",
+      "descripcion": "Santiago de Chile con Beno ║ Beno Vinatea descubre los mejores lugares para comer y pasear en Santiago de Chile, en una ruta imperdible.",
+      "inicio": "2026-07-20T22:10:00",
+      "fin": "2026-07-20T23:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Studio cocina: Talk show",
+      "descripcion": "Diversos chefs preparan deliciosos platos inspirados en recetas de su propia cocina y presentan sorpresas especiales para la ocasión.",
+      "inicio": "2026-07-20T23:10:00",
+      "fin": "2026-07-21T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El guardián • Ceviche de pollo",
+      "descripcion": "Ceviche de pollo ║ Una verdadera receta de ceviche de pollo.",
+      "inicio": "2026-07-21T05:30:00",
+      "fin": "2026-07-21T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sangucheable, el programa • Butifarra",
+      "descripcion": "Butifarra ║ Renzo Vinatea dedica el programa al segundo sándwich más famoso del mundo, conocido como butifarra. Haciendo honor a este impresionante platillo.",
+      "inicio": "2026-07-21T06:30:00",
+      "fin": "2026-07-21T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El guardián • Arroz con pollo",
+      "descripcion": "Arroz con pollo ║ La caigua rellena de Don Pedrito tiene un secreto que cambia todo. Aprende cómo hacer caigua rellena peruana paso a paso, una receta tradicional con sabor casero, técnica auténtica y los trucos reales para lograr un relleno perfecto.",
+      "inicio": "2026-07-21T07:00:00",
+      "fin": "2026-07-21T08:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
