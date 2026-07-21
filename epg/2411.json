@@ -1,87 +1,157 @@
 {
   "actual": {
-    "titulo": "ESPN Mundial",
-    "descripcion": "Cobertura de los partidos, noticias y resultados de la Copa Mundial de la FIFA 2026.",
-    "inicio": "2026-07-20T06:00:00",
-    "fin": "2026-07-20T10:00:00",
+    "titulo": "SportsCenter",
+    "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+    "inicio": "2026-07-21T06:00:00",
+    "fin": "2026-07-21T08:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "ESPN Mundial",
-    "descripcion": "Cobertura de los partidos, noticias y resultados de la Copa Mundial de la FIFA 2026.",
-    "inicio": "2026-07-20T10:00:00",
-    "fin": "2026-07-20T14:00:00",
+    "titulo": "Buen día ESPN",
+    "descripcion": "Cobertura de la actualidad deportiva con entrevistas, protagonistas y la mejor onda.",
+    "inicio": "2026-07-21T08:00:00",
+    "fin": "2026-07-21T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "ESPN Mundial",
-      "descripcion": "Cobertura de los partidos, noticias y resultados de la Copa Mundial de la FIFA 2026.",
-      "inicio": "2026-07-20T06:00:00",
-      "fin": "2026-07-20T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Mundial",
-      "descripcion": "Cobertura de los partidos, noticias y resultados de la Copa Mundial de la FIFA 2026.",
-      "inicio": "2026-07-20T10:00:00",
-      "fin": "2026-07-20T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Mundial",
-      "descripcion": "Cobertura de los partidos, noticias y resultados de la Copa Mundial de la FIFA 2026.",
-      "inicio": "2026-07-20T14:00:00",
-      "fin": "2026-07-20T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Mundial",
-      "descripcion": "Cobertura de los partidos, noticias y resultados de la Copa Mundial de la FIFA 2026.",
-      "inicio": "2026-07-20T17:00:00",
-      "fin": "2026-07-20T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Mundial",
-      "descripcion": "Cobertura de los partidos, noticias y resultados de la Copa Mundial de la FIFA 2026.",
-      "inicio": "2026-07-20T21:00:00",
-      "fin": "2026-07-20T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Mundial",
-      "descripcion": "Cobertura de los partidos, noticias y resultados de la Copa Mundial de la FIFA 2026.",
-      "inicio": "2026-07-20T23:00:00",
-      "fin": "2026-07-21T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Mundial",
-      "descripcion": "Cobertura de los partidos, noticias y resultados de la Copa Mundial de la FIFA 2026.",
-      "inicio": "2026-07-21T01:00:00",
-      "fin": "2026-07-21T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Mundial",
-      "descripcion": "Cobertura de los partidos, noticias y resultados de la Copa Mundial de la FIFA 2026.",
-      "inicio": "2026-07-21T03:00:00",
-      "fin": "2026-07-21T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "FIA Fórmula 2 • Spa-Francorchamps: Carrera principal",
-      "descripcion": "Spa-Francorchamps: Carrera principal ║ Cobertura de la carrera principal de la ronda 8 de la Fórmula 2, 2026 en Spa-Francorchamps. Desde el Circuito de Spa-Francorchamps, en Spa, Bélgica.",
-      "inicio": "2026-07-21T05:00:00",
-      "fin": "2026-07-21T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "SportsCenter",
       "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
       "inicio": "2026-07-21T06:00:00",
       "fin": "2026-07-21T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Buen día ESPN",
+      "descripcion": "Cobertura de la actualidad deportiva con entrevistas, protagonistas y la mejor onda.",
+      "inicio": "2026-07-21T08:00:00",
+      "fin": "2026-07-21T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espn F12",
+      "descripcion": "Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.",
+      "inicio": "2026-07-21T10:00:00",
+      "fin": "2026-07-21T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espn F90",
+      "descripcion": "Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.",
+      "inicio": "2026-07-21T12:00:00",
+      "fin": "2026-07-21T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espn F3",
+      "descripcion": "Programación deportiva dedicada a la agenda futbolística, resúmenes, análisis y seguimientos que dan de qué hablar.",
+      "inicio": "2026-07-21T14:00:00",
+      "fin": "2026-07-21T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-07-21T15:30:00",
+      "fin": "2026-07-21T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tour de France 2026 • Etapa 16",
+      "descripcion": "Etapa 16 ║ Acción de la decimosexta etapa del Tour de France 2026. Recorrido de 26.1 km en contrarreloj individual desde Évian-les-Bains hasta Thonon-les-Bains.",
+      "inicio": "2026-07-21T16:00:00",
+      "fin": "2026-07-21T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol CONMEBOL Copa Sudamericana • Nacional vs Tigre",
+      "descripcion": "Nacional vs Tigre ║ Nacional recibe a Tigre en el Gran Parque Central para la ronda eliminatoria. Primer encuentro histórico entre ambos clubes; los Albos vienen de su participación en la Copa Libertadores, mientras que los Azules del Norte aseguraron el segundo lugar.",
+      "inicio": "2026-07-21T17:45:00",
+      "fin": "2026-07-21T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-07-21T20:00:00",
+      "fin": "2026-07-21T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-07-21T20:30:00",
+      "fin": "2026-07-21T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-07-21T21:00:00",
+      "fin": "2026-07-21T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espn F10",
+      "descripcion": "Los fines de semana se llenan de fútbol. Tras la finalización del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.",
+      "inicio": "2026-07-21T22:00:00",
+      "fin": "2026-07-21T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-07-21T23:00:00",
+      "fin": "2026-07-22T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-07-22T00:00:00",
+      "fin": "2026-07-22T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-07-22T01:00:00",
+      "fin": "2026-07-22T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-07-22T02:00:00",
+      "fin": "2026-07-22T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-07-22T03:00:00",
+      "fin": "2026-07-22T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-07-22T04:00:00",
+      "fin": "2026-07-22T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-07-22T05:00:00",
+      "fin": "2026-07-22T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-07-22T06:00:00",
+      "fin": "2026-07-22T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
