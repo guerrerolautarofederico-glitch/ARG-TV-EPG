@@ -1,53 +1,158 @@
 {
   "actual": {
-    "titulo": "CHV Noticias",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-07-22T06:00:00",
-    "fin": "2026-07-22T12:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
+    "titulo": "CHV Noticias AM",
+    "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe al completo sobre la realidad en Chile.",
+    "inicio": "2026-07-23T06:30:00",
+    "fin": "2026-07-23T08:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasam.jpg"
   },
   "siguiente": {
-    "titulo": "CHV Noticias",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-07-22T12:00:00",
-    "fin": "2026-07-22T18:00:00",
+    "titulo": "CHV Noticias en la mañana",
+    "descripcion": "Un espacio para empezar la mañana bien informados.",
+    "inicio": "2026-07-23T08:00:00",
+    "fin": "2026-07-23T09:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "CHV Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-22T06:00:00",
-      "fin": "2026-07-22T12:00:00",
+      "titulo": "CHV Noticias AM",
+      "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe al completo sobre la realidad en Chile.",
+      "inicio": "2026-07-23T06:30:00",
+      "fin": "2026-07-23T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasam.jpg"
+    },
+    {
+      "titulo": "CHV Noticias en la mañana",
+      "descripcion": "Un espacio para empezar la mañana bien informados.",
+      "inicio": "2026-07-23T08:00:00",
+      "fin": "2026-07-23T09:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
     },
     {
-      "titulo": "CHV Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-22T12:00:00",
-      "fin": "2026-07-22T18:00:00",
+      "titulo": "Alerta CHV noticias AM",
+      "descripcion": "El análisis más importante de la jornada con la conducción de Marianela Estrada y Patricio Angulo.",
+      "inicio": "2026-07-23T09:30:00",
+      "fin": "2026-07-23T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
     },
     {
-      "titulo": "CHV Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-22T18:00:00",
-      "fin": "2026-07-23T00:00:00",
+      "titulo": "CHV Noticias tarde",
+      "descripcion": "La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.",
+      "inicio": "2026-07-23T13:00:00",
+      "fin": "2026-07-23T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiastarde.jpg"
+    },
+    {
+      "titulo": "Reportajes CHV Noticias",
+      "descripcion": "Un espacio que presenta los reportajes que han marcardo la agenda de noticias en las últimas semanas. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
+      "inicio": "2026-07-23T15:30:00",
+      "fin": "2026-07-23T17:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
     },
     {
-      "titulo": "CHV Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-23T00:00:00",
-      "fin": "2026-07-23T06:00:00",
+      "titulo": "Hoy en el mundo",
+      "descripcion": "Soledad Agüero y Carlos Grage informan sobre lo más destacado de la agenda de noticias internacional. A través del trabajo de periodistas, reporteros y expertos analizan los acontecimientos diarios en el mundo.",
+      "inicio": "2026-07-23T17:00:00",
+      "fin": "2026-07-23T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
+    },
+    {
+      "titulo": "Avance - CHV noticias PM",
+      "descripcion": "Actualización de las noticias que han marcado la jornada con el estilo propio de CHV Noticias junto a Pablo Torres.",
+      "inicio": "2026-07-23T17:30:00",
+      "fin": "2026-07-23T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
     },
     {
-      "titulo": "CHV Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-23T06:00:00",
-      "fin": "2026-07-23T12:00:00",
+      "titulo": "Deportes en CHV Noticias",
+      "descripcion": "Todas las novedades e informaciones deportivas del día para los amantes de las diversas disciplinas. A través del espacio, los fanáticos podrán informarse sobre competencias, eventos, partidos, jugadas y mucho más.",
+      "inicio": "2026-07-23T18:00:00",
+      "fin": "2026-07-23T18:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
+    },
+    {
+      "titulo": "CHV Noticias PM",
+      "descripcion": "Actualización de las noticias que han marcado la jornada con el estilo propio de CHV Noticias junto a Pablo Torres.",
+      "inicio": "2026-07-23T18:30:00",
+      "fin": "2026-07-23T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
+    },
+    {
+      "titulo": "CHV noticias Central",
+      "descripcion": "Macarena Pizarro y Daniel Matamala presentan el noticiero más creíble del país. Coberturas, notas y reportajes a fondo para estar informado con todo lo que ocurrió durante la jornada.",
+      "inicio": "2026-07-23T20:00:00",
+      "fin": "2026-07-23T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiascentral.jpg"
+    },
+    {
+      "titulo": "Hoy en el mundo",
+      "descripcion": "Soledad Agüero y Carlos Grage informan sobre lo más destacado de la agenda de noticias internacional. A través del trabajo de periodistas, reporteros y expertos analizan los acontecimientos diarios en el mundo.",
+      "inicio": "2026-07-23T22:30:00",
+      "fin": "2026-07-23T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
+    },
+    {
+      "titulo": "CHV Noticias informa",
+      "descripcion": "Resumen completo de las informaciones nacionales e internacionales que marcaron el día y la actualización de todo lo que ocurre durante la noche con la conducción de Pablo Torres para que ningún chileno se quede afuera de lo que tiene que saber.",
+      "inicio": "2026-07-23T23:00:00",
+      "fin": "2026-07-24T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
+    },
+    {
+      "titulo": "Reportajes CHV Noticias",
+      "descripcion": "Un espacio que presenta los reportajes que han marcardo la agenda de noticias en las últimas semanas. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
+      "inicio": "2026-07-24T00:30:00",
+      "fin": "2026-07-24T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
+    },
+    {
+      "titulo": "Deportes en CHV Noticias",
+      "descripcion": "Todas las novedades e informaciones deportivas del día para los amantes de las diversas disciplinas. A través del espacio, los fanáticos podrán informarse sobre competencias, eventos, partidos, jugadas y mucho más.",
+      "inicio": "2026-07-24T02:00:00",
+      "fin": "2026-07-24T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
+    },
+    {
+      "titulo": "Hoy en el mundo",
+      "descripcion": "Soledad Agüero y Carlos Grage informan sobre lo más destacado de la agenda de noticias internacional. A través del trabajo de periodistas, reporteros y expertos analizan los acontecimientos diarios en el mundo.",
+      "inicio": "2026-07-24T02:30:00",
+      "fin": "2026-07-24T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
+    },
+    {
+      "titulo": "CHV noticias Central",
+      "descripcion": "Macarena Pizarro y Daniel Matamala presentan el noticiero más creíble del país. Coberturas, notas y reportajes a fondo para estar informado con todo lo que ocurrió durante la jornada.",
+      "inicio": "2026-07-24T03:00:00",
+      "fin": "2026-07-24T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiascentral.jpg"
+    },
+    {
+      "titulo": "CHV Noticias al día",
+      "descripcion": "La primera mirada de las noticias al amanecer para despertar informados.",
+      "inicio": "2026-07-24T05:00:00",
+      "fin": "2026-07-24T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
+    },
+    {
+      "titulo": "Primera página",
+      "descripcion": "Espacio que cuenta con la información más importante de las primeras horas del día.",
+      "inicio": "2026-07-24T05:30:00",
+      "fin": "2026-07-24T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerapagina.jpg"
+    },
+    {
+      "titulo": "Primera página",
+      "descripcion": "Espacio que cuenta con la información más importante de las primeras horas del día.",
+      "inicio": "2026-07-24T06:00:00",
+      "fin": "2026-07-24T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerapagina.jpg"
+    },
+    {
+      "titulo": "CHV Noticias AM",
+      "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe al completo sobre la realidad en Chile.",
+      "inicio": "2026-07-24T06:30:00",
+      "fin": "2026-07-24T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasam.jpg"
     }
   ]
 }
