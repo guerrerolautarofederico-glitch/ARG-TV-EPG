@@ -1,206 +1,122 @@
 {
   "actual": {
-    "titulo": "SportsCenter",
-    "descripcion": "SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
-    "inicio": "2026-07-23T07:00:00",
-    "fin": "2026-07-23T08:00:00",
+    "titulo": "2026 Tour de France Highlights",
+    "descripcion": "Mira los momentos más destacados de las jornadas del Tour de Francia en su edición del 2026, una vuelta por etapas profesional de ciclismo en ruta disputada a lo largo de la geografía francesa.",
+    "inicio": "2026-07-24T07:15:00",
+    "fin": "2026-07-24T07:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "CONMEBOL Sudamericana • Ind. Medellín vs Vasco da Gama , 16vos de final - Ida, Estadio Atanasio Girardot",
-    "descripcion": "REPETICIÓN ׀ Ind. Medellín vs Vasco da Gama , 16vos de final - Ida, Estadio Atanasio Girardot ║ Independiente Medellín se enfrenta a Vasco da Gama en un emocionante partido de 16vos de final de la CONMEBOL Sudamericana. Ambos equipos buscan avanzar en esta prestigiosa competencia.",
-    "inicio": "2026-07-23T08:00:00",
-    "fin": "2026-07-23T10:00:00",
+    "titulo": "EN VIVO: 2026 Tour de France • Etapa 19",
+    "descripcion": "EN VIVO ׀ Disfruta las emociones de la edición número 113 de esta competencia que consta de 21 etapas que abarcan un total de 3.333 kilómetros, atravesando 7 regiones y 29 departamentos franceses, con 10 nuevas localidades en el mapa. Participarán 184 ciclistas de 23 equipos.",
+    "inicio": "2026-07-24T07:45:00",
+    "fin": "2026-07-24T12:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
-      "inicio": "2026-07-23T07:00:00",
-      "fin": "2026-07-23T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "CONMEBOL Sudamericana • Ind. Medellín vs Vasco da Gama , 16vos de final - Ida, Estadio Atanasio Girardot",
-      "descripcion": "REPETICIÓN ׀ Ind. Medellín vs Vasco da Gama , 16vos de final - Ida, Estadio Atanasio Girardot ║ Independiente Medellín se enfrenta a Vasco da Gama en un emocionante partido de 16vos de final de la CONMEBOL Sudamericana. Ambos equipos buscan avanzar en esta prestigiosa competencia.",
-      "inicio": "2026-07-23T08:00:00",
-      "fin": "2026-07-23T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
-      "inicio": "2026-07-23T10:00:00",
-      "fin": "2026-07-23T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "PGA Tour Highlights - Corales Puntacana Championship",
-      "descripcion": "Mira lo más destacado de las jornadas de golf del Campeonato Corales Puntacana en su edición del 2026, parte del PGA Tour.",
-      "inicio": "2026-07-23T11:00:00",
-      "fin": "2026-07-23T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "UEFA Champions League Weekly",
-      "descripcion": "La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.",
-      "inicio": "2026-07-23T12:00:00",
-      "fin": "2026-07-23T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ATP Tour: This Week",
-      "descripcion": "La actualidad del circuito profesional masculino de tenis.",
-      "inicio": "2026-07-23T13:00:00",
-      "fin": "2026-07-23T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lo mejor de MotoGP • Resumen 1 Temporada 2026",
-      "descripcion": "REPETICIÓN ׀ Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.",
-      "inicio": "2026-07-23T13:30:00",
-      "fin": "2026-07-23T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "2026 Tour de France • Etapa 18: Voiron / Orciéres-Merlette",
-      "descripcion": "REPETICIÓN ׀ Etapa 18: Voiron / Orciéres-Merlette ║ Es posible que las posiciones definitivas del podio aún no estén decididas en este punto de la carrera. Sin embargo, los escaladores claramente descolgados en la clasificación general ya están identificados, algunos de ellos todavía en un gran estado de forma. Ha llegado el momento de buscar una victoria de etapa que se les ha resistido hasta ahora o, por qué no, repetir triunfo. Orcières-Merlette será meta de etapa por sexta vez y ya fue salida en tres ocasiones.",
-      "inicio": "2026-07-23T14:00:00",
-      "fin": "2026-07-23T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "CONMEBOL Sudamericana • Sporting Cristal vs RB Bragantino , 16vos de final - Ida, Estadio Alberto Gallardo",
-      "descripcion": "REPETICIÓN ׀ Sporting Cristal vs RB Bragantino , 16vos de final - Ida, Estadio Alberto Gallardo ║ Sporting Cristal se enfrenta a RB Bragantino en un emocionante partido de 16vos de final de la CONMEBOL Sudamericana. Ambos equipos buscan avanzar en esta competencia continental.",
-      "inicio": "2026-07-23T16:00:00",
-      "fin": "2026-07-23T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
-      "inicio": "2026-07-23T18:00:00",
-      "fin": "2026-07-23T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lo mejor de MotoGP • Resumen 1 Temporada 2026",
-      "descripcion": "REPETICIÓN ׀ Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.",
-      "inicio": "2026-07-23T19:30:00",
-      "fin": "2026-07-23T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "2026 Tour de France Highlights",
-      "descripcion": "Mira los momentos más destacados de las jornadas del Tour de Francia en su edición del 2026, una vuelta por etapas profesional de ciclismo en ruta disputada a lo largo de la geografía francesa.",
-      "inicio": "2026-07-23T20:00:00",
-      "fin": "2026-07-23T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ATP Tour: This Week",
-      "descripcion": "La actualidad del circuito profesional masculino de tenis.",
-      "inicio": "2026-07-23T20:30:00",
-      "fin": "2026-07-23T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "F Táctico",
-      "descripcion": "Show que analizará el fútbol hasta el más mínimo detalle en cuanto a las estructuras tácticas que rodean al juego. Los dibujos, los planteos, las estrategias, el procedimiento, las jugadas y los métodos que un equipo sigue en pos de un fin determinado.",
-      "inicio": "2026-07-23T21:00:00",
-      "fin": "2026-07-23T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de la F1",
-      "descripcion": "Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.",
-      "inicio": "2026-07-23T21:30:00",
-      "fin": "2026-07-23T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "MotoAmerica • Resumen 1 Temporada 2026",
-      "descripcion": "REPETICIÓN ׀ Vive lo más emocionante de las carreras del Campeonato MotoAmerica Superbike en su edición 2026. Los amantes del deporte podrán disfrutar de una serie de carreras de motos en Norteamérica y que reúne a las mejores superbikes compitiendo en carreras de alta velocidad en múltiples rondas.",
-      "inicio": "2026-07-23T22:30:00",
-      "fin": "2026-07-23T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "2026 Tour de France Highlights",
-      "descripcion": "Mira los momentos más destacados de las jornadas del Tour de Francia en su edición del 2026, una vuelta por etapas profesional de ciclismo en ruta disputada a lo largo de la geografía francesa.",
-      "inicio": "2026-07-23T23:00:00",
-      "fin": "2026-07-23T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ATP Tour: This Week",
-      "descripcion": "La actualidad del circuito profesional masculino de tenis.",
-      "inicio": "2026-07-23T23:30:00",
-      "fin": "2026-07-24T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Espn F90",
-      "descripcion": "Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
-      "inicio": "2026-07-24T00:00:00",
-      "fin": "2026-07-24T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN F Show",
-      "descripcion": "El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.",
-      "inicio": "2026-07-24T01:30:00",
-      "fin": "2026-07-24T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "F Táctico",
-      "descripcion": "Show que analizará el fútbol hasta el más mínimo detalle en cuanto a las estructuras tácticas que rodean al juego. Los dibujos, los planteos, las estrategias, el procedimiento, las jugadas y los métodos que un equipo sigue en pos de un fin determinado.",
-      "inicio": "2026-07-24T03:00:00",
-      "fin": "2026-07-24T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "MotoAmerica • Resumen 1 Temporada 2026",
-      "descripcion": "REPETICIÓN ׀ Vive lo más emocionante de las carreras del Campeonato MotoAmerica Superbike en su edición 2026. Los amantes del deporte podrán disfrutar de una serie de carreras de motos en Norteamérica y que reúne a las mejores superbikes compitiendo en carreras de alta velocidad en múltiples rondas.",
-      "inicio": "2026-07-24T03:30:00",
-      "fin": "2026-07-24T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de la F1",
-      "descripcion": "Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.",
-      "inicio": "2026-07-24T04:00:00",
-      "fin": "2026-07-24T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
-      "inicio": "2026-07-24T05:00:00",
-      "fin": "2026-07-24T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
-      "inicio": "2026-07-24T06:00:00",
-      "fin": "2026-07-24T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Tenis - Mejores Jugadas 2025",
-      "descripcion": "Un programa con un formato innovador que repasa toda la actualidad del tenis, poniendo el foco en los torneos más destacados y en las últimas novedades de los jugadores latinoamericanos.",
-      "inicio": "2026-07-24T07:00:00",
-      "fin": "2026-07-24T07:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "2026 Tour de France Highlights",
       "descripcion": "Mira los momentos más destacados de las jornadas del Tour de Francia en su edición del 2026, una vuelta por etapas profesional de ciclismo en ruta disputada a lo largo de la geografía francesa.",
       "inicio": "2026-07-24T07:15:00",
       "fin": "2026-07-24T07:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "EN VIVO: 2026 Tour de France • Etapa 19",
+      "descripcion": "EN VIVO ׀ Disfruta las emociones de la edición número 113 de esta competencia que consta de 21 etapas que abarcan un total de 3.333 kilómetros, atravesando 7 regiones y 29 departamentos franceses, con 10 nuevas localidades en el mapa. Participarán 184 ciclistas de 23 equipos.",
+      "inicio": "2026-07-24T07:45:00",
+      "fin": "2026-07-24T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ATP Tour: This Week",
+      "descripcion": "La actualidad del circuito profesional masculino de tenis.",
+      "inicio": "2026-07-24T12:30:00",
+      "fin": "2026-07-24T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "CONMEBOL Sudamericana • Bolívar vs Gremio , 16vos de final - Ida, Estadio Hernando Siles",
+      "descripcion": "DIFERIDO ׀ Bolívar vs Gremio , 16vos de final - Ida, Estadio Hernando Siles ║ Bolívar se enfrenta a Gremio en el Estadio Hernando Siles por los 16vos de final de la CONMEBOL Sudamericana. Un duelo emocionante donde ambos equipos buscarán avanzar en la competencia.",
+      "inicio": "2026-07-24T13:00:00",
+      "fin": "2026-07-24T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Skiing Winter News",
+      "descripcion": "Un espacio que acerca lo más destacado de las competiciones de ski y de deportes de invierno.",
+      "inicio": "2026-07-24T15:00:00",
+      "fin": "2026-07-24T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lo mejor de MotoGP • Resumen - Parte 1 Temporada 2026",
+      "descripcion": "REPETICIÓN ׀ Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.",
+      "inicio": "2026-07-24T15:30:00",
+      "fin": "2026-07-24T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "2026 Tour de France • Etapa 19",
+      "descripcion": "REPETICIÓN ׀ Disfruta las emociones de la edición número 113 de esta competencia que consta de 21 etapas que abarcan un total de 3.333 kilómetros, atravesando 7 regiones y 29 departamentos franceses, con 10 nuevas localidades en el mapa. Participarán 184 ciclistas de 23 equipos.",
+      "inicio": "2026-07-24T16:00:00",
+      "fin": "2026-07-24T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
+      "inicio": "2026-07-24T18:00:00",
+      "fin": "2026-07-24T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "EN VIVO: ESPN Knockout: Legacy Fighting Alliance • LFA 237",
+      "descripcion": "EN VIVO ׀ Los mejores combates de boxeo y MMA.",
+      "inicio": "2026-07-24T19:30:00",
+      "fin": "2026-07-25T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espn F90",
+      "descripcion": "Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
+      "inicio": "2026-07-25T00:00:00",
+      "fin": "2026-07-25T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ESPN F Show",
+      "descripcion": "El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.",
+      "inicio": "2026-07-25T01:30:00",
+      "fin": "2026-07-25T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ESPN Knockout",
+      "descripcion": "El show de box más importante del mundo, porque cuenta con una cobertura global del deporte de contacto más emblemático y porque ofrece la mayor variedad de voces y opiniones de habla hispana. Desde hace años ofrecemos actualidad, noticias, opinión, entrevistas y exclusivas para fans de todo el continente americano. Nuestro Show semanal es sinónimo de Box.",
+      "inicio": "2026-07-25T03:00:00",
+      "fin": "2026-07-25T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lo mejor de MotoGP • Resumen - Parte 1 Temporada 2026",
+      "descripcion": "REPETICIÓN ׀ Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.",
+      "inicio": "2026-07-25T04:00:00",
+      "fin": "2026-07-25T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "2026 Tour de France Highlights",
+      "descripcion": "Mira los momentos más destacados de las jornadas del Tour de Francia en su edición del 2026, una vuelta por etapas profesional de ciclismo en ruta disputada a lo largo de la geografía francesa.",
+      "inicio": "2026-07-25T04:30:00",
+      "fin": "2026-07-25T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "EN VIVO: 2026 Tour de France • Etapa 20",
+      "descripcion": "EN VIVO ׀ Disfruta las emociones de la edición número 113 de esta competencia que consta de 21 etapas que abarcan un total de 3.333 kilómetros, atravesando 7 regiones y 29 departamentos franceses, con 10 nuevas localidades en el mapa. Participarán 184 ciclistas de 23 equipos.",
+      "inicio": "2026-07-25T05:00:00",
+      "fin": "2026-07-25T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
