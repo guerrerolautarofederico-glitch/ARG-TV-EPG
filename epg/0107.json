@@ -1,130 +1,137 @@
 {
   "actual": {
-    "titulo": "City Tour",
-    "descripcion": "Federico Sánchez y Marcelo Comparini recorren las ciudades del mundo, sus calles y lugares emblemáticos para así enseñar al espectador la arquitectura patrimonial del mundo, el diseño, urbanismo y cultura popular, fomentando su apreciación y cuidado.",
-    "inicio": "2026-07-26T07:10:00",
-    "fin": "2026-07-26T08:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/citytour.jpg"
+    "titulo": "Tu día",
+    "descripcion": "En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.",
+    "inicio": "2026-07-27T07:50:00",
+    "fin": "2026-07-27T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tudia.jpg"
   },
   "siguiente": {
-    "titulo": "Santa misa",
-    "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
-    "inicio": "2026-07-26T08:00:00",
-    "fin": "2026-07-26T09:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
+    "titulo": "Teletrece tarde",
+    "descripcion": "Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.",
+    "inicio": "2026-07-27T13:00:00",
+    "fin": "2026-07-27T14:50:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
   },
   "lista": [
     {
-      "titulo": "City Tour",
-      "descripcion": "Federico Sánchez y Marcelo Comparini recorren las ciudades del mundo, sus calles y lugares emblemáticos para así enseñar al espectador la arquitectura patrimonial del mundo, el diseño, urbanismo y cultura popular, fomentando su apreciación y cuidado.",
-      "inicio": "2026-07-26T07:10:00",
-      "fin": "2026-07-26T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/citytour.jpg"
-    },
-    {
-      "titulo": "Santa misa",
-      "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
-      "inicio": "2026-07-26T08:00:00",
-      "fin": "2026-07-26T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
-    },
-    {
-      "titulo": "Teletrece a la hora",
-      "descripcion": "Un espacio que ofrece toda la información actual de lo que ocurre a nivel nacional e internacional.",
-      "inicio": "2026-07-26T09:00:00",
-      "fin": "2026-07-26T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecealahora.jpg"
-    },
-    {
-      "titulo": "Mesa central",
-      "descripcion": "Una propuesta que busca generar conversaciones a través del análisis de la contingencia, entrevistas, un rat pack con reporteros que aportarán información dura y golpeadora, y un panel de debate y conversación.",
-      "inicio": "2026-07-26T11:00:00",
-      "fin": "2026-07-26T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mesacentral.jpg"
+      "titulo": "Tu día",
+      "descripcion": "En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.",
+      "inicio": "2026-07-27T07:50:00",
+      "fin": "2026-07-27T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tudia.jpg"
     },
     {
       "titulo": "Teletrece tarde",
       "descripcion": "Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.",
-      "inicio": "2026-07-26T13:00:00",
-      "fin": "2026-07-26T14:30:00",
+      "inicio": "2026-07-27T13:00:00",
+      "fin": "2026-07-27T14:50:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
     },
     {
-      "titulo": "Un viaje extraordinario",
-      "descripcion": "Donald Crowhurst intentó ganar la Golden Globe Race en 1968, una competición consistente en circunnavegar el mundo sin detenerse, dotada con un premio fastuoso. Sin embargo, dado que no le estaba yendo bien, optó por engañar a los organizadores.",
-      "inicio": "2026-07-26T14:30:00",
-      "fin": "2026-07-26T16:35:00",
+      "titulo": "El tiempo",
+      "descripcion": "Espacio que trae información meteorológica nacional e internacional, para que te mantengas actualizado del estado del clima en las próximas horas.",
+      "inicio": "2026-07-27T14:50:00",
+      "fin": "2026-07-27T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_eltiempo.jpg"
+    },
+    {
+      "titulo": "Vale todo",
+      "descripcion": "Una ambiciosa cazafortunas vive una vida de lujos y engaños mientras su madre la persigue para cobrar venganza. Nueva versión del exitoso drama brasileño.",
+      "inicio": "2026-07-27T15:00:00",
+      "fin": "2026-07-27T16:05:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
     },
     {
-      "titulo": "El Hombre Araña 3",
-      "descripcion": "Peter Parker parece finalmente haber conseguido un equilibrio entre su relación con Mary Jane y sus responsabilidades como súperhéroe. Pero una tormenta amenaza en el horizonte: su traje cambia de repente, volviéndose negro y mejorando sus poderes. Sin embargo, esto viene acompañado de una alteración en él mismo, convirtiéndose en un ser oscuro y vengativo. Obligado a elegir entre el tentador poder que le proporciona el nuevo disfraz y el compasivo ídolo que solía ser, éste deberá vencer sus demonios internos, mientras dos de sus más temidos enemigos, Venom y el Hombre de Arena, utilizarán sus condiciones para calmar su sed de venganza.",
-      "inicio": "2026-07-26T16:35:00",
-      "fin": "2026-07-26T19:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
+      "titulo": "Yo soy Betty, la fea",
+      "descripcion": "Betty era una mujer que estaba acostumbrada a la idea de quedarse solterona, una joven poco agraciada que nadie invitaba a salir y que se conformaba con el recuerdo tormentoso de un novio que la dejó a los pocos días. Ella vivía para sacar las mejores notas de la universidad, para hacer cursos y posgrados y con esto hacer feliz a su padre, quien se siente muy orgulloso de su hija.",
+      "inicio": "2026-07-27T16:05:00",
+      "fin": "2026-07-27T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yosoybettylafea.jpg"
     },
     {
-      "titulo": "Lugares que hablan",
-      "descripcion": "Francisco Saavedra realiza un viaje especial para conocer la geografía de Chile, su gente y sus tradiciones, mostrando diversas locaciones y lugares que, ya sea por su aislamiento o por simple desconocimiento, no están en boca de muchos. En esta ocasión, se sumerge en las gélidas aguas del extremo sur chileno para llegar a la recóndita localidad de Puerto Edén.",
-      "inicio": "2026-07-26T19:15:00",
-      "fin": "2026-07-26T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lugaresquehablan.jpg"
+      "titulo": "¡Hay que decirlo!",
+      "descripcion": "Un espacio para divertir y acompañar las tardes con noticias del mundo del espectáculo y con el humor garantizado. La conducción está a cargo de Pamela Díaz y Nacho Gutiérrez, un grupo de panelistas expertos y destacados invitados.",
+      "inicio": "2026-07-27T17:00:00",
+      "fin": "2026-07-27T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hayquedecirlo.jpg"
+    },
+    {
+      "titulo": "¡Qué dice Chile!",
+      "descripcion": "Dos grupos compiten entre sí para nombrar las respuestas más populares de una encuesta con el fin de ganar un premio en dinero. Además, el público participa en vivo y enviando preguntas. Las personas que participan también pueden ganar premios así qe tanto participantes como público lo darán todo.",
+      "inicio": "2026-07-27T19:15:00",
+      "fin": "2026-07-27T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/quedicechile.jpg"
     },
     {
       "titulo": "Teletrece",
       "descripcion": "El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.",
-      "inicio": "2026-07-26T21:00:00",
-      "fin": "2026-07-26T22:40:00",
+      "inicio": "2026-07-27T21:00:00",
+      "fin": "2026-07-27T22:40:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrece.jpg"
     },
     {
       "titulo": "El tiempo",
       "descripcion": "Espacio que trae información meteorológica nacional e internacional, para que te mantengas actualizado del estado del clima en las próximas horas.",
-      "inicio": "2026-07-26T22:40:00",
-      "fin": "2026-07-26T22:50:00",
+      "inicio": "2026-07-27T22:40:00",
+      "fin": "2026-07-27T22:50:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_eltiempo.jpg"
     },
     {
       "titulo": "Vecinos al límite",
       "descripcion": "Un reality ubicado en un barrio con cuatro casas muy diferentes. Un barrio donde los vecinos serán protagonistas. En cada una de esas casas vivirá uno de cuatro equipos, compuestos por participantes desconocidos y liderados por famosos, quienes competirán para ver quiénes podrán pasar a vivir en la mejor de éstas, y quiénes serán desalojados. Todo esto con el fin de disputarse un importante premio en dinero. Entre sus participantes, se destaca Felipe Contreras, el ex galán de Juego de Ilusiones y con una carrera de más de veinte años en las teleseries.",
-      "inicio": "2026-07-26T22:50:00",
-      "fin": "2026-07-27T01:00:00",
+      "inicio": "2026-07-27T22:50:00",
+      "fin": "2026-07-28T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vecinosallimite.jpg"
+    },
+    {
+      "titulo": "Vale todo",
+      "descripcion": "Una ambiciosa cazafortunas vive una vida de lujos y engaños mientras su madre la persigue para cobrar venganza. Nueva versión del exitoso drama brasileño.",
+      "inicio": "2026-07-28T01:00:00",
+      "fin": "2026-07-28T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
+    },
+    {
+      "titulo": "Teletrece noche",
+      "descripcion": "Segmento informativo transmitido a la medianoche, en el cual podrás conocer un resumen sobre las informaciones más destacadas de la actualidad en Chile y el mundo, incluyendo diversas secciones.",
+      "inicio": "2026-07-28T02:00:00",
+      "fin": "2026-07-28T02:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecenoche.jpg"
     },
     {
       "titulo": "Vecinos al límite - Extra",
       "descripcion": "Edición especial con momentos seleccionados que complementan la experiencia del capítulo estreno.",
-      "inicio": "2026-07-27T01:00:00",
-      "fin": "2026-07-27T02:30:00",
+      "inicio": "2026-07-28T02:50:00",
+      "fin": "2026-07-28T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vecinosallimite.jpg"
-    },
-    {
-      "titulo": "¡Qué dice Chile!",
-      "descripcion": "Dos grupos compiten entre sí para nombrar las respuestas más populares de una encuesta con el fin de ganar un premio en dinero. Además, el público participa en vivo y enviando preguntas. Las personas que participan también pueden ganar premios así qe tanto participantes como público lo darán todo.",
-      "inicio": "2026-07-27T02:30:00",
-      "fin": "2026-07-27T03:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/quedicechile.jpg"
     },
     {
       "titulo": "T13 en vivo",
       "descripcion": "Ponte al día con las noticias más relevantes de la actualidad.",
-      "inicio": "2026-07-27T03:50:00",
-      "fin": "2026-07-27T05:00:00",
+      "inicio": "2026-07-28T04:00:00",
+      "fin": "2026-07-28T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
     },
     {
       "titulo": "3x3",
       "descripcion": "Programa infomativo chileno para arrancar las mañanas actualizado que se presenta en un formato libre y distendido. 45 minutos de noticias y diversión para despertarse con buen humor y acompañar los desayunos de una forma distinta.",
-      "inicio": "2026-07-27T05:00:00",
-      "fin": "2026-07-27T06:00:00",
+      "inicio": "2026-07-28T05:00:00",
+      "fin": "2026-07-28T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/3x3.jpg"
     },
     {
       "titulo": "Teletrece AM",
       "descripcion": "Informativo matinal con la revisión de las noticias más relevantes de las últimas horas. Además el programa incluye despachos en directo y entrevistas a personajes relevantes del acontecer nacional. Un equipo de periodistas analiza en profundidad los acontecimientos para que el público se informe de la forma más completa.",
-      "inicio": "2026-07-27T06:00:00",
-      "fin": "2026-07-27T07:50:00",
+      "inicio": "2026-07-28T06:00:00",
+      "fin": "2026-07-28T07:50:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletreceam.jpg"
+    },
+    {
+      "titulo": "Tu día",
+      "descripcion": "En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.",
+      "inicio": "2026-07-28T07:50:00",
+      "fin": "2026-07-28T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tudia.jpg"
     }
   ]
 }

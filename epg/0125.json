@@ -1,66 +1,94 @@
 {
   "actual": {
-    "titulo": "Programación de trasnoche",
-    "descripcion": "Te acompañamos durante la noche con buena música.",
-    "inicio": "2026-07-26T00:00:00",
-    "fin": "2026-07-26T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Buen día",
+    "descripcion": "Un programa matutino para empezar el día con energía, presentando noticias, datos útiles, entrevistas y segmentos de entretención para toda la familia.",
+    "inicio": "2026-07-27T07:00:00",
+    "fin": "2026-07-27T10:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buendia.jpg"
   },
   "siguiente": {
-    "titulo": "La Ciudad no Para",
-    "descripcion": "Un completo magazine de fin de semana con los mejores panoramas, cultura, gastronomía, tendencias y reportajes para disfrutar la ciudad al máximo.",
-    "inicio": "2026-07-26T11:00:00",
-    "fin": "2026-07-26T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laciudadnopara.jpg"
+    "titulo": "Mi Mañana",
+    "descripcion": "Magazine de media mañana con foco en temas de actualidad, salud, hogar y tendencias. Un espacio de compañía con datos prácticos para la vida diaria.",
+    "inicio": "2026-07-27T10:00:00",
+    "fin": "2026-07-27T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mimanana.jpg"
   },
   "lista": [
-    {
-      "titulo": "Programación de trasnoche",
-      "descripcion": "Te acompañamos durante la noche con buena música.",
-      "inicio": "2026-07-26T00:00:00",
-      "fin": "2026-07-26T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La Ciudad no Para",
-      "descripcion": "Un completo magazine de fin de semana con los mejores panoramas, cultura, gastronomía, tendencias y reportajes para disfrutar la ciudad al máximo.",
-      "inicio": "2026-07-26T11:00:00",
-      "fin": "2026-07-26T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laciudadnopara.jpg"
-    },
-    {
-      "titulo": "Programación MiRadio TV",
-      "descripcion": "Canal local de la Región de Coquimbo centrado en noticias locales, actualidad y programas de conversación para la comunidad.",
-      "inicio": "2026-07-26T14:00:00",
-      "fin": "2026-07-26T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La Ciudad no Para",
-      "descripcion": "Un completo magazine de fin de semana con los mejores panoramas, cultura, gastronomía, tendencias y reportajes para disfrutar la ciudad al máximo.",
-      "inicio": "2026-07-26T16:00:00",
-      "fin": "2026-07-26T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laciudadnopara.jpg"
-    },
-    {
-      "titulo": "Programación MiRadio TV",
-      "descripcion": "Canal local de la Región de Coquimbo centrado en noticias locales, actualidad y programas de conversación para la comunidad.",
-      "inicio": "2026-07-26T19:00:00",
-      "fin": "2026-07-27T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Programación de trasnoche",
-      "descripcion": "Te acompañamos durante la noche con buena música.",
-      "inicio": "2026-07-27T00:00:00",
-      "fin": "2026-07-27T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Buen día",
       "descripcion": "Un programa matutino para empezar el día con energía, presentando noticias, datos útiles, entrevistas y segmentos de entretención para toda la familia.",
       "inicio": "2026-07-27T07:00:00",
       "fin": "2026-07-27T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buendia.jpg"
+    },
+    {
+      "titulo": "Mi Mañana",
+      "descripcion": "Magazine de media mañana con foco en temas de actualidad, salud, hogar y tendencias. Un espacio de compañía con datos prácticos para la vida diaria.",
+      "inicio": "2026-07-27T10:00:00",
+      "fin": "2026-07-27T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mimanana.jpg"
+    },
+    {
+      "titulo": "MiRadio informa",
+      "descripcion": "El principal noticiero del mediodía, con un resumen completo de los eventos más importantes a nivel local, nacional e internacional.",
+      "inicio": "2026-07-27T13:00:00",
+      "fin": "2026-07-27T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Estadio lleno",
+      "descripcion": "Toda la pasión del deporte en un solo lugar. Análisis, debate y la cobertura de las disciplinas más relevantes de la escena local y mundial.",
+      "inicio": "2026-07-27T14:00:00",
+      "fin": "2026-07-27T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/estadiolleno.jpg"
+    },
+    {
+      "titulo": "MiRadio a tu servicio",
+      "descripcion": "Un programa de servicio a la comunidad, donde especialistas responden las dudas de la audiencia.",
+      "inicio": "2026-07-27T15:00:00",
+      "fin": "2026-07-27T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Desafíos de mujer",
+      "descripcion": "Espacio de conversación que aborda las temáticas que mueven a la mujer de hoy, desde el desarrollo profesional y personal hasta la familia y el bienestar.",
+      "inicio": "2026-07-27T16:00:00",
+      "fin": "2026-07-27T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/desafiosdemujer.jpg"
+    },
+    {
+      "titulo": "Los dueños de la tarde",
+      "descripcion": "Programa de conversación y entretención que revisa con humor y cercanía los temas que marcaron la jornada. El mejor compañero para el regreso a casa.",
+      "inicio": "2026-07-27T17:00:00",
+      "fin": "2026-07-27T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losduenosdelatarde.jpg"
+    },
+    {
+      "titulo": "Fue y será noticia",
+      "descripcion": "Análisis profundo de la actualidad noticiosa. Un panel de expertos debate sobre los hechos más relevantes del día en política, economía y sociedad.",
+      "inicio": "2026-07-27T19:00:00",
+      "fin": "2026-07-27T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fueyseranoticia.jpg"
+    },
+    {
+      "titulo": "Confidencias",
+      "descripcion": "Un programa íntimo de entrevistas, donde grandes personalidades comparten sus historias de vida, anécdotas y reflexiones en una conversación profunda y reveladora.",
+      "inicio": "2026-07-27T21:00:00",
+      "fin": "2026-07-28T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Programación de trasnoche",
+      "descripcion": "Te acompañamos durante la noche con buena música.",
+      "inicio": "2026-07-28T00:00:00",
+      "fin": "2026-07-28T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Buen día",
+      "descripcion": "Un programa matutino para empezar el día con energía, presentando noticias, datos útiles, entrevistas y segmentos de entretención para toda la familia.",
+      "inicio": "2026-07-28T07:00:00",
+      "fin": "2026-07-28T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buendia.jpg"
     }
   ]
