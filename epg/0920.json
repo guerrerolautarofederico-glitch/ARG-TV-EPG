@@ -1,52 +1,227 @@
 {
   "actual": {
-    "titulo": "Encuentro",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-07-28T07:00:00",
-    "fin": "2026-07-28T13:00:00",
+    "titulo": "Artigas",
+    "descripcion": "El británico John Roberts viaja a Sudamérica para develar los misterios que rodean a Artigas, el primer caudillo rioplatense cuyo sueño de una democracia gaucha y federal chocó contra los intereses de Buenos Aires y del Imperio portugués.",
+    "inicio": "2026-07-29T07:30:00",
+    "fin": "2026-07-29T08:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Encuentro",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-07-28T13:00:00",
-    "fin": "2026-07-28T19:00:00",
+    "titulo": "Bibliotecas populares",
+    "descripcion": "Una serie donde los libros no son los protagonistas.",
+    "inicio": "2026-07-29T08:00:00",
+    "fin": "2026-07-29T09:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Encuentro",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-28T07:00:00",
-      "fin": "2026-07-28T13:00:00",
+      "titulo": "Artigas",
+      "descripcion": "El británico John Roberts viaja a Sudamérica para develar los misterios que rodean a Artigas, el primer caudillo rioplatense cuyo sueño de una democracia gaucha y federal chocó contra los intereses de Buenos Aires y del Imperio portugués.",
+      "inicio": "2026-07-29T07:30:00",
+      "fin": "2026-07-29T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bibliotecas populares",
+      "descripcion": "Una serie donde los libros no son los protagonistas.",
+      "inicio": "2026-07-29T08:00:00",
+      "fin": "2026-07-29T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Soy del pueblo",
+      "descripcion": "La historia de hombres y mujeres que con su obra y estilo lograron su lugar en el alma del pueblo y en la memoria colectiva del país. Una propuesta que recuerda a artistas como Tita Merello, Alberto Olmedo, Sandro y muchos otros.",
+      "inicio": "2026-07-29T09:00:00",
+      "fin": "2026-07-29T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Diálogos en el tiempo",
+      "descripcion": "En las paredes de cuevas y aleros de diversos lugares de la Argentina permanecen las huellas de quienes vivieron hace miles de años. Grabados y pinturas, negativos de manos, figuras animales, formas humanas, diseños abstractos.",
+      "inicio": "2026-07-29T10:00:00",
+      "fin": "2026-07-29T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Historias de adopción. Familias para armar",
+      "descripcion": "¿Qué es la adopción? ¿Cómo se construyen los vínculos entre quienes armarán una familia? Relatos de vida, la palabra de los especialistas y la invitación a reflexionar sobre diferentes maneras de pensar la familia hoy.",
+      "inicio": "2026-07-29T10:30:00",
+      "fin": "2026-07-29T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El origen de las especies",
+      "descripcion": "Es una serie documental que investiga el origen, el auténtico espíritu, la identidad y tradición del folklore. Por entrevistas a músicos, investigadores y docentes se conocen los instrumentos y se vivencian las principales festividades.",
+      "inicio": "2026-07-29T11:00:00",
+      "fin": "2026-07-29T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Arquitectos. Maestros del espacio",
+      "descripcion": "Un catálogo audiovisual sobre la obra de grandes arquitectos argentinos. Rafael Spregelburd presenta propuestas arquitectónicas que forman parte de la vida cotidiana de muchos argentinos.",
+      "inicio": "2026-07-29T11:30:00",
+      "fin": "2026-07-29T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espíritu Newbery",
+      "descripcion": "Si Jorge Newbery no hubiese nacido, no existiría el boxeo y la ciudad habría quedado a oscuras. Gracias a su intervención, muchas actividades llegaron a ser populares y cotidianas.",
+      "inicio": "2026-07-29T12:00:00",
+      "fin": "2026-07-29T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Retumbando la palabra",
+      "descripcion": "Serie documental que propone analizar el freestyle rap, la nueva tradición de la juventud, para demostrar su relevancia coyuntural, histórica y política como movimiento juvenil.",
+      "inicio": "2026-07-29T12:30:00",
+      "fin": "2026-07-29T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La isla sumergida",
+      "descripcion": "En el extremo sur del continente americano, existe una isla sumergida que, aún hoy, guarda misterios. Su origen y su evolución esconden una valiosa información sobre las riquezas del Mar Argentino.",
+      "inicio": "2026-07-29T14:00:00",
+      "fin": "2026-07-29T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Güemes",
+      "descripcion": "Un retrato humano, histórico, político y militar de la figura más trascendente de la provincia de Salta y del noroeste argentino: Martín Miguel de Güemes.",
+      "inicio": "2026-07-29T14:30:00",
+      "fin": "2026-07-29T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un loco deseo de belleza, la traición de Manuel Puig",
+      "descripcion": "Ciclo sobre Manuel Puig, escritor que introdujo la cultura de masas en la literatura y cuyos textos siempre incluyeron el cine, la mujer y la diversidad. Conocemos al autor a través de entrevistas y un detallado análisis de sus escritos.",
+      "inicio": "2026-07-29T15:00:00",
+      "fin": "2026-07-29T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La anteúltima pregunta",
+      "descripcion": "A partir de los grandes interrogantes que acompañan desde siempre a la humanidad, se despliega este acercamiento a la astrofísica y a la astronomía actual, un programa de contenido científico en el que siempre se aprende algo nuevo.",
+      "inicio": "2026-07-29T15:30:00",
+      "fin": "2026-07-29T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Nacidos por escrito",
+      "descripcion": "Este ciclo conducido por Silvia Hopenhayn busca relevar personajes de distintos cuentos y novelas que, a través de la vida imaginada por los escritores, reflejan verdades de este mundo y de nuestra identidad.",
+      "inicio": "2026-07-29T16:30:00",
+      "fin": "2026-07-29T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La isla sumergida",
+      "descripcion": "En el extremo sur del continente americano, existe una isla sumergida que, aún hoy, guarda misterios. Su origen y su evolución esconden una valiosa información sobre las riquezas del Mar Argentino.",
+      "inicio": "2026-07-29T17:00:00",
+      "fin": "2026-07-29T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Güemes",
+      "descripcion": "Un retrato humano, histórico, político y militar de la figura más trascendente de la provincia de Salta y del noroeste argentino: Martín Miguel de Güemes.",
+      "inicio": "2026-07-29T17:30:00",
+      "fin": "2026-07-29T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Flora y fauna",
+      "descripcion": "Un viaje hacia el interior de los esteros del Iberá, el extenso humedal que conserva la Provincia de Corrientes, Argentina, para descubrir historias de un mundo natural en constante adaptación al medio acuático.",
+      "inicio": "2026-07-29T18:00:00",
+      "fin": "2026-07-29T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Memorias del frente",
+      "descripcion": "En 1874, Bartolomé Mitre estrelló de frente su sublevación contra el gobierno de Domingo Faustino Sarmiento. En su avance hacia Buenos Aires, Mitre y sus siete mil hombres se enfrentaron contra sólo 800 soldados leales y perdieron.",
+      "inicio": "2026-07-29T18:30:00",
+      "fin": "2026-07-29T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Caudillos",
+      "descripcion": "A partir del contexto histórico y social de cada época, se narra la biografía de diversos caudillos, indicando quiénes fueron y qué hicieron estas figuras, así como también los feroces y violentos acontecimientos que protagonizaron.",
+      "inicio": "2026-07-29T19:00:00",
+      "fin": "2026-07-29T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Haylli, una memoria revelada",
+      "descripcion": "En sus últimos años de vida, la obra de Alberto Haylli recorrió gran parte de la historia argentina de los 80 y los 90: la dictadura militar, la guerra de Malvinas y el regreso de la democracia. Su deseo fue poner en valor su obra.",
+      "inicio": "2026-07-29T20:00:00",
+      "fin": "2026-07-29T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Universo conurbano",
+      "descripcion": "Nos internamos en el mundo de las paredes, que constituyen la galería de los sueños conurbanos. Analizamos este lienzo en el que se escriben las protestas, las ofertas, las declaraciones de amor o las amenazas del pueblo.",
+      "inicio": "2026-07-29T20:30:00",
+      "fin": "2026-07-29T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Funcional",
+      "descripcion": "El trabajo adopta muchas formas. Pero en todos esos espacios hay algo en común: el diseño.",
+      "inicio": "2026-07-29T21:00:00",
+      "fin": "2026-07-29T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Al ras del cielo",
+      "descripcion": "Las grandes dispersiones meteóricas en Argentina, como las de Campo del Cielo y Bajada del Diablo, despertaron un interés mundial. Pero no todas las miradas e intervenciones al respecto coinciden.",
+      "inicio": "2026-07-29T22:00:00",
+      "fin": "2026-07-29T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los visuales",
+      "descripcion": "La dibujante y escultora Mónica Millán, una artista cuyo trabajo de recuperación, identificación y recreación de tejidos tradicionales le permitió generar un vínculo muy fecundo.",
+      "inicio": "2026-07-29T22:30:00",
+      "fin": "2026-07-29T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Flora y fauna",
+      "descripcion": "Un recorrido por una de las áreas con mayor biodiversidad de la Argentina, el Litoral. Atravesado por el río Paraná, ofrece una abundante variedad de flora y fauna. Una propuesta visual de gran impacto narrada por la actriz Norma Aleandro.",
+      "inicio": "2026-07-29T23:00:00",
+      "fin": "2026-07-29T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Memorias del frente",
+      "descripcion": "Un grupo de investigadoras e investigadores especializados en arqueología del conflicto se adentra en distintas regiones de la Argentina para buscar rastros y evidencias materiales de combates históricos del siglo XIX.",
+      "inicio": "2026-07-29T23:30:00",
+      "fin": "2026-07-30T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Caudillos",
+      "descripcion": "A partir del contexto histórico y social de cada época, se narra la biografía de diversos caudillos, indicando quiénes fueron y qué hicieron estas figuras, así como también los feroces y violentos acontecimientos que protagonizaron.",
+      "inicio": "2026-07-30T00:00:00",
+      "fin": "2026-07-30T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Haylli, una memoria revelada",
+      "descripcion": "Alberto Haylli fue fotoperiodista y camarógrafo de la ciudad de Junín. Su obra, compuesta por más de noventa mil negativos, permaneció oculta durante años. La serie redescubre vida y obra de Haylli, su particular mirada.",
+      "inicio": "2026-07-30T01:00:00",
+      "fin": "2026-07-30T01:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Encuentro",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-28T13:00:00",
-      "fin": "2026-07-28T19:00:00",
+      "inicio": "2026-07-30T01:30:00",
+      "fin": "2026-07-30T07:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Encuentro",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-28T19:00:00",
-      "fin": "2026-07-29T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Encuentro",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-29T01:00:00",
-      "fin": "2026-07-29T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Encuentro",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-07-29T07:00:00",
-      "fin": "2026-07-29T13:00:00",
+      "inicio": "2026-07-30T07:30:00",
+      "fin": "2026-07-30T13:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
