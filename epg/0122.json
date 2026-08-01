@@ -2,156 +2,107 @@
   "actual": {
     "titulo": "Cierre de Transmisiones",
     "descripcion": "Fin de emisión.",
-    "inicio": "2026-07-31T01:00:00",
-    "fin": "2026-07-31T07:58:00",
+    "inicio": "2026-08-01T01:00:00",
+    "fin": "2026-08-01T11:58:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
   },
   "siguiente": {
     "titulo": "Inicio de Transmisiones",
     "descripcion": "Apertura de la señal y comienzo de la programación diaria.",
-    "inicio": "2026-07-31T07:58:00",
-    "fin": "2026-07-31T08:00:00",
+    "inicio": "2026-08-01T11:58:00",
+    "fin": "2026-08-01T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
       "titulo": "Cierre de Transmisiones",
       "descripcion": "Fin de emisión.",
-      "inicio": "2026-07-31T01:00:00",
-      "fin": "2026-07-31T07:58:00",
+      "inicio": "2026-08-01T01:00:00",
+      "fin": "2026-08-01T11:58:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
     },
     {
       "titulo": "Inicio de Transmisiones",
       "descripcion": "Apertura de la señal y comienzo de la programación diaria.",
-      "inicio": "2026-07-31T07:58:00",
-      "fin": "2026-07-31T08:00:00",
+      "inicio": "2026-08-01T11:58:00",
+      "fin": "2026-08-01T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Turno AM",
-      "descripcion": "Programa matinal con actualidad, servicios y entretenimiento.",
-      "inicio": "2026-07-31T08:00:00",
-      "fin": "2026-07-31T10:00:00",
+      "titulo": "Súbete... Aprenderemos",
+      "descripcion": "Espacio familiar enfocado en el aprendizaje y la curiosidad.",
+      "inicio": "2026-08-01T12:00:00",
+      "fin": "2026-08-01T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Turno Político",
-      "descripcion": "Programa de análisis, contingencia y debate político nacional.",
-      "inicio": "2026-07-31T10:00:00",
-      "fin": "2026-07-31T12:00:00",
+      "titulo": "Siniestra / Los Picapiedra",
+      "descripcion": "Maratón de series animadas clásicas. Parte del bloque infantil Zona Brocacochi.",
+      "inicio": "2026-08-01T13:00:00",
+      "fin": "2026-08-01T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "CNTV Infantil",
-      "descripcion": "Bloque de programación cultural y educativa enfocada en niños, niñas y adolescentes.",
-      "inicio": "2026-07-31T12:00:00",
-      "fin": "2026-07-31T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "Clips",
-      "descripcion": "Selección de videos musicales.",
-      "inicio": "2026-07-31T13:00:00",
-      "fin": "2026-07-31T13:30:00",
+      "titulo": "Clips, El Recital",
+      "descripcion": "Presentación de videos musicales y recitales en vivo.",
+      "inicio": "2026-08-01T14:00:00",
+      "fin": "2026-08-01T15:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Deportemanía",
-      "descripcion": "Programa dedicado a la revisión del acontecer deportivo, resúmenes y debates.",
-      "inicio": "2026-07-31T13:30:00",
-      "fin": "2026-07-31T15:30:00",
+      "titulo": "Sala 3 - Función 1: Cine Infantil / Familiar",
+      "descripcion": "Ciclo de cine enfocado para disfrutar en familia.",
+      "inicio": "2026-08-01T15:30:00",
+      "fin": "2026-08-01T17:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "CNTV Infantil",
-      "descripcion": "Bloque de programación cultural y educativa enfocada en niños, niñas y adolescentes.",
-      "inicio": "2026-07-31T15:30:00",
-      "fin": "2026-07-31T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "Sala 3",
-      "descripcion": "Espacio de exhibición cinematográfica y audiovisual.",
-      "inicio": "2026-07-31T16:30:00",
-      "fin": "2026-07-31T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Filme Actual",
-      "descripcion": "Emisión de una película contemporánea destacada.",
-      "inicio": "2026-07-31T17:30:00",
-      "fin": "2026-07-31T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Kappa Mikey",
-      "descripcion": "Serie animada que parodia la animación japonesa. Parte del bloque infantil Zona Brocacochi.",
-      "inicio": "2026-07-31T18:00:00",
-      "fin": "2026-07-31T18:45:00",
+      "titulo": "Raponchi / Jellystone! / Avatar: La Leyenda de Korra",
+      "descripcion": "Variedad de exitosas series animadas para todas las edades. Parte del bloque infantil Zona Brocacochi.",
+      "inicio": "2026-08-01T17:30:00",
+      "fin": "2026-08-01T18:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV Comunitarias",
       "descripcion": "Bloque destinado a visibilizar programas de canales y realizadores locales.",
-      "inicio": "2026-07-31T18:45:00",
-      "fin": "2026-07-31T19:00:00",
+      "inicio": "2026-08-01T18:45:00",
+      "fin": "2026-08-01T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Otra Cosa es con Guitarra",
-      "descripcion": "Programa de SNTV enfocado en el análisis crítico, conversación y música tradicional.",
-      "inicio": "2026-07-31T19:00:00",
-      "fin": "2026-07-31T20:00:00",
+      "titulo": "Herencia Viva",
+      "descripcion": "Programa cultural de Pichilemu TV que rescata tradiciones y memoria local.",
+      "inicio": "2026-08-01T19:00:00",
+      "fin": "2026-08-01T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TeleSUR",
       "descripcion": "Emisión de noticias y actualidad internacional de la cadena latinoamericana.",
-      "inicio": "2026-07-31T20:00:00",
-      "fin": "2026-07-31T21:00:00",
+      "inicio": "2026-08-01T20:00:00",
+      "fin": "2026-08-01T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "RT Noticias",
-      "descripcion": "Informativo internacional con el análisis de los principales hechos del mundo.",
-      "inicio": "2026-07-31T21:00:00",
-      "fin": "2026-07-31T21:30:00",
+      "titulo": "Sala 3 - Función Estelar: Cine Chileno",
+      "descripcion": "Exhibición de una película dedicada a la producción cinematográfica nacional.",
+      "inicio": "2026-08-01T22:00:00",
+      "fin": "2026-08-02T00:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Vistazo",
-      "descripcion": "Programa informativo de reportajes y análisis de la contingencia.",
-      "inicio": "2026-07-31T21:30:00",
-      "fin": "2026-07-31T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Wrestling Forever",
-      "descripcion": "Programa estelar dedicado a combates y entretenimiento de Lucha Libre.",
-      "inicio": "2026-07-31T22:00:00",
-      "fin": "2026-08-01T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Series de Medianoche",
-      "descripcion": "Bloque de emisión de series de ficción.",
-      "inicio": "2026-08-01T00:00:00",
-      "fin": "2026-08-01T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "encanto",
-      "descripcion": "Serie de animación para adultos de fantasía y comedia.",
-      "inicio": "2026-08-01T00:30:00",
-      "fin": "2026-08-01T01:00:00",
+      "titulo": "Sala 3 - Última Función: Cine Intenso",
+      "descripcion": "Exhibición de una película con temáticas de acción, thriller o para público maduro.",
+      "inicio": "2026-08-02T00:30:00",
+      "fin": "2026-08-02T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Cierre de Transmisiones",
       "descripcion": "Fin de emisión.",
-      "inicio": "2026-08-01T01:00:00",
-      "fin": "2026-08-01T11:58:00",
+      "inicio": "2026-08-02T02:00:00",
+      "fin": "2026-08-02T11:58:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
     }
   ]

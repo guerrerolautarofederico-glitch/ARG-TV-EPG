@@ -1,312 +1,368 @@
 {
   "actual": {
-    "titulo": "Radiograma matinal",
-    "descripcion": "Empezando el día informados sobre las noticias del momento sobre política, economía, tiempo, cultura, deporte, transporte, noticias del mundo y más.",
-    "inicio": "2026-07-31T06:00:00",
-    "fin": "2026-07-31T10:15:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiogramamatinal.jpg"
+    "titulo": "Retro Pop",
+    "descripcion": "La nueva temporada de Retro Pop suma varias novedades. Además de mostrar todos aquellos contenidos censurados en las décadas 80 y 90, hará un recorrido patrimonial apelando a la nostalgia, mostrando lugares que seguramente ya no existen.",
+    "inicio": "2026-08-01T07:00:00",
+    "fin": "2026-08-01T08:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/retropop.jpg"
   },
   "siguiente": {
-    "titulo": "Expreso Bío-Bío AM",
-    "descripcion": "El pulso de la mañana con la rapidez de Bío Bío. Noticias en desarrollo, entrevistas a los protagonistas y el análisis ciudadano de la contingencia para que comiences el día totalmente informado.",
-    "inicio": "2026-07-31T10:15:00",
-    "fin": "2026-07-31T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobioam.jpg"
+    "titulo": "Soluciones municipales",
+    "descripcion": "Un espacio donde alcaldes y alcaldesas compartirán experiencias, iniciativas e hitos de gestión que están marcando la diferencia en sus comunidades. A través del podcast, el público descubrirá todo tipo e iniciativas a través del país.",
+    "inicio": "2026-08-01T08:00:00",
+    "fin": "2026-08-01T08:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/solucionesmunicipales.jpg"
   },
   "lista": [
-    {
-      "titulo": "Radiograma matinal",
-      "descripcion": "Empezando el día informados sobre las noticias del momento sobre política, economía, tiempo, cultura, deporte, transporte, noticias del mundo y más.",
-      "inicio": "2026-07-31T06:00:00",
-      "fin": "2026-07-31T10:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiogramamatinal.jpg"
-    },
-    {
-      "titulo": "Expreso Bío-Bío AM",
-      "descripcion": "El pulso de la mañana con la rapidez de Bío Bío. Noticias en desarrollo, entrevistas a los protagonistas y el análisis ciudadano de la contingencia para que comiences el día totalmente informado.",
-      "inicio": "2026-07-31T10:15:00",
-      "fin": "2026-07-31T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobioam.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-07-31T11:00:00",
-      "fin": "2026-07-31T11:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "Expreso Bío-Bío AM",
-      "descripcion": "El pulso de la mañana con la rapidez de Bío Bío. Noticias en desarrollo, entrevistas a los protagonistas y el análisis ciudadano de la contingencia para que comiences el día totalmente informado.",
-      "inicio": "2026-07-31T11:10:00",
-      "fin": "2026-07-31T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobioam.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-07-31T12:00:00",
-      "fin": "2026-07-31T12:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "Expreso Bío-Bío AM",
-      "descripcion": "El pulso de la mañana con la rapidez de Bío Bío. Noticias en desarrollo, entrevistas a los protagonistas y el análisis ciudadano de la contingencia para que comiences el día totalmente informado.",
-      "inicio": "2026-07-31T12:10:00",
-      "fin": "2026-07-31T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobioam.jpg"
-    },
-    {
-      "titulo": "Radiograma mediodía",
-      "descripcion": "Mantente completamente informado sobre las noticias de actualidad más importantes, las cuales se han ido desarrollando durante el día.",
-      "inicio": "2026-07-31T13:00:00",
-      "fin": "2026-07-31T14:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiogramamediodia.jpg"
-    },
-    {
-      "titulo": "Expreso Bío-Bío PM",
-      "descripcion": "Un punto de encuentro para la cultura y el entretenimiento. Descubre lo mejor del deporte y la actualidad mediante entrevistas exclusivas y la voz de nuestros auditores. ¡Tu opinión es la noticia!.",
-      "inicio": "2026-07-31T14:15:00",
-      "fin": "2026-07-31T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobiopm.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-07-31T15:00:00",
-      "fin": "2026-07-31T15:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "Expreso Bío-Bío PM",
-      "descripcion": "Un punto de encuentro para la cultura y el entretenimiento. Descubre lo mejor del deporte y la actualidad mediante entrevistas exclusivas y la voz de nuestros auditores. ¡Tu opinión es la noticia!.",
-      "inicio": "2026-07-31T15:15:00",
-      "fin": "2026-07-31T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobiopm.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-07-31T16:00:00",
-      "fin": "2026-07-31T16:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "Podría ser otra cosa",
-      "descripcion": "Información y conversación con el sello de Bío Bío. Un espacio para analizar la contingencia, escuchar las entrevistas que marcan pauta y profundizar en los temas que hoy son noticia en Chile.",
-      "inicio": "2026-07-31T16:10:00",
-      "fin": "2026-07-31T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/podriaserotracosa.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-07-31T17:00:00",
-      "fin": "2026-07-31T17:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "Podría ser otra cosa",
-      "descripcion": "Información y conversación con el sello de Bío Bío. Un espacio para analizar la contingencia, escuchar las entrevistas que marcan pauta y profundizar en los temas que hoy son noticia en Chile.",
-      "inicio": "2026-07-31T17:10:00",
-      "fin": "2026-07-31T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/podriaserotracosa.jpg"
-    },
-    {
-      "titulo": "Radiograma vespertino",
-      "descripcion": "El balance informativo de la jornada con análisis a fondo y contexto. Una revisión detallada de las noticias del momento para entender la realidad política, social y económica del país.",
-      "inicio": "2026-07-31T18:00:00",
-      "fin": "2026-07-31T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiogramavespertino.jpg"
-    },
-    {
-      "titulo": "Repetición Causa y Efecto",
-      "descripcion": "Causa y Efecto: Un comentario sin filtros y punzante sobre la noticia del día. Analizamos el origen de los hechos y sus consecuencias reales, con la mirada ácida que la actualidad nacional merece.",
-      "inicio": "2026-07-31T20:00:00",
-      "fin": "2026-07-31T20:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/repeticioncausayefecto.jpg"
-    },
-    {
-      "titulo": "Tema del día",
-      "descripcion": "¿Qué pasó hoy y por qué importa? El Tema del Día desentraña la noticia principal con sus propios protagonistas. Entrevistas directas para que formes tu propia opinión sobre la actualidad del país.",
-      "inicio": "2026-07-31T20:15:00",
-      "fin": "2026-07-31T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/temadeldia.jpg"
-    },
-    {
-      "titulo": "Hoy en la Radio",
-      "descripcion": "El análisis más completo de la actualidad y la cultura. Comentamos las noticias del momento, la contingencia nacional y recibimos a grandes artistas invitados para conversar sobre sus proyectos.",
-      "inicio": "2026-07-31T20:30:00",
-      "fin": "2026-07-31T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenlaradio.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-07-31T21:00:00",
-      "fin": "2026-07-31T21:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "Hoy en la Radio",
-      "descripcion": "El análisis más completo de la actualidad y la cultura. Comentamos las noticias del momento, la contingencia nacional y recibimos a grandes artistas invitados para conversar sobre sus proyectos.",
-      "inicio": "2026-07-31T21:05:00",
-      "fin": "2026-07-31T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenlaradio.jpg"
-    },
-    {
-      "titulo": "Punto de encuentro",
-      "descripcion": "Punto de Encuentro, con Julio Sánchez, acompaña tu mañana dominical. Un espacio de debate audaz que disecciona la realidad nacional y global con entrevistas críticas y un panel de expertos destacados.",
-      "inicio": "2026-07-31T21:30:00",
-      "fin": "2026-07-31T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puntodeencuentro.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-07-31T22:00:00",
-      "fin": "2026-07-31T22:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "Hoy en la Radio",
-      "descripcion": "El análisis más completo de la actualidad y la cultura. Comentamos las noticias del momento, la contingencia nacional y recibimos a grandes artistas invitados para conversar sobre sus proyectos.",
-      "inicio": "2026-07-31T22:10:00",
-      "fin": "2026-07-31T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenlaradio.jpg"
-    },
-    {
-      "titulo": "Hoy en la Radio",
-      "descripcion": "El análisis más completo de la actualidad y la cultura. Comentamos las noticias del momento, la contingencia nacional y recibimos a grandes artistas invitados para conversar sobre sus proyectos.",
-      "inicio": "2026-07-31T22:30:00",
-      "fin": "2026-07-31T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenlaradio.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-07-31T23:00:00",
-      "fin": "2026-07-31T23:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "Hoy en la Radio",
-      "descripcion": "El análisis más completo de la actualidad y la cultura. Comentamos las noticias del momento, la contingencia nacional y recibimos a grandes artistas invitados para conversar sobre sus proyectos.",
-      "inicio": "2026-07-31T23:05:00",
-      "fin": "2026-07-31T23:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenlaradio.jpg"
-    },
-    {
-      "titulo": "Hoy en la Radio",
-      "descripcion": "El análisis más completo de la actualidad y la cultura. Comentamos las noticias del momento, la contingencia nacional y recibimos a grandes artistas invitados para conversar sobre sus proyectos.",
-      "inicio": "2026-07-31T23:10:00",
-      "fin": "2026-08-01T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenlaradio.jpg"
-    },
-    {
-      "titulo": "Radiograma medianoche",
-      "descripcion": "El recuento de las noticias más importantes que sucedieron durante el día.",
-      "inicio": "2026-08-01T00:00:00",
-      "fin": "2026-08-01T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiograma.jpg"
-    },
-    {
-      "titulo": "El trasnoche de La Radio",
-      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
-      "inicio": "2026-08-01T00:30:00",
-      "fin": "2026-08-01T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-08-01T01:00:00",
-      "fin": "2026-08-01T01:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "El trasnoche de La Radio",
-      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
-      "inicio": "2026-08-01T01:10:00",
-      "fin": "2026-08-01T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-08-01T02:00:00",
-      "fin": "2026-08-01T02:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "El trasnoche de La Radio",
-      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
-      "inicio": "2026-08-01T02:10:00",
-      "fin": "2026-08-01T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-08-01T03:00:00",
-      "fin": "2026-08-01T03:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "El trasnoche de La Radio",
-      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
-      "inicio": "2026-08-01T03:10:00",
-      "fin": "2026-08-01T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-08-01T04:00:00",
-      "fin": "2026-08-01T04:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "El trasnoche de La Radio",
-      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
-      "inicio": "2026-08-01T04:10:00",
-      "fin": "2026-08-01T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
-    },
-    {
-      "titulo": "El Informador",
-      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
-      "inicio": "2026-08-01T05:00:00",
-      "fin": "2026-08-01T05:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
-    },
-    {
-      "titulo": "El trasnoche de La Radio",
-      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
-      "inicio": "2026-08-01T05:10:00",
-      "fin": "2026-08-01T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
-    },
-    {
-      "titulo": "Umbrales",
-      "descripcion": "Hugo Mazuela conduce este espacio donde expertos analizan historias paranormales y hechos sin explicación. Programa para debatir y descubrir situaciones que desafían la lógica y quedan al descubierto.",
-      "inicio": "2026-08-01T06:00:00",
-      "fin": "2026-08-01T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/umbrales.jpg"
-    },
-    {
-      "titulo": "La voz de las sombras",
-      "descripcion": "Serie audiovisual que rescata el patrimonio material e inmaterial, mitos y leyendas de la región de Ñuble. Una producción que revive la identidad local a través de relatos y tradiciones regionales.",
-      "inicio": "2026-08-01T06:30:00",
-      "fin": "2026-08-01T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lavozdelassombras.jpg"
-    },
     {
       "titulo": "Retro Pop",
       "descripcion": "La nueva temporada de Retro Pop suma varias novedades. Además de mostrar todos aquellos contenidos censurados en las décadas 80 y 90, hará un recorrido patrimonial apelando a la nostalgia, mostrando lugares que seguramente ya no existen.",
       "inicio": "2026-08-01T07:00:00",
       "fin": "2026-08-01T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/retropop.jpg"
+    },
+    {
+      "titulo": "Soluciones municipales",
+      "descripcion": "Un espacio donde alcaldes y alcaldesas compartirán experiencias, iniciativas e hitos de gestión que están marcando la diferencia en sus comunidades. A través del podcast, el público descubrirá todo tipo e iniciativas a través del país.",
+      "inicio": "2026-08-01T08:00:00",
+      "fin": "2026-08-01T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/solucionesmunicipales.jpg"
+    },
+    {
+      "titulo": "Zenarte",
+      "descripcion": "Zenarte con Joel Solorza: El espacio donde la gastronomía y el arte se encuentran. Joel nos invita a ver más allá de lo evidente, porque \\.",
+      "inicio": "2026-08-01T08:30:00",
+      "fin": "2026-08-01T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zenarte.jpg"
+    },
+    {
+      "titulo": "Impacto tecnológico",
+      "descripcion": "Impacto Tecnológico: el espacio definitivo sobre transformación digital, inteligencia artificial y ciberseguridad. Analizamos cómo el avance de la ciencia y las startups mueven la economía de Chile.",
+      "inicio": "2026-08-01T09:00:00",
+      "fin": "2026-08-01T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/impactotecnologico.jpg"
+    },
+    {
+      "titulo": "Patrimonio: historia viviente",
+      "descripcion": "Recorre diferentes espacios relevantes de la región del bío bío, los cuales marcan la historia de la ciudad y otros que, con el pasar de los años, han cobrado protagonismo gracias a sus habitantes.",
+      "inicio": "2026-08-01T09:30:00",
+      "fin": "2026-08-01T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/patrimoniohistoriaviviente.jpg"
+    },
+    {
+      "titulo": "Deportistas con Historia",
+      "descripcion": "Un espacio para descubrir las trayectorias de los máximos referentes nacionales. Entrevistas íntimas que revelan el esfuerzo, los triunfos y el legado de los y las grandes cracks de Chile.",
+      "inicio": "2026-08-01T10:00:00",
+      "fin": "2026-08-01T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportistasconhistoria.jpg"
+    },
+    {
+      "titulo": "Rebotopia Con Rebochef",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-01T10:30:00",
+      "fin": "2026-08-01T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rebotopiaconrebochef.jpg"
+    },
+    {
+      "titulo": "MotorFem",
+      "descripcion": "Una producción sobre movilidad e industria automotriz desde una perspectiva práctica y entretenida. El público podrá informarse sobre la capacidad, seguridad y la ficha técnica de los últimos modelos de autos del mercado.",
+      "inicio": "2026-08-01T11:00:00",
+      "fin": "2026-08-01T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/motorfem.jpg"
+    },
+    {
+      "titulo": "Del fin del mundo",
+      "descripcion": "Encuentros de autor sobre literatura, teatro y espectáculos. Una charla esencial de cultura y actualidad con la mirada experta de Ana Josefa Silva y Marco Antonio de la Parra. Pasión por las artes.",
+      "inicio": "2026-08-01T11:30:00",
+      "fin": "2026-08-01T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/delfindelmundo.jpg"
+    },
+    {
+      "titulo": "Entrevista Detrás de las Máscaras",
+      "descripcion": "Descubre Detrás de las Máscaras con Leopoldo Pulgar. El rincón definitivo dedicado a las entrevistas, análisis y comentarios del mundo de las artes visuales, teatro, películas, música y espectáculos.",
+      "inicio": "2026-08-01T12:00:00",
+      "fin": "2026-08-01T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistadetrasdelasmascaras.jpg"
+    },
+    {
+      "titulo": "Conexión Digital",
+      "descripcion": "Cristian Chaparro te trae Conexión Digital: el espacio ideal para descubrir las últimas novedades del mundo de la tecnología. Mantente al día con las tendencias que están transformando el futuro.",
+      "inicio": "2026-08-01T12:30:00",
+      "fin": "2026-08-01T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexiondigital.jpg"
+    },
+    {
+      "titulo": "Sello de raza",
+      "descripcion": "Sello de Raza preserva la tradición chilena, sus oficios y al caballo chileno. Con 14 años, es un homenaje a la memoria viva de Chile, su gente y cultura. Es la raíz de un país que no se olvida.",
+      "inicio": "2026-08-01T13:00:00",
+      "fin": "2026-08-01T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/selloderaza.jpg"
+    },
+    {
+      "titulo": "Psicología abierta",
+      "descripcion": "Un podcast de divulgación en donde se tratan los temas más relevantes y contingentes del mundo de la psicología, cómo nos afectan la cotidianeidad y el crecimiento personal, conducido por Ignacio Simón y la presencia de diversos invitados.",
+      "inicio": "2026-08-01T14:00:00",
+      "fin": "2026-08-01T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/psicologiaabierta.jpg"
+    },
+    {
+      "titulo": "Retoinmobiliario",
+      "descripcion": "Dos expertas brindan las claves para invertir con éxito. Tips estratégicos y consejos prácticos para transformar propiedades en activos reales y muy rentables.",
+      "inicio": "2026-08-01T14:30:00",
+      "fin": "2026-08-01T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/retoinmobiliario.jpg"
+    },
+    {
+      "titulo": "Cápsulas Bio Bio",
+      "descripcion": "Breves de actualidad: un recorrido por la política e información y el pulso de la economía. Cerramos con lo mejor de la cultura y la música en una síntesis de temas clave.",
+      "inicio": "2026-08-01T15:00:00",
+      "fin": "2026-08-01T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/capsulasbiobio.jpg"
+    },
+    {
+      "titulo": "Resumen tema del día",
+      "descripcion": "¿Te perdiste lo más relevante? Resumimos los momentos clave de la semana en \\.",
+      "inicio": "2026-08-01T15:30:00",
+      "fin": "2026-08-01T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/resumentemadeldia.jpg"
+    },
+    {
+      "titulo": "Entrevista De Tomás Mosciatti",
+      "descripcion": "El periodista Tomás Mosciatti analiza la actualidad social y política de Chile y el mundo junto a expertos invitados. El público podrá informarse al completo a través de un debate que despliega los acontecimientos diarios más destacados.",
+      "inicio": "2026-08-01T16:00:00",
+      "fin": "2026-08-01T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistadetomasmosciatti.jpg"
+    },
+    {
+      "titulo": "Chile: 1989 - 2019",
+      "descripcion": "Junto a Alejandro San Francisco, reconocido historiador e investigador, analizamos distintos hitos del país a lo largo de 30 años, desde el punto de vista de la política, la historia y la sociedad.",
+      "inicio": "2026-08-01T16:30:00",
+      "fin": "2026-08-01T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chile19892019.jpg"
+    },
+    {
+      "titulo": "Chile: 1989 - 2019. Historia De 30 Años",
+      "descripcion": "Junto a Alejandro San Francisco, reconocido historiador e investigador, analizamos distintos hitos del país a lo largo de 30 años, desde el punto de vista de la política, la historia y la sociedad.",
+      "inicio": "2026-08-01T17:00:00",
+      "fin": "2026-08-01T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chile19892019historiade30anos.jpg"
+    },
+    {
+      "titulo": "Tú mereces ser feliz",
+      "descripcion": "Historias de inspiración, buenas noticias y el esfuerzo de pymes nacionales para inspirarte con la conducción del periodista y coach Joaquín Pincheira.",
+      "inicio": "2026-08-01T17:30:00",
+      "fin": "2026-08-01T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tumerecesserfeliz.jpg"
+    },
+    {
+      "titulo": "Realizadores",
+      "descripcion": "El realizador audiovisual, Gonzalo Silva, nos presenta a los mejores exponentes de las artes y el patrimonio cultural, en esta serie de documentales íntimos e inspiradores.",
+      "inicio": "2026-08-01T18:00:00",
+      "fin": "2026-08-01T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/realizadores.jpg"
+    },
+    {
+      "titulo": "Más de ti",
+      "descripcion": "Acompaña a Jesenia Urzúa en este espacio de conversación único. Junto a invitados del mundo de la música y el espectáculo nacional, descubre las historias y novedades de tus artistas favoritos.",
+      "inicio": "2026-08-01T18:30:00",
+      "fin": "2026-08-01T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/masdeti.jpg"
+    },
+    {
+      "titulo": "Aquí estamos",
+      "descripcion": "Aquí Estamos: Claudio Moreno y el psicólogo Daniel Sánchez reflexionan sobre la vida cotidiana. Humor y psicología se unen con grandes invitados para analizar temas del día a día. ¡No te lo pierdas!.",
+      "inicio": "2026-08-01T19:00:00",
+      "fin": "2026-08-01T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquiestamos.jpg"
+    },
+    {
+      "titulo": "Te invito a tomar once",
+      "descripcion": "Un programa para conversar alrededor de una mesa entre personas comunes y corrientes, y personalidades de la sociedad. Se de un espacio entretenido para compartir los diversos puntos de vista sobre las diversas realidades de Chile.",
+      "inicio": "2026-08-01T19:30:00",
+      "fin": "2026-08-01T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teinvitoatomaronce.jpg"
+    },
+    {
+      "titulo": "Siguiendo la Luna",
+      "descripcion": "La talentosa artista y compositora, Luna Marinetti, conduceeste espacio donde conversa con los más grandes exponentes de la música chilena. Además de conocer a fondo sus carreras, se adentra en sus vidas y los detalles pocos conocidos.",
+      "inicio": "2026-08-01T20:00:00",
+      "fin": "2026-08-01T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siguiendoalaluna.jpg"
+    },
+    {
+      "titulo": "Yo invito",
+      "descripcion": "Conoce distintas recetas para realizar platos deliciosos con la explicación de Enrique Araya. El chef ofrece los mejores consejos para utilizar los ingredientes de mejor calidad y sacarles todo el provecho en tus próximas comidas.",
+      "inicio": "2026-08-01T20:30:00",
+      "fin": "2026-08-01T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yoinvito.jpg"
+    },
+    {
+      "titulo": "Comentarios de Tomás Mosciatti",
+      "descripcion": "Tomás Mosciatti analiza los hechos políticos que marcaron la semana en Chile. Una mirada crítica sobre las decisiones del poder, las contradicciones del sistema y lo que el país debe saber hoy.",
+      "inicio": "2026-08-01T21:00:00",
+      "fin": "2026-08-01T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comentariosdetomasmosciatti.jpg"
+    },
+    {
+      "titulo": "Bitácora musical",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-01T22:00:00",
+      "fin": "2026-08-01T22:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bitacoramusical.jpg"
+    },
+    {
+      "titulo": "La ruta del pulsar",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-01T22:05:00",
+      "fin": "2026-08-01T22:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larutadelpulsar.jpg"
+    },
+    {
+      "titulo": "Bitácora musical",
+      "descripcion": "Bitácora Musical con Miguel Guerra: el espacio definitivo que narra las historias, secretos y anécdotas ocultas detrás de los grandes clásicos del pop y el rock. ¡Viaja por la memoria de la música!.",
+      "inicio": "2026-08-01T22:10:00",
+      "fin": "2026-08-01T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bitacoramusical.jpg"
+    },
+    {
+      "titulo": "De plato en plato con Rebochef",
+      "descripcion": "Cristián Rebolledo recorre los mejores restaurantes del país. Acompáñalo en cada capítulo a probar platos exquisitos y tragos de autor en una ruta gastronómica imperdible. ¡A disfrutar!.",
+      "inicio": "2026-08-01T22:30:00",
+      "fin": "2026-08-01T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deplatoenplatoconrebochef.jpg"
+    },
+    {
+      "titulo": "Sin Límites: México",
+      "descripcion": "Claudio Vásquez viaja a México para explorar su fascinante mezcla de tradiciones milenarias, gastronomía única, cultura vibrante y paisajes de vanguardia. El público podrá descubrir las regiones del país como nunca antes.",
+      "inicio": "2026-08-01T23:00:00",
+      "fin": "2026-08-01T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinlimitesmexico.jpg"
+    },
+    {
+      "titulo": "D película",
+      "descripcion": "Análisis del séptimo arte con agudas críticas de estrenos, novedades de la industria, el pulso del cine chileno y coberturas especiales de los principales festivales cinematográficos del mundo.",
+      "inicio": "2026-08-01T23:30:00",
+      "fin": "2026-08-02T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dpelicula.jpg"
+    },
+    {
+      "titulo": "Radiograma medianoche",
+      "descripcion": "El recuento de las noticias más importantes que sucedieron durante el día.",
+      "inicio": "2026-08-02T00:00:00",
+      "fin": "2026-08-02T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiograma.jpg"
+    },
+    {
+      "titulo": "El trasnoche de La Radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-02T00:30:00",
+      "fin": "2026-08-02T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
+    },
+    {
+      "titulo": "El Informador",
+      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
+      "inicio": "2026-08-02T01:00:00",
+      "fin": "2026-08-02T01:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "El trasnoche de La Radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-02T01:10:00",
+      "fin": "2026-08-02T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
+    },
+    {
+      "titulo": "El Informador",
+      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
+      "inicio": "2026-08-02T02:00:00",
+      "fin": "2026-08-02T02:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "El trasnoche de La Radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-02T02:10:00",
+      "fin": "2026-08-02T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
+    },
+    {
+      "titulo": "El Informador",
+      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
+      "inicio": "2026-08-02T03:00:00",
+      "fin": "2026-08-02T03:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "El trasnoche de La Radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-02T03:10:00",
+      "fin": "2026-08-02T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
+    },
+    {
+      "titulo": "El Informador",
+      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
+      "inicio": "2026-08-02T04:00:00",
+      "fin": "2026-08-02T04:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "El trasnoche de La Radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-02T04:10:00",
+      "fin": "2026-08-02T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
+    },
+    {
+      "titulo": "El Informador",
+      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
+      "inicio": "2026-08-02T05:00:00",
+      "fin": "2026-08-02T05:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "El trasnoche de La Radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-02T05:10:00",
+      "fin": "2026-08-02T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
+    },
+    {
+      "titulo": "El Informador",
+      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
+      "inicio": "2026-08-02T06:00:00",
+      "fin": "2026-08-02T06:09:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "El trasnoche de La Radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-02T06:09:00",
+      "fin": "2026-08-02T06:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
+    },
+    {
+      "titulo": "El trasnoche de La Radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-02T06:10:00",
+      "fin": "2026-08-02T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
+    },
+    {
+      "titulo": "El Informador",
+      "descripcion": "¡Infórmate en tiempo récord! El resumen más ágil con los hechos clave de hoy. Noticias y contingencia en una síntesis rápida, directa y precisa para quienes no tienen un segundo que perder.",
+      "inicio": "2026-08-02T07:00:00",
+      "fin": "2026-08-02T07:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "El trasnoche de La Radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-02T07:10:00",
+      "fin": "2026-08-02T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
     }
   ]
 }
