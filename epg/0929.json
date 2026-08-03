@@ -1,178 +1,262 @@
 {
   "actual": {
-    "titulo": "Inova",
-    "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-    "inicio": "2026-08-02T07:30:00",
-    "fin": "2026-08-02T08:00:00",
+    "titulo": "Esme & Roy",
+    "descripcion": "Una niña llamada Esme, y su mejor amigo, un monstruo llamado Roy, cuidan a diversas criaturas.",
+    "inicio": "2026-08-03T08:00:00",
+    "fin": "2026-08-03T08:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Mandibulin",
-    "descripcion": "Cuatro niños y un tiburón resuelven misterios submarinos.",
-    "inicio": "2026-08-02T08:00:00",
-    "fin": "2026-08-02T09:00:00",
+    "titulo": "Daniel Tigre",
+    "descripcion": "Daniel Tigre, un pequeño de 4 años, y sus amigos tienen muchas interesantes aventuras de aprendizaje.",
+    "inicio": "2026-08-03T08:30:00",
+    "fin": "2026-08-03T09:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Inova",
-      "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-      "inicio": "2026-08-02T07:30:00",
-      "fin": "2026-08-02T08:00:00",
+      "titulo": "Esme & Roy",
+      "descripcion": "Una niña llamada Esme, y su mejor amigo, un monstruo llamado Roy, cuidan a diversas criaturas.",
+      "inicio": "2026-08-03T08:00:00",
+      "fin": "2026-08-03T08:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Mandibulin",
-      "descripcion": "Cuatro niños y un tiburón resuelven misterios submarinos.",
-      "inicio": "2026-08-02T08:00:00",
-      "fin": "2026-08-02T09:00:00",
+      "titulo": "Daniel Tigre",
+      "descripcion": "Daniel Tigre, un pequeño de 4 años, y sus amigos tienen muchas interesantes aventuras de aprendizaje.",
+      "inicio": "2026-08-03T08:30:00",
+      "fin": "2026-08-03T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "El laboratorio de Dexter",
-      "descripcion": "Dexter es un pequeño superdotado que transformó su habitación en un increíble laboratorio. Allí realiza todo tipo de experimentos extraños, pero todo está bajo control, o al menos si su hermana Dee Dee no aparece.",
-      "inicio": "2026-08-02T09:00:00",
-      "fin": "2026-08-02T10:00:00",
+      "titulo": "Gigantosaurus",
+      "descripcion": "Cuatro amigos de dinosaurios exploran su mundo y buscan y aprenden sobre el 'Gigantosaurus', el dinosaurio más grande y feroz de todos.",
+      "inicio": "2026-08-03T09:00:00",
+      "fin": "2026-08-03T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "LEGO Friends: El nuevo capítulo",
+      "descripcion": "Aliya, Autumn, Leo, Zac, Nova, Paisley, Olly y Liann cursan su primer año en la escuela secundaria y hacen amigos. Durante ese tiempo, los adolescentes se unen para salvar un edificio en ruinas y convertirlo en un centro comunitario.",
+      "inicio": "2026-08-03T09:30:00",
+      "fin": "2026-08-03T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Masha y el oso",
+      "descripcion": "Masha es una niña inquieta que explora el mundo. Un buen día, conoce a Oso, un animal de gran corazón que se convierte en su accidental compañero de aventuras.",
+      "inicio": "2026-08-03T10:00:00",
+      "fin": "2026-08-03T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bluey",
+      "descripcion": "Las aventuras de una cachorra de pastor australiano que se divierte con su familia y amigos en situaciones de la vida cotidiana.",
+      "inicio": "2026-08-03T10:30:00",
+      "fin": "2026-08-03T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
+    },
+    {
+      "titulo": "Princesita Sofía",
+      "descripcion": "La pequeña Sofía comienza su vida como una niña común. Pero cuando su mamá Miranda se casa con el Rey Roland II, ella rápidamente pasa a un glamoroso mundo de castillos y realeza con nuevos hermanastros: Amber y James.",
+      "inicio": "2026-08-03T11:00:00",
+      "fin": "2026-08-03T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La casa de Mickey Mouse",
+      "descripcion": "Mickey, Minnie, el Pato Donald, Daisy, Goofy y Pluto ayudarán a los más pequeños a resolver distintos acertijos utilizando habilidades básicas como identificar las formas o contar hasta diez.",
+      "inicio": "2026-08-03T11:30:00",
+      "fin": "2026-08-03T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pokemon",
+      "descripcion": "El joven Ash Ketchum da sus primeros pasos en el entrenamiento Pokémon al cumplir 10 años y emprende una aventura para ganar las ocho medallas de los gimnasios que necesita para competir en su primer torneo oficial.",
+      "inicio": "2026-08-03T12:00:00",
+      "fin": "2026-08-03T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Nuevas Peliculas de Scooby Doo",
+      "descripcion": "Nuevas Peliculas de Scooby Doo.",
+      "inicio": "2026-08-03T12:30:00",
+      "fin": "2026-08-03T13:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Los Pitufos",
       "descripcion": "Las aventuras de unas pequeñas criaturas azules que viven en armonía en un bosque, que tendrán que luchar contra los malvados planes de Gargamel.",
-      "inicio": "2026-08-02T10:00:00",
-      "fin": "2026-08-02T11:15:00",
+      "inicio": "2026-08-03T13:30:00",
+      "fin": "2026-08-03T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Duck Dodgers",
-      "descripcion": "Duck Dodgers lucha contra el mal en el siglo 24.",
-      "inicio": "2026-08-02T11:15:00",
-      "fin": "2026-08-02T12:15:00",
+      "titulo": "El nuevo show del Pájaro Loco",
+      "descripcion": "Un pájaro chiflado que se enreda de todas las maneras en problemas divertidos.",
+      "inicio": "2026-08-03T15:00:00",
+      "fin": "2026-08-03T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "El Reino de los Elfos",
-      "descripcion": "En el mundo élfico de Altera se desarrolla una batalla épica entre la bella princesa Liya y la elfa oscura Elena, que se ha apoderado de una joya tan poderosa que le otorga a su poseedor una autoridad absoluta sobre todos los habitantes de Altera.",
-      "inicio": "2026-08-02T12:15:00",
-      "fin": "2026-08-02T14:15:00",
+      "titulo": "Las Chicas Superpoderosas",
+      "descripcion": "Accidentalmente creadas en un laboratorio por un científico, tres niñas luchan contra los malhechores en Saltadilla.",
+      "inicio": "2026-08-03T16:00:00",
+      "fin": "2026-08-03T17:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "El hombre de la máscara de hierro",
-      "descripcion": "Ex mosqueteros tratan de derrocar al tiránico rey Luis XIV y utilizan a su encarcelado hermano gemelo en su plan.",
-      "inicio": "2026-08-02T14:15:00",
-      "fin": "2026-08-02T17:15:00",
+      "titulo": "El show de Garfield",
+      "descripcion": "Las travesuras de Garfield, un gato naranja y sardónico cuyas únicas aficiones son comer lasaña y dormir.",
+      "inicio": "2026-08-03T17:00:00",
+      "fin": "2026-08-03T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Corazón valiente",
-      "descripcion": "William Wallace, un indómito rebelde escocés, lidera una revuelta contra los ingleses con el objetivo de independizar Escocia de Inglaterra y liberar a su pueblo de la tiranía del rey Eduardo I.",
-      "inicio": "2026-08-02T17:15:00",
-      "fin": "2026-08-02T21:00:00",
+      "titulo": "Escandalosos",
+      "descripcion": "Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse.",
+      "inicio": "2026-08-03T18:00:00",
+      "fin": "2026-08-03T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "10.000 Ac",
-      "descripcion": "Un joven cazador de mamuts de la prehistoria, lidera un pequeño grupo de miembros de su tribu en un viaje a los confines de la Tierra en una misión para salvar a su amada.",
-      "inicio": "2026-08-02T21:00:00",
-      "fin": "2026-08-02T23:15:00",
+      "titulo": "Dragon Ball Super",
+      "descripcion": "Seis meses después de la batalla contra Boo, la llegada de Beerus, el dios de la destrucción, amenaza la paz en la Tierra. Beerus ha cruzado el universo para encontrar las esferas del Dragón.",
+      "inicio": "2026-08-03T19:00:00",
+      "fin": "2026-08-03T20:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Godzilla II: El rey de los monstruos",
-      "descripcion": "Las aventuras de unos criptozoólogos de una agencia mientras tratan de enfrentarse a unos monstruos entre los que se encuentra el propio Godzilla. Entre todos intentarán frenar a estas criaturas que harán todo lo posible por sobrevivir.",
-      "inicio": "2026-08-02T23:15:00",
-      "fin": "2026-08-03T02:00:00",
+      "titulo": "Malcolm el de en medio",
+      "descripcion": "Los Cleavers son una familia peculiar. La madre es una crontroladora radical que grita, el padre es un hombre chistoso calvo, el hijo mayor, Francis huyo de la familia a corta edad, Reese es un criminal, Dewey es un cadete espacial y el joven Jamie es un chivo expiatorio. El niño del medio es Malcolm , es un genio que no quiere ser agotado por su ingenio.",
+      "inicio": "2026-08-03T20:30:00",
+      "fin": "2026-08-03T21:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Farmacias Similares",
-      "descripcion": "Farmacias Similares.",
-      "inicio": "2026-08-03T02:00:00",
-      "fin": "2026-08-03T02:30:00",
+      "titulo": "Un día para vivir",
+      "descripcion": "Una mujer desconocida trae una advertencia: tienen 24 horas para resolver sus secretos. Los protagonistas de cada historia hacen lo posible para ganar tiempo en una carrera contrarreloj.",
+      "inicio": "2026-08-03T21:30:00",
+      "fin": "2026-08-03T22:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Inova",
-      "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-      "inicio": "2026-08-03T02:30:00",
-      "fin": "2026-08-03T03:00:00",
+      "titulo": "Un día para vivir",
+      "descripcion": "Una mujer desconocida trae una advertencia: tienen 24 horas para resolver sus secretos. Los protagonistas de cada historia hacen lo posible para ganar tiempo en una carrera contrarreloj.",
+      "inicio": "2026-08-03T22:30:00",
+      "fin": "2026-08-03T23:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Inova",
-      "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-      "inicio": "2026-08-03T03:00:00",
-      "fin": "2026-08-03T03:30:00",
+      "titulo": "Dra. Lucía: Un don extraordinario",
+      "descripcion": "Tras un accidente, la Dra. Lucía Castillo, especialista en urgencias médico-quirúrgicas, puede conectarse a nivel psíquico con sus pacientes y salvar las vidas, aunque la suya corra peligro.",
+      "inicio": "2026-08-03T23:30:00",
+      "fin": "2026-08-04T00:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Inova",
-      "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-      "inicio": "2026-08-03T03:30:00",
-      "fin": "2026-08-03T04:00:00",
+      "titulo": "Lotería del crimen",
+      "descripcion": "En Ciudad de México se acumulan día a día decenas de delitos atípicos y misteriosos que parecen imposibles de resolver. Solo un equipo es capaz de lograrlo, la Unidad de Inteligencia Criminal.",
+      "inicio": "2026-08-04T00:30:00",
+      "fin": "2026-08-04T01:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Inova",
-      "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-      "inicio": "2026-08-03T04:00:00",
-      "fin": "2026-08-03T04:30:00",
+      "titulo": "NCIS: Hawaii",
+      "descripcion": "La primera agente especial a cargo de NCIS, Pearl Harbor, toma el mando. Ella y su equipo equilibran el deber con la familia y el país, investigando crímenes de alto riesgo que involucran al personal militar, la seguridad nacional y los misterios de Hawaii.",
+      "inicio": "2026-08-04T01:30:00",
+      "fin": "2026-08-04T02:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Inova",
-      "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-      "inicio": "2026-08-03T04:30:00",
-      "fin": "2026-08-03T05:00:00",
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-08-04T02:30:00",
+      "fin": "2026-08-04T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Inova",
-      "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-      "inicio": "2026-08-03T05:00:00",
-      "fin": "2026-08-03T05:30:00",
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-08-04T03:00:00",
+      "fin": "2026-08-04T03:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Inova",
-      "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-      "inicio": "2026-08-03T05:30:00",
-      "fin": "2026-08-03T06:00:00",
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-08-04T03:30:00",
+      "fin": "2026-08-04T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Inova",
-      "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-      "inicio": "2026-08-03T06:00:00",
-      "fin": "2026-08-03T06:30:00",
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-08-04T04:00:00",
+      "fin": "2026-08-04T04:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Inova",
-      "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-      "inicio": "2026-08-03T06:30:00",
-      "fin": "2026-08-03T07:00:00",
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-08-04T04:30:00",
+      "fin": "2026-08-04T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-08-04T05:00:00",
+      "fin": "2026-08-04T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-08-04T05:30:00",
+      "fin": "2026-08-04T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-08-04T06:00:00",
+      "fin": "2026-08-04T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-08-04T06:30:00",
+      "fin": "2026-08-04T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Barras de ajuste",
       "descripcion": "Programación por anunciarse.",
-      "inicio": "2026-08-03T07:00:00",
-      "fin": "2026-08-03T07:15:00",
+      "inicio": "2026-08-04T07:00:00",
+      "fin": "2026-08-04T07:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Rtc",
       "descripcion": "Espacio del gobierno de México.",
-      "inicio": "2026-08-03T07:15:00",
-      "fin": "2026-08-03T07:30:00",
+      "inicio": "2026-08-04T07:15:00",
+      "fin": "2026-08-04T07:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Inova",
-      "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-      "inicio": "2026-08-03T07:30:00",
-      "fin": "2026-08-03T08:00:00",
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-08-04T07:30:00",
+      "fin": "2026-08-04T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Esme & Roy",
+      "descripcion": "Una niña llamada Esme, y su mejor amigo, un monstruo llamado Roy, cuidan a diversas criaturas.",
+      "inicio": "2026-08-04T08:00:00",
+      "fin": "2026-08-04T08:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
