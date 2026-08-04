@@ -2,143 +2,129 @@
   "actual": {
     "titulo": "Fuera del aire",
     "descripcion": "Fin de emisión.",
-    "inicio": "2026-08-03T00:00:00",
-    "fin": "2026-08-03T08:30:00",
+    "inicio": "2026-08-04T00:00:00",
+    "fin": "2026-08-04T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fueradelaire.jpg"
   },
   "siguiente": {
-    "titulo": "Bucky, en Busca del Mundo Cero",
-    "descripcion": "La historia de un chico llamado Bucky cuyo sueño es dominar el mundo, pero para ello deberá ir por los doce mundos en busca del mundo cero acompañado por sus dos amigos y sus espíritus.",
-    "inicio": "2026-08-03T08:30:00",
-    "fin": "2026-08-03T09:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buckyenbuscadelmundocero.jpg"
+    "titulo": "Swiss Nature Labs",
+    "descripcion": "Programa de televentas que muestra las mejores soluciones de salud, belleza y bienestar de origen natural.",
+    "inicio": "2026-08-04T10:00:00",
+    "fin": "2026-08-04T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/swissnaturelabs.jpg"
   },
   "lista": [
-    {
-      "titulo": "Fuera del aire",
-      "descripcion": "Fin de emisión.",
-      "inicio": "2026-08-03T00:00:00",
-      "fin": "2026-08-03T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fueradelaire.jpg"
-    },
-    {
-      "titulo": "Bucky, en Busca del Mundo Cero",
-      "descripcion": "La historia de un chico llamado Bucky cuyo sueño es dominar el mundo, pero para ello deberá ir por los doce mundos en busca del mundo cero acompañado por sus dos amigos y sus espíritus.",
-      "inicio": "2026-08-03T08:30:00",
-      "fin": "2026-08-03T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buckyenbuscadelmundocero.jpg"
-    },
-    {
-      "titulo": "Medabots",
-      "descripcion": "Las aventuras de unos niños y sus inigualables mascotas cibernéticas.",
-      "inicio": "2026-08-03T09:00:00",
-      "fin": "2026-08-03T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/medabots.jpg"
-    },
-    {
-      "titulo": "La abeja Maya",
-      "descripcion": "Las aventuras de Maya, la abeja, quien explora el mundo mientras recoge polen y se reúne con amigos que la ayudan.",
-      "inicio": "2026-08-03T09:30:00",
-      "fin": "2026-08-03T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laabejamaya.jpg"
-    },
-    {
-      "titulo": "Programa pagado",
-      "descripcion": "Programa que muestra diversos productos para la venta.",
-      "inicio": "2026-08-03T10:00:00",
-      "fin": "2026-08-03T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0101_fallback.jpg"
-    },
-    {
-      "titulo": "Chapa tu combi",
-      "descripcion": "Una pareja emprende un largo recorrido en busca de sus sueños, el cual incluye luchas, ilusiones, dificultades, humor y dolor.",
-      "inicio": "2026-08-03T14:00:00",
-      "fin": "2026-08-03T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chapatucombi.jpg"
-    },
-    {
-      "titulo": "Caminando Chile",
-      "descripcion": "Microprograma cultural en el que podrás conocer distintos lugares históricos de nuestro país.",
-      "inicio": "2026-08-03T15:00:00",
-      "fin": "2026-08-03T15:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/caminandochile.jpg"
-    },
-    {
-      "titulo": "La Reina de las Carretillas",
-      "descripcion": "Las vicisitudes que vive Estrella, una mujer joven que huye de un pueblo y de su marido que la abusaba físicamente, ella llega a la capital, Lima, Perú, embarazada y ahí inicia una nueva vida con su hija luego de nacer, ella es muy hábil y tiene muy buena sazón en la cocina y por lo tanto se dedica a preparar y a vender ceviche en una carretilla, que tiene en un centro de comidas llamado 'La Exitosa', allí ella crea lazos de amistad invaluables como el de Dolarisa y Lily, encuentra el amor en Pedro. Su amiga de la infancia, Inés se convierte en su rival, cegada por los celos y la envidia que siente hacia Estrella y la tía de Pedro que practica la magia negra también se convierte en su rival e intenta truncar el amor entre Pedro y Estrella. Estrella deberá superar muchos infortunios antes de encontrar paz y felicidad.",
-      "inicio": "2026-08-03T15:10:00",
-      "fin": "2026-08-03T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lareinadelascarretillas.jpg"
-    },
-    {
-      "titulo": "Caminando Chile",
-      "descripcion": "Microprograma cultural en el que podrás conocer distintos lugares históricos de nuestro país.",
-      "inicio": "2026-08-03T16:00:00",
-      "fin": "2026-08-03T16:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/caminandochile.jpg"
-    },
-    {
-      "titulo": "Séptima puerta",
-      "descripcion": "Casos paranormales, leyendas urbanas y fenómenos inexplicables, mezclando dramatización e investigación.",
-      "inicio": "2026-08-03T16:10:00",
-      "fin": "2026-08-03T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/septimapuerta.jpg"
-    },
-    {
-      "titulo": "Programa pagado",
-      "descripcion": "Programa que muestra diversos productos para la venta.",
-      "inicio": "2026-08-03T17:00:00",
-      "fin": "2026-08-03T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0101_fallback.jpg"
-    },
-    {
-      "titulo": "Caminando Chile",
-      "descripcion": "Microprograma cultural en el que podrás conocer distintos lugares históricos de nuestro país.",
-      "inicio": "2026-08-03T21:00:00",
-      "fin": "2026-08-03T21:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/caminandochile.jpg"
-    },
-    {
-      "titulo": "Séptima puerta",
-      "descripcion": "Casos paranormales, leyendas urbanas y fenómenos inexplicables, mezclando dramatización e investigación.",
-      "inicio": "2026-08-03T21:10:00",
-      "fin": "2026-08-03T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/septimapuerta.jpg"
-    },
-    {
-      "titulo": "Caminando Chile",
-      "descripcion": "Microprograma cultural en el que podrás conocer distintos lugares históricos de nuestro país.",
-      "inicio": "2026-08-03T22:00:00",
-      "fin": "2026-08-03T22:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/caminandochile.jpg"
-    },
-    {
-      "titulo": "Sin retorno",
-      "descripcion": "La narración de una historia de comienzo a fin, en la cual el protagonista toma una decisión que cambia drásticamente su vida o situación, sin que este pueda cambiar de parecer.",
-      "inicio": "2026-08-03T22:10:00",
-      "fin": "2026-08-03T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinretorno.jpg"
-    },
-    {
-      "titulo": "Criminal",
-      "descripcion": "Casos policiales.",
-      "inicio": "2026-08-03T23:00:00",
-      "fin": "2026-08-03T23:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0101_fallback.jpg"
-    },
-    {
-      "titulo": "Reino animal",
-      "descripcion": "Serie documental que aborda de manera pedagógica y entretenida diversos temas relacionados con la fauna silvestre.",
-      "inicio": "2026-08-03T23:10:00",
-      "fin": "2026-08-04T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reinoanimal.jpg"
-    },
     {
       "titulo": "Fuera del aire",
       "descripcion": "Fin de emisión.",
       "inicio": "2026-08-04T00:00:00",
       "fin": "2026-08-04T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fueradelaire.jpg"
+    },
+    {
+      "titulo": "Swiss Nature Labs",
+      "descripcion": "Programa de televentas que muestra las mejores soluciones de salud, belleza y bienestar de origen natural.",
+      "inicio": "2026-08-04T10:00:00",
+      "fin": "2026-08-04T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/swissnaturelabs.jpg"
+    },
+    {
+      "titulo": "El Conciertazo",
+      "descripcion": "Espacio de música clásica dirigido a los más jóvenes, con un enfoque ameno y divertido que permite cautivar a niñas y niños sobre la música docta.",
+      "inicio": "2026-08-04T14:00:00",
+      "fin": "2026-08-04T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elconciertazo.jpg"
+    },
+    {
+      "titulo": "Swiss Nature Labs",
+      "descripcion": "Programa de televentas que muestra las mejores soluciones de salud, belleza y bienestar de origen natural.",
+      "inicio": "2026-08-04T14:30:00",
+      "fin": "2026-08-04T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/swissnaturelabs.jpg"
+    },
+    {
+      "titulo": "La Vida Es una Canción",
+      "descripcion": "Casi todas las canciones están basadas en un suceso real, algunas veces describen historias personales de sus propios compositores; en este programa melodramático, se busca una canción específica para la historia de una persona que quiere compartirla con el público en general. En cada episodio de una hora se desarrolla una historia real y distinta de personas comunes y corrientes, esta se refleja en una canción famosa elegida por los pinchadiscos Adrián y Georgie. Utilizando clásicos que traspasan la barrera del tiempo se dramatizan las historias desgarradoras o alegres que inspiran los sentimientos más profundos del público televidente.",
+      "inicio": "2026-08-04T19:00:00",
+      "fin": "2026-08-04T19:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0101_fallback.jpg"
+    },
+    {
+      "titulo": "Caminando Chile",
+      "descripcion": "Microprograma cultural en el que podrás conocer distintos lugares históricos de nuestro país.",
+      "inicio": "2026-08-04T19:59:00",
+      "fin": "2026-08-04T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/caminandochile.jpg"
+    },
+    {
+      "titulo": "La 3era en discordia",
+      "descripcion": "Discusión sobre los conflictos familiares y las relaciones humanas, con la participación de todos los involucrados. Además, la presencia ocasional de especialistas y herramientas para consensuar y ser tolerantes.",
+      "inicio": "2026-08-04T20:00:00",
+      "fin": "2026-08-04T20:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0101_fallback.jpg"
+    },
+    {
+      "titulo": "Caminando Chile",
+      "descripcion": "Microprograma cultural en el que podrás conocer distintos lugares históricos de nuestro país.",
+      "inicio": "2026-08-04T20:59:00",
+      "fin": "2026-08-04T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/caminandochile.jpg"
+    },
+    {
+      "titulo": "La 3era en discordia",
+      "descripcion": "Discusión sobre los conflictos familiares y las relaciones humanas, con la participación de todos los involucrados. Además, la presencia ocasional de especialistas y herramientas para consensuar y ser tolerantes.",
+      "inicio": "2026-08-04T21:00:00",
+      "fin": "2026-08-04T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0101_fallback.jpg"
+    },
+    {
+      "titulo": "Painkiller Jane",
+      "descripcion": "Una mujer es parte de un grupo que identifica a individuos con poderes neurológicos.",
+      "inicio": "2026-08-04T22:00:00",
+      "fin": "2026-08-04T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0101_fallback.jpg"
+    },
+    {
+      "titulo": "Iglesia Universal",
+      "descripcion": "Los pastores brasileños de la Iglesia Universal Pare de Sufrir producen este espacio dirigido a los fieles de la religión cristiana y se realizan transmisiones en vivo del culto. Se tratan temas y testimonios sobre espiritualidad, mejoramiento personal y crecimiento individual. Por medio de reflexiones sobre la familia y el amor de Dios, este espacio pretende orientar e instruir sobre temas relevantes a la religión cristiana y a los dilemas que se presentan en el día a día. Mediante la conversación y la puesta en común de diferentes temas, el programa lleva consejos al público y se discuten temas espirituales y de superación personal.",
+      "inicio": "2026-08-04T23:00:00",
+      "fin": "2026-08-04T23:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/iglesiauniversal.jpg"
+    },
+    {
+      "titulo": "Caminando Chile",
+      "descripcion": "Microprograma cultural en el que podrás conocer distintos lugares históricos de nuestro país.",
+      "inicio": "2026-08-04T23:59:00",
+      "fin": "2026-08-05T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/caminandochile.jpg"
+    },
+    {
+      "titulo": "Alerta Cobra",
+      "descripcion": "Un equipo especial de la policía se encarga de luchar contra el crimen a lo largo y ancho de las autopistas de Alemania, las cuales serán el escenario de la lucha entre las fuerzas del orden y malvados personajes, así como conductores temerarios.",
+      "inicio": "2026-08-05T00:00:00",
+      "fin": "2026-08-05T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0101_fallback.jpg"
+    },
+    {
+      "titulo": "Extranormal",
+      "descripcion": "Historias de encuentros fuera de lo normal.",
+      "inicio": "2026-08-05T01:00:00",
+      "fin": "2026-08-05T01:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0101_fallback.jpg"
+    },
+    {
+      "titulo": "Fuera del aire",
+      "descripcion": "Fin de emisión.",
+      "inicio": "2026-08-05T01:50:00",
+      "fin": "2026-08-05T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fueradelaire.jpg"
+    },
+    {
+      "titulo": "Swiss Nature Labs",
+      "descripcion": "Programa de televentas que muestra las mejores soluciones de salud, belleza y bienestar de origen natural.",
+      "inicio": "2026-08-05T05:30:00",
+      "fin": "2026-08-05T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/swissnaturelabs.jpg"
     }
   ]
 }
