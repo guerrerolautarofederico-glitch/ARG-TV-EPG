@@ -1,109 +1,102 @@
 {
   "actual": {
-    "titulo": "Megatiempo PM",
-    "descripcion": "Espacio de noticias.",
-    "inicio": "2026-08-08T05:15:00",
-    "fin": "2026-08-08T05:45:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megatiempopm.jpg"
-  },
-  "siguiente": {
     "titulo": "Megainvestiga",
     "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
-    "inicio": "2026-08-08T05:45:00",
-    "fin": "2026-08-08T07:00:00",
+    "inicio": "2026-08-09T05:45:00",
+    "fin": "2026-08-09T07:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
+  },
+  "siguiente": {
+    "titulo": "Ahora salud",
+    "descripcion": "Las últimas noticias de salud que suceden en Chile y el mundo.",
+    "inicio": "2026-08-09T07:00:00",
+    "fin": "2026-08-09T07:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahorasalud.jpg"
   },
   "lista": [
     {
-      "titulo": "Megatiempo PM",
-      "descripcion": "Espacio de noticias.",
-      "inicio": "2026-08-08T05:15:00",
-      "fin": "2026-08-08T05:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megatiempopm.jpg"
-    },
-    {
       "titulo": "Megainvestiga",
       "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
-      "inicio": "2026-08-08T05:45:00",
-      "fin": "2026-08-08T07:00:00",
+      "inicio": "2026-08-09T05:45:00",
+      "fin": "2026-08-09T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
     },
     {
-      "titulo": "Los libros que leo",
-      "descripcion": "Espacio enfocado en la cultura y la literatura.",
-      "inicio": "2026-08-08T07:00:00",
-      "fin": "2026-08-08T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loslibrosqueleo.jpg"
+      "titulo": "Ahora salud",
+      "descripcion": "Las últimas noticias de salud que suceden en Chile y el mundo.",
+      "inicio": "2026-08-09T07:00:00",
+      "fin": "2026-08-09T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahorasalud.jpg"
     },
     {
-      "titulo": "Con peras y manzanas",
-      "descripcion": "De manera accesible, se presentan, analizan y explican los sucesos más relevantes en Chile y en el mundo.",
-      "inicio": "2026-08-08T07:30:00",
-      "fin": "2026-08-08T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conperasymanzanas.jpg"
+      "titulo": "Planeta futuro",
+      "descripcion": "Las últimas novedades sobre ciencia y tecnología en Chile y alrededor del mundo.",
+      "inicio": "2026-08-09T07:30:00",
+      "fin": "2026-08-09T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planetafuturo.jpg"
     },
     {
       "titulo": "Megatiempo",
       "descripcion": "Espacio dedicado al cambio climático, meteorología y fenómenos naturales.",
-      "inicio": "2026-08-08T08:00:00",
-      "fin": "2026-08-08T09:00:00",
+      "inicio": "2026-08-09T08:00:00",
+      "fin": "2026-08-09T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megatiempo.jpg"
     },
     {
       "titulo": "Siempre juntos",
       "descripcion": "Un programa de noticias e informaciones de interés público, conectado con las sensibilidades y urgencias de la gente.",
-      "inicio": "2026-08-08T09:00:00",
-      "fin": "2026-08-08T13:00:00",
+      "inicio": "2026-08-09T09:00:00",
+      "fin": "2026-08-09T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siemprejuntos.jpg"
     },
     {
       "titulo": "Meganoticias actualiza",
       "descripcion": "Un noticiero que busca entregar la mejor y más detallada información de todo el acontecer nacional, de lo que ocurre en Chile y en el mundo minuto a minuto, de una forma ágil y dinámica.",
-      "inicio": "2026-08-08T13:00:00",
-      "fin": "2026-08-08T15:00:00",
+      "inicio": "2026-08-09T13:00:00",
+      "fin": "2026-08-09T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasactualiza.jpg"
     },
     {
       "titulo": "Megainvestiga",
       "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
-      "inicio": "2026-08-08T15:00:00",
-      "fin": "2026-08-08T20:30:00",
+      "inicio": "2026-08-09T15:00:00",
+      "fin": "2026-08-09T20:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
     },
     {
       "titulo": "Meganoticias Prime",
       "descripcion": "Un noticiero que brinda las últimas noticias sobre Chile y el mundo.",
-      "inicio": "2026-08-08T20:30:00",
-      "fin": "2026-08-08T22:30:00",
+      "inicio": "2026-08-09T20:30:00",
+      "fin": "2026-08-09T22:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasprime.jpg"
     },
     {
-      "titulo": "Con peras y manzanas",
-      "descripcion": "De manera accesible, se presentan, analizan y explican los sucesos más relevantes en Chile y en el mundo.",
-      "inicio": "2026-08-08T22:30:00",
-      "fin": "2026-08-08T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conperasymanzanas.jpg"
+      "titulo": "Planeta futuro",
+      "descripcion": "Las últimas novedades sobre ciencia y tecnología en Chile y alrededor del mundo.",
+      "inicio": "2026-08-09T22:30:00",
+      "fin": "2026-08-09T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planetafuturo.jpg"
     },
     {
       "titulo": "Megainvestiga",
       "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
-      "inicio": "2026-08-08T23:00:00",
-      "fin": "2026-08-09T03:00:00",
+      "inicio": "2026-08-09T23:00:00",
+      "fin": "2026-08-10T03:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
-    },
-    {
-      "titulo": "Los libros que leo",
-      "descripcion": "Espacio enfocado en la cultura y la literatura.",
-      "inicio": "2026-08-09T03:00:00",
-      "fin": "2026-08-09T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loslibrosqueleo.jpg"
     },
     {
       "titulo": "Megainvestiga",
       "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
-      "inicio": "2026-08-09T03:30:00",
-      "fin": "2026-08-09T05:45:00",
+      "inicio": "2026-08-10T03:30:00",
+      "fin": "2026-08-10T05:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
+    },
+    {
+      "titulo": "Meganoticias amanece",
+      "descripcion": "Noticiero matutino.",
+      "inicio": "2026-08-10T05:45:00",
+      "fin": "2026-08-10T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasamanece.jpg"
     }
   ]
 }

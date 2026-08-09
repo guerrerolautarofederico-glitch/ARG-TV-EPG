@@ -1,87 +1,108 @@
 {
   "actual": {
-    "titulo": "Puranoticia Matinal",
-    "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl.",
-    "inicio": "2026-08-08T04:00:00",
-    "fin": "2026-08-08T06:00:00",
+    "titulo": "Hora De Noticias",
+    "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
+    "inicio": "2026-08-09T05:00:00",
+    "fin": "2026-08-09T07:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Puranoticia Pm",
-    "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl.",
-    "inicio": "2026-08-08T06:00:00",
-    "fin": "2026-08-08T08:00:00",
+    "titulo": "Especial terremoto 1985",
+    "descripcion": "El 03 de marzo de 1985 la tierra se sacudió con fuerza en las costas del litoral central con una magnitud de 7,8 grados, ya cumpliéndose 40 años en la memoria de la población chilena.",
+    "inicio": "2026-08-09T07:00:00",
+    "fin": "2026-08-09T07:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Puranoticia Matinal",
-      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl.",
-      "inicio": "2026-08-08T04:00:00",
-      "fin": "2026-08-08T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Puranoticia Pm",
-      "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl.",
-      "inicio": "2026-08-08T06:00:00",
-      "fin": "2026-08-08T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Conexión Puranoticia",
-      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl.",
-      "inicio": "2026-08-08T08:00:00",
-      "fin": "2026-08-08T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Hora De Noticias",
-      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
-      "inicio": "2026-08-08T13:00:00",
-      "fin": "2026-08-08T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Especial Megaincendios",
-      "descripcion": "El 2 de febrero de 2014 el país vivió su mayor tragedia desde el terremoto del 27F de 2010, el megaincendio de la quinta región se cobró más de 100 vidas, y marcó con fuego para siempre a quienes perdieron sus pertenencias y seres queridos.",
-      "inicio": "2026-08-08T15:00:00",
-      "fin": "2026-08-08T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Conexión Puranoticia",
-      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl.",
-      "inicio": "2026-08-08T16:00:00",
-      "fin": "2026-08-08T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Hora De Noticias",
-      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
-      "inicio": "2026-08-08T21:00:00",
-      "fin": "2026-08-08T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Especial Megaincendios",
-      "descripcion": "El 2 de febrero de 2014 el país vivió su mayor tragedia desde el terremoto del 27F de 2010, el megaincendio de la quinta región se cobró más de 100 vidas, y marcó con fuego para siempre a quienes perdieron sus pertenencias y seres queridos.",
-      "inicio": "2026-08-08T23:00:00",
-      "fin": "2026-08-09T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Conexión Puranoticia",
-      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl.",
-      "inicio": "2026-08-09T00:00:00",
-      "fin": "2026-08-09T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
     {
       "titulo": "Hora De Noticias",
       "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
       "inicio": "2026-08-09T05:00:00",
       "fin": "2026-08-09T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Especial terremoto 1985",
+      "descripcion": "El 03 de marzo de 1985 la tierra se sacudió con fuerza en las costas del litoral central con una magnitud de 7,8 grados, ya cumpliéndose 40 años en la memoria de la población chilena.",
+      "inicio": "2026-08-09T07:00:00",
+      "fin": "2026-08-09T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Especial Queronque 1986",
+      "descripcion": "Se cumplen 29 años del accidente ferroviario de Queronque.",
+      "inicio": "2026-08-09T07:30:00",
+      "fin": "2026-08-09T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Conexión Puranoticia",
+      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl.",
+      "inicio": "2026-08-09T08:00:00",
+      "fin": "2026-08-09T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Hora De Noticias",
+      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
+      "inicio": "2026-08-09T13:00:00",
+      "fin": "2026-08-09T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Especial terremoto 1985",
+      "descripcion": "El 03 de marzo de 1985 la tierra se sacudió con fuerza en las costas del litoral central con una magnitud de 7,8 grados, ya cumpliéndose 40 años en la memoria de la población chilena.",
+      "inicio": "2026-08-09T15:00:00",
+      "fin": "2026-08-09T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Especial Queronque 1986",
+      "descripcion": "Se cumplen 29 años del accidente ferroviario de Queronque.",
+      "inicio": "2026-08-09T15:30:00",
+      "fin": "2026-08-09T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Conexión Puranoticia",
+      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl.",
+      "inicio": "2026-08-09T16:00:00",
+      "fin": "2026-08-09T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Hora De Noticias",
+      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
+      "inicio": "2026-08-09T21:00:00",
+      "fin": "2026-08-09T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Especial terremoto 1985",
+      "descripcion": "El 03 de marzo de 1985 la tierra se sacudió con fuerza en las costas del litoral central con una magnitud de 7,8 grados, ya cumpliéndose 40 años en la memoria de la población chilena.",
+      "inicio": "2026-08-09T23:00:00",
+      "fin": "2026-08-09T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Especial Queronque 1986",
+      "descripcion": "Se cumplen 29 años del accidente ferroviario de Queronque.",
+      "inicio": "2026-08-09T23:30:00",
+      "fin": "2026-08-10T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Conexión Puranoticia",
+      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl.",
+      "inicio": "2026-08-10T00:00:00",
+      "fin": "2026-08-10T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Hora De Noticias",
+      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
+      "inicio": "2026-08-10T05:00:00",
+      "fin": "2026-08-10T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
     }
   ]
