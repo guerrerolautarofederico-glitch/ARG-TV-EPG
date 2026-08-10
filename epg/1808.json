@@ -1,269 +1,437 @@
 {
   "actual": {
-    "titulo": "¿Quién da má$? • Vistas de la intemperie",
-    "descripcion": "Vistas de la intemperie ║ Laura intenta consolar a los compradores con chocolate \"caliente\" y sombrillas. Brandi cambia sus planes para tener la oportunidad de ganar a lo grande. Kenny arriesga su dinero en el contenido de un archivador.",
-    "inicio": "2026-08-09T05:45:00",
-    "fin": "2026-08-09T06:30:00",
+    "titulo": "Falco • Efectos secundarios",
+    "descripcion": "Efectos secundarios ║ Alejandro Falco no logra aceptar la traición de su gran amigo y los años perdidos. En un momento de desesperación, comete una locura y se toma un frasco de pastillas para dormir.",
+    "inicio": "2026-08-10T05:45:00",
+    "fin": "2026-08-10T06:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Pelea de honor",
-    "descripcion": "Un veterano de guerra se infiltra en un club de lucha que dejó a su hermano en coma.",
-    "inicio": "2026-08-09T06:30:00",
-    "fin": "2026-08-09T08:00:00",
+    "titulo": "Falco • Meninas",
+    "descripcion": "Meninas ║ Falco investiga el caso de un asesino serial. Al mismo tiempo le confiesa a Caballero sus sospechas sobre Bravo y su implicación en la emboscada.",
+    "inicio": "2026-08-10T06:30:00",
+    "fin": "2026-08-10T07:15:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "¿Quién da má$? • Vistas de la intemperie",
-      "descripcion": "Vistas de la intemperie ║ Laura intenta consolar a los compradores con chocolate \"caliente\" y sombrillas. Brandi cambia sus planes para tener la oportunidad de ganar a lo grande. Kenny arriesga su dinero en el contenido de un archivador.",
-      "inicio": "2026-08-09T05:45:00",
-      "fin": "2026-08-09T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pelea de honor",
-      "descripcion": "Un veterano de guerra se infiltra en un club de lucha que dejó a su hermano en coma.",
-      "inicio": "2026-08-09T06:30:00",
-      "fin": "2026-08-09T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Chapo • Contra el poder",
-      "descripcion": "Contra el poder ║ Joaquín, mejor conocido como \"El Chapo\", es un subalterno tratando de sobresalir, para convertirse en patrón. Tras ser capturado, Miguel Ángel deja a cargo al Chapo además de darle el reconocimiento de patrón.",
-      "inicio": "2026-08-09T08:00:00",
-      "fin": "2026-08-09T08:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Chapo",
-      "descripcion": "El Chino visita a Ramón para darle información sobre dónde encontrar a El Chapo a cambio de cinco millones de dólares. Ramón se arriesga y va a buscar a El Chapo hasta el aeropuerto.",
-      "inicio": "2026-08-09T08:55:00",
-      "fin": "2026-08-09T09:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Chapo • Investigación",
-      "descripcion": "Investigación ║ Ramón hará hasta lo imposible para vengarse de El Chapo. Don Sol se encuentra con Gabriela para cuestionarla sobre el asesinato del coronel Blanco.",
-      "inicio": "2026-08-09T09:45:00",
-      "fin": "2026-08-09T10:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Chapo • Nuevas alianzas",
-      "descripcion": "Nuevas alianzas ║ El Chapo le propone a Herrerías darle parte de su mercancía en el Salvador siempre y cuando se asocien. El Chapo es citado para hablar de negocios con Herrerías, pero todo resulta ser un engaño del teniente Rosado.",
-      "inicio": "2026-08-09T10:35:00",
-      "fin": "2026-08-09T11:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Chapo • Un nuevo mando",
-      "descripcion": "Un nuevo mando ║ El Chapo es llevado a México gracias a las fuerzas militares. Conrado Sol recibe la tarea de hacer una rueda de prensa donde presente a El Chapo como el narcotraficante más importante de México.",
-      "inicio": "2026-08-09T11:20:00",
-      "fin": "2026-08-09T12:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Alto! Frontera",
-      "descripcion": "En el Aeropuerto Internacional de Bogotá, advierten sobre equipaje con droga antes de subir al avión. Los agentes son alertados para encontrar al pasajero responsable y deben atraparlo antes del despegue.",
-      "inicio": "2026-08-09T12:05:00",
-      "fin": "2026-08-09T12:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Alto! Frontera",
-      "descripcion": "En Colombia, un pasajero proveniente de México es detenido tras descubrir que llevaba 40 cápsulas con droga en su cuerpo.",
-      "inicio": "2026-08-09T12:40:00",
-      "fin": "2026-08-09T13:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Alto! Frontera",
-      "descripcion": "Un acercamiento exclusivo al trabajo que se realiza en distintos puestos limítrofes de América Latina para poder detener a peligrosas organizaciones criminales que diariamente intentan cruzar las fronteras.",
-      "inicio": "2026-08-09T13:05:00",
-      "fin": "2026-08-09T13:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Alto! Frontera",
-      "descripcion": "Se realiza el control de rutina de pasajeros antes de abordar un vuelo con destino a Buenos Aires y se sospecha de una pasajera que viaja con una menor de edad. En el control de equipaje, se encuentra una gran cantidad de droga.",
-      "inicio": "2026-08-09T13:40:00",
-      "fin": "2026-08-09T14:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Alto! Frontera",
-      "descripcion": "La principal entrada a Cuba es el Aeropuerto Internacional José Martí, donde la Policía Nacional de Cuba, mediante sus divisiones especializadas, pone un alto a cualquier intento delictivo.",
-      "inicio": "2026-08-09T14:10:00",
-      "fin": "2026-08-09T14:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Alto! Frontera",
-      "descripcion": "Un joven llega en un vuelo directo desde Surinam, una ruta que por las autoridades es considerada tranquila, algo que cambia luego de hallar entre sus pertenencias una extraña escultura religiosa que desconoce transportar, y que según los resultados de un control de rayos X, lleva algo oculto en su interior.",
-      "inicio": "2026-08-09T14:40:00",
-      "fin": "2026-08-09T15:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cam Alert: Captura exitosa",
-      "descripcion": "Francisco explica el papel que juegan las cámaras C5 en la seguridad de la población y ayudan a resolver crímenes.",
-      "inicio": "2026-08-09T15:10:00",
-      "fin": "2026-08-09T15:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cam Alert: Captura exitosa",
-      "descripcion": "Cómo las cámaras de vigilancia detectan a los sospechosos ocultos en la noche y se descubre a un conductor que huye a toda velocidad.",
-      "inicio": "2026-08-09T15:35:00",
-      "fin": "2026-08-09T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cam Alert: Captura exitosa",
-      "descripcion": "Las cámaras capturaron una pelea callejera que resulta en una muerte. Un vehículo choca contra una tienda para robar el cajero automático.",
-      "inicio": "2026-08-09T16:00:00",
-      "fin": "2026-08-09T16:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cam Alert: Captura exitosa",
-      "descripcion": "Las cámaras detectan a un grupo de hombres robando un comercio y, minutos después, uno de ellos regresa a realizar unas compras. Además, se capta un feroz tiroteo entre un policía y varios ladrones.",
-      "inicio": "2026-08-09T16:25:00",
-      "fin": "2026-08-09T16:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cam Alert: Captura exitosa",
-      "descripcion": "Se relata cómo las cámaras descubren una pelea que se vuelve peligrosa para la víctima. Además, detienen a dos ladrones de tumbas que intentan escapar y acompañan a un ladrón armado por la ciudad en una persecución vertiginosa.",
-      "inicio": "2026-08-09T16:50:00",
-      "fin": "2026-08-09T17:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cam Alert: Captura exitosa",
-      "descripcion": "Francisco Zea narra cómo las cámaras descubren a 3 jóvenes robando con machetes. Además, detectan un ladrón en la frontera.",
-      "inicio": "2026-08-09T17:15:00",
-      "fin": "2026-08-09T17:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Patrulla policial",
-      "descripcion": "Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.",
-      "inicio": "2026-08-09T17:40:00",
-      "fin": "2026-08-09T18:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Patrulla policial",
-      "descripcion": "Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.",
-      "inicio": "2026-08-09T18:05:00",
-      "fin": "2026-08-09T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Patrulla policial",
-      "descripcion": "Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.",
-      "inicio": "2026-08-09T18:30:00",
-      "fin": "2026-08-09T18:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Patrulla policial",
-      "descripcion": "Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.",
-      "inicio": "2026-08-09T18:50:00",
-      "fin": "2026-08-09T19:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Patrulla policial",
-      "descripcion": "Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.",
-      "inicio": "2026-08-09T19:15:00",
-      "fin": "2026-08-09T19:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Patrulla policial",
-      "descripcion": "Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.",
-      "inicio": "2026-08-09T19:35:00",
-      "fin": "2026-08-09T19:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pelea de honor",
-      "descripcion": "Un veterano de guerra se infiltra en un club de lucha que dejó a su hermano en coma.",
-      "inicio": "2026-08-09T19:55:00",
-      "fin": "2026-08-09T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Encuentro mortal",
-      "descripcion": "El expolicía Burke Wyatt se infiltra como prisionero en la cárcel de Cainesville para descubrir por qué están muriendo los presos. Dentro de la penitenciaría descubre que está sucediendo algo horrendo, que pone su propia vida en riesgo.",
-      "inicio": "2026-08-09T21:30:00",
-      "fin": "2026-08-09T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Falco • Efectos secundarios",
-      "descripcion": "Efectos secundarios ║ Alejandro Falco no logra aceptar la traición de su gran amigo y los años perdidos. En un momento de desesperación, comete una locura y se toma un frasco de pastillas para dormir.",
-      "inicio": "2026-08-09T23:00:00",
-      "fin": "2026-08-09T23:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Falco • Meninas",
-      "descripcion": "Meninas ║ Falco investiga el caso de un asesino serial. Al mismo tiempo le confiesa a Caballero sus sospechas sobre Bravo y su implicación en la emboscada.",
-      "inicio": "2026-08-09T23:45:00",
-      "fin": "2026-08-10T00:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Falco • Tres muertos",
-      "descripcion": "Tres muertos ║ Al investigar el asesinato de un periodista que denunciaba a una red de corrupción, Falco deduce que están relacionados con poderosos empresarios y gente de su entorno.",
-      "inicio": "2026-08-10T00:35:00",
-      "fin": "2026-08-10T01:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Secretos de Bunny Ranch",
-      "descripcion": "Los secretos del Moonlite Bunny Ranch de Nevada, uno de los burdeles legales más famosos del mundo, conocido gracias a la popular serie de cable premium Cathouse. Con entrevistas inéditas, narra el auge del Bunny Ranch y su carismático propietario, Dennis Hof, revelando el complejo legado del burdel y su amplia influencia en la visión social del poder, el sexo y la autonomía.",
-      "inicio": "2026-08-10T01:25:00",
-      "fin": "2026-08-10T02:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Secretos de Bunny Ranch",
-      "descripcion": "Los secretos del Moonlite Bunny Ranch de Nevada, uno de los burdeles legales más famosos del mundo, conocido gracias a la popular serie de cable premium Cathouse. Con entrevistas inéditas, narra el auge del Bunny Ranch y su carismático propietario, Dennis Hof, revelando el complejo legado del burdel y su amplia influencia en la visión social del poder, el sexo y la autonomía.",
-      "inicio": "2026-08-10T02:15:00",
-      "fin": "2026-08-10T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Secretos de famosos: Sex Tapes • Mimi Faust: Amor y hip-hop",
-      "descripcion": "Mimi Faust: Amor y hip-hop ║ Mimi Faust comparte su versión de los hechos, incluidos secretos nunca antes revelados sobre su video íntimo.",
-      "inicio": "2026-08-10T03:00:00",
-      "fin": "2026-08-10T03:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Alto! Frontera",
-      "descripcion": "En Colombia, un pasajero proveniente de México es detenido tras descubrir que llevaba 40 cápsulas con droga en su cuerpo.",
-      "inicio": "2026-08-10T03:50:00",
-      "fin": "2026-08-10T04:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Encuentro mortal",
-      "descripcion": "El expolicía Burke Wyatt se infiltra como prisionero en la cárcel de Cainesville para descubrir por qué están muriendo los presos. Dentro de la penitenciaría descubre que está sucediendo algo horrendo, que pone su propia vida en riesgo.",
-      "inicio": "2026-08-10T04:15:00",
-      "fin": "2026-08-10T05:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Falco • Efectos secundarios",
       "descripcion": "Efectos secundarios ║ Alejandro Falco no logra aceptar la traición de su gran amigo y los años perdidos. En un momento de desesperación, comete una locura y se toma un frasco de pastillas para dormir.",
       "inicio": "2026-08-10T05:45:00",
       "fin": "2026-08-10T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Falco • Meninas",
+      "descripcion": "Meninas ║ Falco investiga el caso de un asesino serial. Al mismo tiempo le confiesa a Caballero sus sospechas sobre Bravo y su implicación en la emboscada.",
+      "inicio": "2026-08-10T06:30:00",
+      "fin": "2026-08-10T07:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Falco • Tres muertos",
+      "descripcion": "Tres muertos ║ Al investigar el asesinato de un periodista que denunciaba a una red de corrupción, Falco deduce que están relacionados con poderosos empresarios y gente de su entorno.",
+      "inicio": "2026-08-10T07:15:00",
+      "fin": "2026-08-10T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Acumuladores compulsivos • Martha",
+      "descripcion": "Martha ║ Martha se enfrenta al engaño de un hombre casado y a la salud frágil y el cuidado de los últimos momentos de la vida de sus padres. No querer pedir ayuda a amigos y familiares pone a prueba las relaciones.",
+      "inicio": "2026-08-10T08:00:00",
+      "fin": "2026-08-10T08:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Acumuladores compulsivos • Martha",
+      "descripcion": "Martha ║ Martha se enfrenta al engaño de un hombre casado y a la salud frágil y el cuidado de los últimos momentos de la vida de sus padres. No querer pedir ayuda a amigos y familiares pone a prueba las relaciones.",
+      "inicio": "2026-08-10T08:50:00",
+      "fin": "2026-08-10T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Quién da má$? • Vestida para ganar",
+      "descripcion": "Vestida para ganar ║ Brandi se dirige a Riverside vestida para distraer y funciona. René muerde más de lo que puede masticar.",
+      "inicio": "2026-08-10T09:30:00",
+      "fin": "2026-08-10T09:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Quién da má$? • Con estilo propio",
+      "descripcion": "Con estilo propio ║ Un animal pequeño toma desprevenida a Lisa, aunque consigue un nuevo tipo de premio. Ivy e Isaiah se abren camino a través de una unidad de almacenamiento, que les provoca tomar una bebida. Darrell sigue atascado detrás de una anciana.",
+      "inicio": "2026-08-10T09:55:00",
+      "fin": "2026-08-10T10:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Quién da má$? • El diablo compra ropa usada",
+      "descripcion": "El diablo compra ropa usada ║ Kenny intenta sobornar a la competencia en Canyon Country y, como resultado, se vuelve más mundano. Ivy e Isaiah aprovechan al máximo su compra. Brandi toma los poderes de las tinieblas.",
+      "inicio": "2026-08-10T10:15:00",
+      "fin": "2026-08-10T10:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Quién da má$? • El dinero manda",
+      "descripcion": "El dinero manda ║ Esta vez en Montebello, René se enfrenta cara a cara con Darrell, compra la unidad hermana para ver si finalmente puede destituir al rey. Lisa y su perro se escabullen en un casillero que gana su sello de aprobación.",
+      "inicio": "2026-08-10T10:40:00",
+      "fin": "2026-08-10T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Top 10: Frenar la ley",
+      "descripcion": "Top 10: Frenar la ley ║ Las reglas de tránsito parecen no existir, solo la ira en el camino. Diez impactantes casos muestran a conductores que pierden el control en las rutas, con maniobras peligrosas, choques violentos y persecuciones que exponen lo más extremo del manejo en carretera.",
+      "inicio": "2026-08-10T11:00:00",
+      "fin": "2026-08-10T11:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Top 10: Furia contra la máquina",
+      "descripcion": "Top 10: Furia contra la máquina ║ Los ánimos estallan al volante. Conductores furiosos protagonizan enfrentamientos, colisiones y persecuciones grabadas por cámaras a lo largo y ancho de los Estados Unidos. Una muestra del caos que puede desatarse cuando la ira domina el carácter de los conductores.",
+      "inicio": "2026-08-10T11:25:00",
+      "fin": "2026-08-10T11:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Demasiado cerca",
+      "descripcion": "Demasiado cerca ║ En Sacramento. California, dos automovilistas intentan amenazarse mutuamente por un supuesto incidente en el que se pisan los talones. En Las Vegas, un conductor enfadado porque le han cortado el paso se enfrenta a otro automovilista en un semáforo.",
+      "inicio": "2026-08-10T11:45:00",
+      "fin": "2026-08-10T12:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Catástrofe en la atracción de autos",
+      "descripcion": "Catástrofe en la atracción de autos ║ En California, un presunto robo de coche se salda con daños a varios vehículos y vidas en peligro. Un control de tráfico en Houston se convierte en un aterrador tiroteo en una gasolinera.",
+      "inicio": "2026-08-10T12:10:00",
+      "fin": "2026-08-10T12:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino",
+      "descripcion": "Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.",
+      "inicio": "2026-08-10T12:35:00",
+      "fin": "2026-08-10T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Sobre hielo delgado",
+      "descripcion": "Sobre hielo delgado ║ Un auto parece haber chocado detrás de otro en un autolavado. Un accidente en una autopista en Los Ángeles produce varios choques. Una mujer deja su coche sin el freno de estacionamiento.",
+      "inicio": "2026-08-10T13:00:00",
+      "fin": "2026-08-10T13:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Mi ruta o la carretera",
+      "descripcion": "Mi ruta o la carretera ║ En Torrance, California, un supuesto accidente deriva en una pelea en la carretera que deja inconsciente a uno de los conductores. En Baltimore, un vehículo presuntamente robado que huía de la policía choca contra un edificio, provocando su derrumbe.",
+      "inicio": "2026-08-10T13:20:00",
+      "fin": "2026-08-10T13:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Explosión de gasolinera",
+      "descripcion": "Explosión de gasolinera ║ En Woodland Hills, California, unos samaritanos intentan encajonar a un conductor implicado en varios accidentes cerca de una autopista. En Luisiana, una mujer es reprendida por otro conductor que cree que no conduce lo suficientemente rápido.",
+      "inicio": "2026-08-10T13:45:00",
+      "fin": "2026-08-10T14:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Hombre vs máquina",
+      "descripcion": "Hombre vs máquina ║ En Castle Rock, Colorado, un conductor de un autobús escolar frena repentinamente y asusta a algunos de los pasajeros. En Florida, tras detener a un conductor por ir a exceso de velocidad, un sheriff cae en choque por primera vez en su carrera.",
+      "inicio": "2026-08-10T14:10:00",
+      "fin": "2026-08-10T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Persecución incansable",
+      "descripcion": "Persecución incansable ║ En Phoenix, un hombre sale de su auto para confrontar a otro conductor, quien termina conduciendo directamente hacia él. Cuando un tráiler detiene el tráfico en un camino angosto en New Jersey, un molesto conductor baja de su vehículo con un bate.",
+      "inicio": "2026-08-10T14:30:00",
+      "fin": "2026-08-10T14:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Enfrentamiento en la carretera",
+      "descripcion": "Enfrentamiento en la carretera ║ En Apollo Beach, Florida, una mujer saca una pistola luego de un supuesto altercado. Tras una persecución en el centro de Los Angeles, un hombre intenta escapar de la policía en una patineta.",
+      "inicio": "2026-08-10T14:55:00",
+      "fin": "2026-08-10T15:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Pandemonio en el estacionamiento",
+      "descripcion": "Pandemonio en el estacionamiento ║ En Vernon, California, un motociclista inicia un altercado al romper el parabrisas trasero de un auto. Un conductor en Flushing, Nueva York, presuntamente bloqueó el descenso de pasajeros en sillas de ruedas.",
+      "inicio": "2026-08-10T15:15:00",
+      "fin": "2026-08-10T15:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Falla de la barandilla",
+      "descripcion": "Falla de la barandilla ║ En Wooster, Ohio, un incidente escala cuando uno de los conductores sigue al otro hasta su hogar. Un conductor en Georgia choca con la rampa de un carro de remolque. Un pequeño choque en un estacionamiento de Texas se sale de control.",
+      "inicio": "2026-08-10T15:40:00",
+      "fin": "2026-08-10T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Prohibido el paso",
+      "descripcion": "Prohibido el paso ║ En Iowa, un conductor y su pasajero se quedan dormidos en el camino. En un estacionamiento en San Francisco, una mujer regaña a un conductor que se estacionó muy cerca de ella.",
+      "inicio": "2026-08-10T16:00:00",
+      "fin": "2026-08-10T16:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Salida de emergencia",
+      "descripcion": "Salida de emergencia ║ Un conductor de autobús en el trabajo en Las Vegas dice lo que piensa. En Atlanta, un altercado en un autoservicio se intensifica hasta un punto peligroso. Un visitante de un zoológico en Indonesia se encuentra de cerca con un orangután.",
+      "inicio": "2026-08-10T16:25:00",
+      "fin": "2026-08-10T16:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Desde ahora todo va cuesta abajo",
+      "descripcion": "Desde ahora todo va cuesta abajo ║ En Albuquerque, Nuevo México, el comportamiento de un pasajero obliga a la tripulación a desviar un vuelo. En Park City, Utah, un esquiador se comporta de manera irrespetuosa en las pistas y se desata una persecución tras llamarle la atención.",
+      "inicio": "2026-08-10T16:45:00",
+      "fin": "2026-08-10T17:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Ansiedad al máximo",
+      "descripcion": "Ansiedad al máximo ║ En una casa de empeños de Maine, dos hombres llegan a un acuerdo sobre una bicicleta que supuestamente ha sido obtenida ilegalmente. En Florida, un empleado de un autoservicio tiene un problema con el hijo supuestamente ruidoso de un cliente.",
+      "inicio": "2026-08-10T17:10:00",
+      "fin": "2026-08-10T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Discusión en el aire",
+      "descripcion": "Discusión en el aire ║ Una acalorada discusión estalla en pleno vuelo a Los Ángeles. En Wisconsin, un presunto ladrón desata una persecución policial desenfrenada. En una sandwichería de California, una mujer toma medidas drásticas tras negarle un reembolso.",
+      "inicio": "2026-08-10T17:30:00",
+      "fin": "2026-08-10T17:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Avión equivocado",
+      "descripcion": "Avión equivocado ║ Los padres de Florence, Kentucky, encuentran una sorpresa inesperada y desagradable en los nuggets de pollo de su hijo. Un vuelo sobrevendido en Chicago lleva al desalojo forzoso de un pasajero reticente.",
+      "inicio": "2026-08-10T17:55:00",
+      "fin": "2026-08-10T18:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • No le gustan los perros",
+      "descripcion": "No le gustan los perros ║ En Delaware, un cliente de un restaurante se queja de la proximidad del perro de servicio de un hombre. En Minnesota, un cliente pierde el control de su vehículo en un lavadero de autos. La decepción por un premio termina en golpes en Nueva Escocia.",
+      "inicio": "2026-08-10T18:15:00",
+      "fin": "2026-08-10T18:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Guerra en construcción",
+      "descripcion": "Guerra en construcción ║ En Bakersfield, California, dos contratistas ayudan a una propietaria a recuperar una bicicleta que le habían robado del jardín. Un cliente enfadado de Bay Shore, Long Island, culpa a un restaurante de comida rápida por un incendio en su microondas.",
+      "inicio": "2026-08-10T18:40:00",
+      "fin": "2026-08-10T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Batalla en el autoservicio",
+      "descripcion": "Batalla en el autoservicio ║ En Augusta, Georgia, se produce un desastre cuando un camión intenta comprar comida en un autoservicio. En un aeropuerto de Dallas, la mala educación de un pasajero provoca una pelea caótica entre viajeros.",
+      "inicio": "2026-08-10T19:00:00",
+      "fin": "2026-08-10T19:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Propietario vs reparador",
+      "descripcion": "Propietario vs reparador ║ En Coram, Nueva York, un propietario se enfrenta a un operario por su trabajo supuestamente insatisfactorio. En Oakland, California, una acalorada discusión entre dos mujeres en un tren se sale de control.",
+      "inicio": "2026-08-10T19:25:00",
+      "fin": "2026-08-10T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Top 10 momentos",
+      "descripcion": "Top 10 momentos ║ Estos clientes no están contentos.",
+      "inicio": "2026-08-10T19:45:00",
+      "fin": "2026-08-10T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Top 10: Guerra de comida",
+      "descripcion": "Top 10: Guerra de comida ║ Los clientes llevan el hambre a un nivel completamente nuevo en una mirada retrospectiva especial que presenta los diez incidentes más memorables relacionados con la comida.",
+      "inicio": "2026-08-10T20:30:00",
+      "fin": "2026-08-10T20:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Top 10: Interferencia en la carretera",
+      "descripcion": "Top 10: Interferencia en la carretera ║ Los conflictos que surgen cuando los clientes descontentos e irracionales se encuentran cara a cara con los empleados que hacen todo lo posible para atender sus necesidades.",
+      "inicio": "2026-08-10T20:55:00",
+      "fin": "2026-08-10T21:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • No puedo pelear",
+      "descripcion": "No puedo pelear ║ En Las Vegas, un conductor de viajes compartidos y un pasajero tienen una acalorada discusión debido a un presunto portazo.",
+      "inicio": "2026-08-10T21:15:00",
+      "fin": "2026-08-10T21:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Quién da má$? • El diablo compra ropa usada",
+      "descripcion": "El diablo compra ropa usada ║ Kenny intenta sobornar a la competencia en Canyon Country y, como resultado, se vuelve más mundano. Ivy e Isaiah aprovechan al máximo su compra. Brandi toma los poderes de las tinieblas.",
+      "inicio": "2026-08-10T21:40:00",
+      "fin": "2026-08-10T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Quién da má$? • El dinero manda",
+      "descripcion": "El dinero manda ║ Esta vez en Montebello, René se enfrenta cara a cara con Darrell, compra la unidad hermana para ver si finalmente puede destituir al rey. Lisa y su perro se escabullen en un casillero que gana su sello de aprobación.",
+      "inicio": "2026-08-10T22:00:00",
+      "fin": "2026-08-10T22:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Quién da má$? • Kenny tiene hambre",
+      "descripcion": "Kenny tiene hambre ║ Brandi se despierta de malhumor, pero se siente mucho mejor después de recoger un casillero en Placentia. René va a la oficina para voltear rápidamente su dinero. Kenny lucha solo para atravesar su unidad, que parece tener problemas para él.",
+      "inicio": "2026-08-10T22:25:00",
+      "fin": "2026-08-10T22:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Quién da má$? • Ven a golpear nuestro depósito",
+      "descripcion": "Ven a golpear nuestro depósito ║ Brandi se levanta con el pie izquierdo, pero lo aprovecha en Fullerton. Ivy consigue dos casilleros, eliminando a la competencia.",
+      "inicio": "2026-08-10T22:50:00",
+      "fin": "2026-08-10T23:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Patrulla policial",
+      "descripcion": "Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.",
+      "inicio": "2026-08-10T23:15:00",
+      "fin": "2026-08-10T23:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Patrulla policial",
+      "descripcion": "Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.",
+      "inicio": "2026-08-10T23:40:00",
+      "fin": "2026-08-11T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Patrulla policial",
+      "descripcion": "Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.",
+      "inicio": "2026-08-11T00:00:00",
+      "fin": "2026-08-11T00:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Patrulla policial",
+      "descripcion": "Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.",
+      "inicio": "2026-08-11T00:25:00",
+      "fin": "2026-08-11T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Caos en la tienda de conveniencia",
+      "descripcion": "Caos en la tienda de conveniencia ║ Un empleado de una tienda de conveniencia y un cliente entran en una confrontación acalorada y prolongada. En Carolina del Norte, dos hermanos se pelean físicamente entre sí en una balsa.",
+      "inicio": "2026-08-11T00:45:00",
+      "fin": "2026-08-11T01:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Revuelta en el estadio",
+      "descripcion": "Revuelta en el estadio ║ Una cadena de cafeterías con autoservicio se desbarata cuando un cliente es acusado de meterse en la cola En un restaurante de Arizona, una madre con su bebé es confrontada por otro cliente.",
+      "inicio": "2026-08-11T01:10:00",
+      "fin": "2026-08-11T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Peligro en las pistas",
+      "descripcion": "Peligro en las pistas ║ Un cliente descontento desata el caos en una tienda.",
+      "inicio": "2026-08-11T01:30:00",
+      "fin": "2026-08-11T01:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Desastre en la entrega",
+      "descripcion": "Desastre en la entrega ║ Una mujer reprende al personal de una aerolínea en un aeropuerto de Atlanta después de que aparentemente la sacaron de su vuelo, lo que provocó una acalorada confrontación.",
+      "inicio": "2026-08-11T01:55:00",
+      "fin": "2026-08-11T02:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Mi ruta o la carretera",
+      "descripcion": "Mi ruta o la carretera ║ En Torrance, California, un supuesto accidente deriva en una pelea en la carretera que deja inconsciente a uno de los conductores. En Baltimore, un vehículo presuntamente robado que huía de la policía choca contra un edificio, provocando su derrumbe.",
+      "inicio": "2026-08-11T02:15:00",
+      "fin": "2026-08-11T02:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Explosión de gasolinera",
+      "descripcion": "Explosión de gasolinera ║ En Woodland Hills, California, unos samaritanos intentan encajonar a un conductor implicado en varios accidentes cerca de una autopista. En Luisiana, una mujer es reprendida por otro conductor que cree que no conduce lo suficientemente rápido.",
+      "inicio": "2026-08-11T02:40:00",
+      "fin": "2026-08-11T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Hombre vs máquina",
+      "descripcion": "Hombre vs máquina ║ En Castle Rock, Colorado, un conductor de un autobús escolar frena repentinamente y asusta a algunos de los pasajeros. En Florida, tras detener a un conductor por ir a exceso de velocidad, un sheriff cae en choque por primera vez en su carrera.",
+      "inicio": "2026-08-11T03:00:00",
+      "fin": "2026-08-11T03:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Persecución incansable",
+      "descripcion": "Persecución incansable ║ En Phoenix, un hombre sale de su auto para confrontar a otro conductor, quien termina conduciendo directamente hacia él. Cuando un tráiler detiene el tráfico en un camino angosto en New Jersey, un molesto conductor baja de su vehículo con un bate.",
+      "inicio": "2026-08-11T03:20:00",
+      "fin": "2026-08-11T03:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Enfrentamiento en la carretera",
+      "descripcion": "Enfrentamiento en la carretera ║ En Apollo Beach, Florida, una mujer saca una pistola luego de un supuesto altercado. Tras una persecución en el centro de Los Angeles, un hombre intenta escapar de la policía en una patineta.",
+      "inicio": "2026-08-11T03:40:00",
+      "fin": "2026-08-11T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Pandemonio en el estacionamiento",
+      "descripcion": "Pandemonio en el estacionamiento ║ En Vernon, California, un motociclista inicia un altercado al romper el parabrisas trasero de un auto. Un conductor en Flushing, Nueva York, presuntamente bloqueó el descenso de pasajeros en sillas de ruedas.",
+      "inicio": "2026-08-11T04:00:00",
+      "fin": "2026-08-11T04:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Falla de la barandilla",
+      "descripcion": "Falla de la barandilla ║ En Wooster, Ohio, un incidente escala cuando uno de los conductores sigue al otro hasta su hogar. Un conductor en Georgia choca con la rampa de un carro de remolque. Un pequeño choque en un estacionamiento de Texas se sale de control.",
+      "inicio": "2026-08-11T04:20:00",
+      "fin": "2026-08-11T04:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ira en el camino • Prohibido el paso",
+      "descripcion": "Prohibido el paso ║ En Iowa, un conductor y su pasajero se quedan dormidos en el camino. En un estacionamiento en San Francisco, una mujer regaña a un conductor que se estacionó muy cerca de ella.",
+      "inicio": "2026-08-11T04:40:00",
+      "fin": "2026-08-11T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • No le gustan los perros",
+      "descripcion": "No le gustan los perros ║ En Delaware, un cliente de un restaurante se queja de la proximidad del perro de servicio de un hombre. En Minnesota, un cliente pierde el control de su vehículo en un lavadero de autos. La decepción por un premio termina en golpes en Nueva Escocia.",
+      "inicio": "2026-08-11T05:00:00",
+      "fin": "2026-08-11T05:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Guerra en construcción",
+      "descripcion": "Guerra en construcción ║ En Bakersfield, California, dos contratistas ayudan a una propietaria a recuperar una bicicleta que le habían robado del jardín. Un cliente enfadado de Bay Shore, Long Island, culpa a un restaurante de comida rápida por un incendio en su microondas.",
+      "inicio": "2026-08-11T05:20:00",
+      "fin": "2026-08-11T05:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Batalla en el autoservicio",
+      "descripcion": "Batalla en el autoservicio ║ En Augusta, Georgia, se produce un desastre cuando un camión intenta comprar comida en un autoservicio. En un aeropuerto de Dallas, la mala educación de un pasajero provoca una pelea caótica entre viajeros.",
+      "inicio": "2026-08-11T05:40:00",
+      "fin": "2026-08-11T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clientes en furia • Propietario vs reparador",
+      "descripcion": "Propietario vs reparador ║ En Coram, Nueva York, un propietario se enfrenta a un operario por su trabajo supuestamente insatisfactorio. En Oakland, California, una acalorada discusión entre dos mujeres en un tren se sale de control.",
+      "inicio": "2026-08-11T06:00:00",
+      "fin": "2026-08-11T06:20:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
