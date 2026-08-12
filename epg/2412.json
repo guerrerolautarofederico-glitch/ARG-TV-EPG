@@ -1,52 +1,108 @@
 {
   "actual": {
-    "titulo": "ESPN 2",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-08-11T01:00:00",
-    "fin": "2026-08-11T07:00:00",
+    "titulo": "SportsCenter",
+    "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
+    "inicio": "2026-08-12T06:00:00",
+    "fin": "2026-08-12T08:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "ESPN 2",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-08-11T07:00:00",
-    "fin": "2026-08-11T13:00:00",
+    "titulo": "Buen día ESPN",
+    "descripcion": "Un formato novedoso con entrevistas, protagonistas y la mejor onda.",
+    "inicio": "2026-08-12T08:00:00",
+    "fin": "2026-08-12T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "ESPN 2",
+      "titulo": "SportsCenter",
+      "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
+      "inicio": "2026-08-12T06:00:00",
+      "fin": "2026-08-12T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Buen día ESPN",
+      "descripcion": "Un formato novedoso con entrevistas, protagonistas y la mejor onda.",
+      "inicio": "2026-08-12T08:00:00",
+      "fin": "2026-08-12T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espn F12",
+      "descripcion": "Espacio informativo para analizar todo lo que sucede en el ámbito local e internacional, con periodistas en vivo desde los entrenamientos de los más destacados equipos del fútbol argentino.",
+      "inicio": "2026-08-12T10:00:00",
+      "fin": "2026-08-12T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ESPN F90 - Primera edición",
+      "descripcion": "Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional. El debate más picante, las mejores entrevistas y el más profundo análisis.",
+      "inicio": "2026-08-12T12:00:00",
+      "fin": "2026-08-12T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espn F3",
+      "descripcion": "Un espacio que aborda la agenda futbolística de forma descontracturada y junto a diversos expertos invitados. Los panelistas deberán elegir sus podios de mejores futbolistas, equipos, jugadas, goles y mucho más.",
+      "inicio": "2026-08-12T14:00:00",
+      "fin": "2026-08-12T14:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Paris Saint-Germain vs Aston Villa ",
+      "descripcion": "Vive las emociones de la 51º edición de la Supercopa de la UEFA. El encuentro se disputará entre el París Saint-Germain, ganador de la UEFA Champions League, contra el Aston Villa como ganador de la UEFA Europa League.",
+      "inicio": "2026-08-12T14:45:00",
+      "fin": "2026-08-12T17:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espn F360",
+      "descripcion": "Con Matías Martin, Pablo González y gran equipo encontrarás lo mejor de la actualidad del fútbol argentino y del exterior. Aparte, toda la previa de Libertadores y Sudamericana.",
+      "inicio": "2026-08-12T17:15:00",
+      "fin": "2026-08-12T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-11T01:00:00",
-      "fin": "2026-08-11T07:00:00",
+      "inicio": "2026-08-12T17:45:00",
+      "fin": "2026-08-12T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cruzeiro vs Flamengo ",
+      "descripcion": "Vive las emociones de los partidos de la 67º edición de la CONMEBOL Libertadores, el torneo de clubes más importante de América del Sur.",
+      "inicio": "2026-08-12T20:00:00",
+      "fin": "2026-08-12T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espn F10",
+      "descripcion": "No hay mejor manera que terminar el día bien informado con el repaso de todo lo sucedido en materia fútbol. Sumate al equipo liderado por Martín Souto para encenderte con los debates de un gran panel de especialistas.",
+      "inicio": "2026-08-12T22:30:00",
+      "fin": "2026-08-12T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
+      "inicio": "2026-08-12T23:30:00",
+      "fin": "2026-08-13T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
+      "inicio": "2026-08-13T00:30:00",
+      "fin": "2026-08-13T01:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "ESPN 2",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-11T07:00:00",
-      "fin": "2026-08-11T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN 2",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-11T13:00:00",
-      "fin": "2026-08-11T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN 2",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-11T19:00:00",
-      "fin": "2026-08-12T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN 2",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-12T01:00:00",
-      "fin": "2026-08-12T07:00:00",
+      "inicio": "2026-08-13T01:30:00",
+      "fin": "2026-08-13T07:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
