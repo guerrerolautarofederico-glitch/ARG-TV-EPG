@@ -1,864 +1,829 @@
 {
   "actual": {
-    "titulo": "El campamento de Lazlo • La bajada del campista",
-    "descripcion": "La bajada del campista ║ Cuando los Jelly descubren que Banano solía ser un asombroso doble de riesgo, ellos harán todo lo posible para restituirlo a su antigua gloria.",
-    "inicio": "2026-08-13T06:11:00",
-    "fin": "2026-08-13T06:22:00",
+    "titulo": "El campamento de Lazlo • La gran bolsa de Edward",
+    "descripcion": "La gran bolsa de Edward ║ Un viaje de acampada al pantano se vuelve extraño cuando una misteriosa criatura con forma de saco de dormir se une a los campistas.",
+    "inicio": "2026-08-14T06:11:00",
+    "fin": "2026-08-14T06:23:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "El campamento de Lazlo • Escarabajos en Dulcelandia",
-    "descripcion": "Escarabajos en Dulcelandia ║ Cuando Slinkman se embarca en un alboroto por la confiscación de dulces, Samson usa su juego de química para hacer dulces, con resultados desastrosos.",
-    "inicio": "2026-08-13T06:22:00",
-    "fin": "2026-08-13T06:35:00",
+    "titulo": "El campamento de Lazlo • Dulces pesadillas",
+    "descripcion": "Dulces pesadillas ║ Lumpus es forzado a invitar a los Jellies a un pijama party, pero él no dormirá ni un poco.",
+    "inicio": "2026-08-14T06:23:00",
+    "fin": "2026-08-14T06:36:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "El campamento de Lazlo • La bajada del campista",
-      "descripcion": "La bajada del campista ║ Cuando los Jelly descubren que Banano solía ser un asombroso doble de riesgo, ellos harán todo lo posible para restituirlo a su antigua gloria.",
-      "inicio": "2026-08-13T06:11:00",
-      "fin": "2026-08-13T06:22:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El campamento de Lazlo • Escarabajos en Dulcelandia",
-      "descripcion": "Escarabajos en Dulcelandia ║ Cuando Slinkman se embarca en un alboroto por la confiscación de dulces, Samson usa su juego de química para hacer dulces, con resultados desastrosos.",
-      "inicio": "2026-08-13T06:22:00",
-      "fin": "2026-08-13T06:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El campamento de Lazlo • Eligiendo mascota",
-      "descripcion": "Eligiendo mascota ║ Todos los campistas compiten para ser la nueva mascota del Campamento Riñón. Lamentablemente, solo puede haber un ganador.",
-      "inicio": "2026-08-13T06:35:00",
-      "fin": "2026-08-13T06:46:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El campamento de Lazlo • La maldición de Sansón",
-      "descripcion": "La maldición de Sansón ║ Samson aprende a defenderse cuando es continuamente golpeado con balones de goma.",
-      "inicio": "2026-08-13T06:46:00",
-      "fin": "2026-08-13T06:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mi compañero de clase es un mono • La chica salvaje",
-      "descripcion": "La chica salvaje ║ Una niña humana que dice haber sido criada por zarigüeyas asiste a la escuela secundaria Charles Darwin y desarrolla una relación de amor-odio con Adam.",
-      "inicio": "2026-08-13T06:59:00",
-      "fin": "2026-08-13T07:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mi compañero de clase es un mono • El viaje falso de Cuernil y Ted",
-      "descripcion": "El viaje falso de Cuernil y Ted ║ El Sr. Cuernil llega a la escuela con un molesto picabueyes sentado en su cuerno. Después de que el pájaro insulta a Jake, la pandilla planea librar al Sr. Cuernil de la detestable plaga.",
-      "inicio": "2026-08-13T07:10:00",
-      "fin": "2026-08-13T07:21:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mi compañero de clase es un mono • Mi león salvaje",
-      "descripcion": "Mi león salvaje ║ Esperando conseguir una chaqueta de cuero para Jake, Adam se une a un 'club' extracurricular.",
-      "inicio": "2026-08-13T07:21:00",
-      "fin": "2026-08-13T07:34:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mi compañero de clase es un mono • León solitario",
-      "descripcion": "León solitario ║ Jake cree que Adam quiere dejar la Escuela Charles Darwin y en un esfuerzo para hacerlo sentir más bienvenido, el y sus amigos comienzan a comportarse más humanos.",
-      "inicio": "2026-08-13T07:34:00",
-      "fin": "2026-08-13T07:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mi compañero de clase es un mono • Comportamiento humano",
-      "descripcion": "Comportamiento humano ║ Después de estudiar todas las noches para los exámenes finales durante dos semanas consecutivas, Adam se vuelve salvaje. Jake está feliz ya que siempre quiso entrenar a un niño salvaje para que compita en una competencia anual.",
-      "inicio": "2026-08-13T07:45:00",
-      "fin": "2026-08-13T07:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hi Hi Puffy AmiYumi • Escuela de manejo",
-      "descripcion": "Escuela de manejo ║ Ami cree que Yumi y Kaz son pésimos conductores y los hace tomar lecciones de manejo.",
-      "inicio": "2026-08-13T07:59:00",
-      "fin": "2026-08-13T08:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hi Hi Puffy AmiYumi • Escondido",
-      "descripcion": "Escondido ║ Las chicas se aventuran debajo del capó del autobús para saber por que se rompe todo el tiempo.",
-      "inicio": "2026-08-13T08:05:00",
-      "fin": "2026-08-13T08:12:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hi Hi Puffy AmiYumi • Campamento",
-      "descripcion": "Campamento ║ Ami lleva a Yumi a acampar.",
-      "inicio": "2026-08-13T08:12:00",
-      "fin": "2026-08-13T08:19:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hi Hi Puffy AmiYumi • Tiempo fuera",
-      "descripcion": "Tiempo fuera ║ Tratando de curar a Ami de su obsesión por programar cosas, Yumi la transporta cinco segundos hacia el pasado.",
-      "inicio": "2026-08-13T08:19:00",
-      "fin": "2026-08-13T08:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hi Hi Puffy AmiYumi • Viaje en el pasado",
-      "descripcion": "Viaje en el pasado ║ En tiempos prehistóricos, Ami, Yumi y Kaz tratan de inventar un transporte para salir en su primera gira.",
-      "inicio": "2026-08-13T08:25:00",
-      "fin": "2026-08-13T08:34:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mike, Lu y Og • El día de los fundadores",
-      "descripcion": "El día de los fundadores ║ Los isleños celebran la fundación de su isla.",
-      "inicio": "2026-08-13T08:34:00",
-      "fin": "2026-08-13T08:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mike, Lu y Og • Alta costura",
-      "descripcion": "Alta costura ║ En busca de un nuevo guardarropa, Mike organiza un desfile de modas.",
-      "inicio": "2026-08-13T08:45:00",
-      "fin": "2026-08-13T08:58:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • It's a Dis-Graze",
-      "descripcion": "It's a Dis-Graze ║ Sheep se siente insignificante hasta que se traga accidentalmente un diamante y pasa a ser el centro de atención de la sociedad. ¿Logrará esta nueva posición hacerla perder su alma y el amor de Presumida? Como si todo esto fuera poco, General Específicamente y Soldado Público cantan ¿Una canción de amistad?.",
-      "inicio": "2026-08-13T08:58:00",
-      "fin": "2026-08-13T09:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • About Timmy McPherson",
-      "descripcion": "About Timmy McPherson ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
-      "inicio": "2026-08-13T09:05:00",
-      "fin": "2026-08-13T09:06:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Identidad equivocada",
-      "descripcion": "Identidad equivocada ║ Una misteriosa figura con forma de oveja está robando la Gran Ciudad. ¿Podrá ser nuestro amigo Sheep? Además: ¡Los Hermanos Sombrero presentan un queso come-hombres!.",
-      "inicio": "2026-08-13T09:06:00",
-      "fin": "2026-08-13T09:13:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • About Refrigerators",
-      "descripcion": "About Refrigerators ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
-      "inicio": "2026-08-13T09:13:00",
-      "fin": "2026-08-13T09:14:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad",
-      "descripcion": "Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
-      "inicio": "2026-08-13T09:14:00",
-      "fin": "2026-08-13T09:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Esquilado de conocerte",
-      "descripcion": "Esquilado de conocerte ║ Sheep recibe amistosamente a una nueva oveja en la Gran Ciudad. ¿Podrán volverse grandes amigos o tendrá esta sigilosa oveja un secreto plan diabólico? Además: ¡Nuevamente, el Chico Completamente Poderoso no logra cumplir con su misión del día!.",
-      "inicio": "2026-08-13T09:20:00",
-      "fin": "2026-08-13T09:24:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Star Trek Parody",
-      "descripcion": "Star Trek Parody ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
-      "inicio": "2026-08-13T09:24:00",
-      "fin": "2026-08-13T09:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Les Is More Store",
-      "descripcion": "Les Is More Store ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
-      "inicio": "2026-08-13T09:25:00",
-      "fin": "2026-08-13T09:26:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Completely Powerful Guy 4",
-      "descripcion": "Completely Powerful Guy 4 ║ Completely Powerful Guy se ofrece a convertirse en el nuevo guardaespaldas de Sheep, pero divaga sobre los días en los que podría no estar presente para ayudar a Sheep mientras vuela y, sin darse cuenta, hace que Sheep se lastime.",
-      "inicio": "2026-08-13T09:26:00",
-      "fin": "2026-08-13T09:28:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • General Specific's Birthday Candle Blowing Tips",
-      "descripcion": "General Specific's Birthday Candle Blowing Tips ║ Consejos del general Específico para soplar velas de cumpleaños.",
-      "inicio": "2026-08-13T09:28:00",
-      "fin": "2026-08-13T09:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Biotechnical Corporate Concern Limited Company - Part 1",
-      "descripcion": "Biotechnical Corporate Concern Limited Company - Part 1 ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
-      "inicio": "2026-08-13T09:29:00",
-      "fin": "2026-08-13T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Biotechnical Corporate Concern Limited Company - Part 2",
-      "descripcion": "Biotechnical Corporate Concern Limited Company - Part 2 ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
-      "inicio": "2026-08-13T09:30:00",
-      "fin": "2026-08-13T09:33:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escuadrón del tiempo • El día de los Larrys",
-      "descripcion": "El día de los Larrys ║ Cargado de tareas, Larry construye un clon para poder descansar y relajarse. Pronto, el doble hace otros clones y rápidamente el satélite está repleto de Larrys.",
-      "inicio": "2026-08-13T09:33:00",
-      "fin": "2026-08-13T09:44:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escuadrón del tiempo • Los viejos tiempos",
-      "descripcion": "Los viejos tiempos ║ Tuddrussell se enamora de su exesposa nuevamente, y Paul Revere experimenta una fobia a los caballos.",
-      "inicio": "2026-08-13T09:44:00",
-      "fin": "2026-08-13T09:58:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Las maravillosas desventuras de Flapjack • ¿Qué se lo está comiendo, capitán?",
-      "descripcion": "¿Qué se lo está comiendo, capitán? ║ Las termitas plagan al Capitán Nudillos.",
-      "inicio": "2026-08-13T09:58:00",
-      "fin": "2026-08-13T10:09:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Las maravillosas desventuras de Flapjack • El alcalde",
-      "descripcion": "El alcalde ║ El Capitán Nudillos es el nuevo alcalde de Bahía Tormentosa.",
-      "inicio": "2026-08-13T10:09:00",
-      "fin": "2026-08-13T10:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los pequeños Looney Tunes • Pouting Match",
-      "descripcion": "Pouting Match ║ Lola hace pucheros para conseguir lo que quiere y pronto todos los bebés hacen lo mismo.",
-      "inicio": "2026-08-13T10:23:00",
-      "fin": "2026-08-13T10:33:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los pequeños Looney Tunes • A Clean Sweep",
-      "descripcion": "A Clean Sweep ║ Lucas trata de evitar la limpieza colocando sus juguetes debajo de una alfombra.",
-      "inicio": "2026-08-13T10:33:00",
-      "fin": "2026-08-13T10:43:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los pequeños Looney Tunes • Shadow of a Doubt",
-      "descripcion": "Shadow of a Doubt ║ Piolín 'arroja algo de luz' sobre lo que es una sombra.",
-      "inicio": "2026-08-13T10:43:00",
-      "fin": "2026-08-13T10:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los pequeños Looney Tunes • The Tattletale",
-      "descripcion": "The Tattletale ║ Lola comienza a acusar a los otros bebés hasta que sus amigos ya no quieren jugar con ella.",
-      "inicio": "2026-08-13T10:55:00",
-      "fin": "2026-08-13T11:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los pequeños Looney Tunes • The Magic of Spring",
-      "descripcion": "The Magic of Spring ║ El fracaso de Bugs como mago se convierte en éxito cuando experimenta la verdadera magia de la naturaleza.",
-      "inicio": "2026-08-13T11:05:00",
-      "fin": "2026-08-13T11:16:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los pequeños Looney Tunes • Never Say Try",
-      "descripcion": "Never Say Try ║ Silvestre es un mal bailarín y terrible pintor con los dedos, por lo que cree que nunca será bueno en nada, pero sigue intentándolo de todos modos.",
-      "inicio": "2026-08-13T11:16:00",
-      "fin": "2026-08-13T11:28:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Scooby Doo, ¿dónde estás? • La leyenda del decapitado",
-      "descripcion": "La leyenda del decapitado ║ La pandilla de Misterio S.A. se pierde camino a un festival de rock y la camioneta se queda casi sin gasolina. Un granjero les recomienda tomar el camino largo, pues el corto los llevaría a una mansión embrujada. Los chicos entran en la mansión en busca de una cubeta de agua para el radiador de la camioneta, pero se encuentran con un espectro sin cabeza que intenta expulsarlos de la casa.",
-      "inicio": "2026-08-13T11:28:00",
-      "fin": "2026-08-13T11:51:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Scooby Doo, ¿dónde estás? • La máscara de Zen Tuo",
-      "descripcion": "La máscara de Zen Tuo ║ Daphne compra una máscara decorativa, supuestamente maldita, en el Barrio Chino, y es secuestrada. El resto de la pandilla sigue la pista de los secuestradores hasta el templo del malvado Zen Tuo, que parece tener el templo embrujado y quiere librarse de los chicos.",
-      "inicio": "2026-08-13T11:51:00",
-      "fin": "2026-08-13T12:14:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Scooby-Doo! Misterios SA • Finales del club de misterios por resolver",
-      "descripcion": "Finales del club de misterios por resolver ║ Enfermo y en cama la noche anterior a la final estatal del Club de Misterios por Resolver, Scooby sueña que va a la competencia para rescatar a sus amigos de las garras del diabólico Lord Infernicus.",
-      "inicio": "2026-08-13T12:14:00",
-      "fin": "2026-08-13T12:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Scooby-Doo! Misterios SA • Una noche en la macabra montaña",
-      "descripcion": "Una noche en la macabra montaña ║ Dos jóvenes pasean por la montaña Diabla sin saber que su protectora, la sombría Lilith, ataca a cualquiera que pise su territorio. ¡Trabajo para Misterios S.A.!.",
-      "inicio": "2026-08-13T12:35:00",
-      "fin": "2026-08-13T12:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Don Gato y su pandilla • Turistas en Nueva York",
-      "descripcion": "Turistas en Nueva York ║ Cuando Cucho encuentra un tesoro escondido en un edificio en ruinas, éste es confiscado por el gobierno.",
-      "inicio": "2026-08-13T12:59:00",
-      "fin": "2026-08-13T13:24:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Don Gato y su pandilla • Salvando al osito hormiguero",
-      "descripcion": "Salvando al osito hormiguero ║ Don Gato encuentra un oso hormiguero y ve en él una oportunidad para ganar dinero. Convencido de que recibirá una recompensa, planea llevarlo al zoológico, pero sus intentos por cumplir el objetivo terminan generando divertidos enredos.",
-      "inicio": "2026-08-13T13:24:00",
-      "fin": "2026-08-13T13:51:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Picapiedra • Artistas famosos",
-      "descripcion": "Artistas famosos ║ Los Picapiedras y los Mármol viajan a Hollywood, la capital del entretenimiento mundial, para probar suerte en la actuación.",
-      "inicio": "2026-08-13T13:51:00",
-      "fin": "2026-08-13T14:18:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Picapiedra • The X-Ray Story",
-      "descripcion": "The X-Ray Story ║ Pedro es diagnosticado incorrectamente y debe quedarse despierto por 3 días como tratamiento para una enfermedad de dinosaurios.",
-      "inicio": "2026-08-13T14:18:00",
-      "fin": "2026-08-13T14:46:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los autos locos • Carrera de rebote a Chillicothe",
-      "descripcion": "Carrera de rebote a Chillicothe ║ El deshonesto Pier No Doyuna roba una patrulla policial y persigue a los Sugaboo hasta un partido de béisbol infantil.",
-      "inicio": "2026-08-13T14:46:00",
-      "fin": "2026-08-13T14:56:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los autos locos • Hay que correr hasta Delaware",
-      "descripcion": "Hay que correr hasta Delaware ║ Pier No Doyuna planea cubrir la calzada con azúcar glaseado para que Peter y Penélope den vueltas hasta entrar a una máquina que prepara pasteles.",
-      "inicio": "2026-08-13T14:56:00",
-      "fin": "2026-08-13T15:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los autos locos • Race to Racine / The Carlsbad or Bust Bash",
-      "descripcion": "Race to Racine / The Carlsbad or Bust Bash ║ Nodoyuna espera exterminar a la Mafia del hormiguero al disfrazar a Patán de gángster e infiltrar la Antigualla Blindada. / Los conductores se pierden en los túneles de las cavernas de Carlsbad.",
-      "inicio": "2026-08-13T15:05:00",
-      "fin": "2026-08-13T15:17:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los autos locos • La carrera de la batalla de: a que no me alcanzas",
-      "descripcion": "La carrera de la batalla de: a que no me alcanzas ║ Pierre Nodoyuna desvía la Súper Chatarra Special, hacia el sitio en el que se desarrollan juegos de un ejército militar.",
-      "inicio": "2026-08-13T15:17:00",
-      "fin": "2026-08-13T15:27:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los autos locos • Una carrera sin sentido hacia limón partido",
-      "descripcion": "Una carrera sin sentido hacia limón partido ║ Los autos locos se encuentran con fantasmas en el pueblo abandonado de Spookane.",
-      "inicio": "2026-08-13T15:27:00",
-      "fin": "2026-08-13T15:39:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ThunderCats • El doctor observador",
-      "descripcion": "El doctor observador ║ Un robot rana se traga a Felina. Luego se descubre que lo pilotea el doctor Dometome, el científico responsable de controlar el tapón del océano, que impide que el océano se filtre hasta el centro de la Tierra.",
-      "inicio": "2026-08-13T15:39:00",
-      "fin": "2026-08-13T16:04:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ThunderCats • El traslado",
-      "descripcion": "El traslado ║ Una nave desconocida que contiene un peligroso dispositivo radioactivo se aproxima a la Tercera Tierra.",
-      "inicio": "2026-08-13T16:04:00",
-      "fin": "2026-08-13T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hermano de Jorel • Jorelovers para siempre",
-      "descripcion": "Jorelovers para siempre ║ Los Lateenagers y Greg Menegueli secuestran a Jorel para reemplazar a uno de sus miembros. Catiane se da cuenta de que Jorel está pidiendo ayuda y llama a un equipo de rescate.",
-      "inicio": "2026-08-13T16:30:00",
-      "fin": "2026-08-13T16:41:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hermano de Jorel • Sonámbulo molón",
-      "descripcion": "Sonámbulo molón ║ El hermano de Jorel descubre que Nico es sonámbulo, se viste con ropa estilosa y sale a bailar por la noche. Siguiendo a Nico, encuentra el Baile Charme, el lugar más génial de la ciudad.",
-      "inicio": "2026-08-13T16:41:00",
-      "fin": "2026-08-13T16:53:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hermano de Jorel • La guerra de alimento de las galaxias",
-      "descripcion": "La guerra de alimento de las galaxias ║ El hermano de Jorel y Lara viajan por el espacio con Gesonel en su nave con forma de pato. Su misión: capturar a Klong y su nave pirata cargada de productos falsificados con destino a la Tierra.",
-      "inicio": "2026-08-13T16:53:00",
-      "fin": "2026-08-13T17:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mansión Foster para amigos imaginarios • La guerra de los cuartos",
-      "descripcion": "La guerra de los cuartos ║ Cuando una reciente adopción deja libre una habitación de la mansión, Bloo, Coco, Wildo y Eduardo combaten por ella.",
-      "inicio": "2026-08-13T17:05:00",
-      "fin": "2026-08-13T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mansión Foster para amigos imaginarios • El elefantito chillón",
-      "descripcion": "El elefantito chillón ║ Cuando la obsesión de Bloo por el preciado elefante de goma de la pandilla se vuelve demasiado exagerada, éste acaba rompiéndolo. ¿Encontrará Bloo una manera de reemplazar al paquidermo dañado antes de que se enteren sus amigos?.",
-      "inicio": "2026-08-13T17:30:00",
-      "fin": "2026-08-13T17:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El campamento de Lazlo • El primer amor de Lazlo",
-      "descripcion": "El primer amor de Lazlo ║ Lazlo experimenta su primer amor, pero esto separará a los Jellies cuando Raj le diga a Lazlo: '¡yo también la amo!'.",
-      "inicio": "2026-08-13T17:55:00",
-      "fin": "2026-08-13T18:06:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El campamento de Lazlo • La gran cacería",
-      "descripcion": "La gran cacería ║ Lumpus hace una travesura a los Exploradores, pero todo le sale al revés y termina a su merced.",
-      "inicio": "2026-08-13T18:06:00",
-      "fin": "2026-08-13T18:16:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El campamento de Lazlo • La bajada del campista",
-      "descripcion": "La bajada del campista ║ Cuando los Jelly descubren que Banano solía ser un asombroso doble de riesgo, ellos harán todo lo posible para restituirlo a su antigua gloria.",
-      "inicio": "2026-08-13T18:16:00",
-      "fin": "2026-08-13T18:27:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El campamento de Lazlo • Escarabajos en Dulcelandia",
-      "descripcion": "Escarabajos en Dulcelandia ║ Cuando Slinkman se embarca en un alboroto por la confiscación de dulces, Samson usa su juego de química para hacer dulces, con resultados desastrosos.",
-      "inicio": "2026-08-13T18:27:00",
-      "fin": "2026-08-13T18:41:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El campamento de Lazlo • Eligiendo mascota",
-      "descripcion": "Eligiendo mascota ║ Todos los campistas compiten para ser la nueva mascota del Campamento Riñón. Lamentablemente, solo puede haber un ganador.",
-      "inicio": "2026-08-13T18:41:00",
-      "fin": "2026-08-13T18:52:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El campamento de Lazlo • La maldición de Sansón",
-      "descripcion": "La maldición de Sansón ║ Samson aprende a defenderse cuando es continuamente golpeado con balones de goma.",
-      "inicio": "2026-08-13T18:52:00",
-      "fin": "2026-08-13T19:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mi compañero de clase es un mono • La chica salvaje",
-      "descripcion": "La chica salvaje ║ Una niña humana que dice haber sido criada por zarigüeyas asiste a la escuela secundaria Charles Darwin y desarrolla una relación de amor-odio con Adam.",
-      "inicio": "2026-08-13T19:05:00",
-      "fin": "2026-08-13T19:16:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mi compañero de clase es un mono • El viaje falso de Cuernil y Ted",
-      "descripcion": "El viaje falso de Cuernil y Ted ║ El Sr. Cuernil llega a la escuela con un molesto picabueyes sentado en su cuerno. Después de que el pájaro insulta a Jake, la pandilla planea librar al Sr. Cuernil de la detestable plaga.",
-      "inicio": "2026-08-13T19:16:00",
-      "fin": "2026-08-13T19:27:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mi compañero de clase es un mono • Mi león salvaje",
-      "descripcion": "Mi león salvaje ║ Esperando conseguir una chaqueta de cuero para Jake, Adam se une a un 'club' extracurricular.",
-      "inicio": "2026-08-13T19:27:00",
-      "fin": "2026-08-13T19:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mi compañero de clase es un mono • León solitario",
-      "descripcion": "León solitario ║ Jake cree que Adam quiere dejar la Escuela Charles Darwin y en un esfuerzo para hacerlo sentir más bienvenido, el y sus amigos comienzan a comportarse más humanos.",
-      "inicio": "2026-08-13T19:40:00",
-      "fin": "2026-08-13T19:51:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mi compañero de clase es un mono • Comportamiento humano",
-      "descripcion": "Comportamiento humano ║ Después de estudiar todas las noches para los exámenes finales durante dos semanas consecutivas, Adam se vuelve salvaje. Jake está feliz ya que siempre quiso entrenar a un niño salvaje para que compita en una competencia anual.",
-      "inicio": "2026-08-13T19:51:00",
-      "fin": "2026-08-13T20:04:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hi Hi Puffy AmiYumi • Escuela de manejo",
-      "descripcion": "Escuela de manejo ║ Ami cree que Yumi y Kaz son pésimos conductores y los hace tomar lecciones de manejo.",
-      "inicio": "2026-08-13T20:04:00",
-      "fin": "2026-08-13T20:11:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hi Hi Puffy AmiYumi • Escondido",
-      "descripcion": "Escondido ║ Las chicas se aventuran debajo del capó del autobús para saber por que se rompe todo el tiempo.",
-      "inicio": "2026-08-13T20:11:00",
-      "fin": "2026-08-13T20:17:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hi Hi Puffy AmiYumi • Campamento",
-      "descripcion": "Campamento ║ Ami lleva a Yumi a acampar.",
-      "inicio": "2026-08-13T20:17:00",
-      "fin": "2026-08-13T20:24:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hi Hi Puffy AmiYumi • Tiempo fuera",
-      "descripcion": "Tiempo fuera ║ Tratando de curar a Ami de su obsesión por programar cosas, Yumi la transporta cinco segundos hacia el pasado.",
-      "inicio": "2026-08-13T20:24:00",
-      "fin": "2026-08-13T20:31:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hi Hi Puffy AmiYumi • Viaje en el pasado",
-      "descripcion": "Viaje en el pasado ║ En tiempos prehistóricos, Ami, Yumi y Kaz tratan de inventar un transporte para salir en su primera gira.",
-      "inicio": "2026-08-13T20:31:00",
-      "fin": "2026-08-13T20:39:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mike, Lu y Og • El día de los fundadores",
-      "descripcion": "El día de los fundadores ║ Los isleños celebran la fundación de su isla.",
-      "inicio": "2026-08-13T20:39:00",
-      "fin": "2026-08-13T20:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mike, Lu y Og • Alta costura",
-      "descripcion": "Alta costura ║ En busca de un nuevo guardarropa, Mike organiza un desfile de modas.",
-      "inicio": "2026-08-13T20:50:00",
-      "fin": "2026-08-13T21:03:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • It's a Dis-Graze",
-      "descripcion": "It's a Dis-Graze ║ Sheep se siente insignificante hasta que se traga accidentalmente un diamante y pasa a ser el centro de atención de la sociedad. ¿Logrará esta nueva posición hacerla perder su alma y el amor de Presumida? Como si todo esto fuera poco, General Específicamente y Soldado Público cantan ¿Una canción de amistad?.",
-      "inicio": "2026-08-13T21:03:00",
-      "fin": "2026-08-13T21:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • About Timmy McPherson",
-      "descripcion": "About Timmy McPherson ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
-      "inicio": "2026-08-13T21:10:00",
-      "fin": "2026-08-13T21:11:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Identidad equivocada",
-      "descripcion": "Identidad equivocada ║ Una misteriosa figura con forma de oveja está robando la Gran Ciudad. ¿Podrá ser nuestro amigo Sheep? Además: ¡Los Hermanos Sombrero presentan un queso come-hombres!.",
-      "inicio": "2026-08-13T21:11:00",
-      "fin": "2026-08-13T21:18:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • About Refrigerators",
-      "descripcion": "About Refrigerators ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
-      "inicio": "2026-08-13T21:18:00",
-      "fin": "2026-08-13T21:19:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Mad Bomber and Pastry Chef Girl",
-      "descripcion": "Mad Bomber and Pastry Chef Girl ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
-      "inicio": "2026-08-13T21:19:00",
-      "fin": "2026-08-13T21:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Lana puede detenerme",
-      "descripcion": "Lana puede detenerme ║ ¿Sheep es una amenaza para la humanidad o puede convertirse en un héroe?.",
-      "inicio": "2026-08-13T21:20:00",
-      "fin": "2026-08-13T21:26:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Esquilado de conocerte",
-      "descripcion": "Esquilado de conocerte ║ Sheep recibe amistosamente a una nueva oveja en la Gran Ciudad. ¿Podrán volverse grandes amigos o tendrá esta sigilosa oveja un secreto plan diabólico? Además: ¡Nuevamente, el Chico Completamente Poderoso no logra cumplir con su misión del día!.",
-      "inicio": "2026-08-13T21:26:00",
-      "fin": "2026-08-13T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Star Trek Parody",
-      "descripcion": "Star Trek Parody ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
-      "inicio": "2026-08-13T21:30:00",
-      "fin": "2026-08-13T21:31:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Les Is More Store",
-      "descripcion": "Les Is More Store ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
-      "inicio": "2026-08-13T21:31:00",
-      "fin": "2026-08-13T21:32:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • Completely Powerful Guy 4",
-      "descripcion": "Completely Powerful Guy 4 ║ Completely Powerful Guy se ofrece a convertirse en el nuevo guardaespaldas de Sheep, pero divaga sobre los días en los que podría no estar presente para ayudar a Sheep mientras vuela y, sin darse cuenta, hace que Sheep se lastime.",
-      "inicio": "2026-08-13T21:32:00",
-      "fin": "2026-08-13T21:34:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad • General Specific's Birthday Candle Blowing Tips",
-      "descripcion": "General Specific's Birthday Candle Blowing Tips ║ Consejos del general Específico para soplar velas de cumpleaños.",
-      "inicio": "2026-08-13T21:34:00",
-      "fin": "2026-08-13T21:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sheep en la gran ciudad",
-      "descripcion": "Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
-      "inicio": "2026-08-13T21:35:00",
-      "fin": "2026-08-13T21:38:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escuadrón del tiempo • El día de los Larrys",
-      "descripcion": "El día de los Larrys ║ Cargado de tareas, Larry construye un clon para poder descansar y relajarse. Pronto, el doble hace otros clones y rápidamente el satélite está repleto de Larrys.",
-      "inicio": "2026-08-13T21:38:00",
-      "fin": "2026-08-13T21:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escuadrón del tiempo • Los viejos tiempos",
-      "descripcion": "Los viejos tiempos ║ Tuddrussell se enamora de su exesposa nuevamente, y Paul Revere experimenta una fobia a los caballos.",
-      "inicio": "2026-08-13T21:50:00",
-      "fin": "2026-08-13T22:04:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Las maravillosas desventuras de Flapjack • ¿Qué se lo está comiendo, capitán?",
-      "descripcion": "¿Qué se lo está comiendo, capitán? ║ Las termitas plagan al Capitán Nudillos.",
-      "inicio": "2026-08-13T22:04:00",
-      "fin": "2026-08-13T22:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Las maravillosas desventuras de Flapjack • El alcalde",
-      "descripcion": "El alcalde ║ El Capitán Nudillos es el nuevo alcalde de Bahía Tormentosa.",
-      "inicio": "2026-08-13T22:15:00",
-      "fin": "2026-08-13T22:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los pequeños Looney Tunes • Pouting Match",
-      "descripcion": "Pouting Match ║ Lola hace pucheros para conseguir lo que quiere y pronto todos los bebés hacen lo mismo.",
-      "inicio": "2026-08-13T22:29:00",
-      "fin": "2026-08-13T22:39:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los pequeños Looney Tunes • A Clean Sweep",
-      "descripcion": "A Clean Sweep ║ Lucas trata de evitar la limpieza colocando sus juguetes debajo de una alfombra.",
-      "inicio": "2026-08-13T22:39:00",
-      "fin": "2026-08-13T22:49:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los pequeños Looney Tunes • Shadow of a Doubt",
-      "descripcion": "Shadow of a Doubt ║ Piolín 'arroja algo de luz' sobre lo que es una sombra.",
-      "inicio": "2026-08-13T22:49:00",
-      "fin": "2026-08-13T22:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los pequeños Looney Tunes • The Tattletale",
-      "descripcion": "The Tattletale ║ Lola comienza a acusar a los otros bebés hasta que sus amigos ya no quieren jugar con ella.",
-      "inicio": "2026-08-13T22:59:00",
-      "fin": "2026-08-13T23:09:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los pequeños Looney Tunes • The Magic of Spring",
-      "descripcion": "The Magic of Spring ║ El fracaso de Bugs como mago se convierte en éxito cuando experimenta la verdadera magia de la naturaleza.",
-      "inicio": "2026-08-13T23:09:00",
-      "fin": "2026-08-13T23:19:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los pequeños Looney Tunes • Never Say Try",
-      "descripcion": "Never Say Try ║ Silvestre es un mal bailarín y terrible pintor con los dedos, por lo que cree que nunca será bueno en nada, pero sigue intentándolo de todos modos.",
-      "inicio": "2026-08-13T23:19:00",
-      "fin": "2026-08-13T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Scooby Doo, ¿dónde estás? • La leyenda del decapitado",
-      "descripcion": "La leyenda del decapitado ║ La pandilla de Misterio S.A. se pierde camino a un festival de rock y la camioneta se queda casi sin gasolina. Un granjero les recomienda tomar el camino largo, pues el corto los llevaría a una mansión embrujada. Los chicos entran en la mansión en busca de una cubeta de agua para el radiador de la camioneta, pero se encuentran con un espectro sin cabeza que intenta expulsarlos de la casa.",
-      "inicio": "2026-08-13T23:30:00",
-      "fin": "2026-08-13T23:53:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Scooby Doo, ¿dónde estás? • La máscara de Zen Tuo",
-      "descripcion": "La máscara de Zen Tuo ║ Daphne compra una máscara decorativa, supuestamente maldita, en el Barrio Chino, y es secuestrada. El resto de la pandilla sigue la pista de los secuestradores hasta el templo del malvado Zen Tuo, que parece tener el templo embrujado y quiere librarse de los chicos.",
-      "inicio": "2026-08-13T23:53:00",
-      "fin": "2026-08-14T00:16:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Scooby-Doo! Misterios SA • Finales del club de misterios por resolver",
-      "descripcion": "Finales del club de misterios por resolver ║ Enfermo y en cama la noche anterior a la final estatal del Club de Misterios por Resolver, Scooby sueña que va a la competencia para rescatar a sus amigos de las garras del diabólico Lord Infernicus.",
-      "inicio": "2026-08-14T00:16:00",
-      "fin": "2026-08-14T00:38:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Scooby-Doo! Misterios SA • Una noche en la macabra montaña",
-      "descripcion": "Una noche en la macabra montaña ║ Dos jóvenes pasean por la montaña Diabla sin saber que su protectora, la sombría Lilith, ataca a cualquiera que pise su territorio. ¡Trabajo para Misterios S.A.!.",
-      "inicio": "2026-08-14T00:38:00",
-      "fin": "2026-08-14T01:01:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Don Gato y su pandilla • Turistas en Nueva York",
-      "descripcion": "Turistas en Nueva York ║ Cuando Cucho encuentra un tesoro escondido en un edificio en ruinas, éste es confiscado por el gobierno.",
-      "inicio": "2026-08-14T01:01:00",
-      "fin": "2026-08-14T01:26:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Don Gato y su pandilla • Salvando al osito hormiguero",
-      "descripcion": "Salvando al osito hormiguero ║ Don Gato encuentra un oso hormiguero y ve en él una oportunidad para ganar dinero. Convencido de que recibirá una recompensa, planea llevarlo al zoológico, pero sus intentos por cumplir el objetivo terminan generando divertidos enredos.",
-      "inicio": "2026-08-14T01:26:00",
-      "fin": "2026-08-14T01:53:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Picapiedra • Artistas famosos",
-      "descripcion": "Artistas famosos ║ Los Picapiedras y los Mármol viajan a Hollywood, la capital del entretenimiento mundial, para probar suerte en la actuación.",
-      "inicio": "2026-08-14T01:53:00",
-      "fin": "2026-08-14T02:21:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Picapiedra • The X-Ray Story",
-      "descripcion": "The X-Ray Story ║ Pedro es diagnosticado incorrectamente y debe quedarse despierto por 3 días como tratamiento para una enfermedad de dinosaurios.",
-      "inicio": "2026-08-14T02:21:00",
-      "fin": "2026-08-14T02:48:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los autos locos • Carrera de rebote a Chillicothe",
-      "descripcion": "Carrera de rebote a Chillicothe ║ El deshonesto Pier No Doyuna roba una patrulla policial y persigue a los Sugaboo hasta un partido de béisbol infantil.",
-      "inicio": "2026-08-14T02:48:00",
-      "fin": "2026-08-14T02:58:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los autos locos • Hay que correr hasta Delaware",
-      "descripcion": "Hay que correr hasta Delaware ║ Pier No Doyuna planea cubrir la calzada con azúcar glaseado para que Peter y Penélope den vueltas hasta entrar a una máquina que prepara pasteles.",
-      "inicio": "2026-08-14T02:58:00",
-      "fin": "2026-08-14T03:08:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los autos locos • Race to Racine / The Carlsbad or Bust Bash",
-      "descripcion": "Race to Racine / The Carlsbad or Bust Bash ║ Nodoyuna espera exterminar a la Mafia del hormiguero al disfrazar a Patán de gángster e infiltrar la Antigualla Blindada. / Los conductores se pierden en los túneles de las cavernas de Carlsbad.",
-      "inicio": "2026-08-14T03:08:00",
-      "fin": "2026-08-14T03:18:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los autos locos • La carrera de la batalla de: a que no me alcanzas",
-      "descripcion": "La carrera de la batalla de: a que no me alcanzas ║ Pierre Nodoyuna desvía la Súper Chatarra Special, hacia el sitio en el que se desarrollan juegos de un ejército militar.",
-      "inicio": "2026-08-14T03:18:00",
-      "fin": "2026-08-14T03:28:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los autos locos • Una carrera sin sentido hacia limón partido",
-      "descripcion": "Una carrera sin sentido hacia limón partido ║ Los autos locos se encuentran con fantasmas en el pueblo abandonado de Spookane.",
-      "inicio": "2026-08-14T03:28:00",
-      "fin": "2026-08-14T03:39:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ThunderCats • El doctor observador",
-      "descripcion": "El doctor observador ║ Un robot rana se traga a Felina. Luego se descubre que lo pilotea el doctor Dometome, el científico responsable de controlar el tapón del océano, que impide que el océano se filtre hasta el centro de la Tierra.",
-      "inicio": "2026-08-14T03:39:00",
-      "fin": "2026-08-14T04:01:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ThunderCats • El traslado",
-      "descripcion": "El traslado ║ Una nave desconocida que contiene un peligroso dispositivo radioactivo se aproxima a la Tercera Tierra.",
-      "inicio": "2026-08-14T04:01:00",
-      "fin": "2026-08-14T04:24:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hermano de Jorel • Jorelovers para siempre",
-      "descripcion": "Jorelovers para siempre ║ Los Lateenagers y Greg Menegueli secuestran a Jorel para reemplazar a uno de sus miembros. Catiane se da cuenta de que Jorel está pidiendo ayuda y llama a un equipo de rescate.",
-      "inicio": "2026-08-14T04:24:00",
-      "fin": "2026-08-14T04:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hermano de Jorel • Sonámbulo molón",
-      "descripcion": "Sonámbulo molón ║ El hermano de Jorel descubre que Nico es sonámbulo, se viste con ropa estilosa y sale a bailar por la noche. Siguiendo a Nico, encuentra el Baile Charme, el lugar más génial de la ciudad.",
-      "inicio": "2026-08-14T04:35:00",
-      "fin": "2026-08-14T04:47:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hermano de Jorel • La guerra de alimento de las galaxias",
-      "descripcion": "La guerra de alimento de las galaxias ║ El hermano de Jorel y Lara viajan por el espacio con Gesonel en su nave con forma de pato. Su misión: capturar a Klong y su nave pirata cargada de productos falsificados con destino a la Tierra.",
-      "inicio": "2026-08-14T04:47:00",
-      "fin": "2026-08-14T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mansión Foster para amigos imaginarios • Corran por sus vidas Mac y Blu",
-      "descripcion": "Corran por sus vidas Mac y Blu ║ Mac y Blu se traban en una competencia épica cuando Blu desafía a Mac a una carrera de 50 kilómetros hasta la mansión Foster.",
-      "inicio": "2026-08-14T05:00:00",
-      "fin": "2026-08-14T05:24:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mansión Foster para amigos imaginarios • No los despierten",
-      "descripcion": "No los despierten ║ Bloo, junto a los amigos imaginarios, se presentan en el apartamento de Mac para una fiesta de pijamas.",
-      "inicio": "2026-08-14T05:24:00",
-      "fin": "2026-08-14T05:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El campamento de Lazlo • Mamá candor",
-      "descripcion": "Mamá candor ║ Skip y Chip encuentran una nueva 'Mamá' y su nombre es... ¡Jane Doe!.",
-      "inicio": "2026-08-14T05:50:00",
-      "fin": "2026-08-14T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El campamento de Lazlo • Quejas sólo quejas",
-      "descripcion": "Quejas sólo quejas ║ Banano reúne un equipo especial para manejar las quejas de los campistas. ¿Pero podrán seguir siendo los mismos con los beneficios que les trae su nuevo trabajo?.",
-      "inicio": "2026-08-14T06:00:00",
-      "fin": "2026-08-14T06:11:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "El campamento de Lazlo • La gran bolsa de Edward",
       "descripcion": "La gran bolsa de Edward ║ Un viaje de acampada al pantano se vuelve extraño cuando una misteriosa criatura con forma de saco de dormir se une a los campistas.",
       "inicio": "2026-08-14T06:11:00",
       "fin": "2026-08-14T06:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El campamento de Lazlo • Dulces pesadillas",
+      "descripcion": "Dulces pesadillas ║ Lumpus es forzado a invitar a los Jellies a un pijama party, pero él no dormirá ni un poco.",
+      "inicio": "2026-08-14T06:23:00",
+      "fin": "2026-08-14T06:36:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El campamento de Lazlo • Locura radiotransmitida",
+      "descripcion": "Locura radiotransmitida ║ Edward finge ser atacado por un yeti para atraer más oyentes a su programa de radio, ¡pero luego es atacado por dos yetis!.",
+      "inicio": "2026-08-14T06:36:00",
+      "fin": "2026-08-14T06:47:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El campamento de Lazlo • El campamento Riñón apesta",
+      "descripcion": "El campamento Riñón apesta ║ Lazlo quiere que todo el mundo deje de ducharse y se vuelva apestoso, pero las manías de Samson detienen su sucio plan.",
+      "inicio": "2026-08-14T06:47:00",
+      "fin": "2026-08-14T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi compañero de clase es un mono • Uniformidad",
+      "descripcion": "Uniformidad ║ El nuevo uniforme escolar de Pixiefrog hace que todos, excepto Adam, actúen con normalidad.",
+      "inicio": "2026-08-14T07:00:00",
+      "fin": "2026-08-14T07:11:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi compañero de clase es un mono • Ay, Henry",
+      "descripcion": "Ay, Henry ║ Es tiempo de que Henry vuelva a Groenlandia y de que Alistair, el presuntuoso tigre blanco, vuelva a la Escuela Charles Darwin. Adam y la pandilla tratarán de convencer a Henry de que se quede.",
+      "inicio": "2026-08-14T07:11:00",
+      "fin": "2026-08-14T07:22:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi compañero de clase es un mono • La solución citronela",
+      "descripcion": "La solución citronela ║ Después de que la última locura de Jake resulta en desastre, el Director Ranoso obliga a los estudiantes a vestir collares de citronella que los rocían cada vez que se comportan mal.",
+      "inicio": "2026-08-14T07:22:00",
+      "fin": "2026-08-14T07:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi compañero de clase es un mono • Guano en 60 segundos",
+      "descripcion": "Guano en 60 segundos ║ Después de que la escuela es declarada no habitable a causa de los excrementos de murciélago, todas las clases son trasladadas a un salón portátil. Pero cuando, accidentalmente, Jake desprende el salón de su lugar, éste rueda calle abajo y Jake y Adam deben detenerlo antes de que alguien se dé cuenta.",
+      "inicio": "2026-08-14T07:35:00",
+      "fin": "2026-08-14T07:46:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi compañero de clase es un mono • Las pompas de Jake",
+      "descripcion": "Las pompas de Jake ║ Los amigos de Jake organizan una intervención después de que su obsesión con su propio trasero se sale de control.",
+      "inicio": "2026-08-14T07:46:00",
+      "fin": "2026-08-14T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hi Hi Puffy AmiYumi • Himno Kaz",
+      "descripcion": "Himno Kaz ║ Kaz es hipnotizado por error.",
+      "inicio": "2026-08-14T08:00:00",
+      "fin": "2026-08-14T08:06:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hi Hi Puffy AmiYumi • Luces, cámara, peligro",
+      "descripcion": "Luces, cámara, peligro ║ Un famoso director de Hollywood es contratado para filmar el próximo video de las Puffy. Las chicas están emocionadas, ya que este podría ser el gran salto a la fama, en sus carreras como estrellas de cine. Pero pronto se dan cuenta que la idea del director, se parece más a una zona de guerra en una película de acción.",
+      "inicio": "2026-08-14T08:06:00",
+      "fin": "2026-08-14T08:13:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hi Hi Puffy AmiYumi • Baile en la jungla",
+      "descripcion": "Baile en la jungla ║ Para ayudar al rey de la selva a reavivar su romance, Ami y Yumi organizan un baile.",
+      "inicio": "2026-08-14T08:13:00",
+      "fin": "2026-08-14T08:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hi Hi Puffy AmiYumi • Ami juega fútbol",
+      "descripcion": "Ami juega fútbol ║ Kaz convence a Ami de jugar en su equipo de futbol americano y Yumi se viste como porrista para protegerla.",
+      "inicio": "2026-08-14T08:20:00",
+      "fin": "2026-08-14T08:27:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hi Hi Puffy AmiYumi • Ninja instántaneo",
+      "descripcion": "Ninja instántaneo ║ Yumi encarga un curso de ninja por correspondencia y pronto se transforma en una maestra en las artes ninja. Al principio, Ami se alegra de que su amiga esté realizando su 'verdadera vocación', pero su actitud comienza a cambiar cuando Yumi usa todo lo que aprendió en ella.",
+      "inicio": "2026-08-14T08:27:00",
+      "fin": "2026-08-14T08:36:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mike, Lu y Og • El rey de las cortinas",
+      "descripcion": "El rey de las cortinas ║ Lancelot encuentra un mensaje antiguo del rey de Inglaterra en una botella.",
+      "inicio": "2026-08-14T08:36:00",
+      "fin": "2026-08-14T08:47:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mike, Lu y Og • Estofado de tortuga",
+      "descripcion": "Estofado de tortuga ║ Los piratas tratan de convertir a Lancelot en su cena.",
+      "inicio": "2026-08-14T08:47:00",
+      "fin": "2026-08-14T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • Baah & Order",
+      "descripcion": "Baah & Order ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
+      "inicio": "2026-08-14T09:00:00",
+      "fin": "2026-08-14T09:01:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • Secret Military Organization Babies",
+      "descripcion": "Secret Military Organization Babies ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
+      "inicio": "2026-08-14T09:01:00",
+      "fin": "2026-08-14T09:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • It Makes Me So Angry... I Like Cherries Though",
+      "descripcion": "It Makes Me So Angry... I Like Cherries Though ║ El General Concreto no puede capturar a Sheep porque es demasiado pequeña para su red, por lo que la hace crecer hasta el tamaño de un gigante usando un rayo agrandador.",
+      "inicio": "2026-08-14T09:02:00",
+      "fin": "2026-08-14T09:03:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • You Hoof to Do What You Hoof to Do",
+      "descripcion": "You Hoof to Do What You Hoof to Do ║ Sheep se hace amigo de una nueva oveja de la ciudad. ¿Se convertirán en amigos pronto o acaso la nueva oveja tiene un plan secreto y diabólico?.",
+      "inicio": "2026-08-14T09:03:00",
+      "fin": "2026-08-14T09:07:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • No podrás contra el sistema",
+      "descripcion": "No podrás contra el sistema ║ Tanto Sheep como el General Específico se presentan como candidatos a la alcaldía de la gran ciudad, y la campaña se vuelve muy maliciosa.",
+      "inicio": "2026-08-14T09:07:00",
+      "fin": "2026-08-14T09:13:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • El milagro de Kashmir",
+      "descripcion": "El milagro de Kashmir ║ Un genio convierte a Sheep en un híbrido humano-oveja para entrar en la nueva mansión de Swanky.",
+      "inicio": "2026-08-14T09:13:00",
+      "fin": "2026-08-14T09:19:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • Master's of Rhyme",
+      "descripcion": "Master's of Rhyme ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
+      "inicio": "2026-08-14T09:19:00",
+      "fin": "2026-08-14T09:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • Un oficial y un ca-baaa-llero",
+      "descripcion": "Un oficial y un ca-baaa-llero ║ Sheep no puede mantener un trabajo estable porque la Organización Militar Ultra Secreta siempre lo persigue.",
+      "inicio": "2026-08-14T09:20:00",
+      "fin": "2026-08-14T09:26:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • To Bleat or Not to Bleat",
+      "descripcion": "To Bleat or Not to Bleat ║ Sheep se tropieza con una linda pequeñita que hace de cuenta que Sheep es su perro. Esto representa una buena forma de esconderse del General Específicamente, pero: ¿podrá sobrevivir Sheep al cruel entusiasmo de Lisa Rental?.",
+      "inicio": "2026-08-14T09:26:00",
+      "fin": "2026-08-14T09:34:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Escuadrón del tiempo • Atila y su pandilla",
+      "descripcion": "Atila y su pandilla ║ El Time Squad tiene que reunir al ejército de Atila el Huno.",
+      "inicio": "2026-08-14T09:34:00",
+      "fin": "2026-08-14T09:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Escuadrón del tiempo • Larry se actualiza",
+      "descripcion": "Larry se actualiza ║ Larry se conecta a la unidad principal del satélite para una actualización de rutina de su prograMación. Se distrae y, de manera fortuita, se desactualiza y convierte en un monótono robot típico de los años cincuenta. Al principio, a Belardo le agrada este Larry pues no es impertinente. Pero cuando Larry no cesa de servirle a Belardo las hamburguesas que había solicitado, este se da cuenta de que hay un problema grave. Al final, Larry actualiza su programa y Belardo y Otto se encuentran encantados de recuperar al viejo Larry.",
+      "inicio": "2026-08-14T09:45:00",
+      "fin": "2026-08-14T09:54:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las maravillosas desventuras de Flapjack • Quiero creer",
+      "descripcion": "Quiero creer ║ Cuando el Capitán Nudillos continúa engañando a la gente y culpando a los fantasmas, Flapjack consulta a Jayde, el experto en fantasmas de Bahía Tormentosa, para saber si los fantasmas en verdad existen.",
+      "inicio": "2026-08-14T09:54:00",
+      "fin": "2026-08-14T10:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las maravillosas desventuras de Flapjack • Colega de caramelo",
+      "descripcion": "Colega de caramelo ║ Flapjack hace un amigo de caramelo para el Doctor Barbero.",
+      "inicio": "2026-08-14T10:05:00",
+      "fin": "2026-08-14T10:16:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las maravillosas desventuras de Flapjack • Inmortales de agua dulce",
+      "descripcion": "Inmortales de agua dulce ║ El escandaloso aventurero Ponce de Lee-roy convence al Capitán Nudillos de que es inmortal.",
+      "inicio": "2026-08-14T10:16:00",
+      "fin": "2026-08-14T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pequeños Looney Tunes • There's Nothing Like a Good Book",
+      "descripcion": "There's Nothing Like a Good Book ║ Una pregunta persistente sobre la composición de la Luna lleva a los pequeños Looney Tunes a hacer su primera visita a la biblioteca. A pesar de no saber leer todavía, los pequeños Looney Tunes aprenden todo sobre los muchos aspectos interesantes de la experiencia. Finalmente, y con la ayuda de Floyd, encuentran la respuesta a su pregunta sobre la Luna, lo que les da aún más ganas de aprender a leer.",
+      "inicio": "2026-08-14T10:30:00",
+      "fin": "2026-08-14T10:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pequeños Looney Tunes • Lightning Bugs Sylvester",
+      "descripcion": "Lightning Bugs Sylvester ║ Silvestre aprende a superar su miedo a los rayos.",
+      "inicio": "2026-08-14T10:40:00",
+      "fin": "2026-08-14T10:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pequeños Looney Tunes • The Wheel Deal",
+      "descripcion": "The Wheel Deal ║ Todos se entusiasman con una excursión en bicicleta, excepto Piolín, porque sus piernitas no llegan a los pedales.",
+      "inicio": "2026-08-14T10:50:00",
+      "fin": "2026-08-14T11:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pequeños Looney Tunes • The Brave Little Tweety",
+      "descripcion": "The Brave Little Tweety ║ Piolín se toma demasiado en serio su papel en una obra de teatro y comienza a creer que es un verdadero superhéroe.",
+      "inicio": "2026-08-14T11:02:00",
+      "fin": "2026-08-14T11:12:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pequeños Looney Tunes • Act Your Age",
+      "descripcion": "Act Your Age ║ Los pequeños compiten sobre quién puede actuar mejor como un bebé para ganarse la atención de la abuela.",
+      "inicio": "2026-08-14T11:12:00",
+      "fin": "2026-08-14T11:22:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pequeños Looney Tunes • Tea & Basketball",
+      "descripcion": "Tea & Basketball ║ Silvestre quiere jugar al té con las niñas, mientras que Lola quiere jugar al baloncesto con los niños.",
+      "inicio": "2026-08-14T11:22:00",
+      "fin": "2026-08-14T11:33:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Scooby Doo, ¿dónde estás? • ¿Quién le teme al lobo feroz?",
+      "descripcion": "¿Quién le teme al lobo feroz? ║ El supuesto fantasma de un hombre lobo arruina el campamento de la pandilla de Misterio S.A. Los chicos persiguen al hombre lobo, que acecha el molino del lugar y sus alrededores, con la esperanza de resolver el enigma de su aparición.",
+      "inicio": "2026-08-14T11:33:00",
+      "fin": "2026-08-14T11:56:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Scooby Doo, ¿dónde estás? • El papel misterioso",
+      "descripcion": "El papel misterioso ║ Un fantasmagórico zombi al que se ha visto robar bancos de noche en la ciudad, interrumpe un baile estudiantil en una granja. La pandilla busca pistas en el bosque y en el campo. Mientras el zombi los persigue, encuentran a un viejo ermitaño loco que quiere hospedarlos en su casa y a un pollito recién nacido que llega a la conclusión de que Scooby-Doo es su madre.",
+      "inicio": "2026-08-14T11:56:00",
+      "fin": "2026-08-14T12:19:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Scooby-Doo! Misterios SA • El fantasma aterrorizante",
+      "descripcion": "El fantasma aterrorizante ║ Las Hex Girls, la banda preferida de Vilma, llegan a Gruta de Cristal para dar un concierto.",
+      "inicio": "2026-08-14T12:19:00",
+      "fin": "2026-08-14T12:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Scooby-Doo! Misterios SA • El fenómeno de Cueva Cristal",
+      "descripcion": "El fenómeno de Cueva Cristal ║ Finalmente, Scooby y sus amigos logran llegar al fondo del misterio que envuelve a la desaparición de los miembros originales de Misterios S.A.",
+      "inicio": "2026-08-14T12:40:00",
+      "fin": "2026-08-14T13:04:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Don Gato y su pandilla • Don gato se enamora",
+      "descripcion": "Don gato se enamora ║ Don Gato se interna en un hospital para ganar el amor de la enfermera.",
+      "inicio": "2026-08-14T13:04:00",
+      "fin": "2026-08-14T13:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Don Gato y su pandilla • ¡Todos a Hawaii!",
+      "descripcion": "¡Todos a Hawaii! ║ Benito gana un crucero a Hawai y Don Gato y su pandilla viajan escondidos en el barco. ¿Podrán ellos disfrutar de las vacaciones?.",
+      "inicio": "2026-08-14T13:29:00",
+      "fin": "2026-08-14T13:56:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Picapiedra • The Missing Bus",
+      "descripcion": "The Missing Bus ║ Pedro deja su trabajo en la cantera y se convierte en chofer de un autobús escolar.",
+      "inicio": "2026-08-14T13:56:00",
+      "fin": "2026-08-14T14:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Picapiedra • Two Men on a Dinosaur",
+      "descripcion": "Two Men on a Dinosaur ║ Al no poder regresar a su planeta, Gazoo se divierte dándoles consejos a Pedro y a Pablo en las carreras de dinosaurios.",
+      "inicio": "2026-08-14T14:23:00",
+      "fin": "2026-08-14T14:49:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los autos locos • Race Rally to Raleigh",
+      "descripcion": "Race Rally to Raleigh ║ El sucio Pier No Doyuna usa cera para pisos para hacer que los demás autos se deslicen hacia la granja de MacDonald.",
+      "inicio": "2026-08-14T14:49:00",
+      "fin": "2026-08-14T14:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los autos locos • La carrera de Ski Roto",
+      "descripcion": "La carrera de Ski Roto ║ Luego de provocar una avalancha, Pier No Doyuna usa un salto con esquí para escapar, pero los demás autos lo siguen.",
+      "inicio": "2026-08-14T14:59:00",
+      "fin": "2026-08-14T15:09:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los autos locos • Camino libre a Villa Calibre",
+      "descripcion": "Camino libre a Villa Calibre ║ En las afueras del pueblo de la ley y el orden, Pier No Doyuna cambia la señal que indica el límite de velocidad de 55 kph a 135 kph para crear un carril rápido hacia Hackensack.",
+      "inicio": "2026-08-14T15:09:00",
+      "fin": "2026-08-14T15:21:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los autos locos • La carrera de arriba-abajo en la montaña rusa",
+      "descripcion": "La carrera de arriba-abajo en la montaña rusa ║ Los autos locos llegan hasta las colinas Upsan en montaña rusa cuando Pier No Doyuna los desvía hasta un parque de diversiones cerrado para que den vueltas en algunos de los juegos.",
+      "inicio": "2026-08-14T15:21:00",
+      "fin": "2026-08-14T15:31:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los autos locos • La carrera de la batalla a Villa Bella",
+      "descripcion": "La carrera de la batalla a Villa Bella ║ Pier No Doyuna descubre un campesino furioso decidido a proteger su tierra de los intrusos... ¡incluidos los pilotos de Los autos locos!.",
+      "inicio": "2026-08-14T15:31:00",
+      "fin": "2026-08-14T15:42:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ThunderCats • El secreto del rey de hielo",
+      "descripcion": "El secreto del rey de hielo ║ Un rey de hielo, que ha estado congelado por 1000 años, despierta de pronto y causa estragos en la montaña Hook.",
+      "inicio": "2026-08-14T15:42:00",
+      "fin": "2026-08-14T16:06:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ThunderCats • La competencia del poder mental",
+      "descripcion": "La competencia del poder mental ║ León-O se somete a la segunda instancia de las Pruebas de Unción, las cuales debe pasar para seguir siendo señor de los ThunderCats.",
+      "inicio": "2026-08-14T16:06:00",
+      "fin": "2026-08-14T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hermano de Jorel • Bariloche monumental",
+      "descripcion": "Bariloche monumental ║ Abuela Gigi, Abuela Juju y el hermano de Jorel viajan de vacaciones para esquiar en Bariloche, pero hay un problema: el hermano de Jorel tiene los pies planos y no podrá esquiar.",
+      "inicio": "2026-08-14T16:30:00",
+      "fin": "2026-08-14T16:41:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hermano de Jorel • La guerra de alimento de las galaxias",
+      "descripcion": "La guerra de alimento de las galaxias ║ El hermano de Jorel y Lara viajan por el espacio con Gesonel en su nave con forma de pato. Su misión: capturar a Klong y su nave pirata cargada de productos falsificados con destino a la Tierra.",
+      "inicio": "2026-08-14T16:41:00",
+      "fin": "2026-08-14T16:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hermano de Jorel • Internet Total Detox",
+      "descripcion": "Internet Total Detox ║ Es el cumpleaños del primo Fabinho y toda la familia se reúne, aunque Danuza está harta de que los niños estén pegados a sus celulares. Entonces, los chicos son obligados a interactuar con los juguetes y descubren un antiguo coche de rodillo del tío Pepe.",
+      "inicio": "2026-08-14T16:53:00",
+      "fin": "2026-08-14T17:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mansión Foster para amigos imaginarios • Corran por sus vidas Mac y Blu",
+      "descripcion": "Corran por sus vidas Mac y Blu ║ Mac y Blu se traban en una competencia épica cuando Blu desafía a Mac a una carrera de 50 kilómetros hasta la mansión Foster.",
+      "inicio": "2026-08-14T17:05:00",
+      "fin": "2026-08-14T17:28:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mansión Foster para amigos imaginarios • No los despierten",
+      "descripcion": "No los despierten ║ Bloo, junto a los amigos imaginarios, se presentan en el apartamento de Mac para una fiesta de pijamas.",
+      "inicio": "2026-08-14T17:28:00",
+      "fin": "2026-08-14T17:52:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El campamento de Lazlo • Mamá candor",
+      "descripcion": "Mamá candor ║ Skip y Chip encuentran una nueva 'Mamá' y su nombre es... ¡Jane Doe!.",
+      "inicio": "2026-08-14T17:52:00",
+      "fin": "2026-08-14T18:03:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El campamento de Lazlo • Quejas sólo quejas",
+      "descripcion": "Quejas sólo quejas ║ Banano reúne un equipo especial para manejar las quejas de los campistas. ¿Pero podrán seguir siendo los mismos con los beneficios que les trae su nuevo trabajo?.",
+      "inicio": "2026-08-14T18:03:00",
+      "fin": "2026-08-14T18:14:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El campamento de Lazlo • La gran bolsa de Edward",
+      "descripcion": "La gran bolsa de Edward ║ Un viaje de acampada al pantano se vuelve extraño cuando una misteriosa criatura con forma de saco de dormir se une a los campistas.",
+      "inicio": "2026-08-14T18:14:00",
+      "fin": "2026-08-14T18:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El campamento de Lazlo • Dulces pesadillas",
+      "descripcion": "Dulces pesadillas ║ Lumpus es forzado a invitar a los Jellies a un pijama party, pero él no dormirá ni un poco.",
+      "inicio": "2026-08-14T18:25:00",
+      "fin": "2026-08-14T18:38:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El campamento de Lazlo • Locura radiotransmitida",
+      "descripcion": "Locura radiotransmitida ║ Edward finge ser atacado por un yeti para atraer más oyentes a su programa de radio, ¡pero luego es atacado por dos yetis!.",
+      "inicio": "2026-08-14T18:38:00",
+      "fin": "2026-08-14T18:49:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El campamento de Lazlo • El campamento Riñón apesta",
+      "descripcion": "El campamento Riñón apesta ║ Lazlo quiere que todo el mundo deje de ducharse y se vuelva apestoso, pero las manías de Samson detienen su sucio plan.",
+      "inicio": "2026-08-14T18:49:00",
+      "fin": "2026-08-14T19:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi compañero de clase es un mono • Uniformidad",
+      "descripcion": "Uniformidad ║ El nuevo uniforme escolar de Pixiefrog hace que todos, excepto Adam, actúen con normalidad.",
+      "inicio": "2026-08-14T19:02:00",
+      "fin": "2026-08-14T19:14:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi compañero de clase es un mono • Ay, Henry",
+      "descripcion": "Ay, Henry ║ Es tiempo de que Henry vuelva a Groenlandia y de que Alistair, el presuntuoso tigre blanco, vuelva a la Escuela Charles Darwin. Adam y la pandilla tratarán de convencer a Henry de que se quede.",
+      "inicio": "2026-08-14T19:14:00",
+      "fin": "2026-08-14T19:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi compañero de clase es un mono • La solución citronela",
+      "descripcion": "La solución citronela ║ Después de que la última locura de Jake resulta en desastre, el Director Ranoso obliga a los estudiantes a vestir collares de citronella que los rocían cada vez que se comportan mal.",
+      "inicio": "2026-08-14T19:25:00",
+      "fin": "2026-08-14T19:38:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi compañero de clase es un mono • Guano en 60 segundos",
+      "descripcion": "Guano en 60 segundos ║ Después de que la escuela es declarada no habitable a causa de los excrementos de murciélago, todas las clases son trasladadas a un salón portátil. Pero cuando, accidentalmente, Jake desprende el salón de su lugar, éste rueda calle abajo y Jake y Adam deben detenerlo antes de que alguien se dé cuenta.",
+      "inicio": "2026-08-14T19:38:00",
+      "fin": "2026-08-14T19:49:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi compañero de clase es un mono • Las pompas de Jake",
+      "descripcion": "Las pompas de Jake ║ Los amigos de Jake organizan una intervención después de que su obsesión con su propio trasero se sale de control.",
+      "inicio": "2026-08-14T19:49:00",
+      "fin": "2026-08-14T20:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hi Hi Puffy AmiYumi • Himno Kaz",
+      "descripcion": "Himno Kaz ║ Kaz es hipnotizado por error.",
+      "inicio": "2026-08-14T20:02:00",
+      "fin": "2026-08-14T20:09:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hi Hi Puffy AmiYumi • Luces, cámara, peligro",
+      "descripcion": "Luces, cámara, peligro ║ Un famoso director de Hollywood es contratado para filmar el próximo video de las Puffy. Las chicas están emocionadas, ya que este podría ser el gran salto a la fama, en sus carreras como estrellas de cine. Pero pronto se dan cuenta que la idea del director, se parece más a una zona de guerra en una película de acción.",
+      "inicio": "2026-08-14T20:09:00",
+      "fin": "2026-08-14T20:16:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hi Hi Puffy AmiYumi • Baile en la jungla",
+      "descripcion": "Baile en la jungla ║ Para ayudar al rey de la selva a reavivar su romance, Ami y Yumi organizan un baile.",
+      "inicio": "2026-08-14T20:16:00",
+      "fin": "2026-08-14T20:22:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hi Hi Puffy AmiYumi • Ami juega fútbol",
+      "descripcion": "Ami juega fútbol ║ Kaz convence a Ami de jugar en su equipo de futbol americano y Yumi se viste como porrista para protegerla.",
+      "inicio": "2026-08-14T20:22:00",
+      "fin": "2026-08-14T20:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hi Hi Puffy AmiYumi • Ninja instántaneo",
+      "descripcion": "Ninja instántaneo ║ Yumi encarga un curso de ninja por correspondencia y pronto se transforma en una maestra en las artes ninja. Al principio, Ami se alegra de que su amiga esté realizando su 'verdadera vocación', pero su actitud comienza a cambiar cuando Yumi usa todo lo que aprendió en ella.",
+      "inicio": "2026-08-14T20:29:00",
+      "fin": "2026-08-14T20:38:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mike, Lu y Og • El rey de las cortinas",
+      "descripcion": "El rey de las cortinas ║ Lancelot encuentra un mensaje antiguo del rey de Inglaterra en una botella.",
+      "inicio": "2026-08-14T20:38:00",
+      "fin": "2026-08-14T20:49:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mike, Lu y Og • Estofado de tortuga",
+      "descripcion": "Estofado de tortuga ║ Los piratas tratan de convertir a Lancelot en su cena.",
+      "inicio": "2026-08-14T20:49:00",
+      "fin": "2026-08-14T21:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • Baah & Order",
+      "descripcion": "Baah & Order ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
+      "inicio": "2026-08-14T21:02:00",
+      "fin": "2026-08-14T21:03:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • Secret Military Organization Babies",
+      "descripcion": "Secret Military Organization Babies ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
+      "inicio": "2026-08-14T21:03:00",
+      "fin": "2026-08-14T21:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad",
+      "descripcion": "Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
+      "inicio": "2026-08-14T21:05:00",
+      "fin": "2026-08-14T21:09:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • No podrás contra el sistema",
+      "descripcion": "No podrás contra el sistema ║ Tanto Sheep como el General Específico se presentan como candidatos a la alcaldía de la gran ciudad, y la campaña se vuelve muy maliciosa.",
+      "inicio": "2026-08-14T21:09:00",
+      "fin": "2026-08-14T21:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • El milagro de Kashmir",
+      "descripcion": "El milagro de Kashmir ║ Un genio convierte a Sheep en un híbrido humano-oveja para entrar en la nueva mansión de Swanky.",
+      "inicio": "2026-08-14T21:15:00",
+      "fin": "2026-08-14T21:21:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • Master's of Rhyme",
+      "descripcion": "Master's of Rhyme ║ Sheep deberá escaparse del General Especifico y su terrible arma secreta, y como si fuera poco evitar los peligros y trampas que hay en la 'Gran Ciudad' y si no tiene cuidado, podría terminar como un adorno de un comprador desprevenido! Con razón Sheep siempre tiene la mirada confundida, pero no importa los peligros que enfrente, lo importante es sobrevivir.",
+      "inicio": "2026-08-14T21:21:00",
+      "fin": "2026-08-14T21:22:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • Un oficial y un ca-baaa-llero",
+      "descripcion": "Un oficial y un ca-baaa-llero ║ Sheep no puede mantener un trabajo estable porque la Organización Militar Ultra Secreta siempre lo persigue.",
+      "inicio": "2026-08-14T21:22:00",
+      "fin": "2026-08-14T21:28:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sheep en la gran ciudad • To Bleat or Not to Bleat",
+      "descripcion": "To Bleat or Not to Bleat ║ Sheep se tropieza con una linda pequeñita que hace de cuenta que Sheep es su perro. Esto representa una buena forma de esconderse del General Específicamente, pero: ¿podrá sobrevivir Sheep al cruel entusiasmo de Lisa Rental?.",
+      "inicio": "2026-08-14T21:28:00",
+      "fin": "2026-08-14T21:36:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Escuadrón del tiempo • Atila y su pandilla",
+      "descripcion": "Atila y su pandilla ║ El Time Squad tiene que reunir al ejército de Atila el Huno.",
+      "inicio": "2026-08-14T21:36:00",
+      "fin": "2026-08-14T21:47:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Escuadrón del tiempo • Larry se actualiza",
+      "descripcion": "Larry se actualiza ║ Larry se conecta a la unidad principal del satélite para una actualización de rutina de su prograMación. Se distrae y, de manera fortuita, se desactualiza y convierte en un monótono robot típico de los años cincuenta. Al principio, a Belardo le agrada este Larry pues no es impertinente. Pero cuando Larry no cesa de servirle a Belardo las hamburguesas que había solicitado, este se da cuenta de que hay un problema grave. Al final, Larry actualiza su programa y Belardo y Otto se encuentran encantados de recuperar al viejo Larry.",
+      "inicio": "2026-08-14T21:47:00",
+      "fin": "2026-08-14T21:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las maravillosas desventuras de Flapjack • Quiero creer",
+      "descripcion": "Quiero creer ║ Cuando el Capitán Nudillos continúa engañando a la gente y culpando a los fantasmas, Flapjack consulta a Jayde, el experto en fantasmas de Bahía Tormentosa, para saber si los fantasmas en verdad existen.",
+      "inicio": "2026-08-14T21:57:00",
+      "fin": "2026-08-14T22:07:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las maravillosas desventuras de Flapjack • Colega de caramelo",
+      "descripcion": "Colega de caramelo ║ Flapjack hace un amigo de caramelo para el Doctor Barbero.",
+      "inicio": "2026-08-14T22:07:00",
+      "fin": "2026-08-14T22:18:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las maravillosas desventuras de Flapjack • Inmortales de agua dulce",
+      "descripcion": "Inmortales de agua dulce ║ El escandaloso aventurero Ponce de Lee-roy convence al Capitán Nudillos de que es inmortal.",
+      "inicio": "2026-08-14T22:18:00",
+      "fin": "2026-08-14T22:31:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pequeños Looney Tunes • There's Nothing Like a Good Book",
+      "descripcion": "There's Nothing Like a Good Book ║ Una pregunta persistente sobre la composición de la Luna lleva a los pequeños Looney Tunes a hacer su primera visita a la biblioteca. A pesar de no saber leer todavía, los pequeños Looney Tunes aprenden todo sobre los muchos aspectos interesantes de la experiencia. Finalmente, y con la ayuda de Floyd, encuentran la respuesta a su pregunta sobre la Luna, lo que les da aún más ganas de aprender a leer.",
+      "inicio": "2026-08-14T22:31:00",
+      "fin": "2026-08-14T22:41:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pequeños Looney Tunes • Lightning Bugs Sylvester",
+      "descripcion": "Lightning Bugs Sylvester ║ Silvestre aprende a superar su miedo a los rayos.",
+      "inicio": "2026-08-14T22:41:00",
+      "fin": "2026-08-14T22:51:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pequeños Looney Tunes • The Wheel Deal",
+      "descripcion": "The Wheel Deal ║ Todos se entusiasman con una excursión en bicicleta, excepto Piolín, porque sus piernitas no llegan a los pedales.",
+      "inicio": "2026-08-14T22:51:00",
+      "fin": "2026-08-14T23:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pequeños Looney Tunes • The Brave Little Tweety",
+      "descripcion": "The Brave Little Tweety ║ Piolín se toma demasiado en serio su papel en una obra de teatro y comienza a creer que es un verdadero superhéroe.",
+      "inicio": "2026-08-14T23:02:00",
+      "fin": "2026-08-14T23:13:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pequeños Looney Tunes • Act Your Age",
+      "descripcion": "Act Your Age ║ Los pequeños compiten sobre quién puede actuar mejor como un bebé para ganarse la atención de la abuela.",
+      "inicio": "2026-08-14T23:13:00",
+      "fin": "2026-08-14T23:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pequeños Looney Tunes • Tea & Basketball",
+      "descripcion": "Tea & Basketball ║ Silvestre quiere jugar al té con las niñas, mientras que Lola quiere jugar al baloncesto con los niños.",
+      "inicio": "2026-08-14T23:23:00",
+      "fin": "2026-08-14T23:34:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Scooby Doo, ¿dónde estás? • ¿Quién le teme al lobo feroz?",
+      "descripcion": "¿Quién le teme al lobo feroz? ║ El supuesto fantasma de un hombre lobo arruina el campamento de la pandilla de Misterio S.A. Los chicos persiguen al hombre lobo, que acecha el molino del lugar y sus alrededores, con la esperanza de resolver el enigma de su aparición.",
+      "inicio": "2026-08-14T23:34:00",
+      "fin": "2026-08-14T23:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Scooby Doo, ¿dónde estás? • El papel misterioso",
+      "descripcion": "El papel misterioso ║ Un fantasmagórico zombi al que se ha visto robar bancos de noche en la ciudad, interrumpe un baile estudiantil en una granja. La pandilla busca pistas en el bosque y en el campo. Mientras el zombi los persigue, encuentran a un viejo ermitaño loco que quiere hospedarlos en su casa y a un pollito recién nacido que llega a la conclusión de que Scooby-Doo es su madre.",
+      "inicio": "2026-08-14T23:57:00",
+      "fin": "2026-08-15T00:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Scooby-Doo! Misterios SA • El fantasma aterrorizante",
+      "descripcion": "El fantasma aterrorizante ║ Las Hex Girls, la banda preferida de Vilma, llegan a Gruta de Cristal para dar un concierto.",
+      "inicio": "2026-08-15T00:20:00",
+      "fin": "2026-08-15T00:41:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Scooby-Doo! Misterios SA • El fenómeno de Cueva Cristal",
+      "descripcion": "El fenómeno de Cueva Cristal ║ Finalmente, Scooby y sus amigos logran llegar al fondo del misterio que envuelve a la desaparición de los miembros originales de Misterios S.A.",
+      "inicio": "2026-08-15T00:41:00",
+      "fin": "2026-08-15T01:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Don Gato y su pandilla • Don gato se enamora",
+      "descripcion": "Don gato se enamora ║ Don Gato se interna en un hospital para ganar el amor de la enfermera.",
+      "inicio": "2026-08-15T01:05:00",
+      "fin": "2026-08-15T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Don Gato y su pandilla • ¡Todos a Hawaii!",
+      "descripcion": "¡Todos a Hawaii! ║ Benito gana un crucero a Hawai y Don Gato y su pandilla viajan escondidos en el barco. ¿Podrán ellos disfrutar de las vacaciones?.",
+      "inicio": "2026-08-15T01:30:00",
+      "fin": "2026-08-15T01:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Picapiedra • The Missing Bus",
+      "descripcion": "The Missing Bus ║ Pedro deja su trabajo en la cantera y se convierte en chofer de un autobús escolar.",
+      "inicio": "2026-08-15T01:57:00",
+      "fin": "2026-08-15T02:22:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Picapiedra • Two Men on a Dinosaur",
+      "descripcion": "Two Men on a Dinosaur ║ Al no poder regresar a su planeta, Gazoo se divierte dándoles consejos a Pedro y a Pablo en las carreras de dinosaurios.",
+      "inicio": "2026-08-15T02:22:00",
+      "fin": "2026-08-15T02:47:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los autos locos • Race Rally to Raleigh",
+      "descripcion": "Race Rally to Raleigh ║ El sucio Pier No Doyuna usa cera para pisos para hacer que los demás autos se deslicen hacia la granja de MacDonald.",
+      "inicio": "2026-08-15T02:47:00",
+      "fin": "2026-08-15T02:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los autos locos • La carrera de Ski Roto",
+      "descripcion": "La carrera de Ski Roto ║ Luego de provocar una avalancha, Pier No Doyuna usa un salto con esquí para escapar, pero los demás autos lo siguen.",
+      "inicio": "2026-08-15T02:57:00",
+      "fin": "2026-08-15T03:07:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los autos locos • Camino libre a Villa Calibre",
+      "descripcion": "Camino libre a Villa Calibre ║ En las afueras del pueblo de la ley y el orden, Pier No Doyuna cambia la señal que indica el límite de velocidad de 55 kph a 135 kph para crear un carril rápido hacia Hackensack.",
+      "inicio": "2026-08-15T03:07:00",
+      "fin": "2026-08-15T03:19:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los autos locos • La carrera de arriba-abajo en la montaña rusa",
+      "descripcion": "La carrera de arriba-abajo en la montaña rusa ║ Los autos locos llegan hasta las colinas Upsan en montaña rusa cuando Pier No Doyuna los desvía hasta un parque de diversiones cerrado para que den vueltas en algunos de los juegos.",
+      "inicio": "2026-08-15T03:19:00",
+      "fin": "2026-08-15T03:28:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los autos locos • La carrera de la batalla a Villa Bella",
+      "descripcion": "La carrera de la batalla a Villa Bella ║ Pier No Doyuna descubre un campesino furioso decidido a proteger su tierra de los intrusos... ¡incluidos los pilotos de Los autos locos!.",
+      "inicio": "2026-08-15T03:28:00",
+      "fin": "2026-08-15T03:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ThunderCats • El secreto del rey de hielo",
+      "descripcion": "El secreto del rey de hielo ║ Un rey de hielo, que ha estado congelado por 1000 años, despierta de pronto y causa estragos en la montaña Hook.",
+      "inicio": "2026-08-15T03:40:00",
+      "fin": "2026-08-15T04:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ThunderCats • La competencia del poder mental",
+      "descripcion": "La competencia del poder mental ║ León-O se somete a la segunda instancia de las Pruebas de Unción, las cuales debe pasar para seguir siendo señor de los ThunderCats.",
+      "inicio": "2026-08-15T04:02:00",
+      "fin": "2026-08-15T04:24:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hermano de Jorel • Bariloche monumental",
+      "descripcion": "Bariloche monumental ║ Abuela Gigi, Abuela Juju y el hermano de Jorel viajan de vacaciones para esquiar en Bariloche, pero hay un problema: el hermano de Jorel tiene los pies planos y no podrá esquiar.",
+      "inicio": "2026-08-15T04:24:00",
+      "fin": "2026-08-15T04:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hermano de Jorel • La guerra de alimento de las galaxias",
+      "descripcion": "La guerra de alimento de las galaxias ║ El hermano de Jorel y Lara viajan por el espacio con Gesonel en su nave con forma de pato. Su misión: capturar a Klong y su nave pirata cargada de productos falsificados con destino a la Tierra.",
+      "inicio": "2026-08-15T04:35:00",
+      "fin": "2026-08-15T04:47:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hermano de Jorel • Internet Total Detox",
+      "descripcion": "Internet Total Detox ║ Es el cumpleaños del primo Fabinho y toda la familia se reúne, aunque Danuza está harta de que los niños estén pegados a sus celulares. Entonces, los chicos son obligados a interactuar con los juguetes y descubren un antiguo coche de rodillo del tío Pepe.",
+      "inicio": "2026-08-15T04:47:00",
+      "fin": "2026-08-15T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mansión Foster para amigos imaginarios • Exprime el jugo al día",
+      "descripcion": "Exprime el jugo al día ║ Mac y Bloo se quedan solos en la casa Foster e intentan pasar el mejor día de sus vidas antes de que todos vuelvan.",
+      "inicio": "2026-08-15T05:00:00",
+      "fin": "2026-08-15T05:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mansión Foster para amigos imaginarios • Mundo Coco",
+      "descripcion": "Mundo Coco ║ Cuando la puerta principal de la mansión Foster queda abierta por accidente, Coco escapa y se lanza a una loca y desenfrenada aventura por todo el mundo.",
+      "inicio": "2026-08-15T05:25:00",
+      "fin": "2026-08-15T05:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El campamento de Lazlo • Llámenme Amanda",
+      "descripcion": "Llámenme Amanda ║ Después de perder en el 'Concurso Anual de Pelucas', Amanda trata de descubrir el verdadero significado de la belleza.",
+      "inicio": "2026-08-15T05:50:00",
+      "fin": "2026-08-15T06:01:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El campamento de Lazlo • El nuevo saludo",
+      "descripcion": "El nuevo saludo ║ Lumpus se vuelve paranoico cuando cree que Lazlo ha descubierto su apretón de manos secreto.",
+      "inicio": "2026-08-15T06:01:00",
+      "fin": "2026-08-15T06:12:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El campamento de Lazlo • Queremos algo bonito",
+      "descripcion": "Queremos algo bonito ║ Los Jelly quieren un submarino para el lago y tratarán de recaudar dinero para comprar uno.",
+      "inicio": "2026-08-15T06:12:00",
+      "fin": "2026-08-15T06:23:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
