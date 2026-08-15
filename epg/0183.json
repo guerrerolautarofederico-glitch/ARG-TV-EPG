@@ -1,138 +1,19 @@
 {
   "actual": {
-    "titulo": "Noticias En Agricultura",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-08-14T06:00:00",
-    "fin": "2026-08-14T07:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticiasenagricultura.jpg"
+    "titulo": "Lo Mejor del día",
+    "descripcion": "Resumen con los momentos más destacados de la programación y las principales noticias de la jornada.",
+    "inicio": "2026-08-15T00:00:00",
+    "fin": "2026-08-15T06:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Deportes En Agricultura",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-08-14T07:00:00",
-    "fin": "2026-08-14T08:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportesenagricultura.jpg"
+    "titulo": "Hoja De Ruta",
+    "descripcion": "Espacio de análisis sobre los desafíos económicos, sociales y políticos que enfrenta el país.",
+    "inicio": "2026-08-15T06:00:00",
+    "fin": "2026-08-15T07:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Noticias En Agricultura",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-14T06:00:00",
-      "fin": "2026-08-14T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticiasenagricultura.jpg"
-    },
-    {
-      "titulo": "Deportes En Agricultura",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-14T07:00:00",
-      "fin": "2026-08-14T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportesenagricultura.jpg"
-    },
-    {
-      "titulo": "La Mañana De Agricultura",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-14T08:00:00",
-      "fin": "2026-08-14T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananadeagricultura.jpg"
-    },
-    {
-      "titulo": "Directo Al Grano",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-14T09:00:00",
-      "fin": "2026-08-14T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/directoalgrano.jpg"
-    },
-    {
-      "titulo": "La Voz De La Gente",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-14T10:00:00",
-      "fin": "2026-08-14T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lavozdelagente.jpg"
-    },
-    {
-      "titulo": "Conectados",
-      "descripcion": "Análisis y debate del acontecer nacional.",
-      "inicio": "2026-08-14T11:00:00",
-      "fin": "2026-08-14T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conectados.jpg"
-    },
-    {
-      "titulo": "Nuevas Voces",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-14T13:00:00",
-      "fin": "2026-08-14T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nuevasvoces.jpg"
-    },
-    {
-      "titulo": "Deportes En Agricultura",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-14T14:00:00",
-      "fin": "2026-08-14T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportesenagricultura.jpg"
-    },
-    {
-      "titulo": "Hoy Por Hoy Chile Es",
-      "descripcion": "Un magazine de actualidad, sociedad y sostenibilidad.",
-      "inicio": "2026-08-14T15:00:00",
-      "fin": "2026-08-14T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyporhoychilees.jpg"
-    },
-    {
-      "titulo": "Al Pizarrón",
-      "descripcion": "El profe Luis Silva, abogado y ex consejero constitucional, llega a acompañarte todas las tardes con el mejor análisis de actualidad política.",
-      "inicio": "2026-08-14T16:00:00",
-      "fin": "2026-08-14T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alpizarron.jpg"
-    },
-    {
-      "titulo": "Enfoque Público",
-      "descripcion": "Espacio de encuentro de ideas y personas para analizar el debate público con una mirada más profunda.",
-      "inicio": "2026-08-14T17:00:00",
-      "fin": "2026-08-14T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enfoquepublico.jpg"
-    },
-    {
-      "titulo": "El Rompecabezas",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-14T18:00:00",
-      "fin": "2026-08-14T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elrompecabezas.jpg"
-    },
-    {
-      "titulo": "Llegó La Hora",
-      "descripcion": "Llegó la hora de hablar de las noticias contingentes del día, con todo el análisis y entrevistas.",
-      "inicio": "2026-08-14T19:00:00",
-      "fin": "2026-08-14T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/llegolahora.jpg"
-    },
-    {
-      "titulo": "Los Tres Mosqueteros",
-      "descripcion": "Los Tres Mosqueteros se lanzan a la batalla de la actualidad nacional con espadas afiladas de ironía y análisis. La complicidad, el ingenio y la valentía se combinan para enfrentar los temas del día.",
-      "inicio": "2026-08-14T20:00:00",
-      "fin": "2026-08-14T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lostresmosqueteros.jpg"
-    },
-    {
-      "titulo": "Hoja De Ruta",
-      "descripcion": "Un programa para comprender el presente a través de la historia.",
-      "inicio": "2026-08-14T21:00:00",
-      "fin": "2026-08-14T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En-Préndete",
-      "descripcion": "Programa que narra historias notables de emprendedores chilenos.",
-      "inicio": "2026-08-14T22:00:00",
-      "fin": "2026-08-14T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enprendete.jpg"
-    },
-    {
-      "titulo": "Chile Público",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-14T23:00:00",
-      "fin": "2026-08-15T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chilepublico.jpg"
-    },
     {
       "titulo": "Lo Mejor del día",
       "descripcion": "Resumen con los momentos más destacados de la programación y las principales noticias de la jornada.",
@@ -145,6 +26,132 @@
       "descripcion": "Espacio de análisis sobre los desafíos económicos, sociales y políticos que enfrenta el país.",
       "inicio": "2026-08-15T06:00:00",
       "fin": "2026-08-15T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Motívate",
+      "descripcion": "Programa orientado al crecimiento personal, liderazgo, bienestar y desarrollo humano.",
+      "inicio": "2026-08-15T07:00:00",
+      "fin": "2026-08-15T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Agenda agrícola",
+      "descripcion": "Espacio de análisis sobre la actualidad del sector agrícola, con información sobre producción, innovación, mercados y desarrollo rural.",
+      "inicio": "2026-08-15T08:00:00",
+      "fin": "2026-08-15T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/agendaagricola.jpg"
+    },
+    {
+      "titulo": "El Agro",
+      "descripcion": "Programa especializado en agricultura, ganadería, innovación y desarrollo del sector agropecuario chileno.",
+      "inicio": "2026-08-15T09:00:00",
+      "fin": "2026-08-15T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elagro.jpg"
+    },
+    {
+      "titulo": "Minería y Energía Sustentable",
+      "descripcion": "Espacio dedicado a la industria minera, la transición energética y el desarrollo sostenible.",
+      "inicio": "2026-08-15T10:00:00",
+      "fin": "2026-08-15T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mineriayenergiasustentable.jpg"
+    },
+    {
+      "titulo": "La Ruta Inmobiliaria",
+      "descripcion": "Espacio especializado en el mercado inmobiliario con información sobre inversión, vivienda y desarrollo urbano.",
+      "inicio": "2026-08-15T11:00:00",
+      "fin": "2026-08-15T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larutainmobiliaria.jpg"
+    },
+    {
+      "titulo": "En-Préndete",
+      "descripcion": "Espacio dedicado al emprendimiento con historias de éxito, innovación y consejos para desarrollar nuevos negocios.",
+      "inicio": "2026-08-15T12:00:00",
+      "fin": "2026-08-15T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enprendete.jpg"
+    },
+    {
+      "titulo": "Carmen Ibáñez conversa con",
+      "descripcion": "Espacio de entrevistas donde Carmen Ibáñez dialoga con destacados invitados sobre actualidad, sociedad y experiencias de vida.",
+      "inicio": "2026-08-15T13:00:00",
+      "fin": "2026-08-15T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/carmenibanezconversacon.jpg"
+    },
+    {
+      "titulo": "Viajando en el Tiempo",
+      "descripcion": "Programa que recorre hechos históricos y personajes que marcaron distintas épocas mediante reportajes y relatos.",
+      "inicio": "2026-08-15T14:00:00",
+      "fin": "2026-08-15T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viajandoeneltiempo.jpg"
+    },
+    {
+      "titulo": "Tendencias",
+      "descripcion": "Espacio que presenta las últimas novedades en tecnología, innovación, estilo de vida y consumo.",
+      "inicio": "2026-08-15T15:00:00",
+      "fin": "2026-08-15T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tendencias.jpg"
+    },
+    {
+      "titulo": "Mujer 360",
+      "descripcion": "Magazine con contenidos sobre salud, emprendimiento, actualidad, bienestar y liderazgo femenino.",
+      "inicio": "2026-08-15T16:00:00",
+      "fin": "2026-08-15T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mujer360.jpg"
+    },
+    {
+      "titulo": "Divina Conexión",
+      "descripcion": "Espacio dedicado a la reflexión, los valores y la espiritualidad mediante conversaciones y testimonios inspiradores.",
+      "inicio": "2026-08-15T17:00:00",
+      "fin": "2026-08-15T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/divinaconexion.jpg"
+    },
+    {
+      "titulo": "Yo Me Atrevo Con Óscar Hasbún Vodanovic",
+      "descripcion": "Programa de entrevistas conducido por Óscar Hasbún Vodanovic, quien conversa con invitados sobre liderazgo, actualidad, emprendimiento y desarrollo empresarial.",
+      "inicio": "2026-08-15T18:00:00",
+      "fin": "2026-08-15T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Promin",
+      "descripcion": "Programa especializado en minería con información sobre innovación, industria, tecnología y desarrollo del sector.",
+      "inicio": "2026-08-15T19:00:00",
+      "fin": "2026-08-15T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ideas y Sociedad",
+      "descripcion": "Espacio de reflexión sobre temas sociales, culturales y políticos con invitados especializados.",
+      "inicio": "2026-08-15T20:00:00",
+      "fin": "2026-08-15T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ideasysociedad.jpg"
+    },
+    {
+      "titulo": "Minería y Energía Sustentable",
+      "descripcion": "Espacio dedicado a la industria minera, la transición energética y el desarrollo sostenible.",
+      "inicio": "2026-08-15T21:00:00",
+      "fin": "2026-08-15T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mineriayenergiasustentable.jpg"
+    },
+    {
+      "titulo": "En-Préndete",
+      "descripcion": "Espacio dedicado al emprendimiento con historias de éxito, innovación y consejos para desarrollar nuevos negocios.",
+      "inicio": "2026-08-15T22:00:00",
+      "fin": "2026-08-15T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enprendete.jpg"
+    },
+    {
+      "titulo": "Llegó La Hora",
+      "descripcion": "Espacio de entrevistas y análisis de los principales acontecimientos políticos, económicos y sociales.",
+      "inicio": "2026-08-15T23:00:00",
+      "fin": "2026-08-16T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/llegolahora.jpg"
+    },
+    {
+      "titulo": "Lo Mejor del día",
+      "descripcion": "Resumen con los momentos más destacados de la programación y las principales noticias de la jornada.",
+      "inicio": "2026-08-16T00:00:00",
+      "fin": "2026-08-16T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

@@ -1,94 +1,45 @@
 {
   "actual": {
-    "titulo": "Un Sueño de Navidad",
-    "descripcion": "Un ángel le concede un deseo navideño a una ambiciosa mujer casada, que descubre cómo sería su vida sin su esposo.",
-    "inicio": "2026-08-14T05:45:00",
-    "fin": "2026-08-14T07:00:00",
+    "titulo": "Conexión Navideña",
+    "descripcion": "Sydney es una azafata a quien le asignan cuidar a Leah, una menor que viaja sola. Luego de que es entregada a su padre, Sydney encuentra un paquete que Leah dejó olvidado y se lo lleva. Al hacerlo, el padre la invita a pasar las fiestas.",
+    "inicio": "2026-08-15T04:45:00",
+    "fin": "2026-08-15T06:25:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Hollywood on Set",
-    "descripcion": "Esta producción va detrás de cámara de tres importantes películas en producción, presentando imágenes de acción y diversas entrevistas con actores y cineastas visionarios que comparten detalles y aspectos memorables durante la filmación de la película.",
-    "inicio": "2026-08-14T07:00:00",
-    "fin": "2026-08-14T07:30:00",
+    "titulo": "Mundo Jurásico: Dominio",
+    "descripcion": "Años después de la destrucción de Isla Nublar, los dinosaurios viven y cazan junto a los humanos. Este equilibrio determinará, si los humanos seguirán siendo los depredadores máximos en un planeta que comparten con las criaturas temibles.",
+    "inicio": "2026-08-15T06:25:00",
+    "fin": "2026-08-15T21:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Un Sueño de Navidad",
-      "descripcion": "Un ángel le concede un deseo navideño a una ambiciosa mujer casada, que descubre cómo sería su vida sin su esposo.",
-      "inicio": "2026-08-14T05:45:00",
-      "fin": "2026-08-14T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hollywood on Set",
-      "descripcion": "Esta producción va detrás de cámara de tres importantes películas en producción, presentando imágenes de acción y diversas entrevistas con actores y cineastas visionarios que comparten detalles y aspectos memorables durante la filmación de la película.",
-      "inicio": "2026-08-14T07:00:00",
-      "fin": "2026-08-14T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hollywood on Set",
-      "descripcion": "Esta producción va detrás de cámara de tres importantes películas en producción, presentando imágenes de acción y diversas entrevistas con actores y cineastas visionarios que comparten detalles y aspectos memorables durante la filmación de la película.",
-      "inicio": "2026-08-14T07:30:00",
-      "fin": "2026-08-14T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hollywood on Set",
-      "descripcion": "Esta producción va detrás de cámara de tres importantes películas en producción, presentando imágenes de acción y diversas entrevistas con actores y cineastas visionarios que comparten detalles y aspectos memorables durante la filmación de la película.",
-      "inicio": "2026-08-14T08:00:00",
-      "fin": "2026-08-14T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mistletoe Murders",
-      "descripcion": "Las habilidades de detective de Emily Lane se ponen a prueba mientras investiga los asesinatos locales. A pesar del creciente afecto del detective Sam Wilner por ella, el pasado de Emily despierta sospechas sobre sus verdaderos motivos.",
-      "inicio": "2026-08-14T08:30:00",
-      "fin": "2026-08-14T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tren bala",
-      "descripcion": "Cinco asesinos a sueldo se encuentran a bordo de un tren bala que viaja de Tokio a Morioka con unas pocas paradas intermedias. La pregunta es quién saldrá vivo del tren y qué les espera en la estación final.",
-      "inicio": "2026-08-14T21:00:00",
-      "fin": "2026-08-14T22:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mistletoe Murders",
-      "descripcion": "Las habilidades de detective de Emily Lane se ponen a prueba mientras investiga los asesinatos locales. A pesar del creciente afecto del detective Sam Wilner por ella, el pasado de Emily despierta sospechas sobre sus verdaderos motivos.",
-      "inicio": "2026-08-14T22:50:00",
-      "fin": "2026-08-14T23:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mi ex es un espía",
-      "descripcion": "Audrey y Morgan son dos amigas que llevan vidas monótonas, hasta que descubren que el ex novio de Audrey es, en realidad, un espía. Ahora, las dos mujeres han quedado en medio de un conflicto internacional.",
-      "inicio": "2026-08-14T23:25:00",
-      "fin": "2026-08-15T01:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Rescatando la Navidad",
-      "descripcion": "Sin ser consciente de ello, Erin desea que no exista la Navidad, pero Sam interviene para ayudarla a recuperar la festividad.",
-      "inicio": "2026-08-15T01:15:00",
-      "fin": "2026-08-15T03:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Intercambio navideño",
-      "descripcion": "Durante una comida poco antes de Navidad, celebrada cuando se cumple un año del fallecimiento de su madre, unas hermanas gemelas, envidiosas cada una de la vida de la otra, deciden intercambiarse en secreto hasta el día de Navidad.",
-      "inicio": "2026-08-15T03:05:00",
-      "fin": "2026-08-15T04:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Conexión Navideña",
       "descripcion": "Sydney es una azafata a quien le asignan cuidar a Leah, una menor que viaja sola. Luego de que es entregada a su padre, Sydney encuentra un paquete que Leah dejó olvidado y se lo lleva. Al hacerlo, el padre la invita a pasar las fiestas.",
       "inicio": "2026-08-15T04:45:00",
       "fin": "2026-08-15T06:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mundo Jurásico: Dominio",
+      "descripcion": "Años después de la destrucción de Isla Nublar, los dinosaurios viven y cazan junto a los humanos. Este equilibrio determinará, si los humanos seguirán siendo los depredadores máximos en un planeta que comparten con las criaturas temibles.",
+      "inicio": "2026-08-15T06:25:00",
+      "fin": "2026-08-15T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Eso",
+      "descripcion": "Cuando en el pueblo de Derry comienzan a desaparecer niños, un grupo de amigos se enfrenta a sus mayores miedos encarnizados por Pennywise, un monstruo con forma de payaso, cuya historia de asesinatos y violencia data de hace siglos.",
+      "inicio": "2026-08-15T21:00:00",
+      "fin": "2026-08-15T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Studio Universal",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-15T23:30:00",
+      "fin": "2026-08-16T05:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
