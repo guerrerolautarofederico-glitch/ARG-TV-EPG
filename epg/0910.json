@@ -1,136 +1,94 @@
 {
   "actual": {
-    "titulo": "Buenas nuevas y malas nuevas",
-    "descripcion": "Las noticias que se deben conocer en el Perú y el mundo.",
-    "inicio": "2026-08-15T05:00:00",
-    "fin": "2026-08-15T06:00:00",
+    "titulo": "Especial Reporte semanal",
+    "descripcion": "Especial sobre este programa de las noticias más relevantes de la semana del Perú y el mundo.",
+    "inicio": "2026-08-16T04:45:00",
+    "fin": "2026-08-16T06:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Latina noticias reporte semanal",
-    "descripcion": "Las noticias más destacadas.",
-    "inicio": "2026-08-15T06:00:00",
-    "fin": "2026-08-15T08:00:00",
+    "titulo": "Reporte semanal",
+    "descripcion": "Un resumen de las noticias más relevantes de la semana del Perú y el mundo.",
+    "inicio": "2026-08-16T06:00:00",
+    "fin": "2026-08-16T07:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Buenas nuevas y malas nuevas",
-      "descripcion": "Las noticias que se deben conocer en el Perú y el mundo.",
-      "inicio": "2026-08-15T05:00:00",
-      "fin": "2026-08-15T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Latina noticias reporte semanal",
-      "descripcion": "Las noticias más destacadas.",
-      "inicio": "2026-08-15T06:00:00",
-      "fin": "2026-08-15T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Latina noticias fin de semana",
-      "descripcion": "Lo más importante del Perú y el mundo.",
-      "inicio": "2026-08-15T08:00:00",
-      "fin": "2026-08-15T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Latina noticias reporte semanal",
-      "descripcion": "Las noticias más destacadas.",
-      "inicio": "2026-08-15T11:00:00",
-      "fin": "2026-08-15T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Latina noticias mediodía",
-      "descripcion": "Las noticias más destacadas del fin de semana.",
-      "inicio": "2026-08-15T13:00:00",
-      "fin": "2026-08-15T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Somos vóley",
-      "descripcion": "Cobertura, análisis y las noticias más relevantes de la Liga Peruana de Vóley .",
-      "inicio": "2026-08-15T15:00:00",
-      "fin": "2026-08-15T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cine Sábado",
-      "descripcion": "Las mejores producciones cinematográficas.",
-      "inicio": "2026-08-15T16:00:00",
-      "fin": "2026-08-15T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Clásicos animados",
-      "descripcion": "Un espacio con las mejores series animadas para disfrutar en familia.",
-      "inicio": "2026-08-15T17:30:00",
-      "fin": "2026-08-15T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cine Familiar",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-15T19:00:00",
-      "fin": "2026-08-15T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Función estelar",
-      "descripcion": "Las mejores producciones cinematográficas.",
-      "inicio": "2026-08-15T20:30:00",
-      "fin": "2026-08-15T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Yo Soy",
-      "descripcion": "Un programa donde los concursantes imitan a su estrella preferida realizando conciertos espectaculares y dispuestos a realizar inimaginables cambios para ser premiados como ganadores.",
-      "inicio": "2026-08-15T22:00:00",
-      "fin": "2026-08-15T23:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Última Función",
-      "descripcion": "Las mejores producciones cinematográficas.",
-      "inicio": "2026-08-15T23:45:00",
-      "fin": "2026-08-16T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Espacio alquilado ",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-16T01:30:00",
-      "fin": "2026-08-16T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Golden Boy",
-      "descripcion": "El patriarca de los Korhan busca esposa para Ferit, su imprudente nieto menor. Una de las hijas de Kazim es la elegida, pero todo cambia cuando el novio escoge a Seyran, la hermana equivocada.",
-      "inicio": "2026-08-16T02:30:00",
-      "fin": "2026-08-16T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Perdidos de Amor",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-16T03:30:00",
-      "fin": "2026-08-16T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Alerta latina",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-16T04:00:00",
-      "fin": "2026-08-16T04:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Especial Reporte semanal",
       "descripcion": "Especial sobre este programa de las noticias más relevantes de la semana del Perú y el mundo.",
       "inicio": "2026-08-16T04:45:00",
       "fin": "2026-08-16T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Reporte semanal",
+      "descripcion": "Un resumen de las noticias más relevantes de la semana del Perú y el mundo.",
+      "inicio": "2026-08-16T06:00:00",
+      "fin": "2026-08-16T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Latina noticias fin de semana",
+      "descripcion": "Lo más importante del Perú y el mundo.",
+      "inicio": "2026-08-16T07:00:00",
+      "fin": "2026-08-16T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Latina noticias reporte semanal",
+      "descripcion": "Las noticias más destacadas.",
+      "inicio": "2026-08-16T09:30:00",
+      "fin": "2026-08-16T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Latina noticias mediodía",
+      "descripcion": "Las noticias más destacadas del fin de semana.",
+      "inicio": "2026-08-16T13:00:00",
+      "fin": "2026-08-16T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Habla serio",
+      "descripcion": "El objetivo del video pódcast con Mónica Delta y Santiago Gómez es conocer a la persona que hay detrás del personaje y disfrutar del proceso.",
+      "inicio": "2026-08-16T15:00:00",
+      "fin": "2026-08-16T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Película",
+      "descripcion": "Arte cinematográfico mundial.",
+      "inicio": "2026-08-16T16:00:00",
+      "fin": "2026-08-16T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cine Millonario",
+      "descripcion": "Cine Millonario presenta en cada emisión las películas más exitosas y taquilleras del mundo para vivir diferentes aventuras y disfrutar un rato agradable y lleno de emoción desde la comodidad del hogar.",
+      "inicio": "2026-08-16T18:00:00",
+      "fin": "2026-08-16T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Latina noticias central",
+      "descripcion": "Las últimas noticias del Perú y el mundo.",
+      "inicio": "2026-08-16T20:00:00",
+      "fin": "2026-08-16T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Latina noticias punto final",
+      "descripcion": "Noticias del Perú y el mundo.",
+      "inicio": "2026-08-16T21:00:00",
+      "fin": "2026-08-16T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Latina",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-16T23:00:00",
+      "fin": "2026-08-17T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

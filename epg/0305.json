@@ -1,759 +1,521 @@
 {
   "actual": {
-    "titulo": "El mundo de Craig • Rescate en el arroyo profundo",
-    "descripcion": "Rescate en el arroyo profundo ║ El trío encuentra oro en las fangosas profundidades del Arroyo, por lo que Craig construye un equipo para recuperarlo.",
-    "inicio": "2026-08-15T05:20:00",
-    "fin": "2026-08-15T05:30:00",
+    "titulo": "El mundo de Craig • Ropa dominguera",
+    "descripcion": "Ropa dominguera ║ JP ensucia su última ropa limpia y debe ponerse su mejor ropa de domingo para ir al arroyo.",
+    "inicio": "2026-08-16T05:20:00",
+    "fin": "2026-08-16T05:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "El mundo de Craig • La calle de Craig",
-    "descripcion": "La calle de Craig ║ Craig visita a su primo, Bryson, y ambos se lanzan a una misión por las calles de Nueva Jersey.",
-    "inicio": "2026-08-15T05:30:00",
-    "fin": "2026-08-15T05:40:00",
+    "titulo": "El mundo de Craig • Evolución de Craig",
+    "descripcion": "Evolución de Craig ║ ¡Craig rescata a un renacuajo y decide criarlo hasta que sea una rana nivel 100!.",
+    "inicio": "2026-08-16T05:30:00",
+    "fin": "2026-08-16T05:40:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "El mundo de Craig • Rescate en el arroyo profundo",
-      "descripcion": "Rescate en el arroyo profundo ║ El trío encuentra oro en las fangosas profundidades del Arroyo, por lo que Craig construye un equipo para recuperarlo.",
-      "inicio": "2026-08-15T05:20:00",
-      "fin": "2026-08-15T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El mundo de Craig • La calle de Craig",
-      "descripcion": "La calle de Craig ║ Craig visita a su primo, Bryson, y ambos se lanzan a una misión por las calles de Nueva Jersey.",
-      "inicio": "2026-08-15T05:30:00",
-      "fin": "2026-08-15T05:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El mundo de Craig • El secreto en la botella",
-      "descripcion": "El secreto en la botella ║ Craig necesita compartir un secreto con alguien, por lo que visita al Guardián de los Secretos en el Arroyo.",
-      "inicio": "2026-08-15T05:40:00",
-      "fin": "2026-08-15T05:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El mundo de Craig • Despedidas galácticas",
-      "descripcion": "Despedidas galácticas ║ Craig y Cadete Destello arman una banda para cantarle a un amigo que no ven hace mucho tiempo.",
-      "inicio": "2026-08-15T05:50:00",
-      "fin": "2026-08-15T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Guerra de pulgares",
-      "descripcion": "Guerra de pulgares ║ Mientras los otros Titanes se involucran en una guerra de lucha libre, Starfire intenta negociar la paz.",
-      "inicio": "2026-08-15T06:00:00",
-      "fin": "2026-08-15T06:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • El yeso",
-      "descripcion": "El yeso ║ Después de romperse la pierna, Robin es confinado en su habitación y espía a través de un telescopio.",
-      "inicio": "2026-08-15T06:10:00",
-      "fin": "2026-08-15T06:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Genio presidente",
-      "descripcion": "Genio presidente ║ Robin elabora un plan para enriquecerse a base de monedas de un centavo, pero Starfire cree que las monedas son mágicas.",
-      "inicio": "2026-08-15T06:20:00",
-      "fin": "2026-08-15T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • El rock de Jump City",
-      "descripcion": "El rock de Jump City ║ Los Titanes se unen a Nandi y Thomas Bushell para derrotar al Guasón.",
-      "inicio": "2026-08-15T06:30:00",
-      "fin": "2026-08-15T06:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Caballero televisivo 8",
-      "descripcion": "Caballero televisivo 8 ║ El comisionado Gordon tiene que trabajar, así que Batman se une a él en el Departamento de Policía de Ciudad Gótica para divertirse y combatir el crimen.",
-      "inicio": "2026-08-15T06:40:00",
-      "fin": "2026-08-15T06:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • La capa",
-      "descripcion": "La capa ║ Robin y Cyborg discuten sobre la importancia de las capas.",
-      "inicio": "2026-08-15T06:50:00",
-      "fin": "2026-08-15T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Villanos al volante buscando helado",
-      "descripcion": "Villanos al volante buscando helado ║ En un viaje, cuatro de los mayores villanos de los Titanes, recuerdan sus incidentes pasados y cómo los Titanes los terminaron perjudicando.",
-      "inicio": "2026-08-15T07:00:00",
-      "fin": "2026-08-15T07:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Educación de manejo",
-      "descripcion": "Educación de manejo ║ Robin se inscribe en un curso de educación vial, sin saber que el instructor es un bandido que se está aprovechando de él para que sea su conductor de huida.",
-      "inicio": "2026-08-15T07:10:00",
-      "fin": "2026-08-15T07:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Yo soy silla",
-      "descripcion": "Yo soy silla ║ Durante una estresante estadía en el centro comercial, Robin encuentra algo de paz en una silla de masaje.",
-      "inicio": "2026-08-15T07:20:00",
-      "fin": "2026-08-15T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Venta de garaje",
-      "descripcion": "Venta de garaje ║ Robin hace que los demás Titanes vendan sus preciados recuerdos de episodios pasados.",
-      "inicio": "2026-08-15T07:30:00",
-      "fin": "2026-08-15T07:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Naturaleza",
-      "descripcion": "Naturaleza ║ Para recuperar sus poderes, Chico Bestia regresa a la naturaleza y descubre que es mucho más severa de lo que esperaba.",
-      "inicio": "2026-08-15T07:40:00",
-      "fin": "2026-08-15T07:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Día alocado",
-      "descripcion": "Día alocado ║ Los demás Titanes siempre vuelven loca a Raven, pero las cosas son mucho peores el Día de la Locura.",
-      "inicio": "2026-08-15T07:50:00",
-      "fin": "2026-08-15T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "We Baby Bears • Bebé oso genio",
-      "descripcion": "Bebé oso genio ║ Los bebés genios quieren que Polar asista a su prestigiosa escuela, pero sin Pardo ni Panda.",
-      "inicio": "2026-08-15T08:00:00",
-      "fin": "2026-08-15T08:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "We Baby Bears • Bienvenidos a Atlantis",
-      "descripcion": "Bienvenidos a Atlantis ║ El grupo viaja hasta la Atlántida, con la esperanza de que el señor Mollusk pueda devolverle el color al océano y a Box.",
-      "inicio": "2026-08-15T08:10:00",
-      "fin": "2026-08-15T08:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "We Baby Bears • La mascota de Polar",
-      "descripcion": "La mascota de Polar ║ Polar intenta tener en secreto a un búho monstruo gigante como mascota.",
-      "inicio": "2026-08-15T08:20:00",
-      "fin": "2026-08-15T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escandalosos • Burbuja",
-      "descripcion": "Burbuja ║ Panda comienza a sufrir de fobia a los gérmenes y decide vivir el resto de su vida en una burbuja.",
-      "inicio": "2026-08-15T08:30:00",
-      "fin": "2026-08-15T08:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escandalosos • La isla",
-      "descripcion": "La isla ║ Mientras tratan de navegar a Japón, los Osos Bebés quedan varados en una isla. Por suerte, conocen a Dave y Karla, que los ayudan con la supervivencia en la isla, mientras buscan la forma de escapar.",
-      "inicio": "2026-08-15T08:40:00",
-      "fin": "2026-08-15T08:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escandalosos • Amapolas",
-      "descripcion": "Amapolas ║ La Guardabosques Tabes conduce a una tropa de menores en una expedición de cuevas, y trae a Pardo como su experto en cuevas. Sin embargo, las cosas se ponen intensas cuando Tabes y Pardo empiezan a empalmar sus cabezas.",
-      "inicio": "2026-08-15T08:50:00",
-      "fin": "2026-08-15T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • Las calificaciones",
-      "descripcion": "Las calificaciones ║ Las respuestas astutas de Gumball no son las correctas, y se ve obligado a regresar al jardín de infantes.",
-      "inicio": "2026-08-15T09:00:00",
-      "fin": "2026-08-15T09:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • Amiga Simian",
-      "descripcion": "Amiga Simian ║ La maestra Simian se propone 'hacerse amiga' de Gumball para ganar el Premio de Maestra Favorita.",
-      "inicio": "2026-08-15T09:10:00",
-      "fin": "2026-08-15T09:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • La hojita",
-      "descripcion": "La hojita ║ Cuando su madre descubre que Gumball no tiene ambiciones, se propone convertirlo en un ganador.",
-      "inicio": "2026-08-15T09:20:00",
-      "fin": "2026-08-15T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Wonderfully Weird World of Gumball • La subida",
-      "descripcion": "La subida ║ Gumball debe enfrentarse a la vergüenza del pasado y sus miedos para superar el rocódromo en clase de gimnasia.",
-      "inicio": "2026-08-15T09:30:00",
-      "fin": "2026-08-15T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Wonderfully Weird World of Gumball • La reescritura",
-      "descripcion": "La reescritura ║ Los chicos están a punto de descubrir la verdad sobre Elmore, pero su viejo enemigo decide reescribir la historia.",
-      "inicio": "2026-08-15T10:00:00",
-      "fin": "2026-08-15T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Wonderfully Weird World of Gumball • La cosa",
-      "descripcion": "La cosa ║ Richard debe recordar los acontecimientos de su día, para poder descubrir cual era esa cosa especial que debía considerar, para que la cena familiar de Nicole junto a la abuela Jo Jo. Además de que no sea otro fracaso épico.",
-      "inicio": "2026-08-15T10:30:00",
-      "fin": "2026-08-15T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un show más • Fe ciega",
-      "descripcion": "Fe ciega ║ Benson debe confiar en Mordecai y Rigby para que lo ayuden a bajar de una montaña.",
-      "inicio": "2026-08-15T11:00:00",
-      "fin": "2026-08-15T11:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un show más • Pastel gratis",
-      "descripcion": "Pastel gratis ║ Mordecai y Rigby buscan una oportunidad para comer un trozo de pastel, y la encuentran cuando descubren que se acerca el cumpleaños de Skips. Pero en la noche de su cumpleaños, Skip se recluye en la jungla en lugar de ir a su fiesta.",
-      "inicio": "2026-08-15T11:10:00",
-      "fin": "2026-08-15T11:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un show más • El fin del musculoso",
-      "descripcion": "El fin del musculoso ║ La mandilla intenta ayudar a Musculoso finalizando su lista de tareas.",
-      "inicio": "2026-08-15T11:20:00",
-      "fin": "2026-08-15T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Regular Show: The Lost Tapes • Guerra de cafeterías",
-      "descripcion": "Guerra de cafeterías ║ La nueva cafetería: Hot Browns, llega a la ciudad, siendo el rival de enfrente y les está a quitando todos los clientes, con nuevas y exuberantes promociones. Entonces, Eileen y Margaret intentan salvar el local con una nueva receta.",
-      "inicio": "2026-08-15T11:30:00",
-      "fin": "2026-08-15T11:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Regular Show: The Lost Tapes • Boba o nada",
-      "descripcion": "Boba o nada ║ Mordecai y Rigby van a la tienda y se exceden comprando una enorme cantidad de suministros para Boba. El dúo está convencido de que se harán ricos, de la noche a la mañana. Sin embargo, no son realistas y gastan un dineral, comprando mucho más de lo que el parque podría usar.",
-      "inicio": "2026-08-15T11:40:00",
-      "fin": "2026-08-15T11:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Regular Show: The Lost Tapes • Flor cadáver",
-      "descripcion": "Flor cadáver ║ Rigby y Mordecai, conocen la verdadera flor cadaver, pero más allá de su explendor, tiene un hedor realmente desagradable.",
-      "inicio": "2026-08-15T11:50:00",
-      "fin": "2026-08-15T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Amazing World of Gumball: The Gumball Chronicles",
-      "descripcion": "Las risas están aseguradas con estos episodios recopilatorios de los mejores clips de las seis temporadas de 'El asombroso mundo de Gumball.'.",
-      "inicio": "2026-08-15T12:00:00",
-      "fin": "2026-08-15T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Teen Titans and the Easter Factory",
-      "descripcion": "Teen Titans and the Easter Factory ║ El equipo de titanes visita felizmente la fábrica de Pascuas, donde los recibe el conejo de Pascuas y les muestra todas sus instalaciones.",
-      "inicio": "2026-08-15T13:00:00",
-      "fin": "2026-08-15T13:12:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Gatos gordos",
-      "descripcion": "Gatos gordos ║ Después de ganar un gran premio en efectivo, los Titanes conocen sobre lo que es la oficina de impuestos.",
-      "inicio": "2026-08-15T13:12:00",
-      "fin": "2026-08-15T13:24:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • No lo enciendas",
-      "descripcion": "No lo enciendas ║ Los Titanes deben ayudar a De La Soul a salvar su música después de que un alienígena se la roba.",
-      "inicio": "2026-08-15T13:24:00",
-      "fin": "2026-08-15T13:36:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • El parásito",
-      "descripcion": "El parásito ║ Starfire adopta un parásito del espacio e insiste con tratarlo como una mascota. Solo Robin puede ver la verdadera amenaza que representa este organismo que continúa creciendo.",
-      "inicio": "2026-08-15T13:36:00",
-      "fin": "2026-08-15T13:48:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Lluvia en el día de tu boda",
-      "descripcion": "Lluvia en el día de tu boda ║ Mientras se enfrenta a Cerebro, Robin intenta enseñarles a los otros Titanes la definición correcta de ironía.",
-      "inicio": "2026-08-15T13:48:00",
-      "fin": "2026-08-15T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Big Blue • Un problema real",
-      "descripcion": "Un problema real ║ Bacon Berry toma algo que no le pertenece, entonces Lettie y Lemo intentan secretamente devolvérselo a su dueño legítimo.",
-      "inicio": "2026-08-15T14:00:00",
-      "fin": "2026-08-15T14:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Big Blue • Capitán Aletita",
-      "descripcion": "Capitán Aletita ║ Lettie sorprende a Phil con la visita de sus padres. Pero solo hay un problema: Phil les dijo que él es el capitán del Calypso.",
-      "inicio": "2026-08-15T14:15:00",
-      "fin": "2026-08-15T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Submarine Jim • The Sub Teacher",
-      "descripcion": "The Sub Teacher ║ Jim cambia el mando por las dificultades de la vida estudiantil.",
-      "inicio": "2026-08-15T14:30:00",
-      "fin": "2026-08-15T15:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Submarine Jim • Bianca's Crazy Day",
-      "descripcion": "Bianca's Crazy Day ║ Bianca debe pagar el rescate de Roy sin que Jim se entere.",
-      "inicio": "2026-08-15T15:20:00",
-      "fin": "2026-08-15T16:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Submarine Jim • Saving Private Sardine",
-      "descripcion": "Saving Private Sardine ║ Jim se dispone a rescatar unas sardinas, que se perdieron durante el reparto de un periódico. ¿Podrán lograrlo?.",
-      "inicio": "2026-08-15T16:10:00",
-      "fin": "2026-08-15T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Wonderfully Weird World of Gumball • La subida",
-      "descripcion": "La subida ║ Gumball debe enfrentarse a la vergüenza del pasado y sus miedos para superar el rocódromo en clase de gimnasia.",
-      "inicio": "2026-08-15T17:00:00",
-      "fin": "2026-08-15T17:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Wonderfully Weird World of Gumball • La reescritura",
-      "descripcion": "La reescritura ║ Los chicos están a punto de descubrir la verdad sobre Elmore, pero su viejo enemigo decide reescribir la historia.",
-      "inicio": "2026-08-15T17:10:00",
-      "fin": "2026-08-15T17:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Wonderfully Weird World of Gumball • La cosa",
-      "descripcion": "La cosa ║ Richard debe recordar los acontecimientos de su día, para poder descubrir cual era esa cosa especial que debía considerar, para que la cena familiar de Nicole junto a la abuela Jo Jo. Además de que no sea otro fracaso épico.",
-      "inicio": "2026-08-15T17:20:00",
-      "fin": "2026-08-15T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • Las calificaciones",
-      "descripcion": "Las calificaciones ║ Las respuestas astutas de Gumball no son las correctas, y se ve obligado a regresar al jardín de infantes.",
-      "inicio": "2026-08-15T17:30:00",
-      "fin": "2026-08-15T17:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • Amiga Simian",
-      "descripcion": "Amiga Simian ║ La maestra Simian se propone 'hacerse amiga' de Gumball para ganar el Premio de Maestra Favorita.",
-      "inicio": "2026-08-15T17:40:00",
-      "fin": "2026-08-15T17:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • La hojita",
-      "descripcion": "La hojita ║ Cuando su madre descubre que Gumball no tiene ambiciones, se propone convertirlo en un ganador.",
-      "inicio": "2026-08-15T17:50:00",
-      "fin": "2026-08-15T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • La voz de la abuela",
-      "descripcion": "La voz de la abuela ║ Robin trata de destruir a algunos sinsontes inoportunos y burlones, pero regresan más grandes, más fuertes y listos para burlarse.",
-      "inicio": "2026-08-15T18:00:00",
-      "fin": "2026-08-15T18:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Piratas de Pórtico",
-      "descripcion": "Piratas de Pórtico ║ Después de que les roban su paquete, los Titans deben unirse a una cuadrilla de piratas de Pórtico para recuperarlo.",
-      "inicio": "2026-08-15T18:10:00",
-      "fin": "2026-08-15T18:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Them Jaws",
-      "descripcion": "Them Jaws ║ Los Titanes pasan un hermoso día en la playa, pero este se arruina por una peligrosa criatura marina.",
-      "inicio": "2026-08-15T18:20:00",
-      "fin": "2026-08-15T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Nariz boca",
-      "descripcion": "Nariz boca ║ Los titanes abusan de la magia negra de Raven, con consecuencias indeseadas.",
-      "inicio": "2026-08-15T18:30:00",
-      "fin": "2026-08-15T18:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Noche de película",
-      "descripcion": "Noche de película ║ Llegó la Noche de las Películas, y a los Titanes les cuesta decidir a quién le toca elegir qué película mirar.",
-      "inicio": "2026-08-15T18:40:00",
-      "fin": "2026-08-15T18:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Historias de fogata",
-      "descripcion": "Historias de fogata ║ Los Titanes la están pasando terriblemente mal en un campamento, y por eso Robin sugiere que cada uno cuente una historia aterradora relacionada con los campamentos.",
-      "inicio": "2026-08-15T18:50:00",
-      "fin": "2026-08-15T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Amazing World of Gumball: The Gumball Chronicles",
-      "descripcion": "Las risas están aseguradas con estos episodios recopilatorios de los mejores clips de las seis temporadas de 'El asombroso mundo de Gumball.'.",
-      "inicio": "2026-08-15T19:00:00",
-      "fin": "2026-08-15T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Clarence • Un escape más allá del cosmos",
-      "descripcion": "Un escape más allá del cosmos ║ Cuando por accidente Clarence rompe un juego de la galería comercial con el que Jeff está obsesionado, Clarence monta su propia versión realista del juego en su casa. Esto alienta a Jeff a interpretar su fantasía en niveles creados exclusivamente por Clarence.",
-      "inicio": "2026-08-15T21:30:00",
-      "fin": "2026-08-15T21:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Clarence • La barbacoa del vecindario",
-      "descripcion": "La barbacoa del vecindario ║ Clarence está tan preocupado por cómo se veía su maestra en un entorno social fuera de la escuela que no puede evitar entrometerse en su desafortunada cita a ciegas.",
-      "inicio": "2026-08-15T21:40:00",
-      "fin": "2026-08-15T21:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Clarence • El hombre de la casa",
-      "descripcion": "El hombre de la casa ║ La primera noche de Clarence solo en su casa se sale de control, lo cual los obliga a él y a sus amigos a librar una guerra contra sus propias medidas de seguridad en el hogar.",
-      "inicio": "2026-08-15T21:50:00",
-      "fin": "2026-08-15T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • La banda sonora",
-      "descripcion": "La banda sonora ║ La música de fondo habitual del equipo es reemplazada por las composiciones de un compositor excéntrico, Ludwig von Sauer. La poderosa música de Ludwig altera las emociones de los Titanes, obligándolos a actuar de forma extraña. Los Titanes deben enfrentarse a Ludwig para detener su música manipuladora y restaurar la normalidad del programa .",
-      "inicio": "2026-08-15T22:00:00",
-      "fin": "2026-08-15T22:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Libros",
-      "descripcion": "Libros ║ Raven atrae a los demás al mundo de la lectura y finalmente todos aman leer de una manera extrema.",
-      "inicio": "2026-08-15T22:10:00",
-      "fin": "2026-08-15T22:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Jóvenes Titanes en acción • Desayuno",
-      "descripcion": "Desayuno ║ Los Jóvenes Titanes descubren el placer de alimentarse en cada comida como en el desayuno pero, ¿un viejo amigo se hará demasiado poderoso?.",
-      "inicio": "2026-08-15T22:20:00",
-      "fin": "2026-08-15T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Regular Show: The Lost Tapes • Boba o nada",
-      "descripcion": "Boba o nada ║ Mordecai y Rigby van a la tienda y se exceden comprando una enorme cantidad de suministros para Boba. El dúo está convencido de que se harán ricos, de la noche a la mañana. Sin embargo, no son realistas y gastan un dineral, comprando mucho más de lo que el parque podría usar.",
-      "inicio": "2026-08-15T22:30:00",
-      "fin": "2026-08-15T22:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Regular Show: The Lost Tapes • Flor cadáver",
-      "descripcion": "Flor cadáver ║ Rigby y Mordecai, conocen la verdadera flor cadaver, pero más allá de su explendor, tiene un hedor realmente desagradable.",
-      "inicio": "2026-08-15T22:40:00",
-      "fin": "2026-08-15T22:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Regular Show: The Lost Tapes • Guerra de cafeterías",
-      "descripcion": "Guerra de cafeterías ║ La nueva cafetería: Hot Browns, llega a la ciudad, siendo el rival de enfrente y les está a quitando todos los clientes, con nuevas y exuberantes promociones. Entonces, Eileen y Margaret intentan salvar el local con una nueva receta.",
-      "inicio": "2026-08-15T22:50:00",
-      "fin": "2026-08-15T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un show más • Tiro con rebote",
-      "descripcion": "Tiro con rebote ║ Rigby debe derrotar a un tipo en un juego de tiros en suspensión de baloncesto para ganar una apuesta.",
-      "inicio": "2026-08-15T23:00:00",
-      "fin": "2026-08-15T23:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un show más • ¿Puedes oirme?",
-      "descripcion": "¿Puedes oirme? ║ Mordecai y Rigby ofenden a algunas personas en un planeta habitado por gente del oído.",
-      "inicio": "2026-08-15T23:10:00",
-      "fin": "2026-08-15T23:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un show más • La fiesta del viaje en helicóptero número 1000",
-      "descripcion": "La fiesta del viaje en helicóptero número 1000 ║ Mordecai asiste a una fiesta en la casa de Margaret con la intención de tomar un trozo de pastel para compartir con C.J.",
-      "inicio": "2026-08-15T23:20:00",
-      "fin": "2026-08-15T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un show más • Salón trailero de la fama",
-      "descripcion": "Salón trailero de la fama ║ Cuando muere el padre de Musculoso, Benson le pide a Mordecai y a Rigby que acompañen a Musculoso a desparramar las cenizas del sombrero de su padre en el punto más alto del Trucker Hall of Fame. En un área de descanso para camiones, tres camioneros les dicen a Mordecai y a Rigby que el padre de Musculoso en realidad no era un camionero como le había dicho a Musculoso cuando era niño, sino que era conductor de carretillas elevadoras.",
-      "inicio": "2026-08-15T23:30:00",
-      "fin": "2026-08-15T23:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un show más • Por marcar con el trasero",
-      "descripcion": "Por marcar con el trasero ║ Luego de ir a una fiesta extravagante la noche anterior con Margaret, Mordecai está más enamorado de ella que antes. Mientras sale a dar una vuelta en su carro de golf, Mordecai se sienta encima de su teléfono, marca el número de Margaret y deja grabada en su contestadora una canción sobre sus sentimientos hacia ella. Cuando se entera, busca el teléfono de Margaret y trata de borrar el mensaje.",
-      "inicio": "2026-08-15T23:40:00",
-      "fin": "2026-08-15T23:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un show más • Hazme un favor",
-      "descripcion": "Hazme un favor ║ Skips les advierte que no deben abusar de los favores, pero ellos lo ignoran. Eileen le pide que salga en una cita doble con Margaret y Mordecai. A Rigby no le interesa Eileen, pero Mordecai , le pide a Rigby que le haga un favor a cambio de 10 favores. Rigby, Mordecai y Eileen aceptan la oferta del otro. Sin embargo, Rigby usa sus favores para tratar de arruinar la cita doble, para disgusto de Mordecai. Por último, Rigby le pide a Mordecai que haga el décimo favor con una acción extremadamente embarazosa frente a todos.",
-      "inicio": "2026-08-15T23:50:00",
-      "fin": "2026-08-16T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hora de aventura • Morituri te saludamos",
-      "descripcion": "Morituri te saludamos ║ Finn y Jake se ven atrapados un estadio de gladiadores fantasma.",
-      "inicio": "2026-08-16T00:00:00",
-      "fin": "2026-08-16T00:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hora de aventura • Sé dulce",
-      "descripcion": "Sé dulce ║ Princesa Grumosa está harta y abandona el bosque en busca de una carrera glamorosa en el mundo de las niñeras.",
-      "inicio": "2026-08-16T00:10:00",
-      "fin": "2026-08-16T00:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hora de aventura • Princesa galleta",
-      "descripcion": "Princesa galleta ║ Convocan a Finn y a Jake para que resuelvan una crisis de toma de rehenes en el Dulce Reino cuando una galleta deshonesta se apodera de él.",
-      "inicio": "2026-08-16T00:20:00",
-      "fin": "2026-08-16T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hora de aventura • El jardín de la bruja",
-      "descripcion": "El jardín de la bruja ║ Una bruja roba los poderes de cambio de forma de Jake, pero su ego hace que recuperarlos sea muy difícil.",
-      "inicio": "2026-08-16T00:30:00",
-      "fin": "2026-08-16T00:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hora de aventura • Joshua y Margaret investigadores",
-      "descripcion": "Joshua y Margaret investigadores ║ Los padres de Finn y Jake persiguen a una amenaza sobrenatural en el bosque.",
-      "inicio": "2026-08-16T00:40:00",
-      "fin": "2026-08-16T00:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hora de aventura • El rescate del rey",
-      "descripcion": "El rescate del rey ║ El Rey Helado sufre de una pérdida desoladora, y son Finn y Jake los encargados de encontrar al culpable.",
-      "inicio": "2026-08-16T00:50:00",
-      "fin": "2026-08-16T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escandalosos • Nom Nom",
-      "descripcion": "Nom Nom ║ Cuando, luego de un accidente reciente, Nom Nom aparece en la entrada de la casa de los Osos, desaliñado y destronado de su puesto como la estrella más tierna de Internet de la historia, consigue la ayuda de los Osos para tratar de recuperar su título.",
-      "inicio": "2026-08-16T01:00:00",
-      "fin": "2026-08-16T01:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escandalosos • Osos repartidores",
-      "descripcion": "Osos repartidores ║ Los Osos bebé consiguen empleo como repartidores de periódicos.",
-      "inicio": "2026-08-16T01:10:00",
-      "fin": "2026-08-16T01:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escandalosos • Mamá a la orden",
-      "descripcion": "Mamá a la orden ║ Con la esperanza de conocer finalmente la experiencia de tener una madre, los Osos utilizan una aplicación que llevará a una mamá directamente a su puerta.",
-      "inicio": "2026-08-16T01:20:00",
-      "fin": "2026-08-16T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escandalosos • El primo Jon",
-      "descripcion": "El primo Jon ║ Cuando los Osos asisten a una reunión con la familia de Chloe, se convierten en víctimas de Jon, el travieso primo de Chloe.",
-      "inicio": "2026-08-16T01:30:00",
-      "fin": "2026-08-16T01:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escandalosos • Yo soy Polar",
-      "descripcion": "Yo soy Polar ║ Cuando polar se golpea la cabeza, pardo y panda se dan cuenta de que su comportamiento cambia.",
-      "inicio": "2026-08-16T01:40:00",
-      "fin": "2026-08-16T01:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escandalosos • Gripe de oso",
-      "descripcion": "Gripe de oso ║ Los Osos se enferman gravemente y Chloe se hace cargo de cuidarlos. Pero las cosas se ponen complicadas cuando la noticia de la enfermedad de los Osos se vuelve viral.",
-      "inicio": "2026-08-16T01:50:00",
-      "fin": "2026-08-16T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • El tío",
-      "descripcion": "El tío ║ Gumball y Darwin están desesperados por conocer al famoso tío de Ocho. ¿Podrán aguantar sus ansias?.",
-      "inicio": "2026-08-16T02:00:00",
-      "fin": "2026-08-16T02:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • El nombre",
-      "descripcion": "El nombre ║ Cuando mamá le revela a Gumball que su verdadero nombre es Zach, Gumball adopta una personalidad cursi y molesta acorde al nombre. Su familia intenta hacerle recordar al Gumball de siempre, porque esta nueva faceta Zach poco a poco va conquistando toda la vida de Gumball y borrando sus recuerdos. Si no llegan a tiempo, el antiguo Gumball desaparecerá para siempre y sus parientes... ¡tendrán que vivir con Zach!.",
-      "inicio": "2026-08-16T02:10:00",
-      "fin": "2026-08-16T02:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • Las opciones",
-      "descripcion": "Las opciones ║ Nicole recuerda el día que conoció a Richard y piensa en las distintas decisiones que podría haber tomado.",
-      "inicio": "2026-08-16T02:20:00",
-      "fin": "2026-08-16T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • El casamentero",
-      "descripcion": "El casamentero ║ A Darwin le gusta una chica de su clase, y por eso Gumball decide que es hora de hacer de Cupido.",
-      "inicio": "2026-08-16T02:30:00",
-      "fin": "2026-08-16T02:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • La prueba",
-      "descripcion": "La prueba ║ Gumball decide cambiar algunas cosas cuando un test de personalidad por Internet le dice que es 'El perdedor'.",
-      "inicio": "2026-08-16T02:40:00",
-      "fin": "2026-08-16T02:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • El farsante",
-      "descripcion": "El farsante ║ Cuando Gumball y Darwin se dan cuenta de que el abuelo Louie no tiene amigos, crean una llamada Muriel, cuando Granny Jojo descubre que Louie ha estado pasando tiempo en línea con otra 'mujer', Muriel, al no existir, no impedirá que sea destruida.",
-      "inicio": "2026-08-16T02:50:00",
-      "fin": "2026-08-16T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • El robo",
-      "descripcion": "El robo ║ Richard descubre que entrar a un banco con un casco de motocicleta puesto puede meterte en muchos problemas.",
-      "inicio": "2026-08-16T03:00:00",
-      "fin": "2026-08-16T03:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • El recibo",
-      "descripcion": "El recibo ║ Papá pierde un paquete y se ve envuelto en una pelea cada vez mayor con el repartidor.",
-      "inicio": "2026-08-16T03:10:00",
-      "fin": "2026-08-16T03:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El increíble mundo de Gumball • El traidor",
-      "descripcion": "El traidor ║ Cuando Alan deja plantado a Gumball para hacer algo más divertido, Gumball está desesperado por encontrarlo y hacerlo pagar por su traición.",
-      "inicio": "2026-08-16T03:20:00",
-      "fin": "2026-08-16T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Steven Universe • El club del horror",
-      "descripcion": "El club del horror ║ Steven va al faro a mirar películas de terror con Ronaldo, Lars y Sadie.",
-      "inicio": "2026-08-16T03:30:00",
-      "fin": "2026-08-16T03:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Steven Universe • Tormenta en el cuarto",
-      "descripcion": "Tormenta en el cuarto ║ Steven entra a su habitación en el templo para buscar respuestas.",
-      "inicio": "2026-08-16T03:40:00",
-      "fin": "2026-08-16T03:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Steven Universe: futuro • El futuro",
-      "descripcion": "El futuro ║ Steven se pregunta cómo decirle a las gemas que se irá a vivir a otra parte. Sin embargo, todos comparten un cálido abrazo y se despiden de Steven.",
-      "inicio": "2026-08-16T03:50:00",
-      "fin": "2026-08-16T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Steven Universe • Las pizzas a domicilio de Kiki",
-      "descripcion": "Las pizzas a domicilio de Kiki ║ Steven salva a Kiki de unas pesadillas deliciosas.",
-      "inicio": "2026-08-16T04:00:00",
-      "fin": "2026-08-16T04:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Steven Universe • Gemacaciones",
-      "descripcion": "Gemacaciones ║ Greg y las Gemas llevan a Steven de vacaciones para ayudarlo a relajarse.",
-      "inicio": "2026-08-16T04:10:00",
-      "fin": "2026-08-16T04:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Steven Universe • Selva lunar",
-      "descripcion": "Selva lunar ║ Stevonnie se encuentra en una aventura en un planeta desconocido.",
-      "inicio": "2026-08-16T04:20:00",
-      "fin": "2026-08-16T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Steven Universe • Mi amigo el monstruo",
-      "descripcion": "Mi amigo el monstruo ║ Por accidente, Steven libera a un monstruo de una burbuja gema e intenta domar sus instintos salvajes y violentos.",
-      "inicio": "2026-08-16T04:30:00",
-      "fin": "2026-08-16T04:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Steven Universe • Atrapados juntos",
-      "descripcion": "Atrapados juntos ║ Steven y Lars pasan algo de tiempo juntos.",
-      "inicio": "2026-08-16T04:40:00",
-      "fin": "2026-08-16T04:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Steven Universe: futuro • Un episodio muy especial",
-      "descripcion": "Un episodio muy especial ║ Cuarzo Arcoíris 2.0 promete cuidar de Cebolla el mismo día que Heliolita programó una charla. ¿Es posible para Steven estar en dos lugares a la vez y ser dos fusiones al mismo tiempo?.",
-      "inicio": "2026-08-16T04:50:00",
-      "fin": "2026-08-16T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El mundo de Craig • Jessica la pasante",
-      "descripcion": "Jessica la pasante ║ Fascinada por Trading Tree y la agudeza de Kit, Jessica se une a ella como su pasante.",
-      "inicio": "2026-08-16T05:00:00",
-      "fin": "2026-08-16T05:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El mundo de Craig • Levántate y brilla",
-      "descripcion": "Levántate y brilla ║ Craig decide irse de vacaciones y tiene la oportunidad de quedarse unos días en la casa de Kelsey.",
-      "inicio": "2026-08-16T05:10:00",
-      "fin": "2026-08-16T05:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "El mundo de Craig • Ropa dominguera",
       "descripcion": "Ropa dominguera ║ JP ensucia su última ropa limpia y debe ponerse su mejor ropa de domingo para ir al arroyo.",
       "inicio": "2026-08-16T05:20:00",
       "fin": "2026-08-16T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El mundo de Craig • Evolución de Craig",
+      "descripcion": "Evolución de Craig ║ ¡Craig rescata a un renacuajo y decide criarlo hasta que sea una rana nivel 100!.",
+      "inicio": "2026-08-16T05:30:00",
+      "fin": "2026-08-16T05:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El mundo de Craig • Afuera en el frío",
+      "descripcion": "Afuera en el frío ║ En la víspera de una gran fiesta, los chicos Williams se quedan afuera de la casa, lo que lleva a una frenética búsqueda por toda la ciudad de una llave extra.",
+      "inicio": "2026-08-16T05:40:00",
+      "fin": "2026-08-16T05:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El mundo de Craig • Misión para llevar",
+      "descripcion": "Misión para llevar ║ Kelsey guía a sus amigos en la misión más importante de la historia: buscar la comida para la cena.",
+      "inicio": "2026-08-16T05:50:00",
+      "fin": "2026-08-16T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Cy y Bestia",
+      "descripcion": "Cy y Bestia ║ Cyborg y Beast Boy no pueden ponerse de acuerdo sobre quién es el mejor personaje, Tom o Jerry, y juegan un poco al gato y al ratón.",
+      "inicio": "2026-08-16T06:00:00",
+      "fin": "2026-08-16T06:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Bienvenidos a Halloween",
+      "descripcion": "Bienvenidos a Halloween ║ Ya cansados del estilo de vida de acción, los Titanes buscan destruir la fábrica de juguetes de Toy Master para romper su contrato.",
+      "inicio": "2026-08-16T06:10:00",
+      "fin": "2026-08-16T06:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Basura caliente",
+      "descripcion": "Basura caliente ║ Cuando los Titanes intentan que Chico Bestia limpie su habitación, descubren más basura de la que esperaban.",
+      "inicio": "2026-08-16T06:20:00",
+      "fin": "2026-08-16T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Elefante blanco",
+      "descripcion": "Elefante blanco ║ Para recuperar sus regalos de Navidad, los Titanes se ven obligados a jugar a un juego de intercambio de regalos conocido como el Elefante Blanco.",
+      "inicio": "2026-08-16T06:30:00",
+      "fin": "2026-08-16T06:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Dc",
+      "descripcion": "Dc ║ Es el 80.º cumpleaños de la Mujer Maravilla. Los Titans se dirigen a la sede de DC para la fiesta.",
+      "inicio": "2026-08-16T06:40:00",
+      "fin": "2026-08-16T06:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Caballero televisivo 7",
+      "descripcion": "Caballero televisivo 7 ║ Para evitar las tareas del hogar, Batman y Gordon viajan al futuro e incluso hallan nuevos modos de mirar TV.",
+      "inicio": "2026-08-16T06:50:00",
+      "fin": "2026-08-16T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • ¿Dónde exactamente en el globo está Carl Sanpedro? - Parte 1",
+      "descripcion": "¿Dónde exactamente en el globo está Carl Sanpedro? - Parte 1 ║ Los Titanes vuelan a Los Ángeles, pero terminan en San Pedro, donde Berto les cuenta sobre el villano estibador Carl Sanpedro.",
+      "inicio": "2026-08-16T07:00:00",
+      "fin": "2026-08-16T07:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • ¿Dónde exactamente en el globo está Carl Sanpedro? - Parte 2",
+      "descripcion": "¿Dónde exactamente en el globo está Carl Sanpedro? - Parte 2 ║ Carl Sanpedro ha vuelto a golpear, esta vez en Jamaica, por lo que los Titans despegan rumbo al Caribe.",
+      "inicio": "2026-08-16T07:10:00",
+      "fin": "2026-08-16T07:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • ¿Dónde exactamente en el globo está Carl Sanpedro? - Parte 3",
+      "descripcion": "¿Dónde exactamente en el globo está Carl Sanpedro? - Parte 3 ║ Los Titanes viajan a la India para detener a Carl Sanpedro y aprender sobre el deporte del cricket.",
+      "inicio": "2026-08-16T07:20:00",
+      "fin": "2026-08-16T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • ¿Dónde exactamente en el globo está Carl SanPedro? - Parte 4",
+      "descripcion": "¿Dónde exactamente en el globo está Carl SanPedro? - Parte 4 ║ En el épico enfrentamiento final con Carl Sanpedro, los Titanes se dirigen a Croacia, hogar de dragones y zombis de hielo.",
+      "inicio": "2026-08-16T07:30:00",
+      "fin": "2026-08-16T07:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Episodio de botella",
+      "descripcion": "Episodio de botella ║ Cuando los Titanes quedan atrapados en una botella gigante en su sala de estar, se entretienen recordando el pasado.",
+      "inicio": "2026-08-16T07:40:00",
+      "fin": "2026-08-16T07:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Sueño gatuno",
+      "descripcion": "Sueño gatuno ║ Cuando Starfire solo expresa su afecto intenso y cercano a un gato, Robin se da cuenta de que la única forma en que Starfire lo notará es si se convierte en un gato. Desafortunadamente, su plan de amor y afecto no funcionó como lo había planeado.",
+      "inicio": "2026-08-16T07:50:00",
+      "fin": "2026-08-16T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "We Baby Bears • Unica",
+      "descripcion": "Unica ║ Los osos unen fuerzas con Unica, la última protectora del bosque.",
+      "inicio": "2026-08-16T08:00:00",
+      "fin": "2026-08-16T08:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "We Baby Bears • Tío Orión",
+      "descripcion": "Tío Orión ║ Luego de escuchar sus fascinantes historias y con ayuda de los osos, el tío de Dippy, Orión, participa de una emocionante carrera espacial.",
+      "inicio": "2026-08-16T08:10:00",
+      "fin": "2026-08-16T08:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "We Baby Bears • Grandes problemas, pequeños bebés",
+      "descripcion": "Grandes problemas, pequeños bebés ║ Cuando se dan cuenta de que son demasiado pequeños para las atracciones de un parque de diversiones, los osos usan una poción mágica para hacerse más grandes.",
+      "inicio": "2026-08-16T08:20:00",
+      "fin": "2026-08-16T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Escandalosos • Manejo de la ira",
+      "descripcion": "Manejo de la ira ║ Para participar de un exitoso programa para niños, Nom Nom debe superar con éxito la prueba de manejo de la ira, con Pardo como compañero.",
+      "inicio": "2026-08-16T08:30:00",
+      "fin": "2026-08-16T08:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Escandalosos • El árbol perfecto",
+      "descripcion": "El árbol perfecto ║ Chloe y Polar conducen hacia el norte para encontrar el árbol de Navidad perfecto. Mientras tanto, Pardo y Panda quedan a cargo de la decoración de la casa de Chloe.",
+      "inicio": "2026-08-16T08:40:00",
+      "fin": "2026-08-16T08:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Escandalosos • El primo Jon",
+      "descripcion": "El primo Jon ║ Cuando los Osos asisten a una reunión con la familia de Chloe, se convierten en víctimas de Jon, el travieso primo de Chloe.",
+      "inicio": "2026-08-16T08:50:00",
+      "fin": "2026-08-16T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Wonderfully Weird World of Gumball • La piscina",
+      "descripcion": "La piscina ║ En medio de una ola de calor, Richard convence a Gumball, Darwin y Anais de ayudarlo en su misión de saltar a la piscina recién instalada de los Robinson.",
+      "inicio": "2026-08-16T09:00:00",
+      "fin": "2026-08-16T09:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Wonderfully Weird World of Gumball • La arruga",
+      "descripcion": "La arruga ║ Anais comienza a envejecer prematuramente como consecuencia del estrés y la presión de cuidar al resto de su estúpida familia.",
+      "inicio": "2026-08-16T09:10:00",
+      "fin": "2026-08-16T09:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Wonderfully Weird World of Gumball • La reescritura",
+      "descripcion": "La reescritura ║ Los chicos están a punto de descubrir la verdad sobre Elmore, pero su viejo enemigo decide reescribir la historia.",
+      "inicio": "2026-08-16T09:20:00",
+      "fin": "2026-08-16T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Summer Memories • ¡Sorpresa! Arruinamos tu cumpleaños",
+      "descripcion": "¡Sorpresa! Arruinamos tu cumpleaños ║ Es el cumpleaños de Tim y su único pedido es que no haya fiesta de cumpleaños, pero el insensible Jason interpreta que esto significa lo contrario.",
+      "inicio": "2026-08-16T09:30:00",
+      "fin": "2026-08-16T09:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Summer Memories • Fútbol es vida",
+      "descripcion": "Fútbol es vida ║ Cuando Ronnie está demasiado ocupado con los niños de fútbol practicando para el gran partido de playoffs de la próxima semana, Jason reemplaza al portero del equipo contrario, enfrentando a los dos mejores amigos en una pelea.",
+      "inicio": "2026-08-16T09:45:00",
+      "fin": "2026-08-16T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un show más • Lluvia de meteoros",
+      "descripcion": "Lluvia de meteoros ║ Mordecai planea besar a Margaret en la lluvia de meteoritos para demostrarle a Rigby que no está en la 'zona de amigos'.",
+      "inicio": "2026-08-16T10:00:00",
+      "fin": "2026-08-16T10:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un show más • Burrito multicarne",
+      "descripcion": "Burrito multicarne ║ Mordecai, Rigby, Musculoso y Fantasmano quieren comer los Burritos de Todas las Carnes del autoservicio de Burritos Jimbro.",
+      "inicio": "2026-08-16T10:10:00",
+      "fin": "2026-08-16T10:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un show más • El encapuchado",
+      "descripcion": "El encapuchado ║ Benson le ordena a Mordecai y a Rigby limpiar los graffittis pintados con aerosol en las paredes.",
+      "inicio": "2026-08-16T10:20:00",
+      "fin": "2026-08-16T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hora de aventura • Nadie te escucha",
+      "descripcion": "Nadie te escucha ║ Un ciervo le quiebra una pierna a Finn y lo deja inconsciente. Cuando, luego de 6 meses, Finn despierta, descubre que no hay nadie en el Dulce Reino. Desde que le pegaron en la cabeza, Jake se ha vuelto loco y cree que todos le están organizando una fiesta.",
+      "inicio": "2026-08-16T10:30:00",
+      "fin": "2026-08-16T10:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hora de aventura • Todo es tu culpa",
+      "descripcion": "Todo es tu culpa ║ Dulce Princesa envía a Finn y a Jake a investigar el pedido de auxilio del Conde de Limonagrio.",
+      "inicio": "2026-08-16T10:45:00",
+      "fin": "2026-08-16T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Caballero televisivo 6",
+      "descripcion": "Caballero televisivo 6 ║ Batman se ve obligado a ir a los grandes almacenes con Alfred, pero sale corriendo para ver la televisión con el comisionado Gordon.",
+      "inicio": "2026-08-16T11:00:00",
+      "fin": "2026-08-16T11:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Osha",
+      "descripcion": "Osha ║ Los Titanes deben limpiar la Torre para una inspección sorpresa.",
+      "inicio": "2026-08-16T11:10:00",
+      "fin": "2026-08-16T11:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Agua de pescado",
+      "descripcion": "Agua de pescado ║ Starfire gana un pececito en el carnaval y jura que lo mantendrá con vida.",
+      "inicio": "2026-08-16T11:20:00",
+      "fin": "2026-08-16T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Regular Show: The Lost Tapes • Los Zancos",
+      "descripcion": "Los Zancos ║ Rigby quiere que alguien tome esta foto, de verdad. Entonces, comienza a usar unos zancos que él mismo creo, con unas sandalias. Aunque luego de un tiempo, no logra acostumbrarse.",
+      "inicio": "2026-08-16T11:30:00",
+      "fin": "2026-08-16T12:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Regular Show: The Lost Tapes • Mitch, el rematador",
+      "descripcion": "Mitch, el rematador ║ Muscle Man revela su pasado y comienza a entrenar, voleyball en la playa e inclusive se interioriza en el mundo de la gimnasia con peso muerto.",
+      "inicio": "2026-08-16T12:40:00",
+      "fin": "2026-08-16T13:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Regular Show: The Lost Tapes • Beginson",
+      "descripcion": "Beginson ║ Benson es expulsado de Heredero al Trono, ya que por más intentos que él haga, siempre hay un intermediario que le marca los límites.",
+      "inicio": "2026-08-16T13:50:00",
+      "fin": "2026-08-16T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El increíble mundo de Gumball • La foto",
+      "descripcion": "La foto ║ Es el día que toman las fotos escolares y Gumball tiene hasta las 3 de la tarde para que le tomen una buena foto... o su legado quedará arruinado para siempre.",
+      "inicio": "2026-08-16T15:00:00",
+      "fin": "2026-08-16T15:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El increíble mundo de Gumball • La visión",
+      "descripcion": "La visión ║ Los chicos encuentran un plan malvado en la memoria USB de Alan, y tratan de detenerlo antes de llevarlo a cabo. Por ello, Gumball y Darwin deberán impedir que Alan se convierta en el presidente de la clase de la escuela Elmore.",
+      "inicio": "2026-08-16T15:10:00",
+      "fin": "2026-08-16T15:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El increíble mundo de Gumball • El cheque",
+      "descripcion": "El cheque ║ Cuando Abuelo Louie les da un cheque, los niños de la familia Watterson discuten sobre cómo gastar el dinero.",
+      "inicio": "2026-08-16T15:20:00",
+      "fin": "2026-08-16T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clarence • Los niños de la caja maldita",
+      "descripcion": "Los niños de la caja maldita ║ Clarence, Jeff y Sumo se topan con una caja misteriosa. Luego de abrirla, comienzan a producirse algunos sucesos extraños. Convencidos de haber desbloqueado una maldición, ¡los chicos están decididos a revertirla!.",
+      "inicio": "2026-08-16T15:30:00",
+      "fin": "2026-08-16T15:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clarence • El cumpleaños",
+      "descripcion": "El cumpleaños ║ Jeff y Sumo esperan que nadie vaya a la fiesta de cumpleaños de Clarence, igual que el año anterior. Cuando llegan decenas de invitados, los niños se esfuerzan por pasar tiempo a solas con él, el anfitrión de fiestas más popular.",
+      "inicio": "2026-08-16T15:40:00",
+      "fin": "2026-08-16T15:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clarence • Pesadilla en la calle Aberdale: la venganza de balance",
+      "descripcion": "Pesadilla en la calle Aberdale: la venganza de balance ║ En esta aventura de Halloween, Clarence usa una linterna hecha de una calabaza para entrar en el mundo de los sueños de la gente. Descubre que algo misterioso está causándoles pesadillas a sus amigos, ¡y Clarence debe detenerlo!.",
+      "inicio": "2026-08-16T15:50:00",
+      "fin": "2026-08-16T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clarence • Salón de clases",
+      "descripcion": "Salón de clases ║ En el transcurso de un solo día de clases con la maestra Baker, vemos a Clarence y a sus compañeros enfrentar sus problemas individuales de un día escolar.",
+      "inicio": "2026-08-16T16:00:00",
+      "fin": "2026-08-16T16:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clarence • Día de Chadción de Gracias",
+      "descripcion": "Día de Chadción de Gracias ║ Clarence está entusiasmado por su cena de Acción de Gracias con los padres de Chad, pero a Chad le preocupa que el comportamiento inusualmente relajado y las costumbres extrañas de sus padres lo harán parecer irresponsable a él también.",
+      "inicio": "2026-08-16T16:10:00",
+      "fin": "2026-08-16T16:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clarence • Ojos enlodados",
+      "descripcion": "Ojos enlodados ║ Una siesta en el lodo sella los ojos de Clarence y lo deja ciego, lo cual es una amenaza potencial a las posibilidades de su equipo en el concurso de visión de la escuela, destinado al fracaso.",
+      "inicio": "2026-08-16T16:20:00",
+      "fin": "2026-08-16T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Caballero televisivo 6",
+      "descripcion": "Caballero televisivo 6 ║ Batman se ve obligado a ir a los grandes almacenes con Alfred, pero sale corriendo para ver la televisión con el comisionado Gordon.",
+      "inicio": "2026-08-16T16:30:00",
+      "fin": "2026-08-16T16:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Osha",
+      "descripcion": "Osha ║ Los Titanes deben limpiar la Torre para una inspección sorpresa.",
+      "inicio": "2026-08-16T16:40:00",
+      "fin": "2026-08-16T16:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Agua de pescado",
+      "descripcion": "Agua de pescado ║ Starfire gana un pececito en el carnaval y jura que lo mantendrá con vida.",
+      "inicio": "2026-08-16T16:50:00",
+      "fin": "2026-08-16T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El mundo surrealista de Any Malu • Pesadilla de unboxing",
+      "descripcion": "Pesadilla de unboxing ║ Any Malu finalmente logra colarse en la sala prohibida de la Universidad.",
+      "inicio": "2026-08-16T17:00:00",
+      "fin": "2026-08-16T17:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • La mejor mamá del mundo",
+      "descripcion": "La mejor mamá del mundo ║ Es el Día de la Madre y los Titanes compiten para decidir quién de ellos es la mejor madre y merece todos los regalos.",
+      "inicio": "2026-08-16T17:15:00",
+      "fin": "2026-08-16T17:24:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • El hueso del deseo",
+      "descripcion": "El hueso del deseo ║ Los Titanes piden deseos en una horquilla, pero cuando se rompe, deben viajar a Gobble-Gobble Land para arreglar las cosas.",
+      "inicio": "2026-08-16T17:24:00",
+      "fin": "2026-08-16T17:33:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Paseo el dragón",
+      "descripcion": "Paseo el dragón ║ Mientras juegan un juego de aventura de fantasía, los Titanes son transportados a su interior y deben encontrar la llave para regresar a casa.",
+      "inicio": "2026-08-16T17:33:00",
+      "fin": "2026-08-16T17:42:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • ¡El baile del bote!",
+      "descripcion": "¡El baile del bote! ║ Para salvar la Torre de los Titanes de unos adinerados empresarios de desarrollo inmobiliario, los Titanes buscan un tesoro pirata.",
+      "inicio": "2026-08-16T17:42:00",
+      "fin": "2026-08-16T17:51:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Más dinero, más problemas",
+      "descripcion": "Más dinero, más problemas ║ Los Titanes hacen que Robin les dé una visita guiada por la casa de campo Wayne y descubren lo divertido que es ser adinerado.",
+      "inicio": "2026-08-16T17:51:00",
+      "fin": "2026-08-16T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Wonderfully Weird World of Gumball • La piscina",
+      "descripcion": "La piscina ║ En medio de una ola de calor, Richard convence a Gumball, Darwin y Anais de ayudarlo en su misión de saltar a la piscina recién instalada de los Robinson.",
+      "inicio": "2026-08-16T18:00:00",
+      "fin": "2026-08-16T18:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Wonderfully Weird World of Gumball • La arruga",
+      "descripcion": "La arruga ║ Anais comienza a envejecer prematuramente como consecuencia del estrés y la presión de cuidar al resto de su estúpida familia.",
+      "inicio": "2026-08-16T18:10:00",
+      "fin": "2026-08-16T18:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Wonderfully Weird World of Gumball • La reescritura",
+      "descripcion": "La reescritura ║ Los chicos están a punto de descubrir la verdad sobre Elmore, pero su viejo enemigo decide reescribir la historia.",
+      "inicio": "2026-08-16T18:20:00",
+      "fin": "2026-08-16T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "My Adventures with Superman • The Return",
+      "descripcion": "The Return ║ Clark Kent construye su identidad secreta de Superman y acepta su papel como el héroe de Metropolis, mientras comparte aventuras y se enamora de Lois, una periodista de investigación estrella, que también toma a Jimmy Olsen bajo su protección.",
+      "inicio": "2026-08-16T18:30:00",
+      "fin": "2026-08-16T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Acepta la próxima propuesta",
+      "descripcion": "Acepta la próxima propuesta ║ Robin se resiste a darles más órdenes a los Titanes, que tendrán que aprender a pensar por sí mismos. En lugar de eso, los Titanes comienzan a seguir los consejos de galletas de la fortuna.",
+      "inicio": "2026-08-16T22:00:00",
+      "fin": "2026-08-16T22:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Dony & Dely",
+      "descripcion": "Dony & Dely ║ Los Titanes aprenden sobre la violencia al estilo dibujo animado para vengarse de una ardilla que se roba sus bocadillos.",
+      "inicio": "2026-08-16T22:10:00",
+      "fin": "2026-08-16T22:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Jóvenes Titanes en acción • Gatos gordos",
+      "descripcion": "Gatos gordos ║ Después de ganar un gran premio en efectivo, los Titanes conocen sobre lo que es la oficina de impuestos.",
+      "inicio": "2026-08-16T22:20:00",
+      "fin": "2026-08-16T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Regular Show: The Lost Tapes • Mitch, el rematador",
+      "descripcion": "Mitch, el rematador ║ Muscle Man revela su pasado y comienza a entrenar, voleyball en la playa e inclusive se interioriza en el mundo de la gimnasia con peso muerto.",
+      "inicio": "2026-08-16T22:30:00",
+      "fin": "2026-08-16T22:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Regular Show: The Lost Tapes • Beginson",
+      "descripcion": "Beginson ║ Benson es expulsado de Heredero al Trono, ya que por más intentos que él haga, siempre hay un intermediario que le marca los límites.",
+      "inicio": "2026-08-16T22:40:00",
+      "fin": "2026-08-16T22:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Regular Show: The Lost Tapes • Los Zancos",
+      "descripcion": "Los Zancos ║ Rigby quiere que alguien tome esta foto, de verdad. Entonces, comienza a usar unos zancos que él mismo creo, con unas sandalias. Aunque luego de un tiempo, no logra acostumbrarse.",
+      "inicio": "2026-08-16T22:50:00",
+      "fin": "2026-08-16T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un show más • Un montón de gansos adultos",
+      "descripcion": "Un montón de gansos adultos ║ Mordecai y Rigby deben deshacerse de unos gansos que están causando problemas en el parque.",
+      "inicio": "2026-08-16T23:00:00",
+      "fin": "2026-08-16T23:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un show más • Parrillada familiar",
+      "descripcion": "Parrillada familiar ║ Cuando invitan a Mordecai a una barbacoa con la familia de Margaret, intenta que su padre le dé un apretón de manos.",
+      "inicio": "2026-08-16T23:10:00",
+      "fin": "2026-08-16T23:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un show más • Pintar",
+      "descripcion": "Pintar ║ Mordecai y Rigby deben pintar una casa del parque.",
+      "inicio": "2026-08-16T23:20:00",
+      "fin": "2026-08-16T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un show más • Esa es mi televisión",
+      "descripcion": "Esa es mi televisión ║ Mordecai y Rigby ayudan a su estrella de comedia favorita de los 80, RGB2, a escapar del estudio e ir a las montañas para salir de un contrato que lo ha atrapado para quedarse en el programa.",
+      "inicio": "2026-08-16T23:30:00",
+      "fin": "2026-08-16T23:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un show más • Beso de año nuevo",
+      "descripcion": "Beso de año nuevo ║ Rigby debe evitar que Mordecai bese a una chica en la noche de año nuevo.",
+      "inicio": "2026-08-16T23:40:00",
+      "fin": "2026-08-16T23:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un show más • Día del agradecimiento",
+      "descripcion": "Día del agradecimiento ║ Todos en el parque, excepto Mordecai y Rigby, reciben placas de reconocimiento, mientras Benson observa que ellos dos 'son unos flojos y solo hacen lío'.",
+      "inicio": "2026-08-16T23:50:00",
+      "fin": "2026-08-17T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

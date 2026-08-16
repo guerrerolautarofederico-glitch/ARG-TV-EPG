@@ -1,129 +1,87 @@
 {
   "actual": {
-    "titulo": "Estela",
-    "descripcion": "Una pareja se muda a una casa aislada junto al lago para formar una familia. Pronto descubren que la casa está habitada por el fantasma de un niño, que está desesperado por el amor de una madre.",
-    "inicio": "2026-08-15T05:00:00",
-    "fin": "2026-08-15T06:30:00",
+    "titulo": "Obsesión",
+    "descripcion": "Una mujer hereda una granja en ruinas y espera convertirla en un alojamiento con la ayuda de su esposo, pero a medida que la reconstrucción se pone en marcha, ella se ve envuelta en un tórrido romance con un contratista.",
+    "inicio": "2026-08-16T05:00:00",
+    "fin": "2026-08-16T06:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Una mujer fatal",
-    "descripcion": "La ambiciosa economista Hannah Binnekamp se ve envuelta en un romance con un banquero neoyorquino, Ben, que la ayuda en su lucha contra el mundo financiero en Nueva York.",
-    "inicio": "2026-08-15T06:30:00",
-    "fin": "2026-08-15T08:05:00",
+    "titulo": "Vacaciones de terror",
+    "descripcion": "Seis amigos van a una fiesta por una semana, pero son perseguidos por un secreto de su pasado.",
+    "inicio": "2026-08-16T06:45:00",
+    "fin": "2026-08-16T08:35:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Estela",
-      "descripcion": "Una pareja se muda a una casa aislada junto al lago para formar una familia. Pronto descubren que la casa está habitada por el fantasma de un niño, que está desesperado por el amor de una madre.",
-      "inicio": "2026-08-15T05:00:00",
-      "fin": "2026-08-15T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Una mujer fatal",
-      "descripcion": "La ambiciosa economista Hannah Binnekamp se ve envuelta en un romance con un banquero neoyorquino, Ben, que la ayuda en su lucha contra el mundo financiero en Nueva York.",
-      "inicio": "2026-08-15T06:30:00",
-      "fin": "2026-08-15T08:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La hora fría",
-      "descripcion": "Los supervivientes del apocalipsis intentan protegerse de zombis y criaturas misteriosas.",
-      "inicio": "2026-08-15T08:05:00",
-      "fin": "2026-08-15T09:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Urubú",
-      "descripcion": "Tomás, un fotógrafo y ornitólogo que pasa por un mal momento, trata de levantar su carrera y arrastra a su familia a la selva amazónica en busca del pájaro urubú albino. La desaparición de su hija convierte el viaje en una terrible pesadilla.",
-      "inicio": "2026-08-15T09:40:00",
-      "fin": "2026-08-15T11:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Enterrados",
-      "descripcion": "Tras un gran derrumbe, Daniel y un grupo de mineros quedan atrapados y la lucha por salir se combina con recuerdos y culpas que se entretejen en el exterior.",
-      "inicio": "2026-08-15T11:10:00",
-      "fin": "2026-08-15T12:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Boda en Cuba",
-      "descripcion": "Una madre viaja a Cuba para impedir la boda de su hija, ya que piensa que está cometiendo un grave error. Pero sus planes pronto darán un giro inesperado.",
-      "inicio": "2026-08-15T12:55:00",
-      "fin": "2026-08-15T14:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Amor en venta",
-      "descripcion": "La bloguera de moda Marja sale con uno de los hombres más ricos del mundo solo para salvar su blog, pero empieza a dudar de sí misma a medida que se enamora de él realmente.",
-      "inicio": "2026-08-15T14:40:00",
-      "fin": "2026-08-15T16:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Deseo oscuro",
-      "descripcion": "Los celos consumen a una mujer cuando descubre que el hombre que amaba está casado con su mejor amiga.",
-      "inicio": "2026-08-15T16:10:00",
-      "fin": "2026-08-15T17:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Muerte en el alma",
-      "descripcion": "Un hombre admite haber matado a su amado hijo sin dar explicación. Su abogado, decidido a descubrir la verdad, destapa oscuros secretos familiares y una inquietante conexión con una serie de asesinatos sin resolver.",
-      "inicio": "2026-08-15T17:40:00",
-      "fin": "2026-08-15T19:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pueblo de las Sombras",
-      "descripcion": "Un pueblo tranquilo queda atrapado en un fenómeno misterioso: sus habitantes caen en un sueño profundo. A medida que el pánico se extiende, un hombre debe descubrir la verdad.",
-      "inicio": "2026-08-15T19:20:00",
-      "fin": "2026-08-15T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Presas",
-      "descripcion": "Román, su hermano Albert y sus amigos se van de excursión. El grupo pronto se encuentra en un intento desesperado por sobrevivir cuando se dan cuenta de que han sido víctimas de un misterioso tirador.",
-      "inicio": "2026-08-15T21:00:00",
-      "fin": "2026-08-15T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El cortejo",
-      "descripcion": "Década de 1920. A través de un anuncio prometiendo una generosa dote, un padre encuentra un marido para su hija. ¿El matrimonio arreglado podrá convertirse en amor verdadero.",
-      "inicio": "2026-08-15T22:30:00",
-      "fin": "2026-08-15T23:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Placeres mortales",
-      "descripcion": "El cadáver de una joven aparece en el departamento que cinco amigos casados compartían para sus aventuras extramaritales.",
-      "inicio": "2026-08-15T23:45:00",
-      "fin": "2026-08-16T01:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Salvaje",
-      "descripcion": "Después de que se rompe su camioneta, cuatro prostitutas se encuentran varadas en una gasolinera en medio de la nada. Pronto se dan cuenta de que han caído en una trampa mortal.",
-      "inicio": "2026-08-16T01:35:00",
-      "fin": "2026-08-16T03:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La asesina perfecta",
-      "descripcion": "La principal sospechosa de un asesinato podría ser la responsable de la muerte de la hija de un detective que se debate entre la justicia o la venganza.",
-      "inicio": "2026-08-16T03:20:00",
-      "fin": "2026-08-16T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Obsesión",
       "descripcion": "Una mujer hereda una granja en ruinas y espera convertirla en un alojamiento con la ayuda de su esposo, pero a medida que la reconstrucción se pone en marcha, ella se ve envuelta en un tórrido romance con un contratista.",
       "inicio": "2026-08-16T05:00:00",
       "fin": "2026-08-16T06:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Vacaciones de terror",
+      "descripcion": "Seis amigos van a una fiesta por una semana, pero son perseguidos por un secreto de su pasado.",
+      "inicio": "2026-08-16T06:45:00",
+      "fin": "2026-08-16T08:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Predadores",
+      "descripcion": "Un joven desilusionado hereda la propiedad rural de su abuelo y gana motivación para construir una vida nueva. Él decide renovar la casa, pero viola los intereses de los oligarcas locales, provocando el inicio de una batalla por la propiedad.",
+      "inicio": "2026-08-16T08:35:00",
+      "fin": "2026-08-16T10:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Presas",
+      "descripcion": "Román, su hermano Albert y sus amigos se van de excursión. El grupo pronto se encuentra en un intento desesperado por sobrevivir cuando se dan cuenta de que han sido víctimas de un misterioso tirador.",
+      "inicio": "2026-08-16T10:50:00",
+      "fin": "2026-08-16T12:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El cortejo",
+      "descripcion": "Década de 1920. A través de un anuncio prometiendo una generosa dote, un padre encuentra un marido para su hija. ¿El matrimonio arreglado podrá convertirse en amor verdadero.",
+      "inicio": "2026-08-16T12:20:00",
+      "fin": "2026-08-16T13:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Miedo silencioso",
+      "descripcion": "Una mujer busca la verdad detrás de la desaparición de su mejor amiga. Después de un encuentro con un hombre al que recuerda de su adolescencia, su vida da un giro.",
+      "inicio": "2026-08-16T13:50:00",
+      "fin": "2026-08-16T15:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Amor en el paraíso",
+      "descripcion": "Una madre soltera, invitada por su hijo al Caribe, se queda atónita al descubrir que en realidad se trata de un viaje para encontrar pareja, donde surgen nuevas amistades y el amor la toma por sorpresa.",
+      "inicio": "2026-08-16T15:25:00",
+      "fin": "2026-08-16T17:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Millonarios de la mafia",
+      "descripcion": "Alendelòn era un hombre honesto, hasta que empezó a colaborar con la Camorra, la mafia napolitana. Comienza como un traficante de drogas de poca monta y rápidamente se le asignan tareas más importantes hasta que un error lo lleva a la cárcel.",
+      "inicio": "2026-08-16T17:20:00",
+      "fin": "2026-08-16T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La hora fría",
+      "descripcion": "Los supervivientes del apocalipsis intentan protegerse de zombis y criaturas misteriosas.",
+      "inicio": "2026-08-16T19:00:00",
+      "fin": "2026-08-16T20:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Eurochannel",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-16T20:35:00",
+      "fin": "2026-08-17T02:35:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

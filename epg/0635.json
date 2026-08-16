@@ -1,360 +1,234 @@
 {
   "actual": {
-    "titulo": "Mostro Garage",
-    "descripcion": "Las novedades del mundo de los autos: se presentan los nuevos modelos de las distintas marcas, así como los clásicos y los deportivos.",
-    "inicio": "2026-08-15T05:00:00",
-    "fin": "2026-08-15T05:30:00",
+    "titulo": "Mantra",
+    "descripcion": "Yoga y Técnicas de Relajación.",
+    "inicio": "2026-08-16T05:00:00",
+    "fin": "2026-08-16T05:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Gastronomía",
-    "descripcion": "Recetas, platillos típicos y gastronomía en México y el mundo.",
-    "inicio": "2026-08-15T05:30:00",
-    "fin": "2026-08-15T06:00:00",
+    "titulo": "Mesa y cuchara",
+    "descripcion": "Un espacio para conocer diversos lugares donde comer alrededor de México.",
+    "inicio": "2026-08-16T05:30:00",
+    "fin": "2026-08-16T06:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Mostro Garage",
-      "descripcion": "Las novedades del mundo de los autos: se presentan los nuevos modelos de las distintas marcas, así como los clásicos y los deportivos.",
-      "inicio": "2026-08-15T05:00:00",
-      "fin": "2026-08-15T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Gastronomía",
-      "descripcion": "Recetas, platillos típicos y gastronomía en México y el mundo.",
-      "inicio": "2026-08-15T05:30:00",
-      "fin": "2026-08-15T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Conecta con Clic",
-      "descripcion": "Programación dedicada al entretenimiento a través de distintos contenidos como moda, gastronomía, tecnología, salud y bienestar.",
-      "inicio": "2026-08-15T06:00:00",
-      "fin": "2026-08-15T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Viajes",
-      "descripcion": "Una vuelta por el mundo para conocer los lugares más hermosos y vacacionar.",
-      "inicio": "2026-08-15T06:30:00",
-      "fin": "2026-08-15T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Aire",
-      "descripcion": "Un programa que desafiará la gravedad a través de acrobacias aéreas para liberar adrenalina desde el otro lado de la pantalla.",
-      "inicio": "2026-08-15T07:00:00",
-      "fin": "2026-08-15T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mantra",
-      "descripcion": "Yoga y Técnicas de Relajación.",
-      "inicio": "2026-08-15T07:30:00",
-      "fin": "2026-08-15T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mantra",
-      "descripcion": "Yoga y Técnicas de Relajación.",
-      "inicio": "2026-08-15T08:00:00",
-      "fin": "2026-08-15T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mesa y cuchara",
-      "descripcion": "Un espacio para conocer diversos lugares donde comer alrededor de México.",
-      "inicio": "2026-08-15T08:30:00",
-      "fin": "2026-08-15T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Tribate",
-      "descripcion": "Programa que trata temas polémicos que llaman la atención del espectador por ser controversiales; con expertos, invitados y gente que opina. Temas polémicos que se discuten en la mesa.",
-      "inicio": "2026-08-15T09:00:00",
-      "fin": "2026-08-15T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Aire",
-      "descripcion": "Un programa que desafiará la gravedad a través de acrobacias aéreas para liberar adrenalina desde el otro lado de la pantalla.",
-      "inicio": "2026-08-15T09:30:00",
-      "fin": "2026-08-15T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Viajes",
-      "descripcion": "Una vuelta por el mundo para conocer los lugares más hermosos y vacacionar.",
-      "inicio": "2026-08-15T10:00:00",
-      "fin": "2026-08-15T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Moda",
-      "descripcion": "Lo más destacado de la moda.",
-      "inicio": "2026-08-15T10:30:00",
-      "fin": "2026-08-15T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Conecta con Clic",
-      "descripcion": "Programación dedicada al entretenimiento a través de distintos contenidos como moda, gastronomía, tecnología, salud y bienestar.",
-      "inicio": "2026-08-15T11:00:00",
-      "fin": "2026-08-15T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mamás y papás",
-      "descripcion": "Mamás y papás.",
-      "inicio": "2026-08-15T11:30:00",
-      "fin": "2026-08-15T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Gastronomía",
-      "descripcion": "Recetas, platillos típicos y gastronomía en México y el mundo.",
-      "inicio": "2026-08-15T12:00:00",
-      "fin": "2026-08-15T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Coaching",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-15T12:30:00",
-      "fin": "2026-08-15T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tecno life",
-      "descripcion": "Tecnología de última generación, aplicaciones y mundos virtuales.",
-      "inicio": "2026-08-15T13:00:00",
-      "fin": "2026-08-15T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Gastronomía",
-      "descripcion": "Recetas, platillos típicos y gastronomía en México y el mundo.",
-      "inicio": "2026-08-15T13:30:00",
-      "fin": "2026-08-15T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Moda",
-      "descripcion": "Lo más destacado de la moda.",
-      "inicio": "2026-08-15T14:00:00",
-      "fin": "2026-08-15T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mostro Garage",
-      "descripcion": "Las novedades del mundo de los autos: se presentan los nuevos modelos de las distintas marcas, así como los clásicos y los deportivos.",
-      "inicio": "2026-08-15T14:30:00",
-      "fin": "2026-08-15T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mantra",
-      "descripcion": "Yoga y Técnicas de Relajación.",
-      "inicio": "2026-08-15T15:00:00",
-      "fin": "2026-08-15T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mesa y cuchara",
-      "descripcion": "Un espacio para conocer diversos lugares donde comer alrededor de México.",
-      "inicio": "2026-08-15T15:30:00",
-      "fin": "2026-08-15T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Tribate",
-      "descripcion": "Programa que trata temas polémicos que llaman la atención del espectador por ser controversiales; con expertos, invitados y gente que opina. Temas polémicos que se discuten en la mesa.",
-      "inicio": "2026-08-15T16:00:00",
-      "fin": "2026-08-15T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Aire",
-      "descripcion": "Un programa que desafiará la gravedad a través de acrobacias aéreas para liberar adrenalina desde el otro lado de la pantalla.",
-      "inicio": "2026-08-15T16:30:00",
-      "fin": "2026-08-15T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Viajes",
-      "descripcion": "Una vuelta por el mundo para conocer los lugares más hermosos y vacacionar.",
-      "inicio": "2026-08-15T17:00:00",
-      "fin": "2026-08-15T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Moda",
-      "descripcion": "Lo más destacado de la moda.",
-      "inicio": "2026-08-15T17:30:00",
-      "fin": "2026-08-15T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Conecta con Clic",
-      "descripcion": "Programación dedicada al entretenimiento a través de distintos contenidos como moda, gastronomía, tecnología, salud y bienestar.",
-      "inicio": "2026-08-15T18:00:00",
-      "fin": "2026-08-15T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mamás y papás",
-      "descripcion": "Mamás y papás.",
-      "inicio": "2026-08-15T18:30:00",
-      "fin": "2026-08-15T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Gastronomía",
-      "descripcion": "Recetas, platillos típicos y gastronomía en México y el mundo.",
-      "inicio": "2026-08-15T19:00:00",
-      "fin": "2026-08-15T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Coaching",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-15T19:30:00",
-      "fin": "2026-08-15T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tecno life",
-      "descripcion": "Tecnología de última generación, aplicaciones y mundos virtuales.",
-      "inicio": "2026-08-15T20:00:00",
-      "fin": "2026-08-15T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Gastronomía",
-      "descripcion": "Recetas, platillos típicos y gastronomía en México y el mundo.",
-      "inicio": "2026-08-15T20:30:00",
-      "fin": "2026-08-15T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Moda",
-      "descripcion": "Lo más destacado de la moda.",
-      "inicio": "2026-08-15T21:00:00",
-      "fin": "2026-08-15T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mostro Garage",
-      "descripcion": "Las novedades del mundo de los autos: se presentan los nuevos modelos de las distintas marcas, así como los clásicos y los deportivos.",
-      "inicio": "2026-08-15T21:30:00",
-      "fin": "2026-08-15T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mantra",
-      "descripcion": "Yoga y Técnicas de Relajación.",
-      "inicio": "2026-08-15T22:00:00",
-      "fin": "2026-08-15T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mesa y cuchara",
-      "descripcion": "Un espacio para conocer diversos lugares donde comer alrededor de México.",
-      "inicio": "2026-08-15T22:30:00",
-      "fin": "2026-08-15T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Tribate",
-      "descripcion": "Programa que trata temas polémicos que llaman la atención del espectador por ser controversiales; con expertos, invitados y gente que opina. Temas polémicos que se discuten en la mesa.",
-      "inicio": "2026-08-15T23:00:00",
-      "fin": "2026-08-15T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Aire",
-      "descripcion": "Un programa que desafiará la gravedad a través de acrobacias aéreas para liberar adrenalina desde el otro lado de la pantalla.",
-      "inicio": "2026-08-15T23:30:00",
-      "fin": "2026-08-16T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Viajes",
-      "descripcion": "Una vuelta por el mundo para conocer los lugares más hermosos y vacacionar.",
-      "inicio": "2026-08-16T00:00:00",
-      "fin": "2026-08-16T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Moda",
-      "descripcion": "Lo más destacado de la moda.",
-      "inicio": "2026-08-16T00:30:00",
-      "fin": "2026-08-16T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Conecta con Clic",
-      "descripcion": "Programación dedicada al entretenimiento a través de distintos contenidos como moda, gastronomía, tecnología, salud y bienestar.",
-      "inicio": "2026-08-16T01:00:00",
-      "fin": "2026-08-16T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mamás y papás",
-      "descripcion": "Mamás y papás.",
-      "inicio": "2026-08-16T01:30:00",
-      "fin": "2026-08-16T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Gastronomía",
-      "descripcion": "Recetas, platillos típicos y gastronomía en México y el mundo.",
-      "inicio": "2026-08-16T02:00:00",
-      "fin": "2026-08-16T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Coaching",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-16T02:30:00",
-      "fin": "2026-08-16T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tecno life",
-      "descripcion": "Tecnología de última generación, aplicaciones y mundos virtuales.",
-      "inicio": "2026-08-16T03:00:00",
-      "fin": "2026-08-16T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Gastronomía",
-      "descripcion": "Recetas, platillos típicos y gastronomía en México y el mundo.",
-      "inicio": "2026-08-16T03:30:00",
-      "fin": "2026-08-16T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Moda",
-      "descripcion": "Lo más destacado de la moda.",
-      "inicio": "2026-08-16T04:00:00",
-      "fin": "2026-08-16T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mostro Garage",
-      "descripcion": "Las novedades del mundo de los autos: se presentan los nuevos modelos de las distintas marcas, así como los clásicos y los deportivos.",
-      "inicio": "2026-08-16T04:30:00",
-      "fin": "2026-08-16T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Mantra",
       "descripcion": "Yoga y Técnicas de Relajación.",
       "inicio": "2026-08-16T05:00:00",
       "fin": "2026-08-16T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mesa y cuchara",
+      "descripcion": "Un espacio para conocer diversos lugares donde comer alrededor de México.",
+      "inicio": "2026-08-16T05:30:00",
+      "fin": "2026-08-16T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Tribate",
+      "descripcion": "Programa que trata temas polémicos que llaman la atención del espectador por ser controversiales; con expertos, invitados y gente que opina. Temas polémicos que se discuten en la mesa.",
+      "inicio": "2026-08-16T06:00:00",
+      "fin": "2026-08-16T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Aire",
+      "descripcion": "Un programa que desafiará la gravedad a través de acrobacias aéreas para liberar adrenalina desde el otro lado de la pantalla.",
+      "inicio": "2026-08-16T06:30:00",
+      "fin": "2026-08-16T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Viajes",
+      "descripcion": "Una vuelta por el mundo para conocer los lugares más hermosos y vacacionar.",
+      "inicio": "2026-08-16T07:00:00",
+      "fin": "2026-08-16T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Moda",
+      "descripcion": "Lo más destacado de la moda.",
+      "inicio": "2026-08-16T07:30:00",
+      "fin": "2026-08-16T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mostro Garage",
+      "descripcion": "Las novedades del mundo de los autos: se presentan los nuevos modelos de las distintas marcas, así como los clásicos y los deportivos.",
+      "inicio": "2026-08-16T08:00:00",
+      "fin": "2026-08-16T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Gastronomía",
+      "descripcion": "Recetas, platillos típicos y gastronomía en México y el mundo.",
+      "inicio": "2026-08-16T08:30:00",
+      "fin": "2026-08-16T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Conecta con Clic",
+      "descripcion": "Programación dedicada al entretenimiento a través de distintos contenidos como moda, gastronomía, tecnología, salud y bienestar.",
+      "inicio": "2026-08-16T09:00:00",
+      "fin": "2026-08-16T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Tribate",
+      "descripcion": "Programa que trata temas polémicos que llaman la atención del espectador por ser controversiales; con expertos, invitados y gente que opina. Temas polémicos que se discuten en la mesa.",
+      "inicio": "2026-08-16T09:30:00",
+      "fin": "2026-08-16T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Aire",
+      "descripcion": "Un programa que desafiará la gravedad a través de acrobacias aéreas para liberar adrenalina desde el otro lado de la pantalla.",
+      "inicio": "2026-08-16T10:00:00",
+      "fin": "2026-08-16T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mantra",
+      "descripcion": "Yoga y Técnicas de Relajación.",
+      "inicio": "2026-08-16T10:30:00",
+      "fin": "2026-08-16T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Azteca fit",
+      "descripcion": "Lo mejor del mundo fitness llega con diversos ejercicios que se pueden hacer desde casa para fortalecer el cuerpo.",
+      "inicio": "2026-08-16T11:00:00",
+      "fin": "2026-08-16T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Circuito Argentina",
+      "descripcion": "Un programa que es una guía turística en video de Argentina.",
+      "inicio": "2026-08-16T11:30:00",
+      "fin": "2026-08-16T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mamás y papás",
+      "descripcion": "Mamás y papás.",
+      "inicio": "2026-08-16T12:00:00",
+      "fin": "2026-08-16T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tecno life",
+      "descripcion": "Tecnología de última generación, aplicaciones y mundos virtuales.",
+      "inicio": "2026-08-16T12:30:00",
+      "fin": "2026-08-16T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Coaching",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-16T13:00:00",
+      "fin": "2026-08-16T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Moda",
+      "descripcion": "Lo más destacado de la moda.",
+      "inicio": "2026-08-16T13:30:00",
+      "fin": "2026-08-16T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Circuito Argentina",
+      "descripcion": "Un programa que es una guía turística en video de Argentina.",
+      "inicio": "2026-08-16T14:00:00",
+      "fin": "2026-08-16T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mesa y cuchara",
+      "descripcion": "Un espacio para conocer diversos lugares donde comer alrededor de México.",
+      "inicio": "2026-08-16T14:30:00",
+      "fin": "2026-08-16T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mostro Garage",
+      "descripcion": "Las novedades del mundo de los autos: se presentan los nuevos modelos de las distintas marcas, así como los clásicos y los deportivos.",
+      "inicio": "2026-08-16T15:00:00",
+      "fin": "2026-08-16T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Gastronomía",
+      "descripcion": "Recetas, platillos típicos y gastronomía en México y el mundo.",
+      "inicio": "2026-08-16T15:30:00",
+      "fin": "2026-08-16T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Conecta con Clic",
+      "descripcion": "Programación dedicada al entretenimiento a través de distintos contenidos como moda, gastronomía, tecnología, salud y bienestar.",
+      "inicio": "2026-08-16T16:00:00",
+      "fin": "2026-08-16T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Tribate",
+      "descripcion": "Programa que trata temas polémicos que llaman la atención del espectador por ser controversiales; con expertos, invitados y gente que opina. Temas polémicos que se discuten en la mesa.",
+      "inicio": "2026-08-16T16:30:00",
+      "fin": "2026-08-16T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Aire",
+      "descripcion": "Un programa que desafiará la gravedad a través de acrobacias aéreas para liberar adrenalina desde el otro lado de la pantalla.",
+      "inicio": "2026-08-16T17:00:00",
+      "fin": "2026-08-16T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mantra",
+      "descripcion": "Yoga y Técnicas de Relajación.",
+      "inicio": "2026-08-16T17:30:00",
+      "fin": "2026-08-16T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Azteca fit",
+      "descripcion": "Lo mejor del mundo fitness llega con diversos ejercicios que se pueden hacer desde casa para fortalecer el cuerpo.",
+      "inicio": "2026-08-16T18:00:00",
+      "fin": "2026-08-16T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Circuito Argentina",
+      "descripcion": "Un programa que es una guía turística en video de Argentina.",
+      "inicio": "2026-08-16T18:30:00",
+      "fin": "2026-08-16T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mamás y papás",
+      "descripcion": "Mamás y papás.",
+      "inicio": "2026-08-16T19:00:00",
+      "fin": "2026-08-16T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tecno life",
+      "descripcion": "Tecnología de última generación, aplicaciones y mundos virtuales.",
+      "inicio": "2026-08-16T19:30:00",
+      "fin": "2026-08-16T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Az Clic",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-16T20:00:00",
+      "fin": "2026-08-17T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
