@@ -1,186 +1,67 @@
 {
   "actual": {
-    "titulo": "Noticias 24h",
-    "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-    "inicio": "2026-08-16T02:30:00",
-    "fin": "2026-08-16T05:45:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "TVE Internacional",
+    "descripcion": "La informacion de este programa no se encuentra disponible.",
+    "inicio": "2026-08-17T04:00:00",
+    "fin": "2026-08-17T08:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tveinternacional.jpg"
   },
   "siguiente": {
-    "titulo": "Medina en TVE",
-    "descripcion": "Espacio dedicado a la reflexión religiosa de culto islámico.",
-    "inicio": "2026-08-16T05:45:00",
-    "fin": "2026-08-16T06:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "TVE Internacional",
+    "descripcion": "La informacion de este programa no se encuentra disponible.",
+    "inicio": "2026-08-17T08:00:00",
+    "fin": "2026-08-17T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tveinternacional.jpg"
   },
   "lista": [
     {
-      "titulo": "Noticias 24h",
-      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-      "inicio": "2026-08-16T02:30:00",
-      "fin": "2026-08-16T05:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Medina en TVE",
-      "descripcion": "Espacio dedicado a la reflexión religiosa de culto islámico.",
-      "inicio": "2026-08-16T05:45:00",
-      "fin": "2026-08-16T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Buenas noticias TV",
-      "descripcion": "Programa que se propone compartir el mensaje de las Buenas Noticias que Jesucristo anunció, pero de forma actual y relevante, utilizando el lenguaje audiovisual, a través de las vidas de cristianos que experimentan la presencia y el poder de Dios.",
-      "inicio": "2026-08-16T06:00:00",
-      "fin": "2026-08-16T06:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Shalom",
-      "descripcion": "Una reflexión sobre el pensamiento y la identidad judía, las celebraciones y las actividades relacionadas con la religión, lo que contribuye a una mayor difusión de las diferentes culturas.",
-      "inicio": "2026-08-16T06:15:00",
-      "fin": "2026-08-16T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Últimas preguntas",
-      "descripcion": "Programa que narra temas relacionados con la fe, en forma de diálogo y desde la perspectiva del humanismo cristiano. Siempre teniendo en cuenta la dimensión social del hombre y de la perspectiva misionera de la Iglesia Católica.",
-      "inicio": "2026-08-16T06:30:00",
-      "fin": "2026-08-16T06:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Testimonio",
-      "descripcion": "Espacio católico en el que una persona da testimonio público de su fe, con el fin de promover la fe cristiana en la fuerza que genera la comunicación social de ese testimonio.",
-      "inicio": "2026-08-16T06:55:00",
-      "fin": "2026-08-16T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pueblo de Dios",
-      "descripcion": "Programa de reportajes sobre los que tienen fe y demuestran que otro mundo es posible. Se comparten experiencias e iniciativas de personas comprometidas en acciones de solidaridad.",
-      "inicio": "2026-08-16T07:00:00",
-      "fin": "2026-08-16T07:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Imprescindibles",
-      "descripcion": "Conociendo las distintas personalidades a través de varios testimonios.",
-      "inicio": "2026-08-16T07:25:00",
-      "fin": "2026-08-16T08:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Conversatorios en Casa de América",
-      "descripcion": "Un programa de entrevistas a reconocidos personajes en una conversación tranquila para ahondar en la riqueza, la diversidad y la cultura de las sociedades latinoamericanas.",
-      "inicio": "2026-08-16T08:25:00",
-      "fin": "2026-08-16T08:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Telediario 1ª edición",
-      "descripcion": "Espacio de información audiovisual que hace un repaso diario a la actualidad general de España y el mundo.",
-      "inicio": "2026-08-16T08:55:00",
-      "fin": "2026-08-16T09:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Deportes",
-      "descripcion": "Lo mejor de las noticias en deportes nacionales e internacionales, fútbol, ciclismo, automovilismo, tenis, y mucho más.",
-      "inicio": "2026-08-16T09:20:00",
-      "fin": "2026-08-16T09:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Reportaje Informe Semanal 24H",
-      "descripcion": "Un programa de reportajes para todos los públicos, con temas de interés nacional e internacional.",
-      "inicio": "2026-08-16T09:25:00",
-      "fin": "2026-08-16T09:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Reportaje Informe Semanal 24H",
-      "descripcion": "Un programa de reportajes para todos los públicos, con temas de interés nacional e internacional.",
-      "inicio": "2026-08-16T09:35:00",
-      "fin": "2026-08-16T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Habaneras",
-      "descripcion": "La ciudad de Torrevieja, en particular la Habanera, se convierte en la capital mundial del canto coral, el evento cultural más importante donde se toman las señas de identidad de la localidad salinera.",
-      "inicio": "2026-08-16T10:00:00",
-      "fin": "2026-08-16T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hoteles con alma",
-      "descripcion": "Hoteles con alma.",
-      "inicio": "2026-08-16T11:00:00",
-      "fin": "2026-08-16T11:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Flash moda",
-      "descripcion": "Una revista informativa sobre el mundo de la moda presentado por Nieves Álvarez.",
-      "inicio": "2026-08-16T11:50:00",
-      "fin": "2026-08-16T12:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "D corazón",
-      "descripcion": "Un repaso a toda la actualidad social de España.",
-      "inicio": "2026-08-16T12:20:00",
-      "fin": "2026-08-16T14:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Saber y ganar - Fin de semana",
-      "descripcion": "Concursos que ponen a prueba los conocimientos y agilidad mental a través de un auténtico bombardeo de preguntas de ámbito general.",
-      "inicio": "2026-08-16T14:10:00",
-      "fin": "2026-08-16T14:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Telediario 2",
-      "descripcion": "Telediario con la información más importante de España y del mundo, al momento.",
-      "inicio": "2026-08-16T14:55:00",
-      "fin": "2026-08-16T15:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Deportes",
-      "descripcion": "Lo mejor de las noticias en deportes nacionales e internacionales, fútbol, ciclismo, automovilismo, tenis, y mucho más.",
-      "inicio": "2026-08-16T15:50:00",
-      "fin": "2026-08-16T15:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "️ F1] Grand Prix del verano",
-      "descripcion": "️ F1] Grand Prix del verano.",
-      "inicio": "2026-08-16T15:55:00",
-      "fin": "2026-08-16T18:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "De tapas por España",
-      "descripcion": "Un viaje donde se marida la historia, el arte y la gastronomía. Un recorrido de norte a sur y de este a oeste para disfrutar de las tapas más típicas de cada lugar de España.",
-      "inicio": "2026-08-16T18:50:00",
-      "fin": "2026-08-16T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Aquí la Tierra",
-      "descripcion": "Una mirada sobre cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.",
-      "inicio": "2026-08-16T19:30:00",
-      "fin": "2026-08-16T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "TVE Internacional",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-17T04:00:00",
+      "fin": "2026-08-17T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tveinternacional.jpg"
     },
     {
       "titulo": "TVE Internacional",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-16T20:00:00",
-      "fin": "2026-08-17T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-17T08:00:00",
+      "fin": "2026-08-17T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tveinternacional.jpg"
+    },
+    {
+      "titulo": "TVE Internacional",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-17T12:00:00",
+      "fin": "2026-08-17T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tveinternacional.jpg"
+    },
+    {
+      "titulo": "TVE Internacional",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-17T16:00:00",
+      "fin": "2026-08-17T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tveinternacional.jpg"
+    },
+    {
+      "titulo": "TVE Internacional",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-17T20:00:00",
+      "fin": "2026-08-18T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tveinternacional.jpg"
+    },
+    {
+      "titulo": "TVE Internacional",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-18T00:00:00",
+      "fin": "2026-08-18T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tveinternacional.jpg"
+    },
+    {
+      "titulo": "TVE Internacional",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-18T04:00:00",
+      "fin": "2026-08-18T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tveinternacional.jpg"
     }
   ]
 }

@@ -1,151 +1,67 @@
 {
   "actual": {
-    "titulo": "Transmisión conjunta 13",
-    "descripcion": "Programas, informativos, cultura, noticias, espectáculos.",
-    "inicio": "2026-08-16T05:00:00",
-    "fin": "2026-08-16T05:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
+    "titulo": "T13 en Vivo",
+    "descripcion": "La informacion de este programa no se encuentra disponible.",
+    "inicio": "2026-08-17T04:00:00",
+    "fin": "2026-08-17T08:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13.jpg"
   },
   "siguiente": {
-    "titulo": "Conversaciones T13",
-    "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-    "inicio": "2026-08-16T05:30:00",
-    "fin": "2026-08-16T06:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
+    "titulo": "T13 en Vivo",
+    "descripcion": "La informacion de este programa no se encuentra disponible.",
+    "inicio": "2026-08-17T08:00:00",
+    "fin": "2026-08-17T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13.jpg"
   },
   "lista": [
     {
-      "titulo": "Transmisión conjunta 13",
-      "descripcion": "Programas, informativos, cultura, noticias, espectáculos.",
-      "inicio": "2026-08-16T05:00:00",
-      "fin": "2026-08-16T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
-    },
-    {
-      "titulo": "Conversaciones T13",
-      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-      "inicio": "2026-08-16T05:30:00",
-      "fin": "2026-08-16T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
-    },
-    {
-      "titulo": "Informe T13",
-      "descripcion": "Cápsulas de la principal información de Chile.",
-      "inicio": "2026-08-16T06:00:00",
-      "fin": "2026-08-16T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informet13.jpg"
-    },
-    {
-      "titulo": "Mercado en vivo",
-      "descripcion": "Programa que informa al público sobre las noticias económicas que se producen en Chile.",
-      "inicio": "2026-08-16T06:30:00",
-      "fin": "2026-08-16T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
-    },
-    {
-      "titulo": "Carlo cocina, vive sustentable",
-      "descripcion": "Un viaje culinario y sustentable desde su parcela en Peñalolén, para hacer huertos comestibles, cuidar del agua y aprender a hacer compost. Además, el chef enseña cómo cocinar algo delicioso, sano y de bajas calorías.",
-      "inicio": "2026-08-16T07:00:00",
-      "fin": "2026-08-16T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/carlococinavivesustentable.jpg"
-    },
-    {
-      "titulo": "City Tour",
-      "descripcion": "Un recorrido por distintas calles de Chile para enseñar a apreciar la arquitectura patrimonial, el diseño, urbanismo y cultura popular, en forma amena y coloquial.",
-      "inicio": "2026-08-16T08:00:00",
-      "fin": "2026-08-16T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/citytour.jpg"
-    },
-    {
-      "titulo": "Teletrece a la hora",
-      "descripcion": "Noticiero exprés con las últimas noticias del acontecer nacional e internacional.",
-      "inicio": "2026-08-16T09:00:00",
-      "fin": "2026-08-16T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecealahora.jpg"
-    },
-    {
-      "titulo": "Mesa central",
-      "descripcion": "Las noticias más importantes y toda la actualidad de la semana.",
-      "inicio": "2026-08-16T11:00:00",
-      "fin": "2026-08-16T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mesacentral.jpg"
-    },
-    {
-      "titulo": "Teletrece tarde",
-      "descripcion": "Un espacio para toda la información nacional e internacional que marca la jornada.",
-      "inicio": "2026-08-16T13:00:00",
-      "fin": "2026-08-16T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
-    },
-    {
-      "titulo": "#Emprendedores",
-      "descripcion": "Un espacio que impulsa el emprendimiento, la creatividad y la innovación.",
-      "inicio": "2026-08-16T14:30:00",
-      "fin": "2026-08-16T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/emprendedores.jpg"
-    },
-    {
-      "titulo": "El Mundo Hoy",
-      "descripcion": "Documentales sobre la actualidad informativa mundial.",
-      "inicio": "2026-08-16T15:00:00",
-      "fin": "2026-08-16T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
-    },
-    {
-      "titulo": "Vida y salud",
-      "descripcion": "Programa donde diferentes expertos, que tocan temas relacionados con la salud y a la medicina natural, charlan sobre productos utilizados para el bienestar diario.",
-      "inicio": "2026-08-16T15:30:00",
-      "fin": "2026-08-16T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vidaysalud.jpg"
-    },
-    {
-      "titulo": "Informe T13",
-      "descripcion": "Cápsulas de la principal información de Chile.",
-      "inicio": "2026-08-16T16:00:00",
-      "fin": "2026-08-16T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informet13.jpg"
-    },
-    {
-      "titulo": "Micrófono abierto",
-      "descripcion": "Detalle de todo lo mejor del acontecer nacional e internacional deportivo, con entrevistas a destacados personajes de todo ámbito.",
-      "inicio": "2026-08-16T18:00:00",
-      "fin": "2026-08-16T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/microfonoabierto.jpg"
-    },
-    {
-      "titulo": "En primera fila",
-      "descripcion": "Recopilación de noticias relacionadas con el espectáculo.",
-      "inicio": "2026-08-16T19:00:00",
-      "fin": "2026-08-16T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enprimerafila.jpg"
-    },
-    {
-      "titulo": "Reportajes",
-      "descripcion": "Los reportajes más interesantes sobre la actualidad nacional e internacional.",
-      "inicio": "2026-08-16T20:00:00",
-      "fin": "2026-08-16T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
-    },
-    {
-      "titulo": "Teletrece Noticias",
-      "descripcion": "Noticias de actualidad nacionales e internacionales.",
-      "inicio": "2026-08-16T21:00:00",
-      "fin": "2026-08-16T22:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Se presenta la información del pronóstico meteorológico de todas las provincias y regiones de España.",
-      "inicio": "2026-08-16T22:40:00",
-      "fin": "2026-08-16T22:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_eltiempo.jpg"
+      "titulo": "T13 en Vivo",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-17T04:00:00",
+      "fin": "2026-08-17T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13.jpg"
     },
     {
       "titulo": "T13 en Vivo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-16T22:50:00",
-      "fin": "2026-08-17T04:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-17T08:00:00",
+      "fin": "2026-08-17T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13.jpg"
+    },
+    {
+      "titulo": "T13 en Vivo",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-17T12:00:00",
+      "fin": "2026-08-17T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13.jpg"
+    },
+    {
+      "titulo": "T13 en Vivo",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-17T16:00:00",
+      "fin": "2026-08-17T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13.jpg"
+    },
+    {
+      "titulo": "T13 en Vivo",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-17T20:00:00",
+      "fin": "2026-08-18T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13.jpg"
+    },
+    {
+      "titulo": "T13 en Vivo",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-18T00:00:00",
+      "fin": "2026-08-18T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13.jpg"
+    },
+    {
+      "titulo": "T13 en Vivo",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-18T04:00:00",
+      "fin": "2026-08-18T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13.jpg"
     }
   ]
 }
