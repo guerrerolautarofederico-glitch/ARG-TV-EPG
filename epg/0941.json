@@ -2,122 +2,143 @@
   "actual": {
     "titulo": "Audio radio universidad",
     "descripcion": "Segmento que invita al espectador a repasar testimonios, datos de interés, curiosidades y audios para comprender y recordar lo que ocurrió en Argentina hace cuatro décadas.",
-    "inicio": "2026-08-16T23:00:00",
-    "fin": "2026-08-17T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/audioradiouniversidad.jpg"
+    "inicio": "2026-08-17T23:00:00",
+    "fin": "2026-08-18T05:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Mundo peque - Zamba",
-    "descripcion": "Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!",
-    "inicio": "2026-08-17T11:00:00",
-    "fin": "2026-08-17T12:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundopequezamba.jpg"
+    "titulo": "Mundo agro",
+    "descripcion": "Un programa de contenido informativo que abarca todos los acontecimientos que ocurren en el mundo agropecuario.",
+    "inicio": "2026-08-18T05:30:00",
+    "fin": "2026-08-18T06:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
       "titulo": "Audio radio universidad",
       "descripcion": "Segmento que invita al espectador a repasar testimonios, datos de interés, curiosidades y audios para comprender y recordar lo que ocurrió en Argentina hace cuatro décadas.",
-      "inicio": "2026-08-16T23:00:00",
-      "fin": "2026-08-17T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/audioradiouniversidad.jpg"
-    },
-    {
-      "titulo": "Mundo peque - Zamba",
-      "descripcion": "Cuando José Zamba viajó de su Formosa natal para visitar la ciudad de Buenos Aires, nunca imaginó que la travesía implicaría. ¡Retroceder doscientos años en el tiempo para recorrer la historia argentina!",
-      "inicio": "2026-08-17T11:00:00",
-      "fin": "2026-08-17T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundopequezamba.jpg"
-    },
-    {
-      "titulo": "Pegado al cielo",
-      "descripcion": "Rretrata la aventura de dos artistas, el sanjuanino Carlos Gómez Centurión y el holandés Pat Andrea, quienes, con el propósito de pintar la cara norte del Aconcagua, tomaron el camino de herradura, el mismo que hizo el Ejército de Los Andes comandado por San Martín, para realizar enormes obras pictóricas.",
-      "inicio": "2026-08-17T12:30:00",
-      "fin": "2026-08-17T13:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pegadoalcielo.jpg"
-    },
-    {
-      "titulo": "Cadena nacional",
-      "descripcion": "Cadena Nacional por el motivo de la conmemoración del día de la Declaración de la Independencia.",
-      "inicio": "2026-08-17T13:45:00",
-      "fin": "2026-08-17T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cadenanacional.jpg"
-    },
-    {
-      "titulo": "ADN Salud",
-      "descripcion": "No hay información disponible.",
-      "inicio": "2026-08-17T15:00:00",
-      "fin": "2026-08-17T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/adnsalud.jpg"
-    },
-    {
-      "titulo": "Utuco",
-      "descripcion": "Cocina con origen y sabor cordobés.",
-      "inicio": "2026-08-17T16:00:00",
-      "fin": "2026-08-17T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/utuco.jpg"
-    },
-    {
-      "titulo": "Ver la historia",
-      "descripcion": "Serie que aborda los 200 años de historia argentina: 1806-2010. Integrada por 13 capítulos, la serie se organiza a partir de acontecimientos socio-políticos significativos para la historia argentina. Éstos serán guiados por Felipe Pigna y construido con material de registro, de archivo, recreaciones, gráfica y animaciones.",
-      "inicio": "2026-08-17T17:00:00",
-      "fin": "2026-08-17T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/verlahistoria.jpg"
-    },
-    {
-      "titulo": "Revolución: El cruce de los Andes",
-      "descripcion": "Narrada por un anciano que en su juventud fue amanuense del general, entrelaza el interés intimista de su narración con un despliegue visual de dimensiones avasallantes para cubrir ese primer cruce de Los Andes en el que San Martin se planteó la liberación de toda Sudamérica de los virreynatos.",
-      "inicio": "2026-08-17T18:00:00",
-      "fin": "2026-08-17T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/revolucionelcrucedelosandes.jpg"
-    },
-    {
-      "titulo": "Zapatazo",
-      "descripcion": "El histórico conductor regresa a la televisión abierta con un late show periodístico que promete impacto, humor y análisis. Córdoba se prepara para un regreso que promete sacudir la pantalla.",
-      "inicio": "2026-08-17T19:30:00",
-      "fin": "2026-08-17T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zapatazo.jpg"
-    },
-    {
-      "titulo": "Lo que se nos canta",
-      "descripcion": "Serie documental de música popular contemporánea en donde se entrevistan autores y compositores de obras del cancionero popular de diversos géneros, quienes cuentan los orígenes de sus canciones y luego las interpretan a dúo junto a Silvia Lallana.",
-      "inicio": "2026-08-17T20:30:00",
-      "fin": "2026-08-17T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loquesenoscanta.jpg"
-    },
-    {
-      "titulo": "La noche es nuestra",
-      "descripcion": "De lunes a viernes a las 20.30, Diego Ramos vuelve a abrir su bar para recibir a los famosos y compartir un after office, un espacio para que puedan soltarse, dejar que lo casual suceda, contar confesiones inesperadas, hablar sobre el lado B de sus vidas y compartir con humor el late night más federal de la TV argentina. Con un estilo relajado, pero filoso, Diego buscará que cada invitado se distienda, comparta un momento divertido, cuente las anécdotas más jugosas y devele algunos talentos ocultos. Habrá bartender, chef, DJ, música en vivo, el descubrimiento de nuevos talentos, stand up y algunos hallazgos.",
-      "inicio": "2026-08-17T21:00:00",
-      "fin": "2026-08-17T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lanocheesnuestra.jpg"
-    },
-    {
-      "titulo": "Lo mejor de los festivales",
-      "descripcion": "Disfruta de lo más destacado de los festivales locales.",
-      "inicio": "2026-08-17T22:30:00",
-      "fin": "2026-08-17T22:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losfestivales.jpg"
-    },
-    {
-      "titulo": "Teclas",
-      "descripcion": "Un programa que pone el foco en la música del piano argentino, presentando a pianistas y compositores. A través del espacio, la audiencia disfruta del talento y las obras de artistas como Ana Robles, Clara Presta o Kailani.",
-      "inicio": "2026-08-17T22:55:00",
-      "fin": "2026-08-17T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teclas.jpg"
-    },
-    {
-      "titulo": "Audio radio universidad",
-      "descripcion": "Segmento que invita al espectador a repasar testimonios, datos de interés, curiosidades y audios para comprender y recordar lo que ocurrió en Argentina hace cuatro décadas.",
       "inicio": "2026-08-17T23:00:00",
       "fin": "2026-08-18T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/audioradiouniversidad.jpg"
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Mundo agro",
       "descripcion": "Un programa de contenido informativo que abarca todos los acontecimientos que ocurren en el mundo agropecuario.",
       "inicio": "2026-08-18T05:30:00",
       "fin": "2026-08-18T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundoagro.jpg"
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ahora noticias matinal",
+      "descripcion": "Despierta informado junto a Andrea Arístegui y José Antonio Neme en esta edición que busca entregar el mejor y más detallado reporte de todo el acontecer nacional, de lo que está pasando en Chile y en el mundo, de una forma ágil y dinámica. Deporte, tecnología, ciencia, entretenimiento, consejos y lo que necesitas saber en un mismo lugar, porque si te afecta, nos importa.",
+      "inicio": "2026-08-18T06:00:00",
+      "fin": "2026-08-18T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Es un montón - Turno mañana",
+      "descripcion": "Disfruta de la mejor compañía.",
+      "inicio": "2026-08-18T08:00:00",
+      "fin": "2026-08-18T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tanta trampa",
+      "descripcion": "Resumen ágil y periodístico de los principales temas de la agenda política y social del día. También, en su sección, el tiempo está después, se cuentan viejas historias que permiten comprender el presente. Por semana se repasa un disco en particular, mayormente de artistas locales, y los viernes hay versiones exclusivas de músicos y músicas cordobeses.",
+      "inicio": "2026-08-18T10:00:00",
+      "fin": "2026-08-18T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La picada de noticias",
+      "descripcion": "Un programa que acerca las noticias más destacadas de la agenda de noticias nacional e internacional.",
+      "inicio": "2026-08-18T11:30:00",
+      "fin": "2026-08-18T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ahora noticias - 2da edición",
+      "descripcion": "El análisis de las noticias más importantes de la jornada junto a un equipo de periodistas profesionales comprometidos con la información y que acompañan tus mediodìas.",
+      "inicio": "2026-08-18T12:00:00",
+      "fin": "2026-08-18T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Es un montón - Turno tarde",
+      "descripcion": "Disfruta de la mejor compañía.",
+      "inicio": "2026-08-18T13:00:00",
+      "fin": "2026-08-18T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ADN Salud",
+      "descripcion": "No hay información disponible.",
+      "inicio": "2026-08-18T15:00:00",
+      "fin": "2026-08-18T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Utuco",
+      "descripcion": "Cocina con origen y sabor cordobés.",
+      "inicio": "2026-08-18T16:00:00",
+      "fin": "2026-08-18T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Siempre al 10",
+      "descripcion": "Ciclo dedicado a realizar un análisis y dar la información necesaria previo y post a los partidos de la Selección Argentina en el Mundial.",
+      "inicio": "2026-08-18T17:00:00",
+      "fin": "2026-08-18T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ahora noticias - 3ra edición",
+      "descripcion": "El análisis de las noticias más importantes de la jornada junto a un equipo de periodistas profesionales comprometidos con la información y con ser la compañía que necesitas al caer la tarde.",
+      "inicio": "2026-08-18T18:00:00",
+      "fin": "2026-08-18T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Zapatazo",
+      "descripcion": "El histórico conductor regresa a la televisión abierta con un late show periodístico que promete impacto, humor y análisis. Córdoba se prepara para un regreso que promete sacudir la pantalla.",
+      "inicio": "2026-08-18T19:00:00",
+      "fin": "2026-08-18T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La casa de Chicho y Tomi",
+      "descripcion": "Un programa semanal en vivo donde los anfitriones invitan a los amigos que fueron haciendo en el camino creando contenido, a meterse en un mundo de juegos, anécdotas, charlas relajadas, y deporte, en un formato que mezcla lo mejor del streaming con la televisión. Bajo una estética descontracturada, Chicho y Tomi recibirán cada semana a invitados de lujo: deportistas, músicos, actores e influencers. El programa propone una charla sin filtros sobre la vida de los protagonistas y la expectativa por el Mundial, combinando entrevistas con desafíos y dinámicas diseñadas para volverse virales.",
+      "inicio": "2026-08-18T20:00:00",
+      "fin": "2026-08-18T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La noche es nuestra",
+      "descripcion": "De lunes a viernes a las 20.30, Diego Ramos vuelve a abrir su bar para recibir a los famosos y compartir un after office, un espacio para que puedan soltarse, dejar que lo casual suceda, contar confesiones inesperadas, hablar sobre el lado B de sus vidas y compartir con humor el late night más federal de la TV argentina. Con un estilo relajado, pero filoso, Diego buscará que cada invitado se distienda, comparta un momento divertido, cuente las anécdotas más jugosas y devele algunos talentos ocultos. Habrá bartender, chef, DJ, música en vivo, el descubrimiento de nuevos talentos, stand up y algunos hallazgos.",
+      "inicio": "2026-08-18T21:00:00",
+      "fin": "2026-08-18T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lo mejor de los festivales",
+      "descripcion": "Disfruta de lo más destacado de los festivales locales.",
+      "inicio": "2026-08-18T22:30:00",
+      "fin": "2026-08-18T22:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Teclas",
+      "descripcion": "Un programa que pone el foco en la música del piano argentino, presentando a pianistas y compositores. A través del espacio, la audiencia disfruta del talento y las obras de artistas como Ana Robles, Clara Presta o Kailani.",
+      "inicio": "2026-08-18T22:55:00",
+      "fin": "2026-08-18T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Audio radio universidad",
+      "descripcion": "Segmento que invita al espectador a repasar testimonios, datos de interés, curiosidades y audios para comprender y recordar lo que ocurrió en Argentina hace cuatro décadas.",
+      "inicio": "2026-08-18T23:00:00",
+      "fin": "2026-08-19T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

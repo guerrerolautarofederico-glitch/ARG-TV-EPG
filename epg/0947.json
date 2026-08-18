@@ -1,186 +1,312 @@
 {
   "actual": {
-    "titulo": "Grandes heroes",
-    "descripcion": "Una serie que exalta la vida y obra de líderes sociales, gestores comunitarios y personajes anónimos que han marcado la diferencia en sus territorios. Héroes reales, forjados en la solidaridad, la resiliencia y la pasión por servir.",
-    "inicio": "2026-08-17T05:30:00",
-    "fin": "2026-08-17T06:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/grandesheroes.jpg"
+    "titulo": "Herencia viva",
+    "descripcion": "Repetición ║ Relata las historias que habitan en el corazón del Eje Cafetero. Explora las tradiciones, los paisajes, su gente y los saberes ancestrales transmitidos de generación en generación, mostrando cómo la memoria y la identidad cultural siguen vigentes en la región.",
+    "inicio": "2026-08-18T04:30:00",
+    "fin": "2026-08-18T05:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Terreno de juego",
-    "descripcion": "Una serie documental que sigue la vida de un deportista de la región, que comparte sus experiencias y lesiones.",
-    "inicio": "2026-08-17T06:00:00",
-    "fin": "2026-08-17T06:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/terrenodejuego.jpg"
+    "titulo": "Conexión vital",
+    "descripcion": "Repetición ║ Espacio dedicado a la salud, en el que doctores tratarán diversos contenidos y recomendarán tratamientos y productos naturales. Además, expondrán sus conocimientos y experiencias para informar sobre la prevención de enfermedades y el bienestar general. Tiene como finalidad informar sobre las patologías más comunes y dar respuesta a las inquietudes de los televidentes. El objetivo principal es incentivar a las personas a no automedicarse y evitar las prácticas médicas erróneas.",
+    "inicio": "2026-08-18T05:30:00",
+    "fin": "2026-08-18T06:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Grandes heroes",
-      "descripcion": "Una serie que exalta la vida y obra de líderes sociales, gestores comunitarios y personajes anónimos que han marcado la diferencia en sus territorios. Héroes reales, forjados en la solidaridad, la resiliencia y la pasión por servir.",
-      "inicio": "2026-08-17T05:30:00",
-      "fin": "2026-08-17T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/grandesheroes.jpg"
+      "titulo": "Herencia viva",
+      "descripcion": "Repetición ║ Relata las historias que habitan en el corazón del Eje Cafetero. Explora las tradiciones, los paisajes, su gente y los saberes ancestrales transmitidos de generación en generación, mostrando cómo la memoria y la identidad cultural siguen vigentes en la región.",
+      "inicio": "2026-08-18T04:30:00",
+      "fin": "2026-08-18T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Conexión vital",
+      "descripcion": "Repetición ║ Espacio dedicado a la salud, en el que doctores tratarán diversos contenidos y recomendarán tratamientos y productos naturales. Además, expondrán sus conocimientos y experiencias para informar sobre la prevención de enfermedades y el bienestar general. Tiene como finalidad informar sobre las patologías más comunes y dar respuesta a las inquietudes de los televidentes. El objetivo principal es incentivar a las personas a no automedicarse y evitar las prácticas médicas erróneas.",
+      "inicio": "2026-08-18T05:30:00",
+      "fin": "2026-08-18T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Santo Rosario",
+      "descripcion": "Repetición ║ Rezo del Santo Rosario y recorrida por diferentes templos.",
+      "inicio": "2026-08-18T06:30:00",
+      "fin": "2026-08-18T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Línea de fuego",
+      "descripcion": "Un documental que abarca el tema de la contaminación del medio ambiente. La humanidad está cruzando una línea de fuego con la variación climática y las repercusiones en la naturaleza y los animales.",
+      "inicio": "2026-08-18T07:00:00",
+      "fin": "2026-08-18T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Campo vivo",
+      "descripcion": "El agronegocio de Paraná desde diferentes ángulos: desde las grandes propiedades exportadoras hasta los pequeños agricultores familiares y las cooperativas. Información y entretenimiento con citas agrícolas, nuevas tecnologías, entrevistas, reportajes especiales y cobertura exclusiva del sector responsable de un tercio del PIB de Brasil.",
+      "inicio": "2026-08-18T07:30:00",
+      "fin": "2026-08-18T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A primera hora",
+      "descripcion": "Un programa que ofrece información actualizada y orientación de las agendas públicas, comunitarias, deportivas y culturales.",
+      "inicio": "2026-08-18T08:00:00",
+      "fin": "2026-08-18T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telecafé noticias",
+      "descripcion": "Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto, la cual tiene como objetivo, acompañar de manera efectiva a las comunidades de los cincuenta y tres municipios del eje cafetero, en lo social, educativo y cultural.",
+      "inicio": "2026-08-18T09:00:00",
+      "fin": "2026-08-18T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mañana y café",
+      "descripcion": "Mañana y Café será la mejor compañía para empezar el día con información fresca, entretenimiento y ese toque especial que nos hace únicos.",
+      "inicio": "2026-08-18T09:30:00",
+      "fin": "2026-08-18T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telecafé noticias",
+      "descripcion": "Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto, la cual tiene como objetivo, acompañar de manera efectiva a las comunidades de los cincuenta y tres municipios del eje cafetero, en lo social, educativo y cultural.",
+      "inicio": "2026-08-18T11:00:00",
+      "fin": "2026-08-18T11:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Poderosas",
+      "descripcion": "No hay información disponible.",
+      "inicio": "2026-08-18T11:05:00",
+      "fin": "2026-08-18T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Voces diversas",
+      "descripcion": "Una producción que recorre el Eje Cafetero descubriendo historias que resisten el paso del tiempo, voces que merecen ser escuchadas y tradiciones que siguen vivas en el corazón de nuestra región. La serie además visibiliza a personas y comunidades que enfrentan la exclusión social, preservan su legado cultural y nos muestran la riqueza humana que habita en cada rincón del territorio.",
+      "inicio": "2026-08-18T12:30:00",
+      "fin": "2026-08-18T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Parques naturales",
+      "descripcion": "La serie es un recorrido por los diversos parques nacionales y provinciales de Argentina. El objetivo es invitar a la audiencia a conocer y valorar la riqueza natural y la multiplicidad de territorios que conforman el patrimonio del país. La producción retrata la diversidad biológica y cultural de estos espacios protegidos, destacando la importancia de la conservación y la educación ambiental. Cada capítulo se centra en un área específica, como la Reserva de la Biósfera del Delta del Río Paraná o Jaaukanigás, mostrando sus ecosistemas únicos, flora, fauna y la labor de los guardaparques.",
+      "inicio": "2026-08-18T13:00:00",
+      "fin": "2026-08-18T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Historias de mente",
+      "descripcion": "Serie que retrata de manera documental a varios de los científicos más ilustres de la región Pacífico colombiana, basándose en los pasos del método científico como hilo conductor. Cada capítulo de la serie hace énfasis en la manera diferencial de hacer ciencia en la región, tomando como referencia las tradiciones, saberes populares y conocimientos ancestrales que los han influenciado.",
+      "inicio": "2026-08-18T13:30:00",
+      "fin": "2026-08-18T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TVA noticias",
+      "descripcion": "Un espacio informativo que tiene como objetivo mantener al televidente actualizado con los principales sucesos del momento de Colombia y el mundo. En cada emisión se brinda de manera puntual y oportuna el acontecer del Triángulo del Café.",
+      "inicio": "2026-08-18T14:00:00",
+      "fin": "2026-08-18T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Salud para todos",
+      "descripcion": "Un espacio de contenido informativo con noticias, consejos y medidas de prevención para la salud de todos.",
+      "inicio": "2026-08-18T15:00:00",
+      "fin": "2026-08-18T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Terreno de juego",
       "descripcion": "Una serie documental que sigue la vida de un deportista de la región, que comparte sus experiencias y lesiones.",
-      "inicio": "2026-08-17T06:00:00",
-      "fin": "2026-08-17T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/terrenodejuego.jpg"
-    },
-    {
-      "titulo": "Santo Rosario",
-      "descripcion": "Rezo del Santo Rosario y recorrida por diferentes templos.",
-      "inicio": "2026-08-17T06:30:00",
-      "fin": "2026-08-17T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santorosario.jpg"
-    },
-    {
-      "titulo": "Maratón La chuncheteria",
-      "descripcion": "Si tienes entre 6 a 9 años de edad, te gustan los cuentos y la música, pues este programa es para ti. En la Chunchetería aprenderás, además, a hacer manualidades de manera divertida, ya que el tema será de algún cuento o leyenda.",
-      "inicio": "2026-08-17T07:00:00",
-      "fin": "2026-08-17T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/maratonlachuncheteria.jpg"
+      "inicio": "2026-08-18T15:30:00",
+      "fin": "2026-08-18T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Telecafé noticias",
       "descripcion": "Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto, la cual tiene como objetivo, acompañar de manera efectiva a las comunidades de los cincuenta y tres municipios del eje cafetero, en lo social, educativo y cultural.",
-      "inicio": "2026-08-17T09:00:00",
-      "fin": "2026-08-17T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telecafenoticias.jpg"
-    },
-    {
-      "titulo": "Maratón Chaski, el investigador",
-      "descripcion": "Chaski el investigador es un zorrito andino que tiene la misión de obtener datos de las distintas actividades, profesiones y oficios que desarrollan las peruanas y peruanos.",
-      "inicio": "2026-08-17T09:30:00",
-      "fin": "2026-08-17T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/maratonchaskielinvestigador.jpg"
-    },
-    {
-      "titulo": "Telecafé noticias",
-      "descripcion": "Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto, la cual tiene como objetivo, acompañar de manera efectiva a las comunidades de los cincuenta y tres municipios del eje cafetero, en lo social, educativo y cultural.",
-      "inicio": "2026-08-17T11:00:00",
-      "fin": "2026-08-17T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telecafenoticias.jpg"
-    },
-    {
-      "titulo": "La Chunchetería",
-      "descripcion": "Si tienes entre 6 a 9 años de edad, te gustan los cuentos y la música, pues este programa es para ti. En la Chunchetería aprenderás, además, a hacer manualidades de manera divertida, ya que el tema será de algún cuento o leyenda.",
-      "inicio": "2026-08-17T11:30:00",
-      "fin": "2026-08-17T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lachuncheteria.jpg"
-    },
-    {
-      "titulo": "Maratón El precio del paraíso",
-      "descripcion": "No hay información disponible.",
-      "inicio": "2026-08-17T12:30:00",
-      "fin": "2026-08-17T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/maratonelpreciodelparaiso.jpg"
-    },
-    {
-      "titulo": "Telecafé noticias - Fin de semana",
-      "descripcion": "Telecafé Noticias es un informativo regional de carácter público. Tiene como objetivo acompañar de manera efectiva a las comunidades de los 53 municipios del eje cafetero, en lo social, educativo y cultural., emisión de fin de semana.",
-      "inicio": "2026-08-17T14:00:00",
-      "fin": "2026-08-17T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telecafenoticiasfindesemana.jpg"
-    },
-    {
-      "titulo": "Maratón Herencia viva",
-      "descripcion": "Relata las historias que habitan en el corazón del Eje Cafetero. Explora las tradiciones, los paisajes, su gente y los saberes ancestrales transmitidos de generación en generación, mostrando cómo la memoria y la identidad cultural siguen vigentes en la región.",
-      "inicio": "2026-08-17T15:00:00",
-      "fin": "2026-08-17T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/maratonherenciaviva.jpg"
-    },
-    {
-      "titulo": "Telecafé noticias",
-      "descripcion": "Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto, la cual tiene como objetivo, acompañar de manera efectiva a las comunidades de los cincuenta y tres municipios del eje cafetero, en lo social, educativo y cultural.",
-      "inicio": "2026-08-17T16:00:00",
-      "fin": "2026-08-17T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telecafenoticias.jpg"
-    },
-    {
-      "titulo": "Maratón Más allá de la idea: Sueños que prosperan",
-      "descripcion": "Una serie que conecta al público con historias reales de esfuerzo, pasión y emprendimiento. La producción aborda cómo grandes proyectos nacen de una simple idea y mucha determinación.",
-      "inicio": "2026-08-17T16:30:00",
-      "fin": "2026-08-17T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/maratonmasalladelaideasuenosqueprosperan.jpg"
-    },
-    {
-      "titulo": "Telecafé noticias",
-      "descripcion": "Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto, la cual tiene como objetivo, acompañar de manera efectiva a las comunidades de los cincuenta y tres municipios del eje cafetero, en lo social, educativo y cultural.",
-      "inicio": "2026-08-17T18:00:00",
-      "fin": "2026-08-17T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telecafenoticias.jpg"
-    },
-    {
-      "titulo": "Maratón El precio del paraíso",
-      "descripcion": "No hay información disponible.",
-      "inicio": "2026-08-17T18:30:00",
-      "fin": "2026-08-17T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/maratonelpreciodelparaiso.jpg"
-    },
-    {
-      "titulo": "Telecafé noticias",
-      "descripcion": "Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto, la cual tiene como objetivo, acompañar de manera efectiva a las comunidades de los cincuenta y tres municipios del eje cafetero, en lo social, educativo y cultural.",
-      "inicio": "2026-08-17T20:00:00",
-      "fin": "2026-08-17T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telecafenoticias.jpg"
-    },
-    {
-      "titulo": "Magazín cafetero",
-      "descripcion": "Informativo sobre las principales actividades del Comité Departamental de Cafeteros de Caldas y Risaralda, al igual que conocimiento técnico para los caficultores de estos Departamento que se emite cada 8 días.",
-      "inicio": "2026-08-17T21:00:00",
-      "fin": "2026-08-17T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/magazincafetero.jpg"
-    },
-    {
-      "titulo": "Maratón Herencia viva",
-      "descripcion": "Relata las historias que habitan en el corazón del Eje Cafetero. Explora las tradiciones, los paisajes, su gente y los saberes ancestrales transmitidos de generación en generación, mostrando cómo la memoria y la identidad cultural siguen vigentes en la región.",
-      "inicio": "2026-08-17T21:30:00",
-      "fin": "2026-08-17T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/maratonherenciaviva.jpg"
-    },
-    {
-      "titulo": "Maratón Vidas de arte",
-      "descripcion": "Un programa que te invita a conocer a cuatro artistas que, con su talento y sensibilidad, han marcado la historia de la región. Déjate inspirar por sus historias y descubre la magia de su creatividad.",
-      "inicio": "2026-08-17T23:00:00",
-      "fin": "2026-08-18T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/maratonvidasdearte.jpg"
-    },
-    {
-      "titulo": "Telecafé noticias",
-      "descripcion": "Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto, la cual tiene como objetivo, acompañar de manera efectiva a las comunidades de los cincuenta y tres municipios del eje cafetero, en lo social, educativo y cultural.",
-      "inicio": "2026-08-18T00:30:00",
-      "fin": "2026-08-18T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telecafenoticias.jpg"
-    },
-    {
-      "titulo": "Maratón El precio del paraíso",
-      "descripcion": "No hay información disponible.",
-      "inicio": "2026-08-18T01:30:00",
-      "fin": "2026-08-18T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/maratonelpreciodelparaiso.jpg"
-    },
-    {
-      "titulo": "Maratón Más allá de la idea: Sueños que prosperan",
-      "descripcion": "Una serie que conecta al público con historias reales de esfuerzo, pasión y emprendimiento. La producción aborda cómo grandes proyectos nacen de una simple idea y mucha determinación.",
-      "inicio": "2026-08-18T03:00:00",
-      "fin": "2026-08-18T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/maratonmasalladelaideasuenosqueprosperan.jpg"
+      "inicio": "2026-08-18T16:00:00",
+      "fin": "2026-08-18T16:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Herencia viva",
       "descripcion": "Relata las historias que habitan en el corazón del Eje Cafetero. Explora las tradiciones, los paisajes, su gente y los saberes ancestrales transmitidos de generación en generación, mostrando cómo la memoria y la identidad cultural siguen vigentes en la región.",
-      "inicio": "2026-08-18T04:30:00",
-      "fin": "2026-08-18T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/herenciaviva.jpg"
+      "inicio": "2026-08-18T16:05:00",
+      "fin": "2026-08-18T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Naturaleza humana",
+      "descripcion": "Serie documental que explora y celebra la biodiversidad, los ecosistemas y la riqueza ambiental de los diferentes pisos térmicos de la ecorregión del Eje Cafetero, con un enfoque en la conservación y la reflexión sobre nuestra relación con el medio ambiente.",
+      "inicio": "2026-08-18T16:30:00",
+      "fin": "2026-08-18T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Materia prima",
+      "descripcion": "Un programa que permite descubrir las bibliotecas y discotecas privadas de diferentes personalidades de la cultura. En cada capítulo, Carlos Ulanovsky visitará las casas de estos hacedores e intentará develar cuál es el orden elegido para ubicar los libros y los discos, qué historias ocultas guardan estos objetos y la influencia que éstos han tenido como 'materia prima' en sus distintas disciplinas artísticas.",
+      "inicio": "2026-08-18T17:00:00",
+      "fin": "2026-08-18T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Historia entre líneas",
+      "descripcion": "Detrás de cada persona, hay una historia y un camino recorrido: el programa cuenta sus relatos. Una conversación inesperada y muchas horas de viaje y producción.",
+      "inicio": "2026-08-18T17:30:00",
+      "fin": "2026-08-18T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telecafé noticias",
+      "descripcion": "Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto, la cual tiene como objetivo, acompañar de manera efectiva a las comunidades de los cincuenta y tres municipios del eje cafetero, en lo social, educativo y cultural.",
+      "inicio": "2026-08-18T18:00:00",
+      "fin": "2026-08-18T18:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Camino de campeones",
+      "descripcion": "No hay información disponible.",
+      "inicio": "2026-08-18T18:05:00",
+      "fin": "2026-08-18T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ecos del planeta",
+      "descripcion": "Una serie de documentales que resalta la importancia y respeto que debe de existir por el medio ambiente. Además se aborda el hecho de poder tener un mejor campo en Nuevo León para producir y vivir. A su vez el público podrá revalorizar la producción agrícola, ganadera, forestal y cinegética con el medio ambiente.",
+      "inicio": "2026-08-18T18:30:00",
+      "fin": "2026-08-18T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Conexión vital",
       "descripcion": "Espacio dedicado a la salud, en el que doctores tratarán diversos contenidos y recomendarán tratamientos y productos naturales. Además, expondrán sus conocimientos y experiencias para informar sobre la prevención de enfermedades y el bienestar general. Tiene como finalidad informar sobre las patologías más comunes y dar respuesta a las inquietudes de los televidentes. El objetivo principal es incentivar a las personas a no automedicarse y evitar las prácticas médicas erróneas.",
-      "inicio": "2026-08-18T05:30:00",
-      "fin": "2026-08-18T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexionvital.jpg"
+      "inicio": "2026-08-18T19:00:00",
+      "fin": "2026-08-18T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telecafé noticias",
+      "descripcion": "Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto, la cual tiene como objetivo, acompañar de manera efectiva a las comunidades de los cincuenta y tres municipios del eje cafetero, en lo social, educativo y cultural.",
+      "inicio": "2026-08-18T20:00:00",
+      "fin": "2026-08-18T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pueblando",
+      "descripcion": "Pueblando es una oportunidad única para conocer los paisajes impresionantes, la riqueza cultural y los maravillosos habitantes de Puebla. ¡Descubre la esencia y la belleza de este lugar único!",
+      "inicio": "2026-08-18T21:00:00",
+      "fin": "2026-08-18T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Manos solidarias",
+      "descripcion": "Un espacio para brindar ayuda a los que más lo necesitan.",
+      "inicio": "2026-08-18T21:30:00",
+      "fin": "2026-08-18T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tradiciones vivas del eje",
+      "descripcion": "No hay información disponible.",
+      "inicio": "2026-08-18T22:00:00",
+      "fin": "2026-08-18T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un viaje a través del tiempo",
+      "descripcion": "Un viaje a través del tiempo que recorre los 70 años de la televisión colombiana.",
+      "inicio": "2026-08-18T22:30:00",
+      "fin": "2026-08-18T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Miradas nómadas",
+      "descripcion": "Un viaje a través de diversas historias y culturas.",
+      "inicio": "2026-08-18T23:00:00",
+      "fin": "2026-08-18T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Alma Caribe",
+      "descripcion": "Serie que realiza un recorrido que conecta al Caribe con Antioquia: los ríos, el mar, la música, la literatura, el turismo, y la economía.",
+      "inicio": "2026-08-18T23:30:00",
+      "fin": "2026-08-19T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "RPM",
+      "descripcion": "Mundo del auto y de la movilidad. Pruebas mecánicas y tecnologías respetuosas con el clima, ideas sorprendentes y visiones futuristas. RPM lo mantiene a la vanguardia a altas revoluciones.",
+      "inicio": "2026-08-19T00:00:00",
+      "fin": "2026-08-19T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telecafé noticias",
+      "descripcion": "Repetición ║ Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto, la cual tiene como objetivo, acompañar de manera efectiva a las comunidades de los cincuenta y tres municipios del eje cafetero, en lo social, educativo y cultural.",
+      "inicio": "2026-08-19T00:30:00",
+      "fin": "2026-08-19T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Voces y saberes",
+      "descripcion": "Repetición ║ Un espacio que da voz a los ciudadanos y rescata la cultura, las tradiciones y los saberes de la región.",
+      "inicio": "2026-08-19T01:30:00",
+      "fin": "2026-08-19T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un viaje a través del tiempo",
+      "descripcion": "Repetición ║ Un viaje a través del tiempo que recorre los 70 años de la televisión colombiana.",
+      "inicio": "2026-08-19T02:00:00",
+      "fin": "2026-08-19T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Miradas nómadas",
+      "descripcion": "Repetición ║ Un viaje a través de diversas historias y culturas.",
+      "inicio": "2026-08-19T02:30:00",
+      "fin": "2026-08-19T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Terreno de juego",
+      "descripcion": "Repetición ║ Una serie documental que sigue la vida de un deportista de la región, que comparte sus experiencias y lesiones.",
+      "inicio": "2026-08-19T03:00:00",
+      "fin": "2026-08-19T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Herencia viva",
+      "descripcion": "Repetición ║ Relata las historias que habitan en el corazón del Eje Cafetero. Explora las tradiciones, los paisajes, su gente y los saberes ancestrales transmitidos de generación en generación, mostrando cómo la memoria y la identidad cultural siguen vigentes en la región.",
+      "inicio": "2026-08-19T03:30:00",
+      "fin": "2026-08-19T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Naturaleza humana",
+      "descripcion": "Repetición ║ Serie documental que explora y celebra la biodiversidad, los ecosistemas y la riqueza ambiental de los diferentes pisos térmicos de la ecorregión del Eje Cafetero, con un enfoque en la conservación y la reflexión sobre nuestra relación con el medio ambiente.",
+      "inicio": "2026-08-19T04:00:00",
+      "fin": "2026-08-19T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Manos solidarias",
+      "descripcion": "Repetición ║ Un espacio para brindar ayuda a los que más lo necesitan.",
+      "inicio": "2026-08-19T04:30:00",
+      "fin": "2026-08-19T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Camino de campeones",
+      "descripcion": "Repetición ║ No hay información disponible.",
+      "inicio": "2026-08-19T05:00:00",
+      "fin": "2026-08-19T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
