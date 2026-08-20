@@ -1,67 +1,277 @@
 {
   "actual": {
-    "titulo": "BíoBío TV",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-08-18T04:00:00",
-    "fin": "2026-08-18T08:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_fallback.jpg"
+    "titulo": "El trasnoche de la radio",
+    "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+    "inicio": "2026-08-20T05:10:00",
+    "fin": "2026-08-20T06:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
   },
   "siguiente": {
-    "titulo": "BíoBío TV",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-08-18T08:00:00",
-    "fin": "2026-08-18T12:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_fallback.jpg"
+    "titulo": "Radiograma matinal",
+    "descripcion": "Empezando el día informados sobre las noticias del momento sobre política, economía, tiempo, cultura, deporte, transporte, noticias del mundo y más.",
+    "inicio": "2026-08-20T06:00:00",
+    "fin": "2026-08-20T10:15:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiogramamatinal.jpg"
   },
   "lista": [
     {
-      "titulo": "BíoBío TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-08-18T04:00:00",
-      "fin": "2026-08-18T08:00:00",
+      "titulo": "El trasnoche de la radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-20T05:10:00",
+      "fin": "2026-08-20T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
+    },
+    {
+      "titulo": "Radiograma matinal",
+      "descripcion": "Empezando el día informados sobre las noticias del momento sobre política, economía, tiempo, cultura, deporte, transporte, noticias del mundo y más.",
+      "inicio": "2026-08-20T06:00:00",
+      "fin": "2026-08-20T10:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiogramamatinal.jpg"
+    },
+    {
+      "titulo": "Expreso Bío Bío",
+      "descripcion": "El pulso de la mañana con la rapidez de Bío Bío. Noticias en desarrollo, entrevistas a los protagonistas y el análisis ciudadano de la contingencia para que comiences el día totalmente informado.",
+      "inicio": "2026-08-20T10:15:00",
+      "fin": "2026-08-20T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobio.jpg"
+    },
+    {
+      "titulo": "El informador",
+      "descripcion": "El recuento de noticias más rápido y la contingencia esencial para seguir tu camino.",
+      "inicio": "2026-08-20T11:00:00",
+      "fin": "2026-08-20T11:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "Expreso Bío Bío",
+      "descripcion": "El pulso de la mañana con la rapidez de Bío Bío. Noticias en desarrollo, entrevistas a los protagonistas y el análisis ciudadano de la contingencia para que comiences el día totalmente informado.",
+      "inicio": "2026-08-20T11:10:00",
+      "fin": "2026-08-20T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobio.jpg"
+    },
+    {
+      "titulo": "El informador",
+      "descripcion": "El recuento de noticias más rápido y la contingencia esencial para seguir tu camino.",
+      "inicio": "2026-08-20T12:00:00",
+      "fin": "2026-08-20T12:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "Expreso Bío Bío",
+      "descripcion": "El pulso de la mañana con la rapidez de Bío Bío. Noticias en desarrollo, entrevistas a los protagonistas y el análisis ciudadano de la contingencia para que comiences el día totalmente informado.",
+      "inicio": "2026-08-20T12:10:00",
+      "fin": "2026-08-20T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresobiobio.jpg"
+    },
+    {
+      "titulo": "Radiograma mediodía",
+      "descripcion": "Mantente completamente informado sobre las noticias de actualidad más importantes, las cuales se han ido desarrollando durante el día.",
+      "inicio": "2026-08-20T13:00:00",
+      "fin": "2026-08-20T14:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiogramamediodia.jpg"
+    },
+    {
+      "titulo": "Expreso PM",
+      "descripcion": "Un punto de encuentro para la cultura y el entretenimiento. Descubre lo mejor del deporte y la actualidad mediante entrevistas exclusivas y la voz de nuestros auditores. ¡Tu opinión es la noticia!",
+      "inicio": "2026-08-20T14:15:00",
+      "fin": "2026-08-20T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresopm.jpg"
+    },
+    {
+      "titulo": "El informador",
+      "descripcion": "El recuento de noticias más rápido y la contingencia esencial para seguir tu camino.",
+      "inicio": "2026-08-20T15:00:00",
+      "fin": "2026-08-20T15:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "Expreso PM",
+      "descripcion": "Un punto de encuentro para la cultura y el entretenimiento. Descubre lo mejor del deporte y la actualidad mediante entrevistas exclusivas y la voz de nuestros auditores. ¡Tu opinión es la noticia!",
+      "inicio": "2026-08-20T15:15:00",
+      "fin": "2026-08-20T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expresopm.jpg"
+    },
+    {
+      "titulo": "El informador",
+      "descripcion": "El recuento de noticias más rápido y la contingencia esencial para seguir tu camino.",
+      "inicio": "2026-08-20T16:00:00",
+      "fin": "2026-08-20T16:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "Podría ser otra cosa",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-20T16:10:00",
+      "fin": "2026-08-20T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/podriaserotracosa.jpg"
+    },
+    {
+      "titulo": "El informador",
+      "descripcion": "El recuento de noticias más rápido y la contingencia esencial para seguir tu camino.",
+      "inicio": "2026-08-20T17:00:00",
+      "fin": "2026-08-20T17:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "Podría ser otra cosa",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-20T17:10:00",
+      "fin": "2026-08-20T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/podriaserotracosa.jpg"
+    },
+    {
+      "titulo": "Radiograma noche",
+      "descripcion": "Programa nocturno de noticias y actualidad.",
+      "inicio": "2026-08-20T18:00:00",
+      "fin": "2026-08-20T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_fallback.jpg"
     },
     {
-      "titulo": "BíoBío TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-08-18T08:00:00",
-      "fin": "2026-08-18T12:00:00",
+      "titulo": "Causa y efecto",
+      "descripcion": "Un comentario sin filtros sobre la noticia del día y sus consecuencias reales.",
+      "inicio": "2026-08-20T20:00:00",
+      "fin": "2026-08-20T20:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/causayefecto.jpg"
+    },
+    {
+      "titulo": "Tema del día",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-20T20:15:00",
+      "fin": "2026-08-20T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/temadeldia.jpg"
+    },
+    {
+      "titulo": "Hoy en la radio",
+      "descripcion": "Noticias, contingencia y entrevistas a grandes artistas. La actualidad compartida en un solo lugar.",
+      "inicio": "2026-08-20T20:30:00",
+      "fin": "2026-08-20T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenlaradio.jpg"
+    },
+    {
+      "titulo": "El informador",
+      "descripcion": "El recuento de noticias más rápido y la contingencia esencial para seguir tu camino.",
+      "inicio": "2026-08-20T21:00:00",
+      "fin": "2026-08-20T21:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "Hoy en la radio",
+      "descripcion": "Noticias, contingencia y entrevistas a grandes artistas. La actualidad compartida en un solo lugar.",
+      "inicio": "2026-08-20T21:05:00",
+      "fin": "2026-08-20T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenlaradio.jpg"
+    },
+    {
+      "titulo": "El informador",
+      "descripcion": "El recuento de noticias más rápido y la contingencia esencial para seguir tu camino.",
+      "inicio": "2026-08-20T22:00:00",
+      "fin": "2026-08-20T22:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "Hoy en la radio",
+      "descripcion": "Noticias, contingencia y entrevistas a grandes artistas. La actualidad compartida en un solo lugar.",
+      "inicio": "2026-08-20T22:10:00",
+      "fin": "2026-08-20T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenlaradio.jpg"
+    },
+    {
+      "titulo": "La entrevista de Tomás Mosciatti",
+      "descripcion": "Los personajes de la actualidad, en una entrevista a fondo, sin compromisos y el sello de Tomás Mosciatti.",
+      "inicio": "2026-08-20T22:30:00",
+      "fin": "2026-08-20T23:05:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_fallback.jpg"
     },
     {
-      "titulo": "BíoBío TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-08-18T12:00:00",
-      "fin": "2026-08-18T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_fallback.jpg"
+      "titulo": "Los inestables",
+      "descripcion": "Actualidad con humor e irreverencia. Una charla libre y sin filtros. ¡Pasa y entra sin golpear!",
+      "inicio": "2026-08-20T23:05:00",
+      "fin": "2026-08-21T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losinestables.jpg"
     },
     {
-      "titulo": "BíoBío TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-08-18T16:00:00",
-      "fin": "2026-08-18T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_fallback.jpg"
+      "titulo": "Radiograma medianoche",
+      "descripcion": "El recuento de las noticias más importantes que sucedieron durante el día.",
+      "inicio": "2026-08-21T00:00:00",
+      "fin": "2026-08-21T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radiogramamedianoche.jpg"
     },
     {
-      "titulo": "BíoBío TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-08-18T20:00:00",
-      "fin": "2026-08-19T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_fallback.jpg"
+      "titulo": "El trasnoche de la radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-21T00:30:00",
+      "fin": "2026-08-21T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
     },
     {
-      "titulo": "BíoBío TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-08-19T00:00:00",
-      "fin": "2026-08-19T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_fallback.jpg"
+      "titulo": "El informador",
+      "descripcion": "El recuento de noticias más rápido y la contingencia esencial para seguir tu camino.",
+      "inicio": "2026-08-21T01:00:00",
+      "fin": "2026-08-21T01:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
     },
     {
-      "titulo": "BíoBío TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-08-19T04:00:00",
-      "fin": "2026-08-19T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0203_fallback.jpg"
+      "titulo": "El trasnoche de la radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-21T01:10:00",
+      "fin": "2026-08-21T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
+    },
+    {
+      "titulo": "El informador",
+      "descripcion": "El recuento de noticias más rápido y la contingencia esencial para seguir tu camino.",
+      "inicio": "2026-08-21T02:00:00",
+      "fin": "2026-08-21T02:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "El trasnoche de la radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-21T02:10:00",
+      "fin": "2026-08-21T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
+    },
+    {
+      "titulo": "El informador",
+      "descripcion": "El recuento de noticias más rápido y la contingencia esencial para seguir tu camino.",
+      "inicio": "2026-08-21T03:00:00",
+      "fin": "2026-08-21T03:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "El trasnoche de la radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-21T03:10:00",
+      "fin": "2026-08-21T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
+    },
+    {
+      "titulo": "El informador",
+      "descripcion": "El recuento de noticias más rápido y la contingencia esencial para seguir tu camino.",
+      "inicio": "2026-08-21T04:00:00",
+      "fin": "2026-08-21T04:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "El trasnoche de la radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-21T04:10:00",
+      "fin": "2026-08-21T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
+    },
+    {
+      "titulo": "El informador",
+      "descripcion": "El recuento de noticias más rápido y la contingencia esencial para seguir tu camino.",
+      "inicio": "2026-08-21T05:00:00",
+      "fin": "2026-08-21T05:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elinformador.jpg"
+    },
+    {
+      "titulo": "El trasnoche de la radio",
+      "descripcion": "Tu conexión directa con la actualidad mientras el mundo duerme. Acompaña tus madrugadas con las entrevistas más profundas, las noticias del momento y el análisis que necesitas para empezar el día.",
+      "inicio": "2026-08-21T05:10:00",
+      "fin": "2026-08-21T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltrasnochedelaradio.jpg"
     }
   ]
 }

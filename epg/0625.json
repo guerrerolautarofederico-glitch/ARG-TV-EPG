@@ -1,66 +1,122 @@
 {
   "actual": {
-    "titulo": "EWTN",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-18T05:00:00",
-    "fin": "2026-08-18T09:00:00",
+    "titulo": "EWTN Noticias",
+    "descripcion": "Noticias católicas del mundo, las actividades del papa y reportajes sobre destacados católicos de Sudamérica y Centroamérica.",
+    "inicio": "2026-08-20T05:00:00",
+    "fin": "2026-08-20T05:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "EWTN",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-18T09:00:00",
-    "fin": "2026-08-18T13:00:00",
+    "titulo": "Si lo hubiera sabido",
+    "descripcion": "Katy, una joven que acaba de finalizar sus estudios en el instituto, conoce en una fiesta a Jimmy, un chico con el que inmediatamente comienza a salir.",
+    "inicio": "2026-08-20T05:30:00",
+    "fin": "2026-08-20T06:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "EWTN",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-18T05:00:00",
-      "fin": "2026-08-18T09:00:00",
+      "titulo": "EWTN Noticias",
+      "descripcion": "Noticias católicas del mundo, las actividades del papa y reportajes sobre destacados católicos de Sudamérica y Centroamérica.",
+      "inicio": "2026-08-20T05:00:00",
+      "fin": "2026-08-20T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Si lo hubiera sabido",
+      "descripcion": "Katy, una joven que acaba de finalizar sus estudios en el instituto, conoce en una fiesta a Jimmy, un chico con el que inmediatamente comienza a salir.",
+      "inicio": "2026-08-20T05:30:00",
+      "fin": "2026-08-20T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Conozca primero su fe católica • Especial: Cielo abierto",
+      "descripcion": "Especial: Cielo abierto | Basada en el famoso libro homónimo del Padre Pedro Núñez, esta serie ofrece respuestas concretas a interrogantes sobre la fe católica que plantean los fieles.",
+      "inicio": "2026-08-20T06:00:00",
+      "fin": "2026-08-20T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Donde Dios llora • Sudán, educar más allá de la guerra",
+      "descripcion": "Sudán, educar más allá de la guerra | El sufrimiento actual de los cristianos en lugares donde no pueden vivir plenamente su fe, debido a restricciones políticas, sociales y económicas.",
+      "inicio": "2026-08-20T07:00:00",
+      "fin": "2026-08-20T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mujeres en la Biblia • Las matriarcas: Rebecca, Leah y Raquel",
+      "descripcion": "Las matriarcas: Rebecca, Leah y Raquel | Un repaso a la historia de las matriarcas de Israel: Rebecca esposa de Isaac, y Leah y Raquel, esposas de Jacob.",
+      "inicio": "2026-08-20T07:30:00",
+      "fin": "2026-08-20T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Misa diaria",
+      "descripcion": "Estreno ║ El santo sacrificio de la misa con los cantos gregorianos de los hermanos franciscanos y la visita de prelados de diversas diócesis que celebran el memorial de la pasión, muerte y resurrección de Cristo.",
+      "inicio": "2026-08-20T08:00:00",
+      "fin": "2026-08-20T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Santo Rosario • Misterios Luminosos",
+      "descripcion": "Misterios Luminosos | Momentos más importantes del Bautismo de Cristo en el Jordán, el milagro de las Bodas de Caná, la proclamación del reino, la Transfiguración y la institución de la Eucaristía.",
+      "inicio": "2026-08-20T09:00:00",
+      "fin": "2026-08-20T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Coronilla de la Divina Misericordia - Latinoamérica",
+      "descripcion": "El Padre Luis Eduardo Rodríguez Rodríguez, nos lleva por un viaje alrededor de toda Latinoamérica, rezando la Divina Misericordia.",
+      "inicio": "2026-08-20T09:30:00",
+      "fin": "2026-08-20T09:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Letanía al santísimo sacramento",
+      "descripcion": "Una mirada a la Letanía al santísimo sacramento y otros acontecimientos religiosos.",
+      "inicio": "2026-08-20T09:50:00",
+      "fin": "2026-08-20T10:50:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "EWTN",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-18T09:00:00",
-      "fin": "2026-08-18T13:00:00",
+      "inicio": "2026-08-20T10:50:00",
+      "fin": "2026-08-20T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "EWTN",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-18T13:00:00",
-      "fin": "2026-08-18T17:00:00",
+      "inicio": "2026-08-20T11:00:00",
+      "fin": "2026-08-20T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "EWTN",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-18T17:00:00",
-      "fin": "2026-08-18T21:00:00",
+      "inicio": "2026-08-20T15:00:00",
+      "fin": "2026-08-20T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "EWTN",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-18T21:00:00",
-      "fin": "2026-08-19T01:00:00",
+      "inicio": "2026-08-20T19:00:00",
+      "fin": "2026-08-20T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "EWTN",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-19T01:00:00",
-      "fin": "2026-08-19T05:00:00",
+      "inicio": "2026-08-20T23:00:00",
+      "fin": "2026-08-21T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "EWTN",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-19T05:00:00",
-      "fin": "2026-08-19T09:00:00",
+      "inicio": "2026-08-21T03:00:00",
+      "fin": "2026-08-21T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

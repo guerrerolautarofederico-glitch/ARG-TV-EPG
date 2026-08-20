@@ -1,66 +1,108 @@
 {
   "actual": {
-    "titulo": "TV Senado",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-18T05:00:00",
-    "fin": "2026-08-18T09:00:00",
+    "titulo": "Senado TV • Interés general",
+    "descripcion": "Interés general | Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
+    "inicio": "2026-08-20T01:20:00",
+    "fin": "2026-08-20T07:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "TV Senado",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-18T09:00:00",
-    "fin": "2026-08-18T13:00:00",
+    "titulo": "Inicio de transmisiones • Interés general",
+    "descripcion": "Interés general | Marca el comienzo de nuestra jornada dedicada a mantenerte informado. Desde aquí, te llevamos las noticias locales, nacionales e internacionales más relevantes. Únete",
+    "inicio": "2026-08-20T07:00:00",
+    "fin": "2026-08-20T07:05:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "TV Senado",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-18T05:00:00",
-      "fin": "2026-08-18T09:00:00",
+      "titulo": "Senado TV • Interés general",
+      "descripcion": "Interés general | Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
+      "inicio": "2026-08-20T01:20:00",
+      "fin": "2026-08-20T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Inicio de transmisiones • Interés general",
+      "descripcion": "Interés general | Marca el comienzo de nuestra jornada dedicada a mantenerte informado. Desde aquí, te llevamos las noticias locales, nacionales e internacionales más relevantes. Únete",
+      "inicio": "2026-08-20T07:00:00",
+      "fin": "2026-08-20T07:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sesión de comisión • Variedades",
+      "descripcion": "Variedades | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-20T07:05:00",
+      "fin": "2026-08-20T13:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Speakers CF 2026 • Interés general",
+      "descripcion": "Interés general | Sigue uno de los eventos más destacados de ciencia, tecnología y pensamiento celebrados en Chile: la edición número 15 del Congreso Futuro (CF) que presenta charlas de expertos internacionales y nacionales sobre desafíos globales.",
+      "inicio": "2026-08-20T13:55:00",
+      "fin": "2026-08-20T14:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "150 años de patrimonio • Especial",
+      "descripcion": "Especial | Cobertura y programación especial para conmemorar el aniversario del edificio del Congreso Nacional en Santiago, el cual fue inaugurado originalmente en 1876.",
+      "inicio": "2026-08-20T14:45:00",
+      "fin": "2026-08-20T15:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Senado TV • Interés general",
+      "descripcion": "Interés general | Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
+      "inicio": "2026-08-20T15:05:00",
+      "fin": "2026-08-20T18:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tesoros nativos • Cultural",
+      "descripcion": "Cultural | Un programa que invita a descubrir la riqueza natural y la biodiversidad de la zona central de Chile. Se recorren ecosistemas únicos con la guía de investigadores y especialistas que trabajan en conservación y patrimonio natural.",
+      "inicio": "2026-08-20T18:55:00",
+      "fin": "2026-08-20T19:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Senado TV • Interés general",
+      "descripcion": "Interés general | Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
+      "inicio": "2026-08-20T19:25:00",
+      "fin": "2026-08-20T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Humanidad, ¿Hacia dónde vamos? • Interés general",
+      "descripcion": "Interés general | Un espacio de diálogo, ciencia, educación y pensamiento crítico en torno al futuro de la humanidad. En el marco del Congreso Futuro, se presentan charlas con expertos y académicos para reflexionar sobre los grandes desafíos contemporáneos.",
+      "inicio": "2026-08-20T21:00:00",
+      "fin": "2026-08-20T21:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Senado TV • Interés general",
+      "descripcion": "Interés general | Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
+      "inicio": "2026-08-20T21:35:00",
+      "fin": "2026-08-20T22:35:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV Senado",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-18T09:00:00",
-      "fin": "2026-08-18T13:00:00",
+      "inicio": "2026-08-20T22:35:00",
+      "fin": "2026-08-20T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV Senado",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-18T13:00:00",
-      "fin": "2026-08-18T17:00:00",
+      "inicio": "2026-08-20T23:00:00",
+      "fin": "2026-08-21T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV Senado",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-18T17:00:00",
-      "fin": "2026-08-18T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TV Senado",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-18T21:00:00",
-      "fin": "2026-08-19T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TV Senado",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-19T01:00:00",
-      "fin": "2026-08-19T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TV Senado",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-19T05:00:00",
-      "fin": "2026-08-19T09:00:00",
+      "inicio": "2026-08-21T03:00:00",
+      "fin": "2026-08-21T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

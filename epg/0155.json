@@ -2,72 +2,149 @@
   "actual": {
     "titulo": "Cartelera nocturna • Película",
     "descripcion": "Película | Ciclo con las mejores películas.",
-    "inicio": "2026-08-18T04:30:00",
-    "fin": "2026-08-18T05:30:00",
+    "inicio": "2026-08-20T00:00:00",
+    "fin": "2026-08-20T07:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Canal TVU",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-18T05:30:00",
-    "fin": "2026-08-18T06:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Portavoz noticias • Noticiero",
+    "descripcion": "Noticiero | Portavoz Noticias emite contenidos 100% regionales, mostrando la realidad que viven las personas en los distintos lugares de Chile. Poniendo en pantalla temas de interés, problemáticas comunes y diversidad territorial y cultural.",
+    "inicio": "2026-08-20T07:30:00",
+    "fin": "2026-08-20T08:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
   },
   "lista": [
     {
       "titulo": "Cartelera nocturna • Película",
       "descripcion": "Película | Ciclo con las mejores películas.",
-      "inicio": "2026-08-18T04:30:00",
-      "fin": "2026-08-18T05:30:00",
+      "inicio": "2026-08-20T00:00:00",
+      "fin": "2026-08-20T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias • Noticiero",
+      "descripcion": "Noticiero | Portavoz Noticias emite contenidos 100% regionales, mostrando la realidad que viven las personas en los distintos lugares de Chile. Poniendo en pantalla temas de interés, problemáticas comunes y diversidad territorial y cultural.",
+      "inicio": "2026-08-20T07:30:00",
+      "fin": "2026-08-20T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Nuestra pauta • Variedades",
+      "descripcion": "Variedades | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-20T08:00:00",
+      "fin": "2026-08-20T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nuestrapauta.jpg"
+    },
+    {
+      "titulo": "Matinal siempre juntos • Interés general",
+      "descripcion": "Interés general | Espacio que combina información regional, cultura y entretenimiento.",
+      "inicio": "2026-08-20T09:00:00",
+      "fin": "2026-08-20T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matinalsiemprejuntos.jpg"
+    },
+    {
+      "titulo": "Sin pasajes para el Mundial",
+      "descripcion": "Un programa dedicado a seguir toda la actualidad, historias, figuras y curiosidades del evento deportivo más importante del planeta. Junto a un equipo de expertos, el público podrá disfrutar de análisis y debates.",
+      "inicio": "2026-08-20T12:00:00",
+      "fin": "2026-08-20T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinpasajesparaelmundial.jpg"
+    },
+    {
+      "titulo": "Reportajes DW • Periodístico",
+      "descripcion": "Periodístico | Reporteros de la DW recorren el mundo en busca de historias.",
+      "inicio": "2026-08-20T13:00:00",
+      "fin": "2026-08-20T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Multiversos • Religioso",
+      "descripcion": "Religioso | Interesantes conversaciones con más de invitados especiales.",
+      "inicio": "2026-08-20T14:00:00",
+      "fin": "2026-08-20T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/multiversos.jpg"
+    },
+    {
+      "titulo": "CNTV Infantil • Educativo",
+      "descripcion": "Educativo | Aprende de forma entretenida con videos culturales y educativos pensados especialmente para ti.",
+      "inicio": "2026-08-20T15:00:00",
+      "fin": "2026-08-20T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Siempre juntos • Magazine",
+      "descripcion": "Magazine | Un programa que aborda diversos tópicos y recibe a invitados para discutir los temas del día.",
+      "inicio": "2026-08-20T17:00:00",
+      "fin": "2026-08-20T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siemprejuntos.jpg"
+    },
+    {
+      "titulo": "Sin pasajes para el Mundial",
+      "descripcion": "Un programa dedicado a seguir toda la actualidad, historias, figuras y curiosidades del evento deportivo más importante del planeta. Junto a un equipo de expertos, el público podrá disfrutar de análisis y debates.",
+      "inicio": "2026-08-20T19:00:00",
+      "fin": "2026-08-20T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinpasajesparaelmundial.jpg"
+    },
+    {
+      "titulo": "TVU Noticias • Noticiero",
+      "descripcion": "Noticiero | Te presentamos una ventana informativa que contiene detalles de gran importancia sobre los sucesos más relevantes del acontecer diario, un panorama periodístico que cubre la actualidad en la opinión pública.",
+      "inicio": "2026-08-20T20:00:00",
+      "fin": "2026-08-20T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tvunoticias.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias • Noticiero",
+      "descripcion": "Noticiero | Portavoz Noticias emite contenidos 100% regionales, mostrando la realidad que viven las personas en los distintos lugares de Chile. Poniendo en pantalla temas de interés, problemáticas comunes y diversidad territorial y cultural.",
+      "inicio": "2026-08-20T20:30:00",
+      "fin": "2026-08-20T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Multiversos • Religioso",
+      "descripcion": "Religioso | Interesantes conversaciones con más de invitados especiales.",
+      "inicio": "2026-08-20T21:00:00",
+      "fin": "2026-08-20T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/multiversos.jpg"
+    },
+    {
+      "titulo": "TVU Noticias • Noticiero",
+      "descripcion": "Noticiero | Te presentamos una ventana informativa que contiene detalles de gran importancia sobre los sucesos más relevantes del acontecer diario, un panorama periodístico que cubre la actualidad en la opinión pública.",
+      "inicio": "2026-08-20T22:00:00",
+      "fin": "2026-08-20T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tvunoticias.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias • Noticiero",
+      "descripcion": "Noticiero | Portavoz Noticias emite contenidos 100% regionales, mostrando la realidad que viven las personas en los distintos lugares de Chile. Poniendo en pantalla temas de interés, problemáticas comunes y diversidad territorial y cultural.",
+      "inicio": "2026-08-20T22:30:00",
+      "fin": "2026-08-20T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Sin pasajes para el Mundial",
+      "descripcion": "Un programa dedicado a seguir toda la actualidad, historias, figuras y curiosidades del evento deportivo más importante del planeta. Junto a un equipo de expertos, el público podrá disfrutar de análisis y debates.",
+      "inicio": "2026-08-20T23:00:00",
+      "fin": "2026-08-21T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinpasajesparaelmundial.jpg"
+    },
+    {
+      "titulo": "Cartelera nocturna • Película",
+      "descripcion": "Película | Ciclo con las mejores películas.",
+      "inicio": "2026-08-21T00:00:00",
+      "fin": "2026-08-21T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Canal TVU",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-18T05:30:00",
-      "fin": "2026-08-18T06:00:00",
+      "inicio": "2026-08-21T01:00:00",
+      "fin": "2026-08-21T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Canal TVU",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-18T06:00:00",
-      "fin": "2026-08-18T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Canal TVU",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-18T10:00:00",
-      "fin": "2026-08-18T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Canal TVU",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-18T14:00:00",
-      "fin": "2026-08-18T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Canal TVU",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-18T18:00:00",
-      "fin": "2026-08-18T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Canal TVU",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-18T22:00:00",
-      "fin": "2026-08-19T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Canal TVU",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-19T02:00:00",
-      "fin": "2026-08-19T06:00:00",
+      "inicio": "2026-08-21T05:00:00",
+      "fin": "2026-08-21T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
