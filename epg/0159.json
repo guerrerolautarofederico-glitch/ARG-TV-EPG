@@ -1,185 +1,108 @@
 {
   "actual": {
-    "titulo": "Puranoticia",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-20T04:00:00",
-    "fin": "2026-08-20T06:00:00",
+    "titulo": "Puranoticia Matinal",
+    "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+    "inicio": "2026-08-21T04:00:00",
+    "fin": "2026-08-21T06:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
   },
   "siguiente": {
-    "titulo": "La Granja de zenón",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-08-20T06:00:00",
-    "fin": "2026-08-20T06:30:00",
+    "titulo": "Puranoticia Pm",
+    "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+    "inicio": "2026-08-21T06:00:00",
+    "fin": "2026-08-21T08:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
   },
   "lista": [
     {
+      "titulo": "Puranoticia Matinal",
+      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-08-21T04:00:00",
+      "fin": "2026-08-21T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Puranoticia Pm",
+      "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-08-21T06:00:00",
+      "fin": "2026-08-21T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Puranoticia Matinal",
+      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-08-21T08:00:00",
+      "fin": "2026-08-21T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Puranoticia Matinal",
+      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-08-21T10:00:00",
+      "fin": "2026-08-21T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Conexión Puranoticia",
+      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
+      "inicio": "2026-08-21T12:00:00",
+      "fin": "2026-08-21T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Hora De Noticias",
+      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
+      "inicio": "2026-08-21T13:00:00",
+      "fin": "2026-08-21T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Hora De Noticias",
+      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
+      "inicio": "2026-08-21T15:00:00",
+      "fin": "2026-08-21T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Conexión Puranoticia",
+      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
+      "inicio": "2026-08-21T17:00:00",
+      "fin": "2026-08-21T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Puranoticia Pm",
+      "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-08-21T18:00:00",
+      "fin": "2026-08-21T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Puranoticia Pm",
+      "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-08-21T20:00:00",
+      "fin": "2026-08-21T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
+      "titulo": "Puranoticia Matinal",
+      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-08-21T22:00:00",
+      "fin": "2026-08-21T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    },
+    {
       "titulo": "Puranoticia",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-20T04:00:00",
-      "fin": "2026-08-20T06:00:00",
+      "inicio": "2026-08-21T23:00:00",
+      "fin": "2026-08-22T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
     },
     {
-      "titulo": "La Granja de zenón",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T06:00:00",
-      "fin": "2026-08-20T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Pocoyó: Canciones infantiles",
-      "descripcion": "Canta con Pocoyó las canciones para chicos más divertidas.",
-      "inicio": "2026-08-20T06:30:00",
-      "fin": "2026-08-20T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Talking tom and friends minis",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T07:00:00",
-      "fin": "2026-08-20T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Odo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T08:00:00",
-      "fin": "2026-08-20T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Hey, Duggee",
-      "descripcion": "Duggee es un perro grande, también es el líder de un grupo semanal de actividades infantiles llamado las Ardillas. Es un poco como los scouts, pero para animales pequeños. Sus aventuras animan a los niños a resolver activamente un problema usando sus cuerpos para moverse, saltar, correr y rebotar, y Duggee siempre los premia dándoles una insignia de actividad ardilla que muestran con orgullo a sus padres cuando los recogen al final de programa.",
-      "inicio": "2026-08-20T09:00:00",
-      "fin": "2026-08-20T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Numberblocks",
-      "descripcion": "Los niños pequeños aprenden cómo funcionan los números a través de la música y el juego. Cuando amas los números, las matemáticas son fáciles.",
-      "inicio": "2026-08-20T10:00:00",
-      "fin": "2026-08-20T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/numberblocks.jpg"
-    },
-    {
-      "titulo": "Pocoyó",
-      "descripcion": "La historia de un niño en edad preescolar y sus descubrimientos acerca del mundo que lo rodea. Todo para él es nuevo y lleno de oportunidades para jugar y aprender. A Pocoyo lo acompañan sus amigos, Pato, un tímido patito amarillo; Elly, un gracioso elefante rosado; Lula, su mascota y un gran pájaro muy dormilón.",
-      "inicio": "2026-08-20T11:00:00",
-      "fin": "2026-08-20T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Pet+Gato",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T12:00:00",
-      "fin": "2026-08-20T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Bluey",
-      "descripcion": "Las aventuras de una cachorra de pastor australiano que se divierte con su familia y amigos en situaciones de la vida cotidiana.",
-      "inicio": "2026-08-20T13:00:00",
-      "fin": "2026-08-20T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
-    },
-    {
-      "titulo": "Dora la Exploradora",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T14:00:00",
-      "fin": "2026-08-20T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Jorge, el curioso",
-      "descripcion": "Ted, un guía del museo Bloomsberry, recibe la mala noticia de su cierre por falta de público, y de que la única solución para remediarlo sería traer el altar perdido de la tribu africana Zagawa. Por ello, Ted viaja a África para encontrar la reliquia, sitio donde conoce al mono Jorge, un animal encantador que se convertirá en su mejor amigo. Cuando regresa se da cuenta que el simio ha decidido acompañarle. Juntos se verán envueltos en varias peripecias en torno al museo.",
-      "inicio": "2026-08-20T15:00:00",
-      "fin": "2026-08-20T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Los Fixis",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T16:00:00",
-      "fin": "2026-08-20T16:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Mi mascota mágica Morphle",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T16:40:00",
-      "fin": "2026-08-20T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Milo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T17:00:00",
-      "fin": "2026-08-20T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Gus, el pequeño caballero",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T18:00:00",
-      "fin": "2026-08-20T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Paw Patrol",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T19:00:00",
-      "fin": "2026-08-20T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Leo y Tig",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T20:00:00",
-      "fin": "2026-08-20T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Mush-mush y los Mushables",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T20:30:00",
-      "fin": "2026-08-20T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Dora la Exploradora",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T21:00:00",
-      "fin": "2026-08-20T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Tolking tom héroes",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T21:30:00",
-      "fin": "2026-08-20T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Blippi",
-      "descripcion": "¡Ven a explorar el mundo con Blippi! Hay muchas cosas divertidas para explorar y aprender. Alimenta la curiosidad de tus hijos mientras aprenden sobre vehículos, animales, la naturaleza y mucho más.",
-      "inicio": "2026-08-20T22:00:00",
-      "fin": "2026-08-20T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "A dormir",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T22:30:00",
-      "fin": "2026-08-20T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Trasnoche Animado",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-20T23:00:00",
-      "fin": "2026-08-21T06:00:00",
+      "titulo": "Puranoticia",
+      "descripcion": "A confirmar",
+      "inicio": "2026-08-22T03:00:00",
+      "fin": "2026-08-22T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
     }
   ]

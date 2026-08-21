@@ -1,206 +1,199 @@
 {
   "actual": {
-    "titulo": "En foco",
-    "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
-    "inicio": "2026-08-20T05:24:00",
-    "fin": "2026-08-20T05:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Noticias",
+    "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+    "inicio": "2026-08-21T05:30:00",
+    "fin": "2026-08-21T05:46:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
   },
   "siguiente": {
-    "titulo": "Noticias",
-    "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
-    "inicio": "2026-08-20T05:30:00",
-    "fin": "2026-08-20T05:46:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    "titulo": "Escala en París",
+    "descripcion": "Una cita semanal con personalidades de las artes, la ciencia, la política y el deporte. Más que una escala, un puente entre París y América Latina.",
+    "inicio": "2026-08-21T05:46:00",
+    "fin": "2026-08-21T06:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-08-21T05:30:00",
+      "fin": "2026-08-21T05:46:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Escala en París",
+      "descripcion": "Una cita semanal con personalidades de las artes, la ciencia, la política y el deporte. Más que una escala, un puente entre París y América Latina.",
+      "inicio": "2026-08-21T05:46:00",
+      "fin": "2026-08-21T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-08-21T06:00:00",
+      "fin": "2026-08-21T06:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Francia en foco",
+      "descripcion": "Programa de noticias enfocado en Francia.",
+      "inicio": "2026-08-21T06:15:00",
+      "fin": "2026-08-21T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Directo América",
+      "descripcion": "Estreno ║ Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
+      "inicio": "2026-08-21T06:30:00",
+      "fin": "2026-08-21T06:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
       "titulo": "En foco",
       "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
-      "inicio": "2026-08-20T05:24:00",
-      "fin": "2026-08-20T05:30:00",
+      "inicio": "2026-08-21T06:45:00",
+      "fin": "2026-08-21T06:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Medio Ambiente",
+      "descripcion": "Calentamiento global, especies en extinción, destrucción de bosques, contaminación: la Tierra es un planeta con muchas amenazas, pero también lleno de ideas innovadoras y soluciones sostenibles.",
+      "inicio": "2026-08-21T06:50:00",
+      "fin": "2026-08-21T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-08-21T07:00:00",
+      "fin": "2026-08-21T07:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "El Expreso de Oriente",
+      "descripcion": "Una mirada retrospectiva a una semana de noticias en el Medio Oriente con informes de los corresponsales de France 24 en la región.",
+      "inicio": "2026-08-21T07:15:00",
+      "fin": "2026-08-21T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Directo América",
+      "descripcion": "Estreno ║ Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
+      "inicio": "2026-08-21T07:30:00",
+      "fin": "2026-08-21T07:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-08-21T07:45:00",
+      "fin": "2026-08-21T07:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cultura",
+      "descripcion": "¿Cómo explican el mundo los cineastas, los novelistas o los artistas? France 24 sale al encuentro de una cultura comprometida con su época.",
+      "inicio": "2026-08-21T07:50:00",
+      "fin": "2026-08-21T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Noticias",
       "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
-      "inicio": "2026-08-20T05:30:00",
-      "fin": "2026-08-20T05:46:00",
+      "inicio": "2026-08-21T08:00:00",
+      "fin": "2026-08-21T08:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Ventana a Europa",
+      "descripcion": "Las últimas noticias políticas y sociales del continente europeo con informes en Colombia, México, Argentina y Chile.",
+      "inicio": "2026-08-21T08:15:00",
+      "fin": "2026-08-21T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-08-21T08:30:00",
+      "fin": "2026-08-21T08:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Corresponsales",
+      "descripcion": "El acontecer noticioso más relevante de la jornada.",
+      "inicio": "2026-08-21T08:45:00",
+      "fin": "2026-08-21T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-08-21T09:00:00",
+      "fin": "2026-08-21T09:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
     },
     {
       "titulo": "La entrevista",
       "descripcion": "Entrevistas con una personalidad francesa o internacional del mundo de la economía, la política, cultura o relaciones internacionales.",
-      "inicio": "2026-08-20T05:46:00",
-      "fin": "2026-08-20T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-08-20T06:00:00",
-      "fin": "2026-08-20T06:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Boleto de vuelta",
-      "descripcion": "Los reporteros y corresponsales de France 24 vuelven a lugares que en el pasado estuvieron en primera plana de la actualidad por haber sufrido guerras y desastres naturales o industriales, con el propósito de mostrar cómo viven hoy sus habitantes.",
-      "inicio": "2026-08-20T06:15:00",
-      "fin": "2026-08-20T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Estreno ║ Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-08-20T06:30:00",
-      "fin": "2026-08-20T06:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En foco",
-      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
-      "inicio": "2026-08-20T06:45:00",
-      "fin": "2026-08-20T06:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En 5 minutos",
-      "descripcion": "Entrevistas a expertos y protagonistas de noticias. Se brinda información sobre el acontecer nacional e internacional.",
-      "inicio": "2026-08-20T06:50:00",
-      "fin": "2026-08-20T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-08-20T07:00:00",
-      "fin": "2026-08-20T07:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Reporteros",
-      "descripcion": "Un equipo de reporteros de France 24 aborda un tema en profundidad o analiza un hecho destacado de la actualidad.",
-      "inicio": "2026-08-20T07:15:00",
-      "fin": "2026-08-20T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Directo América",
-      "descripcion": "Estreno ║ Información de actualidad internacional, economía, deportes, salud y otros contenidos de interés.",
-      "inicio": "2026-08-20T07:30:00",
-      "fin": "2026-08-20T07:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En foco",
-      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
-      "inicio": "2026-08-20T07:45:00",
-      "fin": "2026-08-20T07:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ciencia y tecnología",
-      "descripcion": "Los descubrimientos, los protagonistas y el acelerado ritmo de nuevas tecnologías que día a día sorprenden al mundo.",
-      "inicio": "2026-08-20T07:50:00",
-      "fin": "2026-08-20T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-08-20T08:00:00",
-      "fin": "2026-08-20T08:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Así es Asia",
-      "descripcion": "Informes, artículos y análisis exclusivos sobre eventos políticos y sociales en Asia.",
-      "inicio": "2026-08-20T08:15:00",
-      "fin": "2026-08-20T08:30:00",
+      "inicio": "2026-08-21T09:15:00",
+      "fin": "2026-08-21T09:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Noticias",
       "descripcion": "Cada hora, las veinticuatro horas del día, un programa con la última información sobre asuntos a nivel global.",
-      "inicio": "2026-08-20T08:30:00",
-      "fin": "2026-08-20T08:45:00",
+      "inicio": "2026-08-21T09:30:00",
+      "fin": "2026-08-21T09:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
     },
     {
       "titulo": "Ellas Hoy",
       "descripcion": "El programa de quienes impulsan el cambio en un mundo todavía muy dominado por los hombres. Una cita con iniciativas de hombres y mujeres que luchan por formar sociedades en las que haya mayor igualdad de género.",
-      "inicio": "2026-08-20T08:45:00",
-      "fin": "2026-08-20T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-08-20T09:00:00",
-      "fin": "2026-08-20T09:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "En Primera Plana",
-      "descripcion": "Analistas y corresponsales de la prensa extranjera basados en París comentan lo más candente de la actualidad. Una mirada aguda desde la Ciudad Luz.",
-      "inicio": "2026-08-20T09:15:00",
-      "fin": "2026-08-20T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-08-20T09:30:00",
-      "fin": "2026-08-20T09:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "En Primera Plana",
-      "descripcion": "Analistas y corresponsales de la prensa extranjera basados en París comentan lo más candente de la actualidad. Una mirada aguda desde la Ciudad Luz.",
-      "inicio": "2026-08-20T09:45:00",
-      "fin": "2026-08-20T10:45:00",
+      "inicio": "2026-08-21T09:45:00",
+      "fin": "2026-08-21T10:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-20T10:45:00",
-      "fin": "2026-08-20T11:00:00",
+      "inicio": "2026-08-21T10:45:00",
+      "fin": "2026-08-21T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-20T11:00:00",
-      "fin": "2026-08-20T15:00:00",
+      "inicio": "2026-08-21T11:00:00",
+      "fin": "2026-08-21T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-20T15:00:00",
-      "fin": "2026-08-20T19:00:00",
+      "inicio": "2026-08-21T15:00:00",
+      "fin": "2026-08-21T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-20T19:00:00",
-      "fin": "2026-08-20T23:00:00",
+      "inicio": "2026-08-21T19:00:00",
+      "fin": "2026-08-21T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-20T23:00:00",
-      "fin": "2026-08-21T03:00:00",
+      "inicio": "2026-08-21T23:00:00",
+      "fin": "2026-08-22T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-21T03:00:00",
-      "fin": "2026-08-21T07:00:00",
+      "inicio": "2026-08-22T03:00:00",
+      "fin": "2026-08-22T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
