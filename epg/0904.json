@@ -1,115 +1,94 @@
 {
   "actual": {
-    "titulo": "Pre mañana",
-    "descripcion": "El clima, el tránsito y todo lo que tenés que saber para arrancar el día.",
-    "inicio": "2026-08-21T05:00:00",
-    "fin": "2026-08-21T05:45:00",
+    "titulo": "Hambre de futuro",
+    "descripcion": "La periodista Micaela Urdinez recorre el país para conocer las realidades y los sueños de los niños que viven en las comunidades más vulnerables.",
+    "inicio": "2026-08-22T05:00:00",
+    "fin": "2026-08-22T06:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Mañana mías",
-    "descripcion": "Un programa dinámico que acompaña tus mañanas con entretenimiento y rigor periodístico.",
-    "inicio": "2026-08-21T05:45:00",
-    "fin": "2026-08-21T09:00:00",
+    "titulo": "+ Mañana",
+    "descripcion": "Empezá el día bien informado y con la mejor compañía, de la mano de Viviana Valles y Hugo Macchiavelli.",
+    "inicio": "2026-08-22T06:00:00",
+    "fin": "2026-08-22T08:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Pre mañana",
-      "descripcion": "El clima, el tránsito y todo lo que tenés que saber para arrancar el día.",
-      "inicio": "2026-08-21T05:00:00",
-      "fin": "2026-08-21T05:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mañana mías",
-      "descripcion": "Un programa dinámico que acompaña tus mañanas con entretenimiento y rigor periodístico.",
-      "inicio": "2026-08-21T05:45:00",
-      "fin": "2026-08-21T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Buen día Nación",
-      "descripcion": "Francisco Olivera, Paula Rossi y equipo te acompañan todas las mañanas para vivir la actualidad minuto a minuto.",
-      "inicio": "2026-08-21T09:00:00",
-      "fin": "2026-08-21T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "+noticias",
-      "descripcion": "Los temas del día, el análisis y la compañía durante tus tardes.",
-      "inicio": "2026-08-21T12:00:00",
-      "fin": "2026-08-21T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Código Nación",
-      "descripcion": "La información más caliente contrastada con la frialdad de los datos.",
-      "inicio": "2026-08-21T14:00:00",
-      "fin": "2026-08-21T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Clima de época",
-      "descripcion": "Un camino diferente para entender la actualidad.",
-      "inicio": "2026-08-21T16:00:00",
-      "fin": "2026-08-21T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Siempre +",
-      "descripcion": "Cristina Pérez llega con compromiso, análisis y toda la información que necesitás saber.",
-      "inicio": "2026-08-21T17:30:00",
-      "fin": "2026-08-21T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Una batalla tras otra",
-      "descripcion": "El debate necesario para combatir la desinformación y acercarse a la verdad.",
-      "inicio": "2026-08-21T19:00:00",
-      "fin": "2026-08-21T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La trama",
-      "descripcion": "Amores y odios de los protagonistas de la política argentina.",
-      "inicio": "2026-08-21T20:30:00",
-      "fin": "2026-08-21T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Caso abierto",
-      "descripcion": "Gustavo Carabajal te acerca el relato detallado y un análisis profundo de los casos mas enigmáticos que conmovieron a la Argentina.",
-      "inicio": "2026-08-21T22:00:00",
-      "fin": "2026-08-21T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mañana mías",
-      "descripcion": "Un programa dinámico que acompaña tus mañanas con entretenimiento y rigor periodístico.",
-      "inicio": "2026-08-21T23:00:00",
-      "fin": "2026-08-22T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La trama",
-      "descripcion": "Amores y odios de los protagonistas de la política argentina.",
-      "inicio": "2026-08-22T02:00:00",
-      "fin": "2026-08-22T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Una batalla tras otra",
-      "descripcion": "El debate necesario para combatir la desinformación y acercarse a la verdad.",
-      "inicio": "2026-08-22T03:00:00",
-      "fin": "2026-08-22T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Hambre de futuro",
       "descripcion": "La periodista Micaela Urdinez recorre el país para conocer las realidades y los sueños de los niños que viven en las comunidades más vulnerables.",
       "inicio": "2026-08-22T05:00:00",
       "fin": "2026-08-22T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "+ Mañana",
+      "descripcion": "Empezá el día bien informado y con la mejor compañía, de la mano de Viviana Valles y Hugo Macchiavelli.",
+      "inicio": "2026-08-22T06:00:00",
+      "fin": "2026-08-22T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "+Info finde",
+      "descripcion": "Los fines de semana arrancá el día con toda la información y la mejor compañía, de la mano del Tucu Costa y un gran equipo.",
+      "inicio": "2026-08-22T08:00:00",
+      "fin": "2026-08-22T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La robineta",
+      "descripcion": "Robertito Funes y equipo te traen toda la información y la mejor compañía.",
+      "inicio": "2026-08-22T12:00:00",
+      "fin": "2026-08-22T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "+Noticias sábado",
+      "descripcion": "Tus sábados a la tarde son con Vivi Valles, la mejor compañía y toda la información.",
+      "inicio": "2026-08-22T15:00:00",
+      "fin": "2026-08-22T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "+Info Sábado",
+      "descripcion": "La mejor información del fin de semana de la mano de Pablo Corso.",
+      "inicio": "2026-08-22T19:00:00",
+      "fin": "2026-08-22T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Resumen de noticias",
+      "descripcion": "Para que no te pierdas de nada, terminá el sábado con el mejor resumen de noticias junto a Chiquito García.",
+      "inicio": "2026-08-22T21:00:00",
+      "fin": "2026-08-22T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Innovación",
+      "descripcion": "Ciclo de conferencias sobre tecnología y tendencias junto a diversos expertos. El evento también reúne a aquellos líderes que se animan a innovar para aportar soluciones a las compañías y a la sociedad.",
+      "inicio": "2026-08-22T23:00:00",
+      "fin": "2026-08-23T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La robineta",
+      "descripcion": "Robertito Funes y equipo te traen toda la información y la mejor compañía.",
+      "inicio": "2026-08-23T00:00:00",
+      "fin": "2026-08-23T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "+Info Sábado",
+      "descripcion": "La mejor información del fin de semana de la mano de Pablo Corso.",
+      "inicio": "2026-08-23T03:00:00",
+      "fin": "2026-08-23T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hambre de futuro",
+      "descripcion": "La periodista Micaela Urdinez recorre el país para conocer las realidades y los sueños de los niños que viven en las comunidades más vulnerables.",
+      "inicio": "2026-08-23T05:00:00",
+      "fin": "2026-08-23T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
