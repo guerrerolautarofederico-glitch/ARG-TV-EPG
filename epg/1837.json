@@ -1,81 +1,123 @@
 {
   "actual": {
-    "titulo": "Cloroformo",
-    "descripcion": "Un gimnasio de box en México. Un lugar que nos sirve como punto de encuentro para explorar la vida de cada uno de los personajes: sus sueños, sus ilusiones, sus triunfos, sus derrotas, tanto arriba como abajo del ring.",
-    "inicio": "2026-08-23T04:10:00",
-    "fin": "2026-08-23T08:05:00",
+    "titulo": "Mujer, casos de la vida real",
+    "descripcion": "Relatos enviados por el público y seleccionados por Silvia Pinal, para ser dramatizados para su transmisión por artistas de primer orden. Por lo general tratan problemas relacionados con la mujer.",
+    "inicio": "2026-08-24T05:20:00",
+    "fin": "2026-08-24T07:10:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Sabor a mí",
-    "descripcion": "La vida del compositor oaxaqueño Álvaro Carrillo comienza a relatarse desde sus épocas escolares, vida sentimental, romances, hasta su exitoso arribo al mundo artístico, el cual es afectado por su problema de alcoholismo.",
-    "inicio": "2026-08-23T08:05:00",
-    "fin": "2026-08-23T08:30:00",
+    "titulo": "La rosa de Guadalupe",
+    "descripcion": "La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros. Una rosa blanca aparecerá como símbolo de las peticiones, que el personaje o protagonista invocará, siempre ante la imagen de ella.",
+    "inicio": "2026-08-24T07:10:00",
+    "fin": "2026-08-24T08:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Cloroformo",
-      "descripcion": "Un gimnasio de box en México. Un lugar que nos sirve como punto de encuentro para explorar la vida de cada uno de los personajes: sus sueños, sus ilusiones, sus triunfos, sus derrotas, tanto arriba como abajo del ring.",
-      "inicio": "2026-08-23T04:10:00",
-      "fin": "2026-08-23T08:05:00",
+      "titulo": "Mujer, casos de la vida real",
+      "descripcion": "Relatos enviados por el público y seleccionados por Silvia Pinal, para ser dramatizados para su transmisión por artistas de primer orden. Por lo general tratan problemas relacionados con la mujer.",
+      "inicio": "2026-08-24T05:20:00",
+      "fin": "2026-08-24T07:10:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Sabor a mí",
-      "descripcion": "La vida del compositor oaxaqueño Álvaro Carrillo comienza a relatarse desde sus épocas escolares, vida sentimental, romances, hasta su exitoso arribo al mundo artístico, el cual es afectado por su problema de alcoholismo.",
-      "inicio": "2026-08-23T08:05:00",
-      "fin": "2026-08-23T08:30:00",
+      "titulo": "La rosa de Guadalupe",
+      "descripcion": "La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros. Una rosa blanca aparecerá como símbolo de las peticiones, que el personaje o protagonista invocará, siempre ante la imagen de ella.",
+      "inicio": "2026-08-24T07:10:00",
+      "fin": "2026-08-24T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las noticias",
+      "descripcion": "Te presentamos las últimas informaciones de México y del mundo, entrevistas, fotos, videos, reportajes, coberturas, blogs e información actual.",
+      "inicio": "2026-08-24T08:00:00",
+      "fin": "2026-08-24T08:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Hoy voy a cambiar • Biográfico",
       "descripcion": "Biográfico | Cuenta la vida de Lupita D'Alessio, mujer que con su voz privilegiada alcanzó el éxito y la fama, pero también vivió diversos pasajes conflictivos y doloroso.",
-      "inicio": "2026-08-23T08:30:00",
-      "fin": "2026-08-23T21:20:00",
+      "inicio": "2026-08-24T08:30:00",
+      "fin": "2026-08-24T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Despierta",
+      "descripcion": "Un espacio que invita a debatir a los que piensan distinto, junto a entrevistas a los protagonistas de la noticia. Al mismo tiempo, ofrece investigaciones y análisis sobre lo más relevante del acontecer nacional e internacional.",
+      "inicio": "2026-08-24T21:00:00",
+      "fin": "2026-08-24T21:20:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Como dice el dicho",
       "descripcion": "Espacio en el que se darán a conocer historias conmovedoras y divertidas con una fórmula muy peculiar: llevan los dichos más populares de nuestro país a la televisión.",
-      "inicio": "2026-08-23T21:20:00",
-      "fin": "2026-08-23T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El metiche",
-      "descripcion": "Su curiosidad lo ha llevado a ser testigo de un crimen, ahora la mafia quiere callarlo y la policía cuestionarlo.",
-      "inicio": "2026-08-23T22:00:00",
-      "fin": "2026-08-23T22:10:00",
+      "inicio": "2026-08-24T21:20:00",
+      "fin": "2026-08-24T22:10:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "La rosa de Guadalupe, relatos de impacto",
       "descripcion": "Observa los relatos más polémicos, sorprendentes, crudos y reales de esta serie, donde te presentamos historias impactantes y llenas de esperanza para que tomes lo mejor de cada una de ellas.",
-      "inicio": "2026-08-23T22:10:00",
-      "fin": "2026-08-24T00:00:00",
+      "inicio": "2026-08-24T22:10:00",
+      "fin": "2026-08-24T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Como dice el dicho",
+      "descripcion": "Espacio en el que se darán a conocer historias conmovedoras y divertidas con una fórmula muy peculiar: llevan los dichos más populares de nuestro país a la televisión.",
+      "inicio": "2026-08-24T23:00:00",
+      "fin": "2026-08-24T23:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El renacer de Luna",
+      "descripcion": "Maya se divorcia de su violento esposo Pancho Cadena y encuentra apoyo y esperanza de un nuevo amor en Sebastián. Juntos enfrentan las intrigas de Pancho y Dalila que amenazan con separarlos.",
+      "inicio": "2026-08-24T23:50:00",
+      "fin": "2026-08-25T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Mujer, casos de la vida real",
       "descripcion": "Relatos enviados por el público y seleccionados por Silvia Pinal, para ser dramatizados para su transmisión por artistas de primer orden. Por lo general tratan problemas relacionados con la mujer.",
-      "inicio": "2026-08-24T00:00:00",
-      "fin": "2026-08-24T01:10:00",
+      "inicio": "2026-08-25T00:00:00",
+      "fin": "2026-08-25T00:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La rosa de Guadalupe",
+      "descripcion": "La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros. Una rosa blanca aparecerá como símbolo de las peticiones, que el personaje o protagonista invocará, siempre ante la imagen de ella.",
+      "inicio": "2026-08-25T00:40:00",
+      "fin": "2026-08-25T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tan cerca de ti, nace el amor",
+      "descripcion": "Después de un accidente que deja huérfanos a cuatro hermanos, Joaquín se convierte en su tutor legal. Verónica es la verdadera madre de uno de los niños, por lo que asume una nueva identidad para acercarse a la familia de Joaquín.",
+      "inicio": "2026-08-25T01:30:00",
+      "fin": "2026-08-25T02:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi rival",
+      "descripcion": "La relación entre una madre soltera y su hija adulta se desmorona cuando ambas mujeres se enamoran del mismo hombre. ¿Podrá su familia soportar una rivalidad romántica? ¿O están condenados a estar en desacuerdo por el resto de sus vidas?",
+      "inicio": "2026-08-25T02:20:00",
+      "fin": "2026-08-25T03:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Como dice el dicho",
+      "descripcion": "Espacio en el que se darán a conocer historias conmovedoras y divertidas con una fórmula muy peculiar: llevan los dichos más populares de nuestro país a la televisión.",
+      "inicio": "2026-08-25T03:10:00",
+      "fin": "2026-08-25T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "El Chavo del 8",
       "descripcion": "Las vivencias de un grupo de personas que habitan en una vecindad mexicana, donde el Chavo junto con sus amigos, llevan a cabo travesuras que ocasionan malentendidos y discusiones entre los mismos vecinos.",
-      "inicio": "2026-08-24T01:10:00",
-      "fin": "2026-08-24T04:10:00",
+      "inicio": "2026-08-25T04:00:00",
+      "fin": "2026-08-25T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
-    },
-    {
-      "titulo": "Cloroformo",
-      "descripcion": "Un gimnasio de box en México. Un lugar que nos sirve como punto de encuentro para explorar la vida de cada uno de los personajes: sus sueños, sus ilusiones, sus triunfos, sus derrotas, tanto arriba como abajo del ring.",
-      "inicio": "2026-08-24T04:10:00",
-      "fin": "2026-08-24T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

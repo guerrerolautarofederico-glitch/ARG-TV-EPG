@@ -1,262 +1,157 @@
 {
   "actual": {
-    "titulo": "Aquí no hay quien viva",
-    "descripcion": "Comedia que se basa en las aventuras y desventuras que surgen en una loca comunidad de vecinos que viven en un pequeño edificio de tres pisos de la calle Desengaño 21.",
-    "inicio": "2026-08-23T05:00:00",
-    "fin": "2026-08-23T08:00:00",
+    "titulo": "Espejo público",
+    "descripcion": "Reportajes sobre temas variados que atañen a diferentes clases sociales, noticias de interés público que están haciendo parte de los titulares en los medios de comunicación, las mejores entrevistas políticas, son una parte de este magazín informativo que ha estado vigente por más de una década. El programa además incluye investigaciones especiales de toda índole y analiza las problemáticas de forma profunda y desde un punto de vista objetivo, se incluye un segmento con las quejas y denuncias del público y se comentan las opiniones de la audiencia televidente que sigue al programa, la cual se conecta directamente por medio de la página web de forma dinámica.",
+    "inicio": "2026-08-24T02:55:00",
+    "fin": "2026-08-24T07:29:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Cocina abierta",
+    "titulo": "Cocina abierta de Karlos Arguiñano",
     "descripcion": "Karlos Arguiñano ofrece diversión e innovación para que comer cada día no sea una tarea monótona. Los niños son los que dan más guerra a la hora de comer, por eso Arguiñano no se olvidará de ellos y propondrá platos divertidos para sus paladares.",
-    "inicio": "2026-08-23T08:00:00",
-    "fin": "2026-08-23T08:30:00",
+    "inicio": "2026-08-24T07:29:00",
+    "fin": "2026-08-24T09:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Aquí no hay quien viva",
-      "descripcion": "Comedia que se basa en las aventuras y desventuras que surgen en una loca comunidad de vecinos que viven en un pequeño edificio de tres pisos de la calle Desengaño 21.",
-      "inicio": "2026-08-23T05:00:00",
-      "fin": "2026-08-23T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cocina abierta",
-      "descripcion": "Karlos Arguiñano ofrece diversión e innovación para que comer cada día no sea una tarea monótona. Los niños son los que dan más guerra a la hora de comer, por eso Arguiñano no se olvidará de ellos y propondrá platos divertidos para sus paladares.",
-      "inicio": "2026-08-23T08:00:00",
-      "fin": "2026-08-23T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cocina abierta de Karlos Arguiñano",
-      "descripcion": "Karlos Arguiñano ofrece diversión e innovación para que comer cada día no sea una tarea monótona. Los niños son los que dan más guerra a la hora de comer, por eso Arguiñano no se olvidará de ellos y propondrá platos divertidos para sus paladares.",
-      "inicio": "2026-08-23T08:30:00",
-      "fin": "2026-08-23T08:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Todas las noticias de actualidad del acontecer español e internacional.",
-      "inicio": "2026-08-23T08:59:00",
-      "fin": "2026-08-23T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Todas las noticias de actualidad del acontecer español e internacional.",
-      "inicio": "2026-08-23T09:00:00",
-      "fin": "2026-08-23T09:38:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Deportes",
-      "descripcion": "Sección de noticias relacionadas con el mundo del deporte.",
-      "inicio": "2026-08-23T09:38:00",
-      "fin": "2026-08-23T09:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Una nueva manera de ver la información meteorológica. Previsiones del tiempo de una forma sencilla y amena.",
-      "inicio": "2026-08-23T09:40:00",
-      "fin": "2026-08-23T09:44:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Centímetros cúbicos",
-      "descripcion": "Expertos en motor traen entrevistas, reportajes de seguridad vial, las nuevas tecnologías y pruebas a fondo con autos excepcionales.",
-      "inicio": "2026-08-23T09:44:00",
-      "fin": "2026-08-23T09:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Centímetros cúbicos",
-      "descripcion": "Expertos en motor traen entrevistas, reportajes de seguridad vial, las nuevas tecnologías y pruebas a fondo con autos excepcionales.",
-      "inicio": "2026-08-23T09:45:00",
-      "fin": "2026-08-23T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El hormiguero",
-      "descripcion": "Presentado por Pablo Motos, en colaboración con las marionetas Trancas, Barrancas y Petancas, este espacio trae hasta tu pantalla el mejor entretenimiento, con interesantes contenidos que giran alrededor del humor, la magia, entrevistas y los experimentos de divulgación científica.",
-      "inicio": "2026-08-23T10:00:00",
-      "fin": "2026-08-23T10:14:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El hormiguero",
-      "descripcion": "Presentado por Pablo Motos, en colaboración con las marionetas Trancas, Barrancas y Petancas, este espacio trae hasta tu pantalla el mejor entretenimiento, con interesantes contenidos que giran alrededor del humor, la magia, entrevistas y los experimentos de divulgación científica.",
-      "inicio": "2026-08-23T10:14:00",
-      "fin": "2026-08-23T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Frontón",
-      "descripcion": "Los comienzos modestos de cinco peloteros dispuestos a conservar el deporte.",
-      "inicio": "2026-08-23T11:00:00",
-      "fin": "2026-08-23T11:14:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Equipo de investigación",
-      "descripcion": "Un equipo de periodistas, encabezados por Gloria Serra, conducen reportajes sobre diversos temas de interés social.",
-      "inicio": "2026-08-23T11:14:00",
-      "fin": "2026-08-23T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Starlite 2025",
-      "descripcion": "Starlite es música, espectáculo, experiencia y sensaciones: es una reunión de artistas nacionales e internacionales.",
-      "inicio": "2026-08-23T12:00:00",
-      "fin": "2026-08-23T12:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Starlite 2026",
-      "descripcion": "Starlite 2026 reúne a artistas nacionales e internacionales en una edición única. Maroon 5, Ozuna, Juan Luis Guerra, Lenny Kravitz, Anastacia, Tom Jones y Scorpions encabezan un cartel de excepción.",
-      "inicio": "2026-08-23T12:15:00",
-      "fin": "2026-08-23T12:47:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El club de la comedia",
-      "descripcion": "Un espacio de sketches, monólogos y confesiones cargadas de humor.",
-      "inicio": "2026-08-23T12:47:00",
-      "fin": "2026-08-23T13:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elclubdelacomedia.jpg"
-    },
-    {
-      "titulo": "El club de la comedia",
-      "descripcion": "Un espacio de sketches, monólogos y confesiones cargadas de humor.",
-      "inicio": "2026-08-23T13:10:00",
-      "fin": "2026-08-23T13:57:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elclubdelacomedia.jpg"
-    },
-    {
-      "titulo": "Hoteles con encanto",
-      "descripcion": "Un programa que muestra las particularidades que diferencian a un hotel de otro.",
-      "inicio": "2026-08-23T13:57:00",
-      "fin": "2026-08-23T14:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hoteles con encanto",
-      "descripcion": "Un programa que muestra las particularidades que diferencian a un hotel de otro.",
-      "inicio": "2026-08-23T14:10:00",
-      "fin": "2026-08-23T14:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Todas las noticias de actualidad del acontecer español e internacional.",
-      "inicio": "2026-08-23T14:59:00",
-      "fin": "2026-08-23T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Todas las noticias de actualidad del acontecer español e internacional.",
-      "inicio": "2026-08-23T15:00:00",
-      "fin": "2026-08-23T15:43:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Deportes",
-      "descripcion": "Sección de noticias relacionadas con el mundo del deporte.",
-      "inicio": "2026-08-23T15:43:00",
-      "fin": "2026-08-23T15:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Una nueva manera de ver la información meteorológica. Previsiones del tiempo de una forma sencilla y amena.",
-      "inicio": "2026-08-23T15:45:00",
-      "fin": "2026-08-23T15:48:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Cocina abierta de Karlos Arguiñano",
-      "descripcion": "Karlos Arguiñano ofrece diversión e innovación para que comer cada día no sea una tarea monótona. Los niños son los que dan más guerra a la hora de comer, por eso Arguiñano no se olvidará de ellos y propondrá platos divertidos para sus paladares.",
-      "inicio": "2026-08-23T15:48:00",
-      "fin": "2026-08-23T16:17:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Beguinas",
-      "descripcion": "Lucía se presenta en un beguinaje tras un mensaje de su madre. Por lo que se cuestiona su vida anterior y conocerá el amor a través de una pasión pura, pero prohibida.",
-      "inicio": "2026-08-23T16:17:00",
-      "fin": "2026-08-23T16:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Beguinas",
-      "descripcion": "Lucía se presenta en un beguinaje tras un mensaje de su madre. Por lo que se cuestiona su vida anterior y conocerá el amor a través de una pasión pura, pero prohibida.",
-      "inicio": "2026-08-23T16:45:00",
-      "fin": "2026-08-23T17:21:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sueños de libertad",
-      "descripcion": "Begoña Montes es una mujer que vive atrapada en un matrimonio tóxico y busca la ansiada libertad en la España de 1958. Amor, rivalidad, familia, amistad, duelos de clases y, una historia optimista y esperanzadora.",
-      "inicio": "2026-08-23T17:21:00",
-      "fin": "2026-08-23T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Salta!",
-      "descripcion": "Los concursantes deben cruzar un puente de 40 metros de largo mientras responden correctamente a diferentes preguntas. Con ello, suman dinero pudiendo obtener el premio máximo de 50 000 euros.",
-      "inicio": "2026-08-23T18:00:00",
-      "fin": "2026-08-23T18:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Salta!",
-      "descripcion": "Los concursantes deben cruzar un puente de 40 metros de largo mientras responden correctamente a diferentes preguntas. Con ello, suman dinero pudiendo obtener el premio máximo de 50 000 euros.",
-      "inicio": "2026-08-23T18:25:00",
-      "fin": "2026-08-23T20:14:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pasapalabra",
-      "descripcion": "El mítico concurso regresa, renovado de la mano de Roberto Leal. Uno de los puntos fuertes del concurso son los invitados, que ayudan a los concursantes a conseguir el mayor número de segundos posible para la prueba final.",
-      "inicio": "2026-08-23T20:14:00",
-      "fin": "2026-08-23T21:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El hormiguero",
-      "descripcion": "Presentado por Pablo Motos, en colaboración con las marionetas Trancas, Barrancas y Petancas, este espacio trae hasta tu pantalla el mejor entretenimiento, con interesantes contenidos que giran alrededor del humor, la magia, entrevistas y los experimentos de divulgación científica.",
-      "inicio": "2026-08-23T21:15:00",
-      "fin": "2026-08-23T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Éxtasis",
-      "descripcion": "Tres jóvenes tienen la intención de robar a sus respectivas familias para financiar un restaurante.",
-      "inicio": "2026-08-23T22:30:00",
-      "fin": "2026-08-24T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Zapeando",
-      "descripcion": "Se abordan temas de interés en las redes sociales, comentarios, divertidos montajes, y por supuesto, videos de zapping.",
-      "inicio": "2026-08-24T01:00:00",
-      "fin": "2026-08-24T02:28:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias de la mañana",
-      "descripcion": "Informativo del día que resume la actualidad de España y el mundo.",
-      "inicio": "2026-08-24T02:28:00",
-      "fin": "2026-08-24T02:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Espejo público",
       "descripcion": "Reportajes sobre temas variados que atañen a diferentes clases sociales, noticias de interés público que están haciendo parte de los titulares en los medios de comunicación, las mejores entrevistas políticas, son una parte de este magazín informativo que ha estado vigente por más de una década. El programa además incluye investigaciones especiales de toda índole y analiza las problemáticas de forma profunda y desde un punto de vista objetivo, se incluye un segmento con las quejas y denuncias del público y se comentan las opiniones de la audiencia televidente que sigue al programa, la cual se conecta directamente por medio de la página web de forma dinámica.",
       "inicio": "2026-08-24T02:55:00",
       "fin": "2026-08-24T07:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cocina abierta de Karlos Arguiñano",
+      "descripcion": "Karlos Arguiñano ofrece diversión e innovación para que comer cada día no sea una tarea monótona. Los niños son los que dan más guerra a la hora de comer, por eso Arguiñano no se olvidará de ellos y propondrá platos divertidos para sus paladares.",
+      "inicio": "2026-08-24T07:29:00",
+      "fin": "2026-08-24T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Zapeando",
+      "descripcion": "Se abordan temas de interés en las redes sociales, comentarios, divertidos montajes, y por supuesto, videos de zapping.",
+      "inicio": "2026-08-24T09:00:00",
+      "fin": "2026-08-24T10:28:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias de la mañana",
+      "descripcion": "Informativo del día que resume la actualidad de España y el mundo.",
+      "inicio": "2026-08-24T10:28:00",
+      "fin": "2026-08-24T10:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espejo público",
+      "descripcion": "Reportajes sobre temas variados que atañen a diferentes clases sociales, noticias de interés público que están haciendo parte de los titulares en los medios de comunicación, las mejores entrevistas políticas, son una parte de este magazín informativo que ha estado vigente por más de una década. El programa además incluye investigaciones especiales de toda índole y analiza las problemáticas de forma profunda y desde un punto de vista objetivo, se incluye un segmento con las quejas y denuncias del público y se comentan las opiniones de la audiencia televidente que sigue al programa, la cual se conecta directamente por medio de la página web de forma dinámica.",
+      "inicio": "2026-08-24T10:55:00",
+      "fin": "2026-08-24T15:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cocina abierta de Karlos Arguiñano",
+      "descripcion": "Karlos Arguiñano ofrece diversión e innovación para que comer cada día no sea una tarea monótona. Los niños son los que dan más guerra a la hora de comer, por eso Arguiñano no se olvidará de ellos y propondrá platos divertidos para sus paladares.",
+      "inicio": "2026-08-24T15:29:00",
+      "fin": "2026-08-24T15:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El hormiguero",
+      "descripcion": "Presentado por Pablo Motos, en colaboración con las marionetas Trancas, Barrancas y Petancas, este espacio trae hasta tu pantalla el mejor entretenimiento, con interesantes contenidos que giran alrededor del humor, la magia, entrevistas y los experimentos de divulgación científica.",
+      "inicio": "2026-08-24T15:55:00",
+      "fin": "2026-08-24T16:58:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Todas las noticias de actualidad del acontecer español e internacional.",
+      "inicio": "2026-08-24T16:58:00",
+      "fin": "2026-08-24T17:33:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Deportes",
+      "descripcion": "Sección de noticias relacionadas con el mundo del deporte.",
+      "inicio": "2026-08-24T17:33:00",
+      "fin": "2026-08-24T17:36:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espejo público",
+      "descripcion": "Reportajes sobre temas variados que atañen a diferentes clases sociales, noticias de interés público que están haciendo parte de los titulares en los medios de comunicación, las mejores entrevistas políticas, son una parte de este magazín informativo que ha estado vigente por más de una década. El programa además incluye investigaciones especiales de toda índole y analiza las problemáticas de forma profunda y desde un punto de vista objetivo, se incluye un segmento con las quejas y denuncias del público y se comentan las opiniones de la audiencia televidente que sigue al programa, la cual se conecta directamente por medio de la página web de forma dinámica.",
+      "inicio": "2026-08-24T17:36:00",
+      "fin": "2026-08-24T21:32:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tu Tiempo con Roberto Brasero",
+      "descripcion": "Una nueva manera de ver la información meteorológica. Previsiones del tiempo de una forma sencilla y amena.",
+      "inicio": "2026-08-24T21:32:00",
+      "fin": "2026-08-24T21:34:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cocina abierta de Karlos Arguiñano",
+      "descripcion": "Karlos Arguiñano ofrece diversión e innovación para que comer cada día no sea una tarea monótona. Los niños son los que dan más guerra a la hora de comer, por eso Arguiñano no se olvidará de ellos y propondrá platos divertidos para sus paladares.",
+      "inicio": "2026-08-24T21:34:00",
+      "fin": "2026-08-24T22:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pasapalabra",
+      "descripcion": "El mítico concurso regresa, renovado de la mano de Roberto Leal. Uno de los puntos fuertes del concurso son los invitados, que ayudan a los concursantes a conseguir el mayor número de segundos posible para la prueba final.",
+      "inicio": "2026-08-24T22:02:00",
+      "fin": "2026-08-24T23:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Todas las noticias de actualidad del acontecer español e internacional.",
+      "inicio": "2026-08-24T23:05:00",
+      "fin": "2026-08-24T23:37:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Deportes",
+      "descripcion": "Sección de noticias relacionadas con el mundo del deporte.",
+      "inicio": "2026-08-24T23:37:00",
+      "fin": "2026-08-24T23:42:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "YAS Verano",
+      "descripcion": "Espacio de actualidad con los mejores invitados en el estudio para comentar las noticias del día.",
+      "inicio": "2026-08-24T23:42:00",
+      "fin": "2026-08-25T02:18:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sueños de libertad",
+      "descripcion": "Begoña Montes es una mujer que vive atrapada en un matrimonio tóxico y busca la ansiada libertad en la España de 1958. Amor, rivalidad, familia, amistad, duelos de clases y, una historia optimista y esperanzadora.",
+      "inicio": "2026-08-25T02:18:00",
+      "fin": "2026-08-25T03:19:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La ruleta de la suerte",
+      "descripcion": "Una de las versiones españolas del programa de concurso clásico norteamericano de gran acogida que se inició en los años setenta, titulado \"Wheel of Fortune\" o la \"Ruleta de la fortuna\" en español. Este formato se ha realizado en más de 25 países y se ha extendido al público internacional. Los concursantes deben adivinar oraciones sobre temas variados, llenando los vacíos con letras adivinadas que ellos enuncian, el que adivine una letra perteneciente a la frase gana un premio monetario y el premio se incrementa si adivina la frase completa. Se realizan varias rondas, en la que se incrementa la dificultad y la complejidad de los temas que se abordan.",
+      "inicio": "2026-08-25T03:19:00",
+      "fin": "2026-08-25T04:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pasapalabra",
+      "descripcion": "El mítico concurso regresa, renovado de la mano de Roberto Leal. Uno de los puntos fuertes del concurso son los invitados, que ayudan a los concursantes a conseguir el mayor número de segundos posible para la prueba final.",
+      "inicio": "2026-08-25T04:23:00",
+      "fin": "2026-08-25T05:16:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El hormiguero",
+      "descripcion": "Presentado por Pablo Motos, en colaboración con las marionetas Trancas, Barrancas y Petancas, este espacio trae hasta tu pantalla el mejor entretenimiento, con interesantes contenidos que giran alrededor del humor, la magia, entrevistas y los experimentos de divulgación científica.",
+      "inicio": "2026-08-25T05:16:00",
+      "fin": "2026-08-25T06:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

@@ -1,122 +1,101 @@
 {
   "actual": {
-    "titulo": "El baúl de Charlie López",
-    "descripcion": "Un programa que se enfoca en revivir grandes clásicos de la música, el cine y la televisión, así como objetos y lugares que marcaron generaciones.",
-    "inicio": "2026-08-23T05:00:00",
-    "fin": "2026-08-23T05:30:00",
+    "titulo": "TN de 6 a 10",
+    "descripcion": "Noticiero de la mañana con toda la información para empezar el día bien informado. Móviles en vivo, estado del tránsito, meteorología, actualidad, deportes, espectáculos, información internacional y mucho más.",
+    "inicio": "2026-08-24T05:00:00",
+    "fin": "2026-08-24T09:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "TN Campo",
-    "descripcion": "Toda la información sobre el campo y los agronegocios.",
-    "inicio": "2026-08-23T05:30:00",
-    "fin": "2026-08-23T06:00:00",
+    "titulo": "TN de 10 a 13",
+    "descripcion": "De lunes a viernes, todas las noticias del día y móviles en vivo desde el lugar de los hechos.",
+    "inicio": "2026-08-24T09:00:00",
+    "fin": "2026-08-24T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "El baúl de Charlie López",
-      "descripcion": "Un programa que se enfoca en revivir grandes clásicos de la música, el cine y la televisión, así como objetos y lugares que marcaron generaciones.",
-      "inicio": "2026-08-23T05:00:00",
-      "fin": "2026-08-23T05:30:00",
+      "titulo": "TN de 6 a 10",
+      "descripcion": "Noticiero de la mañana con toda la información para empezar el día bien informado. Móviles en vivo, estado del tránsito, meteorología, actualidad, deportes, espectáculos, información internacional y mucho más.",
+      "inicio": "2026-08-24T05:00:00",
+      "fin": "2026-08-24T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "TN Campo",
-      "descripcion": "Toda la información sobre el campo y los agronegocios.",
-      "inicio": "2026-08-23T05:30:00",
-      "fin": "2026-08-23T06:00:00",
+      "titulo": "TN de 10 a 13",
+      "descripcion": "De lunes a viernes, todas las noticias del día y móviles en vivo desde el lugar de los hechos.",
+      "inicio": "2026-08-24T09:00:00",
+      "fin": "2026-08-24T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "TN Fin de semana",
-      "descripcion": "Toda la información del fin de semana.",
-      "inicio": "2026-08-23T06:00:00",
-      "fin": "2026-08-23T12:00:00",
+      "titulo": "Nuestra tarde",
+      "descripcion": "Un ciclo lleno de información, opinión, humor, columnistas, pero también con una manera diferente de atravesar los temas más calientes del momento.",
+      "inicio": "2026-08-24T12:00:00",
+      "fin": "2026-08-24T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "TN Deportivo a las 13",
-      "descripcion": "La información más variada en el ámbito de las competencias está aquí, en este espacio dedicado a llevarte lo mejor del deporte nacional e internacional.",
-      "inicio": "2026-08-23T12:00:00",
-      "fin": "2026-08-23T13:00:00",
+      "titulo": "Hablemos de esto",
+      "descripcion": "Una nueva propuesta, con toda la información de último momento, pero también la pausa para el análisis profundo de los temas más candentes de la actualidad.",
+      "inicio": "2026-08-24T14:00:00",
+      "fin": "2026-08-24T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "TN autos • Automovilismo",
-      "descripcion": "Automovilismo | Programa dedicado al mundo del automóvil, con exigentes test drives, nuevas tecnologías, seguridad y novedades del mercado nacional e internacional.",
-      "inicio": "2026-08-23T13:00:00",
-      "fin": "2026-08-23T13:30:00",
+      "titulo": "Está pasando",
+      "descripcion": "Un noticiero informativo con todo lo que tenés que saber para volver a casa: el tránsito, clima, cortes.",
+      "inicio": "2026-08-24T16:00:00",
+      "fin": "2026-08-24T17:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Con bienestar",
-      "descripcion": "La información más novedosa en salud, innovaciones científicas y los más importantes referentes de la vida sana. Todos los avances para alcanzar una mejor salud derivada de las interacciones entre humanos, animales y el ambiente.",
-      "inicio": "2026-08-23T13:30:00",
-      "fin": "2026-08-23T14:00:00",
+      "titulo": "TN Central",
+      "descripcion": "El resumen completo de los temas que impactaron en el día y el anticipo de los títulos de los diarios del día siguiente. Todo lo que ocurrió en el país y en el mundo. Móviles en vivo para saber qué está pasando al instante.",
+      "inicio": "2026-08-24T17:00:00",
+      "fin": "2026-08-24T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "TN Campo",
-      "descripcion": "Toda la información sobre el campo y los agronegocios.",
-      "inicio": "2026-08-23T14:00:00",
-      "fin": "2026-08-23T14:30:00",
+      "titulo": "¿La ves?",
+      "descripcion": "Un análisis de la actualidad junto a Jonatan Viale, con entrevistas con los personajes del día y toda la información para abrir los ojos bien grandes a la realidad.",
+      "inicio": "2026-08-24T19:00:00",
+      "fin": "2026-08-24T20:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Buena semana",
-      "descripcion": "Cambiale la cara al domingo con informes especiales y toda la actualidad.",
-      "inicio": "2026-08-23T14:30:00",
-      "fin": "2026-08-23T19:00:00",
+      "titulo": "Solo una vuelta más",
+      "descripcion": "Programa de opinión y debate de los temas de actualidad, en el que la palabra circula y hay lugar para profundizar la escucha y el análisis. Se propone una conversación seria sobre los temas que nos preocupan, pero sin perder el humor.",
+      "inicio": "2026-08-24T20:30:00",
+      "fin": "2026-08-24T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "TN de noche - Domingo",
-      "descripcion": "El resumen de los sucesos más impactantes e importantes del acontecer diario. Temas políticos, económicos, de nuevas tecnologías, culturales y de espectáculos son presentados para que te mantengas actualizado al instante.",
-      "inicio": "2026-08-23T19:00:00",
-      "fin": "2026-08-23T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¿Y mañana qué?",
-      "descripcion": "Un espacio que te va a dar las claves para entender lo que pasó y prepararte para lo que vendrá sin formalismos y con la mejor onda.",
-      "inicio": "2026-08-23T21:00:00",
-      "fin": "2026-08-23T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TN Deportivo especial",
-      "descripcion": "Espacio para hablar de deportes, donde te podrás enterar de los acontecimientos más importantes en el ámbito de las competencias en la actualidad.",
-      "inicio": "2026-08-23T22:00:00",
-      "fin": "2026-08-23T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En el camino",
-      "descripcion": "Un diario de viajes que nos permite llegar hasta lo más profundo de la Argentina para conocer sus raíces y su gente. Relatos sorprendentes. Cada capítulo tiene un sólo destino: la búsqueda de nuestra identidad.",
-      "inicio": "2026-08-23T22:30:00",
-      "fin": "2026-08-23T23:00:00",
+      "titulo": "TN de noche",
+      "descripcion": "El resumen de los sucesos más impactantes e importantes del acontecer diario. Temas políticos, económicos, de nuevas tecnologías, culturales y de espectáculos son presentados para que te mantengas actualizado.",
+      "inicio": "2026-08-24T22:00:00",
+      "fin": "2026-08-25T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Re despiertos",
       "descripcion": "Podrás ver las últimas tendencias en redes sociales, la data de los principales portales y cámaras web en distintas partes del mundo. Además, habrá música, deportes, espectáculos, turismo, cocina y por supuesto la mejor compañía.",
-      "inicio": "2026-08-23T23:00:00",
-      "fin": "2026-08-24T00:00:00",
+      "inicio": "2026-08-25T00:00:00",
+      "fin": "2026-08-25T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TN",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-24T00:00:00",
-      "fin": "2026-08-24T04:00:00",
+      "inicio": "2026-08-25T01:00:00",
+      "fin": "2026-08-25T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TN",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-24T04:00:00",
-      "fin": "2026-08-24T08:00:00",
+      "inicio": "2026-08-25T05:00:00",
+      "fin": "2026-08-25T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
