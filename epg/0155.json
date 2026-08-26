@@ -1,157 +1,66 @@
 {
   "actual": {
-    "titulo": "Cartelera nocturna",
-    "descripcion": "Ciclo con las mejores películas.",
-    "inicio": "2026-08-25T00:30:00",
-    "fin": "2026-08-25T07:30:00",
+    "titulo": "Canal TVU",
+    "descripcion": "La informacion de este programa no se encuentra disponible.",
+    "inicio": "2026-08-26T04:00:00",
+    "fin": "2026-08-26T08:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Portavoz noticias",
-    "descripcion": "Portavoz Noticias emite contenidos 100% regionales, mostrando la realidad que viven las personas en los distintos lugares de Chile. Poniendo en pantalla temas de interés, problemáticas comunes y diversidad territorial y cultural.",
-    "inicio": "2026-08-25T07:30:00",
-    "fin": "2026-08-25T08:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    "titulo": "Canal TVU",
+    "descripcion": "La informacion de este programa no se encuentra disponible.",
+    "inicio": "2026-08-26T08:00:00",
+    "fin": "2026-08-26T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Cartelera nocturna",
-      "descripcion": "Ciclo con las mejores películas.",
-      "inicio": "2026-08-25T00:30:00",
-      "fin": "2026-08-25T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Portavoz noticias",
-      "descripcion": "Portavoz Noticias emite contenidos 100% regionales, mostrando la realidad que viven las personas en los distintos lugares de Chile. Poniendo en pantalla temas de interés, problemáticas comunes y diversidad territorial y cultural.",
-      "inicio": "2026-08-25T07:30:00",
-      "fin": "2026-08-25T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "Nuestra pauta",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-25T08:00:00",
-      "fin": "2026-08-25T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nuestrapauta.jpg"
-    },
-    {
-      "titulo": "Matinal siempre juntos",
-      "descripcion": "Espacio que combina información regional, cultura y entretenimiento.",
-      "inicio": "2026-08-25T09:00:00",
-      "fin": "2026-08-25T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matinalsiemprejuntos.jpg"
-    },
-    {
-      "titulo": "Sin pasajes para el Mundial",
-      "descripcion": "Un programa dedicado a seguir toda la actualidad, historias, figuras y curiosidades del evento deportivo más importante del planeta. Junto a un equipo de expertos, el público podrá disfrutar de análisis y debates.",
-      "inicio": "2026-08-25T12:00:00",
-      "fin": "2026-08-25T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinpasajesparaelmundial.jpg"
-    },
-    {
-      "titulo": "Conversando con la odontología",
-      "descripcion": "Espacio a cargo de profesionales de la Universidad de Concepción que, además de promover activamente el cuidado de la salud bucal, muestran los últimos en avances tecnológicos en materia dental.",
-      "inicio": "2026-08-25T13:00:00",
-      "fin": "2026-08-25T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversandoconlaodontologia.jpg"
-    },
-    {
-      "titulo": "Reportajes DW",
-      "descripcion": "Reporteros de la DW recorren el mundo en busca de historias.",
-      "inicio": "2026-08-25T13:30:00",
-      "fin": "2026-08-25T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Multiversos",
-      "descripcion": "Interesantes conversaciones con más de invitados especiales.",
-      "inicio": "2026-08-25T14:00:00",
-      "fin": "2026-08-25T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/multiversos.jpg"
-    },
-    {
-      "titulo": "CNTV infantil",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-      "inicio": "2026-08-25T15:30:00",
-      "fin": "2026-08-25T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "Siempre juntos",
-      "descripcion": "Un programa que aborda diversos tópicos y recibe a invitados para discutir los temas del día.",
-      "inicio": "2026-08-25T17:30:00",
-      "fin": "2026-08-25T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siemprejuntos.jpg"
-    },
-    {
-      "titulo": "Sin pasajes para el Mundial",
-      "descripcion": "Un programa dedicado a seguir toda la actualidad, historias, figuras y curiosidades del evento deportivo más importante del planeta. Junto a un equipo de expertos, el público podrá disfrutar de análisis y debates.",
-      "inicio": "2026-08-25T19:00:00",
-      "fin": "2026-08-25T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinpasajesparaelmundial.jpg"
-    },
-    {
-      "titulo": "TVU Noticias",
-      "descripcion": "Te presentamos una ventana informativa que contiene detalles de gran importancia sobre los sucesos más relevantes del acontecer diario, un panorama periodístico que cubre la actualidad en la opinión pública.",
-      "inicio": "2026-08-25T20:00:00",
-      "fin": "2026-08-25T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tvunoticias.jpg"
-    },
-    {
-      "titulo": "Portavoz noticias",
-      "descripcion": "Portavoz Noticias emite contenidos 100% regionales, mostrando la realidad que viven las personas en los distintos lugares de Chile. Poniendo en pantalla temas de interés, problemáticas comunes y diversidad territorial y cultural.",
-      "inicio": "2026-08-25T20:30:00",
-      "fin": "2026-08-25T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "Multiversos",
-      "descripcion": "Interesantes conversaciones con más de invitados especiales.",
-      "inicio": "2026-08-25T21:00:00",
-      "fin": "2026-08-25T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/multiversos.jpg"
-    },
-    {
-      "titulo": "TVU Noticias",
-      "descripcion": "Te presentamos una ventana informativa que contiene detalles de gran importancia sobre los sucesos más relevantes del acontecer diario, un panorama periodístico que cubre la actualidad en la opinión pública.",
-      "inicio": "2026-08-25T22:30:00",
-      "fin": "2026-08-25T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tvunoticias.jpg"
-    },
-    {
-      "titulo": "Portavoz noticias",
-      "descripcion": "Portavoz Noticias emite contenidos 100% regionales, mostrando la realidad que viven las personas en los distintos lugares de Chile. Poniendo en pantalla temas de interés, problemáticas comunes y diversidad territorial y cultural.",
-      "inicio": "2026-08-25T23:00:00",
-      "fin": "2026-08-25T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "Sin pasajes para el Mundial",
-      "descripcion": "Un programa dedicado a seguir toda la actualidad, historias, figuras y curiosidades del evento deportivo más importante del planeta. Junto a un equipo de expertos, el público podrá disfrutar de análisis y debates.",
-      "inicio": "2026-08-25T23:30:00",
-      "fin": "2026-08-26T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinpasajesparaelmundial.jpg"
-    },
-    {
       "titulo": "Canal TVU",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-26T00:30:00",
-      "fin": "2026-08-26T01:00:00",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-26T04:00:00",
+      "fin": "2026-08-26T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Canal TVU",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-26T01:00:00",
-      "fin": "2026-08-26T05:00:00",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-26T08:00:00",
+      "fin": "2026-08-26T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Canal TVU",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-26T05:00:00",
-      "fin": "2026-08-26T09:00:00",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-26T12:00:00",
+      "fin": "2026-08-26T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Canal TVU",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-26T16:00:00",
+      "fin": "2026-08-26T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Canal TVU",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-26T20:00:00",
+      "fin": "2026-08-27T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Canal TVU",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-27T00:00:00",
+      "fin": "2026-08-27T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Canal TVU",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-08-27T04:00:00",
+      "fin": "2026-08-27T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
