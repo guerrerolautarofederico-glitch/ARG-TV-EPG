@@ -1,87 +1,108 @@
 {
   "actual": {
-    "titulo": "Está pasando",
-    "descripcion": "Un noticiero informativo con todo lo que tenés que saber para volver a casa: el tránsito, clima, cortes.",
-    "inicio": "2026-08-27T16:00:00",
-    "fin": "2026-08-27T17:00:00",
+    "titulo": "TN Central",
+    "descripcion": "El resumen completo de los temas que impactaron en el día y el anticipo de los títulos de los diarios del día siguiente. Todo lo que ocurrió en el país y en el mundo. Móviles en vivo para saber qué está pasando al instante.",
+    "inicio": "2026-08-28T17:00:00",
+    "fin": "2026-08-28T19:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "TN Central",
-    "descripcion": "El resumen completo de los temas que impactaron en el día y el anticipo de los títulos de los diarios del día siguiente. Todo lo que ocurrió en el país y en el mundo. Móviles en vivo para saber qué está pasando al instante.",
-    "inicio": "2026-08-27T17:00:00",
-    "fin": "2026-08-27T19:00:00",
+    "titulo": "¿La ves?",
+    "descripcion": "Un análisis de la actualidad junto a Jonatan Viale, con entrevistas con los personajes del día y toda la información para abrir los ojos bien grandes a la realidad.",
+    "inicio": "2026-08-28T19:00:00",
+    "fin": "2026-08-28T20:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Está pasando",
-      "descripcion": "Un noticiero informativo con todo lo que tenés que saber para volver a casa: el tránsito, clima, cortes.",
-      "inicio": "2026-08-27T16:00:00",
-      "fin": "2026-08-27T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
       "titulo": "TN Central",
       "descripcion": "El resumen completo de los temas que impactaron en el día y el anticipo de los títulos de los diarios del día siguiente. Todo lo que ocurrió en el país y en el mundo. Móviles en vivo para saber qué está pasando al instante.",
-      "inicio": "2026-08-27T17:00:00",
-      "fin": "2026-08-27T19:00:00",
+      "inicio": "2026-08-28T17:00:00",
+      "fin": "2026-08-28T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "¿La ves?",
       "descripcion": "Un análisis de la actualidad junto a Jonatan Viale, con entrevistas con los personajes del día y toda la información para abrir los ojos bien grandes a la realidad.",
-      "inicio": "2026-08-27T19:00:00",
-      "fin": "2026-08-27T20:30:00",
+      "inicio": "2026-08-28T19:00:00",
+      "fin": "2026-08-28T20:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Solo una vuelta más",
       "descripcion": "Programa de opinión y debate de los temas de actualidad, en el que la palabra circula y hay lugar para profundizar la escucha y el análisis. Se propone una conversación seria sobre los temas que nos preocupan, pero sin perder el humor.",
-      "inicio": "2026-08-27T20:30:00",
-      "fin": "2026-08-27T22:00:00",
+      "inicio": "2026-08-28T20:30:00",
+      "fin": "2026-08-28T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "TN de noche",
-      "descripcion": "El resumen de los sucesos más impactantes e importantes del acontecer diario. Temas políticos, económicos, de nuevas tecnologías, culturales y de espectáculos son presentados para que te mantengas actualizado.",
-      "inicio": "2026-08-27T22:00:00",
-      "fin": "2026-08-28T00:00:00",
+      "titulo": "Fenómenos",
+      "descripcion": "Con los viajes de José Bianco y la presencia en el piso de Matías Bertolotti, el segmento muestra en detalle momentos de los fenómenos meteorológicos más impactantes.",
+      "inicio": "2026-08-28T22:00:00",
+      "fin": "2026-08-28T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Re despiertos",
-      "descripcion": "Podrás ver las últimas tendencias en redes sociales, la data de los principales portales y cámaras web en distintas partes del mundo. Además, habrá música, deportes, espectáculos, turismo, cocina y por supuesto la mejor compañía.",
-      "inicio": "2026-08-28T00:00:00",
-      "fin": "2026-08-28T01:00:00",
+      "titulo": "La viola",
+      "descripcion": "Todos los fines de semana, el rock nacional tiene su lugar en TN, con reportajes a las principales figuras, la cobertura de los recitales y eventos más importantes en nuestro país y la agenda con los eventos de la semana.",
+      "inicio": "2026-08-28T23:00:00",
+      "fin": "2026-08-29T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TN Tecno",
+      "descripcion": "Dos periodistas especializados en te acercan noticias, soluciones, críticas de productos, sitios Web y juegos. Te mostramos lo último, lo nuevo y lo mejor del mundo tecnológico y las recetas para resolver tus problemas digitales.",
+      "inicio": "2026-08-29T00:00:00",
+      "fin": "2026-08-29T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TN extremo Plus",
+      "descripcion": "Disfruta en este segmento de las competencias deportivas más arriesgadas que se practican en todo el mundo, con escenas grabadas en múltiples cámaras de alta definición para que no te pierdas ningún detalle.",
+      "inicio": "2026-08-29T00:30:00",
+      "fin": "2026-08-29T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TN autos • Automovilismo",
+      "descripcion": "Automovilismo | Programa dedicado al mundo del automóvil, con exigentes test drives, nuevas tecnologías, seguridad y novedades del mercado nacional e internacional.",
+      "inicio": "2026-08-29T01:30:00",
+      "fin": "2026-08-29T02:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TN",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-28T01:00:00",
-      "fin": "2026-08-28T05:00:00",
+      "inicio": "2026-08-29T02:30:00",
+      "fin": "2026-08-29T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TN",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-28T05:00:00",
-      "fin": "2026-08-28T09:00:00",
+      "inicio": "2026-08-29T03:00:00",
+      "fin": "2026-08-29T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TN",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-28T09:00:00",
-      "fin": "2026-08-28T13:00:00",
+      "inicio": "2026-08-29T07:00:00",
+      "fin": "2026-08-29T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TN",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-28T13:00:00",
-      "fin": "2026-08-28T17:00:00",
+      "inicio": "2026-08-29T11:00:00",
+      "fin": "2026-08-29T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TN",
+      "descripcion": "A confirmar",
+      "inicio": "2026-08-29T15:00:00",
+      "fin": "2026-08-29T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
