@@ -1,145 +1,19 @@
 {
   "actual": {
-    "titulo": "La Ruta Inmobiliaria",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-08-29T11:00:00",
-    "fin": "2026-08-29T12:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larutainmobiliaria.jpg"
+    "titulo": "Hoja de Ruta",
+    "descripcion": "Espacio de análisis sobre los desafíos económicos, sociales y políticos que enfrenta el país.",
+    "inicio": "2026-08-30T10:00:00",
+    "fin": "2026-08-30T11:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "En-Préndete",
-    "descripcion": "Programa que narra historias notables de emprendedores chilenos.",
-    "inicio": "2026-08-29T12:00:00",
-    "fin": "2026-08-29T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enprendete.jpg"
+    "titulo": "Felipe Podkast",
+    "descripcion": "Conversaciones con invitados sobre actualidad, emprendimiento, política y experiencias de vida.",
+    "inicio": "2026-08-30T11:00:00",
+    "fin": "2026-08-30T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "La Ruta Inmobiliaria",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-29T11:00:00",
-      "fin": "2026-08-29T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larutainmobiliaria.jpg"
-    },
-    {
-      "titulo": "En-Préndete",
-      "descripcion": "Programa que narra historias notables de emprendedores chilenos.",
-      "inicio": "2026-08-29T12:00:00",
-      "fin": "2026-08-29T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enprendete.jpg"
-    },
-    {
-      "titulo": "Carmen Ibáñez conversa con",
-      "descripcion": "Carmen Ibáñez entrevista a figuras prominentes de la política, los negocios y la cultura, ofreciendo conversaciones íntimas sobre sus historias de vida, liderazgo y trayectorias personales.",
-      "inicio": "2026-08-29T13:00:00",
-      "fin": "2026-08-29T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/carmenibanezconversacon.jpg"
-    },
-    {
-      "titulo": "Viajando en el Tiempo",
-      "descripcion": "Un programa que explora los fascinantes sucesos y destinos mundiales para entender el presente.",
-      "inicio": "2026-08-29T14:00:00",
-      "fin": "2026-08-29T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viajandoeneltiempo.jpg"
-    },
-    {
-      "titulo": "Tendencias",
-      "descripcion": "Un espacio de conversación y entretenimiento con todos los tips sobre vida sana, salud, deporte, familia, espectáculos, emprendimientos y mucho más.",
-      "inicio": "2026-08-29T15:00:00",
-      "fin": "2026-08-29T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tendencias.jpg"
-    },
-    {
-      "titulo": "Mujer 360",
-      "descripcion": "Un espacio donde no hay un único rol ni una receta perfecta para ser mujer. Aquí celebramos la diversidad, la autenticidad y todas las facetas de la vida.",
-      "inicio": "2026-08-29T16:00:00",
-      "fin": "2026-08-29T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mujer360.jpg"
-    },
-    {
-      "titulo": "Divina Conexión",
-      "descripcion": "Un espacio para conectar con tu esencia y despertar tu potencial.",
-      "inicio": "2026-08-29T17:00:00",
-      "fin": "2026-08-29T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/divinaconexion.jpg"
-    },
-    {
-      "titulo": "Yo me atrevo",
-      "descripcion": "Conversaciones cercanas, dinámicas y llenas de sorpresas con invitados que están marcando tendencia en el deporte, la música, el arte, la ciencia y el emprendimiento.",
-      "inicio": "2026-08-29T18:00:00",
-      "fin": "2026-08-29T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yomeatrevo.jpg"
-    },
-    {
-      "titulo": "Promin",
-      "descripcion": "Un espacio que busca acercar la industria minera al ciudadano común a través de conversaciones con altos ejecutivos y líderes.",
-      "inicio": "2026-08-29T19:00:00",
-      "fin": "2026-08-29T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ideas y Sociedad",
-      "descripcion": "Un espacio que invita a reflexionar sobre los principios que ordenan la vida pública y las decisiones que marcan el rumbo de Chile.",
-      "inicio": "2026-08-29T20:00:00",
-      "fin": "2026-08-29T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ideasysociedad.jpg"
-    },
-    {
-      "titulo": "Minería y Energía Sustentable",
-      "descripcion": "El programa busca ofrecer una mirada clara, directa y sin filtros sobre uno de los sectores más importantes para Chile: La Minería.",
-      "inicio": "2026-08-29T21:00:00",
-      "fin": "2026-08-29T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mineriayenergiasustentable.jpg"
-    },
-    {
-      "titulo": "En-Préndete",
-      "descripcion": "Programa que narra historias notables de emprendedores chilenos.",
-      "inicio": "2026-08-29T22:00:00",
-      "fin": "2026-08-29T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enprendete.jpg"
-    },
-    {
-      "titulo": "Llegó La Hora",
-      "descripcion": "Llegó la hora de hablar de las noticias contingentes del día, con todo el análisis y entrevistas.",
-      "inicio": "2026-08-29T23:00:00",
-      "fin": "2026-08-30T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/llegolahora.jpg"
-    },
-    {
-      "titulo": "Lo Mejor del día",
-      "descripcion": "Resumen con los momentos más destacados de la programación y las principales noticias de la jornada.",
-      "inicio": "2026-08-30T00:00:00",
-      "fin": "2026-08-30T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lo Mejor del día",
-      "descripcion": "Resumen con los momentos más destacados de la programación y las principales noticias de la jornada.",
-      "inicio": "2026-08-30T06:00:00",
-      "fin": "2026-08-30T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La Palabra De Dios Cuenta La Historia",
-      "descripcion": "Programa que presenta relatos bíblicos y reflexiones sobre la historia y los valores cristianos.",
-      "inicio": "2026-08-30T07:00:00",
-      "fin": "2026-08-30T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La Hora Liberal",
-      "descripcion": "Programa de opinión dedicado al análisis de la actualidad desde una perspectiva liberal.",
-      "inicio": "2026-08-30T08:00:00",
-      "fin": "2026-08-30T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahoraliberal.jpg"
-    },
-    {
-      "titulo": "En Simple, La Pizarra De Pizarro",
-      "descripcion": "Espacio de análisis donde Pizarro utiliza explicaciones didácticas para abordar temas de interés nacional.",
-      "inicio": "2026-08-30T09:00:00",
-      "fin": "2026-08-30T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ensimplelapizarradepizarro.jpg"
-    },
     {
       "titulo": "Hoja de Ruta",
       "descripcion": "Espacio de análisis sobre los desafíos económicos, sociales y políticos que enfrenta el país.",
@@ -153,6 +27,132 @@
       "inicio": "2026-08-30T11:00:00",
       "fin": "2026-08-30T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Con Diálogo Es Distinto",
+      "descripcion": "Programa de entrevistas que fomenta el diálogo abierto y el análisis de la actualidad desde diferentes perspectivas.",
+      "inicio": "2026-08-30T12:00:00",
+      "fin": "2026-08-30T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/condialogoesdistinto.jpg"
+    },
+    {
+      "titulo": "El Radar Con Marcela Cubillos",
+      "descripcion": "Marcela Cubillos analiza la actualidad política y social junto a invitados y expertos.",
+      "inicio": "2026-08-30T13:00:00",
+      "fin": "2026-08-30T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Entre Chile, España Y El Mundo",
+      "descripcion": "Espacio que aborda la actualidad internacional y los vínculos entre Chile, España y otros países.",
+      "inicio": "2026-08-30T14:00:00",
+      "fin": "2026-08-30T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Carmen Ibáñez conversa con",
+      "descripcion": "Espacio de entrevistas donde Carmen Ibáñez dialoga con destacados invitados sobre actualidad, sociedad y experiencias de vida.",
+      "inicio": "2026-08-30T15:00:00",
+      "fin": "2026-08-30T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/carmenibanezconversacon.jpg"
+    },
+    {
+      "titulo": "Historia De Libros Y Banderas",
+      "descripcion": "Espacio de análisis sobre los desafíos económicos, sociales y políticos que enfrenta el país.",
+      "inicio": "2026-08-30T16:00:00",
+      "fin": "2026-08-30T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ideas y Sociedad",
+      "descripcion": "Espacio de reflexión sobre temas sociales, culturales y políticos con invitados especializados.",
+      "inicio": "2026-08-30T17:00:00",
+      "fin": "2026-08-30T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ideasysociedad.jpg"
+    },
+    {
+      "titulo": "Hoja de Ruta",
+      "descripcion": "Espacio de análisis sobre los desafíos económicos, sociales y políticos que enfrenta el país.",
+      "inicio": "2026-08-30T18:00:00",
+      "fin": "2026-08-30T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Felipe Podkast",
+      "descripcion": "Conversaciones con invitados sobre actualidad, emprendimiento, política y experiencias de vida.",
+      "inicio": "2026-08-30T19:00:00",
+      "fin": "2026-08-30T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La Hora Liberal",
+      "descripcion": "Programa de opinión dedicado al análisis de la actualidad desde una perspectiva liberal.",
+      "inicio": "2026-08-30T20:00:00",
+      "fin": "2026-08-30T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahoraliberal.jpg"
+    },
+    {
+      "titulo": "Con Diálogo Es Distinto",
+      "descripcion": "Programa de entrevistas que fomenta el diálogo abierto y el análisis de la actualidad desde diferentes perspectivas.",
+      "inicio": "2026-08-30T21:00:00",
+      "fin": "2026-08-30T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/condialogoesdistinto.jpg"
+    },
+    {
+      "titulo": "El Radar Con Marcela Cubillos",
+      "descripcion": "Marcela Cubillos analiza la actualidad política y social junto a invitados y expertos.",
+      "inicio": "2026-08-30T22:00:00",
+      "fin": "2026-08-30T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En Simple, La Pizarra De Pizarro",
+      "descripcion": "Espacio de análisis donde Pizarro utiliza explicaciones didácticas para abordar temas de interés nacional.",
+      "inicio": "2026-08-30T23:00:00",
+      "fin": "2026-08-31T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ensimplelapizarradepizarro.jpg"
+    },
+    {
+      "titulo": "Lo Mejor del día",
+      "descripcion": "Resumen con los momentos más destacados de la programación y las principales noticias de la jornada.",
+      "inicio": "2026-08-31T00:00:00",
+      "fin": "2026-08-31T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias En Agricultura",
+      "descripcion": "Informativo con cobertura de los principales acontecimientos nacionales e internacionales.",
+      "inicio": "2026-08-31T06:00:00",
+      "fin": "2026-08-31T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticiasenagricultura.jpg"
+    },
+    {
+      "titulo": "Deportes",
+      "descripcion": "Resumen de la actualidad deportiva con noticias, entrevistas y análisis de las principales competencias nacionales e internacionales.",
+      "inicio": "2026-08-31T07:00:00",
+      "fin": "2026-08-31T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La Mañana De Agricultura",
+      "descripcion": "Revista informativa matinal con noticias, entrevistas, análisis y temas de interés nacional e internacional.",
+      "inicio": "2026-08-31T08:00:00",
+      "fin": "2026-08-31T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananadeagricultura.jpg"
+    },
+    {
+      "titulo": "Directo Al Grano",
+      "descripcion": "Programa de opinión que aborda de manera directa los acontecimientos más relevantes de la actualidad nacional.",
+      "inicio": "2026-08-31T09:00:00",
+      "fin": "2026-08-31T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/directoalgrano.jpg"
+    },
+    {
+      "titulo": "La Voz De La Gente",
+      "descripcion": "Programa que da espacio a las opiniones, inquietudes y propuestas de la ciudadanía sobre temas de actualidad.",
+      "inicio": "2026-08-31T10:00:00",
+      "fin": "2026-08-31T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lavozdelagente.jpg"
     }
   ]
 }
