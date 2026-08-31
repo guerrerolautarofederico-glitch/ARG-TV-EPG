@@ -1,123 +1,109 @@
 {
   "actual": {
-    "titulo": "Teletrece a la hora",
-    "descripcion": "Un espacio que ofrece toda la información actual de lo que ocurre a nivel nacional e internacional.",
-    "inicio": "2026-08-30T09:00:00",
-    "fin": "2026-08-30T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecealahora.jpg"
+    "titulo": "Tu día",
+    "descripcion": "En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.",
+    "inicio": "2026-08-31T07:50:00",
+    "fin": "2026-08-31T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tudia.jpg"
   },
   "siguiente": {
-    "titulo": "Mesa central",
-    "descripcion": "Una propuesta que busca generar conversaciones a través del análisis de la contingencia, entrevistas, un rat pack con reporteros que aportarán información dura y golpeadora, y un panel de debate y conversación.",
-    "inicio": "2026-08-30T11:00:00",
-    "fin": "2026-08-30T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mesacentral.jpg"
+    "titulo": "Teletrece tarde",
+    "descripcion": "Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.",
+    "inicio": "2026-08-31T13:00:00",
+    "fin": "2026-08-31T15:20:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
   },
   "lista": [
-    {
-      "titulo": "Teletrece a la hora",
-      "descripcion": "Un espacio que ofrece toda la información actual de lo que ocurre a nivel nacional e internacional.",
-      "inicio": "2026-08-30T09:00:00",
-      "fin": "2026-08-30T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecealahora.jpg"
-    },
-    {
-      "titulo": "Mesa central",
-      "descripcion": "Una propuesta que busca generar conversaciones a través del análisis de la contingencia, entrevistas, un rat pack con reporteros que aportarán información dura y golpeadora, y un panel de debate y conversación.",
-      "inicio": "2026-08-30T11:00:00",
-      "fin": "2026-08-30T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mesacentral.jpg"
-    },
-    {
-      "titulo": "Teletrece tarde",
-      "descripcion": "Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.",
-      "inicio": "2026-08-30T13:00:00",
-      "fin": "2026-08-30T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
-    },
-    {
-      "titulo": "Durmiendo con el enemigo",
-      "descripcion": "Laura y Martin parecen una pareja feliz. Pero la realidad es otra muy distinta. Un día, durante una tormenta, Laura simula su propia muerte en un accidente. Con otra identidad inicia una nueva vida.",
-      "inicio": "2026-08-30T14:30:00",
-      "fin": "2026-08-30T16:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
-    },
-    {
-      "titulo": "Fukushima: Amenaza nuclear",
-      "descripcion": "Un equipo de trabajadores arriesga todo para estabilizar el desastre nuclear de Fukushima.",
-      "inicio": "2026-08-30T16:20:00",
-      "fin": "2026-08-30T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
-    },
-    {
-      "titulo": "Lugares que hablan",
-      "descripcion": "Repetición ║ Francisco Saavedra realiza un viaje especial para conocer la geografía de Chile, su gente y sus tradiciones, mostrando diversas locaciones y lugares que, ya sea por su aislamiento o por simple desconocimiento, no están en boca de muchos. En esta ocasión, se sumerge en las gélidas aguas del extremo sur chileno para llegar a la recóndita localidad de Puerto Edén.",
-      "inicio": "2026-08-30T18:30:00",
-      "fin": "2026-08-30T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lugaresquehablan.jpg"
-    },
-    {
-      "titulo": "Teletrece",
-      "descripcion": "El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.",
-      "inicio": "2026-08-30T21:00:00",
-      "fin": "2026-08-30T22:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrece.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Espacio que trae información meteorológica nacional e internacional, para que te mantengas actualizado del estado del clima en las próximas horas.",
-      "inicio": "2026-08-30T22:40:00",
-      "fin": "2026-08-30T22:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Socios por Chile",
-      "descripcion": "Pancho Saavedra, Jorge Zabaleta y Pedro Ruminot recorren el territorio chileno para descubrir los grandes personajes de la geografía nacional.",
-      "inicio": "2026-08-30T22:50:00",
-      "fin": "2026-08-31T00:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sociosporchile.jpg"
-    },
-    {
-      "titulo": "Socios por el mundo",
-      "descripcion": "Repetición ║ Una aventura intensa, llena de grandes momentos en la que Pancho Saavedra y Jorge Zabaleta visitarán y descubrirán países tan variados y espectaculares como Marruecos, España, Italia y Egipto.",
-      "inicio": "2026-08-31T00:50:00",
-      "fin": "2026-08-31T02:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
-    },
-    {
-      "titulo": "Vecinos al límite: Extra - Lo mejor",
-      "descripcion": "Edición especial con momentos seleccionados que complementan la experiencia del capítulo estreno.",
-      "inicio": "2026-08-31T02:40:00",
-      "fin": "2026-08-31T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
-    },
-    {
-      "titulo": "Tu día",
-      "descripcion": "Repetición ║ En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.",
-      "inicio": "2026-08-31T04:00:00",
-      "fin": "2026-08-31T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tudia.jpg"
-    },
-    {
-      "titulo": "3x3",
-      "descripcion": "Programa infomativo chileno para arrancar las mañanas actualizado que se presenta en un formato libre y distendido. 45 minutos de noticias y diversión para despertarse con buen humor y acompañar los desayunos de una forma distinta.",
-      "inicio": "2026-08-31T05:00:00",
-      "fin": "2026-08-31T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/3x3.jpg"
-    },
-    {
-      "titulo": "Teletrece AM",
-      "descripcion": "Informativo matinal con la revisión de las noticias más relevantes de las últimas horas. Además el programa incluye despachos en directo y entrevistas a personajes relevantes del acontecer nacional. Un equipo de periodistas analiza en profundidad los acontecimientos para que el público se informe de la forma más completa.",
-      "inicio": "2026-08-31T06:00:00",
-      "fin": "2026-08-31T07:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletreceam.jpg"
-    },
     {
       "titulo": "Tu día",
       "descripcion": "En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.",
       "inicio": "2026-08-31T07:50:00",
       "fin": "2026-08-31T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tudia.jpg"
+    },
+    {
+      "titulo": "Teletrece tarde",
+      "descripcion": "Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.",
+      "inicio": "2026-08-31T13:00:00",
+      "fin": "2026-08-31T15:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Espacio que trae información meteorológica nacional e internacional, para que te mantengas actualizado del estado del clima en las próximas horas.",
+      "inicio": "2026-08-31T15:20:00",
+      "fin": "2026-08-31T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Vale todo",
+      "descripcion": "Una serie que sigue el conflicto entre Raquel, una madre de valores firmes, y su hija María de Fátima, fría y ambiciosa. La jóven está dispuesta a traicionar a su familia y vender su hogar para conseguir fama y lujos en Río de Janeiro.",
+      "inicio": "2026-08-31T15:30:00",
+      "fin": "2026-08-31T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/valetodo.jpg"
+    },
+    {
+      "titulo": "¡Hay que decirlo!",
+      "descripcion": "Un espacio para divertir y acompañar las tardes con noticias del mundo del espectáculo y con el humor garantizado. La conducción está a cargo de Pamela Díaz y Nacho Gutiérrez, un grupo de panelistas expertos y destacados invitados.",
+      "inicio": "2026-08-31T17:00:00",
+      "fin": "2026-08-31T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hayquedecirlo.jpg"
+    },
+    {
+      "titulo": "¡Qué dice Chile!",
+      "descripcion": "Dos grupos compiten entre sí para nombrar las respuestas más populares de una encuesta con el fin de ganar un premio en dinero. Además, el público participa en vivo y enviando preguntas. Las personas que participan también pueden ganar premios así qe tanto participantes como público lo darán todo.",
+      "inicio": "2026-08-31T19:15:00",
+      "fin": "2026-08-31T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/quedicechile.jpg"
+    },
+    {
+      "titulo": "Teletrece",
+      "descripcion": "El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.",
+      "inicio": "2026-08-31T21:00:00",
+      "fin": "2026-08-31T22:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrece.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Espacio que trae información meteorológica nacional e internacional, para que te mantengas actualizado del estado del clima en las próximas horas.",
+      "inicio": "2026-08-31T22:40:00",
+      "fin": "2026-08-31T22:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Vecinos al límite",
+      "descripcion": "Un reality ubicado en un barrio con cuatro casas muy diferentes. Un barrio donde los vecinos serán protagonistas. En cada una de esas casas vivirá uno de cuatro equipos, compuestos por participantes desconocidos y liderados por famosos, quienes competirán para ver quiénes podrán pasar a vivir en la mejor de éstas, y quiénes serán desalojados. Todo esto con el fin de disputarse un importante premio en dinero. Entre sus participantes, se destaca Felipe Contreras, el ex galán de Juego de Ilusiones y con una carrera de más de veinte años en las teleseries.",
+      "inicio": "2026-08-31T22:50:00",
+      "fin": "2026-08-31T23:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vecinosallimite.jpg"
+    },
+    {
+      "titulo": "Canal 13",
+      "descripcion": "A confirmar",
+      "inicio": "2026-08-31T23:50:00",
+      "fin": "2026-09-01T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
+    },
+    {
+      "titulo": "Canal 13",
+      "descripcion": "A confirmar",
+      "inicio": "2026-09-01T00:00:00",
+      "fin": "2026-09-01T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
+    },
+    {
+      "titulo": "Canal 13",
+      "descripcion": "A confirmar",
+      "inicio": "2026-09-01T04:00:00",
+      "fin": "2026-09-01T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
+    },
+    {
+      "titulo": "Canal 13",
+      "descripcion": "A confirmar",
+      "inicio": "2026-09-01T08:00:00",
+      "fin": "2026-09-01T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
     }
   ]
 }

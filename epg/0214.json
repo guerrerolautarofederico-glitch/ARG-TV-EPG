@@ -1,185 +1,192 @@
 {
   "actual": {
-    "titulo": "Teletrece a la hora",
-    "descripcion": "Noticiero exprés con las últimas noticias del acontecer nacional e internacional.",
-    "inicio": "2026-08-30T09:00:00",
-    "fin": "2026-08-30T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecealahora.jpg"
+    "titulo": "Semana Política",
+    "descripcion": "Análisis político con periodistas desde diferentes lugares que explican, en sencillo, lo que está pasando en Chile relacionado con el mundo político.",
+    "inicio": "2026-08-31T11:00:00",
+    "fin": "2026-08-31T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Mesa central",
-    "descripcion": "Las noticias más importantes y toda la actualidad de la semana.",
-    "inicio": "2026-08-30T11:00:00",
-    "fin": "2026-08-30T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mesacentral.jpg"
+    "titulo": "Hablemos a las 12",
+    "descripcion": "Programa de noticias con la información actualizada de los hechos más importantes.",
+    "inicio": "2026-08-31T12:00:00",
+    "fin": "2026-08-31T12:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hablemosalas12.jpg"
   },
   "lista": [
     {
-      "titulo": "Teletrece a la hora",
-      "descripcion": "Noticiero exprés con las últimas noticias del acontecer nacional e internacional.",
-      "inicio": "2026-08-30T09:00:00",
-      "fin": "2026-08-30T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecealahora.jpg"
+      "titulo": "Semana Política",
+      "descripcion": "Análisis político con periodistas desde diferentes lugares que explican, en sencillo, lo que está pasando en Chile relacionado con el mundo político.",
+      "inicio": "2026-08-31T11:00:00",
+      "fin": "2026-08-31T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
     },
     {
-      "titulo": "Mesa central",
-      "descripcion": "Las noticias más importantes y toda la actualidad de la semana.",
-      "inicio": "2026-08-30T11:00:00",
-      "fin": "2026-08-30T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mesacentral.jpg"
+      "titulo": "Hablemos a las 12",
+      "descripcion": "Programa de noticias con la información actualizada de los hechos más importantes.",
+      "inicio": "2026-08-31T12:00:00",
+      "fin": "2026-08-31T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hablemosalas12.jpg"
+    },
+    {
+      "titulo": "Entretiempo",
+      "descripcion": "Espacio donde se habla de los mejores goles, hay resúmenes de partidos y toda la emoción del mundo de los deportes.",
+      "inicio": "2026-08-31T12:30:00",
+      "fin": "2026-08-31T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
     },
     {
       "titulo": "Teletrece tarde",
       "descripcion": "Un espacio para toda la información nacional e internacional que marca la jornada.",
-      "inicio": "2026-08-30T13:00:00",
-      "fin": "2026-08-30T14:30:00",
+      "inicio": "2026-08-31T13:00:00",
+      "fin": "2026-08-31T15:20:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
     },
     {
-      "titulo": "Sin intereses",
-      "descripcion": "En una conversación deslenguada, los invitados cuentan sus aciertos y errores financieros. ¿Cuál es el tuyo?",
-      "inicio": "2026-08-30T14:30:00",
-      "fin": "2026-08-30T15:00:00",
+      "titulo": "El tiempo",
+      "descripcion": "Se presenta la información del pronóstico meteorológico de todas las provincias y regiones de España.",
+      "inicio": "2026-08-31T15:20:00",
+      "fin": "2026-08-31T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "En Vivo",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-08-31T15:30:00",
+      "fin": "2026-08-31T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
     },
     {
-      "titulo": "#Emprendedores",
-      "descripcion": "Un espacio que impulsa el emprendimiento, la creatividad y la innovación.",
-      "inicio": "2026-08-30T15:00:00",
-      "fin": "2026-08-30T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/emprendedores.jpg"
+      "titulo": "Me enteré por la prensa",
+      "descripcion": "El resumen informativo del día desde una óptica regional.",
+      "inicio": "2026-08-31T18:00:00",
+      "fin": "2026-08-31T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
     },
     {
-      "titulo": "Vida y salud",
-      "descripcion": "Programa donde diferentes expertos, que tocan temas relacionados con la salud y a la medicina natural, charlan sobre productos utilizados para el bienestar diario.",
-      "inicio": "2026-08-30T15:30:00",
-      "fin": "2026-08-30T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vidaysalud.jpg"
+      "titulo": "Hablemos a las 12",
+      "descripcion": "Programa de noticias con la información actualizada de los hechos más importantes.",
+      "inicio": "2026-08-31T19:00:00",
+      "fin": "2026-08-31T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hablemosalas12.jpg"
     },
     {
-      "titulo": "Informe T13",
-      "descripcion": "Cápsulas de la principal información de Chile.",
-      "inicio": "2026-08-30T16:00:00",
-      "fin": "2026-08-30T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informet13.jpg"
+      "titulo": "Estamos en vivo",
+      "descripcion": "Programa de noticias con la información actualizada de los hechos más importantes.",
+      "inicio": "2026-08-31T19:30:00",
+      "fin": "2026-08-31T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
     },
     {
       "titulo": "Micrófono abierto",
       "descripcion": "Detalle de todo lo mejor del acontecer nacional e internacional deportivo, con entrevistas a destacados personajes de todo ámbito.",
-      "inicio": "2026-08-30T18:00:00",
-      "fin": "2026-08-30T19:00:00",
+      "inicio": "2026-08-31T20:00:00",
+      "fin": "2026-08-31T21:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/microfonoabierto.jpg"
-    },
-    {
-      "titulo": "Reportajes",
-      "descripcion": "Los reportajes más interesantes sobre la actualidad nacional e internacional.",
-      "inicio": "2026-08-30T19:00:00",
-      "fin": "2026-08-30T19:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
-    },
-    {
-      "titulo": "Coquimbo Unido vs. Huachipato • Fútbol Chileno Primera División",
-      "descripcion": "Fútbol Chileno Primera División | Acción de la jornada 21 de la Liga de Primera 2026. Coquimbo recibe en casa a Huachipato. Desde el Estadio Francisco Sánchez Rumoroso, en Coquimbo.",
-      "inicio": "2026-08-30T19:50:00",
-      "fin": "2026-08-30T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
     },
     {
       "titulo": "Teletrece Noticias",
       "descripcion": "Noticias de actualidad nacionales e internacionales.",
-      "inicio": "2026-08-30T22:00:00",
-      "fin": "2026-08-30T23:30:00",
+      "inicio": "2026-08-31T21:00:00",
+      "fin": "2026-08-31T22:40:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
     },
     {
       "titulo": "El tiempo",
       "descripcion": "Se presenta la información del pronóstico meteorológico de todas las provincias y regiones de España.",
-      "inicio": "2026-08-30T23:30:00",
-      "fin": "2026-08-30T23:40:00",
+      "inicio": "2026-08-31T22:40:00",
+      "fin": "2026-08-31T22:50:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
     },
     {
-      "titulo": "Mesa central",
-      "descripcion": "Las noticias más importantes y toda la actualidad de la semana.",
-      "inicio": "2026-08-30T23:40:00",
-      "fin": "2026-08-31T01:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mesacentral.jpg"
+      "titulo": "Me enteré por la prensa",
+      "descripcion": "El resumen informativo del día desde una óptica regional.",
+      "inicio": "2026-08-31T22:50:00",
+      "fin": "2026-08-31T23:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
     },
     {
-      "titulo": "Conversaciones T13",
-      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-      "inicio": "2026-08-31T01:40:00",
-      "fin": "2026-08-31T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
-    },
-    {
-      "titulo": "Carlo cocina, vive sustentable",
-      "descripcion": "Un viaje culinario y sustentable desde su parcela en Peñalolén, para hacer huertos comestibles, cuidar del agua y aprender a hacer compost. Además, el chef enseña cómo cocinar algo delicioso, sano y de bajas calorías.",
-      "inicio": "2026-08-31T02:00:00",
-      "fin": "2026-08-31T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/carlococinavivesustentable.jpg"
-    },
-    {
-      "titulo": "Conversaciones T13",
-      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-      "inicio": "2026-08-31T03:00:00",
-      "fin": "2026-08-31T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
+      "titulo": "Micrófono abierto",
+      "descripcion": "Detalle de todo lo mejor del acontecer nacional e internacional deportivo, con entrevistas a destacados personajes de todo ámbito.",
+      "inicio": "2026-08-31T23:50:00",
+      "fin": "2026-09-01T00:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/microfonoabierto.jpg"
     },
     {
       "titulo": "Informe T13",
       "descripcion": "Cápsulas de la principal información de Chile.",
-      "inicio": "2026-08-31T04:00:00",
-      "fin": "2026-08-31T04:40:00",
+      "inicio": "2026-09-01T00:50:00",
+      "fin": "2026-09-01T01:20:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informet13.jpg"
     },
     {
       "titulo": "Conversaciones T13",
       "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-      "inicio": "2026-08-31T04:40:00",
-      "fin": "2026-08-31T05:00:00",
+      "inicio": "2026-09-01T01:20:00",
+      "fin": "2026-09-01T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
+    },
+    {
+      "titulo": "Teletrece noche",
+      "descripcion": "Noticias de actualidad nacionales e internacionales.",
+      "inicio": "2026-09-01T02:00:00",
+      "fin": "2026-09-01T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecenoche.jpg"
+    },
+    {
+      "titulo": "Informe T13",
+      "descripcion": "Cápsulas de la principal información de Chile.",
+      "inicio": "2026-09-01T03:00:00",
+      "fin": "2026-09-01T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informet13.jpg"
+    },
+    {
+      "titulo": "Conversaciones T13",
+      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
+      "inicio": "2026-09-01T04:00:00",
+      "fin": "2026-09-01T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
     },
     {
       "titulo": "Infórmate en un 3x3",
       "descripcion": "Programa informativo que presenta las noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama.",
-      "inicio": "2026-08-31T05:00:00",
-      "fin": "2026-08-31T06:00:00",
+      "inicio": "2026-09-01T05:00:00",
+      "fin": "2026-09-01T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
     },
     {
       "titulo": "Teletrece AM",
       "descripcion": "Noticiero matutino con las últimas noticias del acontecer nacional e internacional.",
-      "inicio": "2026-08-31T06:00:00",
-      "fin": "2026-08-31T07:50:00",
+      "inicio": "2026-09-01T06:00:00",
+      "fin": "2026-09-01T07:50:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletreceam.jpg"
     },
     {
       "titulo": "Conversaciones T13",
       "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-      "inicio": "2026-08-31T07:50:00",
-      "fin": "2026-08-31T08:00:00",
+      "inicio": "2026-09-01T07:50:00",
+      "fin": "2026-09-01T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
     },
     {
       "titulo": "La mañana en vivo",
       "descripcion": "Las noticias y los temas que marcan la pauta informativa desde una mirada más cercana, para comenzar el día con toda la información.",
-      "inicio": "2026-08-31T08:00:00",
-      "fin": "2026-08-31T09:30:00",
+      "inicio": "2026-09-01T08:00:00",
+      "fin": "2026-09-01T09:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
     },
     {
       "titulo": "Conversaciones T13",
       "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-      "inicio": "2026-08-31T09:30:00",
-      "fin": "2026-08-31T10:00:00",
+      "inicio": "2026-09-01T09:30:00",
+      "fin": "2026-09-01T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
     },
     {
       "titulo": "Vivo AM",
       "descripcion": "Un programa con la mejor información de actualidad, las novedades deportivas y un toque de buen humor.",
-      "inicio": "2026-08-31T10:00:00",
-      "fin": "2026-08-31T11:00:00",
+      "inicio": "2026-09-01T10:00:00",
+      "fin": "2026-09-01T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
     }
   ]

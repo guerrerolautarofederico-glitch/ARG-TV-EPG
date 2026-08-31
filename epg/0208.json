@@ -1,115 +1,213 @@
 {
   "actual": {
-    "titulo": "Siempre juntos",
-    "descripcion": "Un programa de noticias e informaciones de interés público, conectado con las sensibilidades y urgencias de la gente.",
-    "inicio": "2026-08-30T09:00:00",
-    "fin": "2026-08-30T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siemprejuntos.jpg"
+    "titulo": "Meganoticias ahora - AM",
+    "descripcion": "Las principales noticias de Chile.",
+    "inicio": "2026-08-31T09:00:00",
+    "fin": "2026-08-31T11:40:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0208_fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Meganoticias actualiza",
-    "descripcion": "Un noticiero que busca entregar la mejor y más detallada información de todo el acontecer nacional, de lo que ocurre en Chile y en el mundo minuto a minuto, de una forma ágil y dinámica.",
-    "inicio": "2026-08-30T13:00:00",
-    "fin": "2026-08-30T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasactualiza.jpg"
+    "titulo": "Megainvestiga",
+    "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
+    "inicio": "2026-08-31T11:40:00",
+    "fin": "2026-08-31T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
   },
   "lista": [
-    {
-      "titulo": "Siempre juntos",
-      "descripcion": "Un programa de noticias e informaciones de interés público, conectado con las sensibilidades y urgencias de la gente.",
-      "inicio": "2026-08-30T09:00:00",
-      "fin": "2026-08-30T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siemprejuntos.jpg"
-    },
-    {
-      "titulo": "Meganoticias actualiza",
-      "descripcion": "Un noticiero que busca entregar la mejor y más detallada información de todo el acontecer nacional, de lo que ocurre en Chile y en el mundo minuto a minuto, de una forma ágil y dinámica.",
-      "inicio": "2026-08-30T13:00:00",
-      "fin": "2026-08-30T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasactualiza.jpg"
-    },
-    {
-      "titulo": "Megainvestiga",
-      "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
-      "inicio": "2026-08-30T15:00:00",
-      "fin": "2026-08-30T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
-    },
-    {
-      "titulo": "Meganoticias Prime",
-      "descripcion": "Un noticiero que brinda las últimas noticias sobre Chile y el mundo.",
-      "inicio": "2026-08-30T20:30:00",
-      "fin": "2026-08-30T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasprime.jpg"
-    },
-    {
-      "titulo": "Planeta futuro",
-      "descripcion": "Las últimas novedades sobre ciencia y tecnología en Chile y alrededor del mundo.",
-      "inicio": "2026-08-30T22:30:00",
-      "fin": "2026-08-30T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planetafuturo.jpg"
-    },
-    {
-      "titulo": "Megainvestiga",
-      "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
-      "inicio": "2026-08-30T23:00:00",
-      "fin": "2026-08-31T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
-    },
-    {
-      "titulo": "Ahora salud",
-      "descripcion": "Las últimas noticias de salud que suceden en Chile y el mundo.",
-      "inicio": "2026-08-31T03:00:00",
-      "fin": "2026-08-31T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahorasalud.jpg"
-    },
-    {
-      "titulo": "Megainvestiga",
-      "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
-      "inicio": "2026-08-31T03:30:00",
-      "fin": "2026-08-31T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
-    },
-    {
-      "titulo": "Megainvestiga",
-      "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
-      "inicio": "2026-08-31T04:00:00",
-      "fin": "2026-08-31T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
-    },
-    {
-      "titulo": "Meganoticias ahora noche",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-31T05:00:00",
-      "fin": "2026-08-31T05:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahoranoche.jpg"
-    },
-    {
-      "titulo": "Megainvestiga",
-      "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
-      "inicio": "2026-08-31T05:15:00",
-      "fin": "2026-08-31T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
-    },
-    {
-      "titulo": "Meganoticias amanece",
-      "descripcion": "Noticiero matutino.",
-      "inicio": "2026-08-31T06:00:00",
-      "fin": "2026-08-31T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasamanece.jpg"
-    },
-    {
-      "titulo": "Meganoticias update",
-      "descripcion": "Un programa de noticias sobre la actualidad internacional.",
-      "inicio": "2026-08-31T08:00:00",
-      "fin": "2026-08-31T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0208_fallback.jpg"
-    },
     {
       "titulo": "Meganoticias ahora - AM",
       "descripcion": "Las principales noticias de Chile.",
       "inicio": "2026-08-31T09:00:00",
       "fin": "2026-08-31T11:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0208_fallback.jpg"
+    },
+    {
+      "titulo": "Megainvestiga",
+      "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
+      "inicio": "2026-08-31T11:40:00",
+      "fin": "2026-08-31T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
+    },
+    {
+      "titulo": "Meganoticias alerta",
+      "descripcion": "Noticiero con la información más relevante de Chile y el mundo.",
+      "inicio": "2026-08-31T12:00:00",
+      "fin": "2026-08-31T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasalerta.jpg"
+    },
+    {
+      "titulo": "Megainvestiga",
+      "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
+      "inicio": "2026-08-31T15:00:00",
+      "fin": "2026-08-31T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
+    },
+    {
+      "titulo": "La tarde en vivo",
+      "descripcion": "Las noticias más relevantes para mantenerse al día.",
+      "inicio": "2026-08-31T15:30:00",
+      "fin": "2026-08-31T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0208_fallback.jpg"
+    },
+    {
+      "titulo": "Meganoticias ahora PM",
+      "descripcion": "Las principales noticias de Chile.",
+      "inicio": "2026-08-31T17:00:00",
+      "fin": "2026-08-31T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahorapm.jpg"
+    },
+    {
+      "titulo": "Meganoticias mundo",
+      "descripcion": "Una mirada a los acontecimientos mundiales más relevantes.",
+      "inicio": "2026-08-31T18:30:00",
+      "fin": "2026-08-31T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasmundo.jpg"
+    },
+    {
+      "titulo": "MegaDeportes",
+      "descripcion": "Cobertura de los eventos deportivos internacionales más recientes, además de un enfoque en el fútbol chileno.",
+      "inicio": "2026-08-31T19:15:00",
+      "fin": "2026-08-31T20:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megadeportes.jpg"
+    },
+    {
+      "titulo": "Megainvestiga",
+      "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
+      "inicio": "2026-08-31T20:15:00",
+      "fin": "2026-08-31T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
+    },
+    {
+      "titulo": "Megatiempo",
+      "descripcion": "Espacio dedicado al cambio climático, meteorología y fenómenos naturales.",
+      "inicio": "2026-08-31T20:30:00",
+      "fin": "2026-08-31T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megatiempo.jpg"
+    },
+    {
+      "titulo": "Megainvestiga",
+      "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
+      "inicio": "2026-08-31T21:00:00",
+      "fin": "2026-08-31T21:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
+    },
+    {
+      "titulo": "Meganoticias Prime",
+      "descripcion": "Un noticiero que brinda las últimas noticias sobre Chile y el mundo.",
+      "inicio": "2026-08-31T21:20:00",
+      "fin": "2026-08-31T22:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasprime.jpg"
+    },
+    {
+      "titulo": "La entrevista prime",
+      "descripcion": "Un espacio de entrevistas para combatir la desinformación.",
+      "inicio": "2026-08-31T22:45:00",
+      "fin": "2026-08-31T23:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0208_fallback.jpg"
+    },
+    {
+      "titulo": "Megainvestiga",
+      "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
+      "inicio": "2026-08-31T23:15:00",
+      "fin": "2026-08-31T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
+    },
+    {
+      "titulo": "Meganoticias hora cero",
+      "descripcion": "Los noticias más relevantes del día.",
+      "inicio": "2026-08-31T23:30:00",
+      "fin": "2026-09-01T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiashoracero.jpg"
+    },
+    {
+      "titulo": "Megatiempo",
+      "descripcion": "Espacio dedicado al cambio climático, meteorología y fenómenos naturales.",
+      "inicio": "2026-09-01T00:30:00",
+      "fin": "2026-09-01T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megatiempo.jpg"
+    },
+    {
+      "titulo": "Meganoticias ahora noche",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-01T01:00:00",
+      "fin": "2026-09-01T01:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahoranoche.jpg"
+    },
+    {
+      "titulo": "Megainvestiga",
+      "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
+      "inicio": "2026-09-01T01:15:00",
+      "fin": "2026-09-01T02:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
+    },
+    {
+      "titulo": "Meganoticias ahora noche",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-01T02:15:00",
+      "fin": "2026-09-01T02:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahoranoche.jpg"
+    },
+    {
+      "titulo": "Meganoticias mundo",
+      "descripcion": "Una mirada a los acontecimientos mundiales más relevantes.",
+      "inicio": "2026-09-01T02:45:00",
+      "fin": "2026-09-01T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasmundo.jpg"
+    },
+    {
+      "titulo": "Meganoticias ahora noche",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-01T03:30:00",
+      "fin": "2026-09-01T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahoranoche.jpg"
+    },
+    {
+      "titulo": "Megainvestiga",
+      "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
+      "inicio": "2026-09-01T04:00:00",
+      "fin": "2026-09-01T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
+    },
+    {
+      "titulo": "Megatiempo",
+      "descripcion": "Espacio dedicado al cambio climático, meteorología y fenómenos naturales.",
+      "inicio": "2026-09-01T04:30:00",
+      "fin": "2026-09-01T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megatiempo.jpg"
+    },
+    {
+      "titulo": "Meganoticias ahora noche",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-01T05:00:00",
+      "fin": "2026-09-01T05:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahoranoche.jpg"
+    },
+    {
+      "titulo": "Megainvestiga",
+      "descripcion": "Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.",
+      "inicio": "2026-09-01T05:15:00",
+      "fin": "2026-09-01T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megainvestiga.jpg"
+    },
+    {
+      "titulo": "Meganoticias amanece",
+      "descripcion": "Noticiero matutino.",
+      "inicio": "2026-09-01T06:00:00",
+      "fin": "2026-09-01T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasamanece.jpg"
+    },
+    {
+      "titulo": "Meganoticias update",
+      "descripcion": "Un programa de noticias sobre la actualidad internacional.",
+      "inicio": "2026-09-01T08:00:00",
+      "fin": "2026-09-01T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0208_fallback.jpg"
+    },
+    {
+      "titulo": "Meganoticias ahora - AM",
+      "descripcion": "Las principales noticias de Chile.",
+      "inicio": "2026-09-01T09:00:00",
+      "fin": "2026-09-01T11:40:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0208_fallback.jpg"
     }
   ]

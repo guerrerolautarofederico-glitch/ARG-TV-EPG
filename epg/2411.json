@@ -1,143 +1,150 @@
 {
   "actual": {
-    "titulo": "ESPN Sur",
-    "descripcion": "Todas las novedades del fútbol mundial, los principales torneos internacionales, latinoamericanos por el mundo y mucho más.",
-    "inicio": "2026-08-30T09:00:00",
-    "fin": "2026-08-30T10:55:00",
+    "titulo": "Espn F12",
+    "descripcion": "Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.",
+    "inicio": "2026-08-31T10:00:00",
+    "fin": "2026-08-31T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "SportsCenter",
-    "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
-    "inicio": "2026-08-30T10:55:00",
-    "fin": "2026-08-30T11:20:00",
+    "titulo": "ESPN F90",
+    "descripcion": "Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.",
+    "inicio": "2026-08-31T12:00:00",
+    "fin": "2026-08-31T14:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "ESPN Sur",
-      "descripcion": "Todas las novedades del fútbol mundial, los principales torneos internacionales, latinoamericanos por el mundo y mucho más.",
-      "inicio": "2026-08-30T09:00:00",
-      "fin": "2026-08-30T10:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
-      "inicio": "2026-08-30T10:55:00",
-      "fin": "2026-08-30T11:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Manchester United vs. Ipswich Town • Fútbol Premier League",
-      "descripcion": "Fútbol Premier League | Jornada 2 de la temporada 2026-27 de la Premier League. Desde el estadio Old Trafford. El United comenzó la campaña con una derrota por 2-0 ante el recién ascendido Hull City. Ipswich marcó su regreso a la Premier League con una victoria por 2-1.",
-      "inicio": "2026-08-30T11:20:00",
-      "fin": "2026-08-30T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Sur",
-      "descripcion": "Todas las novedades del fútbol mundial, los principales torneos internacionales, latinoamericanos por el mundo y mucho más.",
-      "inicio": "2026-08-30T13:00:00",
-      "fin": "2026-08-30T13:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
-      "inicio": "2026-08-30T13:25:00",
-      "fin": "2026-08-30T13:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Banfield vs. River Plate • Fútbol Argentino Primera División",
-      "descripcion": "Fútbol Argentino Primera División | Fecha 7 de la Zona B del Torneo Clausura 2026 de la LPF. Banfield recibe a River Plate. Desde el estadio Florencio Sola, en Banfield, Buenos Aires.",
-      "inicio": "2026-08-30T13:45:00",
-      "fin": "2026-08-30T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Espn F3",
-      "descripcion": "Programación deportiva dedicada a la agenda futbolística, resúmenes, análisis y seguimientos que dan de qué hablar.",
-      "inicio": "2026-08-30T14:00:00",
-      "fin": "2026-08-30T15:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-08-30T15:55:00",
-      "fin": "2026-08-30T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-08-30T19:00:00",
-      "fin": "2026-08-30T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Fútbol 1",
-      "descripcion": "Todo lo que sucedió al término de cada fecha del campeonato de fútbol argentino. Las jugadas más destacadas, los goles, las polémicas y análisis del juego, todo ello aderezado con imágenes y sonidos captados por cámaras exclusivas.",
-      "inicio": "2026-08-30T21:00:00",
-      "fin": "2026-08-30T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-08-30T23:00:00",
-      "fin": "2026-08-31T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-08-31T00:30:00",
-      "fin": "2026-08-31T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Compact • MotoGP: Gran Prix Aragón",
-      "descripcion": "MotoGP: Gran Prix Aragón | Compacto de la fecha 14 del Campeonato del Mundo de MotoGP 2026. Disputado el 30 de agosto de 2026 en MotorLand Aragón.",
-      "inicio": "2026-08-31T02:00:00",
-      "fin": "2026-08-31T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-08-31T03:00:00",
-      "fin": "2026-08-31T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-08-31T04:30:00",
-      "fin": "2026-08-31T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-08-31T06:00:00",
-      "fin": "2026-08-31T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Buen día ESPN",
-      "descripcion": "Cobertura de la actualidad deportiva con entrevistas, protagonistas y la mejor onda.",
-      "inicio": "2026-08-31T08:00:00",
-      "fin": "2026-08-31T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Espn F12",
       "descripcion": "Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.",
       "inicio": "2026-08-31T10:00:00",
       "fin": "2026-08-31T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ESPN F90",
+      "descripcion": "Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.",
+      "inicio": "2026-08-31T12:00:00",
+      "fin": "2026-08-31T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espn F3",
+      "descripcion": "Programación deportiva dedicada a la agenda futbolística, resúmenes, análisis y seguimientos que dan de qué hablar.",
+      "inicio": "2026-08-31T14:00:00",
+      "fin": "2026-08-31T15:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Barcelona vs. Rayo Vallecano • Fútbol LaLiga",
+      "descripcion": "Fútbol LaLiga | Jornada 3 de la temporada 2026-27 de LaLiga. Barcelona se enfrenta a Rayo Vallecano. Desde el estadio Camp Nou. En el partido de vuelta del curso anterior, el Barcelona logró sumar los tres puntos tras imponerse por 1-2.",
+      "inicio": "2026-08-31T15:20:00",
+      "fin": "2026-08-31T17:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ESPN F360",
+      "descripcion": "Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.",
+      "inicio": "2026-08-31T17:25:00",
+      "fin": "2026-08-31T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Equipo F",
+      "descripcion": "El epicentro del análisis deportivo con entrevistas exclusivas a las figuras clave de la Liga MX con profundidad y perspectiva únicas.",
+      "inicio": "2026-08-31T18:00:00",
+      "fin": "2026-08-31T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-08-31T19:30:00",
+      "fin": "2026-08-31T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tigre vs. Barracas Central • Fútbol Argentino Primera División",
+      "descripcion": "Fútbol Argentino Primera División | Fecha 7 de la Zona B del Torneo Clausura 2026 de la LPF. Tigre recibe a Barracas Central. Desde el Coliseo de Victoria, en San Fernando, Buenos Aires.",
+      "inicio": "2026-08-31T20:00:00",
+      "fin": "2026-08-31T22:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espn F10",
+      "descripcion": "Los fines de semana se llenan de fútbol. Tras la finalización del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.",
+      "inicio": "2026-08-31T22:10:00",
+      "fin": "2026-08-31T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-08-31T23:00:00",
+      "fin": "2026-09-01T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-09-01T00:00:00",
+      "fin": "2026-09-01T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-09-01T01:00:00",
+      "fin": "2026-09-01T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-09-01T02:00:00",
+      "fin": "2026-09-01T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-09-01T03:00:00",
+      "fin": "2026-09-01T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-09-01T04:00:00",
+      "fin": "2026-09-01T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-09-01T05:00:00",
+      "fin": "2026-09-01T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-09-01T06:00:00",
+      "fin": "2026-09-01T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Buen día ESPN",
+      "descripcion": "Cobertura de la actualidad deportiva con entrevistas, protagonistas y la mejor onda.",
+      "inicio": "2026-09-01T08:00:00",
+      "fin": "2026-09-01T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espn F12",
+      "descripcion": "Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.",
+      "inicio": "2026-09-01T10:00:00",
+      "fin": "2026-09-01T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
