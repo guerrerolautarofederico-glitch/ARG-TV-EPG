@@ -1,66 +1,178 @@
 {
   "actual": {
-    "titulo": "TVE Internacional",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-31T11:00:00",
-    "fin": "2026-08-31T15:00:00",
+    "titulo": "Aquí la Tierra",
+    "descripcion": "Una mirada sobre cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.",
+    "inicio": "2026-09-01T09:40:00",
+    "fin": "2026-09-01T09:50:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "TVE Internacional",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-31T15:00:00",
-    "fin": "2026-08-31T19:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Directo Al Grano",
+    "descripcion": "Información sobre la agroindustria.",
+    "inicio": "2026-09-01T09:50:00",
+    "fin": "2026-09-01T11:45:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/directoalgrano.jpg"
   },
   "lista": [
     {
-      "titulo": "TVE Internacional",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T11:00:00",
-      "fin": "2026-08-31T15:00:00",
+      "titulo": "Aquí la Tierra",
+      "descripcion": "Una mirada sobre cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.",
+      "inicio": "2026-09-01T09:40:00",
+      "fin": "2026-09-01T09:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Directo Al Grano",
+      "descripcion": "Información sobre la agroindustria.",
+      "inicio": "2026-09-01T09:50:00",
+      "fin": "2026-09-01T11:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/directoalgrano.jpg"
+    },
+    {
+      "titulo": "Senderos con Juan y Migas",
+      "descripcion": "Un recorrido por las rutas más importantes del planeta y sus lugares emblemáticos, como Castilla-La Mancha, Canarias, Huelva, Asturias y otros.",
+      "inicio": "2026-09-01T11:45:00",
+      "fin": "2026-09-01T12:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Saber y ganar",
+      "descripcion": "Concursos que ponen a prueba los conocimientos y agilidad mental a través de un auténtico bombardeo de preguntas de ámbito general.",
+      "inicio": "2026-09-01T12:45:00",
+      "fin": "2026-09-01T13:33:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Esto es España",
+      "descripcion": "Un recorrido por la geografía española desde una perspectiva joven y moderna, con el foco puesto en la sostenibilidad, la diversidad y la oferta natural, cultural y social de la España del siglo XXI.",
+      "inicio": "2026-09-01T13:33:00",
+      "fin": "2026-09-01T13:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Esto es España",
+      "descripcion": "Un recorrido por la geografía española desde una perspectiva joven y moderna, con el foco puesto en la sostenibilidad, la diversidad y la oferta natural, cultural y social de la España del siglo XXI.",
+      "inicio": "2026-09-01T13:35:00",
+      "fin": "2026-09-01T13:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Malas lenguas",
+      "descripcion": "Espacio de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales. Las herramientas de verificación ofrecen un análisis detallado de titulares, declaraciones e imágenes.",
+      "inicio": "2026-09-01T13:40:00",
+      "fin": "2026-09-01T14:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Aquí la Tierra",
+      "descripcion": "Una mirada sobre cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.",
+      "inicio": "2026-09-01T14:25:00",
+      "fin": "2026-09-01T14:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telediario 2",
+      "descripcion": "Telediario con la información más importante de España y del mundo, al momento.",
+      "inicio": "2026-09-01T14:55:00",
+      "fin": "2026-09-01T15:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Deportes",
+      "descripcion": "Lo mejor de las noticias en deportes nacionales e internacionales, fútbol, ciclismo, automovilismo, tenis, y mucho más.",
+      "inicio": "2026-09-01T15:35:00",
+      "fin": "2026-09-01T15:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cifras y letras",
+      "descripcion": "Concurso cuyas pruebas deben superarse jugando con cifras y letras, donde en cada entrega, los concursantes luchan por llevarse el gran premio acumulado.",
+      "inicio": "2026-09-01T15:45:00",
+      "fin": "2026-09-01T16:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cifras y letras",
+      "descripcion": "Concurso cuyas pruebas deben superarse jugando con cifras y letras, donde en cada entrega, los concursantes luchan por llevarse el gran premio acumulado.",
+      "inicio": "2026-09-01T16:15:00",
+      "fin": "2026-09-01T16:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Valle Salvaje",
+      "descripcion": "Tras la muerte de su padre, la joven Adriana descubre que, como consecuencia de un pacto secreto, deberá viajar hasta Valle Salvaje, en el norte de España, para casarse con un desconocido, pero un oscuro secreto la persigue hasta el remoto valle.",
+      "inicio": "2026-09-01T16:45:00",
+      "fin": "2026-09-01T17:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La promesa",
+      "descripcion": "Una mujer es recompensada con un trabajo en el Palacio La Promesa tras salvar al hijo del Marqués de Luján. Ahora, esta se prepara para fraguar lentamente una venganza.",
+      "inicio": "2026-09-01T17:35:00",
+      "fin": "2026-09-01T18:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapromesa.jpg"
+    },
+    {
+      "titulo": "Jeopardy!",
+      "descripcion": "Este programa, ganador de un Emmy, presenta concurso con un formato original de preguntas y respuestas.",
+      "inicio": "2026-09-01T18:35:00",
+      "fin": "2026-09-01T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Aquí la Tierra",
+      "descripcion": "Una mirada sobre cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.",
+      "inicio": "2026-09-01T19:30:00",
+      "fin": "2026-09-01T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TD Internacional",
+      "descripcion": "Espacio donde se presentan las noticias nacionales e internacionales.",
+      "inicio": "2026-09-01T20:00:00",
+      "fin": "2026-09-01T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Viaje al centro de la tele",
+      "descripcion": "Las caras más frescas y sorprendentes de algunas de las mejores imágenes que Televisión Española ha mostrado en las últimas décadas.",
+      "inicio": "2026-09-01T20:30:00",
+      "fin": "2026-09-01T21:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dog House",
+      "descripcion": "Chenoa muestra la vida diaria de un equipo que promueve la adopción responsable de perros. El programa invita al espectador a conocer un lugar donde familias, parejas y personas de todo tipo buscan a un fiel amigo en busca de una nueva vida.",
+      "inicio": "2026-09-01T21:25:00",
+      "fin": "2026-09-01T22:25:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TVE Internacional",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-31T15:00:00",
-      "fin": "2026-08-31T19:00:00",
+      "inicio": "2026-09-01T22:25:00",
+      "fin": "2026-09-01T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TVE Internacional",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-31T19:00:00",
-      "fin": "2026-08-31T23:00:00",
+      "inicio": "2026-09-01T23:00:00",
+      "fin": "2026-09-02T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TVE Internacional",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-31T23:00:00",
-      "fin": "2026-09-01T03:00:00",
+      "inicio": "2026-09-02T03:00:00",
+      "fin": "2026-09-02T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TVE Internacional",
       "descripcion": "A confirmar",
-      "inicio": "2026-09-01T03:00:00",
-      "fin": "2026-09-01T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TVE Internacional",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T07:00:00",
-      "fin": "2026-09-01T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TVE Internacional",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T11:00:00",
-      "fin": "2026-09-01T15:00:00",
+      "inicio": "2026-09-02T07:00:00",
+      "fin": "2026-09-02T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

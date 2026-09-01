@@ -1,66 +1,94 @@
 {
   "actual": {
-    "titulo": "C5N Canal 5 Noticias",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-31T09:00:00",
-    "fin": "2026-08-31T13:00:00",
+    "titulo": "La mañana",
+    "descripcion": "Las noticias más destacadas de la mañana minuto a minuto, con entrevistas e historias, con un ritmo ágil y dinámico.",
+    "inicio": "2026-09-01T09:00:00",
+    "fin": "2026-09-01T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "C5N Canal 5 Noticias",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-31T13:00:00",
-    "fin": "2026-08-31T17:00:00",
+    "titulo": "De una",
+    "descripcion": "Con foco en la actualidad, \"De una\" presta especial atención a las noticias, con dosis de interés general, deportes y espectáculos.",
+    "inicio": "2026-09-01T12:00:00",
+    "fin": "2026-09-01T15:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "C5N Canal 5 Noticias",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T09:00:00",
-      "fin": "2026-08-31T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "C5N Canal 5 Noticias",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T13:00:00",
-      "fin": "2026-08-31T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "C5N Canal 5 Noticias",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T17:00:00",
-      "fin": "2026-08-31T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "C5N Canal 5 Noticias",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T21:00:00",
-      "fin": "2026-09-01T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "C5N Canal 5 Noticias",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T01:00:00",
-      "fin": "2026-09-01T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "C5N Canal 5 Noticias",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T05:00:00",
-      "fin": "2026-09-01T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "C5N Canal 5 Noticias",
-      "descripcion": "A confirmar",
+      "titulo": "La mañana",
+      "descripcion": "Las noticias más destacadas de la mañana minuto a minuto, con entrevistas e historias, con un ritmo ágil y dinámico.",
       "inicio": "2026-09-01T09:00:00",
-      "fin": "2026-09-01T13:00:00",
+      "fin": "2026-09-01T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "De una",
+      "descripcion": "Con foco en la actualidad, \"De una\" presta especial atención a las noticias, con dosis de interés general, deportes y espectáculos.",
+      "inicio": "2026-09-01T12:00:00",
+      "fin": "2026-09-01T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Argenzuela",
+      "descripcion": "Un combo de actualidad, política, deportes y espectáculos.",
+      "inicio": "2026-09-01T15:00:00",
+      "fin": "2026-09-01T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El diario",
+      "descripcion": "Una madre, recientemente divorciada, descubre el diario de un asesino en serie en el ático de la casa a la que recientemente se mudó. Su vida y la de todos a su alrededor correrán peligro mientras intenta averiguar quién es el autor.",
+      "inicio": "2026-09-01T17:00:00",
+      "fin": "2026-09-01T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eldiario.jpg"
+    },
+    {
+      "titulo": "Minuto uno",
+      "descripcion": "Programa dedicado a analizar y comprender la realidad nacional e internacional. Entrevistas, informes especiales, investigaciones, Debates económicos y políticos con los principales actores del ámbito nacional.",
+      "inicio": "2026-09-01T19:00:00",
+      "fin": "2026-09-01T20:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Periodistas",
+      "descripcion": "Las principales figuras de C5N analizarán los principales temas de agenda nacional e internacional.",
+      "inicio": "2026-09-01T20:40:00",
+      "fin": "2026-09-01T21:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Duro de domar",
+      "descripcion": "Notas especiales e informes incisivos.",
+      "inicio": "2026-09-01T21:10:00",
+      "fin": "2026-09-01T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Minuto uno",
+      "descripcion": "Programa dedicado a analizar y comprender la realidad nacional e internacional. Entrevistas, informes especiales, investigaciones, Debates económicos y políticos con los principales actores del ámbito nacional.",
+      "inicio": "2026-09-01T23:00:00",
+      "fin": "2026-09-02T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "C5N Canal 5 Noticias",
+      "descripcion": "A confirmar",
+      "inicio": "2026-09-02T00:00:00",
+      "fin": "2026-09-02T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "C5N Canal 5 Noticias",
+      "descripcion": "A confirmar",
+      "inicio": "2026-09-02T04:00:00",
+      "fin": "2026-09-02T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "C5N Canal 5 Noticias",
+      "descripcion": "A confirmar",
+      "inicio": "2026-09-02T08:00:00",
+      "fin": "2026-09-02T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

@@ -1,137 +1,200 @@
 {
   "actual": {
-    "titulo": "Alegrate",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-08-31T10:00:00",
-    "fin": "2026-08-31T12:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Enlaces",
+    "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
+    "inicio": "2026-09-01T09:30:00",
+    "fin": "2026-09-01T10:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlaces.jpg"
   },
   "siguiente": {
-    "titulo": "El invitado de RFI",
-    "descripcion": "Una personalidad invitada charla sobre actualidad política y cultural.",
-    "inicio": "2026-08-31T12:00:00",
-    "fin": "2026-08-31T12:30:00",
+    "titulo": "Autores en vivo",
+    "descripcion": "Autores nacionales en un ambiente íntimo, pero a la vez de fuerte impacto por la intensidad de la propuesta. Se potencia el desarrollo de los artistas y autores uruguayos.",
+    "inicio": "2026-09-01T10:00:00",
+    "fin": "2026-09-01T11:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Alegrate",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-31T10:00:00",
-      "fin": "2026-08-31T12:00:00",
+      "titulo": "Enlaces",
+      "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
+      "inicio": "2026-09-01T09:30:00",
+      "fin": "2026-09-01T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlaces.jpg"
+    },
+    {
+      "titulo": "Autores en vivo",
+      "descripcion": "Autores nacionales en un ambiente íntimo, pero a la vez de fuerte impacto por la intensidad de la propuesta. Se potencia el desarrollo de los artistas y autores uruguayos.",
+      "inicio": "2026-09-01T10:00:00",
+      "fin": "2026-09-01T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "El invitado de RFI",
       "descripcion": "Una personalidad invitada charla sobre actualidad política y cultural.",
-      "inicio": "2026-08-31T12:00:00",
-      "fin": "2026-08-31T12:30:00",
+      "inicio": "2026-09-01T11:00:00",
+      "fin": "2026-09-01T11:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Olas y Vientos",
-      "descripcion": "Programa que destaca los deportes alternativos que se practican en Uruguay.",
-      "inicio": "2026-08-31T12:30:00",
-      "fin": "2026-08-31T13:00:00",
+      "titulo": "El corresponsal",
+      "descripcion": "Un ciclo semanal que muestra el detrás de escena y las noticias de actualidad.",
+      "inicio": "2026-09-01T11:30:00",
+      "fin": "2026-09-01T12:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Body & Paint Shop",
-      "descripcion": "Un programa dedicado íntegramente al sector de carrocería y pintura vehicular. Un magacín de seguridad y estética para el auto.",
-      "inicio": "2026-08-31T13:00:00",
-      "fin": "2026-08-31T13:30:00",
+      "titulo": "La hora de Maquiavelo",
+      "descripcion": "Vistazo al mundo de los hacedores de imagen de políticos y economistas.",
+      "inicio": "2026-09-01T12:30:00",
+      "fin": "2026-09-01T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Chiche vintage",
-      "descripcion": "Un espacio en el que se brinda información sobre autos. Se incluyen entrevistas con famosos mientras se realiza un paseo.",
-      "inicio": "2026-08-31T13:30:00",
-      "fin": "2026-08-31T14:00:00",
+      "titulo": "Conversando la noche",
+      "descripcion": "Espacio de diálogo y conversación para conocer más de cerca a diferentes personalidades.",
+      "inicio": "2026-09-01T13:00:00",
+      "fin": "2026-09-01T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Driving",
+      "titulo": "Jueces por la paz",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-08-31T14:00:00",
-      "fin": "2026-08-31T14:30:00",
+      "inicio": "2026-09-01T14:00:00",
+      "fin": "2026-09-01T14:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Efecto TN",
-      "descripcion": "Las fronteras desaparecen, las distancias se acortan y el público se agita impaciente para presenciar la categoría automovilística más federal de Argentina. Todo lo que pasa en el Turismo Nacional.",
-      "inicio": "2026-08-31T14:30:00",
-      "fin": "2026-08-31T15:00:00",
+      "titulo": "Testigo directo",
+      "descripcion": "Programa de periodismo independiente con los últimos acontecimientos, análisis de reportajes, entrevistas y mucho más; el programa realiza especiales en donde tocan casos de interés para los colombianos.",
+      "inicio": "2026-09-01T14:30:00",
+      "fin": "2026-09-01T15:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "En Forma",
-      "descripcion": "Un programa dedicado a la vida sana y la prevención tanto desde el punto de vista de la medicina tradicional como de las terapias alternativas.",
-      "inicio": "2026-08-31T15:00:00",
-      "fin": "2026-08-31T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enforma.jpg"
-    },
-    {
-      "titulo": "Con sabor y saber",
-      "descripcion": "Un programa que combina la gastronomía con temas relacionados con los alimentos, como la sobrepesca, el impacto ecológico de la producción agraria y ganadera o las tradiciones culinarias.",
-      "inicio": "2026-08-31T15:30:00",
-      "fin": "2026-08-31T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/consaborysaber.jpg"
-    },
-    {
-      "titulo": "Mamás felices",
-      "descripcion": "Un espacio destinado a toda la familia, para compartir información y brindar contención.",
-      "inicio": "2026-08-31T16:00:00",
-      "fin": "2026-08-31T17:00:00",
+      "titulo": "El invitado de RFI",
+      "descripcion": "Una personalidad invitada charla sobre actualidad política y cultural.",
+      "inicio": "2026-09-01T15:30:00",
+      "fin": "2026-09-01T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Euromaxx",
+      "descripcion": "Una mirada a la gente, al estilo de vida, los lugares, las artes, la cultura, los conciertos, la música y la moda en Europa.",
+      "inicio": "2026-09-01T16:00:00",
+      "fin": "2026-09-01T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/euromaxx.jpg"
     },
     {
       "titulo": "Noticiero Unicanal",
       "descripcion": "La información más destacada y las últimas novedades de la actualidad.",
-      "inicio": "2026-08-31T17:00:00",
-      "fin": "2026-08-31T18:00:00",
+      "inicio": "2026-09-01T17:00:00",
+      "fin": "2026-09-01T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "El explorador",
-      "descripcion": "Un magazine informativo con corresponsales en todas partes de Argentina y del continente.",
-      "inicio": "2026-08-31T18:00:00",
-      "fin": "2026-08-31T19:00:00",
+      "titulo": "Especiales CGTN",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-01T18:00:00",
+      "fin": "2026-09-01T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "OEA news",
+      "descripcion": "Formato periodístico televisivo de noticias de la OEA para toda América Latina. Una propuesta de encuentro con las sociedades de las Américas.",
+      "inicio": "2026-09-01T20:00:00",
+      "fin": "2026-09-01T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El corresponsal",
+      "descripcion": "Un ciclo semanal que muestra el detrás de escena y las noticias de actualidad.",
+      "inicio": "2026-09-01T20:30:00",
+      "fin": "2026-09-01T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias",
+      "descripcion": "Las noticias nacionales e internacionales de deportes, finanzas, espectáculos, cultura y demás.",
+      "inicio": "2026-09-01T21:30:00",
+      "fin": "2026-09-01T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "El noticiero del Trece",
+      "descripcion": "Información y actualidad minuto a minuto y diversos temas de interés del público. Un programa con secciones que abordan todos los temas relevantes del día a día.",
+      "inicio": "2026-09-01T22:00:00",
+      "fin": "2026-09-01T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El noticiero del Trece",
+      "descripcion": "Información y actualidad minuto a minuto y diversos temas de interés del público. Un programa con secciones que abordan todos los temas relevantes del día a día.",
+      "inicio": "2026-09-01T23:00:00",
+      "fin": "2026-09-01T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Conectados",
+      "descripcion": "Espacio con información, noticias, entrevistas, columnas de opinión y la mejor música del litoral uruguayo-argentino.",
+      "inicio": "2026-09-01T23:30:00",
+      "fin": "2026-09-02T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conectados.jpg"
+    },
+    {
+      "titulo": "Conversando la noche",
+      "descripcion": "Espacio de diálogo y conversación para conocer más de cerca a diferentes personalidades.",
+      "inicio": "2026-09-02T00:00:00",
+      "fin": "2026-09-02T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Testigo directo",
       "descripcion": "Un programa periodístico moderno, con reporteros y periodistas arriesgados que cubren sucesos y casos impactantes de la vida real.",
-      "inicio": "2026-08-31T19:00:00",
-      "fin": "2026-08-31T20:00:00",
+      "inicio": "2026-09-02T01:00:00",
+      "fin": "2026-09-02T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "UCL TV",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T20:00:00",
-      "fin": "2026-09-01T00:00:00",
+      "titulo": "Alegrate",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-02T02:00:00",
+      "fin": "2026-09-02T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "UCL TV",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T00:00:00",
-      "fin": "2026-09-01T04:00:00",
+      "titulo": "Así son las cosas",
+      "descripcion": "Un mundo paralelo donde los objetos cotidianos tienen su vida propia, encarnando dramas, alegrías, aventuras y romances.",
+      "inicio": "2026-09-02T04:00:00",
+      "fin": "2026-09-02T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/asisonlascosas.jpg"
+    },
+    {
+      "titulo": "Así son las cosas",
+      "descripcion": "Un mundo paralelo donde los objetos cotidianos tienen su vida propia, encarnando dramas, alegrías, aventuras y romances.",
+      "inicio": "2026-09-02T05:00:00",
+      "fin": "2026-09-02T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/asisonlascosas.jpg"
+    },
+    {
+      "titulo": "Arriba hoy",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-02T06:00:00",
+      "fin": "2026-09-02T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "UCL TV",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T04:00:00",
-      "fin": "2026-09-01T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Euromaxx",
+      "descripcion": "Una mirada a la gente, al estilo de vida, los lugares, las artes, la cultura, los conciertos, la música y la moda en Europa.",
+      "inicio": "2026-09-02T09:00:00",
+      "fin": "2026-09-02T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/euromaxx.jpg"
     },
     {
-      "titulo": "UCL TV",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T08:00:00",
-      "fin": "2026-09-01T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Visión futuro",
+      "descripcion": "Información dirigida a todos aquellos que se interesan por el avance de la ciencia en Europa y, específicamente, en Alemania.",
+      "inicio": "2026-09-02T09:30:00",
+      "fin": "2026-09-02T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/visionfuturo.jpg"
     }
   ]
 }

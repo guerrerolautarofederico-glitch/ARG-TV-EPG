@@ -1,66 +1,332 @@
 {
   "actual": {
-    "titulo": "Discovery Kids",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-31T11:00:00",
-    "fin": "2026-08-31T15:00:00",
+    "titulo": "Academia Unicornio • Tensiones en aumento",
+    "descripcion": "Tensiones en aumento | La profesora Wildwood les pide a los Zafiros que protejan a los unicornios salvajes de un volcán. Entonces, Sophia aprovecha la oportunidad para buscar otra estrella de la corona.",
+    "inicio": "2026-09-01T09:25:00",
+    "fin": "2026-09-01T09:49:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Discovery Kids",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-31T15:00:00",
-    "fin": "2026-08-31T19:00:00",
+    "titulo": "Peppa • Walkie-talkies",
+    "descripcion": "Walkie-talkies | Peppa y George juegan con transmisores-receptores portátiles en casa de la abuela y el abuelo Pig. El abuelo Pig les enseña a Peppa y a George cómo usar nombres en clave con los dispositivos.",
+    "inicio": "2026-09-01T09:49:00",
+    "fin": "2026-09-01T10:14:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Discovery Kids",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T11:00:00",
-      "fin": "2026-08-31T15:00:00",
+      "titulo": "Academia Unicornio • Tensiones en aumento",
+      "descripcion": "Tensiones en aumento | La profesora Wildwood les pide a los Zafiros que protejan a los unicornios salvajes de un volcán. Entonces, Sophia aprovecha la oportunidad para buscar otra estrella de la corona.",
+      "inicio": "2026-09-01T09:25:00",
+      "fin": "2026-09-01T09:49:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa • Walkie-talkies",
+      "descripcion": "Walkie-talkies | Peppa y George juegan con transmisores-receptores portátiles en casa de la abuela y el abuelo Pig. El abuelo Pig les enseña a Peppa y a George cómo usar nombres en clave con los dispositivos.",
+      "inicio": "2026-09-01T09:49:00",
+      "fin": "2026-09-01T10:14:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa • La oficina de Peppa",
+      "descripcion": "La oficina de Peppa | Mamá y papá Pig están trabajando duro en su oficina en casa, pero Peppa también quiere trabajar en ella.",
+      "inicio": "2026-09-01T10:14:00",
+      "fin": "2026-09-01T10:39:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa",
+      "descripcion": "Un día de mucho frío; en la guardería de Peppa hacen un pequeño mercado para recaudar fondos y cambiar el techo; Peppa tiene una nueva amiga, francesa, por correspondencia.",
+      "inicio": "2026-09-01T10:39:00",
+      "fin": "2026-09-01T11:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa",
+      "descripcion": "Madame Gazelle enseña cómo hacer una cápsula de tiempo; Peppa y su familia van a la piscina; Peppa y su familia dan un paseo en bicicleta.",
+      "inicio": "2026-09-01T11:02:00",
+      "fin": "2026-09-01T11:27:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Talking Tom Heroes: Los Superpoderosos • Problemas con Tom",
+      "descripcion": "Problemas con Tom | Los Rakoonz preparan una serie de trucos que hacen que Tom dude de sus poderes. Sus amigos lo ayudan.",
+      "inicio": "2026-09-01T11:27:00",
+      "fin": "2026-09-01T11:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Dog & Pony Show • Los superhéroes",
+      "descripcion": "Los superhéroes | Dog y Pony se convierten en superhéroes, pero deben demostrar sus habilidades cuando hacen aparecer a un conejo supervillano.",
+      "inicio": "2026-09-01T11:40:00",
+      "fin": "2026-09-01T11:52:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thedogponyshow.jpg"
+    },
+    {
+      "titulo": "The Dog & Pony Show • Dog aprende a hacer magia",
+      "descripcion": "Dog aprende a hacer magia | Dog se convierte en un mago, pero pasan cosas extrañas cuando Pony agrega algo a la mezcla.",
+      "inicio": "2026-09-01T11:52:00",
+      "fin": "2026-09-01T12:06:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thedogponyshow.jpg"
+    },
+    {
+      "titulo": "The Dog & Pony Show • Un día de descanso",
+      "descripcion": "Un día de descanso | Perro y Poni pasan un día en el spa, pero Perro se relaja demasiado.",
+      "inicio": "2026-09-01T12:06:00",
+      "fin": "2026-09-01T12:18:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thedogponyshow.jpg"
+    },
+    {
+      "titulo": "The Dog & Pony Show • ¡Despeguen!",
+      "descripcion": "¡Despeguen! | Dog y Pony prueban el trapecio, pero el Fondo Mágico de Pony los envía demasiado alto.",
+      "inicio": "2026-09-01T12:18:00",
+      "fin": "2026-09-01T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thedogponyshow.jpg"
+    },
+    {
+      "titulo": "Peppa",
+      "descripcion": "Peppa, George, Mamá Pig y Papá Pig van a visitar a la familia Canguro en Australia y exploran las afueras.",
+      "inicio": "2026-09-01T12:30:00",
+      "fin": "2026-09-01T12:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa • La casa de verano; Vacaciones en el sol; De regreso a casa; Espejos; Pedro llega tarde",
+      "descripcion": "La casa de verano; Vacaciones en el sol; De regreso a casa; Espejos; Pedro llega tarde | Peppa y su familia viajan a Italia, y descubren que allá todos hablan en italiano; Peppa y George lo pasan en grande con los reflejos de los espejos; Pedro llega tarde para viajar.",
+      "inicio": "2026-09-01T12:35:00",
+      "fin": "2026-09-01T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa • Juegos en el jardín; A navegar; La tetera del Señor Toribio; Fruta; El globo de George",
+      "descripcion": "Juegos en el jardín; A navegar; La tetera del Señor Toribio; Fruta; El globo de George | Peppa y Suzy se aburren; todos van al lago a pasear en bote; el Sr. Toribio rompe sin querer la tetera cuando estaba disfrutando de una taza de té.",
+      "inicio": "2026-09-01T13:00:00",
+      "fin": "2026-09-01T13:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "7 chances para: Cortos • El rap de Bamb00: Atrapando el sueño",
+      "descripcion": "El rap de Bamb00: Atrapando el sueño | Se sabe que Bamb00 es un robot muy sincero, pero aparte de eso, ¡es un gran rapero! ¡Una invitación a ver algunos de sus raps que dejarán muchos momentos \"guau\"!",
+      "inicio": "2026-09-01T13:25:00",
+      "fin": "2026-09-01T13:27:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mermaid Magic • A Volcanic Adventure",
+      "descripcion": "A Volcanic Adventure | El grupo continúa su búsqueda de las perlas perdidas dentro de un volcán inactivo. Pero Barbarroja espera en la sombra para trastocar sus planes.",
+      "inicio": "2026-09-01T13:27:00",
+      "fin": "2026-09-01T13:51:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jorge, el curioso • El delfín del sombrero amarillo; El día de descanso del perro",
+      "descripcion": "El delfín del sombrero amarillo; El día de descanso del perro | Mientras construye castillos de arena en la playa, Jorge utiliza el sombrero del Hombre del Sombrero Amarillo como balde, pero las olas se llevan el sombrero al mar. Jorge ayuda a Hundley a ganar confianza.",
+      "inicio": "2026-09-01T13:51:00",
+      "fin": "2026-09-01T14:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mermicorno: lluvia de estrellas • Ciudad fantasma",
+      "descripcion": "Ciudad fantasma | Después de que los mermicornos tropiecen con una misteriosa ciudad fantasma, se revela una impactante sorpresa sobre el pasado y el presente de Gwen.",
+      "inicio": "2026-09-01T14:15:00",
+      "fin": "2026-09-01T14:39:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mermicorno: lluvia de estrellas • ¡Baile, magia, baile!",
+      "descripcion": "¡Baile, magia, baile! | Obligados a refugiarse en el espeluznante Bosque de Algas, los mermicornos se encuentran a merced de los traviesos duendecillos de agua.",
+      "inicio": "2026-09-01T14:39:00",
+      "fin": "2026-09-01T15:03:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Shasha y Milo: cortos • ¡A la escuela!",
+      "descripcion": "¡A la escuela! | Milo llega a la escuela a tiempo pase lo que pase.",
+      "inicio": "2026-09-01T15:03:00",
+      "fin": "2026-09-01T15:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa",
+      "descripcion": "Peppa, George, Mamá Pig y Papá Pig van a visitar a la familia Canguro en Australia y exploran las afueras.",
+      "inicio": "2026-09-01T15:05:00",
+      "fin": "2026-09-01T15:31:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa • Hotel para insectos",
+      "descripcion": "Hotel para insectos | En casa de los abuelos, el abuelo Pig ha hecho un hotel para los insectos. Empiezan a llegar muchos bichitos y el hotel está casi lleno. Un abejorro no encuentra sitio porque las habitaciones son pequeñas para él.",
+      "inicio": "2026-09-01T15:31:00",
+      "fin": "2026-09-01T15:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mini Beat Power Rockers • Super Popper",
+      "descripcion": "Super Popper | Dolores, cansada de la música de los Baby Rockers, decide comprar un robot que la ayudará a dormirlos. Pero no todo saldrá como pensaba y al ritmo del punk, los Baby Rockers intentarán cambiar la situación.",
+      "inicio": "2026-09-01T15:57:00",
+      "fin": "2026-09-01T16:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mini Beat Power Rockers • ¡A dormir!",
+      "descripcion": "¡A dormir! | Para que los bebés se duerman, Dolores echa mano de su mejor recurso: las canciones de cuna. Pero incluso desde sus sueños, estos son capaces de resistirse con lo que mejor hacen: ¡música de rock!",
+      "inicio": "2026-09-01T16:02:00",
+      "fin": "2026-09-01T16:09:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mini Beat Power Rockers • Fuz, el rebelde",
+      "descripcion": "Fuz, el rebelde | Fuz recibe una invitación para asistir a la mejor academia musical del mundo, a la cual concurren los bebés más talentosos e inteligentes. Para no abandonar a sus amigos, Fuz decide convertirse en un rebelde al ritmo del Grunge.",
+      "inicio": "2026-09-01T16:09:00",
+      "fin": "2026-09-01T16:14:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Talking Tom Heroes: Los Superpoderosos • Gordon el Grande liberado",
+      "descripcion": "Gordon el Grande liberado | Tom y sus amigos van al museo donde conocen a un nuevo villano: ¡Gordon \"el Grande\"!",
+      "inicio": "2026-09-01T16:14:00",
+      "fin": "2026-09-01T16:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bubble's Hotel • Caos robótico",
+      "descripcion": "Caos robótico | Sadie le construye a Superina una compañera robot, pero sus gigantescas piernas elásticas son demasiado difíciles de controlar, y Bubble debe encontrar la forma de combinar los talentos de sus huéspedes para salvar el día.",
+      "inicio": "2026-09-01T16:25:00",
+      "fin": "2026-09-01T16:37:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Winx Club: The Magic Is Back • La Fortaleza de la Luz",
+      "descripcion": "La Fortaleza de la Luz | En busca de respuestas tras el ataque de Vexius, Bloom sigue una voz desconocida hasta la Fortaleza de la Luz, donde hace un descubrimiento impactante sobre sus poderes.",
+      "inicio": "2026-09-01T16:37:00",
+      "fin": "2026-09-01T17:01:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "7 chances para: Cortos • El rap de Bamb00: En búsqueda de la taza perfecta",
+      "descripcion": "El rap de Bamb00: En búsqueda de la taza perfecta | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-01T17:01:00",
+      "fin": "2026-09-01T17:04:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa • Pedro tiene tos; Richard viene a jugar; El camión de bomberos; Paseo en tren",
+      "descripcion": "Pedro tiene tos; Richard viene a jugar; El camión de bomberos; Paseo en tren | Pedro comienza a toser en la escuela, y les contagia la tos al resto de los niños. Richard llega para jugar con George y Suzy lo hace con Peppa. La Sra. Gacela lleva a Peppa y sus amigos a dar un paseo en tren.",
+      "inicio": "2026-09-01T17:04:00",
+      "fin": "2026-09-01T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa",
+      "descripcion": "Peppa, su familia y amigos encarnan valores que sirven de ejemplo a los más pequeños como el amor, la solidaridad, el diálogo familiar entre otros. Unos personajes simpáticos llenos de energía y actividad donde predomina el compañerismo.",
+      "inicio": "2026-09-01T17:30:00",
+      "fin": "2026-09-01T17:56:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa • Sr. Toribio, el profesor",
+      "descripcion": "Sr. Toribio, el profesor | La señora Gacela debe ir al dentista y deja a la clase con el Sr. Toribio. Los niños ya saben lo que el Sr. Toribio sugiere enseñar.",
+      "inicio": "2026-09-01T17:56:00",
+      "fin": "2026-09-01T18:22:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa • Walkie-talkies",
+      "descripcion": "Walkie-talkies | Peppa y George juegan con transmisores-receptores portátiles en casa de la abuela y el abuelo Pig. El abuelo Pig les enseña a Peppa y a George cómo usar nombres en clave con los dispositivos.",
+      "inicio": "2026-09-01T18:22:00",
+      "fin": "2026-09-01T18:47:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa • La oficina de Peppa",
+      "descripcion": "La oficina de Peppa | Mamá y papá Pig están trabajando duro en su oficina en casa, pero Peppa también quiere trabajar en ella.",
+      "inicio": "2026-09-01T18:47:00",
+      "fin": "2026-09-01T19:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa",
+      "descripcion": "Un día de mucho frío; en la guardería de Peppa hacen un pequeño mercado para recaudar fondos y cambiar el techo; Peppa tiene una nueva amiga, francesa, por correspondencia.",
+      "inicio": "2026-09-01T19:10:00",
+      "fin": "2026-09-01T19:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa",
+      "descripcion": "Madame Gazelle enseña cómo hacer una cápsula de tiempo; Peppa y su familia van a la piscina; Peppa y su familia dan un paseo en bicicleta.",
+      "inicio": "2026-09-01T19:35:00",
+      "fin": "2026-09-01T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jorge, el curioso • El delfín del sombrero amarillo; El día de descanso del perro",
+      "descripcion": "El delfín del sombrero amarillo; El día de descanso del perro | Mientras construye castillos de arena en la playa, Jorge utiliza el sombrero del Hombre del Sombrero Amarillo como balde, pero las olas se llevan el sombrero al mar. Jorge ayuda a Hundley a ganar confianza.",
+      "inicio": "2026-09-01T20:00:00",
+      "fin": "2026-09-01T20:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Academia Unicornio • Tensiones en aumento",
+      "descripcion": "Tensiones en aumento | La profesora Wildwood les pide a los Zafiros que protejan a los unicornios salvajes de un volcán. Entonces, Sophia aprovecha la oportunidad para buscar otra estrella de la corona.",
+      "inicio": "2026-09-01T20:25:00",
+      "fin": "2026-09-01T20:51:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Talking Tom Heroes: Los Superpoderosos • Problemas con Tom",
+      "descripcion": "Problemas con Tom | Los Rakoonz preparan una serie de trucos que hacen que Tom dude de sus poderes. Sus amigos lo ayudan.",
+      "inicio": "2026-09-01T20:51:00",
+      "fin": "2026-09-01T21:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa",
+      "descripcion": "Peppa, George, Mamá Pig y Papá Pig van a visitar a la familia Canguro en Australia y exploran las afueras.",
+      "inicio": "2026-09-01T21:02:00",
+      "fin": "2026-09-01T21:07:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa • La casa de verano; Vacaciones en el sol; De regreso a casa; Espejos; Pedro llega tarde",
+      "descripcion": "La casa de verano; Vacaciones en el sol; De regreso a casa; Espejos; Pedro llega tarde | Peppa y su familia viajan a Italia, y descubren que allá todos hablan en italiano; Peppa y George lo pasan en grande con los reflejos de los espejos; Pedro llega tarde para viajar.",
+      "inicio": "2026-09-01T21:07:00",
+      "fin": "2026-09-01T21:32:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peppa • Juegos en el jardín; A navegar; La tetera del Señor Toribio; Fruta; El globo de George",
+      "descripcion": "Juegos en el jardín; A navegar; La tetera del Señor Toribio; Fruta; El globo de George | Peppa y Suzy se aburren; todos van al lago a pasear en bote; el Sr. Toribio rompe sin querer la tetera cuando estaba disfrutando de una taza de té.",
+      "inicio": "2026-09-01T21:32:00",
+      "fin": "2026-09-01T22:32:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Discovery Kids",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-31T15:00:00",
-      "fin": "2026-08-31T19:00:00",
+      "inicio": "2026-09-01T22:32:00",
+      "fin": "2026-09-01T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Discovery Kids",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-31T19:00:00",
-      "fin": "2026-08-31T23:00:00",
+      "inicio": "2026-09-01T23:00:00",
+      "fin": "2026-09-02T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Discovery Kids",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-31T23:00:00",
-      "fin": "2026-09-01T03:00:00",
+      "inicio": "2026-09-02T03:00:00",
+      "fin": "2026-09-02T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Discovery Kids",
       "descripcion": "A confirmar",
-      "inicio": "2026-09-01T03:00:00",
-      "fin": "2026-09-01T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Discovery Kids",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T07:00:00",
-      "fin": "2026-09-01T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Discovery Kids",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T11:00:00",
-      "fin": "2026-09-01T15:00:00",
+      "inicio": "2026-09-02T07:00:00",
+      "fin": "2026-09-02T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

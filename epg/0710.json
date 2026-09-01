@@ -1,66 +1,220 @@
 {
   "actual": {
-    "titulo": "¡Hola! TV",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-31T11:00:00",
-    "fin": "2026-08-31T15:00:00",
+    "titulo": "Cóctel de noticias",
+    "descripcion": "Un toque de celebridades, un poco de realeza, destellos de moda. Los ingredientes imprescindibles para un cóctel de noticias.",
+    "inicio": "2026-09-01T09:30:00",
+    "fin": "2026-09-01T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "¡Hola! TV",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-31T15:00:00",
-    "fin": "2026-08-31T19:00:00",
+    "titulo": "Top de estilo",
+    "descripcion": "Un análisis detallado del estilo de las grandes estrellas del espectáculo en un recorrido por las alfombras rojas, los estrenos y los eventos más exclusivos.",
+    "inicio": "2026-09-01T10:00:00",
+    "fin": "2026-09-01T10:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "¡Hola! TV",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T11:00:00",
-      "fin": "2026-08-31T15:00:00",
+      "titulo": "Cóctel de noticias",
+      "descripcion": "Un toque de celebridades, un poco de realeza, destellos de moda. Los ingredientes imprescindibles para un cóctel de noticias.",
+      "inicio": "2026-09-01T09:30:00",
+      "fin": "2026-09-01T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "¡Hola! TV",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T15:00:00",
-      "fin": "2026-08-31T19:00:00",
+      "titulo": "Top de estilo",
+      "descripcion": "Un análisis detallado del estilo de las grandes estrellas del espectáculo en un recorrido por las alfombras rojas, los estrenos y los eventos más exclusivos.",
+      "inicio": "2026-09-01T10:00:00",
+      "fin": "2026-09-01T10:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "¡Hola! TV",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T19:00:00",
-      "fin": "2026-08-31T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Hola! TV",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T23:00:00",
-      "fin": "2026-09-01T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Hola! TV",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T03:00:00",
-      "fin": "2026-09-01T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Hola! TV",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T07:00:00",
+      "titulo": "Stars in Style",
+      "descripcion": "Elegantes trajes han engalanado a celebridades de la gran pantalla, ayudándolos a promover filmes e inclusive nuevas tendencias.",
+      "inicio": "2026-09-01T10:30:00",
       "fin": "2026-09-01T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
+      "titulo": "Las reinas del shopping",
+      "descripcion": "Un programa sobre compra de prendas de vestir, donde cinco mujeres deben competir con un tiempo y un presupuesto limitado para conseguir un atuendo completo.",
+      "inicio": "2026-09-01T11:00:00",
+      "fin": "2026-09-01T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las reinas del shopping",
+      "descripcion": "Un programa sobre compra de prendas de vestir, donde cinco mujeres deben competir con un tiempo y un presupuesto limitado para conseguir un atuendo completo.",
+      "inicio": "2026-09-01T11:30:00",
+      "fin": "2026-09-01T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Coronas y palacios",
+      "descripcion": "Un recorrido por el mundo de la realeza. Una mirada a la vida de los representantes más importantes de las monarquías.",
+      "inicio": "2026-09-01T12:00:00",
+      "fin": "2026-09-01T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tendencias SXXI",
+      "descripcion": "La creatividad francesa siempre ha sido fértil en los terrenos de la moda, la artesanía, el diseño, la belleza y la gastronomía.",
+      "inicio": "2026-09-01T12:30:00",
+      "fin": "2026-09-01T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fashion Forward",
+      "descripcion": "Las últimas noticias y tendencias, los secretos de belleza y los trucos para verse como las celebridades.",
+      "inicio": "2026-09-01T13:00:00",
+      "fin": "2026-09-01T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Stars in Style",
+      "descripcion": "Elegantes trajes han engalanado a celebridades de la gran pantalla, ayudándolos a promover filmes e inclusive nuevas tendencias.",
+      "inicio": "2026-09-01T13:30:00",
+      "fin": "2026-09-01T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las consejeras de estilo",
+      "descripcion": "Suzanne Jackson, una de las principales estrellas irlandesas de belleza y estilo en redes sociales, une fuerzas con asesores de estilo para ayudar a las personas que han perdido el rumbo en materia de moda y necesitan ayuda para recuperar su estilo.",
+      "inicio": "2026-09-01T14:00:00",
+      "fin": "2026-09-01T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Especiales ¡HOLA! TV • Diana eterna",
+      "descripcion": "Diana eterna | La historia de la princesa Diana, un ícono adorado por el público.",
+      "inicio": "2026-09-01T14:30:00",
+      "fin": "2026-09-01T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El clóset de...",
+      "descripcion": "Un espacio centrado en el estilo de las celebridades y las figuras más destacadas de la realeza.",
+      "inicio": "2026-09-01T15:00:00",
+      "fin": "2026-09-01T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El clóset de...",
+      "descripcion": "Un espacio centrado en el estilo de las celebridades y las figuras más destacadas de la realeza.",
+      "inicio": "2026-09-01T15:30:00",
+      "fin": "2026-09-01T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cóctel de noticias",
+      "descripcion": "Un toque de celebridades, un poco de realeza, destellos de moda. Los ingredientes imprescindibles para un cóctel de noticias.",
+      "inicio": "2026-09-01T16:00:00",
+      "fin": "2026-09-01T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Iglesias. Hermanos a la obra",
+      "descripcion": "Los populares hermanos se encargan de llevar a cabo las reformas para diferentes amigos y celebridades, todos muy conocidos por el gran público, tanto en Madrid como en Miami.",
+      "inicio": "2026-09-01T16:30:00",
+      "fin": "2026-09-01T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Iglesias. Hermanos a la obra",
+      "descripcion": "Los populares hermanos se encargan de llevar a cabo las reformas para diferentes amigos y celebridades, todos muy conocidos por el gran público, tanto en Madrid como en Miami.",
+      "inicio": "2026-09-01T17:00:00",
+      "fin": "2026-09-01T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Iglesias. Hermanos a la obra",
+      "descripcion": "Los populares hermanos se encargan de llevar a cabo las reformas para diferentes amigos y celebridades, todos muy conocidos por el gran público, tanto en Madrid como en Miami.",
+      "inicio": "2026-09-01T17:30:00",
+      "fin": "2026-09-01T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La lista VIP",
+      "descripcion": "Una mirada íntima a los hobbies, rutinas de belleza, vacaciones y todo lo que los ricos y famosos disfrutan en su vida cotidiana.",
+      "inicio": "2026-09-01T18:00:00",
+      "fin": "2026-09-01T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tendencias SXXI",
+      "descripcion": "La creatividad francesa siempre ha sido fértil en los terrenos de la moda, la artesanía, el diseño, la belleza y la gastronomía.",
+      "inicio": "2026-09-01T18:30:00",
+      "fin": "2026-09-01T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las reinas del shopping",
+      "descripcion": "Un programa sobre compra de prendas de vestir, donde cinco mujeres deben competir con un tiempo y un presupuesto limitado para conseguir un atuendo completo.",
+      "inicio": "2026-09-01T19:00:00",
+      "fin": "2026-09-01T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las reinas del shopping",
+      "descripcion": "Un programa sobre compra de prendas de vestir, donde cinco mujeres deben competir con un tiempo y un presupuesto limitado para conseguir un atuendo completo.",
+      "inicio": "2026-09-01T19:30:00",
+      "fin": "2026-09-01T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Especiales realeza • Un año con la Familia Real Sueca",
+      "descripcion": "Un año con la Familia Real Sueca | Los miembros de la realeza abren las puertas a su mundo. Se comparten las biografías de las personalidades más importantes del mundo de la realeza.",
+      "inicio": "2026-09-01T20:00:00",
+      "fin": "2026-09-01T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Especiales realeza • Un año con la Familia Real Sueca",
+      "descripcion": "Un año con la Familia Real Sueca | Los miembros de la realeza abren las puertas a su mundo. Se comparten las biografías de las personalidades más importantes del mundo de la realeza.",
+      "inicio": "2026-09-01T20:30:00",
+      "fin": "2026-09-01T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Código royal",
+      "descripcion": "Un recorrido por las tradiciones milenarias, normas, curiosidades y privilegios que rodean a los miembros de la Familia Real Británica.",
+      "inicio": "2026-09-01T21:00:00",
+      "fin": "2026-09-01T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Código royal",
+      "descripcion": "Un recorrido por las tradiciones milenarias, normas, curiosidades y privilegios que rodean a los miembros de la Familia Real Británica.",
+      "inicio": "2026-09-01T21:30:00",
+      "fin": "2026-09-01T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
       "titulo": "¡Hola! TV",
       "descripcion": "A confirmar",
-      "inicio": "2026-09-01T11:00:00",
-      "fin": "2026-09-01T15:00:00",
+      "inicio": "2026-09-01T22:30:00",
+      "fin": "2026-09-01T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¡Hola! TV",
+      "descripcion": "A confirmar",
+      "inicio": "2026-09-01T23:00:00",
+      "fin": "2026-09-02T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¡Hola! TV",
+      "descripcion": "A confirmar",
+      "inicio": "2026-09-02T03:00:00",
+      "fin": "2026-09-02T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¡Hola! TV",
+      "descripcion": "A confirmar",
+      "inicio": "2026-09-02T07:00:00",
+      "fin": "2026-09-02T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

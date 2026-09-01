@@ -1,66 +1,171 @@
 {
   "actual": {
-    "titulo": "Warner Channel",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-31T11:00:00",
-    "fin": "2026-08-31T15:00:00",
+    "titulo": "Hollywood One on One",
+    "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
+    "inicio": "2026-09-01T09:44:00",
+    "fin": "2026-09-01T09:57:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Warner Channel",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-31T15:00:00",
-    "fin": "2026-08-31T19:00:00",
+    "titulo": "Death at a Funeral",
+    "descripcion": "Prepararse para un funeral no es nada agradable. Aarón tiene el peor día de su vida cuando trata de dar a su difunto padre un merecido funeral, pero amigos y familiares provocan un caos.",
+    "inicio": "2026-09-01T09:57:00",
+    "fin": "2026-09-01T11:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
+      "titulo": "Hollywood One on One",
+      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
+      "inicio": "2026-09-01T09:44:00",
+      "fin": "2026-09-01T09:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Death at a Funeral",
+      "descripcion": "Prepararse para un funeral no es nada agradable. Aarón tiene el peor día de su vida cuando trata de dar a su difunto padre un merecido funeral, pero amigos y familiares provocan un caos.",
+      "inicio": "2026-09-01T09:57:00",
+      "fin": "2026-09-01T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Big Bang Theory • The Euclid Alternative",
+      "descripcion": "The Euclid Alternative | Leonard y sus amigos presentan una intervención para obligar a Sheldon a enfrentar sus temores para manejar.",
+      "inicio": "2026-09-01T11:30:00",
+      "fin": "2026-09-01T11:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Big Bang Theory • The Cooper-Nowitzki Theorem",
+      "descripcion": "The Cooper-Nowitzki Theorem | Sheldon y el grupo se confunden cuando una joven estudiante graduada se siente atraída por él.",
+      "inicio": "2026-09-01T11:53:00",
+      "fin": "2026-09-01T12:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Big Bang Theory • The Panty Piñata Polarization",
+      "descripcion": "The Panty Piñata Polarization | Cuando Sheldon corre a Penny del apartamento por una serie de infracciones, Penny intenta vengarse de él.",
+      "inicio": "2026-09-01T12:15:00",
+      "fin": "2026-09-01T12:39:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Big Bang Theory • The Lizard-Spock Expansion",
+      "descripcion": "The Lizard-Spock Expansion | Una chica para la cual Howard alberga sentimientos románticos se siente atraída por Leonard, dejando a Howard furioso y lleno de celos.",
+      "inicio": "2026-09-01T12:39:00",
+      "fin": "2026-09-01T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Big Bang Theory • The White Asparagus Triangulation",
+      "descripcion": "The White Asparagus Triangulation | Sheldon está contento cuando Leonard sale con una mujer que tiene las cualidades que Sheldon considera necesarias.",
+      "inicio": "2026-09-01T13:00:00",
+      "fin": "2026-09-01T13:24:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Big Bang Theory • The Vartabedian Conundrum",
+      "descripcion": "The Vartabedian Conundrum | Leonard se asusta de lo rápido que va su relación con Stephanie y le pide consejo a Penny. Sheldon está más hipocondriaco de lo normal.",
+      "inicio": "2026-09-01T13:24:00",
+      "fin": "2026-09-01T13:46:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Two and a Half Men • Santa's Village of the Damned",
+      "descripcion": "Santa's Village of the Damned | Alan sale con una mujer dominante que se apodera de la casa durante la Navidad y, además, hace engordar a todos con sus recetas.",
+      "inicio": "2026-09-01T13:46:00",
+      "fin": "2026-09-01T14:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Two and a Half Men • That Special Tug",
+      "descripcion": "That Special Tug | La crisis emocional de Alan después de dejar a Jake para que pase el fin de semana fuera de casa, lo envía a Charlie a la terapeuta.",
+      "inicio": "2026-09-01T14:10:00",
+      "fin": "2026-09-01T14:34:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Two and a Half Men • Humiliation Is a Visual Medium",
+      "descripcion": "Humiliation Is a Visual Medium | Charlie debe afrontar un importante reto en su relación con Mía: ella le exige un compromiso formal a cambio de tener relaciones sexuales por primera vez.",
+      "inicio": "2026-09-01T14:34:00",
+      "fin": "2026-09-01T14:58:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Two and a Half Men • Love Isn't Blind, It's Retarded",
+      "descripcion": "Love Isn't Blind, It's Retarded | Charlie planea una cita romántica con Mía con la esperanza de consumar su relación. En tanto, Alan empieza a salir con la más reciente exnovia de Charlie.",
+      "inicio": "2026-09-01T14:58:00",
+      "fin": "2026-09-01T15:22:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Two and a Half Men • My Tongue Is Meat",
+      "descripcion": "My Tongue Is Meat | Cuando Charlie descubre que no puede continuar con el estilo de vida saludable que Mía le impuso, él consume cigarrillos, cerveza y hamburguesas en el garaje.",
+      "inicio": "2026-09-01T15:22:00",
+      "fin": "2026-09-01T15:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Two and a Half Men • Ergo, the Booty Call",
+      "descripcion": "Ergo, the Booty Call | Alan intenta evitar llevar a su sexy novia de 22 años a la fiesta de cumpleaños de Jake, pues no quiere presentársela a Evelyn.",
+      "inicio": "2026-09-01T15:45:00",
+      "fin": "2026-09-01T16:09:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cobra Kai • Minefields",
+      "descripcion": "Minefields | Daniel invita a Anthony a unirse a Miyagi-Do y descubre que no conoce a su hijo tan bien como pensaba. Miguel descubre la verdad sobre Johnny y Carmen.",
+      "inicio": "2026-09-01T16:09:00",
+      "fin": "2026-09-01T16:47:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cobrakai.jpg"
+    },
+    {
+      "titulo": "Scott Pilgrim vs. los ex de la chica de sus sueños",
+      "descripcion": "Después de conocer a la mujer de sus sueños, Scott Pilgrim debe enfrentarse a un ejército de las exparejas de ella que quieren deshacerse de él.",
+      "inicio": "2026-09-01T16:47:00",
+      "fin": "2026-09-01T18:47:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pingüinos de Madagascar",
+      "descripcion": "Skipper, Kowalski, Rico y Cabo se unen a la organización encubierta Ráfaga Polar para evitar que el villano doctor Octavio Salitre destruya el mundo.",
+      "inicio": "2026-09-01T18:47:00",
+      "fin": "2026-09-01T20:21:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Matilda",
+      "descripcion": "Matilda Wormwood es una jovencita extremadamente curiosa e inteligente, todo lo contrario que sus chabacanos padres, que a menudo la ignoran. A medida que crece va descubriendo que posee poderes telequinéticos, hasta que un día un profesor le enseña que puede usar esos poderes para ayudar a sus amigos. Además las personas que hasta ese momento le han hecho la vida imposible sufrirán las consecuencias.",
+      "inicio": "2026-09-01T20:21:00",
+      "fin": "2026-09-01T21:21:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matilda.jpg"
+    },
+    {
       "titulo": "Warner Channel",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-31T11:00:00",
-      "fin": "2026-08-31T15:00:00",
+      "inicio": "2026-09-01T21:21:00",
+      "fin": "2026-09-01T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Warner Channel",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-31T15:00:00",
-      "fin": "2026-08-31T19:00:00",
+      "inicio": "2026-09-01T22:00:00",
+      "fin": "2026-09-02T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Warner Channel",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-31T19:00:00",
-      "fin": "2026-08-31T23:00:00",
+      "inicio": "2026-09-02T02:00:00",
+      "fin": "2026-09-02T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Warner Channel",
       "descripcion": "A confirmar",
-      "inicio": "2026-08-31T23:00:00",
-      "fin": "2026-09-01T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Warner Channel",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T03:00:00",
-      "fin": "2026-09-01T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Warner Channel",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T07:00:00",
-      "fin": "2026-09-01T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Warner Channel",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T11:00:00",
-      "fin": "2026-09-01T15:00:00",
+      "inicio": "2026-09-02T06:00:00",
+      "fin": "2026-09-02T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

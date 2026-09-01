@@ -1,66 +1,157 @@
 {
   "actual": {
-    "titulo": "NTN 24",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-31T11:00:00",
-    "fin": "2026-08-31T15:00:00",
+    "titulo": "La noche",
+    "descripcion": "Un espacio en el que el periodismo serio, responsable y honesto, presenta debates sobre los temas más importantes del país y del mundo desde diferentes puntos de vista, así el televidente podrá sacar sus propias conclusiones.",
+    "inicio": "2026-09-01T09:00:00",
+    "fin": "2026-09-01T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "NTN 24",
-    "descripcion": "A confirmar",
-    "inicio": "2026-08-31T15:00:00",
-    "fin": "2026-08-31T19:00:00",
+    "titulo": "El informativo",
+    "descripcion": "Las noticias de América Latina y el mundo, con los puntos de vista de expertos, analistas y corresponsales.",
+    "inicio": "2026-09-01T10:00:00",
+    "fin": "2026-09-01T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "NTN 24",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T11:00:00",
-      "fin": "2026-08-31T15:00:00",
+      "titulo": "La noche",
+      "descripcion": "Un espacio en el que el periodismo serio, responsable y honesto, presenta debates sobre los temas más importantes del país y del mundo desde diferentes puntos de vista, así el televidente podrá sacar sus propias conclusiones.",
+      "inicio": "2026-09-01T09:00:00",
+      "fin": "2026-09-01T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "NTN 24",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T15:00:00",
-      "fin": "2026-08-31T19:00:00",
+      "titulo": "El informativo",
+      "descripcion": "Las noticias de América Latina y el mundo, con los puntos de vista de expertos, analistas y corresponsales.",
+      "inicio": "2026-09-01T10:00:00",
+      "fin": "2026-09-01T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "NTN 24",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T19:00:00",
-      "fin": "2026-08-31T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NTN 24",
-      "descripcion": "A confirmar",
-      "inicio": "2026-08-31T23:00:00",
-      "fin": "2026-09-01T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NTN 24",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T03:00:00",
-      "fin": "2026-09-01T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NTN 24",
-      "descripcion": "A confirmar",
-      "inicio": "2026-09-01T07:00:00",
+      "titulo": "El informativo",
+      "descripcion": "Las noticias de América Latina y el mundo, con los puntos de vista de expertos, analistas y corresponsales.",
+      "inicio": "2026-09-01T10:00:00",
       "fin": "2026-09-01T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
+      "titulo": "La mañana",
+      "descripcion": "Estreno ║ Noticias de actualidad con temas que marcan la agenda informativa en América y el mundo todos los días.",
+      "inicio": "2026-09-01T11:00:00",
+      "fin": "2026-09-01T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La mañana",
+      "descripcion": "Estreno ║ Noticias de actualidad con temas que marcan la agenda informativa en América y el mundo todos los días.",
+      "inicio": "2026-09-01T11:00:00",
+      "fin": "2026-09-01T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El informativo",
+      "descripcion": "Estreno ║ Las noticias de América Latina y el mundo, con los puntos de vista de expertos, analistas y corresponsales.",
+      "inicio": "2026-09-01T13:00:00",
+      "fin": "2026-09-01T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El informativo",
+      "descripcion": "Estreno ║ Las noticias de América Latina y el mundo, con los puntos de vista de expertos, analistas y corresponsales.",
+      "inicio": "2026-09-01T13:00:00",
+      "fin": "2026-09-01T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Club de prensa",
+      "descripcion": "Estreno ║ Periodistas y analistas internacionales comentan las noticias más importantes del mundo. En directo desde Washington.",
+      "inicio": "2026-09-01T15:00:00",
+      "fin": "2026-09-01T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Club de prensa",
+      "descripcion": "Estreno ║ Periodistas y analistas internacionales comentan las noticias más importantes del mundo. En directo desde Washington.",
+      "inicio": "2026-09-01T15:00:00",
+      "fin": "2026-09-01T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La tarde",
+      "descripcion": "Estreno ║ Análisis y debate sobre las noticias más relevantes de la región y el mundo.",
+      "inicio": "2026-09-01T17:00:00",
+      "fin": "2026-09-01T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La tarde",
+      "descripcion": "Estreno ║ Análisis y debate sobre las noticias más relevantes de la región y el mundo.",
+      "inicio": "2026-09-01T17:00:00",
+      "fin": "2026-09-01T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La noche",
+      "descripcion": "Estreno ║ Un espacio en el que el periodismo serio, responsable y honesto, presenta debates sobre los temas más importantes del país y del mundo desde diferentes puntos de vista, así el televidente podrá sacar sus propias conclusiones.",
+      "inicio": "2026-09-01T19:00:00",
+      "fin": "2026-09-01T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La noche",
+      "descripcion": "Estreno ║ Un espacio en el que el periodismo serio, responsable y honesto, presenta debates sobre los temas más importantes del país y del mundo desde diferentes puntos de vista, así el televidente podrá sacar sus propias conclusiones.",
+      "inicio": "2026-09-01T19:00:00",
+      "fin": "2026-09-01T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El informativo",
+      "descripcion": "Estreno ║ Las noticias de América Latina y el mundo, con los puntos de vista de expertos, analistas y corresponsales.",
+      "inicio": "2026-09-01T20:00:00",
+      "fin": "2026-09-01T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El informativo",
+      "descripcion": "Estreno ║ Las noticias de América Latina y el mundo, con los puntos de vista de expertos, analistas y corresponsales.",
+      "inicio": "2026-09-01T20:00:00",
+      "fin": "2026-09-01T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El informativo",
+      "descripcion": "Las noticias de América Latina y el mundo, con los puntos de vista de expertos, analistas y corresponsales.",
+      "inicio": "2026-09-01T21:00:00",
+      "fin": "2026-09-01T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El informativo",
+      "descripcion": "Las noticias de América Latina y el mundo, con los puntos de vista de expertos, analistas y corresponsales.",
+      "inicio": "2026-09-01T21:00:00",
+      "fin": "2026-09-01T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
       "titulo": "NTN 24",
       "descripcion": "A confirmar",
-      "inicio": "2026-09-01T11:00:00",
-      "fin": "2026-09-01T15:00:00",
+      "inicio": "2026-09-01T22:00:00",
+      "fin": "2026-09-02T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NTN 24",
+      "descripcion": "A confirmar",
+      "inicio": "2026-09-02T02:00:00",
+      "fin": "2026-09-02T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NTN 24",
+      "descripcion": "A confirmar",
+      "inicio": "2026-09-02T06:00:00",
+      "fin": "2026-09-02T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
