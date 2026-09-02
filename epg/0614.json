@@ -1,320 +1,19 @@
 {
   "actual": {
-    "titulo": "City Tour",
-    "descripcion": "Un programa que explora la riqueza natural y cultural de diversas ciudades alrededor del mundo. El público podrá descubrir la variedad de costumbres, tradiciones, actividades y gastronomías propias de cada destino presentado.",
-    "inicio": "2026-09-01T09:30:00",
-    "fin": "2026-09-01T10:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/citytour.jpg"
+    "titulo": "Latin American Foodie USA Venz Chile",
+    "descripcion": "Adolfo Suaya viaja por el mundo descubriendo la deliciosa gastronomía que se esconde detrás de cada cultura.",
+    "inicio": "2026-09-02T09:00:00",
+    "fin": "2026-09-02T09:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "En claves",
-    "descripcion": "Explora los rincones más fascinantes de España y descrubre Enclaves gastronómicos mediante una guía interactiva, que combina turismo rural y cultural.",
-    "inicio": "2026-09-01T10:00:00",
-    "fin": "2026-09-01T10:30:00",
+    "titulo": "Viajeros del alma",
+    "descripcion": "Un programa que recorre distintos destinos increíbles de Venezuela: paisajes, locaciones únicas, islas, sorpresas, gastronomía y numerosas playas paradisíacas.",
+    "inicio": "2026-09-02T09:30:00",
+    "fin": "2026-09-02T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "City Tour",
-      "descripcion": "Un programa que explora la riqueza natural y cultural de diversas ciudades alrededor del mundo. El público podrá descubrir la variedad de costumbres, tradiciones, actividades y gastronomías propias de cada destino presentado.",
-      "inicio": "2026-09-01T09:30:00",
-      "fin": "2026-09-01T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/citytour.jpg"
-    },
-    {
-      "titulo": "En claves",
-      "descripcion": "Explora los rincones más fascinantes de España y descrubre Enclaves gastronómicos mediante una guía interactiva, que combina turismo rural y cultural.",
-      "inicio": "2026-09-01T10:00:00",
-      "fin": "2026-09-01T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Playlist",
-      "descripcion": "Un programa original que comparte las canciones y los intérpretes más reproducidos del momento.Deja que los sonidos te envuelvan, sube el volumen y prepárate para una experiencia musical que te hará bailar, cantar y vibrar con cada canción. Playlist es mucho más que un listado de temas. Se trata de un viaje sonoro que captura la esencia de los ritmos que dominan las listas y nos ponen en movimiento. Desde los éxitos globales hasta las nuevas tendencias, cada episodio es una invitación a conectar con la música y disfrutar de su magia.",
-      "inicio": "2026-09-01T10:30:00",
-      "fin": "2026-09-01T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Enológica",
-      "descripcion": "Un programa en el que el mundo del vino invita a ampliar el conocimiento y agudizar el paladar para disfrutar nuevos y mejores sabores. Con la combinación de compartir saberes sobre la vinicultura junto con el arte en sus múltiples formas.",
-      "inicio": "2026-09-01T11:30:00",
-      "fin": "2026-09-01T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Semillas del agua",
-      "descripcion": "Fundación Albatros Media nos educa sobre nuestra naturaleza y los efectos del cambio climático en la Tierrra.",
-      "inicio": "2026-09-01T12:00:00",
-      "fin": "2026-09-01T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Aquí estoy",
-      "descripcion": "Espacio en el que Pía Castro conversará con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Un equipo saldrá a las calles a filmar a estas personas en los lugares que más les gustan y hacer de ello encuentros inolvidables. Historias de migración, de integración y de éxito, de arte, política o folklore, pero, sobre todo, vivencias personales. ¿Cómo fue su llegada? ¿Qué los llevó al éxito? ¿Qué extrañan de su país?",
-      "inicio": "2026-09-01T12:30:00",
-      "fin": "2026-09-01T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquiestoy.jpg"
-    },
-    {
-      "titulo": "Desde el set",
-      "descripcion": "El talentoso Elliot Canache nos guiará en un recorrido cinematográfico por las mejores películas vacaciones y de road trip de la historia, esas que nos inspiran a viajar y explorar el mundo.",
-      "inicio": "2026-09-01T13:00:00",
-      "fin": "2026-09-01T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Viajar con propósito",
-      "descripcion": "Mezclando aventura y ecoturismo, conoce los más impresionantes rincones de Venezuela a través de Campamento, Glamping y Overlanding.",
-      "inicio": "2026-09-01T13:30:00",
-      "fin": "2026-09-01T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Saberes milenarios",
-      "descripcion": "La sobrepoblación está dejando heridas en la naturaleza. En este segmento se analizan los graves problemas que afectan a la cultura azteca y los acuíferos de diferentes ciudades, sin dejar de lado las posibles alternativas de solución encontradas por diferentes observadores, tanto foráneos como integrantes de las comunidades afectadas.",
-      "inicio": "2026-09-01T14:00:00",
-      "fin": "2026-09-01T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ecos del mar",
-      "descripcion": "Ecos del Mar es una serie documental que recorre las costas de España mostrando su belleza natural, riqueza cultural y compromiso con la sostenibilidad. De la mano de Javier Espinosa, buzo, artista y alma inquieta del mar, descubrimos tradiciones, paisajes y la vida cotidiana de municipios costeros. Una mirada íntima al vínculo entre el ser humano y el mar.",
-      "inicio": "2026-09-01T14:30:00",
-      "fin": "2026-09-01T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Escápate!",
-      "descripcion": "En cada emisión te presentarán una ciudad o región alemana que vale la pena visitar. Los presentadores escalan, bucean, caminan y también degustan las especialidades culinarias en cada lugar visitado. Además, podrás conocer sitios turísticos de otros países como Terranova, Ecuador o la tundra finlandesa. En cada entrega se presentará un video grabado por un espectador en su destino favorito, y en el espacio 'Europeando' descubrirás los lugares más exquisitos del viejo continente.",
-      "inicio": "2026-09-01T15:00:00",
-      "fin": "2026-09-01T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/escapate.jpg"
-    },
-    {
-      "titulo": "City Tour",
-      "descripcion": "Un programa que explora la riqueza natural y cultural de diversas ciudades alrededor del mundo. El público podrá descubrir la variedad de costumbres, tradiciones, actividades y gastronomías propias de cada destino presentado.",
-      "inicio": "2026-09-01T15:30:00",
-      "fin": "2026-09-01T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/citytour.jpg"
-    },
-    {
-      "titulo": "En claves",
-      "descripcion": "Explora los rincones más fascinantes de España y descrubre Enclaves gastronómicos mediante una guía interactiva, que combina turismo rural y cultural.",
-      "inicio": "2026-09-01T16:00:00",
-      "fin": "2026-09-01T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Playlist",
-      "descripcion": "Un programa original que comparte las canciones y los intérpretes más reproducidos del momento.Deja que los sonidos te envuelvan, sube el volumen y prepárate para una experiencia musical que te hará bailar, cantar y vibrar con cada canción. Playlist es mucho más que un listado de temas. Se trata de un viaje sonoro que captura la esencia de los ritmos que dominan las listas y nos ponen en movimiento. Desde los éxitos globales hasta las nuevas tendencias, cada episodio es una invitación a conectar con la música y disfrutar de su magia.",
-      "inicio": "2026-09-01T16:30:00",
-      "fin": "2026-09-01T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Enológica",
-      "descripcion": "Un programa en el que el mundo del vino invita a ampliar el conocimiento y agudizar el paladar para disfrutar nuevos y mejores sabores. Con la combinación de compartir saberes sobre la vinicultura junto con el arte en sus múltiples formas.",
-      "inicio": "2026-09-01T17:30:00",
-      "fin": "2026-09-01T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tesoros del Golfo de California",
-      "descripcion": "Documental que trata de vincular la cultura con la conservación, donde se conecta la naturaleza con la reflexión de la diversidad de especies vegetales y animales que viven en el Golfo de California. Además, presenta algunos testimonios de habitantes de Baja California Sur, quienes comparten su vivencia de las consecuencias del impacto del huracán Odil, así como también algunas visitas a las fuentes de agua que nacen en las alturas de la sierra de la laguna.",
-      "inicio": "2026-09-01T18:00:00",
-      "fin": "2026-09-01T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ecolatinoamérica",
-      "descripcion": "Una serie de reportajes que presentan conceptos innovadores y proyectos que tienen como objetivo proteger el medio ambiente y actuar contra el cambio climático en la región. El programa ofrece perspectivas sobre temas como la defensa de la biodiversidad, las energías alternativas, la economía circular y la gestión de los recursos naturales en América Latina y el Caribe, entre otros.",
-      "inicio": "2026-09-01T18:30:00",
-      "fin": "2026-09-01T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ecolatinoamerica.jpg"
-    },
-    {
-      "titulo": "Plan 100",
-      "descripcion": "Caracas, una ciudad vibrante y llena de contrastes. ¿Qué puedes hacer con 100 dólares? Acompáñanos en esta aventura y descubre que con un presupuesto reducido, las posibilidades son infinitas.",
-      "inicio": "2026-09-01T19:00:00",
-      "fin": "2026-09-01T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Viajo con vos",
-      "descripcion": "Viajo con vos es un programa que invita a romper el hielo y animarse a viajar con niños pequeños y en familia. En cada episodio intentamos enseñarte cómo llegar al destino, donde poder alojarte, cuáles son las opciones gastronómicas y que actividades poder realizar, todo desde nuestra experiencia viajando por diferentes destinos del mundo en busca de aventuras en familia.",
-      "inicio": "2026-09-01T19:30:00",
-      "fin": "2026-09-01T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Global Es",
-      "descripcion": "Vivimos en un mundo interconectado y existen problemáticas como el cambio climático y la pérdida de biodiversidad que nos afectan a nivel global. Este ciclo plantea soluciones y nuevas perspectivas sobre estos temas a partir de la tecnología, con el objetivo de enfrentar una sociedad que cambia a toda velocidad.",
-      "inicio": "2026-09-01T20:00:00",
-      "fin": "2026-09-01T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Agenda de viajes",
-      "descripcion": "Una producción dedicada a recorrer las distintas ofertas turísticas de la República Argentina. Un programa en el que todos tienen su espacio, que invita a conformar su propia Agenda de viajes.",
-      "inicio": "2026-09-01T20:30:00",
-      "fin": "2026-09-01T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/agendadeviajes.jpg"
-    },
-    {
-      "titulo": "Latin American Foodie USA Venz Chile",
-      "descripcion": "Adolfo Suaya viaja por el mundo descubriendo la deliciosa gastronomía que se esconde detrás de cada cultura.",
-      "inicio": "2026-09-01T21:00:00",
-      "fin": "2026-09-01T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Viajeros del alma",
-      "descripcion": "Un programa que recorre distintos destinos increíbles de Venezuela: paisajes, locaciones únicas, islas, sorpresas, gastronomía y numerosas playas paradisíacas.",
-      "inicio": "2026-09-01T21:30:00",
-      "fin": "2026-09-01T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Euromaxx",
-      "descripcion": "Lo último del estilo de vida y entretenimiento europeos con vibrantes imágenes e historias fascinantes. El espacio refleja la diversidad cultural de la vida en el viejo continente, con reportajes en profundidad, entrevistas y segmentos diarios. Es tan polifacético como Europa misma: una entretenida mezcla de gente, lugares, estilos de vida y lujo, arte, cultura, conciertos, música y vida urbana.",
-      "inicio": "2026-09-01T22:00:00",
-      "fin": "2026-09-01T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/euromaxx.jpg"
-    },
-    {
-      "titulo": "Enclaves - Red de patrimonio histórico",
-      "descripcion": "Un programa que se adentra en las ciudades y pueblos más fascinantes de toda España. El programa explora algunos de los monumentos más espectaculares de la Península Ibérica, centrando su mirada en el patrimonio histórico. En este viaje, el presentador va plasmando sus experiencias en su cuaderno de viaje mientras descubre castillos y monumentos llenos de historia, acompañado siempre por La Voz que le Acompaña.",
-      "inicio": "2026-09-01T22:30:00",
-      "fin": "2026-09-01T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Patrimonio mundial",
-      "descripcion": "Descubra los paraísos de la naturaleza y los monumentos culturales de todo el mundo, a través de este espacio que narra historias de lugares legendarios, ciudades míticas y paisajes únicos, ilustradas con impresionantes imágenes. Tesoros que han sido declarados 'Patrimonio de la Humanidad' por la UNESCO y que te inspirarán a través de sus mitos, leyendas, arquitectura, sumado a las obras de arte de los grandes maestros.",
-      "inicio": "2026-09-01T23:00:00",
-      "fin": "2026-09-02T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tesoros del Golfo de California",
-      "descripcion": "Documental que trata de vincular la cultura con la conservación, donde se conecta la naturaleza con la reflexión de la diversidad de especies vegetales y animales que viven en el Golfo de California. Además, presenta algunos testimonios de habitantes de Baja California Sur, quienes comparten su vivencia de las consecuencias del impacto del huracán Odil, así como también algunas visitas a las fuentes de agua que nacen en las alturas de la sierra de la laguna.",
-      "inicio": "2026-09-02T00:00:00",
-      "fin": "2026-09-02T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ecolatinoamérica",
-      "descripcion": "Una serie de reportajes que presentan conceptos innovadores y proyectos que tienen como objetivo proteger el medio ambiente y actuar contra el cambio climático en la región. El programa ofrece perspectivas sobre temas como la defensa de la biodiversidad, las energías alternativas, la economía circular y la gestión de los recursos naturales en América Latina y el Caribe, entre otros.",
-      "inicio": "2026-09-02T00:30:00",
-      "fin": "2026-09-02T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ecolatinoamerica.jpg"
-    },
-    {
-      "titulo": "Plan 100",
-      "descripcion": "Caracas, una ciudad vibrante y llena de contrastes. ¿Qué puedes hacer con 100 dólares? Acompáñanos en esta aventura y descubre que con un presupuesto reducido, las posibilidades son infinitas.",
-      "inicio": "2026-09-02T01:00:00",
-      "fin": "2026-09-02T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Viajo con vos",
-      "descripcion": "Viajo con vos es un programa que invita a romper el hielo y animarse a viajar con niños pequeños y en familia. En cada episodio intentamos enseñarte cómo llegar al destino, donde poder alojarte, cuáles son las opciones gastronómicas y que actividades poder realizar, todo desde nuestra experiencia viajando por diferentes destinos del mundo en busca de aventuras en familia.",
-      "inicio": "2026-09-02T01:30:00",
-      "fin": "2026-09-02T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Global Es",
-      "descripcion": "Vivimos en un mundo interconectado y existen problemáticas como el cambio climático y la pérdida de biodiversidad que nos afectan a nivel global. Este ciclo plantea soluciones y nuevas perspectivas sobre estos temas a partir de la tecnología, con el objetivo de enfrentar una sociedad que cambia a toda velocidad.",
-      "inicio": "2026-09-02T02:00:00",
-      "fin": "2026-09-02T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Agenda de viajes",
-      "descripcion": "Una producción dedicada a recorrer las distintas ofertas turísticas de la República Argentina. Un programa en el que todos tienen su espacio, que invita a conformar su propia Agenda de viajes.",
-      "inicio": "2026-09-02T02:30:00",
-      "fin": "2026-09-02T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/agendadeviajes.jpg"
-    },
-    {
-      "titulo": "Latin American Foodie USA Venz Chile",
-      "descripcion": "Adolfo Suaya viaja por el mundo descubriendo la deliciosa gastronomía que se esconde detrás de cada cultura.",
-      "inicio": "2026-09-02T03:00:00",
-      "fin": "2026-09-02T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Viajeros del alma",
-      "descripcion": "Un programa que recorre distintos destinos increíbles de Venezuela: paisajes, locaciones únicas, islas, sorpresas, gastronomía y numerosas playas paradisíacas.",
-      "inicio": "2026-09-02T03:30:00",
-      "fin": "2026-09-02T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Euromaxx",
-      "descripcion": "Lo último del estilo de vida y entretenimiento europeos con vibrantes imágenes e historias fascinantes. El espacio refleja la diversidad cultural de la vida en el viejo continente, con reportajes en profundidad, entrevistas y segmentos diarios. Es tan polifacético como Europa misma: una entretenida mezcla de gente, lugares, estilos de vida y lujo, arte, cultura, conciertos, música y vida urbana.",
-      "inicio": "2026-09-02T04:00:00",
-      "fin": "2026-09-02T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/euromaxx.jpg"
-    },
-    {
-      "titulo": "Enclaves - Red de patrimonio histórico",
-      "descripcion": "Un programa que se adentra en las ciudades y pueblos más fascinantes de toda España. El programa explora algunos de los monumentos más espectaculares de la Península Ibérica, centrando su mirada en el patrimonio histórico. En este viaje, el presentador va plasmando sus experiencias en su cuaderno de viaje mientras descubre castillos y monumentos llenos de historia, acompañado siempre por La Voz que le Acompaña.",
-      "inicio": "2026-09-02T04:30:00",
-      "fin": "2026-09-02T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Patrimonio mundial",
-      "descripcion": "Descubra los paraísos de la naturaleza y los monumentos culturales de todo el mundo, a través de este espacio que narra historias de lugares legendarios, ciudades míticas y paisajes únicos, ilustradas con impresionantes imágenes. Tesoros que han sido declarados 'Patrimonio de la Humanidad' por la UNESCO y que te inspirarán a través de sus mitos, leyendas, arquitectura, sumado a las obras de arte de los grandes maestros.",
-      "inicio": "2026-09-02T05:00:00",
-      "fin": "2026-09-02T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tesoros del Golfo de California",
-      "descripcion": "Documental que trata de vincular la cultura con la conservación, donde se conecta la naturaleza con la reflexión de la diversidad de especies vegetales y animales que viven en el Golfo de California. Además, presenta algunos testimonios de habitantes de Baja California Sur, quienes comparten su vivencia de las consecuencias del impacto del huracán Odil, así como también algunas visitas a las fuentes de agua que nacen en las alturas de la sierra de la laguna.",
-      "inicio": "2026-09-02T06:00:00",
-      "fin": "2026-09-02T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ecolatinoamérica",
-      "descripcion": "Una serie de reportajes que presentan conceptos innovadores y proyectos que tienen como objetivo proteger el medio ambiente y actuar contra el cambio climático en la región. El programa ofrece perspectivas sobre temas como la defensa de la biodiversidad, las energías alternativas, la economía circular y la gestión de los recursos naturales en América Latina y el Caribe, entre otros.",
-      "inicio": "2026-09-02T06:30:00",
-      "fin": "2026-09-02T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ecolatinoamerica.jpg"
-    },
-    {
-      "titulo": "Plan 100",
-      "descripcion": "Caracas, una ciudad vibrante y llena de contrastes. ¿Qué puedes hacer con 100 dólares? Acompáñanos en esta aventura y descubre que con un presupuesto reducido, las posibilidades son infinitas.",
-      "inicio": "2026-09-02T07:00:00",
-      "fin": "2026-09-02T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Viajo con vos",
-      "descripcion": "Viajo con vos es un programa que invita a romper el hielo y animarse a viajar con niños pequeños y en familia. En cada episodio intentamos enseñarte cómo llegar al destino, donde poder alojarte, cuáles son las opciones gastronómicas y que actividades poder realizar, todo desde nuestra experiencia viajando por diferentes destinos del mundo en busca de aventuras en familia.",
-      "inicio": "2026-09-02T07:30:00",
-      "fin": "2026-09-02T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Global Es",
-      "descripcion": "Vivimos en un mundo interconectado y existen problemáticas como el cambio climático y la pérdida de biodiversidad que nos afectan a nivel global. Este ciclo plantea soluciones y nuevas perspectivas sobre estos temas a partir de la tecnología, con el objetivo de enfrentar una sociedad que cambia a toda velocidad.",
-      "inicio": "2026-09-02T08:00:00",
-      "fin": "2026-09-02T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Agenda de viajes",
-      "descripcion": "Una producción dedicada a recorrer las distintas ofertas turísticas de la República Argentina. Un programa en el que todos tienen su espacio, que invita a conformar su propia Agenda de viajes.",
-      "inicio": "2026-09-02T08:30:00",
-      "fin": "2026-09-02T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/agendadeviajes.jpg"
-    },
     {
       "titulo": "Latin American Foodie USA Venz Chile",
       "descripcion": "Adolfo Suaya viaja por el mundo descubriendo la deliciosa gastronomía que se esconde detrás de cada cultura.",
@@ -328,6 +27,307 @@
       "inicio": "2026-09-02T09:30:00",
       "fin": "2026-09-02T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Euromaxx",
+      "descripcion": "Lo último del estilo de vida y entretenimiento europeos con vibrantes imágenes e historias fascinantes. El espacio refleja la diversidad cultural de la vida en el viejo continente, con reportajes en profundidad, entrevistas y segmentos diarios. Es tan polifacético como Europa misma: una entretenida mezcla de gente, lugares, estilos de vida y lujo, arte, cultura, conciertos, música y vida urbana.",
+      "inicio": "2026-09-02T10:00:00",
+      "fin": "2026-09-02T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/euromaxx.jpg"
+    },
+    {
+      "titulo": "Enclaves - Red de patrimonio histórico",
+      "descripcion": "Un programa que se adentra en las ciudades y pueblos más fascinantes de toda España. El programa explora algunos de los monumentos más espectaculares de la Península Ibérica, centrando su mirada en el patrimonio histórico. En este viaje, el presentador va plasmando sus experiencias en su cuaderno de viaje mientras descubre castillos y monumentos llenos de historia, acompañado siempre por La Voz que le Acompaña.",
+      "inicio": "2026-09-02T10:30:00",
+      "fin": "2026-09-02T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Patrimonio mundial",
+      "descripcion": "Descubra los paraísos de la naturaleza y los monumentos culturales de todo el mundo, a través de este espacio que narra historias de lugares legendarios, ciudades míticas y paisajes únicos, ilustradas con impresionantes imágenes. Tesoros que han sido declarados 'Patrimonio de la Humanidad' por la UNESCO y que te inspirarán a través de sus mitos, leyendas, arquitectura, sumado a las obras de arte de los grandes maestros.",
+      "inicio": "2026-09-02T11:00:00",
+      "fin": "2026-09-02T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tesoros del Golfo de California",
+      "descripcion": "Documental que trata de vincular la cultura con la conservación, donde se conecta la naturaleza con la reflexión de la diversidad de especies vegetales y animales que viven en el Golfo de California. Además, presenta algunos testimonios de habitantes de Baja California Sur, quienes comparten su vivencia de las consecuencias del impacto del huracán Odil, así como también algunas visitas a las fuentes de agua que nacen en las alturas de la sierra de la laguna.",
+      "inicio": "2026-09-02T12:00:00",
+      "fin": "2026-09-02T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ecolatinoamérica",
+      "descripcion": "Una serie de reportajes que presentan conceptos innovadores y proyectos que tienen como objetivo proteger el medio ambiente y actuar contra el cambio climático en la región. El programa ofrece perspectivas sobre temas como la defensa de la biodiversidad, las energías alternativas, la economía circular y la gestión de los recursos naturales en América Latina y el Caribe, entre otros.",
+      "inicio": "2026-09-02T12:30:00",
+      "fin": "2026-09-02T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ecolatinoamerica.jpg"
+    },
+    {
+      "titulo": "Plan 100",
+      "descripcion": "Caracas, una ciudad vibrante y llena de contrastes. ¿Qué puedes hacer con 100 dólares? Acompáñanos en esta aventura y descubre que con un presupuesto reducido, las posibilidades son infinitas.",
+      "inicio": "2026-09-02T13:00:00",
+      "fin": "2026-09-02T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Viajo con vos",
+      "descripcion": "Viajo con vos es un programa que invita a romper el hielo y animarse a viajar con niños pequeños y en familia. En cada episodio intentamos enseñarte cómo llegar al destino, donde poder alojarte, cuáles son las opciones gastronómicas y que actividades poder realizar, todo desde nuestra experiencia viajando por diferentes destinos del mundo en busca de aventuras en familia.",
+      "inicio": "2026-09-02T13:30:00",
+      "fin": "2026-09-02T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Global Es",
+      "descripcion": "Vivimos en un mundo interconectado y existen problemáticas como el cambio climático y la pérdida de biodiversidad que nos afectan a nivel global. Este ciclo plantea soluciones y nuevas perspectivas sobre estos temas a partir de la tecnología, con el objetivo de enfrentar una sociedad que cambia a toda velocidad.",
+      "inicio": "2026-09-02T14:00:00",
+      "fin": "2026-09-02T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Agenda de viajes",
+      "descripcion": "Una producción dedicada a recorrer las distintas ofertas turísticas de la República Argentina. Un programa en el que todos tienen su espacio, que invita a conformar su propia Agenda de viajes.",
+      "inicio": "2026-09-02T14:30:00",
+      "fin": "2026-09-02T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/agendadeviajes.jpg"
+    },
+    {
+      "titulo": "Latin American Foodie USA Venz Chile",
+      "descripcion": "Adolfo Suaya viaja por el mundo descubriendo la deliciosa gastronomía que se esconde detrás de cada cultura.",
+      "inicio": "2026-09-02T15:00:00",
+      "fin": "2026-09-02T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Viajeros del alma",
+      "descripcion": "Un programa que recorre distintos destinos increíbles de Venezuela: paisajes, locaciones únicas, islas, sorpresas, gastronomía y numerosas playas paradisíacas.",
+      "inicio": "2026-09-02T15:30:00",
+      "fin": "2026-09-02T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Euromaxx",
+      "descripcion": "Lo último del estilo de vida y entretenimiento europeos con vibrantes imágenes e historias fascinantes. El espacio refleja la diversidad cultural de la vida en el viejo continente, con reportajes en profundidad, entrevistas y segmentos diarios. Es tan polifacético como Europa misma: una entretenida mezcla de gente, lugares, estilos de vida y lujo, arte, cultura, conciertos, música y vida urbana.",
+      "inicio": "2026-09-02T16:00:00",
+      "fin": "2026-09-02T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/euromaxx.jpg"
+    },
+    {
+      "titulo": "Enclaves - Red de patrimonio histórico",
+      "descripcion": "Un programa que se adentra en las ciudades y pueblos más fascinantes de toda España. El programa explora algunos de los monumentos más espectaculares de la Península Ibérica, centrando su mirada en el patrimonio histórico. En este viaje, el presentador va plasmando sus experiencias en su cuaderno de viaje mientras descubre castillos y monumentos llenos de historia, acompañado siempre por La Voz que le Acompaña.",
+      "inicio": "2026-09-02T16:30:00",
+      "fin": "2026-09-02T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Patrimonio mundial",
+      "descripcion": "Descubra los paraísos de la naturaleza y los monumentos culturales de todo el mundo, a través de este espacio que narra historias de lugares legendarios, ciudades míticas y paisajes únicos, ilustradas con impresionantes imágenes. Tesoros que han sido declarados 'Patrimonio de la Humanidad' por la UNESCO y que te inspirarán a través de sus mitos, leyendas, arquitectura, sumado a las obras de arte de los grandes maestros.",
+      "inicio": "2026-09-02T17:00:00",
+      "fin": "2026-09-02T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Aquí estoy",
+      "descripcion": "Espacio en el que Pía Castro conversará con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Un equipo saldrá a las calles a filmar a estas personas en los lugares que más les gustan y hacer de ello encuentros inolvidables. Historias de migración, de integración y de éxito, de arte, política o folklore, pero, sobre todo, vivencias personales. ¿Cómo fue su llegada? ¿Qué los llevó al éxito? ¿Qué extrañan de su país?",
+      "inicio": "2026-09-02T18:00:00",
+      "fin": "2026-09-02T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquiestoy.jpg"
+    },
+    {
+      "titulo": "En claves",
+      "descripcion": "Explora los rincones más fascinantes de España y descrubre Enclaves gastronómicos mediante una guía interactiva, que combina turismo rural y cultural.",
+      "inicio": "2026-09-02T18:30:00",
+      "fin": "2026-09-02T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mares de vida",
+      "descripcion": "Producción que muestra la riqueza de los océanos, las costas de América Latina, el Caribe y la Antártida para promover la conciencia ambiental.",
+      "inicio": "2026-09-02T19:00:00",
+      "fin": "2026-09-02T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¡Escápate!",
+      "descripcion": "En cada emisión te presentarán una ciudad o región alemana que vale la pena visitar. Los presentadores escalan, bucean, caminan y también degustan las especialidades culinarias en cada lugar visitado. Además, podrás conocer sitios turísticos de otros países como Terranova, Ecuador o la tundra finlandesa. En cada entrega se presentará un video grabado por un espectador en su destino favorito, y en el espacio 'Europeando' descubrirás los lugares más exquisitos del viejo continente.",
+      "inicio": "2026-09-02T19:30:00",
+      "fin": "2026-09-02T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/escapate.jpg"
+    },
+    {
+      "titulo": "Viajar con propósito",
+      "descripcion": "Mezclando aventura y ecoturismo, conoce los más impresionantes rincones de Venezuela a través de Campamento, Glamping y Overlanding.",
+      "inicio": "2026-09-02T20:00:00",
+      "fin": "2026-09-02T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Saberes milenarios",
+      "descripcion": "La sobrepoblación está dejando heridas en la naturaleza. En este segmento se analizan los graves problemas que afectan a la cultura azteca y los acuíferos de diferentes ciudades, sin dejar de lado las posibles alternativas de solución encontradas por diferentes observadores, tanto foráneos como integrantes de las comunidades afectadas.",
+      "inicio": "2026-09-02T20:30:00",
+      "fin": "2026-09-02T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Enológica",
+      "descripcion": "Enológica, una serie de documental presentada por el actor y summiler David Janer, te sumerge en la fascinante cultura vinícola de España. A lo largo de cada episodio, descubre los misterios y la pasión detrás de cada copa de vino, mientras exploramos las historias, tradiciones y secretos que hacen de esta bebida una verdadera obra de arte.",
+      "inicio": "2026-09-02T21:00:00",
+      "fin": "2026-09-02T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enologica.jpg"
+    },
+    {
+      "titulo": "Desde el set",
+      "descripcion": "El talentoso Elliot Canache nos guiará en un recorrido cinematográfico por las mejores películas vacaciones y de road trip de la historia, esas que nos inspiran a viajar y explorar el mundo.",
+      "inicio": "2026-09-02T21:30:00",
+      "fin": "2026-09-02T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las Wass",
+      "descripcion": "Tres hermanas recorren lugares turísticos y exóticos en Buenos Aires, así como otros exclusivos en distintos lugares del mundo.",
+      "inicio": "2026-09-02T22:00:00",
+      "fin": "2026-09-02T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "City Tour",
+      "descripcion": "Un programa que explora la riqueza natural y cultural de diversas ciudades alrededor del mundo. El público podrá descubrir la variedad de costumbres, tradiciones, actividades y gastronomías propias de cada destino presentado.",
+      "inicio": "2026-09-02T22:30:00",
+      "fin": "2026-09-02T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/citytour.jpg"
+    },
+    {
+      "titulo": "Playlist",
+      "descripcion": "Un programa original que comparte las canciones y los intérpretes más reproducidos del momento.Deja que los sonidos te envuelvan, sube el volumen y prepárate para una experiencia musical que te hará bailar, cantar y vibrar con cada canción. Playlist es mucho más que un listado de temas. Se trata de un viaje sonoro que captura la esencia de los ritmos que dominan las listas y nos ponen en movimiento. Desde los éxitos globales hasta las nuevas tendencias, cada episodio es una invitación a conectar con la música y disfrutar de su magia.",
+      "inicio": "2026-09-02T23:00:00",
+      "fin": "2026-09-03T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Aquí estoy",
+      "descripcion": "Espacio en el que Pía Castro conversará con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Un equipo saldrá a las calles a filmar a estas personas en los lugares que más les gustan y hacer de ello encuentros inolvidables. Historias de migración, de integración y de éxito, de arte, política o folklore, pero, sobre todo, vivencias personales. ¿Cómo fue su llegada? ¿Qué los llevó al éxito? ¿Qué extrañan de su país?",
+      "inicio": "2026-09-03T00:00:00",
+      "fin": "2026-09-03T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquiestoy.jpg"
+    },
+    {
+      "titulo": "En claves",
+      "descripcion": "Explora los rincones más fascinantes de España y descrubre Enclaves gastronómicos mediante una guía interactiva, que combina turismo rural y cultural.",
+      "inicio": "2026-09-03T00:30:00",
+      "fin": "2026-09-03T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mares de vida",
+      "descripcion": "Producción que muestra la riqueza de los océanos, las costas de América Latina, el Caribe y la Antártida para promover la conciencia ambiental.",
+      "inicio": "2026-09-03T01:00:00",
+      "fin": "2026-09-03T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¡Escápate!",
+      "descripcion": "En cada emisión te presentarán una ciudad o región alemana que vale la pena visitar. Los presentadores escalan, bucean, caminan y también degustan las especialidades culinarias en cada lugar visitado. Además, podrás conocer sitios turísticos de otros países como Terranova, Ecuador o la tundra finlandesa. En cada entrega se presentará un video grabado por un espectador en su destino favorito, y en el espacio 'Europeando' descubrirás los lugares más exquisitos del viejo continente.",
+      "inicio": "2026-09-03T01:30:00",
+      "fin": "2026-09-03T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/escapate.jpg"
+    },
+    {
+      "titulo": "Viajar con propósito",
+      "descripcion": "Mezclando aventura y ecoturismo, conoce los más impresionantes rincones de Venezuela a través de Campamento, Glamping y Overlanding.",
+      "inicio": "2026-09-03T02:00:00",
+      "fin": "2026-09-03T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Saberes milenarios",
+      "descripcion": "La sobrepoblación está dejando heridas en la naturaleza. En este segmento se analizan los graves problemas que afectan a la cultura azteca y los acuíferos de diferentes ciudades, sin dejar de lado las posibles alternativas de solución encontradas por diferentes observadores, tanto foráneos como integrantes de las comunidades afectadas.",
+      "inicio": "2026-09-03T02:30:00",
+      "fin": "2026-09-03T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Enológica",
+      "descripcion": "Enológica, una serie de documental presentada por el actor y summiler David Janer, te sumerge en la fascinante cultura vinícola de España. A lo largo de cada episodio, descubre los misterios y la pasión detrás de cada copa de vino, mientras exploramos las historias, tradiciones y secretos que hacen de esta bebida una verdadera obra de arte.",
+      "inicio": "2026-09-03T03:00:00",
+      "fin": "2026-09-03T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enologica.jpg"
+    },
+    {
+      "titulo": "Desde el set",
+      "descripcion": "El talentoso Elliot Canache nos guiará en un recorrido cinematográfico por las mejores películas vacaciones y de road trip de la historia, esas que nos inspiran a viajar y explorar el mundo.",
+      "inicio": "2026-09-03T03:30:00",
+      "fin": "2026-09-03T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las Wass",
+      "descripcion": "Tres hermanas recorren lugares turísticos y exóticos en Buenos Aires, así como otros exclusivos en distintos lugares del mundo.",
+      "inicio": "2026-09-03T04:00:00",
+      "fin": "2026-09-03T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "City Tour",
+      "descripcion": "Un programa que explora la riqueza natural y cultural de diversas ciudades alrededor del mundo. El público podrá descubrir la variedad de costumbres, tradiciones, actividades y gastronomías propias de cada destino presentado.",
+      "inicio": "2026-09-03T04:30:00",
+      "fin": "2026-09-03T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/citytour.jpg"
+    },
+    {
+      "titulo": "Playlist",
+      "descripcion": "Un programa original que comparte las canciones y los intérpretes más reproducidos del momento.Deja que los sonidos te envuelvan, sube el volumen y prepárate para una experiencia musical que te hará bailar, cantar y vibrar con cada canción. Playlist es mucho más que un listado de temas. Se trata de un viaje sonoro que captura la esencia de los ritmos que dominan las listas y nos ponen en movimiento. Desde los éxitos globales hasta las nuevas tendencias, cada episodio es una invitación a conectar con la música y disfrutar de su magia.",
+      "inicio": "2026-09-03T05:00:00",
+      "fin": "2026-09-03T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Aquí estoy",
+      "descripcion": "Espacio en el que Pía Castro conversará con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Un equipo saldrá a las calles a filmar a estas personas en los lugares que más les gustan y hacer de ello encuentros inolvidables. Historias de migración, de integración y de éxito, de arte, política o folklore, pero, sobre todo, vivencias personales. ¿Cómo fue su llegada? ¿Qué los llevó al éxito? ¿Qué extrañan de su país?",
+      "inicio": "2026-09-03T06:00:00",
+      "fin": "2026-09-03T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquiestoy.jpg"
+    },
+    {
+      "titulo": "En claves",
+      "descripcion": "Explora los rincones más fascinantes de España y descrubre Enclaves gastronómicos mediante una guía interactiva, que combina turismo rural y cultural.",
+      "inicio": "2026-09-03T06:30:00",
+      "fin": "2026-09-03T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mares de vida",
+      "descripcion": "Producción que muestra la riqueza de los océanos, las costas de América Latina, el Caribe y la Antártida para promover la conciencia ambiental.",
+      "inicio": "2026-09-03T07:00:00",
+      "fin": "2026-09-03T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¡Escápate!",
+      "descripcion": "En cada emisión te presentarán una ciudad o región alemana que vale la pena visitar. Los presentadores escalan, bucean, caminan y también degustan las especialidades culinarias en cada lugar visitado. Además, podrás conocer sitios turísticos de otros países como Terranova, Ecuador o la tundra finlandesa. En cada entrega se presentará un video grabado por un espectador en su destino favorito, y en el espacio 'Europeando' descubrirás los lugares más exquisitos del viejo continente.",
+      "inicio": "2026-09-03T07:30:00",
+      "fin": "2026-09-03T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/escapate.jpg"
+    },
+    {
+      "titulo": "Viajar con propósito",
+      "descripcion": "Mezclando aventura y ecoturismo, conoce los más impresionantes rincones de Venezuela a través de Campamento, Glamping y Overlanding.",
+      "inicio": "2026-09-03T08:00:00",
+      "fin": "2026-09-03T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Saberes milenarios",
+      "descripcion": "La sobrepoblación está dejando heridas en la naturaleza. En este segmento se analizan los graves problemas que afectan a la cultura azteca y los acuíferos de diferentes ciudades, sin dejar de lado las posibles alternativas de solución encontradas por diferentes observadores, tanto foráneos como integrantes de las comunidades afectadas.",
+      "inicio": "2026-09-03T08:30:00",
+      "fin": "2026-09-03T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Enológica",
+      "descripcion": "Enológica, una serie de documental presentada por el actor y summiler David Janer, te sumerge en la fascinante cultura vinícola de España. A lo largo de cada episodio, descubre los misterios y la pasión detrás de cada copa de vino, mientras exploramos las historias, tradiciones y secretos que hacen de esta bebida una verdadera obra de arte.",
+      "inicio": "2026-09-03T09:00:00",
+      "fin": "2026-09-03T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enologica.jpg"
     }
   ]
 }

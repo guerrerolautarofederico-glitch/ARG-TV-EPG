@@ -1,404 +1,19 @@
 {
   "actual": {
-    "titulo": "HispanTV noticias",
-    "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
-    "inicio": "2026-09-01T09:30:00",
-    "fin": "2026-09-01T10:00:00",
+    "titulo": "Ventana a Palestina",
+    "descripcion": "Un espacio para profundizar en la causa palestina.",
+    "inicio": "2026-09-02T09:00:00",
+    "fin": "2026-09-02T09:26:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "A confirmar",
-    "descripcion": "Programación a confirmar.",
-    "inicio": "2026-09-01T10:00:00",
-    "fin": "2026-09-01T10:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    "titulo": "Etiquetaje",
+    "descripcion": "El mejor analisis sobre las etiquetas, las tendencias actuales y todo lo que se hace viral en las redes sociales.",
+    "inicio": "2026-09-02T09:26:00",
+    "fin": "2026-09-02T09:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "HispanTV noticias",
-      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
-      "inicio": "2026-09-01T09:30:00",
-      "fin": "2026-09-01T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A confirmar",
-      "descripcion": "Programación a confirmar.",
-      "inicio": "2026-09-01T10:00:00",
-      "fin": "2026-09-01T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
-    },
-    {
-      "titulo": "HispanTV noticias",
-      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
-      "inicio": "2026-09-01T10:30:00",
-      "fin": "2026-09-01T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Grin Go!",
-      "descripcion": "Rubén Lenguas presenta un programa analítico sobre las relaciones entre Estados Unidos y América Latina. Se abordan temas como la política exterior, las intervenciones históricas, los acuerdos comerciales y la migración, con la participación de expertos que examinan el impacto de las decisiones estadounidenses en la región. Una mirada crítica a las dinámicas de poder que configuran el continente.",
-      "inicio": "2026-09-01T11:00:00",
-      "fin": "2026-09-01T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "HispanTV noticias Exprés",
-      "descripcion": "En casi 3 minutos repasamos las noticias más destacadas de última hora en formato breve.",
-      "inicio": "2026-09-01T11:30:00",
-      "fin": "2026-09-01T11:33:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Wikihispan",
-      "descripcion": "Wikihispan es un programa de 25 minutos en el que abordaremos los acontecimientos de países de Asia Occidental y vecinos de Irán, especialmente los países árabes. En este programa hablaremos con analistas expertos acerca de hechos más importantes de dichos países.",
-      "inicio": "2026-09-01T11:33:00",
-      "fin": "2026-09-01T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Brecha económica",
-      "descripcion": "Se analizan asuntos sobre la influencia de las compañías en la economía de distintos países del mundo.",
-      "inicio": "2026-09-01T12:00:00",
-      "fin": "2026-09-01T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "HispanTV noticias",
-      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
-      "inicio": "2026-09-01T12:30:00",
-      "fin": "2026-09-01T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A confirmar",
-      "descripcion": "Programación a confirmar.",
-      "inicio": "2026-09-01T13:00:00",
-      "fin": "2026-09-01T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
-    },
-    {
-      "titulo": "HispanTV noticias",
-      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
-      "inicio": "2026-09-01T13:30:00",
-      "fin": "2026-09-01T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Detrás de la razón",
-      "descripcion": "Espacio en el cual se buscan las causas y cuestiona los hechos de una noticia que afecta la realidad, utilizando diferentes perspectivas y puntos de vista para mostrar el otro lado del acontecer actual.",
-      "inicio": "2026-09-01T14:00:00",
-      "fin": "2026-09-01T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "HispanTV noticias",
-      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
-      "inicio": "2026-09-01T14:30:00",
-      "fin": "2026-09-01T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Grin Go!",
-      "descripcion": "Rubén Lenguas presenta un programa analítico sobre las relaciones entre Estados Unidos y América Latina. Se abordan temas como la política exterior, las intervenciones históricas, los acuerdos comerciales y la migración, con la participación de expertos que examinan el impacto de las decisiones estadounidenses en la región. Una mirada crítica a las dinámicas de poder que configuran el continente.",
-      "inicio": "2026-09-01T15:00:00",
-      "fin": "2026-09-01T15:27:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "PoliMedios",
-      "descripcion": "Un programa semanal que pone bajo la lupa asuntos de actualidad, echando un vistazo a las portadas de la prensa internacional para conocer cómo reaccionan al respecto.",
-      "inicio": "2026-09-01T15:27:00",
-      "fin": "2026-09-01T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "HispanTV noticias Exprés",
-      "descripcion": "En casi 3 minutos repasamos las noticias más destacadas de última hora en formato breve.",
-      "inicio": "2026-09-01T15:30:00",
-      "fin": "2026-09-01T15:33:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sobh",
-      "descripcion": "Programa de entrevistas sobre temas en la agenda de los mediosa a nivel nacional e internacional. A través del diálogo, el análisis y el debate, el público podrá informarse al completo sobre la realidad.",
-      "inicio": "2026-09-01T15:33:00",
-      "fin": "2026-09-01T16:17:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A confirmar",
-      "descripcion": "Programación a confirmar.",
-      "inicio": "2026-09-01T16:17:00",
-      "fin": "2026-09-01T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
-    },
-    {
-      "titulo": "HispanTV noticias",
-      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
-      "inicio": "2026-09-01T16:30:00",
-      "fin": "2026-09-01T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A confirmar",
-      "descripcion": "Programación a confirmar.",
-      "inicio": "2026-09-01T17:00:00",
-      "fin": "2026-09-01T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
-    },
-    {
-      "titulo": "HispanTV noticias",
-      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
-      "inicio": "2026-09-01T17:30:00",
-      "fin": "2026-09-01T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Detrás de la razón",
-      "descripcion": "Espacio en el cual se buscan las causas y cuestiona los hechos de una noticia que afecta la realidad, utilizando diferentes perspectivas y puntos de vista para mostrar el otro lado del acontecer actual.",
-      "inicio": "2026-09-01T18:00:00",
-      "fin": "2026-09-01T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "HispanTV noticias",
-      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
-      "inicio": "2026-09-01T18:30:00",
-      "fin": "2026-09-01T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ventana a Palestina",
-      "descripcion": "Un espacio para profundizar en la causa palestina.",
-      "inicio": "2026-09-01T19:00:00",
-      "fin": "2026-09-01T19:26:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "PoliMedios",
-      "descripcion": "Un programa semanal que pone bajo la lupa asuntos de actualidad, echando un vistazo a las portadas de la prensa internacional para conocer cómo reaccionan al respecto.",
-      "inicio": "2026-09-01T19:26:00",
-      "fin": "2026-09-01T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "HispanTV noticias Exprés",
-      "descripcion": "En casi 3 minutos repasamos las noticias más destacadas de última hora en formato breve.",
-      "inicio": "2026-09-01T19:30:00",
-      "fin": "2026-09-01T19:33:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¿Qué opinas?",
-      "descripcion": "Un programa que intenta buscar respuestas a preguntas relacionadas con diferentes temas políticos, sociales y económicos, en la forma de Vox Populi. El público podrá descubrir diversas opiniones sobre el acontecer actual.",
-      "inicio": "2026-09-01T19:33:00",
-      "fin": "2026-09-01T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A confirmar",
-      "descripcion": "Programación a confirmar.",
-      "inicio": "2026-09-01T20:00:00",
-      "fin": "2026-09-01T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
-    },
-    {
-      "titulo": "El porqué de las noticias",
-      "descripcion": "Un resumen de las noticias y los acontecimientos más destacados del día junto a la opinión de los analistas internacionales. Desarrollamos el análisis internacional sobre el tema y otros hechos y acontecimientos destacados.",
-      "inicio": "2026-09-01T20:30:00",
-      "fin": "2026-09-01T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dice Israel",
-      "descripcion": "Un programa sobre la guerra entre Israel y la agrupación terrorista Hamas.",
-      "inicio": "2026-09-01T21:00:00",
-      "fin": "2026-09-01T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "HispanTV noticias",
-      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
-      "inicio": "2026-09-01T21:30:00",
-      "fin": "2026-09-01T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Detrás de la razón",
-      "descripcion": "Espacio en el cual se buscan las causas y cuestiona los hechos de una noticia que afecta la realidad, utilizando diferentes perspectivas y puntos de vista para mostrar el otro lado del acontecer actual.",
-      "inicio": "2026-09-01T22:00:00",
-      "fin": "2026-09-01T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "HispanTV noticias",
-      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
-      "inicio": "2026-09-01T22:30:00",
-      "fin": "2026-09-01T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¿Qué opinas?",
-      "descripcion": "Un programa que intenta buscar respuestas a preguntas relacionadas con diferentes temas políticos, sociales y económicos, en la forma de Vox Populi. El público podrá descubrir diversas opiniones sobre el acontecer actual.",
-      "inicio": "2026-09-01T23:00:00",
-      "fin": "2026-09-01T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ventana a Palestina",
-      "descripcion": "Un espacio para profundizar en la causa palestina.",
-      "inicio": "2026-09-01T23:30:00",
-      "fin": "2026-09-02T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El porqué de las noticias",
-      "descripcion": "Un resumen de las noticias y los acontecimientos más destacados del día junto a la opinión de los analistas internacionales. Desarrollamos el análisis internacional sobre el tema y otros hechos y acontecimientos destacados.",
-      "inicio": "2026-09-02T00:00:00",
-      "fin": "2026-09-02T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A confirmar",
-      "descripcion": "Programación a confirmar.",
-      "inicio": "2026-09-02T00:30:00",
-      "fin": "2026-09-02T00:54:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
-    },
-    {
-      "titulo": "PoliMedios",
-      "descripcion": "Un programa semanal que pone bajo la lupa asuntos de actualidad, echando un vistazo a las portadas de la prensa internacional para conocer cómo reaccionan al respecto.",
-      "inicio": "2026-09-02T00:54:00",
-      "fin": "2026-09-02T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Palestine Declassified",
-      "descripcion": "Yachad UK es un grupo sionista vinculado a la embajada de Israel que afirma que su propósito es trabajar con organizaciones que luchan contra la ocupación. La producción explora el trabajo del grupo a través de diversos testimonios.",
-      "inicio": "2026-09-02T01:00:00",
-      "fin": "2026-09-02T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Detrás de la razón",
-      "descripcion": "Espacio en el cual se buscan las causas y cuestiona los hechos de una noticia que afecta la realidad, utilizando diferentes perspectivas y puntos de vista para mostrar el otro lado del acontecer actual.",
-      "inicio": "2026-09-02T01:30:00",
-      "fin": "2026-09-02T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El cofre de los secretos",
-      "descripcion": "No hay información disponible.",
-      "inicio": "2026-09-02T02:00:00",
-      "fin": "2026-09-02T02:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A confirmar",
-      "descripcion": "Programación a confirmar.",
-      "inicio": "2026-09-02T02:45:00",
-      "fin": "2026-09-02T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
-    },
-    {
-      "titulo": "El porqué de las noticias",
-      "descripcion": "Un resumen de las noticias y los acontecimientos más destacados del día junto a la opinión de los analistas internacionales. Desarrollamos el análisis internacional sobre el tema y otros hechos y acontecimientos destacados.",
-      "inicio": "2026-09-02T03:00:00",
-      "fin": "2026-09-02T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ventana a Palestina",
-      "descripcion": "Un espacio para profundizar en la causa palestina.",
-      "inicio": "2026-09-02T03:30:00",
-      "fin": "2026-09-02T03:57:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "PoliMedios",
-      "descripcion": "Un programa semanal que pone bajo la lupa asuntos de actualidad, echando un vistazo a las portadas de la prensa internacional para conocer cómo reaccionan al respecto.",
-      "inicio": "2026-09-02T03:57:00",
-      "fin": "2026-09-02T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Grin Go!",
-      "descripcion": "Rubén Lenguas presenta un programa analítico sobre las relaciones entre Estados Unidos y América Latina. Se abordan temas como la política exterior, las intervenciones históricas, los acuerdos comerciales y la migración, con la participación de expertos que examinan el impacto de las decisiones estadounidenses en la región. Una mirada crítica a las dinámicas de poder que configuran el continente.",
-      "inicio": "2026-09-02T04:00:00",
-      "fin": "2026-09-02T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dice Israel",
-      "descripcion": "Un programa sobre la guerra entre Israel y la agrupación terrorista Hamas.",
-      "inicio": "2026-09-02T04:30:00",
-      "fin": "2026-09-02T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Detrás de la razón",
-      "descripcion": "Espacio en el cual se buscan las causas y cuestiona los hechos de una noticia que afecta la realidad, utilizando diferentes perspectivas y puntos de vista para mostrar el otro lado del acontecer actual.",
-      "inicio": "2026-09-02T05:00:00",
-      "fin": "2026-09-02T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¿Qué opinas?",
-      "descripcion": "Un programa que intenta buscar respuestas a preguntas relacionadas con diferentes temas políticos, sociales y económicos, en la forma de Vox Populi. El público podrá descubrir diversas opiniones sobre el acontecer actual.",
-      "inicio": "2026-09-02T05:30:00",
-      "fin": "2026-09-02T05:57:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A confirmar",
-      "descripcion": "Programación a confirmar.",
-      "inicio": "2026-09-02T05:57:00",
-      "fin": "2026-09-02T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
-    },
-    {
-      "titulo": "El porqué de las noticias",
-      "descripcion": "Un resumen de las noticias y los acontecimientos más destacados del día junto a la opinión de los analistas internacionales. Desarrollamos el análisis internacional sobre el tema y otros hechos y acontecimientos destacados.",
-      "inicio": "2026-09-02T06:00:00",
-      "fin": "2026-09-02T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A confirmar",
-      "descripcion": "Programación a confirmar.",
-      "inicio": "2026-09-02T06:30:00",
-      "fin": "2026-09-02T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
-    },
-    {
-      "titulo": "Palestine Declassified",
-      "descripcion": "Yachad UK es un grupo sionista vinculado a la embajada de Israel que afirma que su propósito es trabajar con organizaciones que luchan contra la ocupación. La producción explora el trabajo del grupo a través de diversos testimonios.",
-      "inicio": "2026-09-02T07:00:00",
-      "fin": "2026-09-02T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dice Israel",
-      "descripcion": "Un programa sobre la guerra entre Israel y la agrupación terrorista Hamas.",
-      "inicio": "2026-09-02T07:30:00",
-      "fin": "2026-09-02T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Detrás de la razón",
-      "descripcion": "Espacio en el cual se buscan las causas y cuestiona los hechos de una noticia que afecta la realidad, utilizando diferentes perspectivas y puntos de vista para mostrar el otro lado del acontecer actual.",
-      "inicio": "2026-09-02T08:00:00",
-      "fin": "2026-09-02T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "HispanTV noticias",
-      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
-      "inicio": "2026-09-02T08:30:00",
-      "fin": "2026-09-02T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Ventana a Palestina",
       "descripcion": "Un espacio para profundizar en la causa palestina.",
@@ -418,6 +33,440 @@
       "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
       "inicio": "2026-09-02T09:30:00",
       "fin": "2026-09-02T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "Programación a confirmar.",
+      "inicio": "2026-09-02T10:00:00",
+      "fin": "2026-09-02T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "HispanTV noticias",
+      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
+      "inicio": "2026-09-02T10:30:00",
+      "fin": "2026-09-02T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dice Israel",
+      "descripcion": "Un programa sobre la guerra entre Israel y la agrupación terrorista Hamas.",
+      "inicio": "2026-09-02T11:00:00",
+      "fin": "2026-09-02T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "HispanTV noticias Exprés",
+      "descripcion": "En casi 3 minutos repasamos las noticias más destacadas de última hora en formato breve.",
+      "inicio": "2026-09-02T11:30:00",
+      "fin": "2026-09-02T11:33:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El cofre de los secretos",
+      "descripcion": "No hay información disponible.",
+      "inicio": "2026-09-02T11:33:00",
+      "fin": "2026-09-02T12:06:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "Programación a confirmar.",
+      "inicio": "2026-09-02T12:06:00",
+      "fin": "2026-09-02T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "HispanTV noticias",
+      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
+      "inicio": "2026-09-02T12:30:00",
+      "fin": "2026-09-02T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "Programación a confirmar.",
+      "inicio": "2026-09-02T13:00:00",
+      "fin": "2026-09-02T13:24:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "PoliMedios",
+      "descripcion": "Un programa semanal que pone bajo la lupa asuntos de actualidad, echando un vistazo a las portadas de la prensa internacional para conocer cómo reaccionan al respecto.",
+      "inicio": "2026-09-02T13:24:00",
+      "fin": "2026-09-02T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "HispanTV noticias",
+      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
+      "inicio": "2026-09-02T13:30:00",
+      "fin": "2026-09-02T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Detrás de la razón",
+      "descripcion": "Espacio en el cual se buscan las causas y cuestiona los hechos de una noticia que afecta la realidad, utilizando diferentes perspectivas y puntos de vista para mostrar el otro lado del acontecer actual.",
+      "inicio": "2026-09-02T14:00:00",
+      "fin": "2026-09-02T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "HispanTV noticias",
+      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
+      "inicio": "2026-09-02T14:30:00",
+      "fin": "2026-09-02T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Palestine Declassified",
+      "descripcion": "Yachad UK es un grupo sionista vinculado a la embajada de Israel que afirma que su propósito es trabajar con organizaciones que luchan contra la ocupación. La producción explora el trabajo del grupo a través de diversos testimonios.",
+      "inicio": "2026-09-02T15:00:00",
+      "fin": "2026-09-02T15:27:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Etiquetaje",
+      "descripcion": "El mejor analisis sobre las etiquetas, las tendencias actuales y todo lo que se hace viral en las redes sociales.",
+      "inicio": "2026-09-02T15:27:00",
+      "fin": "2026-09-02T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "HispanTV noticias Exprés",
+      "descripcion": "En casi 3 minutos repasamos las noticias más destacadas de última hora en formato breve.",
+      "inicio": "2026-09-02T15:30:00",
+      "fin": "2026-09-02T15:33:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El cofre de los secretos",
+      "descripcion": "No hay información disponible.",
+      "inicio": "2026-09-02T15:33:00",
+      "fin": "2026-09-02T16:16:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "Programación a confirmar.",
+      "inicio": "2026-09-02T16:16:00",
+      "fin": "2026-09-02T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "HispanTV noticias",
+      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
+      "inicio": "2026-09-02T16:30:00",
+      "fin": "2026-09-02T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "Programación a confirmar.",
+      "inicio": "2026-09-02T17:00:00",
+      "fin": "2026-09-02T17:24:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "PoliMedios",
+      "descripcion": "Un programa semanal que pone bajo la lupa asuntos de actualidad, echando un vistazo a las portadas de la prensa internacional para conocer cómo reaccionan al respecto.",
+      "inicio": "2026-09-02T17:24:00",
+      "fin": "2026-09-02T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "HispanTV noticias",
+      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
+      "inicio": "2026-09-02T17:30:00",
+      "fin": "2026-09-02T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Detrás de la razón",
+      "descripcion": "Espacio en el cual se buscan las causas y cuestiona los hechos de una noticia que afecta la realidad, utilizando diferentes perspectivas y puntos de vista para mostrar el otro lado del acontecer actual.",
+      "inicio": "2026-09-02T18:00:00",
+      "fin": "2026-09-02T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "HispanTV noticias",
+      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
+      "inicio": "2026-09-02T18:30:00",
+      "fin": "2026-09-02T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Qué opinas?",
+      "descripcion": "Un programa que intenta buscar respuestas a preguntas relacionadas con diferentes temas políticos, sociales y económicos, en la forma de Vox Populi. El público podrá descubrir diversas opiniones sobre el acontecer actual.",
+      "inicio": "2026-09-02T19:00:00",
+      "fin": "2026-09-02T19:27:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "Programación a confirmar.",
+      "inicio": "2026-09-02T19:27:00",
+      "fin": "2026-09-02T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "HispanTV noticias Exprés",
+      "descripcion": "En casi 3 minutos repasamos las noticias más destacadas de última hora en formato breve.",
+      "inicio": "2026-09-02T19:30:00",
+      "fin": "2026-09-02T19:33:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Síntesis",
+      "descripcion": "Programa semanal en el que se abordarán los acontecimientos sociales, políticos y económicos más importantes en América Latina.",
+      "inicio": "2026-09-02T19:33:00",
+      "fin": "2026-09-02T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fotos que sacuden al mundo",
+      "descripcion": "Análisis de las fotos, basadas en la importancia de las noticias o las crisis emergentes, que han sido asombrosamente sorprendentes en el mundo y, por supuesto, siguen teniendo su impacto.",
+      "inicio": "2026-09-02T19:45:00",
+      "fin": "2026-09-02T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "Programación a confirmar.",
+      "inicio": "2026-09-02T20:00:00",
+      "fin": "2026-09-02T20:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "Etiquetaje",
+      "descripcion": "El mejor analisis sobre las etiquetas, las tendencias actuales y todo lo que se hace viral en las redes sociales.",
+      "inicio": "2026-09-02T20:25:00",
+      "fin": "2026-09-02T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El porqué de las noticias",
+      "descripcion": "Un resumen de las noticias y los acontecimientos más destacados del día junto a la opinión de los analistas internacionales. Desarrollamos el análisis internacional sobre el tema y otros hechos y acontecimientos destacados.",
+      "inicio": "2026-09-02T20:30:00",
+      "fin": "2026-09-02T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Entre líneas",
+      "descripcion": "Un programa que aborda lo más destacado de la actualidad a través de crónicas y reportajes breves. El programa permite ahondar en las diferentes situaciones y ofrecer distintas perspectivas sobre temas que no son noticia, pero que hacen parte de la cotidianidad y son determinantes del devenir de la región.",
+      "inicio": "2026-09-02T21:00:00",
+      "fin": "2026-09-02T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "HispanTV noticias",
+      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
+      "inicio": "2026-09-02T21:30:00",
+      "fin": "2026-09-02T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Detrás de la razón",
+      "descripcion": "Espacio en el cual se buscan las causas y cuestiona los hechos de una noticia que afecta la realidad, utilizando diferentes perspectivas y puntos de vista para mostrar el otro lado del acontecer actual.",
+      "inicio": "2026-09-02T22:00:00",
+      "fin": "2026-09-02T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "HispanTV noticias",
+      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
+      "inicio": "2026-09-02T22:30:00",
+      "fin": "2026-09-02T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Síntesis",
+      "descripcion": "Programa semanal en el que se abordarán los acontecimientos sociales, políticos y económicos más importantes en América Latina.",
+      "inicio": "2026-09-02T23:00:00",
+      "fin": "2026-09-02T23:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fotos que sacuden al mundo",
+      "descripcion": "Análisis de las fotos, basadas en la importancia de las noticias o las crisis emergentes, que han sido asombrosamente sorprendentes en el mundo y, por supuesto, siguen teniendo su impacto.",
+      "inicio": "2026-09-02T23:15:00",
+      "fin": "2026-09-02T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Palestine Declassified",
+      "descripcion": "Yachad UK es un grupo sionista vinculado a la embajada de Israel que afirma que su propósito es trabajar con organizaciones que luchan contra la ocupación. La producción explora el trabajo del grupo a través de diversos testimonios.",
+      "inicio": "2026-09-02T23:30:00",
+      "fin": "2026-09-03T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El porqué de las noticias",
+      "descripcion": "Un resumen de las noticias y los acontecimientos más destacados del día junto a la opinión de los analistas internacionales. Desarrollamos el análisis internacional sobre el tema y otros hechos y acontecimientos destacados.",
+      "inicio": "2026-09-03T00:00:00",
+      "fin": "2026-09-03T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "Programación a confirmar.",
+      "inicio": "2026-09-03T00:30:00",
+      "fin": "2026-09-03T00:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "Etiquetaje",
+      "descripcion": "El mejor analisis sobre las etiquetas, las tendencias actuales y todo lo que se hace viral en las redes sociales.",
+      "inicio": "2026-09-03T00:55:00",
+      "fin": "2026-09-03T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ventana a Palestina",
+      "descripcion": "Un espacio para profundizar en la causa palestina.",
+      "inicio": "2026-09-03T01:00:00",
+      "fin": "2026-09-03T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Detrás de la razón",
+      "descripcion": "Espacio en el cual se buscan las causas y cuestiona los hechos de una noticia que afecta la realidad, utilizando diferentes perspectivas y puntos de vista para mostrar el otro lado del acontecer actual.",
+      "inicio": "2026-09-03T01:30:00",
+      "fin": "2026-09-03T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Entre líneas",
+      "descripcion": "Un programa que aborda lo más destacado de la actualidad a través de crónicas y reportajes breves. El programa permite ahondar en las diferentes situaciones y ofrecer distintas perspectivas sobre temas que no son noticia, pero que hacen parte de la cotidianidad y son determinantes del devenir de la región.",
+      "inicio": "2026-09-03T02:00:00",
+      "fin": "2026-09-03T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Síntesis",
+      "descripcion": "Programa semanal en el que se abordarán los acontecimientos sociales, políticos y económicos más importantes en América Latina.",
+      "inicio": "2026-09-03T02:30:00",
+      "fin": "2026-09-03T02:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fotos que sacuden al mundo",
+      "descripcion": "Análisis de las fotos, basadas en la importancia de las noticias o las crisis emergentes, que han sido asombrosamente sorprendentes en el mundo y, por supuesto, siguen teniendo su impacto.",
+      "inicio": "2026-09-03T02:45:00",
+      "fin": "2026-09-03T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El porqué de las noticias",
+      "descripcion": "Un resumen de las noticias y los acontecimientos más destacados del día junto a la opinión de los analistas internacionales. Desarrollamos el análisis internacional sobre el tema y otros hechos y acontecimientos destacados.",
+      "inicio": "2026-09-03T03:00:00",
+      "fin": "2026-09-03T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dice Israel",
+      "descripcion": "Un programa sobre la guerra entre Israel y la agrupación terrorista Hamas.",
+      "inicio": "2026-09-03T03:30:00",
+      "fin": "2026-09-03T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Palestine Declassified",
+      "descripcion": "Yachad UK es un grupo sionista vinculado a la embajada de Israel que afirma que su propósito es trabajar con organizaciones que luchan contra la ocupación. La producción explora el trabajo del grupo a través de diversos testimonios.",
+      "inicio": "2026-09-03T04:00:00",
+      "fin": "2026-09-03T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Qué opinas?",
+      "descripcion": "Un programa que intenta buscar respuestas a preguntas relacionadas con diferentes temas políticos, sociales y económicos, en la forma de Vox Populi. El público podrá descubrir diversas opiniones sobre el acontecer actual.",
+      "inicio": "2026-09-03T04:30:00",
+      "fin": "2026-09-03T04:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "Programación a confirmar.",
+      "inicio": "2026-09-03T04:57:00",
+      "fin": "2026-09-03T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "Detrás de la razón",
+      "descripcion": "Espacio en el cual se buscan las causas y cuestiona los hechos de una noticia que afecta la realidad, utilizando diferentes perspectivas y puntos de vista para mostrar el otro lado del acontecer actual.",
+      "inicio": "2026-09-03T05:00:00",
+      "fin": "2026-09-03T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Entre líneas",
+      "descripcion": "Un programa que aborda lo más destacado de la actualidad a través de crónicas y reportajes breves. El programa permite ahondar en las diferentes situaciones y ofrecer distintas perspectivas sobre temas que no son noticia, pero que hacen parte de la cotidianidad y son determinantes del devenir de la región.",
+      "inicio": "2026-09-03T05:30:00",
+      "fin": "2026-09-03T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El porqué de las noticias",
+      "descripcion": "Un resumen de las noticias y los acontecimientos más destacados del día junto a la opinión de los analistas internacionales. Desarrollamos el análisis internacional sobre el tema y otros hechos y acontecimientos destacados.",
+      "inicio": "2026-09-03T06:00:00",
+      "fin": "2026-09-03T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "Programación a confirmar.",
+      "inicio": "2026-09-03T06:30:00",
+      "fin": "2026-09-03T06:54:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "Etiquetaje",
+      "descripcion": "El mejor analisis sobre las etiquetas, las tendencias actuales y todo lo que se hace viral en las redes sociales.",
+      "inicio": "2026-09-03T06:54:00",
+      "fin": "2026-09-03T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "Programación a confirmar.",
+      "inicio": "2026-09-03T07:00:00",
+      "fin": "2026-09-03T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "Ventana a Palestina",
+      "descripcion": "Un espacio para profundizar en la causa palestina.",
+      "inicio": "2026-09-03T07:30:00",
+      "fin": "2026-09-03T07:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "Programación a confirmar.",
+      "inicio": "2026-09-03T07:57:00",
+      "fin": "2026-09-03T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "Detrás de la razón",
+      "descripcion": "Espacio en el cual se buscan las causas y cuestiona los hechos de una noticia que afecta la realidad, utilizando diferentes perspectivas y puntos de vista para mostrar el otro lado del acontecer actual.",
+      "inicio": "2026-09-03T08:00:00",
+      "fin": "2026-09-03T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "HispanTV noticias",
+      "descripcion": "Noticias actualizadas durante las 24 horas del día. La versión real de lo que ocurre en todo el mundo.",
+      "inicio": "2026-09-03T08:30:00",
+      "fin": "2026-09-03T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Qué opinas?",
+      "descripcion": "Un programa que intenta buscar respuestas a preguntas relacionadas con diferentes temas políticos, sociales y económicos, en la forma de Vox Populi. El público podrá descubrir diversas opiniones sobre el acontecer actual.",
+      "inicio": "2026-09-03T09:00:00",
+      "fin": "2026-09-03T09:25:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
