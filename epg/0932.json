@@ -1,122 +1,101 @@
 {
   "actual": {
-    "titulo": "La mañana",
-    "descripcion": "Las noticias más destacadas de la mañana minuto a minuto, con entrevistas e historias, con un ritmo ágil y dinámico.",
-    "inicio": "2026-09-04T09:00:00",
-    "fin": "2026-09-04T12:00:00",
+    "titulo": "Argentina en vivo",
+    "descripcion": "Actualidad, información, móviles al instante en el lugar exacto en donde sucede la noticia.",
+    "inicio": "2026-09-05T08:00:00",
+    "fin": "2026-09-05T11:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "De una",
-    "descripcion": "Con foco en la actualidad, \"De una\" presta especial atención a las noticias, con dosis de interés general, deportes y espectáculos.",
-    "inicio": "2026-09-04T12:00:00",
-    "fin": "2026-09-04T15:00:00",
+    "titulo": "Salud, divino tesoro",
+    "descripcion": "Una nueva forma de hablar de salud: salir del estudio y llevar la conversación al territorio. Con móviles en todo el país, el programa busca mostrar cómo se construyen los hábitos en la vida real, acercando el bienestar a lo cotidiano.",
+    "inicio": "2026-09-05T11:00:00",
+    "fin": "2026-09-05T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "La mañana",
-      "descripcion": "Las noticias más destacadas de la mañana minuto a minuto, con entrevistas e historias, con un ritmo ágil y dinámico.",
-      "inicio": "2026-09-04T09:00:00",
-      "fin": "2026-09-04T12:00:00",
+      "titulo": "Argentina en vivo",
+      "descripcion": "Actualidad, información, móviles al instante en el lugar exacto en donde sucede la noticia.",
+      "inicio": "2026-09-05T08:00:00",
+      "fin": "2026-09-05T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "De una",
-      "descripcion": "Con foco en la actualidad, \"De una\" presta especial atención a las noticias, con dosis de interés general, deportes y espectáculos.",
-      "inicio": "2026-09-04T12:00:00",
-      "fin": "2026-09-04T15:00:00",
+      "titulo": "Salud, divino tesoro",
+      "descripcion": "Una nueva forma de hablar de salud: salir del estudio y llevar la conversación al territorio. Con móviles en todo el país, el programa busca mostrar cómo se construyen los hábitos en la vida real, acercando el bienestar a lo cotidiano.",
+      "inicio": "2026-09-05T11:00:00",
+      "fin": "2026-09-05T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Argenzuela",
-      "descripcion": "Un combo de actualidad, política, deportes y espectáculos.",
-      "inicio": "2026-09-04T15:00:00",
-      "fin": "2026-09-04T17:00:00",
+      "titulo": "C5N en tu barrio",
+      "descripcion": "Un programa que busca conocer más sobre los barrios, sus historias, eventos gastronómicos y cómo vive la gente.",
+      "inicio": "2026-09-05T12:00:00",
+      "fin": "2026-09-05T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "El diario",
-      "descripcion": "Una madre, recientemente divorciada, descubre el diario de un asesino en serie en el ático de la casa a la que recientemente se mudó. Su vida y la de todos a su alrededor correrán peligro mientras intenta averiguar quién es el autor.",
-      "inicio": "2026-09-04T17:00:00",
-      "fin": "2026-09-04T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eldiario.jpg"
-    },
-    {
-      "titulo": "La última pregunta",
-      "descripcion": "Cuestionamos hechos de la actualidad para obtener respuestas sobre lo que está ocurriendo.",
-      "inicio": "2026-09-04T19:00:00",
-      "fin": "2026-09-04T20:15:00",
+      "titulo": "La voz de la calle",
+      "descripcion": "Programa que toca los casos resonantes de la semana en formato de resumen con información, opinión y debate.",
+      "inicio": "2026-09-05T16:00:00",
+      "fin": "2026-09-05T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Periodistas",
-      "descripcion": "Las principales figuras de C5N analizarán los principales temas de agenda nacional e internacional.",
-      "inicio": "2026-09-04T20:15:00",
-      "fin": "2026-09-04T20:30:00",
+      "titulo": "Fuera de agenda",
+      "descripcion": "Mantente informado con las noticias del fin de semana.",
+      "inicio": "2026-09-05T19:00:00",
+      "fin": "2026-09-05T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Inteligencia artesanal",
-      "descripcion": "Nancy Pazos presenta este espacio periodístico que busca recuperar la conversación y el pensamiento crítico sobre la actualidad política de Argentina.",
-      "inicio": "2026-09-04T20:30:00",
-      "fin": "2026-09-04T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El expediente",
-      "descripcion": "Programa que investiga los casos policiales más resonantes y realiza un seguimiento minucioso de los criminales más buscados del país.",
-      "inicio": "2026-09-04T22:00:00",
-      "fin": "2026-09-04T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Old Timer",
-      "descripcion": "Los autos que fueron parte de tu infancia, los que manejaba tu viejo y que te hicieron enamorar. Revisamos esos autos de todos los tiempos.",
-      "inicio": "2026-09-04T23:00:00",
-      "fin": "2026-09-04T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Imagen de trabajo",
-      "descripcion": "Espacio dedicado a difundir las actividades específicas del Sindicato Argentino de Televisión, servicios audiovisuales, interactivos y de datos, los temas gremiales y toda la actividad en un contexto amplio y pluralista.",
-      "inicio": "2026-09-04T23:30:00",
-      "fin": "2026-09-05T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Inteligencia artesanal",
-      "descripcion": "Nancy Pazos presenta este espacio periodístico que busca recuperar la conversación y el pensamiento crítico sobre la actualidad política de Argentina.",
-      "inicio": "2026-09-05T00:00:00",
-      "fin": "2026-09-05T01:30:00",
+      "titulo": "Televisión registrada",
+      "descripcion": "El repaso de los temas más importantes de la semana a través de informes que combinan análisis y humor.",
+      "inicio": "2026-09-05T20:00:00",
+      "fin": "2026-09-05T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Right Now",
       "descripcion": "Programa que cuenta con entrevistas a distintos artistas, segmentos de moda, gastronomía, fitness y espectáculos.",
-      "inicio": "2026-09-05T01:30:00",
-      "fin": "2026-09-05T02:30:00",
+      "inicio": "2026-09-05T22:00:00",
+      "fin": "2026-09-05T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "C5N a fondo • Automovilismo",
+      "descripcion": "Automovilismo | Un programa centrado en todas las novedades del mundo de los vehículos.",
+      "inicio": "2026-09-05T22:30:00",
+      "fin": "2026-09-05T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fuera de agenda",
+      "descripcion": "Mantente informado con las noticias del fin de semana.",
+      "inicio": "2026-09-05T23:00:00",
+      "fin": "2026-09-06T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Televisión registrada",
+      "descripcion": "El repaso de los temas más importantes de la semana a través de informes que combinan análisis y humor.",
+      "inicio": "2026-09-06T00:00:00",
+      "fin": "2026-09-06T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "C5N Canal 5 Noticias",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-05T02:30:00",
-      "fin": "2026-09-05T03:00:00",
+      "inicio": "2026-09-06T01:00:00",
+      "fin": "2026-09-06T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "C5N Canal 5 Noticias",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-05T03:00:00",
-      "fin": "2026-09-05T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "C5N Canal 5 Noticias",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-05T07:00:00",
-      "fin": "2026-09-05T11:00:00",
+      "inicio": "2026-09-06T05:00:00",
+      "fin": "2026-09-06T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

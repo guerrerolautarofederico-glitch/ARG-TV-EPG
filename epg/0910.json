@@ -1,150 +1,129 @@
 {
   "actual": {
-    "titulo": "Latina noticias matinal",
-    "descripcion": "Las noticias del Perú y el mundo.",
-    "inicio": "2026-09-04T08:00:00",
-    "fin": "2026-09-04T10:00:00",
+    "titulo": "Latina noticias fin de semana",
+    "descripcion": "Lo más importante del Perú y el mundo.",
+    "inicio": "2026-09-05T08:00:00",
+    "fin": "2026-09-05T11:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Arriba mi gente",
-    "descripcion": "Un magazine con un enfoque renovado y con lo último en entretenimiento, espectáculo y entrevistas exclusivas.",
-    "inicio": "2026-09-04T10:00:00",
-    "fin": "2026-09-04T13:00:00",
+    "titulo": "Latina noticias reporte semanal",
+    "descripcion": "Las noticias más destacadas.",
+    "inicio": "2026-09-05T11:00:00",
+    "fin": "2026-09-05T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Latina noticias matinal",
-      "descripcion": "Las noticias del Perú y el mundo.",
-      "inicio": "2026-09-04T08:00:00",
-      "fin": "2026-09-04T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Arriba mi gente",
-      "descripcion": "Un magazine con un enfoque renovado y con lo último en entretenimiento, espectáculo y entrevistas exclusivas.",
-      "inicio": "2026-09-04T10:00:00",
-      "fin": "2026-09-04T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Latina noticias mediodía",
-      "descripcion": "Las noticias del Perú y el mundo.",
-      "inicio": "2026-09-04T13:00:00",
-      "fin": "2026-09-04T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuando los ángeles caen",
-      "descripcion": "Historias de ángeles terrenales que impactan la vida de las personas.",
-      "inicio": "2026-09-04T16:00:00",
-      "fin": "2026-09-04T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Las vueltas del amor",
-      "descripcion": "Andre es un joven médico que pasó un año trabajando en África. Durante este tiempo, intercambió mensajes con su novia. Sin embargo, cuando regresa a Brasil, descubre que su hermana fue la que le escribió.",
-      "inicio": "2026-09-04T17:00:00",
-      "fin": "2026-09-04T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lasvueltasdelamor.jpg"
-    },
-    {
-      "titulo": "Promesa de hermanos",
-      "descripcion": "Una tragedia une el destino de seis hermanos que tienen que enfrentarse a las calles de Estambul. Entre tantos sacrificios y obstáculos harán lo posible para permanecer juntos.",
-      "inicio": "2026-09-04T18:00:00",
-      "fin": "2026-09-04T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sara no es Kara",
-      "descripcion": "La historia de dos hermanas gemelas idénticas criadas en una familia feliz, a pesar de ser pobre y cuyas vidas se entrelazan por el amor, la identidad, el engaño y la ambición.",
-      "inicio": "2026-09-04T19:00:00",
-      "fin": "2026-09-04T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Latina noticias central",
-      "descripcion": "Las últimas noticias del Perú y el mundo.",
-      "inicio": "2026-09-04T20:00:00",
-      "fin": "2026-09-04T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Valentina valiente",
-      "descripcion": "Valentina: ella hará cualquier cosa por su familia y su abuela. Un nuevo trabajo desata un romance inesperado, mientras navega por decisiones difíciles y celos. ¿Encontrará la felicidad?",
-      "inicio": "2026-09-04T21:30:00",
-      "fin": "2026-09-04T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/valentinavaliente.jpg"
-    },
-    {
-      "titulo": "Yo Soy",
-      "descripcion": "Un programa donde los concursantes imitan a su estrella preferida realizando conciertos espectaculares y dispuestos a realizar inimaginables cambios para ser premiados como ganadores.",
-      "inicio": "2026-09-04T22:30:00",
-      "fin": "2026-09-05T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yosoy.jpg"
-    },
-    {
-      "titulo": "Corazón ajeno",
-      "descripcion": "La vida de cuatro personas se entrelaza luego de un accidente de tránsito y el destino parece no querer que se separen nunca más.",
-      "inicio": "2026-09-05T00:30:00",
-      "fin": "2026-09-05T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Espacio alquilado (Problemas y soluciones)",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-05T01:00:00",
-      "fin": "2026-09-05T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Espacio alquilado (Nutrisa)",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-05T01:30:00",
-      "fin": "2026-09-05T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Golden Boy",
-      "descripcion": "El patriarca de los Korhan busca esposa para Ferit, su imprudente nieto menor. Una de las hijas de Kazim es la elegida, pero todo cambia cuando el novio escoge a Seyran, la hermana equivocada.",
-      "inicio": "2026-09-05T02:30:00",
-      "fin": "2026-09-05T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Perdidos de Amor",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-05T03:30:00",
-      "fin": "2026-09-05T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "No me dejes",
-      "descripcion": "La familia Sayar comienza una nueva vida tras algunas pérdidas.",
-      "inicio": "2026-09-05T04:00:00",
-      "fin": "2026-09-05T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nomedejes.jpg"
-    },
-    {
-      "titulo": "Buenas nuevas y malas nuevas",
-      "descripcion": "Las noticias que se deben conocer en el Perú y el mundo.",
-      "inicio": "2026-09-05T05:00:00",
-      "fin": "2026-09-05T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Latina noticias reporte semanal",
-      "descripcion": "Las noticias más destacadas.",
-      "inicio": "2026-09-05T06:00:00",
-      "fin": "2026-09-05T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Latina noticias fin de semana",
       "descripcion": "Lo más importante del Perú y el mundo.",
       "inicio": "2026-09-05T08:00:00",
       "fin": "2026-09-05T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Latina noticias reporte semanal",
+      "descripcion": "Las noticias más destacadas.",
+      "inicio": "2026-09-05T11:00:00",
+      "fin": "2026-09-05T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Latina noticias mediodía",
+      "descripcion": "Las noticias más destacadas del fin de semana.",
+      "inicio": "2026-09-05T13:00:00",
+      "fin": "2026-09-05T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Somos vóley",
+      "descripcion": "Cobertura, análisis y las noticias más relevantes de la Liga Peruana de Vóley (LPV).",
+      "inicio": "2026-09-05T15:00:00",
+      "fin": "2026-09-05T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Astro Boy",
+      "descripcion": "Después de descubrir que sus amigos y familiares están en peligro, un niño robótico utiliza sus increíbles poderes y regresa a Ciudad Metro.",
+      "inicio": "2026-09-05T16:00:00",
+      "fin": "2026-09-05T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/astroboy.jpg"
+    },
+    {
+      "titulo": "La caperucita roja",
+      "descripcion": "Tras un pasado trágico, Caperucita Roja descubre que ha nacido para librar una batalla para proteger su ciudad y su destino.",
+      "inicio": "2026-09-05T18:00:00",
+      "fin": "2026-09-05T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lo imposible",
+      "descripcion": "María, Henry y sus tres hijos comienzan sus vacaciones de invierno en Tailandia en busca de unos días en un paraiso tropical. Pero en la mañana del 26 de Diciembre, mientras disfrutan de sus relajantes vacaciones en la piscina tras la celebración de la Navidad y Nochebuena, un terrible rugido emerge del centro de la tierra. Mientras María se paraliza de miedo, un inmenso muro de agua oscura corre por los jardines del hotel hacia ella. Largometraje sobre el tsunami que azotó el sudeste asiático en 2004.",
+      "inicio": "2026-09-05T20:00:00",
+      "fin": "2026-09-05T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loimposible.jpg"
+    },
+    {
+      "titulo": "Yo Soy",
+      "descripcion": "Un programa donde los concursantes imitan a su estrella preferida realizando conciertos espectaculares y dispuestos a realizar inimaginables cambios para ser premiados como ganadores.",
+      "inicio": "2026-09-05T22:00:00",
+      "fin": "2026-09-05T23:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yosoy.jpg"
+    },
+    {
+      "titulo": "Especial Reporte semanal",
+      "descripcion": "Especial sobre este programa de las noticias más relevantes de la semana del Perú y el mundo.",
+      "inicio": "2026-09-05T23:45:00",
+      "fin": "2026-09-06T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espacio alquilado (Nutrisa)",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-06T02:30:00",
+      "fin": "2026-09-06T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Golden Boy",
+      "descripcion": "El patriarca de los Korhan busca esposa para Ferit, su imprudente nieto menor. Una de las hijas de Kazim es la elegida, pero todo cambia cuando el novio escoge a Seyran, la hermana equivocada.",
+      "inicio": "2026-09-06T03:30:00",
+      "fin": "2026-09-06T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/goldenboy.jpg"
+    },
+    {
+      "titulo": "Perdidos de Amor",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-06T04:30:00",
+      "fin": "2026-09-06T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Alerta latina",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-06T05:00:00",
+      "fin": "2026-09-06T05:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Especial Reporte semanal",
+      "descripcion": "Especial sobre este programa de las noticias más relevantes de la semana del Perú y el mundo.",
+      "inicio": "2026-09-06T05:45:00",
+      "fin": "2026-09-06T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Reporte semanal",
+      "descripcion": "Un resumen de las noticias más relevantes de la semana del Perú y el mundo.",
+      "inicio": "2026-09-06T07:00:00",
+      "fin": "2026-09-06T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Latina noticias fin de semana",
+      "descripcion": "Lo más importante del Perú y el mundo.",
+      "inicio": "2026-09-06T08:00:00",
+      "fin": "2026-09-06T10:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

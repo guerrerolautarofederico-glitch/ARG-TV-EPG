@@ -1,185 +1,143 @@
 {
   "actual": {
-    "titulo": "La cocina del fútbol",
-    "descripcion": "Repetición ║ Carlos Borsa conduce un espacio que combina cocina y recetas con charla sobre el mundo del fútbol. El público podrá disfrutar de entrevistas en profundidad, pero con protagonistas de todos los equipos del fútbol argentino.",
-    "inicio": "2026-09-04T09:00:00",
-    "fin": "2026-09-04T10:30:00",
+    "titulo": "[En vivo] Preston North End vs. Blackburn Rovers, Fecha 5, Deepdale • EFL Championship",
+    "descripcion": "En vivo ║ EFL Championship | Preston North End se enfrenta a Blackburn Rovers en un emocionante duelo por la fecha 5 de la EFL Championship. Ambos equipos buscan sumar puntos vitales en esta competencia.",
+    "inicio": "2026-09-05T07:30:00",
+    "fin": "2026-09-05T09:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Solo Hockey",
-    "descripcion": "Repetición ║ Un programa dedicado al hockey con información, análisis, invitados especiales y toda la actualidad de este deporte. Junto a Sofi Coviella, Pablo Gerosa y Luciano Cuevas, los fanáticos podrán informarse al completo sobre la actualidad.",
-    "inicio": "2026-09-04T10:30:00",
-    "fin": "2026-09-04T11:30:00",
+    "titulo": "[En vivo] Burnley vs. Bristol City, Fecha 5, Turf Moor • EFL Championship",
+    "descripcion": "En vivo ║ EFL Championship | Burnley se enfrenta a Bristol City en un emocionante partido por la fecha 5 de la EFL Championship. Ambos equipos buscan sumar puntos importantes en esta etapa del torneo.",
+    "inicio": "2026-09-05T09:30:00",
+    "fin": "2026-09-05T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "La cocina del fútbol",
-      "descripcion": "Repetición ║ Carlos Borsa conduce un espacio que combina cocina y recetas con charla sobre el mundo del fútbol. El público podrá disfrutar de entrevistas en profundidad, pero con protagonistas de todos los equipos del fútbol argentino.",
-      "inicio": "2026-09-04T09:00:00",
-      "fin": "2026-09-04T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Solo Hockey",
-      "descripcion": "Repetición ║ Un programa dedicado al hockey con información, análisis, invitados especiales y toda la actualidad de este deporte. Junto a Sofi Coviella, Pablo Gerosa y Luciano Cuevas, los fanáticos podrán informarse al completo sobre la actualidad.",
-      "inicio": "2026-09-04T10:30:00",
-      "fin": "2026-09-04T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Rugby Time",
-      "descripcion": "Repetición ║ Un programa que repasa los contenidos más destacados del ámbito del rugby.",
-      "inicio": "2026-09-04T11:30:00",
-      "fin": "2026-09-04T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] Hannover 96 vs. Karlsruher SC, Fecha 4, Heinz-von-Heiden-Arena • Bundesliga 2",
-      "descripcion": "En vivo ║ Bundesliga 2 | Hannover 96 se enfrenta a Karlsruher SC en un emocionante partido de la 2. Bundesliga. Ambos equipos buscarán sumar puntos vitales en esta cuarta fecha del torneo.",
-      "inicio": "2026-09-04T12:30:00",
-      "fin": "2026-09-04T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Paradise Extreme",
-      "descripcion": "Repetición ║ Un espacio dedicado a los deportes extremos y lifestyle. El refugio de los amantes del deporte alternativo en todo el planeta. Los mejores eventos, los atletas más arriesgados y todas las novedades,.",
-      "inicio": "2026-09-04T14:30:00",
-      "fin": "2026-09-04T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sale por 3",
-      "descripcion": "Repetición ║ Un programa que aborda lo más destacado del ámbito del paddle junto a Fernando Carlos.",
-      "inicio": "2026-09-04T15:00:00",
-      "fin": "2026-09-04T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Show Turf",
-      "descripcion": "Repetición ║ Mira las jornadas de turf y vive toda la emoción de la competencia.",
-      "inicio": "2026-09-04T16:00:00",
-      "fin": "2026-09-04T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Surf & Rock",
-      "descripcion": "Repetición ║ Lo mejor del surf, compartiendo una pasión a puro rock.",
-      "inicio": "2026-09-04T17:00:00",
-      "fin": "2026-09-04T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Upgrade Golf",
-      "descripcion": "Repetición ║ La actualidad del golf nacional e internacional con la cobertura del circuito profesional y aficionado, los principales eventos, el seguimiento de los golfistas argentinos, entrevistas y toda la actividad nacional e internacional.",
-      "inicio": "2026-09-04T17:30:00",
-      "fin": "2026-09-04T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] River vs. BPLP, Fecha 4 • Copa Rio Uruguay Seguros",
-      "descripcion": "En vivo ║ Copa Rio Uruguay Seguros | Disfruta de los partidos disputados en el marco de la Copa Rio Uruguay Seguros 2026.",
-      "inicio": "2026-09-04T18:00:00",
-      "fin": "2026-09-04T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] GELP vs. Ferro, Fecha 4 • Copa Rio Uruguay Seguros",
-      "descripcion": "En vivo ║ Copa Rio Uruguay Seguros | Disfruta de los partidos disputados en el marco de la Copa Rio Uruguay Seguros 2026.",
-      "inicio": "2026-09-04T20:00:00",
-      "fin": "2026-09-04T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leyendas del rugby",
-      "descripcion": "Un programa sobre la historia y la trayectoria de los Pumas, la selección nacional de rugby de Argentina. Los relatos de los jugadores más destacados sobre los orígenes, las Copas Mundiales y los múltiples desafíos que atravesó el equipo.",
-      "inicio": "2026-09-04T22:00:00",
-      "fin": "2026-09-04T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuerpo técnico",
-      "descripcion": "Repetición ║ Un espacio para analizar todo lo que pasa en el fútbol. Con información y novedades.",
-      "inicio": "2026-09-04T22:30:00",
-      "fin": "2026-09-04T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "León, reflejo de una pasión",
-      "descripcion": "Un documental que retrata a León Najnudel, el creador de la Liga Nacional de Básquetbol. Su mirada del mundo, su lucha, su pasión por la vida, los amigos, el deporte y su obra conforman una huella que dejó hasta nuestros días.",
-      "inicio": "2026-09-04T23:30:00",
-      "fin": "2026-09-05T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "WEC • F4 6 Hours of São Paulo",
-      "descripcion": "Repetición ║ F4 6 Hours of São Paulo | Vive lo más emocionante del Campeonato Mundial de Resistencia de la FIA edición 2026. Los amantes del deporte podrán disfrutar de una serie de carreras de autos deportivos que combina Hypercars, Le Mans Daytona h y autos LMGT3.",
-      "inicio": "2026-09-05T01:00:00",
-      "fin": "2026-09-05T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "WTT Europe Smash - Sweden • Semifinal Masculina",
-      "descripcion": "Repetición ║ Semifinal Masculina | Vive lo más emocionante de la parada en Suecia del Campeonato Europeo de Tenis de Mesa de 2026. El torneo se disputa en cinco modalidades: individual masculino, individual femenino, dobles masculino, dobles femenino y dobles mixtos.",
-      "inicio": "2026-09-05T02:00:00",
-      "fin": "2026-09-05T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "WTT Europe Smash - Sweden • Final Masculina",
-      "descripcion": "Repetición ║ Final Masculina | Vive lo más emocionante de la parada en Suecia del Campeonato Europeo de Tenis de Mesa de 2026. El torneo se disputa en cinco modalidades: individual masculino, individual femenino, dobles masculino, dobles femenino y dobles mixtos.",
-      "inicio": "2026-09-05T03:00:00",
-      "fin": "2026-09-05T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Highlights - Dakar Series: Desafío Ruta 40",
-      "descripcion": "Mira lo más destacado de las carreras del Desafío Ruta 40, parte de las Dakar Series.",
-      "inicio": "2026-09-05T04:00:00",
-      "fin": "2026-09-05T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Travesia italiana",
-      "descripcion": "Repetición ║ Un viaje para redescubrir las raíces italianas.",
-      "inicio": "2026-09-05T04:30:00",
-      "fin": "2026-09-05T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La cocina del fútbol",
-      "descripcion": "Repetición ║ Carlos Borsa conduce un espacio que combina cocina y recetas con charla sobre el mundo del fútbol. El público podrá disfrutar de entrevistas en profundidad, pero con protagonistas de todos los equipos del fútbol argentino.",
-      "inicio": "2026-09-05T05:00:00",
-      "fin": "2026-09-05T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Highlights - Dakar Series: Desafío Ruta 40",
-      "descripcion": "Mira lo más destacado de las carreras del Desafío Ruta 40, parte de las Dakar Series.",
-      "inicio": "2026-09-05T06:00:00",
-      "fin": "2026-09-05T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Travesia italiana",
-      "descripcion": "Repetición ║ Un viaje para redescubrir las raíces italianas.",
-      "inicio": "2026-09-05T06:30:00",
-      "fin": "2026-09-05T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Surf & Rock",
-      "descripcion": "Repetición ║ Lo mejor del surf, compartiendo una pasión a puro rock.",
-      "inicio": "2026-09-05T07:00:00",
-      "fin": "2026-09-05T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "[En vivo] Preston North End vs. Blackburn Rovers, Fecha 5, Deepdale • EFL Championship",
       "descripcion": "En vivo ║ EFL Championship | Preston North End se enfrenta a Blackburn Rovers en un emocionante duelo por la fecha 5 de la EFL Championship. Ambos equipos buscan sumar puntos vitales en esta competencia.",
       "inicio": "2026-09-05T07:30:00",
       "fin": "2026-09-05T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Burnley vs. Bristol City, Fecha 5, Turf Moor • EFL Championship",
+      "descripcion": "En vivo ║ EFL Championship | Burnley se enfrenta a Bristol City en un emocionante partido por la fecha 5 de la EFL Championship. Ambos equipos buscan sumar puntos importantes en esta etapa del torneo.",
+      "inicio": "2026-09-05T09:30:00",
+      "fin": "2026-09-05T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Moving",
+      "descripcion": "Repetición ║ Magazine dedicado a la industria automotriz, productos, movilidad, nuevas tecnologías, industria global y gaming automotriz.",
+      "inicio": "2026-09-05T12:00:00",
+      "fin": "2026-09-05T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Fenerbahce vs. Besiktas, Fecha 4, Chobani Stadium Fenerbahce Sukru Saracoglu • Turkish Super Lig",
+      "descripcion": "En vivo ║ Turkish Super Lig | Fenerbahce se enfrenta a Besiktas en el Chobani Stadium por la fecha 4 de la SüperLig. Un clásico del fútbol turco que promete intensidad y emoción en cada jugada.",
+      "inicio": "2026-09-05T13:00:00",
+      "fin": "2026-09-05T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Gimnasia y Esgrima (M) vs. Boca Jrs., Fecha Grupo A, Víctor Antonio Legrotaglie • Fox Sports Radio - Liga Profesional Argentina",
+      "descripcion": "En vivo ║ Fox Sports Radio - Liga Profesional Argentina | Gimnasia y Esgrima de Mendoza se enfrenta a Boca Juniors en un emocionante partido por la fecha 8 del Grupo A de la Liga Profesional 2026. Ambos equipos buscan sumar puntos vitales en esta etapa.",
+      "inicio": "2026-09-05T15:00:00",
+      "fin": "2026-09-05T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "River vs. BPLP, Fecha 4 • Copa Rio Uruguay Seguros",
+      "descripcion": "Repetición ║ Copa Rio Uruguay Seguros | Disfruta de los partidos disputados en el marco de la Copa Rio Uruguay Seguros 2026.",
+      "inicio": "2026-09-05T18:00:00",
+      "fin": "2026-09-05T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "GELP vs. Ferro, Fecha 4 • Copa Rio Uruguay Seguros",
+      "descripcion": "Repetición ║ Copa Rio Uruguay Seguros | Disfruta de los partidos disputados en el marco de la Copa Rio Uruguay Seguros 2026.",
+      "inicio": "2026-09-05T20:00:00",
+      "fin": "2026-09-05T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rally argentino",
+      "descripcion": "Repetición ║ La emoción y la adrenalina lideran esta edición en la que se presentarán a los mejores corredores de automóviles, quienes desafiarán los obstáculos de la vía para alcanzar el primer lugar del podio.",
+      "inicio": "2026-09-05T22:00:00",
+      "fin": "2026-09-05T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Solo Hockey",
+      "descripcion": "Repetición ║ Un programa dedicado al hockey con información, análisis, invitados especiales y toda la actualidad de este deporte. Junto a Sofi Coviella, Pablo Gerosa y Luciano Cuevas, los fanáticos podrán informarse al completo sobre la actualidad.",
+      "inicio": "2026-09-05T22:30:00",
+      "fin": "2026-09-05T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Show Turf",
+      "descripcion": "Repetición ║ Mira las jornadas de turf y vive toda la emoción de la competencia.",
+      "inicio": "2026-09-05T23:30:00",
+      "fin": "2026-09-06T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dynamo Dresden vs. Bochum, Fecha 4, Rudolf-Harbig-Stadion • Bundesliga 2",
+      "descripcion": "Repetición ║ Bundesliga 2 | Dynamo Dresden se enfrenta a Bochum en el Rudolf-Harbig-Stadion por la fecha 4 de la 2. Bundesliga. Un encuentro emocionante donde ambos equipos buscarán sumar puntos vitales.",
+      "inicio": "2026-09-06T00:30:00",
+      "fin": "2026-09-06T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Upgrade Golf",
+      "descripcion": "Repetición ║ La actualidad del golf nacional e internacional con la cobertura del circuito profesional y aficionado, los principales eventos, el seguimiento de los golfistas argentinos, entrevistas y toda la actividad nacional e internacional.",
+      "inicio": "2026-09-06T02:30:00",
+      "fin": "2026-09-06T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "WEC • F4 6 Hours of São Paulo",
+      "descripcion": "Repetición ║ F4 6 Hours of São Paulo | Vive lo más emocionante del Campeonato Mundial de Resistencia de la FIA edición 2026. Los amantes del deporte podrán disfrutar de una serie de carreras de autos deportivos que combina Hypercars, Le Mans Daytona h y autos LMGT3.",
+      "inicio": "2026-09-06T03:00:00",
+      "fin": "2026-09-06T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rally argentino • Fecha 1",
+      "descripcion": "Fecha 1 | La emoción y la adrenalina lideran esta edición en la que se presentarán a los mejores corredores de automóviles, quienes desafiarán los obstáculos de la vía para alcanzar el primer lugar del podio.",
+      "inicio": "2026-09-06T04:00:00",
+      "fin": "2026-09-06T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La cocina del fútbol",
+      "descripcion": "Repetición ║ Carlos Borsa conduce un espacio que combina cocina y recetas con charla sobre el mundo del fútbol. El público podrá disfrutar de entrevistas en profundidad, pero con protagonistas de todos los equipos del fútbol argentino.",
+      "inicio": "2026-09-06T05:00:00",
+      "fin": "2026-09-06T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Show Turf",
+      "descripcion": "Repetición ║ Mira las jornadas de turf y vive toda la emoción de la competencia.",
+      "inicio": "2026-09-06T06:00:00",
+      "fin": "2026-09-06T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La vuelta",
+      "descripcion": "Repetición ║ Un magazine diario conducido por Rama Pantarotto, con la dosis justa de entretenimiento, deportes e información, que acompaña tu llegada a casa de una manera fresca y descontracturada. Con personajes, notas, virales, móviles y música en vivo para que termines el día relajado y de buen humor. Entrevistas a invitados del mundo del deporte, la música y el espectáculo que participarán de juegos y desafíos, mostrándonos su lado más divertido.",
+      "inicio": "2026-09-06T07:00:00",
+      "fin": "2026-09-06T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Hertha Berlin vs. Magdeburgo, Fecha 4, Olympiastadion • Bundesliga 2",
+      "descripcion": "En vivo ║ Bundesliga 2 | Hertha Berlin se enfrenta a Magdeburgo en un emocionante duelo por la fecha 4 de la 2. Bundesliga. Ambos equipos buscan sumar puntos cruciales en esta etapa del torneo.",
+      "inicio": "2026-09-06T07:30:00",
+      "fin": "2026-09-06T09:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

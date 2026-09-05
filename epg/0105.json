@@ -1,122 +1,101 @@
 {
   "actual": {
-    "titulo": "Mucho gusto",
-    "descripcion": "Un programa que se encarga de llevar información y entretenimiento de una manera muy alegre a los hogares chilenos, con un panel de expertos para debatir los hechos más destacados de la actualidad.",
-    "inicio": "2026-09-04T08:00:00",
-    "fin": "2026-09-04T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/muchogusto.jpg"
+    "titulo": "Meganoticias siempre juntos",
+    "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
+    "inicio": "2026-09-05T08:00:00",
+    "fin": "2026-09-05T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiassiemprejuntos.jpg"
   },
   "siguiente": {
-    "titulo": "Meganoticias alerta",
-    "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-    "inicio": "2026-09-04T13:00:00",
-    "fin": "2026-09-04T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasalerta.jpg"
+    "titulo": "Meganoticias actualiza",
+    "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
+    "inicio": "2026-09-05T13:00:00",
+    "fin": "2026-09-05T14:55:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasactualiza.jpg"
   },
   "lista": [
-    {
-      "titulo": "Mucho gusto",
-      "descripcion": "Un programa que se encarga de llevar información y entretenimiento de una manera muy alegre a los hogares chilenos, con un panel de expertos para debatir los hechos más destacados de la actualidad.",
-      "inicio": "2026-09-04T08:00:00",
-      "fin": "2026-09-04T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/muchogusto.jpg"
-    },
-    {
-      "titulo": "Meganoticias alerta",
-      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-      "inicio": "2026-09-04T13:00:00",
-      "fin": "2026-09-04T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasalerta.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-09-04T15:00:00",
-      "fin": "2026-09-04T15:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "La hora de jugar",
-      "descripcion": "Mucho gusto, en una alianza con Lotería, preparan un programa donde la consigna es pasarlo bien y ganar suculentos premios.",
-      "inicio": "2026-09-04T15:05:00",
-      "fin": "2026-09-04T15:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahoradejugar.jpg"
-    },
-    {
-      "titulo": "Carmen Gloria: Fuerte y claro",
-      "descripcion": "Talk show de actualidad social con foco en los conflictos ciudadanos de forma cercana y clara.",
-      "inicio": "2026-09-04T15:45:00",
-      "fin": "2026-09-04T16:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_fallback.jpg"
-    },
-    {
-      "titulo": "La Baronesa",
-      "descripcion": "Sigue la historia de Aurora Valdés, una mujer que hará todo por proteger el legado de su familia. Pero los secretos, el poder y el control pondrán a prueba los vínculos que durante años creyó inquebrantables.",
-      "inicio": "2026-09-04T16:45:00",
-      "fin": "2026-09-04T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/labaronesa.jpg"
-    },
-    {
-      "titulo": "La Baronesa",
-      "descripcion": "Sigue la historia de Aurora Valdés, una mujer que hará todo por proteger el legado de su familia. Pero los secretos, el poder y el control pondrán a prueba los vínculos que durante años creyó inquebrantables.",
-      "inicio": "2026-09-04T17:30:00",
-      "fin": "2026-09-04T18:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/labaronesa.jpg"
-    },
-    {
-      "titulo": "Dale play",
-      "descripcion": "Dos equipos ponen a prueba su conocimiento musical para acumular dinero y llegar al juego final: una vertiginosa carrera contra el tiempo por un premio millonario. Un programa lleno de canciones, humor y desafíos para jugar y cantar en familia.",
-      "inicio": "2026-09-04T18:15:00",
-      "fin": "2026-09-04T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/daleplay.jpg"
-    },
-    {
-      "titulo": "Meganoticias Prime",
-      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-      "inicio": "2026-09-04T20:00:00",
-      "fin": "2026-09-04T22:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasprime.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-09-04T22:05:00",
-      "fin": "2026-09-04T22:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Detrás del muro",
-      "descripcion": "Programa de humor y entretenimiento que reúne los mejores momentos y bloopers de Kike Morande y sus compañeros. Quienes ya confirmaron su presencia en este estacio que promete risas son Belén Mora, Beto Espinoza, Francisco 'Toto' Acuña, Paola Troncoso, Patricio Fuentes, María José Quiróz, Sandra Donoso, Kurt Carrera, Gustavo Becerra, Cristián Hernández, Julio Jung Duvauchelle, y Scarleth Ahumada.",
-      "inicio": "2026-09-04T22:10:00",
-      "fin": "2026-09-05T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/detrasdelmuro.jpg"
-    },
-    {
-      "titulo": "¿Volverías con tu ex? 2 - Lo mejor",
-      "descripcion": "Reality donde los participantes se verán enfrentados a la posibilidad de ir por una segunda oportunidad con su ex pareja, o elegir el camino de la venganza.",
-      "inicio": "2026-09-05T00:30:00",
-      "fin": "2026-09-05T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/volveriascontuex2lomejor.jpg"
-    },
-    {
-      "titulo": "Reunión de superados - Lo mejor",
-      "descripcion": "Repetición ║ Revive los momentos de un grupo de WhatsApp de apoderados del establecimiento Thomas Campbell School, liderado por el profesor jefe Rubén, invita a los padres estar comunicados, en donde se vivirarán intensos momentos.",
-      "inicio": "2026-09-05T02:30:00",
-      "fin": "2026-09-05T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reuniondesuperadoslomejor.jpg"
-    },
-    {
-      "titulo": "[En vivo] Meganoticias ahora",
-      "descripcion": "En vivo ║ Un programa que acerca las informaciones más relevantes de Chile y el mundo para informar al público. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
-      "inicio": "2026-09-05T03:30:00",
-      "fin": "2026-09-05T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahora.jpg"
-    },
     {
       "titulo": "Meganoticias siempre juntos",
       "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
       "inicio": "2026-09-05T08:00:00",
       "fin": "2026-09-05T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiassiemprejuntos.jpg"
+    },
+    {
+      "titulo": "Meganoticias actualiza",
+      "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
+      "inicio": "2026-09-05T13:00:00",
+      "fin": "2026-09-05T14:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasactualiza.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Toda la informacion meteorológica del país.",
+      "inicio": "2026-09-05T14:55:00",
+      "fin": "2026-09-05T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-05T15:00:00",
+      "fin": "2026-09-05T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "Viajando ando",
+      "descripcion": "La presentadora Daniela Urrizola recorre diferentes destinos turísticos de todo el mundo junto a su esposo y camarógrafo. A través del recorrido que propone la conductora, el público descubrirá todo tipo de actividades y sitios que visitar.",
+      "inicio": "2026-09-05T18:00:00",
+      "fin": "2026-09-05T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viajandoando.jpg"
+    },
+    {
+      "titulo": "Nuestras fiestas",
+      "descripcion": "Programa que aborda distintas festividades en territorio nacional.",
+      "inicio": "2026-09-05T19:00:00",
+      "fin": "2026-09-05T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nuestrasfiestas.jpg"
+    },
+    {
+      "titulo": "Meganoticias Prime",
+      "descripcion": "La actualidad e información más relevante de Chile y el mundo.",
+      "inicio": "2026-09-05T20:00:00",
+      "fin": "2026-09-05T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasprime.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-05T22:30:00",
+      "fin": "2026-09-06T00:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "TravelApp",
+      "descripcion": "Abordamos la aventura de viajar desde una perspectiva totalmente distinta, saliendo de la zona de confort y llegando a lugares desconocidos, donde nos impregnaremos de la cultura y las costumbres de sus habitantes. La novedad será que los viajes se realizarán de la mano del celular y las cientos de aplicaciones que existen hoy en día para los viajeros; como aquellas que nos permitan trabajar en comunidades locales a cambio de alojamiento, conseguir descuentos en restaurantes y conocer a guías locales que nos acompañen a conocer la esencia de cada destino.",
+      "inicio": "2026-09-06T00:15:00",
+      "fin": "2026-09-06T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_fallback.jpg"
+    },
+    {
+      "titulo": "A confirmar",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-06T00:45:00",
+      "fin": "2026-09-06T02:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aconfirmar.jpg"
+    },
+    {
+      "titulo": "[En vivo] Meganoticias ahora",
+      "descripcion": "En vivo ║ Un programa que acerca las informaciones más relevantes de Chile y el mundo para informar al público. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
+      "inicio": "2026-09-06T02:45:00",
+      "fin": "2026-09-06T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahora.jpg"
+    },
+    {
+      "titulo": "Meganoticias siempre juntos",
+      "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
+      "inicio": "2026-09-06T08:00:00",
+      "fin": "2026-09-06T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiassiemprejuntos.jpg"
     }
   ]

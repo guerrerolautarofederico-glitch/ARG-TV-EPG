@@ -1,66 +1,129 @@
 {
   "actual": {
-    "titulo": "AMERICA2 FEED PY SRC MTVPRGY",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-09-04T07:00:00",
-    "fin": "2026-09-04T11:00:00",
+    "titulo": "América noticias - Edición del sábado",
+    "descripcion": "Sinónimo de objetividad y credibilidad, periodistas con experiencia nos traen un completo resumen del acontecer local, mundial y de espectáculos.",
+    "inicio": "2026-09-05T08:00:00",
+    "fin": "2026-09-05T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "AMERICA2 FEED PY SRC MTVPRGY",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-09-04T11:00:00",
-    "fin": "2026-09-04T15:00:00",
+    "titulo": "Estás en todas • Show",
+    "descripcion": "Show | Show en el que se presentan notas del espectáculo, se realizan retos con artistas, y se meten en el detrás de cámaras de distintas producciones de televisión de Perú. Además, el estudio será visitado por distintos personajes del medio.",
+    "inicio": "2026-09-05T10:00:00",
+    "fin": "2026-09-05T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "AMERICA2 FEED PY SRC MTVPRGY",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-04T07:00:00",
-      "fin": "2026-09-04T11:00:00",
+      "titulo": "América noticias - Edición del sábado",
+      "descripcion": "Sinónimo de objetividad y credibilidad, periodistas con experiencia nos traen un completo resumen del acontecer local, mundial y de espectáculos.",
+      "inicio": "2026-09-05T08:00:00",
+      "fin": "2026-09-05T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Estás en todas • Show",
+      "descripcion": "Show | Show en el que se presentan notas del espectáculo, se realizan retos con artistas, y se meten en el detrás de cámaras de distintas producciones de televisión de Perú. Además, el estudio será visitado por distintos personajes del medio.",
+      "inicio": "2026-09-05T10:00:00",
+      "fin": "2026-09-05T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Veredicto final",
+      "descripcion": "Un abogado que ha tenido una carrera profesional llena de fracasos contempla la posibilidad de rehabilitarse mediante un fácil caso de éxito. Se trata de un juicio promovido por la familia de una mujer que ha sido sometida a una intervención quirúrgica sin aparente peligro en un famoso hospital. El resultado de la operación ha sido que ella está clínicamente muerta.  De cualquier forma, el caso no es tan fácil como en un principio parece, ya que la clínica ha contratado a los abogados de mayor prestigio dentro del ámbito judicial.",
+      "inicio": "2026-09-05T12:00:00",
+      "fin": "2026-09-05T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/veredictofinal.jpg"
+    },
+    {
+      "titulo": "Como dice el dicho",
+      "descripcion": "Dramatización de situaciones de la vida real y las historias que se relacionan con dichos populares, por Don Tomas.",
+      "inicio": "2026-09-05T13:00:00",
+      "fin": "2026-09-05T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comodiceeldicho.jpg"
+    },
+    {
+      "titulo": "Solamente milagros",
+      "descripcion": "Son historias inspiradas en hechos reales y cotidianos de nuestra sociedad peruana, hechos que nos han afectado y aún nos afectan, todos ellos tocados por un evento extraordinario: un milagro.",
+      "inicio": "2026-09-05T14:00:00",
+      "fin": "2026-09-05T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/solamentemilagros.jpg"
+    },
+    {
+      "titulo": "Fusión",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-05T15:00:00",
+      "fin": "2026-09-05T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Chavo del 8",
+      "descripcion": "Las vivencias de un grupo de personas que habitan en una vecindad mexicana, donde el Chavo junto con sus amigos, llevan a cabo travesuras que ocasionan malentendidos y discusiones entre los mismos vecinos.",
+      "inicio": "2026-09-05T16:00:00",
+      "fin": "2026-09-05T16:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
+    },
+    {
+      "titulo": "2012",
+      "descripcion": "En el calendario de los mayas aparece señalado el año 2012 como la fecha en la que se producirá el fin del mundo, que irá acompañado de diversas catástrofes naturales: erupciones volcánicas, tifones, glaciares que inundarán el planeta.",
+      "inicio": "2026-09-05T16:40:00",
+      "fin": "2026-09-05T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los milagros de la rosa",
+      "descripcion": "La adaptación peruana del drama mexicano \"La rosa de Guadalupe\", que cuenta historias de personas con dificultades en su vida que experimentan milagros propiciados gracias a la Virgen de Guadalupe.",
+      "inicio": "2026-09-05T19:15:00",
+      "fin": "2026-09-05T20:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los milagros de la rosa: Perú",
+      "descripcion": "Diversas historias que siguen la línea de la gran producción mexicana, adaptándose al contexto y las costumbres peruanas. Se cuentan historias dramáticas cuyos protagonistas experimentan milagros provenientes de la Virgen de Guadalupe.",
+      "inicio": "2026-09-05T20:15:00",
+      "fin": "2026-09-05T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El reventonazo de la Chola",
+      "descripcion": "Espacio de entretenimiento donde la música es la protagonista en todos sus géneros y la calidad internacional de nuestro anfitrión se sirve para ir entrevistando, presentando y jugando con estrellas nacionales e internacionales.",
+      "inicio": "2026-09-05T21:00:00",
+      "fin": "2026-09-05T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Chapa tu money • Juegos",
+      "descripcion": "Juegos | Mateo Garrido Lecca conduce un show de humor, improvisación y comedia en el que los talentos participan en diferentes juegos para acumular dinero.",
+      "inicio": "2026-09-05T23:00:00",
+      "fin": "2026-09-06T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Locos de amor 3",
+      "descripcion": "Tres mejores amigas sufren por amor. Sarah acaba de casarse, pero descubre que su esposo le es infiel. Marta enfrenta su proceso de divorcio y Doris lidia con su vida de casada.",
+      "inicio": "2026-09-06T00:30:00",
+      "fin": "2026-09-06T01:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "AMERICA2 FEED PY SRC MTVPRGY",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-04T11:00:00",
-      "fin": "2026-09-04T15:00:00",
+      "inicio": "2026-09-06T01:30:00",
+      "fin": "2026-09-06T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "AMERICA2 FEED PY SRC MTVPRGY",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-04T15:00:00",
-      "fin": "2026-09-04T19:00:00",
+      "inicio": "2026-09-06T02:00:00",
+      "fin": "2026-09-06T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "AMERICA2 FEED PY SRC MTVPRGY",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-04T19:00:00",
-      "fin": "2026-09-04T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "AMERICA2 FEED PY SRC MTVPRGY",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-04T23:00:00",
-      "fin": "2026-09-05T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "AMERICA2 FEED PY SRC MTVPRGY",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-05T03:00:00",
-      "fin": "2026-09-05T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "AMERICA2 FEED PY SRC MTVPRGY",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-05T07:00:00",
-      "fin": "2026-09-05T11:00:00",
+      "inicio": "2026-09-06T06:00:00",
+      "fin": "2026-09-06T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

@@ -1,115 +1,101 @@
 {
   "actual": {
-    "titulo": "Buen Dia",
-    "descripcion": "Programa informativo con noticias, actualidad regional, entrevistas y opinión.",
-    "inicio": "2026-09-04T07:00:00",
-    "fin": "2026-09-04T10:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buendia.jpg"
+    "titulo": "MiRadio TV",
+    "descripcion": "Canal local de la región de Coquimbo centrado en noticias locales, actualidad y programas de conversación para la comunidad.",
+    "inicio": "2026-09-04T23:30:00",
+    "fin": "2026-09-05T11:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miradiotv.jpg"
   },
   "siguiente": {
-    "titulo": "Mi mañana",
-    "descripcion": "Un entretenido matinal con temas de interés y útiles para la comunidad, con toda la entretención y lo que ocurre en las calles de la Región de Coquimbo",
-    "inicio": "2026-09-04T10:00:00",
-    "fin": "2026-09-04T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mimanana.jpg"
+    "titulo": "La ciudad no para",
+    "descripcion": "Un completo magazine de fin de semana con información local y los mejores panoramas para disfrutar la región.",
+    "inicio": "2026-09-05T11:00:00",
+    "fin": "2026-09-05T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laciudadnopara.jpg"
   },
   "lista": [
     {
-      "titulo": "Buen Dia",
-      "descripcion": "Programa informativo con noticias, actualidad regional, entrevistas y opinión.",
-      "inicio": "2026-09-04T07:00:00",
-      "fin": "2026-09-04T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buendia.jpg"
-    },
-    {
-      "titulo": "Mi mañana",
-      "descripcion": "Un entretenido matinal con temas de interés y útiles para la comunidad, con toda la entretención y lo que ocurre en las calles de la Región de Coquimbo",
-      "inicio": "2026-09-04T10:00:00",
-      "fin": "2026-09-04T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mimanana.jpg"
-    },
-    {
-      "titulo": "Mr Informa",
-      "descripcion": "Noticiero de mediodía preparado por el departamento de prensa de Mi Radio.",
-      "inicio": "2026-09-04T13:00:00",
-      "fin": "2026-09-04T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mrinforma.jpg"
-    },
-    {
-      "titulo": "Estadio lleno",
-      "descripcion": "Información deportiva y de los equipos de la Región de Coquimbo con un panel de expertos de primera.",
-      "inicio": "2026-09-04T13:30:00",
-      "fin": "2026-09-04T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/estadiolleno.jpg"
-    },
-    {
-      "titulo": "Desafios de Mujer",
-      "descripcion": "Datos, emprendimientos, entrevistas y entretención resaltando las dificultados y problemáticas de las mujeres de la zona",
-      "inicio": "2026-09-04T15:00:00",
-      "fin": "2026-09-04T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/desafiosdemujer.jpg"
-    },
-    {
-      "titulo": "Los dueños de la tarde",
-      "descripcion": "Programa donde se revisa y analiza los temas que han marcado la Región de Coquimbo.",
-      "inicio": "2026-09-04T16:30:00",
-      "fin": "2026-09-04T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losduenosdelatarde.jpg"
-    },
-    {
-      "titulo": "Fue y sera noticia",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-04T19:30:00",
-      "fin": "2026-09-04T21:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fueyseranoticia.jpg"
-    },
-    {
-      "titulo": "El Tiempo en la region",
-      "descripcion": "Conoce las condiciones climáticas de cada una de las localidades de la región, desde las costas hasta los hermosos valles que componen la geografía tan única de la región de Coquimbo",
-      "inicio": "2026-09-04T21:50:00",
-      "fin": "2026-09-04T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempoenlaregion.jpg"
-    },
-    {
-      "titulo": "Ni tan santa ni tan diabla",
-      "descripcion": "Dos mujeres audaces llegan a la noche de viernes para entretenerte cuando la semana está terminando.",
-      "inicio": "2026-09-04T22:00:00",
-      "fin": "2026-09-04T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nitansantanitandiabla.jpg"
-    },
-    {
       "titulo": "MiRadio TV",
-      "descripcion": "La información de este programa no se encuentra disponible.",
+      "descripcion": "Canal local de la región de Coquimbo centrado en noticias locales, actualidad y programas de conversación para la comunidad.",
       "inicio": "2026-09-04T23:30:00",
-      "fin": "2026-09-05T00:30:00",
+      "fin": "2026-09-05T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miradiotv.jpg"
+    },
+    {
+      "titulo": "La ciudad no para",
+      "descripcion": "Un completo magazine de fin de semana con información local y los mejores panoramas para disfrutar la región.",
+      "inicio": "2026-09-05T11:00:00",
+      "fin": "2026-09-05T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laciudadnopara.jpg"
+    },
+    {
+      "titulo": "Del cucharon al corazón",
+      "descripcion": "En este programa hacemos un recorrido por el corazón de la cocina regional, visitando los restaurantes más icónicos de la región, recorriendo desde picadas hasta los lugares más elegantes donde lo más importante siempre será su exquisita ga...",
+      "inicio": "2026-09-05T14:00:00",
+      "fin": "2026-09-05T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/delcucharonalcorazon.jpg"
+    },
+    {
+      "titulo": "Yo consciente",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-05T15:00:00",
+      "fin": "2026-09-05T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yoconsciente.jpg"
+    },
+    {
+      "titulo": "El canchero",
+      "descripcion": "Vive el fútbol amateur de la región de Coquimbo, conoce diferentes historias que te motivan a la pasión del deporte regional.",
+      "inicio": "2026-09-05T16:00:00",
+      "fin": "2026-09-05T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcanchero.jpg"
+    },
+    {
+      "titulo": "En confianza",
+      "descripcion": "Conocemos la historia de vida de destacados personajes de nuestra región. Una familia, un inmigrante, una personas cuyo legado ha sido importante para la sociedad local.",
+      "inicio": "2026-09-05T17:00:00",
+      "fin": "2026-09-05T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enconfianza.jpg"
+    },
+    {
+      "titulo": "Clasicos del cine",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-05T18:00:00",
+      "fin": "2026-09-05T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Barra libre",
+      "descripcion": "Una conversación sin límite, pone sobre la mesa esos temas incómodos, que generan diferencias, esos que nos dicen que no se pueden hablar sin discutir, esos serán los temas sobre lo que hablaremos en cada capítulo.",
+      "inicio": "2026-09-05T19:30:00",
+      "fin": "2026-09-05T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/barralibre.jpg"
+    },
+    {
+      "titulo": "MiRadio TV",
+      "descripcion": "Canal local de la región de Coquimbo centrado en noticias locales, actualidad y programas de conversación para la comunidad.",
+      "inicio": "2026-09-05T22:00:00",
+      "fin": "2026-09-05T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miradiotv.jpg"
     },
     {
       "titulo": "MiRadio TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-05T00:30:00",
-      "fin": "2026-09-05T01:00:00",
+      "descripcion": "Canal local de la región de Coquimbo centrado en noticias locales, actualidad y programas de conversación para la comunidad.",
+      "inicio": "2026-09-05T23:00:00",
+      "fin": "2026-09-06T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miradiotv.jpg"
     },
     {
       "titulo": "MiRadio TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-05T01:00:00",
-      "fin": "2026-09-05T05:00:00",
+      "descripcion": "Canal local de la región de Coquimbo centrado en noticias locales, actualidad y programas de conversación para la comunidad.",
+      "inicio": "2026-09-06T03:00:00",
+      "fin": "2026-09-06T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miradiotv.jpg"
     },
     {
       "titulo": "MiRadio TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-05T05:00:00",
-      "fin": "2026-09-05T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miradiotv.jpg"
-    },
-    {
-      "titulo": "MiRadio TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-05T09:00:00",
-      "fin": "2026-09-05T13:00:00",
+      "descripcion": "Canal local de la región de Coquimbo centrado en noticias locales, actualidad y programas de conversación para la comunidad.",
+      "inicio": "2026-09-06T07:00:00",
+      "fin": "2026-09-06T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miradiotv.jpg"
     }
   ]
