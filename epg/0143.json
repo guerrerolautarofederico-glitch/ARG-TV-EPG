@@ -1,74 +1,116 @@
 {
   "actual": {
-    "titulo": "CNTV infantil",
-    "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-    "inicio": "2026-09-05T07:00:00",
-    "fin": "2026-09-05T09:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    "titulo": "Teatro San Javier",
+    "descripcion": "El Teatro San Javier es un espacio en donde las artes se expresan libremente en todas sus formas y contenidos con creatividad y mucha imaginación. Conciertos, obras escénicas, performances y más para disfrutar un momento agradable en compañía rodeados de artistas.",
+    "inicio": "2026-09-06T09:00:00",
+    "fin": "2026-09-06T10:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Concierto Sinfónico La Serena",
-    "descripcion": "El elenco estudiantil perteneciente al Departamento de Música de la Universidad de La Serena presenta un repertorio acompañado de jóvenes solistas regionales.",
-    "inicio": "2026-09-05T09:00:00",
-    "fin": "2026-09-05T10:30:00",
+    "titulo": "Resumen informativo en lengua de señas",
+    "descripcion": "Se presentan las informaciones más recientes referidas a los principales ámbitos de la sociedad, realizando un recorrido por aquellos hechos que mayor impacto han generado. Todo articulado en el lenguaje universal de señas.",
+    "inicio": "2026-09-06T10:30:00",
+    "fin": "2026-09-06T10:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "CNTV infantil",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-      "inicio": "2026-09-05T07:00:00",
-      "fin": "2026-09-05T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "Concierto Sinfónico La Serena",
-      "descripcion": "El elenco estudiantil perteneciente al Departamento de Música de la Universidad de La Serena presenta un repertorio acompañado de jóvenes solistas regionales.",
-      "inicio": "2026-09-05T09:00:00",
-      "fin": "2026-09-05T10:30:00",
+      "titulo": "Teatro San Javier",
+      "descripcion": "El Teatro San Javier es un espacio en donde las artes se expresan libremente en todas sus formas y contenidos con creatividad y mucha imaginación. Conciertos, obras escénicas, performances y más para disfrutar un momento agradable en compañía rodeados de artistas.",
+      "inicio": "2026-09-06T09:00:00",
+      "fin": "2026-09-06T10:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Resumen informativo en lengua de señas",
       "descripcion": "Se presentan las informaciones más recientes referidas a los principales ámbitos de la sociedad, realizando un recorrido por aquellos hechos que mayor impacto han generado. Todo articulado en el lenguaje universal de señas.",
-      "inicio": "2026-09-05T10:30:00",
-      "fin": "2026-09-05T10:45:00",
+      "inicio": "2026-09-06T10:30:00",
+      "fin": "2026-09-06T10:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "CDTV",
-      "descripcion": "Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.",
-      "inicio": "2026-09-05T10:45:00",
-      "fin": "2026-09-05T21:00:00",
+      "titulo": "Semana en la cámara",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-06T10:45:00",
+      "fin": "2026-09-06T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sesión de sala • Sesión Nº 63",
+      "descripcion": "Repetición ║ Sesión Nº 63 | Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.",
+      "inicio": "2026-09-06T11:00:00",
+      "fin": "2026-09-06T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Comisión de seguridad ciudadana • Emisión del día 02/09/26",
+      "descripcion": "Repetición ║ Emisión del día 02/09/26 | Debates y conversaciones sobre el sistema de seguridad de la nación. Es una reunión que tiene como prioridad discutir los proyectos en marcha y la planificación en función del bienestar de los ciudadanos.",
+      "inicio": "2026-09-06T15:00:00",
+      "fin": "2026-09-06T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Voto femenino 2026 • Senadora Paulina Núñez",
+      "descripcion": "Senadora Paulina Núñez | Conoce el podcast del Congreso Nacional que conmemora los 74 años del sufragio femenino en Chile. En este especial de cuatro episodios, senadoras y diputadas de distintos sectores se unen de manera transversal para demostrar que alcanzar acuerdos en beneficio de todas las personas es posible. Abordan temas claves: desde la ley de cuotas y el liderazgo femenino, hasta la conciliación de la vida laboral, personal y familiar y los desafíos frente a la violencia digital.",
+      "inicio": "2026-09-06T17:30:00",
+      "fin": "2026-09-06T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Comisión de pesca • Emisión del día 02/09/26",
+      "descripcion": "Repetición ║ Emisión del día 02/09/26 | Espacio institucional en el cual podrás conocer los planes, proyectos y estrategias llevadas a cabo por la Comisión de Pesca, con el fin de informar a la ciudadanía chilena sobre la gestión realizada.",
+      "inicio": "2026-09-06T18:00:00",
+      "fin": "2026-09-06T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "UESTV",
+      "descripcion": "Red de noticias de las universidades estatales de Chile, genereando noticias de carácter universitario educativo y cultural.",
+      "inicio": "2026-09-06T19:30:00",
+      "fin": "2026-09-06T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/uestv.jpg"
+    },
+    {
+      "titulo": "Voto femenino 2026 • Diputada Ximena Ossandón",
+      "descripcion": "Diputada Ximena Ossandón | Conoce el podcast del Congreso Nacional que conmemora los 74 años del sufragio femenino en Chile. En este especial de cuatro episodios, senadoras y diputadas de distintos sectores se unen de manera transversal para demostrar que alcanzar acuerdos en beneficio de todas las personas es posible. Abordan temas claves: desde la ley de cuotas y el liderazgo femenino, hasta la conciliación de la vida laboral, personal y familiar y los desafíos frente a la violencia digital.",
+      "inicio": "2026-09-06T20:30:00",
+      "fin": "2026-09-06T21:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Puntos de vista",
       "descripcion": "Segmento en el cual el periodista Guillermo Navarro conversa sobre actualidad y política, con diferentes parlamentarios chilenos, quienes exponen su opinión y apreciaciones sobre los acontecimientos tanto nacionales como internacionales.",
-      "inicio": "2026-09-05T21:00:00",
-      "fin": "2026-09-05T21:30:00",
+      "inicio": "2026-09-06T21:00:00",
+      "fin": "2026-09-06T21:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "CDTV",
-      "descripcion": "Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.",
-      "inicio": "2026-09-05T21:30:00",
-      "fin": "2026-09-06T00:30:00",
+      "titulo": "Comisión de minería • Emisión del día 02/09/26",
+      "descripcion": "Repetición ║ Emisión del día 02/09/26 | Espacio en el que podrá seguir el trabajo que realiza la Comisión de Minería, el debate de las principales políticas en el sector y los acuerdos establecidos para beneficio de la nación chilena.",
+      "inicio": "2026-09-06T21:30:00",
+      "fin": "2026-09-07T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Cierre",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-06T00:30:00",
-      "fin": "2026-09-06T07:00:00",
+      "inicio": "2026-09-07T00:00:00",
+      "fin": "2026-09-07T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "CNTV infantil",
       "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-      "inicio": "2026-09-06T07:00:00",
-      "fin": "2026-09-06T09:00:00",
+      "inicio": "2026-09-07T07:00:00",
+      "fin": "2026-09-07T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Resumen informativo en lengua de señas",
+      "descripcion": "Se presentan las informaciones más recientes referidas a los principales ámbitos de la sociedad, realizando un recorrido por aquellos hechos que mayor impacto han generado. Todo articulado en el lenguaje universal de señas.",
+      "inicio": "2026-09-07T09:00:00",
+      "fin": "2026-09-07T09:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

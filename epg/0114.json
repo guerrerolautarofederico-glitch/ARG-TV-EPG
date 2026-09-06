@@ -1,164 +1,171 @@
 {
   "actual": {
-    "titulo": "Mundo • Parte II",
-    "descripcion": "Repetición ║ Parte II | Un espacio de reportajes científicos y tecnológicos de la mano del periodista Hernán Olguín. El programa expone de manera simple los avances de la época, entregando conocimientos acerca de los adelantos que trae la década de los 80. La audiencia podrá ampliar sus conocimientos en materia de tecnología, a través de un método didáctico.",
-    "inicio": "2026-09-05T08:00:00",
-    "fin": "2026-09-05T09:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
-  },
-  "siguiente": {
     "titulo": "City Tour",
     "descripcion": "Repetición ║ Federico Sánchez y Marcelo Comparini recorren las ciudades del mundo, sus calles y lugares emblemáticos para así enseñar al espectador la arquitectura patrimonial del mundo, el diseño, urbanismo y cultura popular, fomentando su apreciación y cuidado.",
-    "inicio": "2026-09-05T09:00:00",
-    "fin": "2026-09-05T10:00:00",
+    "inicio": "2026-09-06T09:00:00",
+    "fin": "2026-09-06T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/citytour.jpg"
+  },
+  "siguiente": {
+    "titulo": "El mundo del profesor Rossa",
+    "descripcion": "El Profesor Rosa busca enseñar a los niños y sus familias rasgos interesantes del mundo animal, para lo cual hace dibujos, presenta trozos de documentales y viaja a lugares donde poder observar la flora y la fauna, o también la cultura de otros países.",
+    "inicio": "2026-09-06T10:00:00",
+    "fin": "2026-09-06T11:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Mundo • Parte II",
-      "descripcion": "Repetición ║ Parte II | Un espacio de reportajes científicos y tecnológicos de la mano del periodista Hernán Olguín. El programa expone de manera simple los avances de la época, entregando conocimientos acerca de los adelantos que trae la década de los 80. La audiencia podrá ampliar sus conocimientos en materia de tecnología, a través de un método didáctico.",
-      "inicio": "2026-09-05T08:00:00",
-      "fin": "2026-09-05T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
-    },
-    {
       "titulo": "City Tour",
       "descripcion": "Repetición ║ Federico Sánchez y Marcelo Comparini recorren las ciudades del mundo, sus calles y lugares emblemáticos para así enseñar al espectador la arquitectura patrimonial del mundo, el diseño, urbanismo y cultura popular, fomentando su apreciación y cuidado.",
-      "inicio": "2026-09-05T09:00:00",
-      "fin": "2026-09-05T10:00:00",
+      "inicio": "2026-09-06T09:00:00",
+      "fin": "2026-09-06T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/citytour.jpg"
     },
     {
       "titulo": "El mundo del profesor Rossa",
-      "descripcion": "Repetición ║ El Profesor Rosa busca enseñar a los niños y sus familias rasgos interesantes del mundo animal, para lo cual hace dibujos, presenta trozos de documentales y viaja a lugares donde poder observar la flora y la fauna, o también la cultura de otros países.",
-      "inicio": "2026-09-05T10:00:00",
-      "fin": "2026-09-05T11:30:00",
+      "descripcion": "El Profesor Rosa busca enseñar a los niños y sus familias rasgos interesantes del mundo animal, para lo cual hace dibujos, presenta trozos de documentales y viaja a lugares donde poder observar la flora y la fauna, o también la cultura de otros países.",
+      "inicio": "2026-09-06T10:00:00",
+      "fin": "2026-09-06T11:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     },
     {
       "titulo": "Cachureos",
-      "descripcion": "Repetición ║ Marcelo, con sus canciones y personajes en un clásico infantil, deleitará a los más pequeños de la casa en un sinfín de aventuras, donde la creatividad e imaginación estarán a la orden del día.",
-      "inicio": "2026-09-05T11:30:00",
-      "fin": "2026-09-05T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
+      "descripcion": "Programa de entretención y concursos dedicado a toda la familia, en especial a los niños. Animado por Marcelo y acompañado por diferentes personajes como el Gato Juanito, el Zancudo Draculón, Epidemia y el Señor Lápiz.",
+      "inicio": "2026-09-06T11:30:00",
+      "fin": "2026-09-06T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cachureos.jpg"
     },
     {
       "titulo": "Vinilo",
       "descripcion": "Repetición ║ Lleva hasta tu pantalla todo el poder y la energía del rock creado en la década de 1980, época en la cual los inicios de múltiples bandas como Los Prisioneros, Soda Stéreo y muchas otras marcaron la pauta de la escena musical regional.",
-      "inicio": "2026-09-05T12:30:00",
-      "fin": "2026-09-05T13:00:00",
+      "inicio": "2026-09-06T12:30:00",
+      "fin": "2026-09-06T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     },
     {
       "titulo": "Más música",
-      "descripcion": "Repetición ║ Producción para recordar los mejores momentos de Más Música y de la carrera artística de sus invitados, en una grata conversación acompañada de imágenes de archivo y la interpretación en vivo de grandes éxitos, junto a un Tito Francia en el teclado y la guitarra de los propios artistas.",
-      "inicio": "2026-09-05T13:00:00",
-      "fin": "2026-09-05T14:30:00",
+      "descripcion": "Producción para recordar los mejores momentos de Más Música y de la carrera artística de sus invitados, en una grata conversación acompañada de imágenes de archivo y la interpretación en vivo de grandes éxitos, junto a un Tito Francia en el teclado y la guitarra de los propios artistas.",
+      "inicio": "2026-09-06T13:00:00",
+      "fin": "2026-09-06T14:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     },
     {
       "titulo": "Conciertos 13REC",
-      "descripcion": "Repetición ║ REC trae para ti los mejores recitales de los setenta, ochenta y noventa, con artistas nacionales y extranjeros que se han consagrado en suelo chileno.",
-      "inicio": "2026-09-05T14:30:00",
-      "fin": "2026-09-05T15:00:00",
+      "descripcion": "REC trae para ti los mejores recitales de los setenta, ochenta y noventa, con artistas nacionales y extranjeros que se han consagrado en suelo chileno.",
+      "inicio": "2026-09-06T14:30:00",
+      "fin": "2026-09-06T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     },
     {
       "titulo": "El cuarto de música",
       "descripcion": "Repetición ║ Espacio de conversación con distintos exponentes de la escena musical nacional repasando su trayectoria a través de los archivos de canal 13 y desde el cuarto de colección musical que posee su conductor Cristián 'Chico' Pérez.",
-      "inicio": "2026-09-05T15:00:00",
-      "fin": "2026-09-05T16:00:00",
+      "inicio": "2026-09-06T15:00:00",
+      "fin": "2026-09-06T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     },
     {
-      "titulo": "City Tour",
-      "descripcion": "Repetición ║ Federico Sánchez y Marcelo Comparini recorren las ciudades del mundo, sus calles y lugares emblemáticos para así enseñar al espectador la arquitectura patrimonial del mundo, el diseño, urbanismo y cultura popular, fomentando su apreciación y cuidado.",
-      "inicio": "2026-09-05T16:00:00",
-      "fin": "2026-09-05T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/citytour.jpg"
+      "titulo": "Venga conmigo",
+      "descripcion": "Repetición ║ Espacio de entretenimiento animado por el gran cantante José Alfredo 'Pollo' Fuentes.",
+      "inicio": "2026-09-06T16:00:00",
+      "fin": "2026-09-06T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vengaconmigo.jpg"
     },
     {
-      "titulo": "Sábados gigantes",
-      "descripcion": "Show de variedades, concursos, entrevistas y humor que se emite desde 1962.",
-      "inicio": "2026-09-05T17:00:00",
-      "fin": "2026-09-05T22:00:00",
+      "titulo": "Venga conmigo",
+      "descripcion": "Espacio de entretenimiento animado por el gran cantante José Alfredo 'Pollo' Fuentes.",
+      "inicio": "2026-09-06T18:00:00",
+      "fin": "2026-09-06T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vengaconmigo.jpg"
+    },
+    {
+      "titulo": "Gigante y usted",
+      "descripcion": "Repetición ║ Un espacio de conversación lleno de historias, emociones y grandes invitados.",
+      "inicio": "2026-09-06T20:00:00",
+      "fin": "2026-09-06T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
+    },
+    {
+      "titulo": "Las teleseries de nuestras vidas",
+      "descripcion": "A través de más de 50 entrevistas a directores, productores, guionistas, cantantes y actores se podrá conocer cómo se han desarrollado las producciones dramáticas de Canal 13. Desde la era en blanco y negro hasta las teleseries verticales que imperan hoy, pasando por el fenómeno de 'La madrastra' y títulos que marcaron una época como 'Los títeres', 'Ángel malo', 'Amor a domicilio', 'Adrenalina', 'Machos', 'Brujas', 'Papi Ricky', 'Soltera otra vez' y 'Pacto de sangre', entre otras.",
+      "inicio": "2026-09-06T22:00:00",
+      "fin": "2026-09-06T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
+    },
+    {
+      "titulo": "Las teleseries de nuestras vidas • Amor al ritmo de las teleseries",
+      "descripcion": "Repetición ║ Amor al ritmo de las teleseries | No todos los romances quedaron en el guion. Algunos nacieron entre cámaras, crecieron lejos de ellas y terminaron convirtiéndose en historias que el público nunca supo si eran ficción o realidad.",
+      "inicio": "2026-09-06T23:00:00",
+      "fin": "2026-09-07T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     },
     {
       "titulo": "Noche de ronda",
-      "descripcion": "Espacio de entretenimiento que te presenta divertidas secciones. Además, en cada edición recibe a un invitado de lujo que llega a exponer su vida y a reírse con nosotros.",
-      "inicio": "2026-09-05T22:00:00",
-      "fin": "2026-09-06T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
-    },
-    {
-      "titulo": "Only Comparini • Pamela leiva & Amigos de artistas",
-      "descripcion": "Repetición ║ Pamela leiva & Amigos de artistas | Un espacio que cada semana tendrá diversos y destacados invitados para conversar y analizar lo que pasa en la actualidad dando lugar a sus distintas perspectivas. El programa será conducido por Marcelo Comparini quien guiará las charlas.",
-      "inicio": "2026-09-06T00:00:00",
-      "fin": "2026-09-06T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/onlycomparini.jpg"
-    },
-    {
-      "titulo": "El cuarto de música",
-      "descripcion": "Repetición ║ Espacio de conversación con distintos exponentes de la escena musical nacional repasando su trayectoria a través de los archivos de canal 13 y desde el cuarto de colección musical que posee su conductor Cristián 'Chico' Pérez.",
-      "inicio": "2026-09-06T01:00:00",
-      "fin": "2026-09-06T02:00:00",
+      "descripcion": "Repetición ║ Espacio de entretenimiento que te presenta divertidas secciones. Además, en cada edición recibe a un invitado de lujo que llega a exponer su vida y a reírse con nosotros.",
+      "inicio": "2026-09-07T00:00:00",
+      "fin": "2026-09-07T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     },
     {
       "titulo": "Huaiquimán y Tolosa",
       "descripcion": "Repetición ║ Narra las aventuras y desventuras de dos detectives privados que se desenvuelven en el heterogéneo mundo del patronato. Ahí se sumergen en casos que van desde robos a infidelidades, pasando por secuestros y homicidios.",
-      "inicio": "2026-09-06T02:00:00",
-      "fin": "2026-09-06T03:00:00",
+      "inicio": "2026-09-07T02:00:00",
+      "fin": "2026-09-07T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/huaiquimanytolosa.jpg"
     },
     {
       "titulo": "Más música",
       "descripcion": "Repetición ║ Producción para recordar los mejores momentos de Más Música y de la carrera artística de sus invitados, en una grata conversación acompañada de imágenes de archivo y la interpretación en vivo de grandes éxitos, junto a un Tito Francia en el teclado y la guitarra de los propios artistas.",
-      "inicio": "2026-09-06T03:00:00",
-      "fin": "2026-09-06T04:30:00",
+      "inicio": "2026-09-07T03:00:00",
+      "fin": "2026-09-07T04:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     },
     {
       "titulo": "Conciertos 13REC",
       "descripcion": "Repetición ║ REC trae para ti los mejores recitales de los setenta, ochenta y noventa, con artistas nacionales y extranjeros que se han consagrado en suelo chileno.",
-      "inicio": "2026-09-06T04:30:00",
-      "fin": "2026-09-06T05:00:00",
+      "inicio": "2026-09-07T04:30:00",
+      "fin": "2026-09-07T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     },
     {
       "titulo": "Conciertos 13REC",
       "descripcion": "Repetición ║ REC trae para ti los mejores recitales de los setenta, ochenta y noventa, con artistas nacionales y extranjeros que se han consagrado en suelo chileno.",
-      "inicio": "2026-09-06T05:00:00",
-      "fin": "2026-09-06T05:30:00",
+      "inicio": "2026-09-07T05:00:00",
+      "fin": "2026-09-07T05:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     },
     {
       "titulo": "Vinilo",
       "descripcion": "Repetición ║ Lleva hasta tu pantalla todo el poder y la energía del rock creado en la década de 1980, época en la cual los inicios de múltiples bandas como Los Prisioneros, Soda Stéreo y muchas otras marcaron la pauta de la escena musical regional.",
-      "inicio": "2026-09-06T05:30:00",
-      "fin": "2026-09-06T06:00:00",
+      "inicio": "2026-09-07T05:30:00",
+      "fin": "2026-09-07T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     },
     {
-      "titulo": "Sábados gigantes • Parte VII",
-      "descripcion": "Repetición ║ Parte VII | Show de variedades, concursos, entrevistas y humor que se emite desde 1962.",
-      "inicio": "2026-09-06T06:00:00",
-      "fin": "2026-09-06T07:30:00",
+      "titulo": "Sábados gigantes",
+      "descripcion": "Repetición ║ Show de variedades, concursos, entrevistas y humor que se emite desde 1962.",
+      "inicio": "2026-09-07T06:00:00",
+      "fin": "2026-09-07T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
+    },
+    {
+      "titulo": "El mundo del profesor Rossa",
+      "descripcion": "Repetición ║ El Profesor Rosa busca enseñar a los niños y sus familias rasgos interesantes del mundo animal, para lo cual hace dibujos, presenta trozos de documentales y viaja a lugares donde poder observar la flora y la fauna, o también la cultura de otros países.",
+      "inicio": "2026-09-07T07:00:00",
+      "fin": "2026-09-07T08:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     },
     {
       "titulo": "Conciertos 13REC",
       "descripcion": "Repetición ║ REC trae para ti los mejores recitales de los setenta, ochenta y noventa, con artistas nacionales y extranjeros que se han consagrado en suelo chileno.",
-      "inicio": "2026-09-06T07:30:00",
-      "fin": "2026-09-06T08:00:00",
+      "inicio": "2026-09-07T08:30:00",
+      "fin": "2026-09-07T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     },
     {
-      "titulo": "Mundo • Parte I",
-      "descripcion": "Repetición ║ Parte I | Un espacio de reportajes científicos y tecnológicos de la mano del periodista Hernán Olguín. El programa expone de manera simple los avances de la época, entregando conocimientos acerca de los adelantos que trae la década de los 80. La audiencia podrá ampliar sus conocimientos en materia de tecnología, a través de un método didáctico.",
-      "inicio": "2026-09-06T08:00:00",
-      "fin": "2026-09-06T09:00:00",
+      "titulo": "Más música",
+      "descripcion": "Repetición ║ Producción para recordar los mejores momentos de Más Música y de la carrera artística de sus invitados, en una grata conversación acompañada de imágenes de archivo y la interpretación en vivo de grandes éxitos, junto a un Tito Francia en el teclado y la guitarra de los propios artistas.",
+      "inicio": "2026-09-07T09:00:00",
+      "fin": "2026-09-07T10:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0114_fallback.jpg"
     }
   ]
