@@ -1,186 +1,130 @@
 {
   "actual": {
-    "titulo": "Historias extraordinarias",
-    "descripcion": "X llega a un pequeño pueblo y es testigo de un acto violento; Z toma el trabajo de un gerente muerto y descubre que tenía un cuaderno escrito en código y un mapa; H es contratado para bajar por un río e investigar una serie de misteriosos monolitos construidos en la orilla.",
-    "inicio": "2026-09-09T09:17:00",
-    "fin": "2026-09-09T13:43:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/historiasextraordinarias.jpg"
+    "titulo": "Scaramouche",
+    "descripcion": "Un joven del siglo XVIII en Francia oculta su verdadera identidad cuando aprende el arte de la esgrima para vengarse.",
+    "inicio": "2026-09-10T08:45:00",
+    "fin": "2026-09-10T10:48:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/scaramouche.jpg"
   },
   "siguiente": {
-    "titulo": "Alemania",
-    "descripcion": "Lola, una adolescente de 16 años, quiere irse de viaje, pero su familia se opone pues están absorbidos por el trastorno mental de su hermana mayor. La inestabilidad y el desgaste en el vínculo con su familia hacen que Lola busque nuevas experiencias.",
-    "inicio": "2026-09-09T13:43:00",
-    "fin": "2026-09-09T15:10:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Madame Bovary",
+    "descripcion": "La búsqueda de una mujer por el amor prueba ser su ruina. Basada en la novela por Gustave Flaubert.",
+    "inicio": "2026-09-10T10:48:00",
+    "fin": "2026-09-10T12:50:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/madamebovary.jpg"
   },
   "lista": [
-    {
-      "titulo": "Historias extraordinarias",
-      "descripcion": "X llega a un pequeño pueblo y es testigo de un acto violento; Z toma el trabajo de un gerente muerto y descubre que tenía un cuaderno escrito en código y un mapa; H es contratado para bajar por un río e investigar una serie de misteriosos monolitos construidos en la orilla.",
-      "inicio": "2026-09-09T09:17:00",
-      "fin": "2026-09-09T13:43:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/historiasextraordinarias.jpg"
-    },
-    {
-      "titulo": "Alemania",
-      "descripcion": "Lola, una adolescente de 16 años, quiere irse de viaje, pero su familia se opone pues están absorbidos por el trastorno mental de su hermana mayor. La inestabilidad y el desgaste en el vínculo con su familia hacen que Lola busque nuevas experiencias.",
-      "inicio": "2026-09-09T13:43:00",
-      "fin": "2026-09-09T15:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Plus One",
-      "descripcion": "Ben y Alice, dos amigos solteros de toda la vida, aceptan acompañarse a cada boda a la que están invitados.",
-      "inicio": "2026-09-09T15:10:00",
-      "fin": "2026-09-09T15:11:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Plus One",
-      "descripcion": "Ben y Alice, dos amigos solteros de toda la vida, aceptan acompañarse a cada boda a la que están invitados.",
-      "inicio": "2026-09-09T15:11:00",
-      "fin": "2026-09-09T16:54:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Scaramouche",
-      "descripcion": "Un joven del siglo XVIII en Francia oculta su verdadera identidad cuando aprende el arte de la esgrima para vengarse.",
-      "inicio": "2026-09-09T16:54:00",
-      "fin": "2026-09-09T18:56:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/scaramouche.jpg"
-    },
-    {
-      "titulo": "Madame Bovary",
-      "descripcion": "La búsqueda de una mujer por el amor prueba ser su ruina. Basada en la novela por Gustave Flaubert.",
-      "inicio": "2026-09-09T18:56:00",
-      "fin": "2026-09-09T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/madamebovary.jpg"
-    },
-    {
-      "titulo": "Derecho de familia",
-      "descripcion": "Perelman hijo (Daniel Hendler) es un joven que estudia derecho que no quiere parecerse más a su padre (Arturo Goetz), un prestigioso abogado, pero cuanto más trata de diferenciarse, más se parece a él. Como una forma de encontrarse, busca la manera de descubrir qué es lo que más lo representa, y así despegarse de la imagen paterna. Ahora que ya es un adulto, está casado, tiene un hijo y la vida se le presenta en permanente transformación.",
-      "inicio": "2026-09-09T21:00:00",
-      "fin": "2026-09-09T22:39:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/derechodefamilia.jpg"
-    },
-    {
-      "titulo": "La fragilidad de los cuerpos",
-      "descripcion": "La periodista Verónica Rosenthal comienza a investigar el suicidio de un maquinista, pero se enfrenta al hermetismo del mundo ferroviario. Las pistas la van llevando hacia otro maquinista que puede ser clave para abrir el caso: Lucio Valrossa.",
-      "inicio": "2026-09-09T22:39:00",
-      "fin": "2026-09-09T22:41:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La fragilidad de los cuerpos",
-      "descripcion": "La periodista Verónica Rosenthal comienza a investigar el suicidio de un maquinista, pero se enfrenta al hermetismo del mundo ferroviario. Las pistas la van llevando hacia otro maquinista que puede ser clave para abrir el caso: Lucio Valrossa.",
-      "inicio": "2026-09-09T22:41:00",
-      "fin": "2026-09-09T23:32:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La fragilidad de los cuerpos",
-      "descripcion": "Verónica quiere saber más sobre los chicos que compiten en las vías y vuelve a encontrarse con Lucio. Mientras ella avanza en la investigación con pistas aisladas, Rivero lleva a Peque a su primera competencia en las vías.",
-      "inicio": "2026-09-09T23:32:00",
-      "fin": "2026-09-09T23:34:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La fragilidad de los cuerpos",
-      "descripcion": "Verónica quiere saber más sobre los chicos que compiten en las vías y vuelve a encontrarse con Lucio. Mientras ella avanza en la investigación con pistas aisladas, Rivero lleva a Peque a su primera competencia en las vías.",
-      "inicio": "2026-09-09T23:34:00",
-      "fin": "2026-09-10T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "In a Relationship",
-      "descripcion": "Durante un verano en Los Ángeles, la relación larga de Owen y Hallie podría terminarse. Al mismo tiempo que su relación llega a un punto de no retorno, Matt y Willa comienzan su propio romance.",
-      "inicio": "2026-09-10T00:30:00",
-      "fin": "2026-09-10T00:33:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En pareja",
-      "descripcion": "Durante un verano en Los Ángeles, la relación larga de Owen y Hallie podría terminarse. Al mismo tiempo que su relación llega a un punto de no retorno, Matt y Willa comienzan su propio romance.",
-      "inicio": "2026-09-10T00:33:00",
-      "fin": "2026-09-10T02:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El cartero llama dos veces",
-      "descripcion": "En Estados Unidos, durante la Gran Depresión, un vagabundo llega a un restaurante situado en una carretera secundaria. El dueño le ofrece un trabajo, pero él lo rechaza. Sin embargo, cuando ve a la mujer del propietario, el forastero decide quedarse.",
-      "inicio": "2026-09-10T02:05:00",
-      "fin": "2026-09-10T02:08:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcarterollamadosveces.jpg"
-    },
-    {
-      "titulo": "El cartero llama dos veces",
-      "descripcion": "En Estados Unidos, durante la Gran Depresión, un vagabundo llega a un restaurante situado en una carretera secundaria. El dueño le ofrece un trabajo, pero él lo rechaza. Sin embargo, cuando ve a la mujer del propietario, el forastero decide quedarse.",
-      "inicio": "2026-09-10T02:08:00",
-      "fin": "2026-09-10T04:04:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcarterollamadosveces.jpg"
-    },
-    {
-      "titulo": "Hollywood One on One",
-      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
-      "inicio": "2026-09-10T04:04:00",
-      "fin": "2026-09-10T04:39:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hollywood One on One",
-      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
-      "inicio": "2026-09-10T04:39:00",
-      "fin": "2026-09-10T04:52:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TNT Buzz",
-      "descripcion": "Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.",
-      "inicio": "2026-09-10T04:52:00",
-      "fin": "2026-09-10T04:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TNT Buzz",
-      "descripcion": "Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.",
-      "inicio": "2026-09-10T04:55:00",
-      "fin": "2026-09-10T04:56:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TNT Buzz",
-      "descripcion": "Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.",
-      "inicio": "2026-09-10T04:56:00",
-      "fin": "2026-09-10T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hollywood One on One",
-      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
-      "inicio": "2026-09-10T05:00:00",
-      "fin": "2026-09-10T05:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Alemania",
-      "descripcion": "Lola, una adolescente de 16 años, quiere irse de viaje, pero su familia se opone pues están absorbidos por el trastorno mental de su hermana mayor. La inestabilidad y el desgaste en el vínculo con su familia hacen que Lola busque nuevas experiencias.",
-      "inicio": "2026-09-10T05:35:00",
-      "fin": "2026-09-10T07:03:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Plus One",
-      "descripcion": "Ben y Alice, dos amigos solteros de toda la vida, aceptan acompañarse a cada boda a la que están invitados.",
-      "inicio": "2026-09-10T07:03:00",
-      "fin": "2026-09-10T08:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Scaramouche",
       "descripcion": "Un joven del siglo XVIII en Francia oculta su verdadera identidad cuando aprende el arte de la esgrima para vengarse.",
       "inicio": "2026-09-10T08:45:00",
       "fin": "2026-09-10T10:48:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/scaramouche.jpg"
+    },
+    {
+      "titulo": "Madame Bovary",
+      "descripcion": "La búsqueda de una mujer por el amor prueba ser su ruina. Basada en la novela por Gustave Flaubert.",
+      "inicio": "2026-09-10T10:48:00",
+      "fin": "2026-09-10T12:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/madamebovary.jpg"
+    },
+    {
+      "titulo": "Ivanhoe",
+      "descripcion": "Un caballero regresa de las Cruzadas y encuentra al Príncipe Juan tratando de quitar el trono del Rey Ricardo.",
+      "inicio": "2026-09-10T12:50:00",
+      "fin": "2026-09-10T14:44:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "East of Eden",
+      "descripcion": "Un granjero californiano tiene dos hijos, Cal y Aron, a los que saca adelante como puede. La situación de Cal se complica cuando averigua que, en realidad, su madre no solo no está muerta, sino que además dirige un burdel local.",
+      "inicio": "2026-09-10T14:44:00",
+      "fin": "2026-09-10T16:48:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tycoon",
+      "descripcion": "Un ingeniero americano encuentra amor y aventura en Latinoamérica cuando construye las vías de ferrocarril en los Andes.",
+      "inicio": "2026-09-10T16:48:00",
+      "fin": "2026-09-10T19:06:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cloudy Mountain",
+      "descripcion": "Un padre y su hijo intentan salvar a una ciudad después de una serie de desastres naturales, como un terrible hundimiento que atrapa a un autobús lleno de personas en un túnel subterráneo.",
+      "inicio": "2026-09-10T19:06:00",
+      "fin": "2026-09-10T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La fragilidad de los cuerpos",
+      "descripcion": "La periodista Verónica Rosenthal comienza a investigar el suicidio de un maquinista, pero se enfrenta al hermetismo del mundo ferroviario. Las pistas la van llevando hacia otro maquinista que puede ser clave para abrir el caso: Lucio Valrossa.",
+      "inicio": "2026-09-10T21:00:00",
+      "fin": "2026-09-10T21:52:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La fragilidad de los cuerpos",
+      "descripcion": "Verónica quiere saber más sobre los chicos que compiten en las vías y vuelve a encontrarse con Lucio. Mientras ella avanza en la investigación con pistas aisladas, Rivero lleva a Peque a su primera competencia en las vías.",
+      "inicio": "2026-09-10T21:52:00",
+      "fin": "2026-09-10T22:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Thicket",
+      "descripcion": "Un cazarrecompensas y un grupo de héroes improbables persiguen a un asesino brutal. La aventura los lleva hasta un lugar inhóspito, una tierra de nadie como Thicket.",
+      "inicio": "2026-09-10T22:50:00",
+      "fin": "2026-09-11T00:38:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El cartero llama dos veces",
+      "descripcion": "En Estados Unidos, durante la Gran Depresión, un vagabundo llega a un restaurante situado en una carretera secundaria. El dueño le ofrece un trabajo, pero él lo rechaza. Sin embargo, cuando ve a la mujer del propietario, el forastero decide quedarse.",
+      "inicio": "2026-09-11T00:38:00",
+      "fin": "2026-09-11T02:37:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcarterollamadosveces.jpg"
+    },
+    {
+      "titulo": "Arturo a los 30",
+      "descripcion": "Arturo es un hombre treintañero, inadaptado y algo melancólico, que reevalúa su vida tras salir ileso de un accidente.",
+      "inicio": "2026-09-11T02:37:00",
+      "fin": "2026-09-11T04:08:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/arturoalos30.jpg"
+    },
+    {
+      "titulo": "Hollywood One on One",
+      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
+      "inicio": "2026-09-11T04:08:00",
+      "fin": "2026-09-11T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hollywood One on One",
+      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
+      "inicio": "2026-09-11T05:00:00",
+      "fin": "2026-09-11T05:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ivanhoe",
+      "descripcion": "Un caballero regresa de las Cruzadas y encuentra al Príncipe Juan tratando de quitar el trono del Rey Ricardo.",
+      "inicio": "2026-09-11T05:20:00",
+      "fin": "2026-09-11T07:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "East of Eden",
+      "descripcion": "Un granjero californiano tiene dos hijos, Cal y Aron, a los que saca adelante como puede. La situación de Cal se complica cuando averigua que, en realidad, su madre no solo no está muerta, sino que además dirige un burdel local.",
+      "inicio": "2026-09-11T07:10:00",
+      "fin": "2026-09-11T09:14:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tycoon",
+      "descripcion": "Un ingeniero americano encuentra amor y aventura en Latinoamérica cuando construye las vías de ferrocarril en los Andes.",
+      "inicio": "2026-09-11T09:14:00",
+      "fin": "2026-09-11T11:32:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
