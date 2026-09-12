@@ -1,108 +1,185 @@
 {
   "actual": {
-    "titulo": "Mucho gusto",
-    "descripcion": "Entretención, actualidad, conversación y muchas risas para acompañar tus mañanas con el panel más entretenido de la TV.",
-    "inicio": "2026-09-11T08:00:00",
-    "fin": "2026-09-11T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/muchogusto.jpg"
+    "titulo": "Meganoticias siempre juntos",
+    "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
+    "inicio": "2026-09-12T09:00:00",
+    "fin": "2026-09-12T11:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiassiemprejuntos.jpg"
   },
   "siguiente": {
-    "titulo": "Meganoticias alerta",
-    "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-    "inicio": "2026-09-11T13:00:00",
-    "fin": "2026-09-11T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasalerta.jpg"
+    "titulo": "Copec Rallymobil",
+    "descripcion": "El Copec Rally Mobil es la principal competencia automovilística de rally en Chile.",
+    "inicio": "2026-09-12T11:00:00",
+    "fin": "2026-09-12T12:40:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/copecrallymobil.jpg"
   },
   "lista": [
     {
-      "titulo": "Mucho gusto",
-      "descripcion": "Entretención, actualidad, conversación y muchas risas para acompañar tus mañanas con el panel más entretenido de la TV.",
-      "inicio": "2026-09-11T08:00:00",
-      "fin": "2026-09-11T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/muchogusto.jpg"
+      "titulo": "Meganoticias siempre juntos",
+      "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
+      "inicio": "2026-09-12T09:00:00",
+      "fin": "2026-09-12T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiassiemprejuntos.jpg"
     },
     {
-      "titulo": "Meganoticias alerta",
+      "titulo": "Copec Rallymobil",
+      "descripcion": "El Copec Rally Mobil es la principal competencia automovilística de rally en Chile.",
+      "inicio": "2026-09-12T11:00:00",
+      "fin": "2026-09-12T12:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/copecrallymobil.jpg"
+    },
+    {
+      "titulo": "Meganoticias actualiza",
       "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-      "inicio": "2026-09-11T13:00:00",
-      "fin": "2026-09-11T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasalerta.jpg"
+      "inicio": "2026-09-12T12:40:00",
+      "fin": "2026-09-12T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasactualiza.jpg"
+    },
+    {
+      "titulo": "Meganoticias actualiza",
+      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+      "inicio": "2026-09-12T14:00:00",
+      "fin": "2026-09-12T14:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasactualiza.jpg"
     },
     {
       "titulo": "El tiempo",
       "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-09-11T15:00:00",
-      "fin": "2026-09-11T15:05:00",
+      "inicio": "2026-09-12T14:55:00",
+      "fin": "2026-09-12T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
     },
     {
-      "titulo": "La hora de jugar",
-      "descripcion": "Mucho gusto, en una alianza con Lotería, preparan un programa donde la consigna es pasarlo bien y ganar suculentos premios.",
-      "inicio": "2026-09-11T15:05:00",
-      "fin": "2026-09-11T15:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahoradejugar.jpg"
+      "titulo": "Acceso a lo nuestro",
+      "descripcion": "Junto a Joaquín Méndez, ingresará en lugares patrimoniales que cargan con el peso de la historia para conocer, de primera mano, los secretos y a distintos personajes.",
+      "inicio": "2026-09-12T15:00:00",
+      "fin": "2026-09-12T15:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/accesoalonuestro.jpg"
     },
     {
-      "titulo": "Carmen Gloria: Fuerte & claro",
-      "descripcion": "Talk show diario liderado por Carmen Gloria Arroyo, que aborda la actualidad social con historias reales, orientación y soluciones concretas para las personas.",
-      "inicio": "2026-09-11T15:45:00",
-      "fin": "2026-09-11T16:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/carmengloriafuerteclaro.jpg"
+      "titulo": "El tiempo",
+      "descripcion": "Toda la informacion meteorológica del país.",
+      "inicio": "2026-09-12T15:55:00",
+      "fin": "2026-09-12T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
     },
     {
-      "titulo": "La Baronesa",
-      "descripcion": "Aurora Valdés visita los casinos clandestinos con una racha ganadora imparable, hasta que el joven Javier Toledo le muestre el alto precio de la derrota.",
-      "inicio": "2026-09-11T16:45:00",
-      "fin": "2026-09-11T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/labaronesa.jpg"
+      "titulo": "¿A qué costo?",
+      "descripcion": "Un espacio cuyo objetivo es el de generar conciencia sobre el precio oculto que tiene todo lo que consumimos en nuestra vida diaria y que termina afectando al planeta. En su búsqueda, el presentador recorrerá Chile de norte a sur para encontrar respuestas y soluciones.",
+      "inicio": "2026-09-12T16:00:00",
+      "fin": "2026-09-12T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquecosto.jpg"
     },
     {
-      "titulo": "La Baronesa",
-      "descripcion": "Aurora Valdés visita los casinos clandestinos con una racha ganadora imparable, hasta que el joven Javier Toledo le muestre el alto precio de la derrota.",
-      "inicio": "2026-09-11T17:30:00",
-      "fin": "2026-09-11T18:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/labaronesa.jpg"
+      "titulo": "Tesoros de mi barrio",
+      "descripcion": "Nuevo segmento que promete entretener las tardes resaltando lo más característico de lugares emblemáticos con la conducción de Joaquín Méndez y María José Quintanilla. Paseos, comercios y los pecualiares personajes que exhibe cada barrio.",
+      "inicio": "2026-09-12T17:00:00",
+      "fin": "2026-09-12T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tesorosdemibarrio.jpg"
     },
     {
-      "titulo": "Dale play",
-      "descripcion": "Dos equipos ponen a prueba su conocimiento musical para acumular dinero y llegar al juego final: una vertiginosa carrera contra el tiempo por un premio millonario. Un programa lleno de canciones, humor y desafíos para jugar y cantar en familia.",
-      "inicio": "2026-09-11T18:15:00",
-      "fin": "2026-09-11T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/daleplay.jpg"
+      "titulo": "Tesoros de mi barrio",
+      "descripcion": "Nuevo segmento que promete entretener las tardes resaltando lo más característico de lugares emblemáticos con la conducción de Joaquín Méndez y María José Quintanilla. Paseos, comercios y los pecualiares personajes que exhibe cada barrio.",
+      "inicio": "2026-09-12T17:30:00",
+      "fin": "2026-09-12T17:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tesorosdemibarrio.jpg"
+    },
+    {
+      "titulo": "Fútbol Liga Femenina",
+      "descripcion": "Universidad de Chile vs Huachipato",
+      "inicio": "2026-09-12T17:40:00",
+      "fin": "2026-09-12T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolligafemenina.jpg"
+    },
+    {
+      "titulo": "Viajando ando",
+      "descripcion": "La presentadora Daniela Urrizola recorre diferentes destinos turísticos de todo el mundo junto a su esposo y camarógrafo. A través del recorrido que propone la conductora, el público descubrirá todo tipo de actividades y sitios que visitar.",
+      "inicio": "2026-09-12T18:00:00",
+      "fin": "2026-09-12T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viajandoando.jpg"
+    },
+    {
+      "titulo": "Nuestras fiestas",
+      "descripcion": "Programa que aborda distintas festividades del territorio nacional.",
+      "inicio": "2026-09-12T19:00:00",
+      "fin": "2026-09-12T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nuestrasfiestas.jpg"
     },
     {
       "titulo": "Meganoticias prime",
       "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-      "inicio": "2026-09-11T20:00:00",
-      "fin": "2026-09-11T22:05:00",
+      "inicio": "2026-09-12T20:00:00",
+      "fin": "2026-09-12T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasprime.jpg"
+    },
+    {
+      "titulo": "Meganoticias prime",
+      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+      "inicio": "2026-09-12T21:00:00",
+      "fin": "2026-09-12T22:05:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasprime.jpg"
     },
     {
       "titulo": "El tiempo",
       "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-09-11T22:05:00",
-      "fin": "2026-09-11T22:10:00",
+      "inicio": "2026-09-12T22:05:00",
+      "fin": "2026-09-12T22:10:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
     },
     {
-      "titulo": "Detrás del muro",
-      "descripcion": "Un programa de humor y entretención que, a través de sketches, personajes y situaciones absurdas, pone en escena los temas que interesan a los chilenos.",
-      "inicio": "2026-09-11T22:10:00",
-      "fin": "2026-09-12T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/detrasdelmuro.jpg"
+      "titulo": "Coliseo: Un humorista para Viña",
+      "descripcion": "Bajo el slogan 'Un humorista para Viña', este espacio se convertirá en la plataforma que definirá a uno de los seis comediantes que se presentarán en el Festival Internacional de la Canción de Viña del Mar 2026. Humoristas de diversas procedencias tendrán la oportunidad única de pisar el escenario más importante de Latinoamérica.",
+      "inicio": "2026-09-12T22:10:00",
+      "fin": "2026-09-12T23:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/coliseounhumoristaparavina.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Toda la informacion meteorológica del país.",
+      "inicio": "2026-09-12T23:05:00",
+      "fin": "2026-09-12T23:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
+    },
+    {
+      "titulo": "Coliseo: Un humorista para Viña",
+      "descripcion": "Bajo el slogan 'Un humorista para Viña', este espacio se convertirá en la plataforma que definirá a uno de los seis comediantes que se presentarán en el Festival Internacional de la Canción de Viña del Mar 2026. Humoristas de diversas procedencias tendrán la oportunidad única de pisar el escenario más importante de Latinoamérica.",
+      "inicio": "2026-09-12T23:10:00",
+      "fin": "2026-09-13T00:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/coliseounhumoristaparavina.jpg"
+    },
+    {
+      "titulo": "TravelApp",
+      "descripcion": "Travel App es un programa de televisión que aborda la aventura de viajar desde una perspectiva totalmente distinta, saliendo de la zona de confort y llegando a lugares desconocidos, donde logremos impregnarnos de la cultura y las costumbres de su...",
+      "inicio": "2026-09-13T00:15:00",
+      "fin": "2026-09-13T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_fallback.jpg"
+    },
+    {
+      "titulo": "Nuestras fiestas",
+      "descripcion": "Programa que aborda distintas festividades del territorio nacional.",
+      "inicio": "2026-09-13T00:45:00",
+      "fin": "2026-09-13T01:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nuestrasfiestas.jpg"
+    },
+    {
+      "titulo": "Viajando ando",
+      "descripcion": "La presentadora Daniela Urrizola recorre diferentes destinos turísticos de todo el mundo junto a su esposo y camarógrafo. A través del recorrido que propone la conductora, el público descubrirá todo tipo de actividades y sitios que visitar.",
+      "inicio": "2026-09-13T01:45:00",
+      "fin": "2026-09-13T02:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viajandoando.jpg"
     },
     {
       "titulo": "Meganoticias ahora",
       "descripcion": "Noticiero vespertino que aborda la contingencia nacional e internacional con énfasis en breaking news. Incluye política, salud, educación, deportes e internacionales con panelistas especializados.",
-      "inicio": "2026-09-12T04:30:00",
-      "fin": "2026-09-12T09:00:00",
+      "inicio": "2026-09-13T02:45:00",
+      "fin": "2026-09-13T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahora.jpg"
     },
     {
       "titulo": "Meganoticias siempre juntos",
       "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
-      "inicio": "2026-09-12T09:00:00",
-      "fin": "2026-09-12T14:00:00",
+      "inicio": "2026-09-13T08:00:00",
+      "fin": "2026-09-13T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiassiemprejuntos.jpg"
     }
   ]

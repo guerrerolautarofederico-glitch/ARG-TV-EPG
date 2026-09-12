@@ -1,87 +1,101 @@
 {
   "actual": {
-    "titulo": "Invitad@ del día",
-    "descripcion": "Conversaciones con diversos expertos para conocer nuevas perspectivas sobre los grandes temas de cada jornada.",
-    "inicio": "2026-09-11T09:21:00",
-    "fin": "2026-09-11T09:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-  },
-  "siguiente": {
     "titulo": "Noticias",
     "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-    "inicio": "2026-09-11T09:30:00",
-    "fin": "2026-09-11T09:45:00",
+    "inicio": "2026-09-12T09:00:00",
+    "fin": "2026-09-12T09:15:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+  },
+  "siguiente": {
+    "titulo": "Migrantes",
+    "descripcion": "Entrevistas a mexicanos que se mudaron a los Estados Unidos y los placeres de la cultura mexicana que extrañan.",
+    "inicio": "2026-09-12T09:15:00",
+    "fin": "2026-09-12T09:24:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Invitad@ del día",
-      "descripcion": "Conversaciones con diversos expertos para conocer nuevas perspectivas sobre los grandes temas de cada jornada.",
-      "inicio": "2026-09-11T09:21:00",
-      "fin": "2026-09-11T09:30:00",
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-09-12T09:00:00",
+      "fin": "2026-09-12T09:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Migrantes",
+      "descripcion": "Entrevistas a mexicanos que se mudaron a los Estados Unidos y los placeres de la cultura mexicana que extrañan.",
+      "inicio": "2026-09-12T09:15:00",
+      "fin": "2026-09-12T09:24:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-09-12T09:24:00",
+      "fin": "2026-09-12T09:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Noticias",
       "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-09-11T09:30:00",
-      "fin": "2026-09-11T09:45:00",
+      "inicio": "2026-09-12T09:30:00",
+      "fin": "2026-09-12T09:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
     },
     {
-      "titulo": "Ellas Hoy",
-      "descripcion": "El programa de quienes impulsan el cambio en un mundo todavía muy dominado por los hombres. Una cita con iniciativas de hombres y mujeres que luchan por formar sociedades en las que haya mayor igualdad de género.",
-      "inicio": "2026-09-11T09:45:00",
-      "fin": "2026-09-11T10:45:00",
+      "titulo": "Aquí América",
+      "descripcion": "Programa donde se ofrece una mirada diferente de la información del continente americano.",
+      "inicio": "2026-09-12T09:45:00",
+      "fin": "2026-09-12T10:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-11T10:45:00",
-      "fin": "2026-09-11T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "France 24 Español",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-11T11:00:00",
-      "fin": "2026-09-11T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "France 24 Español",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-11T15:00:00",
-      "fin": "2026-09-11T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "France 24 Español",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-11T19:00:00",
-      "fin": "2026-09-11T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "France 24 Español",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-11T23:00:00",
-      "fin": "2026-09-12T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "France 24 Español",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-12T03:00:00",
-      "fin": "2026-09-12T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "France 24 Español",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-12T07:00:00",
+      "inicio": "2026-09-12T10:45:00",
       "fin": "2026-09-12T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "France 24 Español",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-12T11:00:00",
+      "fin": "2026-09-12T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "France 24 Español",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-12T15:00:00",
+      "fin": "2026-09-12T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "France 24 Español",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-12T19:00:00",
+      "fin": "2026-09-12T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "France 24 Español",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-12T23:00:00",
+      "fin": "2026-09-13T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "France 24 Español",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-13T03:00:00",
+      "fin": "2026-09-13T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "France 24 Español",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-13T07:00:00",
+      "fin": "2026-09-13T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

@@ -1,276 +1,325 @@
 {
   "actual": {
-    "titulo": "La mañana informativa",
-    "descripcion": "Espacio informativo en el que se abordan los acontecimientos más relevantes de la actualidad, datos de servicios como el tiempo y el tráfico vehicular.",
-    "inicio": "2026-09-11T08:30:00",
-    "fin": "2026-09-11T10:45:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananainformativa.jpg"
+    "titulo": "24 horas a la hora",
+    "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+    "inicio": "2026-09-12T09:00:00",
+    "fin": "2026-09-12T10:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
   },
   "siguiente": {
-    "titulo": "Economía",
-    "descripcion": "Una mirada europea al mundo de la economía y los negocios. Hechos, análisis y las historias reales desde la principales plazas financieras, los mercados clave y las empresas líderes.",
-    "inicio": "2026-09-11T10:45:00",
-    "fin": "2026-09-11T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
+    "titulo": "Reporte minero",
+    "descripcion": "Repetición ║ Programa del canal 24H dedicado al mercado de la minería.",
+    "inicio": "2026-09-12T10:30:00",
+    "fin": "2026-09-12T11:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reporteminero.jpg"
   },
   "lista": [
-    {
-      "titulo": "La mañana informativa",
-      "descripcion": "Espacio informativo en el que se abordan los acontecimientos más relevantes de la actualidad, datos de servicios como el tiempo y el tráfico vehicular.",
-      "inicio": "2026-09-11T08:30:00",
-      "fin": "2026-09-11T10:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananainformativa.jpg"
-    },
-    {
-      "titulo": "Economía",
-      "descripcion": "Una mirada europea al mundo de la economía y los negocios. Hechos, análisis y las historias reales desde la principales plazas financieras, los mercados clave y las empresas líderes.",
-      "inicio": "2026-09-11T10:45:00",
-      "fin": "2026-09-11T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
-    },
-    {
-      "titulo": "La mañana informativa",
-      "descripcion": "Espacio informativo en el que se abordan los acontecimientos más relevantes de la actualidad, datos de servicios como el tiempo y el tráfico vehicular.",
-      "inicio": "2026-09-11T11:00:00",
-      "fin": "2026-09-11T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananainformativa.jpg"
-    },
-    {
-      "titulo": "Estado prime",
-      "descripcion": "Repetición ║ La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-11T12:30:00",
-      "fin": "2026-09-11T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
-    },
-    {
-      "titulo": "24 horas al día",
-      "descripcion": "Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial, donde te presentamos un resumen con informaciones referidas a la política, la economía, los deportes, entre otros ámbitos.",
-      "inicio": "2026-09-11T13:00:00",
-      "fin": "2026-09-11T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasaldia.jpg"
-    },
-    {
-      "titulo": "DW analiza",
-      "descripcion": "Ponemos en contexto la actualidad internacional y analizamos el contexto de los hechos. Hablamos con especialistas para conocer todos los ángulos de la noticia y presentamos todo con un lenguaje diferente que acerca temas complejos también al público más joven.",
-      "inicio": "2026-09-11T15:00:00",
-      "fin": "2026-09-11T15:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dwanaliza.jpg"
-    },
-    {
-      "titulo": "Entrevistas 24",
-      "descripcion": "Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.",
-      "inicio": "2026-09-11T15:15:00",
-      "fin": "2026-09-11T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas24.jpg"
-    },
-    {
-      "titulo": "Reporte agrícola",
-      "descripcion": "Espacio conducido por el periodista Jose Ignacio Atenas, que busca explorar cómo los campos chilenos enfrentan los desafíos climáticos que cambian día a día. Análisis, entrevistas con expertos, infomración y noticias actualizada para todos.",
-      "inicio": "2026-09-11T15:30:00",
-      "fin": "2026-09-11T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reporteagricola.jpg"
-    },
-    {
-      "titulo": "Noticias 24",
-      "descripcion": "Resumen noticioso nacional e internacional.",
-      "inicio": "2026-09-11T16:00:00",
-      "fin": "2026-09-11T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24.jpg"
-    },
-    {
-      "titulo": "Noticias 24",
-      "descripcion": "Resumen noticioso nacional e internacional.",
-      "inicio": "2026-09-11T18:00:00",
-      "fin": "2026-09-11T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24.jpg"
-    },
-    {
-      "titulo": "Noticias 24",
-      "descripcion": "Resumen noticioso nacional e internacional.",
-      "inicio": "2026-09-11T19:00:00",
-      "fin": "2026-09-11T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24.jpg"
-    },
-    {
-      "titulo": "Sonidos 24",
-      "descripcion": "Las novedades de la música con Pablo Márquez.",
-      "inicio": "2026-09-11T19:30:00",
-      "fin": "2026-09-11T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
-    },
-    {
-      "titulo": "24 Horas deportes",
-      "descripcion": "Lo más destacado del día en diferentes disciplinas. Sigue la actualidad deportiva nacional e internacional a través de TVN.",
-      "inicio": "2026-09-11T20:00:00",
-      "fin": "2026-09-11T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasdeportes.jpg"
-    },
-    {
-      "titulo": "24 horas central",
-      "descripcion": "Revisa las noticias más relevantes de la jornada.",
-      "inicio": "2026-09-11T21:00:00",
-      "fin": "2026-09-11T22:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horascentral.jpg"
-    },
-    {
-      "titulo": "Entrevistas 24",
-      "descripcion": "Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.",
-      "inicio": "2026-09-11T22:45:00",
-      "fin": "2026-09-11T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas24.jpg"
-    },
-    {
-      "titulo": "24 cuadros",
-      "descripcion": "Programa sobre las noticias de los próximos estrenos del cine.",
-      "inicio": "2026-09-11T23:00:00",
-      "fin": "2026-09-11T23:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24cuadros.jpg"
-    },
-    {
-      "titulo": "Especialista responde",
-      "descripcion": "Repetición ║ Las respuestas a todas las consultas en temas relacionados a la salud y bienestar.",
-      "inicio": "2026-09-11T23:15:00",
-      "fin": "2026-09-11T23:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
-    },
-    {
-      "titulo": "Entrevistas 24",
-      "descripcion": "Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.",
-      "inicio": "2026-09-11T23:45:00",
-      "fin": "2026-09-12T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas24.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T00:00:00",
-      "fin": "2026-09-12T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "Entrevistas 24",
-      "descripcion": "Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.",
-      "inicio": "2026-09-12T00:30:00",
-      "fin": "2026-09-12T00:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas24.jpg"
-    },
-    {
-      "titulo": "DW analiza",
-      "descripcion": "Ponemos en contexto la actualidad internacional y analizamos el contexto de los hechos. Hablamos con especialistas para conocer todos los ángulos de la noticia y presentamos todo con un lenguaje diferente que acerca temas complejos también al público más joven.",
-      "inicio": "2026-09-12T00:45:00",
-      "fin": "2026-09-12T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dwanaliza.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T01:00:00",
-      "fin": "2026-09-12T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T01:30:00",
-      "fin": "2026-09-12T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T02:00:00",
-      "fin": "2026-09-12T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T02:30:00",
-      "fin": "2026-09-12T03:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T03:15:00",
-      "fin": "2026-09-12T03:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T03:45:00",
-      "fin": "2026-09-12T04:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T04:15:00",
-      "fin": "2026-09-12T04:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T04:45:00",
-      "fin": "2026-09-12T05:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T05:15:00",
-      "fin": "2026-09-12T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T06:00:00",
-      "fin": "2026-09-12T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T06:30:00",
-      "fin": "2026-09-12T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T07:00:00",
-      "fin": "2026-09-12T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "24 horas a la hora",
-      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-09-12T07:30:00",
-      "fin": "2026-09-12T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "Reporte agrícola",
-      "descripcion": "Repetición ║ Espacio conducido por el periodista Jose Ignacio Atenas, que busca explorar cómo los campos chilenos enfrentan los desafíos climáticos que cambian día a día. Análisis, entrevistas con expertos, infomración y noticias actualizada para todos.",
-      "inicio": "2026-09-12T08:00:00",
-      "fin": "2026-09-12T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reporteagricola.jpg"
-    },
-    {
-      "titulo": "Frontera global",
-      "descripcion": "Repetición ║ Programa que brinda información actualizada de los acontecimientos más importantes que suceden en Latinoamérica.",
-      "inicio": "2026-09-12T08:30:00",
-      "fin": "2026-09-12T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
-    },
     {
       "titulo": "24 horas a la hora",
       "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
       "inicio": "2026-09-12T09:00:00",
       "fin": "2026-09-12T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "Reporte minero",
+      "descripcion": "Repetición ║ Programa del canal 24H dedicado al mercado de la minería.",
+      "inicio": "2026-09-12T10:30:00",
+      "fin": "2026-09-12T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reporteminero.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-12T11:00:00",
+      "fin": "2026-09-12T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "Mirada económica",
+      "descripcion": "Repetición ║ La señal noticiosa 24H realiza estos reportajes de actualidad, que son emitidos en forma exclusiva al exterior.",
+      "inicio": "2026-09-12T12:30:00",
+      "fin": "2026-09-12T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
+    },
+    {
+      "titulo": "Especialista responde",
+      "descripcion": "Repetición ║ Las respuestas a todas las consultas en temas relacionados a la salud y bienestar.",
+      "inicio": "2026-09-12T13:00:00",
+      "fin": "2026-09-12T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
+    },
+    {
+      "titulo": "24 horas al día",
+      "descripcion": "Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial, donde te presentamos un resumen con informaciones referidas a la política, la economía, los deportes, entre otros ámbitos.",
+      "inicio": "2026-09-12T13:30:00",
+      "fin": "2026-09-12T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasaldia.jpg"
+    },
+    {
+      "titulo": "Entrevistas 24",
+      "descripcion": "Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.",
+      "inicio": "2026-09-12T14:30:00",
+      "fin": "2026-09-12T14:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas24.jpg"
+    },
+    {
+      "titulo": "Conciencia 24/7",
+      "descripcion": "Un nuevo espacio multiplataforma, creado para visibilizar historias de innovación, desarrollo y de futuro que están sucediendo a lo largo de Chile. Un espacio con una amplia oferta de productos de ciencia, tecnología, ciudad y transporte, innovación y emprendimiento y sustentabilidad con un enfoque positivo y en lenguaje simple.",
+      "inicio": "2026-09-12T14:45:00",
+      "fin": "2026-09-12T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conciencia247.jpg"
+    },
+    {
+      "titulo": "Mirada económica",
+      "descripcion": "Repetición ║ La señal noticiosa 24H realiza estos reportajes de actualidad, que son emitidos en forma exclusiva al exterior.",
+      "inicio": "2026-09-12T15:00:00",
+      "fin": "2026-09-12T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
+    },
+    {
+      "titulo": "Ventana al mundo",
+      "descripcion": "Un programa sobre evangelismo, ayuda comunitaria y reflexiones sobre las enseñanzas de Dios. El público podrá informarse sobre las necesidades de la comunidad y disfrutar de un espacio de introspección espiritual.",
+      "inicio": "2026-09-12T15:30:00",
+      "fin": "2026-09-12T15:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
+    },
+    {
+      "titulo": "24 cuadros",
+      "descripcion": "Programa sobre las noticias de los próximos estrenos del cine.",
+      "inicio": "2026-09-12T15:45:00",
+      "fin": "2026-09-12T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24cuadros.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-12T16:00:00",
+      "fin": "2026-09-12T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 Horas deportes",
+      "descripcion": "Lo más destacado del día en diferentes disciplinas. Sigue la actualidad deportiva nacional e internacional a través de TVN.",
+      "inicio": "2026-09-12T17:30:00",
+      "fin": "2026-09-12T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasdeportes.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-12T18:30:00",
+      "fin": "2026-09-12T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "Conciencia 24/7",
+      "descripcion": "Un nuevo espacio multiplataforma, creado para visibilizar historias de innovación, desarrollo y de futuro que están sucediendo a lo largo de Chile. Un espacio con una amplia oferta de productos de ciencia, tecnología, ciudad y transporte, innovación y emprendimiento y sustentabilidad con un enfoque positivo y en lenguaje simple.",
+      "inicio": "2026-09-12T19:00:00",
+      "fin": "2026-09-12T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conciencia247.jpg"
+    },
+    {
+      "titulo": "Entrevistas 24",
+      "descripcion": "Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.",
+      "inicio": "2026-09-12T19:15:00",
+      "fin": "2026-09-12T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas24.jpg"
+    },
+    {
+      "titulo": "Más motor",
+      "descripcion": "Conoce las novedades de la industria automotriz y actualízate con la información de los principales eventos motorsport.",
+      "inicio": "2026-09-12T19:30:00",
+      "fin": "2026-09-12T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/masmotor.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-12T20:00:00",
+      "fin": "2026-09-12T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "Especialista responde",
+      "descripcion": "Repetición ║ Las respuestas a todas las consultas en temas relacionados a la salud y bienestar.",
+      "inicio": "2026-09-12T20:30:00",
+      "fin": "2026-09-12T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
+    },
+    {
+      "titulo": "24 horas central",
+      "descripcion": "Revisa las noticias más relevantes de la jornada.",
+      "inicio": "2026-09-12T21:00:00",
+      "fin": "2026-09-12T22:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horascentral.jpg"
+    },
+    {
+      "titulo": "Economía",
+      "descripcion": "Una mirada europea al mundo de la economía y los negocios. Hechos, análisis y las historias reales desde la principales plazas financieras, los mercados clave y las empresas líderes.",
+      "inicio": "2026-09-12T22:45:00",
+      "fin": "2026-09-12T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
+    },
+    {
+      "titulo": "Escena 24",
+      "descripcion": "Espacio que promueve y difunde una serie de actividades culturales de Chile de gran diversidad, entre ellas, teatro, ópera, cine, recitales de distintos géneros musicales, para todos los públicos para que nadie se quede afuera del entretenimiento.",
+      "inicio": "2026-09-12T23:00:00",
+      "fin": "2026-09-12T23:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
+    },
+    {
+      "titulo": "Entrevistas 24",
+      "descripcion": "Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.",
+      "inicio": "2026-09-12T23:15:00",
+      "fin": "2026-09-12T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas24.jpg"
+    },
+    {
+      "titulo": "Conciencia 24/7",
+      "descripcion": "Un nuevo espacio multiplataforma, creado para visibilizar historias de innovación, desarrollo y de futuro que están sucediendo a lo largo de Chile. Un espacio con una amplia oferta de productos de ciencia, tecnología, ciudad y transporte, innovación y emprendimiento y sustentabilidad con un enfoque positivo y en lenguaje simple.",
+      "inicio": "2026-09-12T23:30:00",
+      "fin": "2026-09-12T23:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conciencia247.jpg"
+    },
+    {
+      "titulo": "Entrevistas 24",
+      "descripcion": "Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.",
+      "inicio": "2026-09-12T23:45:00",
+      "fin": "2026-09-13T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas24.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T00:00:00",
+      "fin": "2026-09-13T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 Horas deportes",
+      "descripcion": "Repetición ║ Lo más destacado del día en diferentes disciplinas. Sigue la actualidad deportiva nacional e internacional a través de TVN.",
+      "inicio": "2026-09-13T00:30:00",
+      "fin": "2026-09-13T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasdeportes.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T01:00:00",
+      "fin": "2026-09-13T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T01:30:00",
+      "fin": "2026-09-13T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T02:00:00",
+      "fin": "2026-09-13T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T02:30:00",
+      "fin": "2026-09-13T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T03:00:00",
+      "fin": "2026-09-13T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T03:30:00",
+      "fin": "2026-09-13T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T04:00:00",
+      "fin": "2026-09-13T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T04:30:00",
+      "fin": "2026-09-13T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T05:00:00",
+      "fin": "2026-09-13T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T05:30:00",
+      "fin": "2026-09-13T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T06:00:00",
+      "fin": "2026-09-13T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T06:30:00",
+      "fin": "2026-09-13T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T07:00:00",
+      "fin": "2026-09-13T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T07:30:00",
+      "fin": "2026-09-13T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "Reporte minero",
+      "descripcion": "Repetición ║ Programa del canal 24H dedicado al mercado de la minería.",
+      "inicio": "2026-09-13T08:00:00",
+      "fin": "2026-09-13T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reporteminero.jpg"
+    },
+    {
+      "titulo": "Especialista",
+      "descripcion": "Repetición ║ Es un doble de acción, y al igual que todos en la comunidad de especialistas, sale volando, le disparan, se estrella, se tira desde ventanas y cae desde las alturas más extremas, todo para nuestro entretenimiento. Y ahora, tras un accidente que casi acaba con su carrera, este héroe de clase trabajadora debe seguir la pista de una estrella de cine desaparecida, resolver una conspiración y tratar de recuperar el amor de su vida mientras sigue haciendo su trabajo. ¿Qué podría salir bien?",
+      "inicio": "2026-09-13T08:30:00",
+      "fin": "2026-09-13T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/especialista.jpg"
+    },
+    {
+      "titulo": "24 horas a la hora",
+      "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+      "inicio": "2026-09-13T09:00:00",
+      "fin": "2026-09-13T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
     }
   ]
