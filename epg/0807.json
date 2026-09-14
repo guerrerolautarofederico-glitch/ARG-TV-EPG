@@ -1,108 +1,178 @@
 {
   "actual": {
-    "titulo": "Batman",
-    "descripcion": "El caballero oscuro, conocido como Batman, defiende la corrupta e insegura Ciudad Gótica de su enemigo principal: un payaso homicida conocido como el Guasón.",
-    "inicio": "2026-09-13T09:36:00",
-    "fin": "2026-09-13T11:50:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/batman.jpg"
+    "titulo": "Nace una estrella",
+    "descripcion": "Norman Maine, un famoso actor, descubre a Esther y decide impulsar su carrera en el cine. Ella consigue la fama y contraen matrimonio. Pero a medida que el éxito de Esther aumenta, decae el de Norman.",
+    "inicio": "2026-09-14T07:44:00",
+    "fin": "2026-09-14T10:33:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "The Treasure of the Sierra Madre",
-    "descripcion": "Codicia, celos y sospecha plagan a tres hombres que se han dado a la búsqueda de oro en las montañas mexicanas.",
-    "inicio": "2026-09-13T11:50:00",
-    "fin": "2026-09-13T14:06:00",
+    "titulo": "Love Me or Leave Me",
+    "descripcion": "Un gánster de Chicago intimida a la cantante Ruth Etting en Broadway y Hollywood de los años 20.",
+    "inicio": "2026-09-14T10:33:00",
+    "fin": "2026-09-14T10:52:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Batman",
-      "descripcion": "El caballero oscuro, conocido como Batman, defiende la corrupta e insegura Ciudad Gótica de su enemigo principal: un payaso homicida conocido como el Guasón.",
-      "inicio": "2026-09-13T09:36:00",
-      "fin": "2026-09-13T11:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/batman.jpg"
-    },
-    {
-      "titulo": "The Treasure of the Sierra Madre",
-      "descripcion": "Codicia, celos y sospecha plagan a tres hombres que se han dado a la búsqueda de oro en las montañas mexicanas.",
-      "inicio": "2026-09-13T11:50:00",
-      "fin": "2026-09-13T14:06:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SPL3: Paradoja",
-      "descripcion": "Un oficial de Hong Kong recorre Tailandia para buscar a su hija desaparecida.",
-      "inicio": "2026-09-13T14:06:00",
-      "fin": "2026-09-13T15:37:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A Star Is Born",
-      "descripcion": "Jackson, una estrella de la música country con problemas de alcoholismo, descubre el talento de Ally, una joven cantante de la cual se enamora. Mientras la carrera de ella despega, Jackson percibe que sus días de gloria están llegando a su fin.",
-      "inicio": "2026-09-13T15:37:00",
-      "fin": "2026-09-13T18:48:00",
+      "titulo": "Nace una estrella",
+      "descripcion": "Norman Maine, un famoso actor, descubre a Esther y decide impulsar su carrera en el cine. Ella consigue la fama y contraen matrimonio. Pero a medida que el éxito de Esther aumenta, decae el de Norman.",
+      "inicio": "2026-09-14T07:44:00",
+      "fin": "2026-09-14T10:33:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Love Me or Leave Me",
       "descripcion": "Un gánster de Chicago intimida a la cantante Ruth Etting en Broadway y Hollywood de los años 20.",
-      "inicio": "2026-09-13T18:48:00",
-      "fin": "2026-09-13T21:00:00",
+      "inicio": "2026-09-14T10:33:00",
+      "fin": "2026-09-14T10:52:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Vicious Fun",
-      "descripcion": "Un crítico de cine de terror se mete en problemas cuando se topa con un grupo de autoayuda para asesinos en serie.",
-      "inicio": "2026-09-13T21:00:00",
-      "fin": "2026-09-13T22:46:00",
+      "titulo": "Ámame o Déjame",
+      "descripcion": "Un gánster de Chicago intimida a la cantante Ruth Etting en Broadway y Hollywood de los años 20.",
+      "inicio": "2026-09-14T10:52:00",
+      "fin": "2026-09-14T12:44:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Time Machine",
+      "descripcion": "Ganadora del Óscar por sus efectos especiales. El viajero del tiempo de H.G. Wells visita diversas civilizaciones.",
+      "inicio": "2026-09-14T12:44:00",
+      "fin": "2026-09-14T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La máquina del tiempo",
+      "descripcion": "Ganadora del Óscar por sus efectos especiales. El viajero del tiempo de H.G. Wells visita diversas civilizaciones.",
+      "inicio": "2026-09-14T13:00:00",
+      "fin": "2026-09-14T14:34:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamaquinadeltiempo.jpg"
+    },
+    {
+      "titulo": "They Died With Their Boots On",
+      "descripcion": "George Armstrong Custer pasa de ser un cadete de West Point a un general en Little Bighorn.",
+      "inicio": "2026-09-14T14:34:00",
+      "fin": "2026-09-14T14:49:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Detective Dee: Los cuatro reyes celestiales",
+      "descripcion": "Como recompensa a sus méritos y astucia, el Emperador confía al detective Dee un mazo que da autoridad sobre cualquier persona que amenace la seguridad nacional, incluida la realeza. La Emperatriz sabe que este objeto pone en peligro el equilibrio de poder en la corte, por lo que tratará de hacerse con él, activando una red de conspiraciones que serán solamente la punta del iceberg de la aventura más espectacular del icónico Dee.",
+      "inicio": "2026-09-14T14:49:00",
+      "fin": "2026-09-14T17:04:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/detectivedeeloscuatroreyescelestiales.jpg"
+    },
+    {
+      "titulo": "El gran golpe",
+      "descripcion": "Un grupo especializado de policía intenta desarticular una banda internacional dedicada a las estafas telefónicas. Para ello infiltran a una agente entre los delincuentes.",
+      "inicio": "2026-09-14T17:04:00",
+      "fin": "2026-09-14T17:06:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El gran golpe",
+      "descripcion": "Un grupo especializado de policía intenta desarticular una banda internacional dedicada a las estafas telefónicas. Para ello infiltran a una agente entre los delincuentes.",
+      "inicio": "2026-09-14T17:06:00",
+      "fin": "2026-09-14T19:06:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rojo",
+      "descripcion": "Un misterioso hombre llega a una ciudad y sin motivo aparente agrede a Claudio, un exitoso abogado. Tras un intento fallido, los ataques continúan, lo que despierta la ira de la esposa de Claudio.",
+      "inicio": "2026-09-14T19:06:00",
+      "fin": "2026-09-14T19:08:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rojo",
+      "descripcion": "Un misterioso hombre llega a una ciudad y sin motivo aparente agrede a Claudio, un exitoso abogado. Tras un intento fallido, los ataques continúan, lo que despierta la ira de la esposa de Claudio.",
+      "inicio": "2026-09-14T19:08:00",
+      "fin": "2026-09-14T21:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Tía Mame",
       "descripcion": "Patrick Dennis es un niño de 10 años que se acaba de quedar huérfano. Su tía Mame, una dama que vive por encima de sus posibilidades, le enseña a Patrick a salir indemne de forma extravagante de las trampas que la vida pone en sus caminos.",
-      "inicio": "2026-09-13T22:46:00",
-      "fin": "2026-09-14T01:20:00",
+      "inicio": "2026-09-14T21:00:00",
+      "fin": "2026-09-14T23:32:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "La dama de la mafia",
-      "descripcion": "Un fiscal corrupto planea vengarse de la organización criminal de Hyun-jung utilizando a su leal compañero, Sang-hoon.",
-      "inicio": "2026-09-14T01:20:00",
-      "fin": "2026-09-14T02:53:00",
+      "titulo": "La mente del poder",
+      "descripcion": "Una vez que Marcos recupera a Víctor como paciente, las demandas de Lauren parecen no tener fin. Ella le exige información extremadamente específica sobre la vida privada del presidente.",
+      "inicio": "2026-09-14T23:32:00",
+      "fin": "2026-09-15T00:20:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Human Capital",
+      "titulo": "La mente del poder",
+      "descripcion": "Marcos debe aislar a Víctor de todas las personas para lograr su renuncia.",
+      "inicio": "2026-09-15T00:20:00",
+      "fin": "2026-09-15T01:03:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Capital humano",
       "descripcion": "Las vidas de dos familias muy distintas quedan irremisiblemente unidas cuando sus hijos comienzan una relación que conduce a un trágico accidente.",
-      "inicio": "2026-09-14T02:53:00",
-      "fin": "2026-09-14T04:30:00",
+      "inicio": "2026-09-15T01:03:00",
+      "fin": "2026-09-15T02:39:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Por qué no te mueres?",
+      "descripcion": "Las cosas no salen según lo planeado cuando una joven le pide a su novio que mate a su padre, un enemigo sorprendentemente fuerte y resistente.",
+      "inicio": "2026-09-15T02:39:00",
+      "fin": "2026-09-15T04:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Hollywood One on One",
       "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
-      "inicio": "2026-09-14T04:30:00",
-      "fin": "2026-09-14T05:00:00",
+      "inicio": "2026-09-15T04:15:00",
+      "fin": "2026-09-15T04:28:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Hollywood One on One",
       "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
-      "inicio": "2026-09-14T05:00:00",
-      "fin": "2026-09-14T06:00:00",
+      "inicio": "2026-09-15T04:28:00",
+      "fin": "2026-09-15T04:39:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "SPL3: Paradoja",
-      "descripcion": "Un oficial de Hong Kong recorre Tailandia para buscar a su hija desaparecida.",
-      "inicio": "2026-09-14T06:00:00",
-      "fin": "2026-09-14T07:27:00",
+      "titulo": "Hollywood One on One",
+      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
+      "inicio": "2026-09-15T04:39:00",
+      "fin": "2026-09-15T04:48:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "A Star Is Born",
-      "descripcion": "Jackson, una estrella de la música country con problemas de alcoholismo, descubre el talento de Ally, una joven cantante de la cual se enamora. Mientras la carrera de ella despega, Jackson percibe que sus días de gloria están llegando a su fin.",
-      "inicio": "2026-09-14T07:27:00",
-      "fin": "2026-09-14T10:33:00",
+      "titulo": "Hollywood One on One",
+      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
+      "inicio": "2026-09-15T04:48:00",
+      "fin": "2026-09-15T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hollywood One on One",
+      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
+      "inicio": "2026-09-15T05:00:00",
+      "fin": "2026-09-15T06:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "They Died With Their Boots On",
+      "descripcion": "George Armstrong Custer pasa de ser un cadete de West Point a un general en Little Bighorn.",
+      "inicio": "2026-09-15T06:29:00",
+      "fin": "2026-09-15T08:58:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El gran golpe",
+      "descripcion": "Un grupo especializado de policía intenta desarticular una banda internacional dedicada a las estafas telefónicas. Para ello infiltran a una agente entre los delincuentes.",
+      "inicio": "2026-09-15T08:58:00",
+      "fin": "2026-09-15T11:01:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

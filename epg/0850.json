@@ -1,73 +1,234 @@
 {
   "actual": {
-    "titulo": "Teen Titans • Only Human",
-    "descripcion": "Only Human | Cuando Cyborg le gana a un robot llamado Atlas, en un juego en línea, el robot lo reta a una pelea real.",
-    "inicio": "2026-09-13T09:48:00",
-    "fin": "2026-09-13T10:48:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teentitans.jpg"
+    "titulo": "Bravest Warriors",
+    "descripcion": "En el año 3085, cuatro héroes adolescentes atraviesan el universo para salvar alienígenas y sus mundos.",
+    "inicio": "2026-09-14T09:53:00",
+    "fin": "2026-09-14T10:21:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Adult Swim",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-09-13T10:48:00",
-    "fin": "2026-09-13T11:00:00",
+    "titulo": "Naruto • Kurenai's Decision: Squad 8 Left Behind",
+    "descripcion": "Kurenai's Decision: Squad 8 Left Behind | Naruto encuentra una jovencita haciendo una rara pintura.",
+    "inicio": "2026-09-14T10:21:00",
+    "fin": "2026-09-14T10:49:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
+      "titulo": "Bravest Warriors",
+      "descripcion": "En el año 3085, cuatro héroes adolescentes atraviesan el universo para salvar alienígenas y sus mundos.",
+      "inicio": "2026-09-14T09:53:00",
+      "fin": "2026-09-14T10:21:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Naruto • Kurenai's Decision: Squad 8 Left Behind",
+      "descripcion": "Kurenai's Decision: Squad 8 Left Behind | Naruto encuentra una jovencita haciendo una rara pintura.",
+      "inicio": "2026-09-14T10:21:00",
+      "fin": "2026-09-14T10:49:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Naruto • Yakumo's Sealed Power",
+      "descripcion": "Yakumo's Sealed Power | Naruto tiene un sueño en el que Yakumo decide convertirse en ninja.",
+      "inicio": "2026-09-14T10:49:00",
+      "fin": "2026-09-14T11:16:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Naruto • Kurenai's Top-Secret Mission: The Promise With the Third Hokage",
+      "descripcion": "Kurenai's Top-Secret Mission: The Promise With the Third Hokage | Los agresores pertenecen al clan Kurama de Hidden Leaf Village.",
+      "inicio": "2026-09-14T11:16:00",
+      "fin": "2026-09-14T11:43:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Haikyu!! To the Top • Found",
+      "descripcion": "Found | Los gemelos Miya presionan con ataques rápidos, pero la sólida configuración de Kageyama y las jugadas inteligentes de Tsukishima mantienen a Karasuno en el juego.",
+      "inicio": "2026-09-14T11:43:00",
+      "fin": "2026-09-14T12:11:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dragon Ball Z • Frieza's Counterattack",
+      "descripcion": "Frieza's Counterattack | Krillin se obliga a seguir entrenando tras su ruptura con Maron. Gohan sufre bajo un tutor abusivo; Vegeta, incapaz de encontrar a Goku, regresa a la Tierra y un Freezer reconstruido y su padre, King Cold, se acercan a la Tierra deseosos de venganza.",
+      "inicio": "2026-09-14T12:11:00",
+      "fin": "2026-09-14T12:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dragonballz.jpg"
+    },
+    {
+      "titulo": "Dragon Ball Z • The Mysterious Youth",
+      "descripcion": "The Mysterious Youth | La nave espacial de Freezer llega a la Tierra y todos perciben la presencia del tirano espacial y de otro misterioso guerrero, cuya aura es aún mayor que la del malvado alienígena.",
+      "inicio": "2026-09-14T12:40:00",
+      "fin": "2026-09-14T13:09:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dragonballz.jpg"
+    },
+    {
+      "titulo": "Dragon Ball Z • Another Super Saiyan?",
+      "descripcion": "Another Super Saiyan? | Freezer tenía la intención de pulverizar a todos los humanos antes de la llegada de Goku, pero es detenido por un misterioso joven.",
+      "inicio": "2026-09-14T13:09:00",
+      "fin": "2026-09-14T13:37:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dragonballz.jpg"
+    },
+    {
+      "titulo": "Blue Lock • The Formula For Goals",
+      "descripcion": "The Formula For Goals | El equipo Z se enfrenta a un desafío crítico en la batalla final contra el equipo V. Con solo diez miembros restantes después de una traición, deben asegurar la victoria para avanzar.",
+      "inicio": "2026-09-14T13:37:00",
+      "fin": "2026-09-14T14:06:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Blue Lock",
+      "descripcion": "Nagi consigue marcar otro gol y Zantetsu aprovecha su velocidad. Mientras tanto, Bachira intenta motivar a su equipo tras darse cuenta de que su estrategia no está funcionando.",
+      "inicio": "2026-09-14T14:06:00",
+      "fin": "2026-09-14T14:34:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dragon Ball Daima • Leyenda",
+      "descripcion": "Leyenda | Tras reencontrarse con el grupo de Vegeta, Goku y sus amigos llegan a un planeta que les resulta familiar. Allí, se percatan de la presencia de una sombra: es el legendario Namek, quien se quedó solo en el Reino de los demonios.",
+      "inicio": "2026-09-14T14:34:00",
+      "fin": "2026-09-14T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Knights of the Zodiac • Burn Up, Shun! Mystery Hidden in the Dark Fangs",
+      "descripcion": "Burn Up, Shun! Mystery Hidden in the Dark Fangs | Syd espera a Shun en el Palacio de Valhalla. Marín le cuenta a Shina el secreto detrás de la fortaleza de Syd.",
+      "inicio": "2026-09-14T15:00:00",
+      "fin": "2026-09-14T15:27:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bravest Warriors",
+      "descripcion": "En el año 3085, cuatro héroes adolescentes atraviesan el universo para salvar alienígenas y sus mundos.",
+      "inicio": "2026-09-14T15:27:00",
+      "fin": "2026-09-14T15:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Young Justice: Invasion • Salvage",
+      "descripcion": "Salvage | Intergang une a los cuatro apalaxianos para crear un terrible golem y Superboy encabeza un ataque contra el grupo criminal.",
+      "inicio": "2026-09-14T15:55:00",
+      "fin": "2026-09-14T16:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Young Justice: Invasion • Beneath",
+      "descripcion": "Beneath | El Escarabajo Azul se apresura para salvar a su amigo abducido. Mientras tanto, Batichica, Chica Maravilla, la Srta. Marciana y Bumblebee descubren lo que trama Psimon.",
+      "inicio": "2026-09-14T16:20:00",
+      "fin": "2026-09-14T16:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Justice League • The Enemy Below, Part 2",
+      "descripcion": "The Enemy Below, Part 2 | El hermanastro malvado de Aquaman, Orm, desea tomar el control de Atlantis y desatar una guerra contra la superficie. Aquaman hace un sacrificio para salvar a su hijo. ⚽ [LaLiga] La Liga debe detener el plan de Orm.",
+      "inicio": "2026-09-14T16:45:00",
+      "fin": "2026-09-14T17:11:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
       "titulo": "Teen Titans • Only Human",
       "descripcion": "Only Human | Cuando Cyborg le gana a un robot llamado Atlas, en un juego en línea, el robot lo reta a una pelea real.",
-      "inicio": "2026-09-13T09:48:00",
-      "fin": "2026-09-13T10:48:00",
+      "inicio": "2026-09-14T17:11:00",
+      "fin": "2026-09-14T17:35:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teentitans.jpg"
     },
     {
-      "titulo": "Adult Swim",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T10:48:00",
-      "fin": "2026-09-13T11:00:00",
+      "titulo": "Teen Titans • Fear Itself",
+      "descripcion": "Fear Itself | Los Titanes alquilan una película de terror que los asusta más de lo que ellos podrían imaginar.",
+      "inicio": "2026-09-14T17:35:00",
+      "fin": "2026-09-14T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teentitans.jpg"
+    },
+    {
+      "titulo": "Teen Titans • Date With Destiny",
+      "descripcion": "Date With Destiny | La ciudad es atacada de repente por un enorme ejército de polillas gigantes y mutantes.",
+      "inicio": "2026-09-14T18:00:00",
+      "fin": "2026-09-14T18:24:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teentitans.jpg"
+    },
+    {
+      "titulo": "Haikyu!! To the Top • Broken Heart",
+      "descripcion": "Broken Heart | El saque de Yamaguchi pone a Karasuno a la cabeza en el primer set. Inarizaki dirige su atención a Tanaka, un jugador que ha estado teniendo dificultades.",
+      "inicio": "2026-09-14T18:24:00",
+      "fin": "2026-09-14T18:52:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dragon Ball Z • Frieza's Counterattack",
+      "descripcion": "Frieza's Counterattack | Krillin se obliga a seguir entrenando tras su ruptura con Maron. Gohan sufre bajo un tutor abusivo; Vegeta, incapaz de encontrar a Goku, regresa a la Tierra y un Freezer reconstruido y su padre, King Cold, se acercan a la Tierra deseosos de venganza.",
+      "inicio": "2026-09-14T18:52:00",
+      "fin": "2026-09-14T19:17:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dragonballz.jpg"
+    },
+    {
+      "titulo": "Dragon Ball Z • The Mysterious Youth",
+      "descripcion": "The Mysterious Youth | La nave espacial de Freezer llega a la Tierra y todos perciben la presencia del tirano espacial y de otro misterioso guerrero, cuya aura es aún mayor que la del malvado alienígena.",
+      "inicio": "2026-09-14T19:17:00",
+      "fin": "2026-09-14T19:41:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dragonballz.jpg"
+    },
+    {
+      "titulo": "Dragon Ball Z • Another Super Saiyan?",
+      "descripcion": "Another Super Saiyan? | Freezer tenía la intención de pulverizar a todos los humanos antes de la llegada de Goku, pero es detenido por un misterioso joven.",
+      "inicio": "2026-09-14T19:41:00",
+      "fin": "2026-09-14T20:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dragonballz.jpg"
+    },
+    {
+      "titulo": "Blue Lock • The Formula For Goals",
+      "descripcion": "The Formula For Goals | El equipo Z se enfrenta a un desafío crítico en la batalla final contra el equipo V. Con solo diez miembros restantes después de una traición, deben asegurar la victoria para avanzar.",
+      "inicio": "2026-09-14T20:10:00",
+      "fin": "2026-09-14T20:38:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Blue Lock",
+      "descripcion": "Nagi consigue marcar otro gol y Zantetsu aprovecha su velocidad. Mientras tanto, Bachira intenta motivar a su equipo tras darse cuenta de que su estrategia no está funcionando.",
+      "inicio": "2026-09-14T20:38:00",
+      "fin": "2026-09-14T21:06:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dragon Ball Daima • Leyenda",
+      "descripcion": "Leyenda | Tras reencontrarse con el grupo de Vegeta, Goku y sus amigos llegan a un planeta que les resulta familiar. Allí, se percatan de la presencia de una sombra: es el legendario Namek, quien se quedó solo en el Reino de los demonios.",
+      "inicio": "2026-09-14T21:06:00",
+      "fin": "2026-09-14T21:33:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "President Curtis • Knox",
+      "descripcion": "Knox | El comandante en jefe y su excéntrico equipo mientras afrontan crisis que a Rick Sánchez ni siquiera le interesarían.",
+      "inicio": "2026-09-14T21:33:00",
+      "fin": "2026-09-14T22:33:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Adult Swim",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T11:00:00",
-      "fin": "2026-09-13T15:00:00",
+      "inicio": "2026-09-14T22:33:00",
+      "fin": "2026-09-14T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Adult Swim",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T15:00:00",
-      "fin": "2026-09-13T19:00:00",
+      "inicio": "2026-09-14T23:00:00",
+      "fin": "2026-09-15T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Adult Swim",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T19:00:00",
-      "fin": "2026-09-13T23:00:00",
+      "inicio": "2026-09-15T03:00:00",
+      "fin": "2026-09-15T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Adult Swim",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T23:00:00",
-      "fin": "2026-09-14T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Adult Swim",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-14T03:00:00",
-      "fin": "2026-09-14T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Adult Swim",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-14T07:00:00",
-      "fin": "2026-09-14T11:00:00",
+      "inicio": "2026-09-15T07:00:00",
+      "fin": "2026-09-15T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

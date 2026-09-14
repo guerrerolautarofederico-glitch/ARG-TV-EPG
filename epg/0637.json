@@ -1,66 +1,143 @@
 {
   "actual": {
-    "titulo": "El comodín de la 1",
-    "descripcion": "Concurso de cultura general en el que se enfrentan los concursantes y que cuenta con varios comodines que le harán acumular dinero.",
-    "inicio": "2026-09-13T09:00:00",
-    "fin": "2026-09-13T10:00:00",
+    "titulo": "Un país para reírlo • Humor y música",
+    "descripcion": "Humor y música | El humor y la música hacen muy buena pareja, lo que Goyo va a comprobar en este programa dedicado a cantantes, grupos y canciones con mucha gracia.",
+    "inicio": "2026-09-14T10:00:00",
+    "fin": "2026-09-14T10:55:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Star TVE",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-09-13T10:00:00",
-    "fin": "2026-09-13T14:00:00",
+    "titulo": "Esto es España",
+    "descripcion": "Un recorrido por la geografía española desde una perspectiva joven y moderna, con el foco puesto en la sostenibilidad, la diversidad y la oferta natural, cultural y social de la España del siglo XXI.",
+    "inicio": "2026-09-14T10:55:00",
+    "fin": "2026-09-14T11:05:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "El comodín de la 1",
-      "descripcion": "Concurso de cultura general en el que se enfrentan los concursantes y que cuenta con varios comodines que le harán acumular dinero.",
-      "inicio": "2026-09-13T09:00:00",
-      "fin": "2026-09-13T10:00:00",
+      "titulo": "Un país para reírlo • Humor y música",
+      "descripcion": "Humor y música | El humor y la música hacen muy buena pareja, lo que Goyo va a comprobar en este programa dedicado a cantantes, grupos y canciones con mucha gracia.",
+      "inicio": "2026-09-14T10:00:00",
+      "fin": "2026-09-14T10:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Esto es España",
+      "descripcion": "Un recorrido por la geografía española desde una perspectiva joven y moderna, con el foco puesto en la sostenibilidad, la diversidad y la oferta natural, cultural y social de la España del siglo XXI.",
+      "inicio": "2026-09-14T10:55:00",
+      "fin": "2026-09-14T11:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Salón de té La Moderna",
+      "descripcion": "Madrid, 1930. Las empleadas de la tetería La Moderna, una de las más distinguidas de la capital española, navegan su vida entre la clientela adinerada y el inestable ambiente político y social del país. Una de estas trabajadoras es la joven Matilde.",
+      "inicio": "2026-09-14T11:05:00",
+      "fin": "2026-09-14T12:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La promesa",
+      "descripcion": "Una mujer es recompensada con un trabajo en el Palacio La Promesa tras salvar al hijo del Marqués de Luján. Ahora, esta se prepara para fraguar lentamente una venganza.",
+      "inicio": "2026-09-14T12:05:00",
+      "fin": "2026-09-14T12:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapromesa.jpg"
+    },
+    {
+      "titulo": "La promesa",
+      "descripcion": "Una mujer es recompensada con un trabajo en el Palacio La Promesa tras salvar al hijo del Marqués de Luján. Ahora, esta se prepara para fraguar lentamente una venganza.",
+      "inicio": "2026-09-14T12:55:00",
+      "fin": "2026-09-14T13:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapromesa.jpg"
+    },
+    {
+      "titulo": "Sabuesos",
+      "descripcion": "Un hombre que aprendió el oficio de detective privado por correspondencia regresa a su pueblo buscando aplicar sus conocimientos.",
+      "inicio": "2026-09-14T13:55:00",
+      "fin": "2026-09-14T15:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hope! Estamos a tiempo",
+      "descripcion": "El divulgador ambiental Javier Peña guía un viaje inspirador, emocionante y visualmente espectacular, para encontrar una forma de resolver la crisis climática a tiempo, de una forma justa y beneficiosa para la población.",
+      "inicio": "2026-09-14T15:05:00",
+      "fin": "2026-09-14T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hopeestamosatiempo.jpg"
+    },
+    {
+      "titulo": "Comerse el mundo",
+      "descripcion": "Un recorrido por diversos países para mostrar su diversidad gastronómica y descubrir la esencia de cada país.",
+      "inicio": "2026-09-14T16:00:00",
+      "fin": "2026-09-14T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comerseelmundo.jpg"
+    },
+    {
+      "titulo": "Esto es España",
+      "descripcion": "Un recorrido por la geografía española desde una perspectiva joven y moderna, con el foco puesto en la sostenibilidad, la diversidad y la oferta natural, cultural y social de la España del siglo XXI.",
+      "inicio": "2026-09-14T17:00:00",
+      "fin": "2026-09-14T17:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Seis hermanas",
+      "descripcion": "Madrid, año 1913. Las hermanas Silva -Adela, Diana, Celia, Blanca, Francisca y Elisa- son el alma de las principales fiestas de la alta sociedad de la capital. Guapas, educadas, amables y refinadas, las seis hermanas disfrutan de una existencia sin contratiempos hasta que un terrible acontecimiento cambia sus vidas para siempre. Juntas, tendrán que luchar por sacar adelante a su familia mientras desafían las convenciones sociales de una época donde las mujeres dependen de un hombre para salir adelante.",
+      "inicio": "2026-09-14T17:20:00",
+      "fin": "2026-09-14T18:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/seishermanas.jpg"
+    },
+    {
+      "titulo": "Salón de té La Moderna",
+      "descripcion": "Madrid, 1930. Las empleadas de la tetería La Moderna, una de las más distinguidas de la capital española, navegan su vida entre la clientela adinerada y el inestable ambiente político y social del país. Una de estas trabajadoras es la joven Matilde.",
+      "inicio": "2026-09-14T18:15:00",
+      "fin": "2026-09-14T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Acacias 38",
+      "descripcion": "Un grupo de criadas y las familias burguesas para las que trabajan, conviven en el edificio Acacias 38 donde el amor, el odio, los celos, la pasión y la alegría se entrelazan sin distinción.",
+      "inicio": "2026-09-14T19:15:00",
+      "fin": "2026-09-14T20:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La promesa",
+      "descripcion": "Una mujer es recompensada con un trabajo en el Palacio La Promesa tras salvar al hijo del Marqués de Luján. Ahora, esta se prepara para fraguar lentamente una venganza.",
+      "inicio": "2026-09-14T20:10:00",
+      "fin": "2026-09-14T21:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapromesa.jpg"
+    },
+    {
+      "titulo": "Fugitiva",
+      "descripcion": "Magda, una mujer que en un momento crucial de su vida ve cómo su mundo estalla en pedazos, se ve obligada a sacar a su familia de una situación límite.",
+      "inicio": "2026-09-14T21:05:00",
+      "fin": "2026-09-14T22:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fugitiva.jpg"
+    },
+    {
+      "titulo": "Star TVE",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-14T22:05:00",
+      "fin": "2026-09-14T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Star TVE",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T10:00:00",
-      "fin": "2026-09-13T14:00:00",
+      "inicio": "2026-09-14T23:00:00",
+      "fin": "2026-09-15T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Star TVE",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T14:00:00",
-      "fin": "2026-09-13T18:00:00",
+      "inicio": "2026-09-15T03:00:00",
+      "fin": "2026-09-15T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Star TVE",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T18:00:00",
-      "fin": "2026-09-13T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Star TVE",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T22:00:00",
-      "fin": "2026-09-14T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Star TVE",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-14T02:00:00",
-      "fin": "2026-09-14T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Star TVE",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-14T06:00:00",
-      "fin": "2026-09-14T10:00:00",
+      "inicio": "2026-09-15T07:00:00",
+      "fin": "2026-09-15T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

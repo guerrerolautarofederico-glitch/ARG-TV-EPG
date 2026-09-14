@@ -1,66 +1,101 @@
 {
   "actual": {
-    "titulo": "Golden",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-09-13T09:18:00",
-    "fin": "2026-09-13T10:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Paraíso",
+    "descripcion": "Carmen y Alfredo viven una feliz vida en pareja en Ciudad Satélite. Su relación es estable y se llevan bien con su familia y sus amigos; sin embargo, una gran oportunidad de trabajo les obliga a mudarse a México DF, lo que arruina su relación.",
+    "inicio": "2026-09-14T09:30:00",
+    "fin": "2026-09-14T11:23:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/paraiso.jpg"
   },
   "siguiente": {
-    "titulo": "Golden",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-09-13T10:00:00",
-    "fin": "2026-09-13T14:00:00",
+    "titulo": "Un hombre por semana",
+    "descripcion": "Una mujer divorciada reconstruye su vida y se abre al romance. Su búsqueda en apps de citas la lleva por momentos divertidos hasta descubrir el amor propio.",
+    "inicio": "2026-09-14T11:23:00",
+    "fin": "2026-09-14T12:55:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
+      "titulo": "Paraíso",
+      "descripcion": "Carmen y Alfredo viven una feliz vida en pareja en Ciudad Satélite. Su relación es estable y se llevan bien con su familia y sus amigos; sin embargo, una gran oportunidad de trabajo les obliga a mudarse a México DF, lo que arruina su relación.",
+      "inicio": "2026-09-14T09:30:00",
+      "fin": "2026-09-14T11:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/paraiso.jpg"
+    },
+    {
+      "titulo": "Un hombre por semana",
+      "descripcion": "Una mujer divorciada reconstruye su vida y se abre al romance. Su búsqueda en apps de citas la lleva por momentos divertidos hasta descubrir el amor propio.",
+      "inicio": "2026-09-14T11:23:00",
+      "fin": "2026-09-14T12:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A todas partes",
+      "descripcion": "Dos hermanos que no se han visto en 15 años reparan su relación mientras cumplen un sueño de la infancia: un viaje en moto por carretera a través de México.",
+      "inicio": "2026-09-14T12:55:00",
+      "fin": "2026-09-14T14:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/atodaspartes.jpg"
+    },
+    {
+      "titulo": "Salvando al soldado Pérez",
+      "descripcion": "La vida ha llevado a Julián Pérez por caminos equivocados, pero el destino le presentará a este hombre la oportunidad de encontrar su redención cuando es enviado a la misión más peligrosa y noble de toda su vida, una misión ordenada por la única autoridad que todavía respeta, su madre, Doña Elvira. Julián debe viajar hasta el otro extremo del mundo, a un lugar llamado Irak, a traer de vuelta vivo, a su hermano menor el soldado de infantería Juan Pérez. Con la promesa hecha, Julián Pérez regresa a su natal Sinaloa donde reclutará a un comando de elite, destinado a cumplir una misión suicida: viajar a Irak y salvar al soldado Pérez.",
+      "inicio": "2026-09-14T14:40:00",
+      "fin": "2026-09-14T16:31:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/salvandoalsoldadoperez.jpg"
+    },
+    {
+      "titulo": "Rudo y Cursi",
+      "descripcion": "Dos hermanos, Beto, que quiere ser futbolista, y Toto, que sueña con ser cantante de música norteña, desean llevar a cabo sus sueños para mejorar su situación económica. Sin embargo, la rivalidad fraternal es lo que realmente los pone a prueba.",
+      "inicio": "2026-09-14T16:31:00",
+      "fin": "2026-09-14T18:22:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Matando cabos",
+      "descripcion": "Oscar Cabos (Pedro Armendáriz Jr.) es un terrible magnate al que todos deben respeto, para mala fortuna de \"Jaque\" (Tony Dalton) y \"Mudo\" (Kristoff Raczynski), ellos lo tienen metido en un baño inconsciente. Esta problemática situación comenzó cuando Cabos descubrió a \"Jaque\" teniendo relaciones sexuales con su hija Paulina Cabos (Ana Claudia Talancon), lo cual le valió una golpiza y ahora una muy mala experiencia. Las vivencias de este par de amigos y su mala fortuna, son el tema de esta historia que nos demuestra que las coincidencias tienen consecuencias...",
+      "inicio": "2026-09-14T18:22:00",
+      "fin": "2026-09-14T20:09:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matandocabos.jpg"
+    },
+    {
+      "titulo": "El tigre de Santa Julia",
+      "descripcion": "México a principios del siglo veinte. Tras el asesinato de su mejor amigo a manos del teniente Calleja, José de Jesús Negrete deserta del ejército porfirista y se convierte en defensor de los pobres y oprimidos. Decepcionado ante la ambición de los hombres, José de Jesús forma una banda integrada por mujeres y, gracias a la difusión de sus acciones justicieras en un periódico, se convierte en el \"Tigre de Santa Julia\": una leyenda viva que roba a los ladrones para repartir el botín entre los pobres.",
+      "inicio": "2026-09-14T20:09:00",
+      "fin": "2026-09-14T21:09:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltigredesantajulia.jpg"
+    },
+    {
       "titulo": "Golden",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T09:18:00",
-      "fin": "2026-09-13T10:00:00",
+      "inicio": "2026-09-14T21:09:00",
+      "fin": "2026-09-14T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Golden",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T10:00:00",
-      "fin": "2026-09-13T14:00:00",
+      "inicio": "2026-09-14T22:00:00",
+      "fin": "2026-09-15T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Golden",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T14:00:00",
-      "fin": "2026-09-13T18:00:00",
+      "inicio": "2026-09-15T02:00:00",
+      "fin": "2026-09-15T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Golden",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T18:00:00",
-      "fin": "2026-09-13T22:00:00",
+      "inicio": "2026-09-15T06:00:00",
+      "fin": "2026-09-15T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Golden",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T22:00:00",
-      "fin": "2026-09-14T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Golden",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-14T02:00:00",
-      "fin": "2026-09-14T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Golden",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-14T06:00:00",
-      "fin": "2026-09-14T10:00:00",
+      "inicio": "2026-09-15T10:00:00",
+      "fin": "2026-09-15T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

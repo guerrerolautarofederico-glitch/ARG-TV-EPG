@@ -1,73 +1,164 @@
 {
   "actual": {
-    "titulo": "Daebak k-pop",
-    "descripcion": "Lo más destacado del k-pop actual.",
-    "inicio": "2026-09-13T09:30:00",
-    "fin": "2026-09-13T10:30:00",
+    "titulo": "Mood: Perreo",
+    "descripcion": "La mejor selección de videos para perrear hasta el piso y no parar de bailar.",
+    "inicio": "2026-09-14T10:15:00",
+    "fin": "2026-09-14T10:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "TeleHit",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-09-13T10:30:00",
-    "fin": "2026-09-13T11:00:00",
+    "titulo": "Rainbowlist",
+    "descripcion": "Lo mejor de los himnos, canciones emblemáticas y los más coloridos de videos de la comunidad LGBT+.",
+    "inicio": "2026-09-14T10:45:00",
+    "fin": "2026-09-14T11:40:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
+      "titulo": "Mood: Perreo",
+      "descripcion": "La mejor selección de videos para perrear hasta el piso y no parar de bailar.",
+      "inicio": "2026-09-14T10:15:00",
+      "fin": "2026-09-14T10:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rainbowlist",
+      "descripcion": "Lo mejor de los himnos, canciones emblemáticas y los más coloridos de videos de la comunidad LGBT+.",
+      "inicio": "2026-09-14T10:45:00",
+      "fin": "2026-09-14T11:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dale play",
+      "descripcion": "La mejor playlist para escuchar un poco de todo de las canciones de los artistas favoritos.",
+      "inicio": "2026-09-14T11:40:00",
+      "fin": "2026-09-14T12:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/daleplay.jpg"
+    },
+    {
+      "titulo": "Rocool-a",
+      "descripcion": "Una programación musical para poner de todo. Éxitos de ayer, hoy o mañana.",
+      "inicio": "2026-09-14T12:35:00",
+      "fin": "2026-09-14T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Playhit",
+      "descripcion": "Playlists con los mejores éxitos del momento.",
+      "inicio": "2026-09-14T13:30:00",
+      "fin": "2026-09-14T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Que News Telehit",
+      "descripcion": "Como el mundo de la música no se detiene, un programa con toda la información llevada al límite de la diversión.",
+      "inicio": "2026-09-14T14:00:00",
+      "fin": "2026-09-14T14:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Double Play",
+      "descripcion": "Programa de videos continuos 2x1, un artista, 2 videos de su videografía musical, el programa que te da el doble.",
+      "inicio": "2026-09-14T14:25:00",
+      "fin": "2026-09-14T15:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rocool-a",
+      "descripcion": "Una programación musical para poner de todo. Éxitos de ayer, hoy o mañana.",
+      "inicio": "2026-09-14T15:20:00",
+      "fin": "2026-09-14T16:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mood: Perreo",
+      "descripcion": "La mejor selección de videos para perrear hasta el piso y no parar de bailar.",
+      "inicio": "2026-09-14T16:15:00",
+      "fin": "2026-09-14T16:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rainbowlist",
+      "descripcion": "Lo mejor de los himnos, canciones emblemáticas y los más coloridos de videos de la comunidad LGBT+.",
+      "inicio": "2026-09-14T16:45:00",
+      "fin": "2026-09-14T17:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dale play",
+      "descripcion": "La mejor playlist para escuchar un poco de todo de las canciones de los artistas favoritos.",
+      "inicio": "2026-09-14T17:40:00",
+      "fin": "2026-09-14T18:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/daleplay.jpg"
+    },
+    {
+      "titulo": "Rocool-a",
+      "descripcion": "Una programación musical para poner de todo. Éxitos de ayer, hoy o mañana.",
+      "inicio": "2026-09-14T18:35:00",
+      "fin": "2026-09-14T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Playhit",
+      "descripcion": "Playlists con los mejores éxitos del momento.",
+      "inicio": "2026-09-14T19:30:00",
+      "fin": "2026-09-14T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Que News Telehit",
+      "descripcion": "Estreno ║ Como el mundo de la música no se detiene, un programa con toda la información llevada al límite de la diversión.",
+      "inicio": "2026-09-14T20:00:00",
+      "fin": "2026-09-14T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mood: Perreo",
+      "descripcion": "La mejor selección de videos para perrear hasta el piso y no parar de bailar.",
+      "inicio": "2026-09-14T20:30:00",
+      "fin": "2026-09-14T20:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
       "titulo": "Daebak k-pop",
       "descripcion": "Lo más destacado del k-pop actual.",
-      "inicio": "2026-09-13T09:30:00",
-      "fin": "2026-09-13T10:30:00",
+      "inicio": "2026-09-14T20:55:00",
+      "fin": "2026-09-14T21:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Double Play",
+      "descripcion": "Programa de videos continuos 2x1, un artista, 2 videos de su videografía musical, el programa que te da el doble.",
+      "inicio": "2026-09-14T21:50:00",
+      "fin": "2026-09-14T22:50:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TeleHit",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T10:30:00",
-      "fin": "2026-09-13T11:00:00",
+      "inicio": "2026-09-14T22:50:00",
+      "fin": "2026-09-14T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TeleHit",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T11:00:00",
-      "fin": "2026-09-13T15:00:00",
+      "inicio": "2026-09-14T23:00:00",
+      "fin": "2026-09-15T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TeleHit",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T15:00:00",
-      "fin": "2026-09-13T19:00:00",
+      "inicio": "2026-09-15T03:00:00",
+      "fin": "2026-09-15T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TeleHit",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T19:00:00",
-      "fin": "2026-09-13T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TeleHit",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-13T23:00:00",
-      "fin": "2026-09-14T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TeleHit",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-14T03:00:00",
-      "fin": "2026-09-14T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TeleHit",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-14T07:00:00",
-      "fin": "2026-09-14T11:00:00",
+      "inicio": "2026-09-15T07:00:00",
+      "fin": "2026-09-15T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
