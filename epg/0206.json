@@ -1,73 +1,136 @@
 {
   "actual": {
-    "titulo": "Ellas Hoy",
-    "descripcion": "El programa de quienes impulsan el cambio en un mundo todavía muy dominado por los hombres. Una cita con iniciativas de hombres y mujeres que luchan por formar sociedades en las que haya mayor igualdad de género.",
-    "inicio": "2026-09-15T09:45:00",
-    "fin": "2026-09-15T10:45:00",
+    "titulo": "News",
+    "descripcion": "Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.",
+    "inicio": "2026-09-16T09:30:00",
+    "fin": "2026-09-16T09:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "France 24 Español",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-09-15T10:45:00",
-    "fin": "2026-09-15T11:00:00",
+    "titulo": "África 7 Dias",
+    "descripcion": "Un recuento en 30 minutos de los acontecimientos que marcaron historia en África durante la semana.",
+    "inicio": "2026-09-16T09:45:00",
+    "fin": "2026-09-16T09:59:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Ellas Hoy",
-      "descripcion": "El programa de quienes impulsan el cambio en un mundo todavía muy dominado por los hombres. Una cita con iniciativas de hombres y mujeres que luchan por formar sociedades en las que haya mayor igualdad de género.",
-      "inicio": "2026-09-15T09:45:00",
-      "fin": "2026-09-15T10:45:00",
+      "titulo": "News",
+      "descripcion": "Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.",
+      "inicio": "2026-09-16T09:30:00",
+      "fin": "2026-09-16T09:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "África 7 Dias",
+      "descripcion": "Un recuento en 30 minutos de los acontecimientos que marcaron historia en África durante la semana.",
+      "inicio": "2026-09-16T09:45:00",
+      "fin": "2026-09-16T09:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-09-16T09:59:00",
+      "fin": "2026-09-16T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.",
+      "inicio": "2026-09-16T10:00:00",
+      "fin": "2026-09-16T10:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los observadores",
+      "descripcion": "Fotografías, videos y testimonios de personas que no se dedican profesionalmente al periodismo, pero que se encuentran al pie de la noticia. Información que llega desde todos los confines del mundo.",
+      "inicio": "2026-09-16T10:15:00",
+      "fin": "2026-09-16T10:24:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco",
+      "descripcion": "Un reportaje breve que aborda temas que frecuentemente son obviados en las noticias.",
+      "inicio": "2026-09-16T10:24:00",
+      "fin": "2026-09-16T10:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Información meteorológica de todo el mundo.",
+      "inicio": "2026-09-16T10:29:00",
+      "fin": "2026-09-16T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Every hour, 24 hours a day, a 10-minute news program is presented live from the newsroom.",
+      "inicio": "2026-09-16T10:30:00",
+      "fin": "2026-09-16T10:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En 5 minutos",
+      "descripcion": "Entrevistas a expertos y protagonistas de noticias. Se brinda información sobre el acontecer nacional e internacional.",
+      "inicio": "2026-09-16T10:45:00",
+      "fin": "2026-09-16T10:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En foco internacional",
+      "descripcion": "Programa de contingencia y análisis internacional.",
+      "inicio": "2026-09-16T10:50:00",
+      "fin": "2026-09-16T11:50:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-15T10:45:00",
-      "fin": "2026-09-15T11:00:00",
+      "inicio": "2026-09-16T11:50:00",
+      "fin": "2026-09-16T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-15T11:00:00",
-      "fin": "2026-09-15T15:00:00",
+      "inicio": "2026-09-16T12:00:00",
+      "fin": "2026-09-16T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-15T15:00:00",
-      "fin": "2026-09-15T19:00:00",
+      "inicio": "2026-09-16T16:00:00",
+      "fin": "2026-09-16T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-15T19:00:00",
-      "fin": "2026-09-15T23:00:00",
+      "inicio": "2026-09-16T20:00:00",
+      "fin": "2026-09-17T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-15T23:00:00",
-      "fin": "2026-09-16T03:00:00",
+      "inicio": "2026-09-17T00:00:00",
+      "fin": "2026-09-17T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-16T03:00:00",
-      "fin": "2026-09-16T07:00:00",
+      "inicio": "2026-09-17T04:00:00",
+      "fin": "2026-09-17T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-16T07:00:00",
-      "fin": "2026-09-16T11:00:00",
+      "inicio": "2026-09-17T08:00:00",
+      "fin": "2026-09-17T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
