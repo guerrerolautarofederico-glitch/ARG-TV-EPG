@@ -1,130 +1,102 @@
 {
   "actual": {
-    "titulo": "Mucho gusto",
-    "descripcion": "Entretención, actualidad, conversación y muchas risas para acompañar tus mañanas con el panel más entretenido de la TV.",
-    "inicio": "2026-09-17T08:00:00",
-    "fin": "2026-09-17T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/muchogusto.jpg"
+    "titulo": "Meganoticias siempre juntos",
+    "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
+    "inicio": "2026-09-18T08:00:00",
+    "fin": "2026-09-18T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiassiemprejuntos.jpg"
   },
   "siguiente": {
-    "titulo": "Meganoticias alerta",
+    "titulo": "Meganoticias actualiza",
     "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-    "inicio": "2026-09-17T13:00:00",
-    "fin": "2026-09-17T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasalerta.jpg"
+    "inicio": "2026-09-18T13:00:00",
+    "fin": "2026-09-18T14:25:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasactualiza.jpg"
   },
   "lista": [
-    {
-      "titulo": "Mucho gusto",
-      "descripcion": "Entretención, actualidad, conversación y muchas risas para acompañar tus mañanas con el panel más entretenido de la TV.",
-      "inicio": "2026-09-17T08:00:00",
-      "fin": "2026-09-17T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/muchogusto.jpg"
-    },
-    {
-      "titulo": "Meganoticias alerta",
-      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-      "inicio": "2026-09-17T13:00:00",
-      "fin": "2026-09-17T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasalerta.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-09-17T15:00:00",
-      "fin": "2026-09-17T15:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
-    },
-    {
-      "titulo": "La hora de jugar",
-      "descripcion": "Mucho gusto, en una alianza con Lotería, preparan un programa donde la consigna es pasarlo bien y ganar suculentos premios.",
-      "inicio": "2026-09-17T15:05:00",
-      "fin": "2026-09-17T15:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahoradejugar.jpg"
-    },
-    {
-      "titulo": "Carmen Gloria: Fuerte & claro",
-      "descripcion": "Talk show diario liderado por Carmen Gloria Arroyo, que aborda la actualidad social con historias reales, orientación y soluciones concretas para las personas.",
-      "inicio": "2026-09-17T15:45:00",
-      "fin": "2026-09-17T16:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/carmengloriafuerteclaro.jpg"
-    },
-    {
-      "titulo": "La Baronesa",
-      "descripcion": "Aurora Valdés visita los casinos clandestinos con una racha ganadora imparable, hasta que el joven Javier Toledo le muestre el alto precio de la derrota.",
-      "inicio": "2026-09-17T16:45:00",
-      "fin": "2026-09-17T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/labaronesa.jpg"
-    },
-    {
-      "titulo": "La Baronesa",
-      "descripcion": "Aurora Valdés visita los casinos clandestinos con una racha ganadora imparable, hasta que el joven Javier Toledo le muestre el alto precio de la derrota.",
-      "inicio": "2026-09-17T17:30:00",
-      "fin": "2026-09-17T18:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/labaronesa.jpg"
-    },
-    {
-      "titulo": "Dale play",
-      "descripcion": "Dos equipos ponen a prueba su conocimiento musical para acumular dinero y llegar al juego final: una vertiginosa carrera contra el tiempo por un premio millonario. Un programa lleno de canciones, humor y desafíos para jugar y cantar en familia.",
-      "inicio": "2026-09-17T18:15:00",
-      "fin": "2026-09-17T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/daleplay.jpg"
-    },
-    {
-      "titulo": "Meganoticias prime",
-      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-      "inicio": "2026-09-17T20:00:00",
-      "fin": "2026-09-17T22:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasprime.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-09-17T22:05:00",
-      "fin": "2026-09-17T22:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
-    },
-    {
-      "titulo": "Detrás Del Muro Lo Mejor",
-      "descripcion": "Programa de humor conducido por Kike Morandé.",
-      "inicio": "2026-09-17T22:10:00",
-      "fin": "2026-09-18T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/detrasdelmurolomejor.jpg"
-    },
-    {
-      "titulo": "Reunión de superados",
-      "descripcion": "Un grupo de WhatsApp de apoderados del establecimiento Thomas Campbell School, liderado por el profesor jefe Rubén, invita a los padres a estar comunicados, en donde se vivirán intensos momentos.",
-      "inicio": "2026-09-18T00:30:00",
-      "fin": "2026-09-18T02:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reuniondesuperados.jpg"
-    },
-    {
-      "titulo": "Dale play",
-      "descripcion": "Dos equipos ponen a prueba su conocimiento musical para acumular dinero y llegar al juego final: una vertiginosa carrera contra el tiempo por un premio millonario. Un programa lleno de canciones, humor y desafíos para jugar y cantar en familia.",
-      "inicio": "2026-09-18T02:45:00",
-      "fin": "2026-09-18T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/daleplay.jpg"
-    },
-    {
-      "titulo": "Meganoticias ahora",
-      "descripcion": "Noticiero vespertino que aborda la contingencia nacional e internacional con énfasis en breaking news. Incluye política, salud, educación, deportes e internacionales con panelistas especializados.",
-      "inicio": "2026-09-18T04:30:00",
-      "fin": "2026-09-18T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahora.jpg"
-    },
-    {
-      "titulo": "Meganoticias amanece",
-      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-      "inicio": "2026-09-18T07:00:00",
-      "fin": "2026-09-18T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasamanece.jpg"
-    },
     {
       "titulo": "Meganoticias siempre juntos",
       "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
       "inicio": "2026-09-18T08:00:00",
       "fin": "2026-09-18T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiassiemprejuntos.jpg"
+    },
+    {
+      "titulo": "Meganoticias actualiza",
+      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+      "inicio": "2026-09-18T13:00:00",
+      "fin": "2026-09-18T14:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasactualiza.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Toda la informacion meteorológica del país.",
+      "inicio": "2026-09-18T14:25:00",
+      "fin": "2026-09-18T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
+    },
+    {
+      "titulo": "Fiestas Patrias Bafona",
+      "descripcion": "El Ballet Folclórico Nacional es un elenco estable del Ministerio de las Culturas, las Artes y el Patrimonio de Chile que difunde la música y la danza tradicional del país.",
+      "inicio": "2026-09-18T14:30:00",
+      "fin": "2026-09-18T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_fallback.jpg"
+    },
+    {
+      "titulo": "Parque Jurásico",
+      "descripcion": "Un rico empresario ha llevado a cabo uno de sus sueños: convertir una remota isla del Pacífico en un paraíso natural donde se dan cita todo tipo de animales prehistóricos. Esta isla, llamada Parque Jurásico, ha conseguido gestar especies exti...",
+      "inicio": "2026-09-18T15:30:00",
+      "fin": "2026-09-18T17:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_fallback.jpg"
+    },
+    {
+      "titulo": "Rápidos y furiosos 9",
+      "descripcion": "No importa lo rápido que seas, nadie supera su pasado. RyF9 es el noveno capítulo de la Saga Rápidos & Furiosos, que comenzó hace casi 20 años y que ha recaudado más de cinco mil millones de dólares en todo el mundo. Dom Toretto, Vin Diesel...",
+      "inicio": "2026-09-18T17:50:00",
+      "fin": "2026-09-18T20:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_fallback.jpg"
+    },
+    {
+      "titulo": "Meganoticias prime",
+      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+      "inicio": "2026-09-18T20:15:00",
+      "fin": "2026-09-18T21:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasprime.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Toda la informacion meteorológica del país.",
+      "inicio": "2026-09-18T21:55:00",
+      "fin": "2026-09-18T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
+    },
+    {
+      "titulo": "La pampilla de la gente",
+      "descripcion": "La Pampilla de la Gente 2026 en Coquimbo se realizará este 18, 19 y 20 de septiembre como un evento con enfoque solidario para apoyar a los damnificados por los recientes temporales, y será transmitido por primera vez en la historia por televisi...",
+      "inicio": "2026-09-18T22:00:00",
+      "fin": "2026-09-18T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_fallback.jpg"
+    },
+    {
+      "titulo": "Mega",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-18T23:00:00",
+      "fin": "2026-09-19T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_fallback.jpg"
+    },
+    {
+      "titulo": "Mega",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-19T03:00:00",
+      "fin": "2026-09-19T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_fallback.jpg"
+    },
+    {
+      "titulo": "Mega",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-19T07:00:00",
+      "fin": "2026-09-19T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_fallback.jpg"
     }
   ]
 }
