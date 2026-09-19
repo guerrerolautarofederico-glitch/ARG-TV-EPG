@@ -1,143 +1,150 @@
 {
   "actual": {
-    "titulo": "Cultura",
-    "descripcion": "Prop Culture es una serie de antología que tiene una visión única de películas queridas a través de los accesorios y disfraces (ahora 'artefactos' modernos) que los hicieron únicos, desde los artesanos que los crearon, los actores que interactuaron con ellos y los coleccionistas / archivos quienes los poseen y los aprecian. El espectáculo será presentado por el historiador / coleccionista de cine Dan Lanigan. Entre las películas presentadas en los primeros ocho episodios se encuentran \"Pirates of the Caribbean: The Curse of the Black Pearl\", \"Mary Poppins\", \"The Muppet Movie,, \"Tron\" y \"Who Framed Roger Rabbit?\".",
-    "inicio": "2026-09-18T09:15:00",
-    "fin": "2026-09-18T09:29:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cultura.jpg"
+    "titulo": "Noticias",
+    "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+    "inicio": "2026-09-19T09:00:00",
+    "fin": "2026-09-19T09:15:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
   },
   "siguiente": {
-    "titulo": "El tiempo",
-    "descripcion": "Se presenta la información del pronóstico meteorológico de todas las provincias y regiones de España.",
-    "inicio": "2026-09-18T09:29:00",
-    "fin": "2026-09-18T09:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    "titulo": "Corresponsales",
+    "descripcion": "El acontecer noticioso más relevante de la jornada.",
+    "inicio": "2026-09-19T09:15:00",
+    "fin": "2026-09-19T09:29:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Cultura",
-      "descripcion": "Prop Culture es una serie de antología que tiene una visión única de películas queridas a través de los accesorios y disfraces (ahora 'artefactos' modernos) que los hicieron únicos, desde los artesanos que los crearon, los actores que interactuaron con ellos y los coleccionistas / archivos quienes los poseen y los aprecian. El espectáculo será presentado por el historiador / coleccionista de cine Dan Lanigan. Entre las películas presentadas en los primeros ocho episodios se encuentran \"Pirates of the Caribbean: The Curse of the Black Pearl\", \"Mary Poppins\", \"The Muppet Movie,, \"Tron\" y \"Who Framed Roger Rabbit?\".",
-      "inicio": "2026-09-18T09:15:00",
-      "fin": "2026-09-18T09:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cultura.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Se presenta la información del pronóstico meteorológico de todas las provincias y regiones de España.",
-      "inicio": "2026-09-18T09:29:00",
-      "fin": "2026-09-18T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
       "titulo": "Noticias",
       "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-09-18T09:30:00",
-      "fin": "2026-09-18T09:45:00",
+      "inicio": "2026-09-19T09:00:00",
+      "fin": "2026-09-19T09:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
     },
     {
-      "titulo": "Europa Hoy",
-      "descripcion": "Documentales y reportajes sobre economía y ciencia, cultura y formación, historia y actualidad, tiempo libre y deportes.",
-      "inicio": "2026-09-18T09:45:00",
-      "fin": "2026-09-18T09:59:00",
+      "titulo": "Corresponsales",
+      "descripcion": "El acontecer noticioso más relevante de la jornada.",
+      "inicio": "2026-09-19T09:15:00",
+      "fin": "2026-09-19T09:29:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "El tiempo",
       "descripcion": "Se presenta la información del pronóstico meteorológico de todas las provincias y regiones de España.",
-      "inicio": "2026-09-18T09:59:00",
-      "fin": "2026-09-18T10:00:00",
+      "inicio": "2026-09-19T09:29:00",
+      "fin": "2026-09-19T09:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
     },
     {
       "titulo": "Noticias",
       "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-09-18T10:00:00",
-      "fin": "2026-09-18T10:15:00",
+      "inicio": "2026-09-19T09:30:00",
+      "fin": "2026-09-19T09:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
     },
     {
-      "titulo": "África 7 Dias",
-      "descripcion": "Un recuento en 30 minutos de los acontecimientos que marcaron historia en África durante la semana.",
-      "inicio": "2026-09-18T10:15:00",
-      "fin": "2026-09-18T10:29:00",
+      "titulo": "Carrusel de las artes",
+      "descripcion": "Un espacio para conocer a artistas de diferentes disciplinas y explorar lo más destacado de la escena cultural de Francia. Cineastas, actores, escritores, pintores y vibrantes exposiciones y muestras.",
+      "inicio": "2026-09-19T09:45:00",
+      "fin": "2026-09-19T09:59:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "El tiempo",
       "descripcion": "Se presenta la información del pronóstico meteorológico de todas las provincias y regiones de España.",
-      "inicio": "2026-09-18T10:29:00",
-      "fin": "2026-09-18T10:30:00",
+      "inicio": "2026-09-19T09:59:00",
+      "fin": "2026-09-19T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
     },
     {
       "titulo": "Noticias",
       "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
-      "inicio": "2026-09-18T10:30:00",
-      "fin": "2026-09-18T10:45:00",
+      "inicio": "2026-09-19T10:00:00",
+      "fin": "2026-09-19T10:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
     },
     {
-      "titulo": "Moda",
-      "descripcion": "Los desfiles de moda más espectaculares que la alta costura parisina ofrece.",
-      "inicio": "2026-09-18T10:45:00",
-      "fin": "2026-09-18T10:51:00",
+      "titulo": "Salud",
+      "descripcion": "Un acercamiento al mundo tras la pandemia, a partir de la ciencia y la sociedad.",
+      "inicio": "2026-09-19T10:15:00",
+      "fin": "2026-09-19T10:21:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Esto es Francia",
-      "descripcion": "Lugares de prestigio, tradiciones, artes, gastronomía y especialidades locales. El programa destaca el característico \"saber hacer\" francés a través de maestros, expertos y artesanos de todas sus regiones.",
-      "inicio": "2026-09-18T10:51:00",
-      "fin": "2026-09-18T11:51:00",
+      "titulo": "Medio Ambiente",
+      "descripcion": "Calentamiento global, especies en extinción, destrucción de bosques, contaminación: la Tierra es un planeta con muchas amenazas, pero también lleno de ideas innovadoras y soluciones sostenibles.",
+      "inicio": "2026-09-19T10:21:00",
+      "fin": "2026-09-19T10:29:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "France 24 Español",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-18T11:51:00",
-      "fin": "2026-09-18T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "El tiempo",
+      "descripcion": "Se presenta la información del pronóstico meteorológico de todas las provincias y regiones de España.",
+      "inicio": "2026-09-19T10:29:00",
+      "fin": "2026-09-19T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
     },
     {
-      "titulo": "France 24 Español",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-18T12:00:00",
-      "fin": "2026-09-18T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Noticias",
+      "descripcion": "La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.",
+      "inicio": "2026-09-19T10:30:00",
+      "fin": "2026-09-19T10:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
     },
     {
-      "titulo": "France 24 Español",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-18T16:00:00",
-      "fin": "2026-09-18T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "France 24 Español",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-18T20:00:00",
-      "fin": "2026-09-19T00:00:00",
+      "titulo": "Aquí América",
+      "descripcion": "Programa donde se ofrece una mirada diferente de la información del continente americano.",
+      "inicio": "2026-09-19T10:45:00",
+      "fin": "2026-09-19T11:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "France 24 Español",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-19T00:00:00",
-      "fin": "2026-09-19T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "France 24 Español",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-19T04:00:00",
-      "fin": "2026-09-19T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "France 24 Español",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-19T08:00:00",
+      "inicio": "2026-09-19T11:45:00",
       "fin": "2026-09-19T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "France 24 Español",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-19T12:00:00",
+      "fin": "2026-09-19T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "France 24 Español",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-19T16:00:00",
+      "fin": "2026-09-19T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "France 24 Español",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-19T20:00:00",
+      "fin": "2026-09-20T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "France 24 Español",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-20T00:00:00",
+      "fin": "2026-09-20T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "France 24 Español",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-20T04:00:00",
+      "fin": "2026-09-20T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "France 24 Español",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-20T08:00:00",
+      "fin": "2026-09-20T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

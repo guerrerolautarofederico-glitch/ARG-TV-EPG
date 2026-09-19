@@ -1,122 +1,87 @@
 {
   "actual": {
-    "titulo": "Matinal siempre juntos",
-    "descripcion": "Un espacio donde cada segmento informativo y entretención busca fortalecer la identidad regional.",
-    "inicio": "2026-09-18T09:00:00",
-    "fin": "2026-09-18T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matinalsiemprejuntos.jpg"
-  },
-  "siguiente": {
     "titulo": "CNTV infantil",
     "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-    "inicio": "2026-09-18T11:00:00",
-    "fin": "2026-09-18T12:00:00",
+    "inicio": "2026-09-19T08:00:00",
+    "fin": "2026-09-19T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
   },
+  "siguiente": {
+    "titulo": "Desde la UdeC",
+    "descripcion": "La información de este programa no se encuentra disponible.",
+    "inicio": "2026-09-19T10:00:00",
+    "fin": "2026-09-19T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+  },
   "lista": [
-    {
-      "titulo": "Matinal siempre juntos",
-      "descripcion": "Un espacio donde cada segmento informativo y entretención busca fortalecer la identidad regional.",
-      "inicio": "2026-09-18T09:00:00",
-      "fin": "2026-09-18T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matinalsiemprejuntos.jpg"
-    },
-    {
-      "titulo": "CNTV infantil",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-      "inicio": "2026-09-18T11:00:00",
-      "fin": "2026-09-18T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "La Cancha es Nuestra",
-      "descripcion": "Un programa con toda la actualidad deportiva.",
-      "inicio": "2026-09-18T12:00:00",
-      "fin": "2026-09-18T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacanchaesnuestra.jpg"
-    },
-    {
-      "titulo": "Reportajes - Deutsche Welle Televisión",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-18T13:00:00",
-      "fin": "2026-09-18T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reportajesdeutschewelletelevision.jpg"
-    },
-    {
-      "titulo": "TVU Noticias 2PM",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-18T14:00:00",
-      "fin": "2026-09-18T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tvunoticias2pm.jpg"
-    },
-    {
-      "titulo": "CNTV infantil",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-      "inicio": "2026-09-18T15:00:00",
-      "fin": "2026-09-18T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "TVU Noticias 2PM",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-18T17:00:00",
-      "fin": "2026-09-18T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tvunoticias2pm.jpg"
-    },
-    {
-      "titulo": "La Ruta de Conci",
-      "descripcion": "Entrevistas a artistas, músicos y figuras locales.",
-      "inicio": "2026-09-18T19:00:00",
-      "fin": "2026-09-18T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TVU Noticias Central",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-18T20:00:00",
-      "fin": "2026-09-18T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tvunoticiascentral.jpg"
-    },
-    {
-      "titulo": "La Cancha es Nuestra",
-      "descripcion": "Un programa con toda la actualidad deportiva.",
-      "inicio": "2026-09-18T20:30:00",
-      "fin": "2026-09-18T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacanchaesnuestra.jpg"
-    },
-    {
-      "titulo": "La Ruta de Conci",
-      "descripcion": "Entrevistas a artistas, músicos y figuras locales.",
-      "inicio": "2026-09-18T21:30:00",
-      "fin": "2026-09-18T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Portavoz noticias",
-      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
-      "inicio": "2026-09-18T22:30:00",
-      "fin": "2026-09-18T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "TVU Noticias Central",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-18T23:00:00",
-      "fin": "2026-09-18T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tvunoticiascentral.jpg"
-    },
-    {
-      "titulo": "Cartelera nocturna",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-18T23:30:00",
-      "fin": "2026-09-19T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "CNTV infantil",
       "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
       "inicio": "2026-09-19T08:00:00",
       "fin": "2026-09-19T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Desde la UdeC",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-19T10:00:00",
+      "fin": "2026-09-19T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Multiversos",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-19T14:00:00",
+      "fin": "2026-09-19T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/multiversos.jpg"
+    },
+    {
+      "titulo": "Desde la UdeC",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-19T17:00:00",
+      "fin": "2026-09-19T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias",
+      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
+      "inicio": "2026-09-19T20:30:00",
+      "fin": "2026-09-19T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "La Butaca",
+      "descripcion": "Un espacio dedicado a la música, las artes y las historias de la escena cultural chilena.",
+      "inicio": "2026-09-19T21:00:00",
+      "fin": "2026-09-19T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/labutaca.jpg"
+    },
+    {
+      "titulo": "Recomendados",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-19T21:30:00",
+      "fin": "2026-09-19T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias",
+      "descripcion": "Noticiero accesible para mantenernos actulizados sobre el acontencer diario.",
+      "inicio": "2026-09-19T23:00:00",
+      "fin": "2026-09-19T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Cartelera nocturna",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-19T23:30:00",
+      "fin": "2026-09-20T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
+      "inicio": "2026-09-20T08:00:00",
+      "fin": "2026-09-20T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
     }
   ]

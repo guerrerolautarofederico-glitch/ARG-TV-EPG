@@ -1,227 +1,150 @@
 {
   "actual": {
-    "titulo": "América noticias - Primera edición",
-    "descripcion": "Noticiero matinal peruano transmitido por América Televisión y conducido por Federico Salazar y Verónica Linares. Ofrece las principales noticias de actualidad nacional, política, policiales, economía y entretenimiento, acompañado de bloques especializados como América Deportes y América Espectáculos.",
-    "inicio": "2026-09-18T08:00:00",
-    "fin": "2026-09-18T09:50:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/americanoticiasprimeraedicion.jpg"
+    "titulo": "América noticias - Edición del sábado",
+    "descripcion": "Sinónimo de objetividad y credibilidad, periodistas con experiencia nos traen un completo resumen del acontecer local, mundial y de espectáculos.",
+    "inicio": "2026-09-19T08:00:00",
+    "fin": "2026-09-19T10:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "América deportes",
-    "descripcion": "Descubre los acontecimientos más importantes en el mundo del deporte.",
-    "inicio": "2026-09-18T09:50:00",
-    "fin": "2026-09-18T10:10:00",
+    "titulo": "Estás en todas • Show",
+    "descripcion": "Show | Show en el que se presentan notas del espectáculo, se realizan retos con artistas, y se meten en el detrás de cámaras de distintas producciones de televisión de Perú. Además, el estudio será visitado por distintos personajes del medio.",
+    "inicio": "2026-09-19T10:00:00",
+    "fin": "2026-09-19T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "América noticias - Primera edición",
-      "descripcion": "Noticiero matinal peruano transmitido por América Televisión y conducido por Federico Salazar y Verónica Linares. Ofrece las principales noticias de actualidad nacional, política, policiales, economía y entretenimiento, acompañado de bloques especializados como América Deportes y América Espectáculos.",
-      "inicio": "2026-09-18T08:00:00",
-      "fin": "2026-09-18T09:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/americanoticiasprimeraedicion.jpg"
-    },
-    {
-      "titulo": "América deportes",
-      "descripcion": "Descubre los acontecimientos más importantes en el mundo del deporte.",
-      "inicio": "2026-09-18T09:50:00",
-      "fin": "2026-09-18T10:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "América espectáculos",
-      "descripcion": "Lo último de la información del mundo del espectáculo nacional e internacional. Las entrevistas más entretenidas con música en vivo la encontrarás aquí en América Espectáculos.",
-      "inicio": "2026-09-18T10:10:00",
-      "fin": "2026-09-18T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "América hoy",
-      "descripcion": "Haz tus mañanas divertidas junto a Ethel, Renzo, Natalia y Edson.",
-      "inicio": "2026-09-18T10:30:00",
-      "fin": "2026-09-18T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "+ Espectáculos",
-      "descripcion": "Lo último de la información del mundo del espectáculo nacional e internacional con la amena conducción de Rebeca Escribens. Las entrevistas más entretenidas con música en vivo la encontrarás aquí en América Espectáculos.",
-      "inicio": "2026-09-18T12:00:00",
-      "fin": "2026-09-18T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "América noticias - Edición mediodía",
-      "descripcion": "Noticiero peruano emitido a través de América Televisión que recopila los acontecimientos informativos más relevantes del ámbito nacional e internacional, además de incluir bloques de espectáculos y deportes del día.",
-      "inicio": "2026-09-18T13:00:00",
-      "fin": "2026-09-18T13:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/americanoticiasedicionmediodia.jpg"
-    },
-    {
-      "titulo": "América deportes",
-      "descripcion": "Descubre los acontecimientos más importantes en el mundo del deporte.",
-      "inicio": "2026-09-18T13:35:00",
-      "fin": "2026-09-18T13:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "América espectáculos",
-      "descripcion": "Lo último de la información del mundo del espectáculo nacional e internacional. Las entrevistas más entretenidas con música en vivo la encontrarás aquí en América Espectáculos.",
-      "inicio": "2026-09-18T13:45:00",
-      "fin": "2026-09-18T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Destilando amor",
-      "descripcion": "Serie de TV (2007). 170 episodios. Adaptación de la segunda versión mexicana de Café, con aroma de mujer, una telenovela de Colombia de amor e intrigas en el ambiente de la tradición cafetalera colombiana, ahora ambientado en el ambiente tequilero mexicano.",
-      "inicio": "2026-09-18T14:00:00",
-      "fin": "2026-09-18T14:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destilandoamor.jpg"
-    },
-    {
-      "titulo": "Mande quien mande",
-      "descripcion": "Un magazine conducido por María Pía y Carlota, quienes abordan novedades, chismes, concursos y mucho másl. El público podrá informarse de forma distentida y divertirse con ambos conductores y sus invitados.",
-      "inicio": "2026-09-18T14:40:00",
-      "fin": "2026-09-18T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Corazón de oro",
-      "descripcion": "Luz, una madre soltera, acepta un trabajo en una viña con un hombre adinerado que conoció en el pasado. Miguel Ángel, el hijo ciego del patriarca, se enamora de Luz a pesar de los muchos secretos que guardan entre ellos.",
-      "inicio": "2026-09-18T17:00:00",
-      "fin": "2026-09-18T17:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/corazondeoro.jpg"
-    },
-    {
-      "titulo": "Semifinal • Alianza Lima vs. Gerdau Minas",
-      "descripcion": "Alianza Lima vs. Gerdau Minas | Vive la previa al inicio de los partidos de vóleibol femenino de la Copa Brasil en su edición del 2026. Conoce todos los detalles sobre el enfrentamiento y comienza a realizar tus predicciones sobre el resultado.",
-      "inicio": "2026-09-18T17:50:00",
-      "fin": "2026-09-18T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Semifinal • Alianza Lima vs. Gerdau Minas",
-      "descripcion": "Alianza Lima vs. Gerdau Minas | Vive toda la emoción de los partidos de vóleibol femenino de la Copa Brasil en su edición del 2026. Disfruta de los enfrentamientos entre los equipos que se presentan y conoce a los talentos que participan para llevarse el título.",
-      "inicio": "2026-09-18T18:00:00",
-      "fin": "2026-09-18T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los milagros de la rosa",
-      "descripcion": "La adaptación peruana del drama mexicano \"La rosa de Guadalupe\", que cuenta historias de personas con dificultades en su vida que experimentan milagros propiciados gracias a la Virgen de Guadalupe.",
-      "inicio": "2026-09-18T20:00:00",
-      "fin": "2026-09-18T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Esto es guerra",
-      "descripcion": "Dos agentes de la CIA, grandes amigos desde la infancia, se enamoran de la misma mujer. Su amistad desaparece y se enzarzan en una batalla de proporciones épicas que pondrá en jaque a la ciudad de Nueva York.",
-      "inicio": "2026-09-18T20:30:00",
-      "fin": "2026-09-18T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/estoesguerra.jpg"
-    },
-    {
-      "titulo": "La vida que me robaste",
-      "descripcion": "Mariana es encarcelada y pasa diez años en prisión tras recibir una condena injusta por un homicidio. Sin embargo, logra conseguir la libertad condicional y regresa para recuperar a sus dos hijas, Melissa y Stephany.",
-      "inicio": "2026-09-18T23:00:00",
-      "fin": "2026-09-19T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "América noticias - Edición central",
-      "descripcion": "Sinónimo de objetividad, credibilidad y experiencia, Un espacio que presenta la más completa información del acontecer nacional e internacional.",
-      "inicio": "2026-09-19T00:00:00",
-      "fin": "2026-09-19T00:17:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "América deportes",
-      "descripcion": "Descubre los acontecimientos más importantes en el mundo del deporte.",
-      "inicio": "2026-09-19T00:17:00",
-      "fin": "2026-09-19T00:24:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "América noticias - Edición central",
-      "descripcion": "Sinónimo de objetividad, credibilidad y experiencia, Un espacio que presenta la más completa información del acontecer nacional e internacional.",
-      "inicio": "2026-09-19T00:24:00",
-      "fin": "2026-09-19T00:27:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "América espectáculos",
-      "descripcion": "Lo último de la información del mundo del espectáculo nacional e internacional. Las entrevistas más entretenidas con música en vivo la encontrarás aquí en América Espectáculos.",
-      "inicio": "2026-09-19T00:27:00",
-      "fin": "2026-09-19T00:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Amores que matan",
-      "descripcion": "Además de tratar sobre la ideología machista y sus valores, muestra también la existencia de otro tipo de hombres, los que se relacionan con las mujeres en plano de igualdad y se manifiestan públicamente contra la violencia doméstica. Se plantea igualmente la posibilidad de rehabilitación de los hombres maltratadores. Mediometraje que sirvió de base a la película \"Te doy mis ojos\" (2003), que trata también el problema del maltrato doméstico. (FILMAFFINITY)",
-      "inicio": "2026-09-19T00:45:00",
-      "fin": "2026-09-19T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Corazón de oro",
-      "descripcion": "Luz, una madre soltera, acepta un trabajo en una viña con un hombre adinerado que conoció en el pasado. Miguel Ángel, el hijo ciego del patriarca, se enamora de Luz a pesar de los muchos secretos que guardan entre ellos.",
-      "inicio": "2026-09-19T01:30:00",
-      "fin": "2026-09-19T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/corazondeoro.jpg"
-    },
-    {
-      "titulo": "Corazón de oro",
-      "descripcion": "Luz, una madre soltera, acepta un trabajo en una viña con un hombre adinerado que conoció en el pasado. Miguel Ángel, el hijo ciego del patriarca, se enamora de Luz a pesar de los muchos secretos que guardan entre ellos.",
-      "inicio": "2026-09-19T01:30:00",
-      "fin": "2026-09-19T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/corazondeoro.jpg"
-    },
-    {
-      "titulo": "Destilando amor",
-      "descripcion": "Serie de TV (2007). 170 episodios. Adaptación de la segunda versión mexicana de Café, con aroma de mujer, una telenovela de Colombia de amor e intrigas en el ambiente de la tradición cafetalera colombiana, ahora ambientado en el ambiente tequilero mexicano.",
-      "inicio": "2026-09-19T02:30:00",
-      "fin": "2026-09-19T03:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destilandoamor.jpg"
-    },
-    {
-      "titulo": "América espectáculos",
-      "descripcion": "Lo último de la información del mundo del espectáculo nacional e internacional. Las entrevistas más entretenidas con música en vivo la encontrarás aquí en América Espectáculos.",
-      "inicio": "2026-09-19T03:10:00",
-      "fin": "2026-09-19T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "+ Espectáculos",
-      "descripcion": "Lo último de la información del mundo del espectáculo nacional e internacional con la amena conducción de Rebeca Escribens. Las entrevistas más entretenidas con música en vivo la encontrarás aquí en América Espectáculos.",
-      "inicio": "2026-09-19T03:30:00",
-      "fin": "2026-09-19T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "América noticias - Edición central",
-      "descripcion": "Sinónimo de objetividad, credibilidad y experiencia, Un espacio que presenta la más completa información del acontecer nacional e internacional.",
-      "inicio": "2026-09-19T04:30:00",
-      "fin": "2026-09-19T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mande quien mande",
-      "descripcion": "Un magazine conducido por María Pía y Carlota, quienes abordan novedades, chismes, concursos y mucho másl. El público podrá informarse de forma distentida y divertirse con ambos conductores y sus invitados.",
-      "inicio": "2026-09-19T05:30:00",
-      "fin": "2026-09-19T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "América noticias - Matutino",
-      "descripcion": "Toda la información y la actualidad en el plano social y político a nivel nacional e internacional.",
-      "inicio": "2026-09-19T07:00:00",
-      "fin": "2026-09-19T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "América noticias - Edición del sábado",
       "descripcion": "Sinónimo de objetividad y credibilidad, periodistas con experiencia nos traen un completo resumen del acontecer local, mundial y de espectáculos.",
       "inicio": "2026-09-19T08:00:00",
       "fin": "2026-09-19T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Estás en todas • Show",
+      "descripcion": "Show | Show en el que se presentan notas del espectáculo, se realizan retos con artistas, y se meten en el detrás de cámaras de distintas producciones de televisión de Perú. Además, el estudio será visitado por distintos personajes del medio.",
+      "inicio": "2026-09-19T10:00:00",
+      "fin": "2026-09-19T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Chavo del 8",
+      "descripcion": "Las vivencias de un grupo de personas que habitan en una vecindad mexicana, donde el Chavo junto con sus amigos, llevan a cabo travesuras que ocasionan malentendidos y discusiones entre los mismos vecinos.",
+      "inicio": "2026-09-19T12:00:00",
+      "fin": "2026-09-19T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
+    },
+    {
+      "titulo": "Como dice el dicho",
+      "descripcion": "Dramatización de situaciones de la vida real y las historias que se relacionan con dichos populares, por Don Tomas.",
+      "inicio": "2026-09-19T13:00:00",
+      "fin": "2026-09-19T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comodiceeldicho.jpg"
+    },
+    {
+      "titulo": "Solamente milagros",
+      "descripcion": "Son historias inspiradas en hechos reales y cotidianos de nuestra sociedad peruana, hechos que nos han afectado y aún nos afectan, todos ellos tocados por un evento extraordinario: un milagro.",
+      "inicio": "2026-09-19T14:00:00",
+      "fin": "2026-09-19T14:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/solamentemilagros.jpg"
+    },
+    {
+      "titulo": "Tercer puesto • Previa - Brasil Cup - Vóleibol femenino",
+      "descripcion": "Previa - Brasil Cup - Vóleibol femenino | Vive la previa al inicio de los partidos de vóleibol femenino de la Copa Brasil en su edición del 2026. Conoce todos los detalles sobre el enfrentamiento y comienza a realizar tus predicciones sobre el resultado.",
+      "inicio": "2026-09-19T14:50:00",
+      "fin": "2026-09-19T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tercer puesto • Brasil Cup - Vóleibol femenino",
+      "descripcion": "Brasil Cup - Vóleibol femenino | Vive toda la emoción de los partidos de vóleibol femenino de la Copa Brasil en su edición del 2026. Disfruta de los enfrentamientos entre los equipos que se presentan y conoce a los talentos que participan para llevarse el título.",
+      "inicio": "2026-09-19T15:00:00",
+      "fin": "2026-09-19T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Especial deportivo",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-19T17:00:00",
+      "fin": "2026-09-19T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Gran final • Brasil Cup - Vóleibol femenino",
+      "descripcion": "Brasil Cup - Vóleibol femenino | Vive toda la emoción de los partidos de vóleibol femenino de la Copa Brasil en su edición del 2026. Disfruta de los enfrentamientos entre los equipos que se presentan y conoce a los talentos que participan para llevarse el título.",
+      "inicio": "2026-09-19T18:00:00",
+      "fin": "2026-09-19T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los milagros de la rosa: Perú",
+      "descripcion": "Diversas historias que siguen la línea de la gran producción mexicana, adaptándose al contexto y las costumbres peruanas. Se cuentan historias dramáticas cuyos protagonistas experimentan milagros provenientes de la Virgen de Guadalupe.",
+      "inicio": "2026-09-19T20:00:00",
+      "fin": "2026-09-19T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El reventonazo de la Chola",
+      "descripcion": "Espacio de entretenimiento donde la música es la protagonista en todos sus géneros y la calidad internacional de nuestro anfitrión se sirve para ir entrevistando, presentando y jugando con estrellas nacionales e internacionales.",
+      "inicio": "2026-09-19T21:00:00",
+      "fin": "2026-09-19T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Chapa tu money • Juegos",
+      "descripcion": "Juegos | Mateo Garrido Lecca conduce un show de humor, improvisación y comedia en el que los talentos participan en diferentes juegos para acumular dinero.",
+      "inicio": "2026-09-19T23:00:00",
+      "fin": "2026-09-20T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¿Quién dijo Detox?",
+      "descripcion": "Connie, una joven abogada y soporte de su familia, se verá envuelta en una apuesta para ganar una cuenta en el estudio de abogados donde trabaja, de no hacerlo será despedida.",
+      "inicio": "2026-09-20T00:30:00",
+      "fin": "2026-09-20T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bare Knuckle Fighting Championship",
+      "descripcion": "busca luchadores profesionales experimentados que quieran ser parte del deporte de combate de más rápido crecimiento en el mundo.",
+      "inicio": "2026-09-20T02:00:00",
+      "fin": "2026-09-20T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un mono de película",
+      "descripcion": "A cambio de buenos consejos y conquistar a la chica de su sueño, un joven genio ayuda a un chimpancé. Juntos se enfrentarán a un laboratorio de animales que tiene la intención de entrenar al primate para misiones peligrosas.",
+      "inicio": "2026-09-20T03:00:00",
+      "fin": "2026-09-20T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "América noticias - Matutino",
+      "descripcion": "Toda la información y la actualidad en el plano social y político a nivel nacional e internacional.",
+      "inicio": "2026-09-20T04:30:00",
+      "fin": "2026-09-20T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Estás en todas • Show",
+      "descripcion": "Show | Show en el que se presentan notas del espectáculo, se realizan retos con artistas, y se meten en el detrás de cámaras de distintas producciones de televisión de Perú. Además, el estudio será visitado por distintos personajes del medio.",
+      "inicio": "2026-09-20T05:30:00",
+      "fin": "2026-09-20T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "América noticias: Edición dominical - Matutino",
+      "descripcion": "Un programa con los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe de la forma más completa sobre Perú y el mundo.",
+      "inicio": "2026-09-20T07:00:00",
+      "fin": "2026-09-20T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "América noticias: Edición dominical",
+      "descripcion": "Alternativa informativa que presenta los hechos más importantes del ámbito local, nacional e internacional, con reportajes, entrevistas y comentarios acertados, manteniendo un toque de objetividad y credibilidad.",
+      "inicio": "2026-09-20T08:00:00",
+      "fin": "2026-09-20T09:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
