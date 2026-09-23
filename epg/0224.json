@@ -2,142 +2,86 @@
   "actual": {
     "titulo": "Le Journal de la RTBF",
     "descripcion": "Los presentadores informan sobre las últimas noticias internacionales de última hora y los acontecimientos actuales en política, asuntos sociales y economía.",
-    "inicio": "2026-09-20T09:30:00",
-    "fin": "2026-09-20T09:59:00",
+    "inicio": "2026-09-23T09:30:00",
+    "fin": "2026-09-23T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Histoires et leçons",
-    "descripcion": "Las historias viajan a través del tiempo y el espacio y transmiten valores humanos universales. ¡Un cuento de un país diferente en cada episodio!",
-    "inicio": "2026-09-20T09:59:00",
-    "fin": "2026-09-20T10:02:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Télématin",
+    "descripcion": "Información sobre moda, salud, empleo, consumo, cocina y cultura, entre otros temas. Conducido por Flavie Flament y Julien Arnaud de lunes a viernes y con Maya Lauqué y Damien Thévenot los fines de semana.",
+    "inicio": "2026-09-23T10:00:00",
+    "fin": "2026-09-23T10:51:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telematin.jpg"
   },
   "lista": [
     {
       "titulo": "Le Journal de la RTBF",
       "descripcion": "Los presentadores informan sobre las últimas noticias internacionales de última hora y los acontecimientos actuales en política, asuntos sociales y economía.",
-      "inicio": "2026-09-20T09:30:00",
-      "fin": "2026-09-20T09:59:00",
+      "inicio": "2026-09-23T09:30:00",
+      "fin": "2026-09-23T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Histoires et leçons",
-      "descripcion": "Las historias viajan a través del tiempo y el espacio y transmiten valores humanos universales. ¡Un cuento de un país diferente en cada episodio!",
-      "inicio": "2026-09-20T09:59:00",
-      "fin": "2026-09-20T10:02:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Télématin",
+      "descripcion": "Información sobre moda, salud, empleo, consumo, cocina y cultura, entre otros temas. Conducido por Flavie Flament y Julien Arnaud de lunes a viernes y con Maya Lauqué y Damien Thévenot los fines de semana.",
+      "inicio": "2026-09-23T10:00:00",
+      "fin": "2026-09-23T10:51:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telematin.jpg"
     },
     {
-      "titulo": "Tourat",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-20T10:02:00",
-      "fin": "2026-09-20T10:08:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "My Class",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-20T10:08:00",
-      "fin": "2026-09-20T10:18:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lilya Et Rayane",
-      "descripcion": "Lilya y Rayane viven en Marruecos con sus padres, Salma y Saad. Ir al mercado, a la escuela, limpiar o irse de picnic: cada día, las tareas cotidianas se convierten en pequeñas aventuras.",
-      "inicio": "2026-09-20T10:18:00",
-      "fin": "2026-09-20T10:22:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lilya Et Rayane",
-      "descripcion": "Lilya y Rayane viven en Marruecos con sus padres, Salma y Saad. Ir al mercado, a la escuela, limpiar o irse de picnic: cada día, las tareas cotidianas se convierten en pequeñas aventuras.",
-      "inicio": "2026-09-20T10:22:00",
-      "fin": "2026-09-20T10:26:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "C'est mathématique! Avec Iman",
-      "descripcion": "Iman, exprofesor de matemáticas, propone a los alumnos de primaria un kit de supervivencia para abordar la secundaria con serenidad. En cada episodio, mediante un enfoque lúdico y pedagógico, busca que su materia sea clara y concreta.",
-      "inicio": "2026-09-20T10:26:00",
-      "fin": "2026-09-20T10:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jad et ses sœurs",
-      "descripcion": "Ranya y Syrine, dos hermanas gemelas, son tan adorables como inseparables. Su vida es alegre y llena de pequeñas aventuras cotidianas, pero todo cambia de repente con la llegada de su hermanito, Jad.",
-      "inicio": "2026-09-20T10:29:00",
-      "fin": "2026-09-20T10:33:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mission héros",
-      "descripcion": "Con ocho años, Amir lleva la vida de un superhéroe. Con su avatar en línea, enseña a los niños que lo ven y a todo su vecindario sobre el civismo y la ciudadanía.",
-      "inicio": "2026-09-20T10:33:00",
-      "fin": "2026-09-20T10:36:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Compostman et moi",
-      "descripcion": "Charlie, de seis años y medio, conoce a Compostman, un gigante vegetal que transforma su vida en la ciudad. Juntos viven aventuras ecológicas divertidas e inspiradoras, que les enseñan a los niños cómo reconectarse con la naturaleza en el día a día.",
-      "inicio": "2026-09-20T10:36:00",
-      "fin": "2026-09-20T10:47:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Compostman et moi",
-      "descripcion": "Charlie, de seis años y medio, conoce a Compostman, un gigante vegetal que transforma su vida en la ciudad. Juntos viven aventuras ecológicas divertidas e inspiradoras, que les enseñan a los niños cómo reconectarse con la naturaleza en el día a día.",
-      "inicio": "2026-09-20T10:47:00",
-      "fin": "2026-09-20T11:47:00",
+      "titulo": "En terre animale",
+      "descripcion": "Cómplices y complementarias, Elodie Ageron y Sandrine Arcizet salen cada semana al encuentro de los amantes de los animales: cuidadores, criadores o veterinarios.",
+      "inicio": "2026-09-23T10:51:00",
+      "fin": "2026-09-23T11:21:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV5 Monde",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-20T11:47:00",
-      "fin": "2026-09-20T12:00:00",
+      "inicio": "2026-09-23T11:21:00",
+      "fin": "2026-09-23T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV5 Monde",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-20T12:00:00",
-      "fin": "2026-09-20T16:00:00",
+      "inicio": "2026-09-23T12:00:00",
+      "fin": "2026-09-23T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV5 Monde",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-20T16:00:00",
-      "fin": "2026-09-20T20:00:00",
+      "inicio": "2026-09-23T16:00:00",
+      "fin": "2026-09-23T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV5 Monde",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-20T20:00:00",
-      "fin": "2026-09-21T00:00:00",
+      "inicio": "2026-09-23T20:00:00",
+      "fin": "2026-09-24T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV5 Monde",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-21T00:00:00",
-      "fin": "2026-09-21T04:00:00",
+      "inicio": "2026-09-24T00:00:00",
+      "fin": "2026-09-24T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV5 Monde",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-21T04:00:00",
-      "fin": "2026-09-21T08:00:00",
+      "inicio": "2026-09-24T04:00:00",
+      "fin": "2026-09-24T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV5 Monde",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-21T08:00:00",
-      "fin": "2026-09-21T12:00:00",
+      "inicio": "2026-09-24T08:00:00",
+      "fin": "2026-09-24T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

@@ -1,109 +1,123 @@
 {
   "actual": {
-    "titulo": "Conexión Puranoticia",
-    "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
-    "inicio": "2026-09-20T08:00:00",
-    "fin": "2026-09-20T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
+    "titulo": "Puranoticia Matinal",
+    "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+    "inicio": "2026-09-23T08:00:00",
+    "fin": "2026-09-23T10:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiamatinal.jpg"
   },
   "siguiente": {
-    "titulo": "Hora de noticias",
-    "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
-    "inicio": "2026-09-20T13:00:00",
-    "fin": "2026-09-20T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/horadenoticias.jpg"
+    "titulo": "Puranoticia Matinal",
+    "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+    "inicio": "2026-09-23T10:00:00",
+    "fin": "2026-09-23T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiamatinal.jpg"
   },
   "lista": [
     {
-      "titulo": "Conexión Puranoticia",
-      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
-      "inicio": "2026-09-20T08:00:00",
-      "fin": "2026-09-20T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Hora de noticias",
-      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
-      "inicio": "2026-09-20T13:00:00",
-      "fin": "2026-09-20T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/horadenoticias.jpg"
-    },
-    {
-      "titulo": "Especial Terremoto 1985",
-      "descripcion": "El 03 de marzo de 1985 la tierra se sacudió con fuerza en las costas del litoral central con una magnitud de 7,8 grados, ya cumpliéndose 40 años en la memoria de la población chilena.",
-      "inicio": "2026-09-20T15:00:00",
-      "fin": "2026-09-20T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "El Chile De Allende: Memorias De Un Quiebre",
-      "descripcion": "El 11 de septiembre de 1973 es una fecha que quedó marcada a fuego en la historia de nuestro país, y es que ese día Salvador Allende dejó el poder de forma abrupta para dar paso a 17 años de gobierno",
-      "inicio": "2026-09-20T15:30:00",
-      "fin": "2026-09-20T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchiledeallendememoriasdeunquiebre.jpg"
-    },
-    {
-      "titulo": "Conexión Puranoticia",
-      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
-      "inicio": "2026-09-20T16:00:00",
-      "fin": "2026-09-20T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Hora de noticias",
-      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
-      "inicio": "2026-09-20T21:00:00",
-      "fin": "2026-09-20T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/horadenoticias.jpg"
-    },
-    {
-      "titulo": "Especial Terremoto 1985",
-      "descripcion": "El 03 de marzo de 1985 la tierra se sacudió con fuerza en las costas del litoral central con una magnitud de 7,8 grados, ya cumpliéndose 40 años en la memoria de la población chilena.",
-      "inicio": "2026-09-20T23:00:00",
-      "fin": "2026-09-20T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "El Chile De Allende: Memorias De Un Quiebre",
-      "descripcion": "El 11 de septiembre de 1973 es una fecha que quedó marcada a fuego en la historia de nuestro país, y es que ese día Salvador Allende dejó el poder de forma abrupta para dar paso a 17 años de gobierno",
-      "inicio": "2026-09-20T23:30:00",
-      "fin": "2026-09-21T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchiledeallendememoriasdeunquiebre.jpg"
-    },
-    {
-      "titulo": "Conexión Puranoticia",
-      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
-      "inicio": "2026-09-21T00:00:00",
-      "fin": "2026-09-21T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "Hora de noticias",
-      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
-      "inicio": "2026-09-21T05:00:00",
-      "fin": "2026-09-21T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/horadenoticias.jpg"
-    },
-    {
-      "titulo": "Especial Terremoto 1985",
-      "descripcion": "El 03 de marzo de 1985 la tierra se sacudió con fuerza en las costas del litoral central con una magnitud de 7,8 grados, ya cumpliéndose 40 años en la memoria de la población chilena.",
-      "inicio": "2026-09-21T07:00:00",
-      "fin": "2026-09-21T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
-    },
-    {
-      "titulo": "El Chile De Allende: Memorias De Un Quiebre",
-      "descripcion": "El 11 de septiembre de 1973 es una fecha que quedó marcada a fuego en la historia de nuestro país, y es que ese día Salvador Allende dejó el poder de forma abrupta para dar paso a 17 años de gobierno",
-      "inicio": "2026-09-21T07:30:00",
-      "fin": "2026-09-21T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchiledeallendememoriasdeunquiebre.jpg"
+      "titulo": "Puranoticia Matinal",
+      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-09-23T08:00:00",
+      "fin": "2026-09-23T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiamatinal.jpg"
     },
     {
       "titulo": "Puranoticia Matinal",
       "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
-      "inicio": "2026-09-21T08:00:00",
-      "fin": "2026-09-21T10:00:00",
+      "inicio": "2026-09-23T10:00:00",
+      "fin": "2026-09-23T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiamatinal.jpg"
+    },
+    {
+      "titulo": "Conexión Puranoticia",
+      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
+      "inicio": "2026-09-23T12:00:00",
+      "fin": "2026-09-23T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexionpuranoticia.jpg"
+    },
+    {
+      "titulo": "Hora de noticias",
+      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
+      "inicio": "2026-09-23T13:00:00",
+      "fin": "2026-09-23T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/horadenoticias.jpg"
+    },
+    {
+      "titulo": "Hora de noticias",
+      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
+      "inicio": "2026-09-23T15:00:00",
+      "fin": "2026-09-23T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/horadenoticias.jpg"
+    },
+    {
+      "titulo": "Conexión Puranoticia",
+      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
+      "inicio": "2026-09-23T17:00:00",
+      "fin": "2026-09-23T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexionpuranoticia.jpg"
+    },
+    {
+      "titulo": "Puranoticia PM",
+      "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-09-23T18:00:00",
+      "fin": "2026-09-23T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiapm.jpg"
+    },
+    {
+      "titulo": "Puranoticia PM",
+      "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-09-23T20:00:00",
+      "fin": "2026-09-23T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiapm.jpg"
+    },
+    {
+      "titulo": "Puranoticia Matinal",
+      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-09-23T22:00:00",
+      "fin": "2026-09-24T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiamatinal.jpg"
+    },
+    {
+      "titulo": "Conexión Puranoticia",
+      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
+      "inicio": "2026-09-24T00:00:00",
+      "fin": "2026-09-24T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexionpuranoticia.jpg"
+    },
+    {
+      "titulo": "Hora de noticias",
+      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
+      "inicio": "2026-09-24T01:00:00",
+      "fin": "2026-09-24T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/horadenoticias.jpg"
+    },
+    {
+      "titulo": "Conexión Puranoticia",
+      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
+      "inicio": "2026-09-24T03:00:00",
+      "fin": "2026-09-24T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexionpuranoticia.jpg"
+    },
+    {
+      "titulo": "Puranoticia Matinal",
+      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-09-24T04:00:00",
+      "fin": "2026-09-24T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiamatinal.jpg"
+    },
+    {
+      "titulo": "Puranoticia PM",
+      "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-09-24T06:00:00",
+      "fin": "2026-09-24T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiapm.jpg"
+    },
+    {
+      "titulo": "Puranoticia",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-24T07:00:00",
+      "fin": "2026-09-24T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0159_fallback.jpg"
     }
   ]
 }

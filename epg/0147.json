@@ -1,291 +1,74 @@
 {
   "actual": {
-    "titulo": "Kimkantun",
-    "descripcion": "Aventuras, risas y mucha imaginación te esperan en este bloque infantil que combina diversión y aprendizaje con las mejores series y cortos animados.",
-    "inicio": "2026-09-20T08:10:00",
-    "fin": "2026-09-20T10:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/kimkantun.jpg"
+    "titulo": "Santiago TV",
+    "descripcion": "La información de este programa no se encuentra disponible.",
+    "inicio": "2026-09-23T07:00:00",
+    "fin": "2026-09-23T11:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagotv.jpg"
   },
   "siguiente": {
-    "titulo": "All you need is lab",
-    "descripcion": "Te contamos todo lo que tienes que saber sobre ciencia y tecnología de una manera atractiva.",
-    "inicio": "2026-09-20T10:00:00",
-    "fin": "2026-09-20T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/allyouneedislab.jpg"
+    "titulo": "Santiago TV",
+    "descripcion": "La información de este programa no se encuentra disponible.",
+    "inicio": "2026-09-23T11:00:00",
+    "fin": "2026-09-23T15:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagotv.jpg"
   },
   "lista": [
     {
-      "titulo": "Kimkantun",
-      "descripcion": "Aventuras, risas y mucha imaginación te esperan en este bloque infantil que combina diversión y aprendizaje con las mejores series y cortos animados.",
-      "inicio": "2026-09-20T08:10:00",
-      "fin": "2026-09-20T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/kimkantun.jpg"
-    },
-    {
-      "titulo": "All you need is lab",
-      "descripcion": "Te contamos todo lo que tienes que saber sobre ciencia y tecnología de una manera atractiva.",
-      "inicio": "2026-09-20T10:00:00",
-      "fin": "2026-09-20T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/allyouneedislab.jpg"
-    },
-    {
-      "titulo": "Arte vivo",
-      "descripcion": "Una serie que busca ser el reflejo de las miradas de quienes a través del arte abonan nuevas formas de interpretar el mundo.",
-      "inicio": "2026-09-20T11:00:00",
-      "fin": "2026-09-20T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/artevivo.jpg"
-    },
-    {
-      "titulo": "All you need is lab: En la calle",
-      "descripcion": "Te contamos todo lo que tienes que saber sobre ciencia y tecnología de una manera atractiva.",
-      "inicio": "2026-09-20T11:30:00",
-      "fin": "2026-09-20T11:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/allyouneedislabenlacalle.jpg"
-    },
-    {
-      "titulo": "Educadores",
-      "descripcion": "Una serie documental que cuenta historias de docentes que desde el corazón del sistema son capaces de generar cambios en la vida de sus estudiantes.",
-      "inicio": "2026-09-20T11:40:00",
-      "fin": "2026-09-20T11:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/educadores.jpg"
-    },
-    {
-      "titulo": "Saica te cuenta",
-      "descripcion": "Un recorrido por el cine, la música y los videojuegos.",
-      "inicio": "2026-09-20T11:50:00",
-      "fin": "2026-09-20T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/saicatecuenta.jpg"
-    },
-    {
-      "titulo": "Luz, cámara y pasión",
-      "descripcion": "Un espacio, para conversar y reflexionar de cine, con actores y actrices nacionales en torno al trabajo interpretativo y la creación de personajes para la pantalla grande.",
-      "inicio": "2026-09-20T12:00:00",
-      "fin": "2026-09-20T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/luzcamaraypasion.jpg"
-    },
-    {
-      "titulo": "Conciertos USACH",
-      "descripcion": "Conciertos Universidad de Santiago de Chile.",
-      "inicio": "2026-09-20T13:00:00",
-      "fin": "2026-09-20T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conciertosusach.jpg"
-    },
-    {
-      "titulo": "Raíz Manual De Saberes",
-      "descripcion": "Serie documental protagonizada por las mujeres integrantes del club de adulto mayor Las Violetas de Rinconada de Parral.",
-      "inicio": "2026-09-20T14:00:00",
-      "fin": "2026-09-20T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuestión de género",
-      "descripcion": "Una serie que entrevista en primera persona a mujeres de diversas disciplinas de la cultura. Una reflexión sobre el rol de la mujer que aporta una mirada inclusiva y cultural al país.",
-      "inicio": "2026-09-20T14:30:00",
-      "fin": "2026-09-20T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cuestiondegenero.jpg"
-    },
-    {
-      "titulo": "Miniseries",
-      "descripcion": "Espacio con producciones variadas.",
-      "inicio": "2026-09-20T15:00:00",
-      "fin": "2026-09-20T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniseries.jpg"
-    },
-    {
-      "titulo": "Intersesiones",
-      "descripcion": "Un ciclo de música en vivo creado por la Corporación Cultural Usach, que busca relevar proyectos musicales chilenos en formato semidesenchufado y conectar la música con diferentes disciplinas culturales.",
-      "inicio": "2026-09-20T15:30:00",
-      "fin": "2026-09-20T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Kimkantun",
-      "descripcion": "Aventuras, risas y mucha imaginación te esperan en este bloque infantil que combina diversión y aprendizaje con las mejores series y cortos animados.",
-      "inicio": "2026-09-20T16:00:00",
-      "fin": "2026-09-20T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/kimkantun.jpg"
-    },
-    {
-      "titulo": "Enlaces",
-      "descripcion": "Riguroso y entretenido a la vez, presenta temas relevantes del mundo digital con un profundo enfoque periodístico: los desafíos de las redes sociales, la seguridad en Internet o la red como plataforma de agitación política.",
-      "inicio": "2026-09-20T18:00:00",
-      "fin": "2026-09-20T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlaces.jpg"
-    },
-    {
-      "titulo": "Territorio De Cultura Y Patrimonio",
-      "descripcion": "Serie documental producida por la Corporación Cultural de Peñalolén que pone en valor el patrimonio vivo, las tradiciones, los oficios y la memoria colectiva de la comuna.",
-      "inicio": "2026-09-20T18:30:00",
-      "fin": "2026-09-20T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/territoriodeculturaypatrimonio.jpg"
-    },
-    {
-      "titulo": "Eco en corto",
-      "descripcion": "Miniserie que relata en formato corto temáticas sobre el medio ambiente y ecología, entregando información relevante para la conservación de nuestro planeta.",
-      "inicio": "2026-09-20T19:00:00",
-      "fin": "2026-09-20T19:04:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ecoencorto.jpg"
-    },
-    {
-      "titulo": "Miniseries",
-      "descripcion": "Espacio con producciones variadas.",
-      "inicio": "2026-09-20T19:04:00",
-      "fin": "2026-09-20T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniseries.jpg"
-    },
-    {
-      "titulo": "Cultura.21",
-      "descripcion": "Espacio que presenta a los protagonistas, detecta las ideas nuevas, explica los grandes debates y está presente en los eventos más destacados de la temporada. Un periodismo que examina con atención el espíritu del momento.",
-      "inicio": "2026-09-20T19:30:00",
-      "fin": "2026-09-20T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cultura21.jpg"
-    },
-    {
-      "titulo": "Arte vivo",
-      "descripcion": "Una serie que busca ser el reflejo de las miradas de quienes a través del arte abonan nuevas formas de interpretar el mundo.",
-      "inicio": "2026-09-20T20:00:00",
-      "fin": "2026-09-20T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/artevivo.jpg"
-    },
-    {
-      "titulo": "Fuerza latina",
-      "descripcion": "Las periodistas Natalia Orozco y Yoani Sánchez conversan cada semana con mujeres extraordinarias de América Latina, quienes nos acercan sus fascinantes historias y nos muestran el entorno en el que viven y trabajan. Son mujeres que, con tenacidad y perseverancia, se proponen cambiar la sociedad y alzan su voz para reclamar derechos y denunciar injusticias.",
-      "inicio": "2026-09-20T20:30:00",
-      "fin": "2026-09-20T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatina.jpg"
-    },
-    {
-      "titulo": "Cuestión de género",
-      "descripcion": "Una serie que entrevista en primera persona a mujeres de diversas disciplinas de la cultura. Una reflexión sobre el rol de la mujer que aporta una mirada inclusiva y cultural al país.",
-      "inicio": "2026-09-20T21:00:00",
-      "fin": "2026-09-20T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cuestiondegenero.jpg"
-    },
-    {
-      "titulo": "Singulares",
-      "descripcion": "Serie documental que acompaña a estudiantes y protagonistas de proyectos en innovación, ciencia, sociedad y cultura que están marcando pauta a nivel nacional e internacional.",
-      "inicio": "2026-09-20T21:30:00",
-      "fin": "2026-09-20T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/singulares.jpg"
-    },
-    {
-      "titulo": "Mirada global",
-      "descripcion": "Analizamos junto a expertos y expertas la actualidad internacional.",
-      "inicio": "2026-09-20T22:00:00",
-      "fin": "2026-09-20T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miradaglobal.jpg"
-    },
-    {
-      "titulo": "A recorrer el mundo",
-      "descripcion": "Recorremos el mundo con Edu y Cami.",
-      "inicio": "2026-09-20T23:00:00",
-      "fin": "2026-09-20T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/arecorrerelmundo.jpg"
-    },
-    {
-      "titulo": "Cuestión de género",
-      "descripcion": "Una serie que entrevista en primera persona a mujeres de diversas disciplinas de la cultura. Una reflexión sobre el rol de la mujer que aporta una mirada inclusiva y cultural al país.",
-      "inicio": "2026-09-20T23:30:00",
-      "fin": "2026-09-21T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cuestiondegenero.jpg"
+      "titulo": "Santiago TV",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-23T07:00:00",
+      "fin": "2026-09-23T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagotv.jpg"
     },
     {
       "titulo": "Santiago TV",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-09-21T00:00:00",
-      "fin": "2026-09-21T03:00:00",
+      "inicio": "2026-09-23T11:00:00",
+      "fin": "2026-09-23T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagotv.jpg"
     },
     {
-      "titulo": "Arte vivo",
-      "descripcion": "Una serie que busca ser el reflejo de las miradas de quienes a través del arte abonan nuevas formas de interpretar el mundo.",
-      "inicio": "2026-09-21T03:00:00",
-      "fin": "2026-09-21T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/artevivo.jpg"
+      "titulo": "Santiago TV",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-23T15:00:00",
+      "fin": "2026-09-23T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagotv.jpg"
     },
     {
-      "titulo": "A recorrer el mundo",
-      "descripcion": "Recorremos el mundo con Edu y Cami.",
-      "inicio": "2026-09-21T03:30:00",
-      "fin": "2026-09-21T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/arecorrerelmundo.jpg"
+      "titulo": "Santiago TV",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-23T19:00:00",
+      "fin": "2026-09-23T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagotv.jpg"
     },
     {
-      "titulo": "Día D",
-      "descripcion": "Para el 70 aniversario de la invasión aliada de Europa controlada por los nazis, History nos cuenta la historia del Día. Imágenes inéditas combinadas con entrevistas a los hombres que vivieron el desembarco. Aliados y alemanes sobrevivientes cuentan sus historias de primera mano sobre la guerra que cambió el curso del mundo. El Día D sigue siendo uno de los puntos de inflexión más importantes de la Segunda Guerra Mundial, sin embargo, muy pocos de nosotros sabe la verdadera historia... hasta ahora.",
-      "inicio": "2026-09-21T04:00:00",
-      "fin": "2026-09-21T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/diad.jpg"
+      "titulo": "TV USACH",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-23T20:00:00",
+      "fin": "2026-09-24T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Cultura corral",
-      "descripcion": "Un proyecto que busca dar continuidad al rescate de identidades culturales de la localidad de Corral que se encuentran vinculadas a las expresiones musicales locales.",
-      "inicio": "2026-09-21T04:30:00",
-      "fin": "2026-09-21T04:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/culturacorral.jpg"
+      "titulo": "TV USACH",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-24T00:00:00",
+      "fin": "2026-09-24T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Educadores",
-      "descripcion": "Una serie documental que cuenta historias de docentes que desde el corazón del sistema son capaces de generar cambios en la vida de sus estudiantes.",
-      "inicio": "2026-09-21T04:45:00",
-      "fin": "2026-09-21T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/educadores.jpg"
+      "titulo": "TV USACH",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-24T04:00:00",
+      "fin": "2026-09-24T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "En Forma",
-      "descripcion": "Espacio que abarca todos los aspectos de la salud, para que conozcas las últimas novedades en tratamientos médicos, medicina alternativa, bienestar y ejercicio, así como los más recientes descubrimientos en nutrición y belleza.",
-      "inicio": "2026-09-21T05:00:00",
-      "fin": "2026-09-21T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enforma.jpg"
-    },
-    {
-      "titulo": "Territorio De Cultura Y Patrimonio",
-      "descripcion": "Serie documental producida por la Corporación Cultural de Peñalolén que pone en valor el patrimonio vivo, las tradiciones, los oficios y la memoria colectiva de la comuna.",
-      "inicio": "2026-09-21T05:30:00",
-      "fin": "2026-09-21T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/territoriodeculturaypatrimonio.jpg"
-    },
-    {
-      "titulo": "UESTV",
-      "descripcion": "Red de noticias de las universidades estatales de Chile, genereando noticias de carácter universitario educativo y cultural.",
-      "inicio": "2026-09-21T06:00:00",
-      "fin": "2026-09-21T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/uestv.jpg"
-    },
-    {
-      "titulo": "Visión futuro",
-      "descripcion": "Es la emisión de DW sobre ciencia. Este magazín va dirigido a todos los que se interesan por la investigación en Alemania y Europa. Exploramos el mundo de las imágenes virtuales.",
-      "inicio": "2026-09-21T07:00:00",
-      "fin": "2026-09-21T07:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/visionfuturo.jpg"
-    },
-    {
-      "titulo": "Educadores",
-      "descripcion": "Una serie documental que cuenta historias de docentes que desde el corazón del sistema son capaces de generar cambios en la vida de sus estudiantes.",
-      "inicio": "2026-09-21T07:15:00",
-      "fin": "2026-09-21T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/educadores.jpg"
-    },
-    {
-      "titulo": "Línea uno",
-      "descripcion": "“Línea Uno” te acompañará todas las mañanas con la contingencia e información de Chile y el mundo, con una mirada distinta, con opinión, comentarios y entrevistas.",
-      "inicio": "2026-09-21T07:30:00",
-      "fin": "2026-09-21T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lineauno.jpg"
-    },
-    {
-      "titulo": "Cuestión de género",
-      "descripcion": "Una serie que entrevista en primera persona a mujeres de diversas disciplinas de la cultura. Una reflexión sobre el rol de la mujer que aporta una mirada inclusiva y cultural al país.",
-      "inicio": "2026-09-21T09:00:00",
-      "fin": "2026-09-21T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cuestiondegenero.jpg"
-    },
-    {
-      "titulo": "Luz, cámara y pasión",
-      "descripcion": "Un espacio, para conversar y reflexionar de cine, con actores y actrices nacionales en torno al trabajo interpretativo y la creación de personajes para la pantalla grande.",
-      "inicio": "2026-09-21T09:30:00",
-      "fin": "2026-09-21T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/luzcamaraypasion.jpg"
+      "titulo": "TV USACH",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-24T08:00:00",
+      "fin": "2026-09-24T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
