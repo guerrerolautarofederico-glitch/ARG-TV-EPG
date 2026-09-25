@@ -1,241 +1,164 @@
 {
   "actual": {
-    "titulo": "Río sin retorno",
-    "descripcion": "La vida de un hombre que vive apaciblemente con su hijo en el campo, se ve amenazada por la llegada de una pareja que huye de los indios: él es un jugador profesional y ella una cantante de saloon.",
-    "inicio": "2026-09-24T09:31:00",
-    "fin": "2026-09-24T10:11:00",
+    "titulo": "Una Mente Brillante",
+    "descripcion": "En la Universidad de Princeton, John Nash se esfuerza por hacer una valiosa contribución y así dejar un legado al mundo de las matemáticas.  Después de la escuela de postgrado se enfoca en la enseñanza, lo que lo lleva a una relación romántica con su estudiante Alicia. Mientras tanto, el gobierno pide su ayuda para romper los códigos soviéticos, lo que pronto lo involucra en una conspiración aterradora. Ahora sólo con la ayuda de Alicia podrá recuperar su fuerza mental y recuperar su estatus como el gran matemático que hoy conocemos.",
+    "inicio": "2026-09-25T09:31:00",
+    "fin": "2026-09-25T10:04:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Romeo y Julieta",
-    "descripcion": "La paz de Verona se ve perturbada por la rivalidad existente entre nobles familias: los Montesco y los Capuleto, enemigos irreconciliables. Tienen contínuos enfrentamientos y, para evitarlos, el príncipe de Verona comunica a los jefes que las dos familias responderán con sus vidas si se producen nuevas luchas. En un baile, tiene lugar una fiesta en honor a Julieta.",
-    "inicio": "2026-09-24T10:11:00",
-    "fin": "2026-09-24T10:23:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/romeoyjulieta.jpg"
+    "titulo": "La masacre de Texas",
+    "descripcion": "Durante un viaje de Texas a México, un grupo de jóvenes recoge a una autoestopista ensangrentada que asegura que es la única superviviente de una masacre ocurrida la noche anterior en una casa cercana. Remake del clásico homónimo de Tobe Hooper (1974)",
+    "inicio": "2026-09-25T10:04:00",
+    "fin": "2026-09-25T11:27:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Río sin retorno",
-      "descripcion": "La vida de un hombre que vive apaciblemente con su hijo en el campo, se ve amenazada por la llegada de una pareja que huye de los indios: él es un jugador profesional y ella una cantante de saloon.",
-      "inicio": "2026-09-24T09:31:00",
-      "fin": "2026-09-24T10:11:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Romeo y Julieta",
-      "descripcion": "La paz de Verona se ve perturbada por la rivalidad existente entre nobles familias: los Montesco y los Capuleto, enemigos irreconciliables. Tienen contínuos enfrentamientos y, para evitarlos, el príncipe de Verona comunica a los jefes que las dos familias responderán con sus vidas si se producen nuevas luchas. En un baile, tiene lugar una fiesta en honor a Julieta.",
-      "inicio": "2026-09-24T10:11:00",
-      "fin": "2026-09-24T10:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/romeoyjulieta.jpg"
-    },
-    {
-      "titulo": "Caracortada",
-      "descripcion": "Tony Montana es un emigrante cubano frío e implacable que se instala en Miami con el propósito de convertirse en un gángster importante, y poder así ganar dinero y posición. Con la colaboración de su amigo Manny Rivera inicia una fulgurante carrera delictiva, como traficante de cocaína, con el objetivo de acceder a la cúpula de una organización de narcos.",
-      "inicio": "2026-09-24T10:23:00",
-      "fin": "2026-09-24T11:09:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Spawn",
-      "descripcion": "Un mercenario llamado Al Simmons es traicionado y asesinado por su diabólico jefe. Cuando baja a los infiernos hace un pacto con el diablo para volver a la tierra bajo la figura de Spawn, y así poder volver a ver a su mujer.",
-      "inicio": "2026-09-24T11:09:00",
-      "fin": "2026-09-24T12:09:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Caracortada",
-      "descripcion": "Tony Montana es un emigrante cubano frío e implacable que se instala en Miami con el propósito de convertirse en un gángster importante, y poder así ganar dinero y posición. Con la colaboración de su amigo Manny Rivera inicia una fulgurante carrera delictiva, como traficante de cocaína, con el objetivo de acceder a la cúpula de una organización de narcos.",
-      "inicio": "2026-09-24T12:09:00",
-      "fin": "2026-09-24T12:46:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bus Stop",
-      "descripcion": "Un inocente vaquero que participa en rodeos se enamora de una cantante que sólo piensa en triunfar en Hollywood. Él, por el contrario, sueña con fundar una familia y retirarse a su rancho a criar ganado.",
-      "inicio": "2026-09-24T12:46:00",
-      "fin": "2026-09-24T13:13:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Space Jam, el juego del siglo",
-      "descripcion": "Bugs Bunny y su equipo desafían a los Nerdlucks (un grupo de pequeños extraterrestres) a un partido de baloncesto para decidir si los Looney Tunes permanecen en la Tierra o se trasladan a una lejana galaxia para trabajar en un parque de atracciones de Montaña Tontolandia. Los Nerdlucks cuentan con una poderosa arma secreta que los hace superiores: se han apoderado de las mejores cualidades de las estrellas de la NBA. Pero también los Looney poseen un arma secreta: ¡Michael Jordan!",
-      "inicio": "2026-09-24T13:13:00",
-      "fin": "2026-09-24T14:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Superman III",
-      "descripcion": "Superman se tiene que enfrentar con una máquina creada por un genio de los ordenadores llamado Gus Gorman, contra un magnate megalómano que pretende transformar la Tierra y lo que es mucho peor contra un desdoblamiento de personalidad. Pero también habrá tiempo para que Clark Kent vuelva a Smallville, donde se encontrará con Lana Lang, su novia de la adolescencia.",
-      "inicio": "2026-09-24T14:20:00",
-      "fin": "2026-09-24T14:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Corazón valiente",
-      "descripcion": "Ángela Valdez (Adriana Fonseca) y Samanta Sandoval (Ximena Duque) son dos amigas que llevan una vida apacible hasta que un día secuestran a Samanta. Casi veinte años después, las amigas vuelven a verse. Samanta es guardespaldas y le propone a Ángela que trabaje con ella. A Ángela le encargan la tarea de cuidar a la hija del multimillonario Juan Marcos Arroyo (José Luis Reséndez). Muy pronto se da cuenta de que Juan Marcos no es feliz: por una parte, porque su esposa (Sonya Smith) es una mujer soberbia y malvada que le es infiel con su guardespaldas y, por otra, porque su hermana tiene problemas bipolares. Samanta, por su parte, debe proteger a Guillermo del Castillo (Fabián Ríos), que resulta ser el primer amor de la infancia de Ángela, pero que ahora es un hombre mujeriego. Ella se enamora de Juan Marcos, lo que desata la ira de mucha gente, especialmente la de Fernanda del Castillo (Aylin Mujica), que siempre ha estado obsesionada con Juan Marcos",
-      "inicio": "2026-09-24T14:40:00",
-      "fin": "2026-09-24T16:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/corazonvaliente.jpg"
-    },
-    {
-      "titulo": "Las Tortugas Ninja III",
-      "descripcion": "Cuando un cetro mágico transporta por accidente a April al Japón del siglo XVII, los chicos se lanzan en su busca y aparecen, a través de la alcantarilla, ¡en la tierra de los samuráis! Ahora deben enfrentarse a Nortaga, el malvado Señor de la guerra, y recuperar el cetro que los transportará de vuelta a lo más profundo del metro de Nueva York.",
-      "inicio": "2026-09-24T16:25:00",
-      "fin": "2026-09-24T17:38:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lastortugasninjaiii.jpg"
-    },
-    {
-      "titulo": "xXx 2: Estado de Emergencia",
-      "descripcion": "Augustus Gibbons es un miembro de la Agencia de Seguridad Nacional norteamericana. Tras librarse de un ataque mortal protagonizado por unos desconocidos, Gibbons sospecha que los asesinos han sido enviados por una facción secreta y radical que actúa desde dentro de la Casa Blanca. Busca entonces a un militar experto y bien entrenado que le ayude a desenmascarar al grupo radical que se esconde tras el Gobierno. Desgraciadamente, Darius Stone, el hombre más idóneo para este trabajo, está en prisión. Sin embargo, Gibbons le ayuda a fugarse y lo convence para que colabore con él como el agente xXx.",
-      "inicio": "2026-09-24T17:38:00",
-      "fin": "2026-09-24T17:57:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/xxx2estadodeemergencia.jpg"
-    },
-    {
-      "titulo": "Superman III",
-      "descripcion": "Superman tiene que enfrentarse con una máquina creada por un genio de las computadoras llamado Gus Gorman, con un magnate megalómano que pretende transformar la Tierra y lo que es peor con un desdoblamiento de personalidad. Pero también habrá tiempo para que Clark Kent vuelva a Smallville para encontrarse con Lana Lang, su novia de la adolescencia.",
-      "inicio": "2026-09-24T17:57:00",
-      "fin": "2026-09-24T18:01:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Maniquí",
-      "descripcion": "Jonathan Switcher es un joven artista en busca de su vocación. Un día ve un maniquí en el escaparate de un centro comercial que había creado antes en uno de sus trabajos y, tras conseguir empleo en esa tienda, descubre que en realidad es una mujer del antiguo Egipto que ha cobrado vida. Su belleza, amor e imaginación hacen que se convierta para él en motivo de inspiración para el diseño de los escaparates del negocio. Ante su éxito, unos rivales del gremio pretenderán acabar con él con malas artes.",
-      "inicio": "2026-09-24T18:01:00",
-      "fin": "2026-09-24T19:19:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Volver al Futuro 3",
-      "descripcion": "Marty McFly sigue en 1955 y su amigo Doc ha retrocedido al año 1885, la época del salvaje oeste. Éste le envía una carta donde comenta que la máquina del tiempo está averiada, y que es imposible repararla. Sin embargo no le preocupa estar atrapado en el pasado, pues allí es muy feliz trabajando de herrero aunque convive con malhechores. Pero Marty descubre una vieja tumba en la que lee que Doc murió en 1885 y, sin pensárselo dos veces, irá a rescatar a su amigo.",
-      "inicio": "2026-09-24T19:19:00",
-      "fin": "2026-09-24T19:31:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un gran amor",
-      "descripcion": "Lloyd Dobler, un eterno optimista, busca conseguir el corazón de Diane Court, una inalcanzable belleza del instituto, además de una intachable estudiante. Todo el mundo se sorprende, incluido Lloyd, cuando ella demuestra que el sentimiento es recíproco. Pero el posesivo padre divorciado de Diane no aprueba esa relación, y hará falta algo más que el poder del amor para que consigan seguir juntos.",
-      "inicio": "2026-09-24T19:31:00",
-      "fin": "2026-09-24T20:02:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Las Tortugas Ninja II: El Secreto del Ooze",
-      "descripcion": "Con el último bote del Oozze, Shredder quiere crear un ejército de nuevos mutantes. Así que Las Tortugas y Shredder deben luchar una vez más, junto con la periodista Abril y el joven repartidor de pizzas, Keno.",
-      "inicio": "2026-09-24T20:02:00",
-      "fin": "2026-09-24T21:12:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Halcones de la noche",
-      "descripcion": "Deke DaSilva y Matthew Fox son dos agentes de la policía de Nueva York que han sido transferidos a un cuerpo de élite antiterrorista. Un infame terrorista internacional, Reinhardt Heymar \"Wulfgar\", que ha cometido atentados indiscriminados en Londres y París, llega a la ciudad con un nuevo aspecto para causar el caos en la Gran Manzana.",
-      "inicio": "2026-09-24T21:12:00",
-      "fin": "2026-09-24T21:17:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/halconesdelanoche.jpg"
-    },
-    {
-      "titulo": "Psicópata Americano",
-      "descripcion": "En un mundo moralmente plano en el que la ropa tiene más sentido que la piel, Patrick Bateman es un espécimen soberbiamente elaborado que cumple todos los requisitos de Master del Universo, desde el diseño de su vestuario hasta el de sus productos químicos. Es prácticamente perfecto, como casi todos en su mundo e intenta desesperadamente encajar en él. Cuando más intenta ser como cualquier otro hombre adinerado de Wall Street, más anónimo se vuelve y menos control tiene sobre sus terribles instintos y su insaciable sed de sangre, que lo arrastra a una vorágine en la que los objetos valen más que el cuerpo y el alma de una persona.",
-      "inicio": "2026-09-24T21:17:00",
-      "fin": "2026-09-24T21:31:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Realmente amor",
-      "descripcion": "Sigue la vida de ocho parejas muy diferentes en su vida amorosa en varios cuentos vagamente interrelacionados, todos ambientados durante un mes frenético antes de la Navidad en Londres, Inglaterra.",
-      "inicio": "2026-09-24T21:31:00",
-      "fin": "2026-09-24T22:47:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Shaolin Soccer",
-      "descripcion": "Un joven seguidor de Shaolin reúne a sus hermanos para formar un equipo de fútbol usando sus habilidades en artes marciales a su favor.",
-      "inicio": "2026-09-24T22:47:00",
-      "fin": "2026-09-24T22:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/shaolinsoccer.jpg"
-    },
-    {
-      "titulo": "Papás por Siempre",
-      "descripcion": "El cariñoso pero irresponsable Daniel Hillard, separado de su cónyuge exasperada, es aplastado por una orden judicial que permite visitas para ver a sus hijos sólo ciertos dias de la semana. Cuando Daniel aprende las necesidades de una ama de casa, consigue trabajo - disfrazado de una niñera inglesa - para cuidar a sus propios hijos. Pronto se hace no sólo el  mejor amigo de sus niños sino la clase de padre y pareja que debería haber sido desde el principio.",
-      "inicio": "2026-09-24T22:59:00",
-      "fin": "2026-09-24T23:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/papasporsiempre.jpg"
-    },
-    {
-      "titulo": "Espartaco",
-      "descripcion": "Espartaco era un esclavo tracio que fue vendido como gladiador a Léntulo Batiato. En Italia promovió y dirigió la rebelión de los esclavos (73-71 a.C.) contra la República romana. A medida que recorrían el país, innumerables esclavos se iban sumando a la rebelión. Espartaco intentará llegar con su ejército al sur de Italia para poner rumbo a sus hogares.",
-      "inicio": "2026-09-24T23:45:00",
-      "fin": "2026-09-25T01:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espartaco.jpg"
-    },
-    {
-      "titulo": "Mentiroso, mentiroso",
-      "descripcion": "Fletcher Reede es un abogado ambicioso y sin escrúpulos, que utiliza la mentira como un medio habitual de trabajo. Su hijo de cinco años, harto de promesas incumplidas, pide un deseo el día de su cumpleaños, que su padre no pueda mentir durante veinticuatro horas.",
-      "inicio": "2026-09-25T01:05:00",
-      "fin": "2026-09-25T02:31:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tiburon 2",
-      "descripcion": "Han pasado cuatro años desde que aquel gran tiburón blanco aterrorizara al pequeño pueblo costero de Amity. El jefe de policía Brody sigue preocupado, a pesar de que hay en marcha varios proyectos para reavivar el interés turístico de las playas. El alcalde Larry Vaughn da la bienvenida al inversor Len Peterson y su equipo al pueblo. Dos submarinistas exploran la zona donde apareció el peligroso escualo en el pasado, y son devorados por otro enorme tiburón no sin antes obtener uno de ellos una foto del ojo del monstruo. La desaparición de los dos buceadores alerta a Brody, ya que es verano y los turistas llegan por centenares hasta Amity. Mientras tanto, un grupo de adolescentes entre los que se encuentra Mike y Sean, los hijos del policía, hacen una excursión hasta una península cercana...",
-      "inicio": "2026-09-25T02:31:00",
-      "fin": "2026-09-25T03:02:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tiburon2.jpg"
-    },
-    {
-      "titulo": "Vaselina",
-      "descripcion": "El rebelde Danny Zuko y la inocente australiana Sandy mantienen un romance durante las vacaciones, creyendo que no se volverán a ver; sin embargo, para sorpresa de ambos, se reencuentran en la escuela secundaria al empezar el nuevo año escolar.",
-      "inicio": "2026-09-25T03:02:00",
-      "fin": "2026-09-25T04:27:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Carrie: un extraño presentimiento",
-      "descripcion": "Carrie White, una tímida adolescente que vive con su madre, una fanática religiosa, es objeto de las burlas constantes de sus compañeros de instituto. Cuando, en las duchas del gimnasio, la chica sufre un ataque de histeria al tener su primera menstruación, a una de sus compañeras se le ocurre gastarle una broma macabra durante la fiesta de graduación. Lo que todos ignoran es que Carrie posee poderes telequinésicos. Adaptación de la novela homónima de Stephen King.",
-      "inicio": "2026-09-25T04:27:00",
-      "fin": "2026-09-25T04:33:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Shaolin Soccer",
-      "descripcion": "Un joven seguidor de Shaolin reúne a sus hermanos para formar un equipo de fútbol usando sus habilidades en artes marciales a su favor.",
-      "inicio": "2026-09-25T04:33:00",
-      "fin": "2026-09-25T06:06:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/shaolinsoccer.jpg"
-    },
-    {
-      "titulo": "La laguna azul",
-      "descripcion": "Durante la época victoriana, dos jóvenes niños, Emmeline y Richard Lestrange son pasajeros de un velero que hace la ruta del cabo de Hornos con el padre de Richard, ya que los padres de Emmeline están muertos, y actúa como su tío. Un incendio provoca la destrucción de la nave, y el ayudante de cocina, Paddy, lleva a los niños en un bote salvavidas con él, pero ésto hace que los separen de los demás supervivientes, y los dejan a la deriva. Después de días sin rumbo fijo, llegan a una exuberante isla tropical.",
-      "inicio": "2026-09-25T06:06:00",
-      "fin": "2026-09-25T06:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Terminator 2: El juicio final",
-      "descripcion": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah.",
-      "inicio": "2026-09-25T06:25:00",
-      "fin": "2026-09-25T07:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/terminator2eljuiciofinal.jpg"
-    },
-    {
-      "titulo": "La máscara",
-      "descripcion": "Cuando el tímido empleado bancario, Stanley Ipkiss, descubre una máscara mágica que contiene el espíritu del dios nórdico Loki, su vida cambia por completo.",
-      "inicio": "2026-09-25T07:50:00",
-      "fin": "2026-09-25T08:42:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamascara.jpg"
-    },
-    {
-      "titulo": "Kung Pow: El maestro de la kung fusión",
-      "descripcion": "Un joven llamado \"El Elegido\" pretende vengar la muerte de sus padres, quienes fueron asesinados por una leyenda del Kung Fu llamado el Maestro Dolor.",
-      "inicio": "2026-09-25T08:42:00",
-      "fin": "2026-09-25T09:31:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Una Mente Brillante",
       "descripcion": "En la Universidad de Princeton, John Nash se esfuerza por hacer una valiosa contribución y así dejar un legado al mundo de las matemáticas.  Después de la escuela de postgrado se enfoca en la enseñanza, lo que lo lleva a una relación romántica con su estudiante Alicia. Mientras tanto, el gobierno pide su ayuda para romper los códigos soviéticos, lo que pronto lo involucra en una conspiración aterradora. Ahora sólo con la ayuda de Alicia podrá recuperar su fuerza mental y recuperar su estatus como el gran matemático que hoy conocemos.",
       "inicio": "2026-09-25T09:31:00",
       "fin": "2026-09-25T10:04:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La masacre de Texas",
+      "descripcion": "Durante un viaje de Texas a México, un grupo de jóvenes recoge a una autoestopista ensangrentada que asegura que es la única superviviente de una masacre ocurrida la noche anterior en una casa cercana. Remake del clásico homónimo de Tobe Hooper (1974)",
+      "inicio": "2026-09-25T10:04:00",
+      "fin": "2026-09-25T11:27:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Star Wars: Episodio I - La amenaza fantasma",
+      "descripcion": "Ambientada treinta años antes, muestra la infancia de Darth Vader, el pasado de Obi-Wan Kenobi y el resurgimiento de los Sith, los caballeros Jedi dominados por el Lado Oscuro. La Federación de Comercio ha bloqueado el pequeño planeta de Naboo, gobernado por la joven Reina Amidala; se trata de un plan ideado por Sith Darth Sidious, que, manteniéndose en el anonimato, dirige a los neimoidianos, que están al mando de la Federación. El Jedi Qui-Gon Jinn y su aprendiz Obi-Wan Kenobi convencen a Amidala para que vaya a Coruscant, la capital de la República y sede del Consejo Jedi, y trate de neutralizar esta amenaza. Pero, al intentar esquivar el bloqueo, la nave real resulta averiada, viéndose así obligada la tripulación a aterrizar en el desértico y remoto planeta de Tatooine...",
+      "inicio": "2026-09-25T11:27:00",
+      "fin": "2026-09-25T11:47:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las Tortugas Ninja III: Viaje al pasado",
+      "descripcion": "Cuando un centro mágico transporta por accidente a Abril al Japón del siglo XVII, los chicos se lanzan en su busca y aparecen, a través de la alcantarilla, en la tierra de los samuráis. Ahora deben enfrentarse a Nortaga, el malvado Señor de la guerra, y recuperar el cetro que los transportará de vuelta a lo más profundo del metro de Nueva York.",
+      "inicio": "2026-09-25T11:47:00",
+      "fin": "2026-09-25T13:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Truman Show: Historia de una Vida",
+      "descripcion": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo.",
+      "inicio": "2026-09-25T13:23:00",
+      "fin": "2026-09-25T13:43:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Límite vertical",
+      "descripcion": "Peter Garret es un joven fotógrafo deportivo que vive atormentado por el recuerdo de su padre, que sacrificó su vida durante una escalada para salvarlo a él y a su hermana Annie. Con los años, Annie se ha convertido en una experta escaladora que forma parte de un equipo de ascensión al K-2. Sin embargo, cuando un error en la previsión meteorológica provoca un grave accidente en el que se ve implicada, Peter decide arriesgar su vida junto a otros voluntarios para rescatarla.",
+      "inicio": "2026-09-25T13:43:00",
+      "fin": "2026-09-25T15:06:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/limitevertical.jpg"
+    },
+    {
+      "titulo": "8 Mile: Calle de ilusiones",
+      "descripcion": "La gente de Detroit conoce al limite de la Ciudad como 8 Mile. Pero este límite no solamente es físico sino que es una barrera psicologica que separa a Jimmy Smith de lo que el quiere llegar a ser. 8 Mile Calle de las Ilusiones es una provocativa refleión de lo que implica una semana para la vida de Jimmy. Esta película es estelarizada por el multi-premiado artista EMINEM en su primer papel protagónico jacompañado por Kim Basinger como su madre.",
+      "inicio": "2026-09-25T15:06:00",
+      "fin": "2026-09-25T15:48:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rambo III",
+      "descripcion": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas.",
+      "inicio": "2026-09-25T15:48:00",
+      "fin": "2026-09-25T16:56:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ramboiii.jpg"
+    },
+    {
+      "titulo": "Mi pobre angelito 2: Perdido en Nueva York",
+      "descripcion": "En plenas fiestas navideñas, el pequeño Kevin y su familia están a punto de coger un avión para disfrutar de unas pequeñas vacaciones, pero Kevin se equivoca y embarca en un avión que lo lleva a Nueva York, donde vuelve a encontrarse solo y desprotegido.",
+      "inicio": "2026-09-25T16:56:00",
+      "fin": "2026-09-25T17:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "8 Mile: Calle de ilusiones",
+      "descripcion": "La gente de Detroit conoce al limite de la Ciudad como 8 Mile. Pero este límite no solamente es físico sino que es una barrera psicologica que separa a Jimmy Smith de lo que el quiere llegar a ser. 8 Mile Calle de las Ilusiones es una provocativa refleión de lo que implica una semana para la vida de Jimmy. Esta película es estelarizada por el multi-premiado artista EMINEM en su primer papel protagónico jacompañado por Kim Basinger como su madre.",
+      "inicio": "2026-09-25T17:29:00",
+      "fin": "2026-09-25T18:56:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cobra, el brazo fuerte de la ley",
+      "descripcion": "Cuando el crimen se extiende como una plaga, el teniente de policía Marion Cobretti \"Cobra\" es el único remedio para combatirlo. La misión de Cobra consiste, por una parte, en detener a los seguidores de una secta de asesinos y, por otra en proteger a Ingrid, la testigo de un asesinato cometido por la banda. Con lo que no cuenta es con la existencia de un \"topo\" en el departamento de policía, que se encargará de informar del escondite de la chica.",
+      "inicio": "2026-09-25T18:56:00",
+      "fin": "2026-09-25T19:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cobraelbrazofuertedelaley.jpg"
+    },
+    {
+      "titulo": "18 otra vez",
+      "descripcion": "Todo comienza cuando el joven David asiste al cumpleaños de su abuelo que cumple 81 años. Cuando éste apaga las velas pide un deseo: volver a tener 18 años. Después de la fiesta sale con su nieto a dar un paseo, pero al perder el control del auto sufren un serio accidente, en el cual el abuelo Jack queda en coma y David sólo con algunos rasguños leves. Al recobrar plenamente el conocimiento se da cuenta que está en el cuerpo equivocado y que el destino le ha concedido sólo por algunos días su gran deseo.",
+      "inicio": "2026-09-25T19:20:00",
+      "fin": "2026-09-25T20:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Karate Kid II: La historia continúa",
+      "descripcion": "Daniel y el señor Miyagi viajan a Okinawa, a la pequeña aldea en la que el anciano nació y de la que tuvo que marcharse por un asunto de honor. Su padre está gravemente enfermo y quiere verlo, pero también le espera su antiguo amor de juventud. La llegada del señor MIyagi reabre unas heridas que el tiempo y la distancia parecían haber borrado.",
+      "inicio": "2026-09-25T20:23:00",
+      "fin": "2026-09-25T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/karatekidiilahistoriacontinua.jpg"
+    },
+    {
+      "titulo": "Los locos Addams II",
+      "descripcion": "La familia Addams intenta rescatar a su querido tío Lucas de su nuevo amor, una viuda negra llamada Debbie.",
+      "inicio": "2026-09-25T21:00:00",
+      "fin": "2026-09-25T22:16:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El protegido",
+      "descripcion": "Un hombre aprende algo extraordinario sobre sí mismo tras un devastador accidente.",
+      "inicio": "2026-09-25T22:16:00",
+      "fin": "2026-09-25T22:34:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elprotegido.jpg"
+    },
+    {
+      "titulo": "Cobra, el brazo fuerte de la ley",
+      "descripcion": "Cuando el crimen se extiende como una plaga, el teniente de policía Marion Cobretti \"Cobra\" es el único remedio para combatirlo. La misión de Cobra consiste, por una parte, en detener a los seguidores de una secta de asesinos y, por otra en proteger a Ingrid, la testigo de un asesinato cometido por la banda. Con lo que no cuenta es con la existencia de un \"topo\" en el departamento de policía, que se encargará de informar del escondite de la chica.",
+      "inicio": "2026-09-25T22:34:00",
+      "fin": "2026-09-26T00:03:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cobraelbrazofuertedelaley.jpg"
+    },
+    {
+      "titulo": "Los locos Addams",
+      "descripcion": "El delirante y gótico estilo de vida de la peculiar familia Addams se ve amenazado peligrosamente cuando el codicioso dúo que forman madre e hijo, con la ayuda de un abogado sin ningún escrúpulos, conspiran para hacerse con la fortuna familiar.",
+      "inicio": "2026-09-26T00:03:00",
+      "fin": "2026-09-26T01:43:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tienes Un E-Mail",
+      "descripcion": "Kathleen Kelly es la propietaria de una librería infantil, un verdadero tesoro cultural de uno de los barrios más esclusivos de Nueva York, y pasa largas noches aburridas junto a su novio Frank , un escritor frustrado que escribe columnas en el periódico. Lo único que apasiona a Kathleen es intercambiar mensajes de correo electrónico con un hombre del que sólo conoce su seudónimo.",
+      "inicio": "2026-09-26T01:43:00",
+      "fin": "2026-09-26T03:42:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tienesunemail.jpg"
+    },
+    {
+      "titulo": "Infidelidad",
+      "descripcion": "El matrimonio de Edward (Richard Gere) y Connie Sumner (Diane Lane) parece ir bien: tienen un hijo, dinero, posición y una bonita casa en un barrio residencial de las afueras de Nueva York. Pero un día, en Manhattan, Connie conoce a Paul (Olivier Martinez), un joven y atractivo coleccionista de libros de origen francés, con el que comienza una apasionada relación extramatrimonial.",
+      "inicio": "2026-09-26T03:42:00",
+      "fin": "2026-09-26T05:46:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Shaolin Soccer",
+      "descripcion": "Un joven seguidor de Shaolin reúne a sus hermanos para formar un equipo de fútbol usando sus habilidades en artes marciales a su favor.",
+      "inicio": "2026-09-26T05:46:00",
+      "fin": "2026-09-26T07:38:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/shaolinsoccer.jpg"
+    },
+    {
+      "titulo": "Danza con Lobos",
+      "descripcion": "El teniente John Dunbar, un soldado de la Unión durante la Guerra Civil, se encuentra solo en un puesto fronterizo y desarrolla una relación con una tribu de nativos americanos. La película explora su conexión con la naturaleza y la cultura nativa, mientras enfrenta conflictos entre su lealtad y su creciente simpatía por los indígenas. Danza con lobos\" recibió elogios de la crítica y ganó siete premios Oscar, incluido el de Mejor Película.",
+      "inicio": "2026-09-26T07:38:00",
+      "fin": "2026-09-26T10:39:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
