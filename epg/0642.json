@@ -1,192 +1,171 @@
 {
   "actual": {
-    "titulo": "Vecinos • Amigos",
-    "descripcion": "Amigos | Luis cerrará una venta con un cliente, pero una manifestación se atraviesa y él decide irse en bicicleta, ¿llegará a tiempo? Germán presenta a sus 3 amigos en el edificio.",
-    "inicio": "2026-09-25T09:30:00",
-    "fin": "2026-09-25T10:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vecinos.jpg"
+    "titulo": "La Dr. Polo vida sin límites",
+    "descripcion": "Ana María Polo revela su secreto para vivir sin límites. Acompáñala junto al Dr. Ramos mientras exploran la ciencia detrás del alivio natural. Además, comparten historias inspiradoras de personas reales que recuperan sus vidas.",
+    "inicio": "2026-09-26T09:30:00",
+    "fin": "2026-09-26T10:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "El chapulín colorado • La despedida",
-    "descripcion": "La despedida | Recuerdos de algunos de los momentos heroicos del Capulín.",
-    "inicio": "2026-09-25T10:00:00",
-    "fin": "2026-09-25T10:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchapulincolorado.jpg"
+    "titulo": "Programa pagado",
+    "descripcion": "Programa que muestra diversos productos para la venta.",
+    "inicio": "2026-09-26T10:00:00",
+    "fin": "2026-09-26T10:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Vecinos • Amigos",
-      "descripcion": "Amigos | Luis cerrará una venta con un cliente, pero una manifestación se atraviesa y él decide irse en bicicleta, ¿llegará a tiempo? Germán presenta a sus 3 amigos en el edificio.",
-      "inicio": "2026-09-25T09:30:00",
-      "fin": "2026-09-25T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vecinos.jpg"
-    },
-    {
-      "titulo": "El chapulín colorado • La despedida",
-      "descripcion": "La despedida | Recuerdos de algunos de los momentos heroicos del Capulín.",
-      "inicio": "2026-09-25T10:00:00",
-      "fin": "2026-09-25T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchapulincolorado.jpg"
-    },
-    {
-      "titulo": "El chapulín colorado • El huerfanito de la lotería",
-      "descripcion": "El huerfanito de la lotería | A Chespirito lo mandan por un huérfanito de lotería y creará una confusión entre su patrón y la novia.",
-      "inicio": "2026-09-25T10:30:00",
-      "fin": "2026-09-25T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchapulincolorado.jpg"
-    },
-    {
-      "titulo": "El Chavo del 8 • La venta de churros",
-      "descripcion": "La venta de churros | Doña Florinda hace unos churros exquisitos y decide venderlos con la ayuda de don Ramón.",
-      "inicio": "2026-09-25T11:00:00",
-      "fin": "2026-09-25T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
-    },
-    {
-      "titulo": "Gotita de Amor",
-      "descripcion": "Isabel \"Chabelita\" es abandonada en la puerta de un orfanato a los pocos días de nacer. Ahí va creciendo entre las bromas de las demás niñas y los maltratos de la dura directora llamada \"Justa\". Un día sus compañeras le muestran una falsa acta de nacimiento donde dice que su padre se llama Jesús García, que esta vivo y reside en ciudad de México por lo que ella con la ilusión de tener una familia se escapa del orfanato rumbo a la ciudad de México a buscar a su supuesto padre.",
-      "inicio": "2026-09-25T12:00:00",
-      "fin": "2026-09-25T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/gotitadeamor.jpg"
-    },
-    {
-      "titulo": "La Dueña • Burla",
-      "descripcion": "Burla | José María viaja a la ciudad para vender su casa y arreglar la hacienda.",
-      "inicio": "2026-09-25T14:00:00",
-      "fin": "2026-09-25T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laduena.jpg"
-    },
-    {
-      "titulo": "La Mentira • Culpa irrefutable",
-      "descripcion": "Culpa irrefutable | Tras saber la verdad, Sara no se perdona el haber apoyado a Virginia en perjuicio de Juan. Juan no da crédito a la maldad de Virginia. Demetrio enfrenta a Virginia. Pepe es hospitalizado, luego de ser hallado por sus padres en mal estado.",
-      "inicio": "2026-09-25T15:00:00",
-      "fin": "2026-09-25T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamentira.jpg"
-    },
-    {
-      "titulo": "Qué bonito amor",
-      "descripcion": "Santos Martínez de la Garza y Treviño es un joven guapo a quien la fortuna le ha sonreído siempre. Nació en Monterrey y desde los cinco años vive en EE. UU. Es dueño de una agencia automotriz, donde conoce a María, con quien tiene un romance.",
-      "inicio": "2026-09-25T16:00:00",
-      "fin": "2026-09-25T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/quebonitoamor.jpg"
-    },
-    {
-      "titulo": "La herencia • La vida de Modesto corre peligro",
-      "descripcion": "La vida de Modesto corre peligro | Modesto se debate entre la vida y la muerte tras el disparo. Pedro y Juan se confiesan.",
-      "inicio": "2026-09-25T17:00:00",
-      "fin": "2026-09-25T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Nuevo rico, nuevo pobre",
-      "descripcion": "La historia comienza 30 años antes cuando, en un hospital de un pueblo llamado San Francisco, dan a luz dos mujeres de distintas familias. Por error, una enfermera llamada Lucero Molina, quien se presenta a trabajar en estado de embriaguez, intercambia a los recién nacidos de ambas parejas. La familia Ferreira se lleva a Andrés Ferreira Mancera, mientras que la familia Galindo se lleva a Brayan Galindo Romero.",
-      "inicio": "2026-09-25T18:00:00",
-      "fin": "2026-09-25T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nuevoriconuevopobre.jpg"
-    },
-    {
-      "titulo": "Como dice el dicho • Con amigos así, ¿quién necesita enemigos?",
-      "descripcion": "Con amigos así, ¿quién necesita enemigos? | Nuria es una adolescente que tiene relaciones sexuales con su profesor Mauricio. Sin embargo, todo dará un giro drástico cuando se divulgue un video de ella en internet.",
-      "inicio": "2026-09-25T19:00:00",
-      "fin": "2026-09-25T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comodiceeldicho.jpg"
-    },
-    {
-      "titulo": "Lo tomas o lo dejas • Un gran sueño",
-      "descripcion": "Un gran sueño | Hugo es seleccionado para participar por los cien mil dólares y con el cariño de sus compañeros comienza el juego.",
-      "inicio": "2026-09-25T20:00:00",
-      "fin": "2026-09-25T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sinister",
-      "descripcion": "Ellison Oswald es un escritor de crímenes reales que está en una mala racha: no ha tenido éxito en más de diez años y está desesperado. Cuando descubre una película en la que se muestran las muertes de una familia, se propone resolver el misterio. Tras mudarse con su familia a la casa de las víctimas, se pone a trabajar. Sin embargo, cuando unas imágenes antiguas y otras pistas apuntan a una presencia sobrenatural, Ellison descubre que vivir en esa casa podría poner en peligro a los suyos.",
-      "inicio": "2026-09-25T21:00:00",
-      "fin": "2026-09-25T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Desafío: The Box",
-      "descripcion": "En esta ocasión, nuevamente se cuenta con Andrea Serna como presentadora principal y con la ex-Señorita Colombia Daniella Álvarez en el rol de anfitriona especial, ambas llegando a su segunda participación como conductoras en este reality. Como dato adicional, un hombre y una mujer se alzarán con la victoria y los premios a otorgar corresponderán a una suma de COL$ 800 000 000.",
-      "inicio": "2026-09-25T23:00:00",
-      "fin": "2026-09-26T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/desafiothebox.jpg"
-    },
-    {
-      "titulo": "Fútbol Mexicano Primera División • Tijuana vs. Atlas",
-      "descripcion": "Tijuana vs. Atlas | Acción de la jornada 10 del Torneo Apertura 2026. Xolos busca mantenerse en liguilla y Atlas romper su racha de cuatro partidos sin ganar.",
-      "inicio": "2026-09-26T00:00:00",
-      "fin": "2026-09-26T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El chapulín colorado • La despedida",
-      "descripcion": "La despedida | Recuerdos de algunos de los momentos heroicos del Capulín.",
-      "inicio": "2026-09-26T02:00:00",
-      "fin": "2026-09-26T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchapulincolorado.jpg"
-    },
-    {
-      "titulo": "El chapulín colorado • El huerfanito de la lotería",
-      "descripcion": "El huerfanito de la lotería | A Chespirito lo mandan por un huérfanito de lotería y creará una confusión entre su patrón y la novia.",
-      "inicio": "2026-09-26T02:30:00",
-      "fin": "2026-09-26T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchapulincolorado.jpg"
-    },
-    {
-      "titulo": "La herencia • Mujer embarazada",
-      "descripcion": "Mujer embarazada | Juan le cuenta a Sara que tendrá un hijo con Julieta. Lucas conoce a su hermano, y juntos buscan a su madre.",
-      "inicio": "2026-09-26T03:00:00",
-      "fin": "2026-09-26T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Muévete sin dolor ¿Rigidez? Solución desde la raíz",
-      "descripcion": "JointGel actúa en el origen de la rigidez, no solo en los síntomas. Ayuda a reconstruir cartílago, fortalecer tejidos y recuperar un movimiento cómodo para seguir activo.",
-      "inicio": "2026-09-26T04:00:00",
-      "fin": "2026-09-26T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Programa pagado",
-      "descripcion": "Programa que muestra diversos productos para la venta.",
-      "inicio": "2026-09-26T04:30:00",
-      "fin": "2026-09-26T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Muévete sin dolor ¿Rigidez? Solución desde la raíz",
-      "descripcion": "JointGel actúa en el origen de la rigidez, no solo en los síntomas. Ayuda a reconstruir cartílago, fortalecer tejidos y recuperar un movimiento cómodo para seguir activo.",
-      "inicio": "2026-09-26T05:00:00",
-      "fin": "2026-09-26T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Programa pagado",
-      "descripcion": "Programa que muestra diversos productos para la venta.",
-      "inicio": "2026-09-26T05:30:00",
-      "fin": "2026-09-26T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Veredicto final",
-      "descripcion": "Un abogado que ha tenido una carrera profesional llena de fracasos contempla la posibilidad de rehabilitarse mediante un fácil caso de éxito. Se trata de un juicio promovido por la familia de una mujer que ha sido sometida a una intervención quirúrgica sin aparente peligro en un famoso hospital. El resultado de la operación ha sido que ella está clínicamente muerta.  De cualquier forma, el caso no es tan fácil como en un principio parece, ya que la clínica ha contratado a los abogados de mayor prestigio dentro del ámbito judicial.",
-      "inicio": "2026-09-26T06:00:00",
-      "fin": "2026-09-26T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/veredictofinal.jpg"
-    },
-    {
-      "titulo": "Programa pagado",
-      "descripcion": "Programa que muestra diversos productos para la venta.",
-      "inicio": "2026-09-26T07:00:00",
-      "fin": "2026-09-26T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "La Dr. Polo vida sin límites",
       "descripcion": "Ana María Polo revela su secreto para vivir sin límites. Acompáñala junto al Dr. Ramos mientras exploran la ciencia detrás del alivio natural. Además, comparten historias inspiradoras de personas reales que recuperan sus vidas.",
       "inicio": "2026-09-26T09:30:00",
       "fin": "2026-09-26T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-09-26T10:00:00",
+      "fin": "2026-09-26T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La Dr. Polo vida sin límites",
+      "descripcion": "Ana María Polo revela su secreto para vivir sin límites. Acompáñala junto al Dr. Ramos mientras exploran la ciencia detrás del alivio natural. Además, comparten historias inspiradoras de personas reales que recuperan sus vidas.",
+      "inicio": "2026-09-26T10:30:00",
+      "fin": "2026-09-26T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Chavo del 8 • Pintando la vecindad",
+      "descripcion": "Pintando la vecindad | Don Ramón y los demás vecinos intentan pintar la vecindad para que quede más bonita.",
+      "inicio": "2026-09-26T11:00:00",
+      "fin": "2026-09-26T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
+    },
+    {
+      "titulo": "El chapulín colorado • El disfraz, el antifaz y algo más",
+      "descripcion": "El disfraz, el antifaz y algo más | Unos contrabandistas se enteran de que habrá una fiesta de disfraces en una casa y planean robar unas joyas. Un detective le informa a la anfitriona lo que planean hacer y esta invoca al Chapulín, quien hace un plan para capturar a los maleantes.",
+      "inicio": "2026-09-26T12:00:00",
+      "fin": "2026-09-26T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchapulincolorado.jpg"
+    },
+    {
+      "titulo": "Como dice el dicho • Al hombre osado la fortuna le da la mano",
+      "descripcion": "Al hombre osado la fortuna le da la mano | Amalia, Sebastián y Hernán son tres adolescentes que viven en hogares violentos y han aprendido que la violencia es algo cotidiano.",
+      "inicio": "2026-09-26T13:00:00",
+      "fin": "2026-09-26T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comodiceeldicho.jpg"
+    },
+    {
+      "titulo": "Shark Night 3D",
+      "descripcion": "Un grupo de estudiantes universitarios pasan un excitante fin de semana en un lago de agua salada de Luisiana. Sin embargo, la excursión se convierte en una sangrienta pesadilla cuando voraces tiburones los sorprenden.",
+      "inicio": "2026-09-26T14:00:00",
+      "fin": "2026-09-26T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "MLB esta semana",
+      "descripcion": "Resumen semanal de los partidos de la semana en la MLB.",
+      "inicio": "2026-09-26T16:00:00",
+      "fin": "2026-09-26T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Como dice el dicho • La novedad es flor de un día, hoy ya no luce lo que ayer lucía",
+      "descripcion": "La novedad es flor de un día, hoy ya no luce lo que ayer lucía | Los celos de José Luis lo están alejando de Marieta y si no hace algo por cambiar, podría perderla para siempre.",
+      "inicio": "2026-09-26T17:00:00",
+      "fin": "2026-09-26T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comodiceeldicho.jpg"
+    },
+    {
+      "titulo": "The Order",
+      "descripcion": "Un luchador une sus esfuerzos a un policía israelí para rescatar a su padre, que ha sido secuestrado.",
+      "inicio": "2026-09-26T18:00:00",
+      "fin": "2026-09-26T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fool's Gold",
+      "descripcion": "Un matrimonio que busca tesoros va tras las pistas de un botín perdido e intentan, así, salvar su matrimonio.",
+      "inicio": "2026-09-26T20:00:00",
+      "fin": "2026-09-26T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Spy Who Dumped Me",
+      "descripcion": "Audrey y Morgan son dos amigas que se ven involucradas en una aventura llena de peligros cuando el exnovio de Audrey, un espía internacional, irrumpe en sus vidas con un ejército de asesinos pisándole los talones.",
+      "inicio": "2026-09-26T22:00:00",
+      "fin": "2026-09-27T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Mexicano Primera División • Santos Laguna vs. Pachuca",
+      "descripcion": "Santos Laguna vs. Pachuca | Acción de la jornada 10 del Torneo Apertura 2026. Santos busca su tercera victoria al hilo y los Tuzos puestos de liguilla.",
+      "inicio": "2026-09-27T00:00:00",
+      "fin": "2026-09-27T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El chapulín colorado • El besito de las buenas noches",
+      "descripcion": "El besito de las buenas noches | Una mujer se asusta de un ratón y decide llamar al Chapulín Colorado para que la ayude a cazarlo. Sin embargo, él decide contarle la historia de un famoso ratón, Topo Gigio.",
+      "inicio": "2026-09-27T02:30:00",
+      "fin": "2026-09-27T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchapulincolorado.jpg"
+    },
+    {
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-09-27T03:00:00",
+      "fin": "2026-09-27T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Chavo del 8 • Pintando la vecindad",
+      "descripcion": "Pintando la vecindad | Don Ramón y los demás vecinos intentan pintar la vecindad para que quede más bonita.",
+      "inicio": "2026-09-27T04:00:00",
+      "fin": "2026-09-27T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
+    },
+    {
+      "titulo": "La Dr. Polo vida sin límites",
+      "descripcion": "Ana María Polo revela su secreto para vivir sin límites. Acompáñala junto al Dr. Ramos mientras exploran la ciencia detrás del alivio natural. Además, comparten historias inspiradoras de personas reales que recuperan sus vidas.",
+      "inicio": "2026-09-27T05:00:00",
+      "fin": "2026-09-27T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-09-27T05:30:00",
+      "fin": "2026-09-27T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Veredicto final",
+      "descripcion": "Un abogado que ha tenido una carrera profesional llena de fracasos contempla la posibilidad de rehabilitarse mediante un fácil caso de éxito. Se trata de un juicio promovido por la familia de una mujer que ha sido sometida a una intervención quirúrgica sin aparente peligro en un famoso hospital. El resultado de la operación ha sido que ella está clínicamente muerta.  De cualquier forma, el caso no es tan fácil como en un principio parece, ya que la clínica ha contratado a los abogados de mayor prestigio dentro del ámbito judicial.",
+      "inicio": "2026-09-27T06:00:00",
+      "fin": "2026-09-27T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/veredictofinal.jpg"
+    },
+    {
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-09-27T07:00:00",
+      "fin": "2026-09-27T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Muévete sin dolor ¿Rigidez? Solución desde la raíz",
+      "descripcion": "JointGel actúa en el origen de la rigidez, no solo en los síntomas. Ayuda a reconstruir cartílago, fortalecer tejidos y recuperar un movimiento cómodo para seguir activo.",
+      "inicio": "2026-09-27T08:30:00",
+      "fin": "2026-09-27T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-09-27T09:00:00",
+      "fin": "2026-09-27T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

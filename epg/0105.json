@@ -1,143 +1,136 @@
 {
   "actual": {
-    "titulo": "Mucho gusto",
-    "descripcion": "Entretención, actualidad, conversación y muchas risas para acompañar tus mañanas con el panel más entretenido de la TV.",
-    "inicio": "2026-09-25T08:00:00",
-    "fin": "2026-09-25T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/muchogusto.jpg"
+    "titulo": "Meganoticias siempre juntos",
+    "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
+    "inicio": "2026-09-26T08:00:00",
+    "fin": "2026-09-26T15:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiassiemprejuntos.jpg"
   },
   "siguiente": {
-    "titulo": "Meganoticias alerta",
+    "titulo": "Meganoticias actualiza",
     "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-    "inicio": "2026-09-25T13:00:00",
-    "fin": "2026-09-25T14:40:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasalerta.jpg"
+    "inicio": "2026-09-26T15:00:00",
+    "fin": "2026-09-26T15:25:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasactualiza.jpg"
   },
   "lista": [
-    {
-      "titulo": "Mucho gusto",
-      "descripcion": "Entretención, actualidad, conversación y muchas risas para acompañar tus mañanas con el panel más entretenido de la TV.",
-      "inicio": "2026-09-25T08:00:00",
-      "fin": "2026-09-25T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/muchogusto.jpg"
-    },
-    {
-      "titulo": "Meganoticias alerta",
-      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-      "inicio": "2026-09-25T13:00:00",
-      "fin": "2026-09-25T14:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasalerta.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-09-25T14:40:00",
-      "fin": "2026-09-25T14:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
-    },
-    {
-      "titulo": "La hora de jugar",
-      "descripcion": "Mucho gusto, en una alianza con Lotería, preparan un programa donde la consigna es pasarlo bien y ganar suculentos premios.",
-      "inicio": "2026-09-25T14:45:00",
-      "fin": "2026-09-25T14:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahoradejugar.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-09-25T14:55:00",
-      "fin": "2026-09-25T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
-    },
-    {
-      "titulo": "La hora de jugar",
-      "descripcion": "Mucho gusto, en una alianza con Lotería, preparan un programa donde la consigna es pasarlo bien y ganar suculentos premios.",
-      "inicio": "2026-09-25T15:00:00",
-      "fin": "2026-09-25T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahoradejugar.jpg"
-    },
-    {
-      "titulo": "Carmen Gloria: Fuerte & claro",
-      "descripcion": "Talk show diario liderado por Carmen Gloria Arroyo, que aborda la actualidad social con historias reales, orientación y soluciones concretas para las personas.",
-      "inicio": "2026-09-25T15:30:00",
-      "fin": "2026-09-25T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/carmengloriafuerteclaro.jpg"
-    },
-    {
-      "titulo": "La Baronesa",
-      "descripcion": "Aurora Valdés visita los casinos clandestinos con una racha ganadora imparable, hasta que el joven Javier Toledo le muestre el alto precio de la derrota.",
-      "inicio": "2026-09-25T16:30:00",
-      "fin": "2026-09-25T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/labaronesa.jpg"
-    },
-    {
-      "titulo": "Dale play",
-      "descripcion": "Dos equipos ponen a prueba su conocimiento musical para acumular dinero y llegar al juego final: una vertiginosa carrera contra el tiempo por un premio millonario. Un programa lleno de canciones, humor y desafíos para jugar y cantar en familia.",
-      "inicio": "2026-09-25T18:00:00",
-      "fin": "2026-09-25T19:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/daleplay.jpg"
-    },
-    {
-      "titulo": "Volvamos A Creer",
-      "descripcion": "Especial Selección de Fútbol Chileno.",
-      "inicio": "2026-09-25T19:45:00",
-      "fin": "2026-09-25T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_fallback.jpg"
-    },
-    {
-      "titulo": "Meganoticias prime",
-      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-      "inicio": "2026-09-25T20:00:00",
-      "fin": "2026-09-25T21:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasprime.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-09-25T21:55:00",
-      "fin": "2026-09-25T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
-    },
-    {
-      "titulo": "Detrás del muro",
-      "descripcion": "Un programa de humor y entretención que, a través de sketches, personajes y situaciones absurdas, pone en escena los temas que interesan a los chilenos.",
-      "inicio": "2026-09-25T22:00:00",
-      "fin": "2026-09-25T22:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/detrasdelmuro.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-09-25T22:05:00",
-      "fin": "2026-09-25T22:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
-    },
-    {
-      "titulo": "Detrás del muro",
-      "descripcion": "Un programa de humor y entretención que, a través de sketches, personajes y situaciones absurdas, pone en escena los temas que interesan a los chilenos.",
-      "inicio": "2026-09-25T22:10:00",
-      "fin": "2026-09-26T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/detrasdelmuro.jpg"
-    },
-    {
-      "titulo": "¿Volverías con tu ex? 2 - Lo mejor",
-      "descripcion": "Lo Mejor de la Semana de Volverías con tu Ex? 2, un resumen con los momentos más impactantes del reality: intensas discusiones, romances, inesperadas reconciliaciones, estrategias de convivencia y las escenas que marcaron la semana dentro de la ...",
-      "inicio": "2026-09-26T00:30:00",
-      "fin": "2026-09-26T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/volveriascontuex2lomejor.jpg"
-    },
-    {
-      "titulo": "Meganoticias ahora",
-      "descripcion": "Noticiero vespertino que aborda la contingencia nacional e internacional con énfasis en breaking news. Incluye política, salud, educación, deportes e internacionales con panelistas especializados.",
-      "inicio": "2026-09-26T03:00:00",
-      "fin": "2026-09-26T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahora.jpg"
-    },
     {
       "titulo": "Meganoticias siempre juntos",
       "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
       "inicio": "2026-09-26T08:00:00",
       "fin": "2026-09-26T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiassiemprejuntos.jpg"
+    },
+    {
+      "titulo": "Meganoticias actualiza",
+      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+      "inicio": "2026-09-26T15:00:00",
+      "fin": "2026-09-26T15:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasactualiza.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Toda la informacion meteorológica del país.",
+      "inicio": "2026-09-26T15:25:00",
+      "fin": "2026-09-26T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
+    },
+    {
+      "titulo": "Acceso a lo nuestro",
+      "descripcion": "Junto a Joaquín Méndez, ingresará en lugares patrimoniales que cargan con el peso de la historia para conocer, de primera mano, los secretos y a distintos personajes.",
+      "inicio": "2026-09-26T15:30:00",
+      "fin": "2026-09-26T16:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/accesoalonuestro.jpg"
+    },
+    {
+      "titulo": "Nuestras fiestas",
+      "descripcion": "Aunque Chile no tiene carnaval, De Paseo por Nuestras Fiestas muestra celebraciones comunitarias que reflejan identidad, tradiciones vivas y la diversidad cultural del país.",
+      "inicio": "2026-09-26T16:35:00",
+      "fin": "2026-09-26T17:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nuestrasfiestas.jpg"
+    },
+    {
+      "titulo": "Meganoticias Avance",
+      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+      "inicio": "2026-09-26T17:40:00",
+      "fin": "2026-09-26T18:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasavance.jpg"
+    },
+    {
+      "titulo": "Partido amistoso",
+      "descripcion": "Partidos de fútbol amistoso entre grandes equipos a nivel internacional.",
+      "inicio": "2026-09-26T18:45:00",
+      "fin": "2026-09-26T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/partidoamistoso.jpg"
+    },
+    {
+      "titulo": "Canadá vs Chile",
+      "descripcion": "Partidos de fútbol amistoso entre grandes equipos a nivel internacional.",
+      "inicio": "2026-09-26T19:45:00",
+      "fin": "2026-09-26T22:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_fallback.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Toda la informacion meteorológica del país.",
+      "inicio": "2026-09-26T22:05:00",
+      "fin": "2026-09-26T22:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_eltiempo.jpg"
+    },
+    {
+      "titulo": "Coliseo: Un humorista para Viña",
+      "descripcion": "Bajo el slogan 'Un humorista para Viña', este espacio se convertirá en la plataforma que definirá a uno de los seis comediantes que se presentarán en el Festival Internacional de la Canción de Viña del Mar 2026. Humoristas de diversas procedencias tendrán la oportunidad única de pisar el escenario más importante de Latinoamérica.",
+      "inicio": "2026-09-26T22:10:00",
+      "fin": "2026-09-27T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/coliseounhumoristaparavina.jpg"
+    },
+    {
+      "titulo": "TravelApp",
+      "descripcion": "Travel App es un programa de televisión que aborda la aventura de viajar desde una perspectiva totalmente distinta, saliendo de la zona de confort y llegando a lugares desconocidos, donde logremos impregnarnos de la cultura y las costumbres de su...",
+      "inicio": "2026-09-27T01:00:00",
+      "fin": "2026-09-27T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0105_fallback.jpg"
+    },
+    {
+      "titulo": "Nuestras fiestas",
+      "descripcion": "Aunque Chile no tiene carnaval, De Paseo por Nuestras Fiestas muestra celebraciones comunitarias que reflejan identidad, tradiciones vivas y la diversidad cultural del país.",
+      "inicio": "2026-09-27T01:30:00",
+      "fin": "2026-09-27T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nuestrasfiestas.jpg"
+    },
+    {
+      "titulo": "Viajando ando",
+      "descripcion": "La presentadora Daniela Urrizola recorre diferentes destinos turísticos de todo el mundo junto a su esposo y camarógrafo. A través del recorrido que propone la conductora, el público descubrirá todo tipo de actividades y sitios que visitar.",
+      "inicio": "2026-09-27T02:30:00",
+      "fin": "2026-09-27T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viajandoando.jpg"
+    },
+    {
+      "titulo": "Meganoticias ahora",
+      "descripcion": "Noticiero vespertino que aborda la contingencia nacional e internacional con énfasis en breaking news. Incluye política, salud, educación, deportes e internacionales con panelistas especializados.",
+      "inicio": "2026-09-27T03:30:00",
+      "fin": "2026-09-27T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiasahora.jpg"
+    },
+    {
+      "titulo": "Meganoticias siempre juntos",
+      "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
+      "inicio": "2026-09-27T08:00:00",
+      "fin": "2026-09-27T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiassiemprejuntos.jpg"
+    },
+    {
+      "titulo": "Copec Rallymobil",
+      "descripcion": "El Copec Rally Mobil es la principal competencia automovilística de rally en Chile.",
+      "inicio": "2026-09-27T09:00:00",
+      "fin": "2026-09-27T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/copecrallymobil.jpg"
+    },
+    {
+      "titulo": "Meganoticias siempre juntos",
+      "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
+      "inicio": "2026-09-27T09:30:00",
+      "fin": "2026-09-27T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meganoticiassiemprejuntos.jpg"
     }
   ]

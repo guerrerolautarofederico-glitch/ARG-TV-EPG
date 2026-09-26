@@ -1,123 +1,130 @@
 {
   "actual": {
-    "titulo": "Tu día",
-    "descripcion": "En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.",
-    "inicio": "2026-09-25T07:50:00",
-    "fin": "2026-09-25T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tudia.jpg"
+    "titulo": "T13 finde",
+    "descripcion": "Álvaro Paci y Chantal Aguilar conversan sobre contingencia, música, panoramas y todos los temas que a la audiencia le importan. Todo ello sin dejar de lado las diversas opiniones en un lenguaje simple y en un estilo más relajado que un noticiero tradicional.",
+    "inicio": "2026-09-26T08:00:00",
+    "fin": "2026-09-26T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13finde.jpg"
   },
   "siguiente": {
     "titulo": "Teletrece tarde",
     "descripcion": "Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.",
-    "inicio": "2026-09-25T13:00:00",
-    "fin": "2026-09-25T15:20:00",
+    "inicio": "2026-09-26T13:00:00",
+    "fin": "2026-09-26T14:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
   },
   "lista": [
-    {
-      "titulo": "Tu día",
-      "descripcion": "En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.",
-      "inicio": "2026-09-25T07:50:00",
-      "fin": "2026-09-25T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tudia.jpg"
-    },
-    {
-      "titulo": "Teletrece tarde",
-      "descripcion": "Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.",
-      "inicio": "2026-09-25T13:00:00",
-      "fin": "2026-09-25T15:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Espacio que trae información meteorológica nacional e internacional, para que te mantengas actualizado del estado del clima en las próximas horas.",
-      "inicio": "2026-09-25T15:20:00",
-      "fin": "2026-09-25T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_eltiempo.jpg"
-    },
-    {
-      "titulo": "Vale todo",
-      "descripcion": "Una serie que sigue el conflicto entre Raquel, una madre de valores firmes, y su hija María de Fátima, fría y ambiciosa. La jóven está dispuesta a traicionar a su familia y vender su hogar para conseguir fama y lujos en Río de Janeiro.",
-      "inicio": "2026-09-25T15:30:00",
-      "fin": "2026-09-25T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/valetodo.jpg"
-    },
-    {
-      "titulo": "¡Hay que decirlo!",
-      "descripcion": "Un espacio para divertir y acompañar las tardes con noticias del mundo del espectáculo y con el humor garantizado. La conducción está a cargo de Pamela Díaz y Nacho Gutiérrez, un grupo de panelistas expertos y destacados invitados.",
-      "inicio": "2026-09-25T17:00:00",
-      "fin": "2026-09-25T19:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hayquedecirlo.jpg"
-    },
-    {
-      "titulo": "¡Qué dice Chile!",
-      "descripcion": "Dos grupos compiten entre sí para nombrar las respuestas más populares de una encuesta con el fin de ganar un premio en dinero. Además, el público participa en vivo y enviando preguntas. Las personas que participan también pueden ganar premios así qe tanto participantes como público lo darán todo.",
-      "inicio": "2026-09-25T19:15:00",
-      "fin": "2026-09-25T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/quedicechile.jpg"
-    },
-    {
-      "titulo": "Teletrece",
-      "descripcion": "El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.",
-      "inicio": "2026-09-25T21:00:00",
-      "fin": "2026-09-25T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrece.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Espacio que trae información meteorológica nacional e internacional, para que te mantengas actualizado del estado del clima en las próximas horas.",
-      "inicio": "2026-09-25T22:30:00",
-      "fin": "2026-09-25T22:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_eltiempo.jpg"
-    },
-    {
-      "titulo": "¡Qué dice Chile! - Prime",
-      "descripcion": "Dos grupos compiten entre sí para nombrar las respuestas más populares de una encuesta con el fin de ganar un premio en dinero. Además, el público participa en vivo y enviando preguntas. Las personas que participan también pueden ganar premios así qe tanto participantes como público lo darán todo.",
-      "inicio": "2026-09-25T22:40:00",
-      "fin": "2026-09-26T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/quedicechileprime.jpg"
-    },
-    {
-      "titulo": "Encuentros cercanos",
-      "descripcion": "Un programa de análisis y debate sobre lo que sucede en el reality Vecinos al límite. Junto a diversos invitados, Sergio Lagos y Karla Constant discuten sobre las jugadas de los participantes.",
-      "inicio": "2026-09-26T00:30:00",
-      "fin": "2026-09-26T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
-    },
-    {
-      "titulo": "Vecinos al límite - Lo mejor",
-      "descripcion": "Un reality ubicado en un barrio con cuatro casas muy diferentes. Un barrio donde los vecinos serán protagonistas. En cada una de esas casas vivirá uno de cuatro equipos, compuestos por participantes desconocidos y liderados por famosos, quienes competirán para ver quiénes podrán pasar a vivir en la mejor de éstas, y quiénes serán desalojados. Todo esto con el fin de disputarse un importante premio en dinero. Entre sus participantes, se destaca Felipe Contreras, el ex galán de Juego de Ilusiones y con una carrera de más de veinte años en las teleseries.",
-      "inicio": "2026-09-26T01:30:00",
-      "fin": "2026-09-26T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
-    },
-    {
-      "titulo": "T13 en vivo",
-      "descripcion": "Ponte al día con las noticias más relevantes de la actualidad.",
-      "inicio": "2026-09-26T03:30:00",
-      "fin": "2026-09-26T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
-    },
-    {
-      "titulo": "La gracia de viajar",
-      "descripcion": "Repetición ║ Viaja junto a la fotógrafa María Gracia Subercaseaux a los destinos más exóticos, descubriendo los rincones del mundo, su cultura, su gente, música y gastronomía, y explorar el mundo desde otra perspectiva.",
-      "inicio": "2026-09-26T06:30:00",
-      "fin": "2026-09-26T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lagraciadeviajar.jpg"
-    },
-    {
-      "titulo": "El crucero",
-      "descripcion": "Repetición ║ Recorremos diferentes continentes a través de El Crucero 13C.",
-      "inicio": "2026-09-26T07:00:00",
-      "fin": "2026-09-26T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcrucero.jpg"
-    },
     {
       "titulo": "T13 finde",
       "descripcion": "Álvaro Paci y Chantal Aguilar conversan sobre contingencia, música, panoramas y todos los temas que a la audiencia le importan. Todo ello sin dejar de lado las diversas opiniones en un lenguaje simple y en un estilo más relajado que un noticiero tradicional.",
       "inicio": "2026-09-26T08:00:00",
       "fin": "2026-09-26T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13finde.jpg"
+    },
+    {
+      "titulo": "Teletrece tarde",
+      "descripcion": "Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.",
+      "inicio": "2026-09-26T13:00:00",
+      "fin": "2026-09-26T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
+    },
+    {
+      "titulo": "Recomiendo Chile",
+      "descripcion": "Recomiendo Chile es una serie documental que aporta una mirada moderna hacia la gastronomía tradicional de nuestro país.",
+      "inicio": "2026-09-26T14:00:00",
+      "fin": "2026-09-26T15:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/recomiendochile.jpg"
+    },
+    {
+      "titulo": "Talentos ocultos",
+      "descripcion": "Sigue la trayectorial de un equipo de élite de mujeres matemáticas negras en la NASA que ayudaron a ganar la carrera espacial contra el rival de Estados Unidos, la Unión Soviética, al tiempo que lanzaban una misión en favor de la igualdad de derechos y oportunidades.",
+      "inicio": "2026-09-26T15:10:00",
+      "fin": "2026-09-26T17:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/talentosocultos.jpg"
+    },
+    {
+      "titulo": "Lugares que hablan",
+      "descripcion": "Repetición ║ Francisco Saavedra realiza un viaje especial para conocer la geografía de Chile, su gente y sus tradiciones, mostrando diversas locaciones y lugares que, ya sea por su aislamiento o por simple desconocimiento, no están en boca de muchos. En esta ocasión, se sumerge en las gélidas aguas del extremo sur chileno para llegar a la recóndita localidad de Puerto Edén.",
+      "inicio": "2026-09-26T17:40:00",
+      "fin": "2026-09-26T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lugaresquehablan.jpg"
+    },
+    {
+      "titulo": "Teletrece",
+      "descripcion": "El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.",
+      "inicio": "2026-09-26T21:00:00",
+      "fin": "2026-09-26T22:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrece.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Espacio que trae información meteorológica nacional e internacional, para que te mantengas actualizado del estado del clima en las próximas horas.",
+      "inicio": "2026-09-26T22:10:00",
+      "fin": "2026-09-26T22:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_eltiempo.jpg"
+    },
+    {
+      "titulo": "Lugares que hablan",
+      "descripcion": "Francisco Saavedra realiza un viaje especial para conocer la geografía de Chile, su gente y sus tradiciones, mostrando diversas locaciones y lugares que, ya sea por su aislamiento o por simple desconocimiento, no están en boca de muchos. En esta ocasión, se sumerge en las gélidas aguas del extremo sur chileno para llegar a la recóndita localidad de Puerto Edén.",
+      "inicio": "2026-09-26T22:20:00",
+      "fin": "2026-09-27T00:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lugaresquehablan.jpg"
+    },
+    {
+      "titulo": "El clan",
+      "descripcion": "Repetición ║ Las cenas clandestinas se están haciendo cada vez más populares en Chile, donde básicamente diferentes cocineros profesionales, o amateurs, realizan una cena informal para mostrar su propuesta gastronómica a un grupo reducido de personas. En este espacio haremos un recorrido por las mejores cenas clandestinas que se están realizando en la ciudad, para mostrar un ambiente poco conocido por algunos, pero muy valorado por otros.",
+      "inicio": "2026-09-27T00:15:00",
+      "fin": "2026-09-27T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elclan.jpg"
+    },
+    {
+      "titulo": "Only Comparini",
+      "descripcion": "Un espacio que cada semana tendrá diversos y destacados invitados para conversar y analizar lo que pasa en la actualidad dando lugar a sus distintas perspectivas. El programa será conducido por Marcelo Comparini quien guiará las charlas.",
+      "inicio": "2026-09-27T01:30:00",
+      "fin": "2026-09-27T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/onlycomparini.jpg"
+    },
+    {
+      "titulo": "Qué dice el público",
+      "descripcion": "Repetición ║ Don Francisco y Martín Cárcamo buscarán a los grandes protagonistas de 'Sábados gigantes'. En el espacio se verá cómo la emisión modificó las vidas de esas personas y se sabrá qué otras historias traen consigo.",
+      "inicio": "2026-09-27T02:30:00",
+      "fin": "2026-09-27T04:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
+    },
+    {
+      "titulo": "T13 en vivo",
+      "descripcion": "Ponte al día con las noticias más relevantes de la actualidad.",
+      "inicio": "2026-09-27T04:15:00",
+      "fin": "2026-09-27T06:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0107_fallback.jpg"
+    },
+    {
+      "titulo": "La gracia de viajar",
+      "descripcion": "Repetición ║ Viaja junto a la fotógrafa María Gracia Subercaseaux a los destinos más exóticos, descubriendo los rincones del mundo, su cultura, su gente, música y gastronomía, y explorar el mundo desde otra perspectiva.",
+      "inicio": "2026-09-27T06:40:00",
+      "fin": "2026-09-27T07:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lagraciadeviajar.jpg"
+    },
+    {
+      "titulo": "City tour",
+      "descripcion": "Federico Sánchez y Marcelo Comparini recorren las ciudades del mundo, sus calles y lugares emblemáticos para así enseñar al espectador la arquitectura patrimonial del mundo, el diseño, urbanismo y cultura popular, fomentando su apreciación y cuidado.",
+      "inicio": "2026-09-27T07:05:00",
+      "fin": "2026-09-27T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/citytour.jpg"
+    },
+    {
+      "titulo": "Santa misa",
+      "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
+      "inicio": "2026-09-27T08:00:00",
+      "fin": "2026-09-27T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
+    },
+    {
+      "titulo": "Teletrece a la hora",
+      "descripcion": "Un espacio que ofrece toda la información actual de lo que ocurre a nivel nacional e internacional.",
+      "inicio": "2026-09-27T09:00:00",
+      "fin": "2026-09-27T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecealahora.jpg"
     }
   ]
 }

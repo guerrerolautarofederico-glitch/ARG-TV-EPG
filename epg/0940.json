@@ -1,122 +1,171 @@
 {
   "actual": {
-    "titulo": "El show del lagarto",
-    "descripcion": "Es el magazine local más visto y de mayor penetración dentro de la programación cordobesa de televisión por aire, que es referente de la información y el entretenimiento.",
-    "inicio": "2026-09-25T08:00:00",
-    "fin": "2026-09-25T11:00:00",
+    "titulo": "Pasteleando",
+    "descripcion": "Cristina Maricel Colazo conduce una propuesta pensada para los amantes de lo dulce y la cocina casera. La pastelera busca transmitir sus conocimientos, técnicas y secretos del mundo de la pastelería para que el público amplíe sus conocimientos. El programa estará enfocado en recetas accesibles, consejos prácticos y elaboraciones paso a paso, con la intención de que el público pueda replicarlas fácilmente.",
+    "inicio": "2026-09-26T09:30:00",
+    "fin": "2026-09-26T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Noticiero 12",
-    "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias regional y nacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la coyuntura.",
-    "inicio": "2026-09-25T11:00:00",
-    "fin": "2026-09-25T12:30:00",
+    "titulo": "Para su salud",
+    "descripcion": "Espacio conducido por Ricardo Guarino, en el cual te presentamos información, entrevistas y contenidos de salud en general.",
+    "inicio": "2026-09-26T10:00:00",
+    "fin": "2026-09-26T10:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "El show del lagarto",
-      "descripcion": "Es el magazine local más visto y de mayor penetración dentro de la programación cordobesa de televisión por aire, que es referente de la información y el entretenimiento.",
-      "inicio": "2026-09-25T08:00:00",
-      "fin": "2026-09-25T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticiero 12",
-      "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias regional y nacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la coyuntura.",
-      "inicio": "2026-09-25T11:00:00",
-      "fin": "2026-09-25T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Seguimos en el Doce",
-      "descripcion": "Temas de actualidad, entretenimiento y la información que siempre importa e interesa a los cordobeses.",
-      "inicio": "2026-09-25T12:30:00",
-      "fin": "2026-09-25T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La cocina rebelde",
-      "descripcion": "Un magazine vespertino centrado en el mundo de la gastronomía, que contará con un destacado y variado staff de cocineros de la Argentina. A lo largo de cada emisión, pasarán por sus cocinas reconocidos chefs nacionales e internacionales, así como también médicos y especialistas en nutrición, aportando una mirada integral sobre el buen comer. Además, Bandas y música en vivo, secciones especiales, móviles y muchas sorpresas completan la propuesta de este nuevo ciclo que irrumpe con toda su energía y buena onda para acompañar las tardes de verano.",
-      "inicio": "2026-09-25T13:30:00",
-      "fin": "2026-09-25T15:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuestión de peso",
-      "descripcion": "Cuestión de peso es un reality show que presenta a diversas personas con sobrepeso y sigue sus intentos diarios por reducir su peso.",
-      "inicio": "2026-09-25T15:15:00",
-      "fin": "2026-09-25T17:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Ahora caigo!",
-      "descripcion": "Un novedoso formato de juegos y entretenimiento que buscará a la persona que más sabe sobre cultura general en la televisión argentina. Once personas deberán responder la mayor cantidad de preguntas posibles, evitar caer al vacío y convertirse en el/la ganadora del día de Ahora Caigo. También habrá monólogos y sketches de humor con el estilo único e inigualable de su conductor, que explotará su faceta actoral junto a grandes invitados especiales.",
-      "inicio": "2026-09-25T17:15:00",
-      "fin": "2026-09-25T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahoracaigo.jpg"
-    },
-    {
-      "titulo": "Telenoche Doce",
-      "descripcion": "Encara los temas locales de actualidad con una profundidad y un despliegue único en la provincia. El énfasis está puesto en los eventos locales, pero no son ajenas tampoco las cuestiones políticas o económicas de alcance nacional e internacional.",
-      "inicio": "2026-09-25T19:00:00",
-      "fin": "2026-09-25T20:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Es mi sueño",
-      "descripcion": "Guido Kaczka conduce un certamen que combina actuaciones en vivo con relatos personales cargados de emoción. Los participantes deben abrir su corazón, contar qué los trajo hasta ahí y cuál es el sueño que buscan cumplir frente a millones de personas. Las actuaciones de los participantes serán evaluadas por un exigente jurado.",
-      "inicio": "2026-09-25T20:20:00",
-      "fin": "2026-09-25T21:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Otro día perdido",
-      "descripcion": "Un big show donde la actualidad se mezcla con el humor, la ironía y la tecnología en una propuesta de gran despliegue. Monólogos punzantes, entrevistas con personajes realmente interesantes, inteligencia artificial, asistentes virtuales y un escenario deslumbrante con tribuna para cien personas, banda en vivo y mucho más. Todo pensado para ofrecer al público una experiencia única.",
-      "inicio": "2026-09-25T21:50:00",
-      "fin": "2026-09-25T23:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Última página",
-      "descripcion": "Claudio Fantini realiza un análisis profundo e intenta prever los escenarios futuros a corto plazo de la política nacional argentina, exponiendo las claves de los procesos que se desarrollan actualmente, así como también de los partidos.",
-      "inicio": "2026-09-25T23:50:00",
-      "fin": "2026-09-26T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Síntesis",
-      "descripcion": "La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.",
-      "inicio": "2026-09-26T00:30:00",
-      "fin": "2026-09-26T01:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cierre de programación",
-      "descripcion": "Fin de emisión diaria del canal.",
-      "inicio": "2026-09-26T01:15:00",
-      "fin": "2026-09-26T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Monteadentro",
-      "descripcion": "Dos hermanos, pertenecientes a una de las últimas familias de arrieros en Colombia, se reúnen para un desafiante viaje a los picos más altos de los Andes, a pesar de haber estado llevando vidas distanciadas. Alonso, uno de ellos, vive forzosamente en la ciudad acompañando a su madre, ya que los médicos no le permiten volver al campo. Novier, el otro hermano, aún vive en las montañas de Caldas e intenta ganarse la vida manteniendo su tradición arriera y la vieja casa en la montaña, de la misma manera que lo hicieron su abuelo y su padre. Mientras cada uno de ellos lucha por subsistir, son visitados por los recuerdos de un pasado juntos que les hace desear volver a sus orígenes.",
-      "inicio": "2026-09-26T08:00:00",
-      "fin": "2026-09-26T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hoy y siempre, tango",
-      "descripcion": "Programa de la televisión cordobesa sobre el tango de hoy y siempre.",
-      "inicio": "2026-09-26T09:00:00",
-      "fin": "2026-09-26T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Pasteleando",
       "descripcion": "Cristina Maricel Colazo conduce una propuesta pensada para los amantes de lo dulce y la cocina casera. La pastelera busca transmitir sus conocimientos, técnicas y secretos del mundo de la pastelería para que el público amplíe sus conocimientos. El programa estará enfocado en recetas accesibles, consejos prácticos y elaboraciones paso a paso, con la intención de que el público pueda replicarlas fácilmente.",
       "inicio": "2026-09-26T09:30:00",
       "fin": "2026-09-26T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Para su salud",
+      "descripcion": "Espacio conducido por Ricardo Guarino, en el cual te presentamos información, entrevistas y contenidos de salud en general.",
+      "inicio": "2026-09-26T10:00:00",
+      "fin": "2026-09-26T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Caminos del interior",
+      "descripcion": "Un espacio para recorrer Córdoba y conocer su cultura, sus costumbres, sus fiestas y su orgullo, a través de un reflejo de las actividades de sus municipios, comunas, instituciones y empresas.",
+      "inicio": "2026-09-26T10:30:00",
+      "fin": "2026-09-26T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Agroverdad",
+      "descripcion": "Su temática abarca todo lo que produce el campo, con predominio de la agricultura y la ganadería, pero sin olvidar a las producciones de menor envergadura, pero no por eso de menor importancia. Con un compromiso invariable e inmodificable a través del tiempo: el productor cordobés y sus intereses.",
+      "inicio": "2026-09-26T11:30:00",
+      "fin": "2026-09-26T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sabores de cocina",
+      "descripcion": "Programa dedicado al mundo de la gastronomía.",
+      "inicio": "2026-09-26T12:00:00",
+      "fin": "2026-09-26T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pioneros",
+      "descripcion": "Acompáñanos en este segmento especial y aprende un poco más sobre los representantes y pioneros de la Iglesia de Jesucristo de los Santos de los Últimos Días, en un recorrido a través de diferentes partes del mundo.",
+      "inicio": "2026-09-26T12:30:00",
+      "fin": "2026-09-26T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Nivel Unno",
+      "descripcion": "Magazine en el cual conocerás paisajes y culturas mostrados desde una perspectiva única, además de estar al día con lo último de la moda.",
+      "inicio": "2026-09-26T13:00:00",
+      "fin": "2026-09-26T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DMAG TV",
+      "descripcion": "Espacio que funciona como revista y plataforma de contenidos de moda, arte, diseño y música de vanguardia, con una mirada diferente de las tendencias.",
+      "inicio": "2026-09-26T13:30:00",
+      "fin": "2026-09-26T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mundo inmobiliario",
+      "descripcion": "Un programa dedicado a la construcción, y a las oportunidades inmobiliarias.",
+      "inicio": "2026-09-26T14:00:00",
+      "fin": "2026-09-26T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Monster Hunter",
+      "descripcion": "Tras nuestro mundo hay otro: un mundo de monstruos peligrosos y poderosos que gobiernan sus dominios con una ferocidad mortal. Cuando la teniente Artemis y sus leales soldados son transportados de nuestro mundo al nuevo mundo, la imperturbable teniente recibe el golpe de su vida. En su desesperada batalla por sobrevivir contra enormes enemigos con poderes increíbles y ataques imparables y repugnantes, Artemis se unirá a un hombre misterioso que ha encontrado la forma de defenderse.",
+      "inicio": "2026-09-26T14:30:00",
+      "fin": "2026-09-26T16:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/monsterhunter.jpg"
+    },
+    {
+      "titulo": "El hombre de Toronto",
+      "descripcion": "Un caso de identidad equivocada obliga a un empresario inepto a colaborar con el asesino conocido como el «Hombre de Toronto» para sobrevivir.",
+      "inicio": "2026-09-26T16:15:00",
+      "fin": "2026-09-26T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elhombredetoronto.jpg"
+    },
+    {
+      "titulo": "Mariana de viaje",
+      "descripcion": "Es un espacio de turismo que muestra diferentes destinos, testimonios de viajeros e historias de cada lugar con la compañía y conducción de Mariana Bonelli. El formato contempla una crónica vívida y pormenorizada de cada destino con el testimonio en primera persona de su conductora o enviados especiales, lo cual le brinda un estilo único y atractivo ya que permite que el espectador se sienta formando parte del recorrido. Por otro lado, la experiencia de viaje en el proceso de producción permite brindar información y datos útiles que pueden ayudar a la audiencia a tomar una buena decisión al momento de programar un viaje. Excursiones, paisajes, usos y costumbres de cada lugar, naturaleza, urbanismo, historias, leyendas, mitos, platos típicos, música, actividades y servicios turísticos de excelencia mostrados con distinción y dinamismo.",
+      "inicio": "2026-09-26T17:45:00",
+      "fin": "2026-09-26T18:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TV 4.0",
+      "descripcion": "Diego Robledo y Martín Dechiara conducen un espacio para conocer los proyectos y las mentes que impulsan la economía del conocimiento en nuestra región. Junto al público, exploran la ciencia, la tecnología y la innovación que están diseñando el futuro.",
+      "inicio": "2026-09-26T18:15:00",
+      "fin": "2026-09-26T18:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Voz y voto",
+      "descripcion": "Programa de política áas importante de Córdoba con la conducción de Florencia Ripoll y Federico Gianmaria, más la participación de un equipo de periodistas especializados.",
+      "inicio": "2026-09-26T18:45:00",
+      "fin": "2026-09-26T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Resto del mundo",
+      "descripcion": "Fede Bal recorrerá los destinos más increíbles, llevando a los televidentes a conocer nuevas culturas y paisajes extraordinarios. Además, un televidente y un acompañante tendrán la oportunidad de viajar junto a Fede a algún destino del mundo y formar parte del programa de viajes líder de Argentina.",
+      "inicio": "2026-09-26T19:45:00",
+      "fin": "2026-09-26T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La noche de Mirtha",
+      "descripcion": "La Chiqui encabezará las mesas con las figuras y los invitados más representativos, importantes y destacados de la cultura, política, espectáculos y el deporte. Jimena Monteverde será la encargada de preparar los exquisitos platos para los invitados, que disfrutarán en una escenografía renovada, moderna y lujosa.",
+      "inicio": "2026-09-26T20:30:00",
+      "fin": "2026-09-26T22:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Como dos extraños",
+      "descripcion": "Marcos saca la cuenta: 1095 días desde que subió Camila al colectivo por primera vez. A punto de graduarse, Marcos la observa enamorado, mientras lucha por vencer sus propios miedos y acercarse a hablar.",
+      "inicio": "2026-09-26T22:15:00",
+      "fin": "2026-09-26T22:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comodosextranos.jpg"
+    },
+    {
+      "titulo": "Cuarteteando - La previa",
+      "descripcion": "La previa al programa Cuarteteando.",
+      "inicio": "2026-09-26T22:45:00",
+      "fin": "2026-09-26T23:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cierre de programación",
+      "descripcion": "Fin de emisión diaria del canal.",
+      "inicio": "2026-09-26T23:45:00",
+      "fin": "2026-09-27T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Tres Chiflados",
+      "descripcion": "Serie de TV (1930-1970). 26 temporadas. 190 episodios. Serie cómica que alcanzó un reconocimiento mundial. El conjunto conoció varias formaciones, y sus integrantes más festejados son mejor conocidos por sus apodos que por sus nombres.",
+      "inicio": "2026-09-27T08:00:00",
+      "fin": "2026-09-27T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lostreschiflados.jpg"
+    },
+    {
+      "titulo": "Sofy",
+      "descripcion": "Comparte con nosotros el mundo mágico e infantil de Sofy, con canciones y mucha diversión.",
+      "inicio": "2026-09-27T09:00:00",
+      "fin": "2026-09-27T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol infantil",
+      "descripcion": "Transmisión de los torneos de fútbol donde participan los niños de la región, quienes son las jóvenes promesas de esta disciplina deportiva. Además, entrevistas, comentarios, estadísticas, premios y actividades de los clubes.",
+      "inicio": "2026-09-27T09:30:00",
+      "fin": "2026-09-27T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

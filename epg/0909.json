@@ -1,136 +1,115 @@
 {
   "actual": {
-    "titulo": "A la Barbarossa",
-    "descripcion": "Georgina combina los temas de actualidad, la cocina y el humor en tus mañanas. Junto a su panel, tratarán los temas más importantes del día con móviles en vivo en el lugar de los hechos.",
-    "inicio": "2026-09-25T09:30:00",
-    "fin": "2026-09-25T11:45:00",
+    "titulo": "El Chavo y el Chapulín colorado",
+    "descripcion": "Las icónicas series creadas por Roberto Gómez Bolaños vuelven a la pantalla con su humor inconfundible y personajes entrañables. Una oportunidad perfecta para disfrutar en familia de estas comedias que siguen vigentes a través del tiempo.",
+    "inicio": "2026-09-26T07:15:00",
+    "fin": "2026-09-26T11:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Ariel en su salsa",
-    "descripcion": "Un espacio que propone nuevas recetas y platos tradicionales recreados con el toque de Ariel, como excusa para compartir grandes momentos.",
-    "inicio": "2026-09-25T11:45:00",
-    "fin": "2026-09-25T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Los Simpson",
+    "descripcion": "Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel.",
+    "inicio": "2026-09-26T11:00:00",
+    "fin": "2026-09-26T17:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lossimpson.jpg"
   },
   "lista": [
-    {
-      "titulo": "A la Barbarossa",
-      "descripcion": "Georgina combina los temas de actualidad, la cocina y el humor en tus mañanas. Junto a su panel, tratarán los temas más importantes del día con móviles en vivo en el lugar de los hechos.",
-      "inicio": "2026-09-25T09:30:00",
-      "fin": "2026-09-25T11:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ariel en su salsa",
-      "descripcion": "Un espacio que propone nuevas recetas y platos tradicionales recreados con el toque de Ariel, como excusa para compartir grandes momentos.",
-      "inicio": "2026-09-25T11:45:00",
-      "fin": "2026-09-25T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El noticiero de la gente",
-      "descripcion": "Con la conducción de Germán Paoloski acompañado de un equipo compuesto por Milva Castellini, Mauro Szeta, China Ansa y Fernando Carlos. Las noticias más relevantes, desde la perspectiva y participación activa de la gente.",
-      "inicio": "2026-09-25T13:00:00",
-      "fin": "2026-09-25T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cortá por Lozano",
-      "descripcion": "Actualidad, espectáculos, entrevistas y humor, con el particular estilo de Verónica Lozano, acompañada de reconocidos profesionales...",
-      "inicio": "2026-09-25T14:30:00",
-      "fin": "2026-09-25T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Renacer",
-      "descripcion": "Cuando Bahar se enfrenta a la muerte, se encontrará con otro lado de su familia, especialmente con su marido Timur, que parece \"perfecto\" desde fuera. La repentina enfermedad de Bahar cambiará toda la dinámica de la familia. En este período, Evren se convertirá en el rival de Timur en todos los sentidos. La reconstrucción de su vida por parte de Bahar infundirá esperanza en los espectadores con historias a menudo tragicómicas.",
-      "inicio": "2026-09-25T17:00:00",
-      "fin": "2026-09-25T17:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/renacer.jpg"
-    },
-    {
-      "titulo": "Avenida Brasil",
-      "descripcion": "Nina, de seis años, es abandonada por su madrastra, Carmina, en un basural después de que estafara y dejara muerto a su padre. Entonces, ella promete vengar el nombre de su papá y hacerle la vida imposible a la mujer que le quitó todo.",
-      "inicio": "2026-09-25T17:45:00",
-      "fin": "2026-09-25T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/avenidabrasil.jpg"
-    },
-    {
-      "titulo": "Telefe noticias",
-      "descripcion": "Un sello de compromiso periodístico, con más información, más investigación y logrando una mirada global, para una mejor interpretación de los hechos y con mayor cobertura.",
-      "inicio": "2026-09-25T20:00:00",
-      "fin": "2026-09-25T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pasapalabra",
-      "descripcion": "En cada emisión, se enfrentan 2 equipos en diferentes juegos cuyo objetivo es la suma de segundos para el desafío final. Figuras muy conocidas y queridas, se sumarán en cada programa y lo dejarán todo para ser los mejores.",
-      "inicio": "2026-09-25T21:30:00",
-      "fin": "2026-09-25T23:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Staff",
-      "descripcion": "Una propuesta ágil para irse a dormir bien informado.",
-      "inicio": "2026-09-25T23:45:00",
-      "fin": "2026-09-26T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Staff: segundo tiempo",
-      "descripcion": "Una propuesta ágil para irse a dormir bien informado.",
-      "inicio": "2026-09-26T00:00:00",
-      "fin": "2026-09-26T00:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El álbum",
-      "descripcion": "Cada participante deberá reunir las 20 figuritas necesarias para completar su álbum, enfrentándose a preguntas, desafíos y momentos de tensión que pondrán a prueba su memoria, su pasión y su rapidez.",
-      "inicio": "2026-09-26T00:15:00",
-      "fin": "2026-09-26T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El valor de tus joyas",
-      "descripcion": "Programa que presenta casos típicos de compra y venta de joyas y alhajas.",
-      "inicio": "2026-09-26T01:00:00",
-      "fin": "2026-09-26T01:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cortá por Lozano",
-      "descripcion": "Actualidad, espectáculos, entrevistas y humor, con el particular estilo de Verónica Lozano, acompañada de reconocidos profesionales...",
-      "inicio": "2026-09-26T01:15:00",
-      "fin": "2026-09-26T03:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El álbum",
-      "descripcion": "Cada participante deberá reunir las 20 figuritas necesarias para completar su álbum, enfrentándose a preguntas, desafíos y momentos de tensión que pondrán a prueba su memoria, su pasión y su rapidez.",
-      "inicio": "2026-09-26T03:15:00",
-      "fin": "2026-09-26T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A la Barbarossa",
-      "descripcion": "Georgina combina los temas de actualidad, la cocina y el humor en tus mañanas. Junto a su panel, tratarán los temas más importantes del día con móviles en vivo en el lugar de los hechos.",
-      "inicio": "2026-09-26T04:00:00",
-      "fin": "2026-09-26T06:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Disney Jr.",
-      "descripcion": "Un espacio que presenta los mejores contenidos de Disney Jr. para que disfruten los más pequeños.",
-      "inicio": "2026-09-26T06:15:00",
-      "fin": "2026-09-26T07:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "El Chavo y el Chapulín colorado",
       "descripcion": "Las icónicas series creadas por Roberto Gómez Bolaños vuelven a la pantalla con su humor inconfundible y personajes entrañables. Una oportunidad perfecta para disfrutar en familia de estas comedias que siguen vigentes a través del tiempo.",
       "inicio": "2026-09-26T07:15:00",
       "fin": "2026-09-26T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Simpson",
+      "descripcion": "Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel.",
+      "inicio": "2026-09-26T11:00:00",
+      "fin": "2026-09-26T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lossimpson.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-09-26T17:30:00",
+      "fin": "2026-09-26T18:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Escape perfecto",
+      "descripcion": "Es el nuevo programa concurso de Teleamazonas que lleva la emoción del entretenimiento familiar al prime time ecuatoriano. Conducido por Alfonso Laso y Mara Topic, el formato enfrenta a parejas en una emocionante prueba de destreza, cultura y velocidad. Mientras un participante responde preguntas bajo presión para ganar valiosos segundos en el cronómetro, su compañero debe ingresar contra reloj a una jaula llena de fabulosos premios para rescatar la mayor cantidad de artículos posibles antes de que las puertas se cierren definitivamente.",
+      "inicio": "2026-09-26T18:45:00",
+      "fin": "2026-09-26T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/escapeperfecto.jpg"
+    },
+    {
+      "titulo": "Pasapalabra",
+      "descripcion": "En cada emisión, se enfrentan 2 equipos en diferentes juegos cuyo objetivo es la suma de segundos para el desafío final. Figuras muy conocidas y queridas, se sumarán en cada programa y lo dejarán todo para ser los mejores.",
+      "inicio": "2026-09-26T20:00:00",
+      "fin": "2026-09-26T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "PH: Podemos hablar",
+      "descripcion": "Es un programa de televisión argentino de entrevistas, debate e interés general conducido por Andy Kusnetzoff - El programa reúne a diferentes personalidades del mundo de la política, el espectáculo, el deporte y otras áreas, de diversas opiniones y posturas ideológicas, con la intención de que se genere diálogo entre los invitados.",
+      "inicio": "2026-09-26T21:30:00",
+      "fin": "2026-09-27T00:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El álbum",
+      "descripcion": "Cada participante deberá reunir las 20 figuritas necesarias para completar su álbum, enfrentándose a preguntas, desafíos y momentos de tensión que pondrán a prueba su memoria, su pasión y su rapidez.",
+      "inicio": "2026-09-27T00:15:00",
+      "fin": "2026-09-27T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "PH: Podemos hablar",
+      "descripcion": "Es un programa de televisión argentino de entrevistas, debate e interés general conducido por Andy Kusnetzoff - El programa reúne a diferentes personalidades del mundo de la política, el espectáculo, el deporte y otras áreas, de diversas opiniones y posturas ideológicas, con la intención de que se genere diálogo entre los invitados.",
+      "inicio": "2026-09-27T00:30:00",
+      "fin": "2026-09-27T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DirecTV - DGO Presentan: Espiando la casa",
+      "descripcion": "Un espacio para ver lo que está ocurriendo en la casa más famosa del país.",
+      "inicio": "2026-09-27T02:30:00",
+      "fin": "2026-09-27T02:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "#JuegoChino",
+      "descripcion": "Guillermo Pelado López desafía a las figuras más reconocidas con sus preguntas desopilantes, el humor ácido que lo caracteriza y situaciones muy divertidas.",
+      "inicio": "2026-09-27T02:45:00",
+      "fin": "2026-09-27T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El álbum",
+      "descripcion": "Cada participante deberá reunir las 20 figuritas necesarias para completar su álbum, enfrentándose a preguntas, desafíos y momentos de tensión que pondrán a prueba su memoria, su pasión y su rapidez.",
+      "inicio": "2026-09-27T03:30:00",
+      "fin": "2026-09-27T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Chavo y el Chapulín colorado",
+      "descripcion": "Las icónicas series creadas por Roberto Gómez Bolaños vuelven a la pantalla con su humor inconfundible y personajes entrañables. Una oportunidad perfecta para disfrutar en familia de estas comedias que siguen vigentes a través del tiempo.",
+      "inicio": "2026-09-27T04:00:00",
+      "fin": "2026-09-27T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Disney Jr.",
+      "descripcion": "Un espacio que presenta los mejores contenidos de Disney Jr. para que disfruten los más pequeños.",
+      "inicio": "2026-09-27T06:00:00",
+      "fin": "2026-09-27T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Chavo y el Chapulín colorado",
+      "descripcion": "Las icónicas series creadas por Roberto Gómez Bolaños vuelven a la pantalla con su humor inconfundible y personajes entrañables. Una oportunidad perfecta para disfrutar en familia de estas comedias que siguen vigentes a través del tiempo.",
+      "inicio": "2026-09-27T07:30:00",
+      "fin": "2026-09-27T12:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
