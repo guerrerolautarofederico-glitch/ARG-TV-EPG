@@ -1,73 +1,136 @@
 {
   "actual": {
-    "titulo": "É de Casa",
-    "descripcion": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-    "inicio": "2026-09-26T08:30:00",
-    "fin": "2026-09-26T11:45:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/edecasa.jpg"
+    "titulo": "AutoEsporte",
+    "descripcion": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+    "inicio": "2026-09-27T10:00:00",
+    "fin": "2026-09-27T10:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "TV Globo",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-09-26T11:45:00",
-    "fin": "2026-09-26T12:00:00",
+    "titulo": "Globo Rural",
+    "descripcion": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+    "inicio": "2026-09-27T10:30:00",
+    "fin": "2026-09-27T12:05:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "É de Casa",
-      "descripcion": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
-      "inicio": "2026-09-26T08:30:00",
-      "fin": "2026-09-26T11:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/edecasa.jpg"
+      "titulo": "AutoEsporte",
+      "descripcion": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes.",
+      "inicio": "2026-09-27T10:00:00",
+      "fin": "2026-09-27T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Globo Rural",
+      "descripcion": "As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "inicio": "2026-09-27T10:30:00",
+      "fin": "2026-09-27T12:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Viver Sertanejo",
+      "descripcion": "O \"Viver Sertanejo\" celebra os 30 anos de \"O Rei do Gado\" com encontro musical e histórias dos bastidores da novela. Jackson Antunes, Silvia Pfeifer, Nil Bernardes, Leandro Lima e Guito participam deste especial.",
+      "inicio": "2026-09-27T12:05:00",
+      "fin": "2026-09-27T12:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viversertanejo.jpg"
+    },
+    {
+      "titulo": "Terra de Minas",
+      "descripcion": "Conheça todo o estado de Minas Gerais e descubra seu legado histórico e cultural. Com relatórios especiais com indivíduos públicos, assista às fascinantes tradições de Minas Gerais, bem como sugestões para receitas tradicionais.",
+      "inicio": "2026-09-27T12:55:00",
+      "fin": "2026-09-27T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Terra da Gente",
+      "descripcion": "Conheça melhor a rica biodiversidade dos diversos cantos do Brasil e do mundo, com destaque para a fauna e a flora brasileiras.",
+      "inicio": "2026-09-27T13:30:00",
+      "fin": "2026-09-27T14:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Esporte Espetacular",
+      "descripcion": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração.",
+      "inicio": "2026-09-27T14:25:00",
+      "fin": "2026-09-27T15:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/esporteespetacular.jpg"
+    },
+    {
+      "titulo": "Meu Nome É Gal",
+      "descripcion": "A trajetória de Gal Costa, uma menina tímida que desde muito cedo soube que a música guiaria seus caminhos. Ela foi criada sozinha pela mãe Mariah, que foi uma de suas maiores incentivadoras. Aos 20 anos, ela decide viajar rumo ao Rio de Janeiro para se tornar cantora. Lá, a jovem encontra seus amigos da Bahia: Caetano Veloso, Maria Bethânia, Gilberto Gil e Dedé Gadelha, que acompanham os primeiros passos de Gal na música profissional no final da década de 1960.",
+      "inicio": "2026-09-27T15:35:00",
+      "fin": "2026-09-27T17:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tapas & Beijos • Fátima e Sueli Conectadas",
+      "descripcion": "Fátima e Sueli Conectadas | Para agitar a vida de Sueli, Fátima a leva para as redes sociais e cria um perfil falso.",
+      "inicio": "2026-09-27T17:05:00",
+      "fin": "2026-09-27T17:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tapasbeijos.jpg"
+    },
+    {
+      "titulo": "Tudo Delas • Coragem, Mudança e Recomeços",
+      "descripcion": "Coragem, Mudança e Recomeços | A atriz Fernanda Pontes apresenta histórias de mulheres brasileiras imigrantes nos Estados Unidos.",
+      "inicio": "2026-09-27T17:40:00",
+      "fin": "2026-09-27T18:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Os Suburbanos • Olha o Jefinho Aí, Gente!",
+      "descripcion": "Olha o Jefinho Aí, Gente! | Jefinho investe em uma escola de samba para tentar reconquistar a fama; Pâmela e Gislene se candidatam ao posto de rainha da bateria. O desafio de Jefinho é criar um samba enredo digno da vitória e ele busca ajuda nos lugares mais inesperados.",
+      "inicio": "2026-09-27T18:10:00",
+      "fin": "2026-09-27T18:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ossuburbanos.jpg"
+    },
+    {
+      "titulo": "Em Família com Eliana",
+      "descripcion": "Péricles reúne a família no palco do \"Em Família com Eliana\". Nicole Bahls participa, ao lado do sobrinho, e entra em brincadeiras com Péricles.",
+      "inicio": "2026-09-27T18:40:00",
+      "fin": "2026-09-27T19:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/emfamiliacomeliana.jpg"
+    },
+    {
+      "titulo": "Domingão com Huck",
+      "descripcion": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil.",
+      "inicio": "2026-09-27T19:35:00",
+      "fin": "2026-09-27T22:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/domingocomhuck.jpg"
+    },
+    {
+      "titulo": "Fantástico",
+      "descripcion": "Sônia Bridi viaja à República Democrática do Congo em reportagem especial sobre o combate ao ebola. Os participantes do \"Profissão Repórter Procura\" vivem o último desafio do quadro e descobrem quem se destacou.",
+      "inicio": "2026-09-27T22:50:00",
+      "fin": "2026-09-28T01:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fantastico.jpg"
     },
     {
       "titulo": "TV Globo",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-26T11:45:00",
-      "fin": "2026-09-26T12:00:00",
+      "inicio": "2026-09-28T01:50:00",
+      "fin": "2026-09-28T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV Globo",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-26T12:00:00",
-      "fin": "2026-09-26T16:00:00",
+      "inicio": "2026-09-28T02:00:00",
+      "fin": "2026-09-28T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV Globo",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-26T16:00:00",
-      "fin": "2026-09-26T20:00:00",
+      "inicio": "2026-09-28T06:00:00",
+      "fin": "2026-09-28T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TV Globo",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-26T20:00:00",
-      "fin": "2026-09-27T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TV Globo",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-27T00:00:00",
-      "fin": "2026-09-27T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TV Globo",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-27T04:00:00",
-      "fin": "2026-09-27T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TV Globo",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-27T08:00:00",
-      "fin": "2026-09-27T12:00:00",
+      "inicio": "2026-09-28T10:00:00",
+      "fin": "2026-09-28T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
