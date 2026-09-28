@@ -1,122 +1,157 @@
 {
   "actual": {
-    "titulo": "La rosa de Guadalupe • Una canita al aire",
-    "descripcion": "Una canita al aire | Yesenia y Manuel se comprometen y se juran amor para siempre, al presentarlo a su familia, su hermana lo reconoce, y recuerda que hace algún tiempo pasó una noche con él.",
-    "inicio": "2026-09-27T10:00:00",
-    "fin": "2026-09-27T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larosadeguadalupe.jpg"
+    "titulo": "¡Despierta América!",
+    "descripcion": "Estreno ║ Revista matutina con noticias, temas de actualidad, reportajes de farándula, música e información práctica.",
+    "inicio": "2026-09-28T08:00:00",
+    "fin": "2026-09-28T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Esta historia me suena • Ya es muy tarde",
-    "descripcion": "Ya es muy tarde | Tras sentirse asfixiada por su abuela, Luna consigue trabajo en un estudio de tatuajes. Allí donde se enamorará de David, quien solo busca aprovecharse de ella.",
-    "inicio": "2026-09-27T11:00:00",
-    "fin": "2026-09-27T12:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/estahistoriamesuena.jpg"
+    "titulo": "Como dice el dicho • Al cielo no se sube con escaleras sino con obras buenas",
+    "descripcion": "Al cielo no se sube con escaleras sino con obras buenas | Lorena abandona a su hijo Domingo cuando Matías, su pareja, decide llevársela y dejar al niño a su suerte. Además, Matías maltrata a Lorena, aumentando su sufrimiento.",
+    "inicio": "2026-09-28T12:00:00",
+    "fin": "2026-09-28T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comodiceeldicho.jpg"
   },
   "lista": [
     {
-      "titulo": "La rosa de Guadalupe • Una canita al aire",
-      "descripcion": "Una canita al aire | Yesenia y Manuel se comprometen y se juran amor para siempre, al presentarlo a su familia, su hermana lo reconoce, y recuerda que hace algún tiempo pasó una noche con él.",
-      "inicio": "2026-09-27T10:00:00",
-      "fin": "2026-09-27T11:00:00",
+      "titulo": "¡Despierta América!",
+      "descripcion": "Estreno ║ Revista matutina con noticias, temas de actualidad, reportajes de farándula, música e información práctica.",
+      "inicio": "2026-09-28T08:00:00",
+      "fin": "2026-09-28T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Como dice el dicho • Al cielo no se sube con escaleras sino con obras buenas",
+      "descripcion": "Al cielo no se sube con escaleras sino con obras buenas | Lorena abandona a su hijo Domingo cuando Matías, su pareja, decide llevársela y dejar al niño a su suerte. Además, Matías maltrata a Lorena, aumentando su sufrimiento.",
+      "inicio": "2026-09-28T12:00:00",
+      "fin": "2026-09-28T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comodiceeldicho.jpg"
+    },
+    {
+      "titulo": "Noticiero N+ Univision: Edición digital",
+      "descripcion": "Estreno ║ Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por jóvenes periodistas en un ambiente informal.",
+      "inicio": "2026-09-28T13:00:00",
+      "fin": "2026-09-28T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticiero N+ Univision: Edición digital",
+      "descripcion": "Estreno ║ Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por jóvenes periodistas en un ambiente informal.",
+      "inicio": "2026-09-28T13:00:00",
+      "fin": "2026-09-28T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Vecinos • El trabajo de Alejandra",
+      "descripcion": "El trabajo de Alejandra | Miguelito P. Luche está de visita en el edificio de los vecinos y se reencuentra con el amor de su infancia. Además, Ale se ve obligada a conseguir trabajo.",
+      "inicio": "2026-09-28T13:30:00",
+      "fin": "2026-09-28T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vecinos.jpg"
+    },
+    {
+      "titulo": "¡Siéntese quien pueda!",
+      "descripcion": "Estreno ║ Una serie de panelistas destacados del mundo de la prensa de espectáculos participan en un reality entre ellos mientras se desarrolla el programa.",
+      "inicio": "2026-09-28T14:00:00",
+      "fin": "2026-09-28T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Desiguales",
+      "descripcion": "Estreno ║ Cinco mujeres de diferentes generaciones, estilos, nacionalidades y culturas entrelazan sus experiencias de vida ofreciendo una perspectiva única y multifacética sobre temas femeninos y de actualidad.",
+      "inicio": "2026-09-28T16:00:00",
+      "fin": "2026-09-28T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El gordo y la flaca",
+      "descripcion": "Estreno ║ Chismes de celebridades y las últimas noticias de la industria del entretenimiento, en un programa que combina entrevistas con actores, músicos y celebridades.",
+      "inicio": "2026-09-28T17:00:00",
+      "fin": "2026-09-28T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elgordoylaflaca.jpg"
+    },
+    {
+      "titulo": "Primer impacto",
+      "descripcion": "Estreno ║ Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo. El programa también cuenta con dos segmentos de salud semanales.",
+      "inicio": "2026-09-28T18:00:00",
+      "fin": "2026-09-28T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerimpacto.jpg"
+    },
+    {
+      "titulo": "Noticiero N+ Univision: Edición digital",
+      "descripcion": "Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por jóvenes periodistas en un ambiente informal.",
+      "inicio": "2026-09-28T19:00:00",
+      "fin": "2026-09-28T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticiero N+ Univision: Edición digital",
+      "descripcion": "Noticiero que transmite los hechos mundiales relevantes para la comunidad hispana. Presentado por jóvenes periodistas en un ambiente informal.",
+      "inicio": "2026-09-28T19:00:00",
+      "fin": "2026-09-28T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticiero N+ Univision",
+      "descripcion": "Estreno ║ El noticiero transmite los acontecimientos mundiales que son de interés público para la comunidad hispana desde su sede en Florida e incluye reportajes de la política, el clima, los deportes, la educación, la inmigración, entre otros.",
+      "inicio": "2026-09-28T19:30:00",
+      "fin": "2026-09-28T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticiero N+ Univision",
+      "descripcion": "Estreno ║ El noticiero transmite los acontecimientos mundiales que son de interés público para la comunidad hispana desde su sede en Florida e incluye reportajes de la política, el clima, los deportes, la educación, la inmigración, entre otros.",
+      "inicio": "2026-09-28T19:30:00",
+      "fin": "2026-09-28T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La rosa de Guadalupe • El mal que entra en tu casa",
+      "descripcion": "Estreno ║ El mal que entra en tu casa | Mariana y Lorenza son mejores amigas, pero la envidia las lleva a una lucha encarnizada por arruinarse la vida.",
+      "inicio": "2026-09-28T20:00:00",
+      "fin": "2026-09-28T21:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larosadeguadalupe.jpg"
     },
     {
-      "titulo": "Esta historia me suena • Ya es muy tarde",
-      "descripcion": "Ya es muy tarde | Tras sentirse asfixiada por su abuela, Luna consigue trabajo en un estudio de tatuajes. Allí donde se enamorará de David, quien solo busca aprovecharse de ella.",
-      "inicio": "2026-09-27T11:00:00",
-      "fin": "2026-09-27T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/estahistoriamesuena.jpg"
-    },
-    {
-      "titulo": "Esta semana",
-      "descripcion": "Estreno ║ Un programa dominical sobre las decisiones en Washington, D. C. y sus consecuencias en la vida cotidiana de los latinos que trabajan, votan y construyen sus vidas en Estados Unidos.",
-      "inicio": "2026-09-27T12:00:00",
-      "fin": "2026-09-27T13:00:00",
+      "titulo": "Sabor a ti, entre historias y secretos • Heridas, secretos y amores",
+      "descripcion": "Estreno ║ Heridas, secretos y amores | La muerte de Rosa reabre heridas, secretos y amores que el tiempo no logró borrar. Ángela se despide de su abuela.",
+      "inicio": "2026-09-28T21:00:00",
+      "fin": "2026-09-28T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "El Vicky Van Show",
-      "descripcion": "Estreno ║ Vicky \"la Chama\" Van entrevista a grandes invitados y artistas, quienes comparten cómo es la vida tras la música.",
-      "inicio": "2026-09-27T13:00:00",
-      "fin": "2026-09-27T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Tierra de amor y coraje • Odio del pasado",
+      "descripcion": "Estreno ║ Odio del pasado | Adela tiene odio por Jero y por cómo la trató en el pasado, por lo cual, al encontrarlo borracho, ocasiona un choque. Clara le confiesa a Jackie que está enamorada de uno de los Coraje. Clara va al hospital a ver a Jero y ve a Juan con Daniela.",
+      "inicio": "2026-09-28T22:00:00",
+      "fin": "2026-09-28T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tierradeamorycoraje.jpg"
     },
     {
-      "titulo": "Fútbol central",
-      "descripcion": "Estreno ║ El programa elemental para los fans, el cual les indica qué buscar y esperar en la cancha en los próximos partidos y campeonatos.",
-      "inicio": "2026-09-27T14:00:00",
-      "fin": "2026-09-27T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol Mexicano Primera División • ⚽ [Liga MX] Pumas UNAM vs. ⚽ [Liga MX] Atlético San Luis",
-      "descripcion": "Estreno ║ ⚽ [Liga MX] Pumas UNAM vs. ⚽ [Liga MX] Atlético San Luis | Desde el Estadio Olímpico Universitario, en Ciudad de México, México.",
-      "inicio": "2026-09-27T14:30:00",
-      "fin": "2026-09-27T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tal para cual • Sisi mamá",
-      "descripcion": "Estreno ║ Sisi mamá | Nacól da la noticia que ya tiene novio y se quiere casar. El novio es hijo de Sisi, quien lo controla y maneja. Nacaranda y Nacasia hacen todo lo posible por convencer a Nacól de que ese matrimonio no le conviene.",
-      "inicio": "2026-09-27T17:00:00",
-      "fin": "2026-09-27T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/talparacual.jpg"
-    },
-    {
-      "titulo": "Noticiero N+ Univision: Fin de semana",
-      "descripcion": "Estreno ║ La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.",
-      "inicio": "2026-09-27T17:30:00",
-      "fin": "2026-09-27T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticiero N+ Univision: Fin de semana",
-      "descripcion": "Estreno ║ La información más importante y actualizada de lo que ha sucedido en el mundo durante el fin de semana, realizado por un equipo de periodistas apasionados por su trabajo, objetivos y veraces que dan las últimas noticias y el resumen de la semana.",
-      "inicio": "2026-09-27T17:30:00",
-      "fin": "2026-09-27T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Captain Phillips",
-      "descripcion": "Estreno ║ En el año 2009, un grupo de piratas somalíes secuestran un barco carguero estadounidense y toman como rehenes a la tripulación. Entre ellos está el capitán del navío, Richard Phillips.",
-      "inicio": "2026-09-27T18:00:00",
-      "fin": "2026-09-27T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "C.D.I. Código de investigación. Archivos abiertos • Caso hermanos Alexander",
-      "descripcion": "Estreno ║ Caso hermanos Alexander | El caso de los hermanos Tal, Oren y Alon Alexander sacudió a Nueva York al revelar una serie de abusos sexuales contra múltiples mujeres, presuntamente cometidos durante años en un contexto de poder, dinero y manipulación. Según la fiscalía, utilizaban su posición en el exclusivo mercado inmobiliario para captar víctimas y someterlas a situaciones de coerción.",
-      "inicio": "2026-09-27T21:00:00",
-      "fin": "2026-09-27T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol Mexicano Primera División • León vs. Juárez",
-      "descripcion": "Estreno ║ León vs. Juárez | Desde Estadio León en León, Guanajuato, México.",
-      "inicio": "2026-09-27T22:00:00",
-      "fin": "2026-09-28T00:00:00",
+      "titulo": "Univisión",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-09-28T23:00:00",
+      "fin": "2026-09-29T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Univisión",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-28T00:00:00",
-      "fin": "2026-09-28T04:00:00",
+      "inicio": "2026-09-29T03:00:00",
+      "fin": "2026-09-29T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Univisión",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-28T04:00:00",
-      "fin": "2026-09-28T08:00:00",
+      "inicio": "2026-09-29T07:00:00",
+      "fin": "2026-09-29T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Univisión",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-09-28T08:00:00",
-      "fin": "2026-09-28T12:00:00",
+      "inicio": "2026-09-29T11:00:00",
+      "fin": "2026-09-29T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
