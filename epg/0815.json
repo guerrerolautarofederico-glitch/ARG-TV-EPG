@@ -1,109 +1,116 @@
 {
   "actual": {
-    "titulo": "The Batman",
-    "descripcion": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-    "inicio": "2026-09-30T08:10:00",
-    "fin": "2026-09-30T11:10:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thebatman.jpg"
+    "titulo": "Juega o muere",
+    "descripcion": "Un grupo de adolescentes de Salem descubre un cuchillo maldito que desata un demonio que les obliga a jugar a horripilantes y mortales versiones de juegos infantiles en los que no puede haber ganadores, sólo supervivientes.",
+    "inicio": "2026-10-01T10:05:00",
+    "fin": "2026-10-01T11:25:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/juegaomuere.jpg"
   },
   "siguiente": {
-    "titulo": "Mickey 17",
-    "descripcion": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
-    "inicio": "2026-09-30T11:10:00",
-    "fin": "2026-09-30T13:33:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mickey17.jpg"
+    "titulo": "La noche de la expiación",
+    "descripcion": "En un país arrasado por el crimen y con las prisiones superpobladas, una familia rica debe sobrevivir la noche de la expiación, doce horas anuales que otorga el Gobierno para que los ciudadanos cometan crímenes sin ser castigados.",
+    "inicio": "2026-10-01T11:25:00",
+    "fin": "2026-10-01T12:55:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "The Batman",
-      "descripcion": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "inicio": "2026-09-30T08:10:00",
-      "fin": "2026-09-30T11:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thebatman.jpg"
-    },
-    {
-      "titulo": "Mickey 17",
-      "descripcion": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
-      "inicio": "2026-09-30T11:10:00",
-      "fin": "2026-09-30T13:33:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mickey17.jpg"
-    },
-    {
-      "titulo": "Criaturas de la noche",
-      "descripcion": "Horribles criaturas acechan a los sobrevivientes de una nave espacial estrellada en su búsqueda de un lugar seguro.",
-      "inicio": "2026-09-30T13:33:00",
-      "fin": "2026-09-30T15:28:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La batalla de Riddick",
-      "descripcion": "Mientras huye de mercenarios, un fugitivo termina en un planeta amenazado por un dictador y su violento ejército.",
-      "inicio": "2026-09-30T15:28:00",
-      "fin": "2026-09-30T17:33:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Scarlet",
-      "descripcion": "Una princesa experta en el manejo de la espada emprende una peligrosa misión para vengar la muerte de su padre. Pronto conoce a un joven idealista que le muestra la posibilidad de un futuro libre de amargura y rabia.",
-      "inicio": "2026-09-30T17:33:00",
-      "fin": "2026-09-30T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El hombre de acero",
-      "descripcion": "Un niño descubre que posee poderes extraordinarios y que no pertenece a este planeta. En su juventud, viaja para descubrir sus orígenes y las razones por las cuales ha sido enviado a la Tierra. Pero el héroe que lleva dentro tiene que emerger para que pueda salvar al mundo de la aniquilación y convertirse en el símbolo de esperanza para la humanidad.",
-      "inicio": "2026-09-30T19:30:00",
-      "fin": "2026-09-30T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elhombredeacero.jpg"
-    },
-    {
-      "titulo": "Bárbaro",
-      "descripcion": "Tess alquila una casa donde pasar la noche durante una visita a Detroit. Cuando llega, descubre que ya hay un hombre habitando la vivienda, pero decide quedarse, de todas formas. Pronto descubrirá que el desconocido no es lo único a lo que temer.",
-      "inicio": "2026-09-30T22:00:00",
-      "fin": "2026-09-30T23:49:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/barbaro.jpg"
-    },
-    {
-      "titulo": "The Batman",
-      "descripcion": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
-      "inicio": "2026-09-30T23:49:00",
-      "fin": "2026-10-01T02:51:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thebatman.jpg"
-    },
-    {
-      "titulo": "Los criminales de noviembre",
-      "descripcion": "Addison, un adolescente inteligente y escéptico, se sumerge en las partes más sombrías de Washington D.C. para, con la ayuda de su mejor amiga, la astuta Digger, aclarar el asesinato de un compañero de clase.",
-      "inicio": "2026-10-01T02:51:00",
-      "fin": "2026-10-01T04:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "RIPD - Departamento de policía mortal",
-      "descripcion": "Policías persiguen a espíritus monstruosos que intentan escapar del juicio final escondiéndose entre los vivos. Cuando descubren un plan que podría acabar con toda la vida, ellos deben trabajar para restaurar el equilibrio cósmico.",
-      "inicio": "2026-10-01T04:20:00",
-      "fin": "2026-10-01T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La niña del mar",
-      "descripcion": "Una niña con poderes sobrenaturales aparece en la playa de una pequeña isla. Los habitantes del lugar se enfrentan entre aquellos que la consideran un milagro enviado para salvarlos y los que se oponen a su presencia.",
-      "inicio": "2026-10-01T06:00:00",
-      "fin": "2026-10-01T07:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La hora de la desaparición",
-      "descripcion": "Todos los niños de la clase, excepto uno, desaparecen misteriosamente en la misma noche y exactamente a la misma hora. La comunidad se pregunta quién o qué está detrás de la desaparición.",
-      "inicio": "2026-10-01T07:50:00",
-      "fin": "2026-10-01T10:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Juega o muere",
       "descripcion": "Un grupo de adolescentes de Salem descubre un cuchillo maldito que desata un demonio que les obliga a jugar a horripilantes y mortales versiones de juegos infantiles en los que no puede haber ganadores, sólo supervivientes.",
       "inicio": "2026-10-01T10:05:00",
       "fin": "2026-10-01T11:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/juegaomuere.jpg"
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/juegaomuere.jpg"
+    },
+    {
+      "titulo": "La noche de la expiación",
+      "descripcion": "En un país arrasado por el crimen y con las prisiones superpobladas, una familia rica debe sobrevivir la noche de la expiación, doce horas anuales que otorga el Gobierno para que los ciudadanos cometan crímenes sin ser castigados.",
+      "inicio": "2026-10-01T11:25:00",
+      "fin": "2026-10-01T12:55:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "12 horas para sobrevivir",
+      "descripcion": "El Gobierno estadounidense permite cometer atrocidades durante una noche para reducir la criminalidad el resto del año. En tal situación, un hombre que busca vengar el asesinato de su hijo termina protegiendo a un grupo de desconocidos.",
+      "inicio": "2026-10-01T12:55:00",
+      "fin": "2026-10-01T14:44:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "12 horas para sobrevivir: El año de la elección",
+      "descripcion": "Leo Barnes es ahora el principal escolta de la senadora Charlie Roan, que planea acabar con la Purga para siempre. Pero en una última noche de anarquía, una traición los fuerza a salir a la calle, donde Charlie es el blanco más codiciado.",
+      "inicio": "2026-10-01T14:44:00",
+      "fin": "2026-10-01T16:40:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "12 horas para sobrevivir: El inicio",
+      "descripcion": "La violencia y el caos se han adueñado de EE. UU. El nuevo Gobierno instaura una norma para mantener el orden: durante una noche, será legal cometer cualquier crimen. No obstante, las víctimas de esta atrocidad no van a dejarse matar sin pelear.",
+      "inicio": "2026-10-01T16:40:00",
+      "fin": "2026-10-01T18:25:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La purga por siempre",
+      "descripcion": "Adela y su esposo, Juan, viven en Texas, donde él trabaja como peón de rancho para la adinerada familia Tucker. En la mañana después de la Purga, una banda de asesinos enmascarados ataca a los Tucker, obligando a ambas familias a unirse y luchar.",
+      "inicio": "2026-10-01T18:25:00",
+      "fin": "2026-10-01T20:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Destino final: Lazos de sangre",
+      "descripcion": "Acosada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie se dirige a casa para localizar a la única persona que podría ser capaz de romper el ciclo y salvar a su familia de la espeluznante muerte que inevitablemente les espera a todos.",
+      "inicio": "2026-10-01T20:15:00",
+      "fin": "2026-10-01T22:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/destinofinallazosdesangre.jpg"
+    },
+    {
+      "titulo": "Bárbaro",
+      "descripcion": "Tess alquila una casa donde pasar la noche durante una visita a Detroit. Cuando llega, descubre que ya hay un hombre habitando la vivienda, pero decide quedarse, de todas formas. Pronto descubrirá que el desconocido no es lo único a lo que temer.",
+      "inicio": "2026-10-01T22:10:00",
+      "fin": "2026-10-02T00:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/barbaro.jpg"
+    },
+    {
+      "titulo": "La hora de la desaparición",
+      "descripcion": "Todos los niños de la clase, excepto uno, desaparecen misteriosamente en la misma noche y exactamente a la misma hora. La comunidad se pregunta quién o qué está detrás de la desaparición.",
+      "inicio": "2026-10-02T00:00:00",
+      "fin": "2026-10-02T02:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "It (Eso)",
+      "descripcion": "Remake del clásico de Stephen King en el que un payaso aterroriza a los niños de un vecindario. En un pequeño pueblo de Maine, siete niños conocidos como el Club de los Perdedores se encuentran cara a cara con problemas de la vida, matones y un monstruo que toma la forma de un payaso llamado Pennywise.",
+      "inicio": "2026-10-02T02:15:00",
+      "fin": "2026-10-02T04:33:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/iteso.jpg"
+    },
+    {
+      "titulo": "Eliminar amigo",
+      "descripcion": "Un año después de su suicidio, el vengativo espíritu de una adolescente acosada se venga a través de la computadora de quienes, con sus humillaciones, la empujaron hacia la muerte.",
+      "inicio": "2026-10-02T04:33:00",
+      "fin": "2026-10-02T06:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La cumbre escarlata",
+      "descripcion": "Edith es una joven recién casada con sir Thomas, un hombre encantador. Edith, que es capaz de hablar con los muertos, descubre que su esposo esconde algo sombrío y que su casa respira, sangra... y nunca olvida.",
+      "inicio": "2026-10-02T06:00:00",
+      "fin": "2026-10-02T08:04:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lacumbreescarlata.jpg"
+    },
+    {
+      "titulo": "Los huéspedes",
+      "descripcion": "The Innkeepers se centrará en los dos últimos empleados de un hotel antes que este cierre sus puertas. Después de cien años en el negocio, el Yankee Pedlar Hotel está a punto de cerrar. Sus dos últimos empleados son Claire, una chica alrededor de los veinte que ha aceptado su lugar en la vida, y Luke, un chico experto en computadoras y solitario. Ambos tienen la obsesión de que el hotel está maldito y están dispuestos a demostrarlo. El tiempo se les echa encima en los días de la operación, con misteriosos invitados como Leanne Reese-Jones, una antigua actriz de televisión reconvertida en psíquica, y una anciano que persiste en quedarse en su habitación, la 353. Varios acontecimientos extraños se empiezan a suceder, y Claire y Luke deberán tomar la crucial decisión sobre que creer y que no creer.",
+      "inicio": "2026-10-02T08:04:00",
+      "fin": "2026-10-02T09:46:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/loshuespedes.jpg"
+    },
+    {
+      "titulo": "Until Dawn: noche de terror",
+      "descripcion": "Clover y sus amigos se topan con un asesino enmascarado que los elimina uno por uno. Sin embargo, al despertar misteriosamente al amanecer de la misma noche, se ven obligados a revivir el terror una y otra vez.",
+      "inicio": "2026-10-02T09:46:00",
+      "fin": "2026-10-02T11:35:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]
 }
