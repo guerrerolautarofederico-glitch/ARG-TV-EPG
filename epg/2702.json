@@ -1,66 +1,143 @@
 {
   "actual": {
-    "titulo": "National Geographic",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-10-01T11:00:00",
-    "fin": "2026-10-01T15:00:00",
+    "titulo": "Lost Treasures of Egypt • El ascenso de Cleopatra",
+    "descripcion": "El ascenso de Cleopatra | Para reunir nueva información sobre la faraona más popular y bella de Egipto, la reina Cleopatra, y sobre cómo utilizó la religión como medio, los arqueólogos se adentran en el templo de Taposiris Magna en busca de su tumba.",
+    "inicio": "2026-10-02T10:00:00",
+    "fin": "2026-10-02T10:56:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "National Geographic",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-10-01T15:00:00",
-    "fin": "2026-10-01T19:00:00",
+    "titulo": "Drain the Oceans • Naufragios olvidados",
+    "descripcion": "Naufragios olvidados | Los planos y ruinas recientemente descubiertos revelan historias olvidadas de la Revolución estadounidense.",
+    "inicio": "2026-10-02T10:56:00",
+    "fin": "2026-10-02T11:58:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "National Geographic",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T11:00:00",
-      "fin": "2026-10-01T15:00:00",
+      "titulo": "Lost Treasures of Egypt • El ascenso de Cleopatra",
+      "descripcion": "El ascenso de Cleopatra | Para reunir nueva información sobre la faraona más popular y bella de Egipto, la reina Cleopatra, y sobre cómo utilizó la religión como medio, los arqueólogos se adentran en el templo de Taposiris Magna en busca de su tumba.",
+      "inicio": "2026-10-02T10:00:00",
+      "fin": "2026-10-02T10:56:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Drain the Oceans • Naufragios olvidados",
+      "descripcion": "Naufragios olvidados | Los planos y ruinas recientemente descubiertos revelan historias olvidadas de la Revolución estadounidense.",
+      "inicio": "2026-10-02T10:56:00",
+      "fin": "2026-10-02T11:58:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ciudades encontradas con Albert Lin • La cuna de los Mayas",
+      "descripcion": "La cuna de los Mayas | Albert Lin se adentra en la selva mexicana para encontrar una ciudad maya perdida.",
+      "inicio": "2026-10-02T11:58:00",
+      "fin": "2026-10-02T12:58:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Air Crash Investigation • Colisión catastrófica",
+      "descripcion": "Colisión catastrófica | Dos aviones colisionan sobre cielos alemanes y numerosas personas en tierra presencian el desastre. Aunque es claro que la colisión se dio en el aire, los investigadores se encuentran con un misterio.",
+      "inicio": "2026-10-02T12:58:00",
+      "fin": "2026-10-02T13:58:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Alerta Aeropuerto: Madrid • Cómplices",
+      "descripcion": "Cómplices | Un joven es demorado para inspección cuando se detectan irregularidades en su mochila. Un hombre en silla de ruedas atraviesa un exhaustivo control por su llamativo equipaje de mano, mientras que la mujer que lo asiste queda bajo sospecha.",
+      "inicio": "2026-10-02T13:58:00",
+      "fin": "2026-10-02T14:57:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Gordon Ramsay: sabores extremos • India",
+      "descripcion": "India | El chef Ramsay explora los secretos culinarios del sur de la India, el lugar en el que nacieron las especias.",
+      "inicio": "2026-10-02T14:57:00",
+      "fin": "2026-10-02T15:58:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Salvajemente famosos • Danica Patrick en el desierto de Moab",
+      "descripcion": "Danica Patrick en el desierto de Moab | Bear Grylls lleva a la campeona de automovilismo Danica Patrick a una aventura en el desierto de Moab.",
+      "inicio": "2026-10-02T15:58:00",
+      "fin": "2026-10-02T16:59:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Primal Survivor • Aguas mortales",
+      "descripcion": "Aguas mortales | Hazen se embarca en una misión marinera en solitario basada en la tradicional travesía de los nómadas Bajau por el océano.",
+      "inicio": "2026-10-02T16:59:00",
+      "fin": "2026-10-02T17:58:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mayday: catástrofes aéreas • Despegue mortal",
+      "descripcion": "Despegue mortal | Un avión de carga DC-8 con solo tres motores en funcionamiento se estrella durante el despegue, y los investigadores descubren una falla en el entrenamiento de los pilotos.",
+      "inicio": "2026-10-02T17:58:00",
+      "fin": "2026-10-02T18:58:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Drain the Oceans • Más allá del campo de batalla",
+      "descripcion": "Más allá del campo de batalla | Los arqueólogos e historiadores marítimos van en busca de pruebas sumergidas de los campos de batalla olvidados de la Guerra Civil. Los datos científicos y los gráficos computarizados drenan las aguas para mostrar un conflicto que reescribió las reglas de la guerra para siempre.",
+      "inicio": "2026-10-02T18:58:00",
+      "fin": "2026-10-02T20:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ciudades perdidas con Albert Lin • Los secretos de Machu Picchu",
+      "descripcion": "Los secretos de Machu Picchu | Albert Lin viaja a las montañas peruanas para explorar los orígenes de Machu Picchu. Albert encuentra evidencia de que existió una civilización más antigua que los incas.",
+      "inicio": "2026-10-02T20:00:00",
+      "fin": "2026-10-02T21:01:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/ciudadesperdidasconalbertlin.jpg"
+    },
+    {
+      "titulo": "Lost Treasures of Rome • Hidden Secrets of Pompeii",
+      "descripcion": "Hidden Secrets of Pompeii | Los arqueólogos desentierran un cráneo de sacrificio, investigan una momia y se arrastran por túneles subterráneos mientras se embarcan en nuevas excavaciones a lo largo de Pompeya.",
+      "inicio": "2026-10-02T21:01:00",
+      "fin": "2026-10-02T22:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Airport Security: Peru",
+      "descripcion": "En el Aeropuerto Internacional Jorge Chávez situado en Lima, Perú, todo puede suceder. Pero la Policía Antidrogas está lista para cumplir su misión: frustrar cada intento delictivo, y apresar a los culpables.",
+      "inicio": "2026-10-02T22:00:00",
+      "fin": "2026-10-02T23:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Alerta Aeropuerto: Lima • Mamá al rescate",
+      "descripcion": "Mamá al rescate | La policía deberá develar los verdaderos motivos para volar a Europa de dos pasajeros y atender el insistente pedido de una turista para que examinen su equipaje, mientras que una empleada tendrá que pedir ayuda por un exótico pasajero.",
+      "inicio": "2026-10-02T23:00:00",
+      "fin": "2026-10-03T00:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Salvajemente famosos • Brie Larson en el archipiélago de las Perlas",
+      "descripcion": "Brie Larson en el archipiélago de las Perlas | La actriz Brie Larson y Bear Grylls emprenden una aventura en la selva por una isla remota en el Golfo de Panamá.",
+      "inicio": "2026-10-03T00:00:00",
+      "fin": "2026-10-03T01:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "National Geographic",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T15:00:00",
-      "fin": "2026-10-01T19:00:00",
+      "inicio": "2026-10-03T01:00:00",
+      "fin": "2026-10-03T05:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "National Geographic",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T19:00:00",
-      "fin": "2026-10-01T23:00:00",
+      "inicio": "2026-10-03T05:00:00",
+      "fin": "2026-10-03T09:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "National Geographic",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T23:00:00",
-      "fin": "2026-10-02T03:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "National Geographic",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T03:00:00",
-      "fin": "2026-10-02T07:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "National Geographic",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T07:00:00",
-      "fin": "2026-10-02T11:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "National Geographic",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T11:00:00",
-      "fin": "2026-10-02T15:00:00",
+      "inicio": "2026-10-03T09:00:00",
+      "fin": "2026-10-03T13:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]

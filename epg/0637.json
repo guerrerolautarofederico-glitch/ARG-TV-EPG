@@ -1,73 +1,143 @@
 {
   "actual": {
-    "titulo": "Hope! Estamos a tiempo",
-    "descripcion": "El divulgador ambiental Javier Peña guía un viaje inspirador, emocionante y visualmente espectacular, para encontrar una forma de resolver la crisis climática a tiempo, de una forma justa y beneficiosa para la población.",
-    "inicio": "2026-10-01T10:45:00",
-    "fin": "2026-10-01T11:40:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hopeestamosatiempo.jpg"
+    "titulo": "En primicia",
+    "descripcion": "Entrevistas en profundidad a 13 de los periodistas más relevantes y singulares de España. Con ellos, viajará al lugar de un hecho impactante del que fueron testigos, recordarán sus orígenes y se encontrarán con amigos y compañeros.",
+    "inicio": "2026-10-02T10:50:00",
+    "fin": "2026-10-02T11:40:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Star TVE",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-10-01T11:40:00",
-    "fin": "2026-10-01T12:00:00",
+    "titulo": "Zoom Tendencias",
+    "descripcion": "Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética; estilos que marcan tendencias.",
+    "inicio": "2026-10-02T11:40:00",
+    "fin": "2026-10-02T12:10:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Hope! Estamos a tiempo",
-      "descripcion": "El divulgador ambiental Javier Peña guía un viaje inspirador, emocionante y visualmente espectacular, para encontrar una forma de resolver la crisis climática a tiempo, de una forma justa y beneficiosa para la población.",
-      "inicio": "2026-10-01T10:45:00",
-      "fin": "2026-10-01T11:40:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hopeestamosatiempo.jpg"
+      "titulo": "En primicia",
+      "descripcion": "Entrevistas en profundidad a 13 de los periodistas más relevantes y singulares de España. Con ellos, viajará al lugar de un hecho impactante del que fueron testigos, recordarán sus orígenes y se encontrarán con amigos y compañeros.",
+      "inicio": "2026-10-02T10:50:00",
+      "fin": "2026-10-02T11:40:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Zoom Tendencias",
+      "descripcion": "Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética; estilos que marcan tendencias.",
+      "inicio": "2026-10-02T11:40:00",
+      "fin": "2026-10-02T12:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Salón de té La Moderna",
+      "descripcion": "Madrid, 1930. Las empleadas de la tetería La Moderna, una de las más distinguidas de la capital española, navegan su vida entre la clientela adinerada y el inestable ambiente político y social del país. Una de estas trabajadoras es la joven Matilde.",
+      "inicio": "2026-10-02T12:10:00",
+      "fin": "2026-10-02T13:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/salondetelamoderna.jpg"
+    },
+    {
+      "titulo": "La promesa",
+      "descripcion": "Una mujer es recompensada con un trabajo en el Palacio La Promesa tras salvar al hijo del Marqués de Luján. Ahora, esta se prepara para fraguar lentamente una venganza.",
+      "inicio": "2026-10-02T13:10:00",
+      "fin": "2026-10-02T15:05:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lapromesa.jpg"
+    },
+    {
+      "titulo": "Estoy vivo",
+      "descripcion": "Un policía asesinado vuelve a la vida en el cuerpo de otro agente. Mientras se adapta a su nueva situación, deberá investigar a su asesino y ocultar su verdadera identidad al mismo tiempo.",
+      "inicio": "2026-10-02T15:05:00",
+      "fin": "2026-10-02T16:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/estoyvivo.jpg"
+    },
+    {
+      "titulo": "Víctimas del misterio • Tarot",
+      "descripcion": "Tarot | El caso de Ana María Martos, desde su extraña desaparición hasta el intento por esclarecer los fatídicos hechos que se dieron de su hallazgo y posterior investigación.",
+      "inicio": "2026-10-02T16:10:00",
+      "fin": "2026-10-02T17:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La Ruta Morancos",
+      "descripcion": "Un recorrido por varios pueblos de la España más rural en un Camino hacia Santiago con sello propio. Una ruta llena de emociones e historias, con personajes inolvidables y divertidos.",
+      "inicio": "2026-10-02T17:00:00",
+      "fin": "2026-10-02T18:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Seis hermanas",
+      "descripcion": "Madrid, año 1913. Las hermanas Silva -Adela, Diana, Celia, Blanca, Francisca y Elisa- son el alma de las principales fiestas de la alta sociedad de la capital. Guapas, educadas, amables y refinadas, las seis hermanas disfrutan de una existencia sin contratiempos hasta que un terrible acontecimiento cambia sus vidas para siempre. Juntas, tendrán que luchar por sacar adelante a su familia mientras desafían las convenciones sociales de una época donde las mujeres dependen de un hombre para salir adelante.",
+      "inicio": "2026-10-02T18:10:00",
+      "fin": "2026-10-02T19:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/seishermanas.jpg"
+    },
+    {
+      "titulo": "Salón de té La Moderna",
+      "descripcion": "Madrid, 1930. Las empleadas de la tetería La Moderna, una de las más distinguidas de la capital española, navegan su vida entre la clientela adinerada y el inestable ambiente político y social del país. Una de estas trabajadoras es la joven Matilde.",
+      "inicio": "2026-10-02T19:10:00",
+      "fin": "2026-10-02T20:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/salondetelamoderna.jpg"
+    },
+    {
+      "titulo": "Acacias 38",
+      "descripcion": "Gran expectación en el barrio por la llegada de los vecinos que van a ocupar el piso principal. Al final quien llega no es otra que Úrsula, acompañada de Jaime, Samuel y Blanca.",
+      "inicio": "2026-10-02T20:10:00",
+      "fin": "2026-10-02T21:05:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La promesa",
+      "descripcion": "Una mujer es recompensada con un trabajo en el Palacio La Promesa tras salvar al hijo del Marqués de Luján. Ahora, esta se prepara para fraguar lentamente una venganza.",
+      "inicio": "2026-10-02T21:05:00",
+      "fin": "2026-10-02T22:05:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lapromesa.jpg"
+    },
+    {
+      "titulo": "Sabuesos • Un millón de pistas",
+      "descripcion": "Un millón de pistas | Alberto y Max son contratados para investigar una serie de robos en un hotel de lujo. Raúl está convencido de que ha oído hablar a Max y se propone conseguir demostrarlo. Además, Alberto tiene problemas para dar un paso adelante con Paula.",
+      "inicio": "2026-10-02T22:05:00",
+      "fin": "2026-10-02T23:20:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Iglesias. Hermanos a la obra",
+      "descripcion": "Los populares hermanos se encargan de llevar a cabo las reformas para diferentes amigos y celebridades, todos muy conocidos por el gran público, tanto en Madrid como en Miami.",
+      "inicio": "2026-10-02T23:20:00",
+      "fin": "2026-10-03T00:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/losiglesiashermanosalaobra.jpg"
+    },
+    {
+      "titulo": "Salón de té La Moderna",
+      "descripcion": "Madrid, 1930. Las empleadas de la tetería La Moderna, una de las más distinguidas de la capital española, navegan su vida entre la clientela adinerada y el inestable ambiente político y social del país. Una de estas trabajadoras es la joven Matilde.",
+      "inicio": "2026-10-03T00:30:00",
+      "fin": "2026-10-03T01:25:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/salondetelamoderna.jpg"
     },
     {
       "titulo": "Star TVE",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T11:40:00",
-      "fin": "2026-10-01T12:00:00",
+      "inicio": "2026-10-03T01:25:00",
+      "fin": "2026-10-03T02:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Star TVE",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T12:00:00",
-      "fin": "2026-10-01T16:00:00",
+      "inicio": "2026-10-03T02:00:00",
+      "fin": "2026-10-03T06:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Star TVE",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T16:00:00",
-      "fin": "2026-10-01T20:00:00",
+      "inicio": "2026-10-03T06:00:00",
+      "fin": "2026-10-03T10:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Star TVE",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T20:00:00",
-      "fin": "2026-10-02T00:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Star TVE",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T00:00:00",
-      "fin": "2026-10-02T04:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Star TVE",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T04:00:00",
-      "fin": "2026-10-02T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Star TVE",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T08:00:00",
-      "fin": "2026-10-02T12:00:00",
+      "inicio": "2026-10-03T10:00:00",
+      "fin": "2026-10-03T14:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]

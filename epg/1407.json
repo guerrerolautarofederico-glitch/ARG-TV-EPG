@@ -1,66 +1,115 @@
 {
   "actual": {
-    "titulo": "NBA TV",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-10-01T11:00:00",
-    "fin": "2026-10-01T15:00:00",
+    "titulo": "The Association",
+    "descripcion": "The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.",
+    "inicio": "2026-10-02T07:00:00",
+    "fin": "2026-10-02T13:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "NBA TV",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-10-01T15:00:00",
-    "fin": "2026-10-01T19:00:00",
+    "titulo": "WNBA Playback",
+    "descripcion": "Estreno ║ [REPLAY] action from a WNBA matchup.",
+    "inicio": "2026-10-02T13:00:00",
+    "fin": "2026-10-02T14:30:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "NBA TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T11:00:00",
-      "fin": "2026-10-01T15:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NBA TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T15:00:00",
-      "fin": "2026-10-01T19:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NBA TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T19:00:00",
-      "fin": "2026-10-01T23:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NBA TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T23:00:00",
-      "fin": "2026-10-02T03:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NBA TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T03:00:00",
-      "fin": "2026-10-02T07:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NBA TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "titulo": "The Association",
+      "descripcion": "The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.",
       "inicio": "2026-10-02T07:00:00",
-      "fin": "2026-10-02T11:00:00",
+      "fin": "2026-10-02T13:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "WNBA Playback",
+      "descripcion": "Estreno ║ [REPLAY] action from a WNBA matchup.",
+      "inicio": "2026-10-02T13:00:00",
+      "fin": "2026-10-02T14:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "WNBA Shot Clock: Games of the Night",
+      "descripcion": "Estreno ║ From Oct. 1, 2026.",
+      "inicio": "2026-10-02T14:30:00",
+      "fin": "2026-10-02T15:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Association • Media Day Special",
+      "descripcion": "Media Day Special | The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.",
+      "inicio": "2026-10-02T15:00:00",
+      "fin": "2026-10-02T17:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "WNBA Playback",
+      "descripcion": "[REPLAY] action from a WNBA matchup.",
+      "inicio": "2026-10-02T17:00:00",
+      "fin": "2026-10-02T18:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Top 50 Handles: 2025-26 Season",
+      "descripcion": "A countdown of the top 50 NBA players with the best handles during the 2025-26 NBA season.",
+      "inicio": "2026-10-02T18:30:00",
+      "fin": "2026-10-02T19:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Basketcast",
+      "descripcion": "Analysis and commentary from various voices covering the league.",
+      "inicio": "2026-10-02T19:00:00",
+      "fin": "2026-10-02T20:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Boys High School Basketball • Border League: Calvary Christian Academy (Fla.) vs. CP Next Level Academy (Ga.)",
+      "descripcion": "Estreno ║ Border League: Calvary Christian Academy (Fla.) vs. CP Next Level Academy (Ga.) | Action from boys high school basketball.",
+      "inicio": "2026-10-02T20:00:00",
+      "fin": "2026-10-02T21:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "WNBA Shot Clock: Games of the Night",
+      "descripcion": "From Oct. 1, 2026.",
+      "inicio": "2026-10-02T21:30:00",
+      "fin": "2026-10-02T22:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Association",
+      "descripcion": "Estreno ║ The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.",
+      "inicio": "2026-10-02T22:00:00",
+      "fin": "2026-10-03T00:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Top 100 Dunks: 2025-26 Season",
+      "descripcion": "A countdown of the top 100 dunks from the 2025-26 National Basketball Association season and postseason.",
+      "inicio": "2026-10-03T00:00:00",
+      "fin": "2026-10-03T01:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "NBA TV",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T11:00:00",
-      "fin": "2026-10-02T15:00:00",
+      "inicio": "2026-10-03T01:00:00",
+      "fin": "2026-10-03T05:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NBA TV",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-03T05:00:00",
+      "fin": "2026-10-03T09:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NBA TV",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-03T09:00:00",
+      "fin": "2026-10-03T13:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]

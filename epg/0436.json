@@ -1,66 +1,150 @@
 {
   "actual": {
-    "titulo": "Fox Sports",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-10-01T11:00:00",
-    "fin": "2026-10-01T15:00:00",
+    "titulo": "FOX Fit",
+    "descripcion": "Ejercicios y rutinas de trabajo para obtener un cuerpo perfecto de forma sencilla y amena. Todo ello de la mano de expertas consagradas en el mundo del fitness.",
+    "inicio": "2026-10-02T10:00:00",
+    "fin": "2026-10-02T11:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Fox Sports",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-10-01T15:00:00",
-    "fin": "2026-10-01T19:00:00",
+    "titulo": "Central Fox",
+    "descripcion": "Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
+    "inicio": "2026-10-02T11:00:00",
+    "fin": "2026-10-02T12:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Fox Sports",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T11:00:00",
-      "fin": "2026-10-01T15:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fox Sports",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T15:00:00",
-      "fin": "2026-10-01T19:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fox Sports",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T19:00:00",
-      "fin": "2026-10-01T23:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fox Sports",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-01T23:00:00",
-      "fin": "2026-10-02T03:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fox Sports",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T03:00:00",
-      "fin": "2026-10-02T07:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fox Sports",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T07:00:00",
+      "titulo": "FOX Fit",
+      "descripcion": "Ejercicios y rutinas de trabajo para obtener un cuerpo perfecto de forma sencilla y amena. Todo ello de la mano de expertas consagradas en el mundo del fitness.",
+      "inicio": "2026-10-02T10:00:00",
       "fin": "2026-10-02T11:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
+      "titulo": "Central Fox",
+      "descripcion": "Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
+      "inicio": "2026-10-02T11:00:00",
+      "fin": "2026-10-02T12:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La última palabra",
+      "descripcion": "Programa de debate y polémica sobre el fútbol.",
+      "inicio": "2026-10-02T12:00:00",
+      "fin": "2026-10-02T13:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fox Gol México",
+      "descripcion": "Noticias, análisis, comentarios, goles y las jugadas más destacadas de la Liga mexicana de fútbol.",
+      "inicio": "2026-10-02T13:00:00",
+      "fin": "2026-10-02T14:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "FIA TCR World Tour",
+      "descripcion": "Cobertura, reportajes, análisis y resúmenes del campeonato internacional de automóviles de turismo: TCR World Tour.",
+      "inicio": "2026-10-02T14:00:00",
+      "fin": "2026-10-02T14:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "All Elite Wrestling: Dynamite",
+      "descripcion": "La lucha más intensa llega con 🤼 [AEW] AEW Dynamite: combates espectaculares, rivalidades al límite y estrellas que lo dejan todo en el ring.",
+      "inicio": "2026-10-02T14:30:00",
+      "fin": "2026-10-02T17:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/allelitewrestlingdynamite.jpg"
+    },
+    {
+      "titulo": "Mediterranean Games",
+      "descripcion": "El espíritu olímpico se enciende en la región mediterránea: talento, competencia y emoción en cada prueba rumbo a la grandeza deportiva.",
+      "inicio": "2026-10-02T17:00:00",
+      "fin": "2026-10-02T17:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "FIA TCR World Tour",
+      "descripcion": "Cobertura, reportajes, análisis y resúmenes del campeonato internacional de automóviles de turismo: TCR World Tour.",
+      "inicio": "2026-10-02T17:30:00",
+      "fin": "2026-10-02T18:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fox Gol México",
+      "descripcion": "Noticias, análisis, comentarios, goles y las jugadas más destacadas de la Liga mexicana de fútbol.",
+      "inicio": "2026-10-02T18:00:00",
+      "fin": "2026-10-02T19:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fox Sports Radio México",
+      "descripcion": "Estreno ║ Los mayores expertos en fútbol mexicano debaten sobre el deporte rey en el plano nacional e internacional.",
+      "inicio": "2026-10-02T19:00:00",
+      "fin": "2026-10-02T20:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Central Fox",
+      "descripcion": "Estreno ║ Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
+      "inicio": "2026-10-02T20:00:00",
+      "fin": "2026-10-02T20:55:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol masculino amistosos internacionales • Colombia vs. Paraguay",
+      "descripcion": "Estreno ║ Colombia vs. Paraguay | Cobertura del duelo amistoso entre selecciones sudamericanas. Desde el Sports Illustrated Stadium, en Harrison.",
+      "inicio": "2026-10-02T20:55:00",
+      "fin": "2026-10-02T23:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Fifth Quarter • Ronda 1",
+      "descripcion": "Ronda 1 | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-02T23:00:00",
+      "fin": "2026-10-02T23:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Icarus Sports • Gearing Up",
+      "descripcion": "Gearing Up | Un recorrido por la Brasil Stock Car Pro Series, el GT3 Gulf 12 Hours en Abu Dabi y el Monster Jam \"ThunderROARus\".",
+      "inicio": "2026-10-02T23:15:00",
+      "fin": "2026-10-02T23:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Fifth Quarter • Ronda 1",
+      "descripcion": "Ronda 1 | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-02T23:45:00",
+      "fin": "2026-10-03T00:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "+90",
+      "descripcion": "Estreno ║ Se analiza todo lo que sucede en las ligas más relevantes del fútbol internacional más allá de los 90 minutos de juego. Sin dejar de lado el fútbol mexicano.",
+      "inicio": "2026-10-03T00:00:00",
+      "fin": "2026-10-03T01:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
       "titulo": "Fox Sports",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T11:00:00",
-      "fin": "2026-10-02T15:00:00",
+      "inicio": "2026-10-03T01:00:00",
+      "fin": "2026-10-03T05:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fox Sports",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-03T05:00:00",
+      "fin": "2026-10-03T09:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fox Sports",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-03T09:00:00",
+      "fin": "2026-10-03T13:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]
