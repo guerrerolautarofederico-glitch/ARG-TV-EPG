@@ -1,164 +1,115 @@
 {
   "actual": {
-    "titulo": "Directo al grano",
-    "descripcion": "Información sobre la agroindustria.",
-    "inicio": "2026-10-02T10:50:00",
-    "fin": "2026-10-02T12:55:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/directoalgrano.jpg"
+    "titulo": "Telediario 1ª edición",
+    "descripcion": "Espacio de información audiovisual que hace un repaso diario a la actualidad general de España y el mundo.",
+    "inicio": "2026-10-03T09:55:00",
+    "fin": "2026-10-03T10:45:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Senderos con Juan y Migas",
-    "descripcion": "Un recorrido por las rutas más importantes del planeta y sus lugares emblemáticos, como Castilla-La Mancha, Canarias, Huelva, Asturias y otros.",
-    "inicio": "2026-10-02T12:55:00",
-    "fin": "2026-10-02T13:45:00",
+    "titulo": "Deportes",
+    "descripcion": "Lo mejor de las noticias en deportes nacionales e internacionales, fútbol, ciclismo, automovilismo, tenis, y mucho más.",
+    "inicio": "2026-10-03T10:45:00",
+    "fin": "2026-10-03T10:50:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Directo al grano",
-      "descripcion": "Información sobre la agroindustria.",
-      "inicio": "2026-10-02T10:50:00",
-      "fin": "2026-10-02T12:55:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/directoalgrano.jpg"
-    },
-    {
-      "titulo": "Senderos con Juan y Migas",
-      "descripcion": "Un recorrido por las rutas más importantes del planeta y sus lugares emblemáticos, como Castilla-La Mancha, Canarias, Huelva, Asturias y otros.",
-      "inicio": "2026-10-02T12:55:00",
-      "fin": "2026-10-02T13:45:00",
+      "titulo": "Telediario 1ª edición",
+      "descripcion": "Espacio de información audiovisual que hace un repaso diario a la actualidad general de España y el mundo.",
+      "inicio": "2026-10-03T09:55:00",
+      "fin": "2026-10-03T10:45:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Saber y ganar",
-      "descripcion": "Concurso que pone a prueba los conocimientos y agilidad mental a través de un auténtico bombardeo de preguntas de ámbito general. Tres concursantes compiten en cada programa para continuar en el siguiente y ganar más dinero.",
-      "inicio": "2026-10-02T13:45:00",
-      "fin": "2026-10-02T14:40:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/saberyganar.jpg"
+      "titulo": "Deportes",
+      "descripcion": "Lo mejor de las noticias en deportes nacionales e internacionales, fútbol, ciclismo, automovilismo, tenis, y mucho más.",
+      "inicio": "2026-10-03T10:45:00",
+      "fin": "2026-10-03T10:50:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "D corazón",
+      "descripcion": "Enrico es un niño de secundaria que vive con su familia en Torino, Italia. Cuando comienza el nuevo semestre, Enrico descubre que su maestro favorito es reemplazado por uno muy estricto. Él y sus compañeros de clase, mientras enfrentan los desafíos de su vida personal, tratan de llevarse bien con el nuevo maestro.",
+      "inicio": "2026-10-03T10:50:00",
+      "fin": "2026-10-03T12:40:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dcorazon.jpg"
+    },
+    {
+      "titulo": "De tapas por España",
+      "descripcion": "Un viaje donde se marida la historia, el arte y la gastronomía. Un recorrido de norte a sur y de este a oeste para disfrutar de las tapas más típicas de cada lugar de España.",
+      "inicio": "2026-10-03T12:40:00",
+      "fin": "2026-10-03T13:40:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/detapasporespana.jpg"
     },
     {
       "titulo": "Esto es España",
       "descripcion": "Un recorrido por la geografía española desde una perspectiva joven y moderna, con el foco puesto en la sostenibilidad, la diversidad y la oferta natural, cultural y social de la España del siglo XXI.",
-      "inicio": "2026-10-02T14:40:00",
-      "fin": "2026-10-02T14:45:00",
+      "inicio": "2026-10-03T13:40:00",
+      "fin": "2026-10-03T14:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Malas lenguas",
-      "descripcion": "Los líderes de siete democracias mas ricas del mundo se pierden en un bosque, al tiempo que tratan de redactar una declaración sobre una crisis mundial, enfrentándose a peligros mientras intentan encontrar la salida.",
-      "inicio": "2026-10-02T14:45:00",
-      "fin": "2026-10-02T15:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/malaslenguas.jpg"
+      "titulo": "Cosas nuestras",
+      "descripcion": "Actualidad, sucesos, climatología, curiosidades, naturaleza y juegos con un tono familiar.",
+      "inicio": "2026-10-03T14:00:00",
+      "fin": "2026-10-03T15:35:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Zoom Tendencias",
-      "descripcion": "Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética; estilos que marcan tendencias.",
-      "inicio": "2026-10-02T15:30:00",
-      "fin": "2026-10-02T16:00:00",
+      "titulo": "España sin asfalto",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-03T15:35:00",
+      "fin": "2026-10-03T16:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Noticias 24h",
-      "descripcion": "Estreno ║ Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-      "inicio": "2026-10-02T16:00:00",
-      "fin": "2026-10-02T16:30:00",
+      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
+      "inicio": "2026-10-03T16:00:00",
+      "fin": "2026-10-03T16:30:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Reportaje Informe Semanal 24H",
-      "descripcion": "Estreno ║ Un programa de reportajes para todos los públicos, con temas de interés nacional e internacional.",
-      "inicio": "2026-10-02T16:30:00",
-      "fin": "2026-10-02T16:45:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+      "titulo": "De tapas por España",
+      "descripcion": "Un viaje donde se marida la historia, el arte y la gastronomía. Un recorrido de norte a sur y de este a oeste para disfrutar de las tapas más típicas de cada lugar de España.",
+      "inicio": "2026-10-03T16:30:00",
+      "fin": "2026-10-03T18:05:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/detapasporespana.jpg"
     },
     {
-      "titulo": "Cifras y letras",
-      "descripcion": "Concurso cuyas pruebas deben superarse jugando con cifras y letras, donde en cada entrega, los concursantes luchan por llevarse el gran premio acumulado.",
-      "inicio": "2026-10-02T16:45:00",
-      "fin": "2026-10-02T17:45:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Valle Salvaje",
-      "descripcion": "Tras la muerte de su padre, la joven Adriana descubre que, como consecuencia de un pacto secreto, deberá viajar hasta Valle Salvaje, en el norte de España, para casarse con un desconocido, pero un oscuro secreto la persigue hasta el remoto valle.",
-      "inicio": "2026-10-02T17:45:00",
-      "fin": "2026-10-02T18:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La promesa",
-      "descripcion": "Una mujer es recompensada con un trabajo en el Palacio La Promesa tras salvar al hijo del Marqués de Luján. Ahora, esta se prepara para fraguar lentamente una venganza.",
-      "inicio": "2026-10-02T18:30:00",
-      "fin": "2026-10-02T19:35:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lapromesa.jpg"
-    },
-    {
-      "titulo": "Sukha",
-      "descripcion": "Un espacio dedicado a la exploración de la cultura, la salud y el bienestar a través del debate.",
-      "inicio": "2026-10-02T19:35:00",
-      "fin": "2026-10-02T20:25:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Turismo rural en el mundo",
-      "descripcion": "Un recorrido por diversos destinos internacionales para mostrar la historia, la gastronomía y las ofertas de ocio en sus entornos rurales.",
-      "inicio": "2026-10-02T20:25:00",
-      "fin": "2026-10-02T21:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TD Internacional",
-      "descripcion": "Estreno ║ Espacio donde se presentan las noticias nacionales e internacionales.",
-      "inicio": "2026-10-02T21:00:00",
-      "fin": "2026-10-02T21:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los archivos secretos del No-Do",
-      "descripcion": "En los almacenes de la Filmoteca Española hay más de 6.000 latas con películas que el NO-DO, el noticiario franquista, rodó y que no vieron la luz. ¿Por qué se ocultaron? ¿Fue la censura? RTVE ha tenido acceso a esos archivos para explorar qué contienen todas estas latas que se cerraron sin que su contenido llegase a los cines españoles y que serán descubiertas en la nueva serie documental ‘Los archivos secretos del NO-DO’, producida en colaboración con Minoría Absoluta.",
-      "inicio": "2026-10-02T21:30:00",
-      "fin": "2026-10-02T22:25:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/losarchivossecretosdelnodo.jpg"
-    },
-    {
-      "titulo": "Documentales investigación",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T22:25:00",
-      "fin": "2026-10-02T23:27:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los archivos secretos del No-Do",
-      "descripcion": "En los almacenes de la Filmoteca Española hay más de 6.000 latas con películas que el NO-DO, el noticiario franquista, rodó y que no vieron la luz. ¿Por qué se ocultaron? ¿Fue la censura? RTVE ha tenido acceso a esos archivos para explorar qué contienen todas estas latas que se cerraron sin que su contenido llegase a los cines españoles y que serán descubiertas en la nueva serie documental ‘Los archivos secretos del NO-DO’, producida en colaboración con Minoría Absoluta.",
-      "inicio": "2026-10-02T23:27:00",
-      "fin": "2026-10-03T00:25:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/losarchivossecretosdelnodo.jpg"
-    },
-    {
-      "titulo": "El perro andaluz by Manu Sánchez",
-      "descripcion": "Una apuesta televisiva que combina humor, música, actualidad, entrevistas y reflexión social desde una mirada contemporánea.",
-      "inicio": "2026-10-03T00:25:00",
-      "fin": "2026-10-03T02:00:00",
+      "titulo": "Las rutas de Ambrosio",
+      "descripcion": "Un recorrido por la vasta gastronomía española, la cual combina tradición y modernidad con recetas clásicas y de vanguardia.",
+      "inicio": "2026-10-03T18:05:00",
+      "fin": "2026-10-03T19:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TVE Internacional",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-03T02:00:00",
-      "fin": "2026-10-03T06:00:00",
+      "inicio": "2026-10-03T19:00:00",
+      "fin": "2026-10-03T23:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TVE Internacional",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-03T06:00:00",
-      "fin": "2026-10-03T10:00:00",
+      "inicio": "2026-10-03T23:00:00",
+      "fin": "2026-10-04T03:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TVE Internacional",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-03T10:00:00",
-      "fin": "2026-10-03T14:00:00",
+      "inicio": "2026-10-04T03:00:00",
+      "fin": "2026-10-04T07:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TVE Internacional",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-04T07:00:00",
+      "fin": "2026-10-04T11:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]

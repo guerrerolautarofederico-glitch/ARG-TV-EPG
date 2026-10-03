@@ -1,136 +1,87 @@
 {
   "actual": {
-    "titulo": "El transbordador",
+    "titulo": "Hashtag Patagonia Radio",
     "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-10-02T08:00:00",
-    "fin": "2026-10-02T11:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/eltransbordador.jpg"
+    "inicio": "2026-10-03T10:00:00",
+    "fin": "2026-10-03T12:30:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hashtagpatagoniaradio.jpg"
   },
   "siguiente": {
     "titulo": "Superhits Patagonia",
     "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-10-02T11:00:00",
-    "fin": "2026-10-02T12:00:00",
+    "inicio": "2026-10-03T12:30:00",
+    "fin": "2026-10-03T17:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/superhitspatagonia.jpg"
   },
   "lista": [
-    {
-      "titulo": "El transbordador",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T08:00:00",
-      "fin": "2026-10-02T11:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/eltransbordador.jpg"
-    },
-    {
-      "titulo": "Superhits Patagonia",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T11:00:00",
-      "fin": "2026-10-02T12:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/superhitspatagonia.jpg"
-    },
-    {
-      "titulo": "Sonido VIP",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T12:00:00",
-      "fin": "2026-10-02T12:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/sonidovip.jpg"
-    },
-    {
-      "titulo": "Soy lo que como",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T12:30:00",
-      "fin": "2026-10-02T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/soyloquecomo.jpg"
-    },
-    {
-      "titulo": "Menú Patagonia",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T13:00:00",
-      "fin": "2026-10-02T15:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/menupatagonia.jpg"
-    },
-    {
-      "titulo": "Hashtag",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T15:00:00",
-      "fin": "2026-10-02T17:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hashtag.jpg"
-    },
-    {
-      "titulo": "Ingobernables",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T17:00:00",
-      "fin": "2026-10-02T18:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/ingobernables.jpg"
-    },
-    {
-      "titulo": "Viva Chile",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T18:00:00",
-      "fin": "2026-10-02T19:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/vivachile.jpg"
-    },
-    {
-      "titulo": "Superhits Patagonia PM",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T19:30:00",
-      "fin": "2026-10-02T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/superhitspatagoniapm.jpg"
-    },
-    {
-      "titulo": "Sin Filtros",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T20:00:00",
-      "fin": "2026-10-02T22:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/sinfiltros.jpg"
-    },
-    {
-      "titulo": "Patagonia Radio Classics",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-02T22:00:00",
-      "fin": "2026-10-03T00:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/patagoniaradioclassics.jpg"
-    },
-    {
-      "titulo": "Patagonia Radio Classics",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-03T00:00:00",
-      "fin": "2026-10-03T04:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/patagoniaradioclassics.jpg"
-    },
-    {
-      "titulo": "Superhits Patagonia AM",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-03T04:00:00",
-      "fin": "2026-10-03T06:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/superhitspatagoniaam.jpg"
-    },
-    {
-      "titulo": "Viva Chile",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-03T06:00:00",
-      "fin": "2026-10-03T07:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/vivachile.jpg"
-    },
-    {
-      "titulo": "Superhits Patagonia AM",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-03T07:00:00",
-      "fin": "2026-10-03T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/superhitspatagoniaam.jpg"
-    },
-    {
-      "titulo": "Superhits",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-03T09:00:00",
-      "fin": "2026-10-03T10:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/superhits.jpg"
-    },
     {
       "titulo": "Hashtag Patagonia Radio",
       "descripcion": "La información de este programa no se encuentra disponible.",
       "inicio": "2026-10-03T10:00:00",
       "fin": "2026-10-03T12:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hashtagpatagoniaradio.jpg"
+    },
+    {
+      "titulo": "Superhits Patagonia",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-03T12:30:00",
+      "fin": "2026-10-03T17:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/superhitspatagonia.jpg"
+    },
+    {
+      "titulo": "Superhits",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-03T17:00:00",
+      "fin": "2026-10-03T21:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/superhits.jpg"
+    },
+    {
+      "titulo": "Patagonia Radio Classics",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-03T21:00:00",
+      "fin": "2026-10-04T01:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/patagoniaradioclassics.jpg"
+    },
+    {
+      "titulo": "Patagonia Radio Classics",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-04T01:00:00",
+      "fin": "2026-10-04T04:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/patagoniaradioclassics.jpg"
+    },
+    {
+      "titulo": "Superhits Patagonia AM",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-04T04:00:00",
+      "fin": "2026-10-04T06:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/superhitspatagoniaam.jpg"
+    },
+    {
+      "titulo": "Viva Chile",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-04T06:00:00",
+      "fin": "2026-10-04T07:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/vivachile.jpg"
+    },
+    {
+      "titulo": "Superhits Patagonia AM",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-04T07:00:00",
+      "fin": "2026-10-04T09:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/superhitspatagoniaam.jpg"
+    },
+    {
+      "titulo": "Soy Lo Que Como (Rep)",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-04T09:00:00",
+      "fin": "2026-10-04T10:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hashtag Patagonia Radio",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-04T10:00:00",
+      "fin": "2026-10-04T12:30:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hashtagpatagoniaradio.jpg"
     }
   ]

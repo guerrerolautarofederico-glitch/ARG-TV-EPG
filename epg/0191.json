@@ -1,122 +1,80 @@
 {
   "actual": {
-    "titulo": "Conexión ciudadana",
-    "descripcion": "Noticias, entrevistas y participación ciudadana.",
-    "inicio": "2026-10-02T08:00:00",
-    "fin": "2026-10-02T12:00:00",
+    "titulo": "Programación regular",
+    "descripcion": "Videos musicales nacionales e internacionales.",
+    "inicio": "2026-10-03T10:00:00",
+    "fin": "2026-10-03T11:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Programación regular",
-    "descripcion": "Videos musicales nacionales e internacionales.",
-    "inicio": "2026-10-02T12:00:00",
-    "fin": "2026-10-02T13:00:00",
+    "titulo": "Poetas del mundo",
+    "descripcion": "Espacio para resaltar la cultura regional a través del arte, literatura, folclore y más.",
+    "inicio": "2026-10-03T11:00:00",
+    "fin": "2026-10-03T12:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Conexión ciudadana",
-      "descripcion": "Noticias, entrevistas y participación ciudadana.",
-      "inicio": "2026-10-02T08:00:00",
-      "fin": "2026-10-02T12:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Programación regular",
-      "descripcion": "Videos musicales nacionales e internacionales.",
-      "inicio": "2026-10-02T12:00:00",
-      "fin": "2026-10-02T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Periodismo al día",
-      "descripcion": "Noticias y entrevistas.",
-      "inicio": "2026-10-02T13:00:00",
-      "fin": "2026-10-02T14:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Programación Musical",
-      "descripcion": "Videos musicales nacionales e internacionales.",
-      "inicio": "2026-10-02T14:00:00",
-      "fin": "2026-10-02T15:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/programacionmusical.jpg"
-    },
-    {
-      "titulo": "Concierto Soberanía",
-      "descripcion": "Conciertos de artistas nacionales e internacionales.",
-      "inicio": "2026-10-02T15:00:00",
-      "fin": "2026-10-02T16:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "CNTV infantil: Bloque familiar",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes.",
-      "inicio": "2026-10-02T16:00:00",
-      "fin": "2026-10-02T17:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Impulsa Pyme",
-      "descripcion": "Entrevistas a pequeños empresarios del comercio local.",
-      "inicio": "2026-10-02T17:00:00",
-      "fin": "2026-10-02T18:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Programación regular",
-      "descripcion": "Videos musicales nacionales e internacionales.",
-      "inicio": "2026-10-02T18:00:00",
-      "fin": "2026-10-02T18:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Flow Music",
-      "descripcion": "Videos musicales nacionales e internacionales actuales.",
-      "inicio": "2026-10-02T18:30:00",
-      "fin": "2026-10-02T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Todo es posible",
-      "descripcion": "Espacio para la manifestación de la grandeza y gloria de Dios.",
-      "inicio": "2026-10-02T20:00:00",
-      "fin": "2026-10-02T21:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/todoesposible.jpg"
-    },
-    {
-      "titulo": "Programación regular",
-      "descripcion": "Videos musicales nacionales e internacionales.",
-      "inicio": "2026-10-02T21:00:00",
-      "fin": "2026-10-02T22:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Imágenes retro",
-      "descripcion": "Se presenta toda la música y los éxitos de las décadas de los 70, 80 y 90.",
-      "inicio": "2026-10-02T22:00:00",
-      "fin": "2026-10-03T01:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/imagenesretro.jpg"
-    },
-    {
-      "titulo": "Programación regular",
-      "descripcion": "Videos musicales nacionales e internacionales.",
-      "inicio": "2026-10-03T01:00:00",
-      "fin": "2026-10-03T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "CNTV infantil: Bloque familiar",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes.",
-      "inicio": "2026-10-03T09:00:00",
-      "fin": "2026-10-03T10:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Programación regular",
       "descripcion": "Videos musicales nacionales e internacionales.",
       "inicio": "2026-10-03T10:00:00",
       "fin": "2026-10-03T11:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Poetas del mundo",
+      "descripcion": "Espacio para resaltar la cultura regional a través del arte, literatura, folclore y más.",
+      "inicio": "2026-10-03T11:00:00",
+      "fin": "2026-10-03T12:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Programación regular",
+      "descripcion": "Videos musicales nacionales e internacionales.",
+      "inicio": "2026-10-03T12:00:00",
+      "fin": "2026-10-03T13:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Programación regular",
+      "descripcion": "Videos musicales nacionales e internacionales.",
+      "inicio": "2026-10-03T13:00:00",
+      "fin": "2026-10-03T17:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Programación regular",
+      "descripcion": "Videos musicales nacionales e internacionales.",
+      "inicio": "2026-10-03T17:00:00",
+      "fin": "2026-10-03T22:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Imágenes retro",
+      "descripcion": "Se presenta toda la música y los éxitos de las décadas de los 70, 80 y 90.",
+      "inicio": "2026-10-03T22:00:00",
+      "fin": "2026-10-04T01:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/imagenesretro.jpg"
+    },
+    {
+      "titulo": "Programación regular",
+      "descripcion": "Videos musicales nacionales e internacionales.",
+      "inicio": "2026-10-04T01:00:00",
+      "fin": "2026-10-04T09:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Poetas del mundo",
+      "descripcion": "Espacio para resaltar la cultura regional a través del arte, literatura, folclore y más.",
+      "inicio": "2026-10-04T09:00:00",
+      "fin": "2026-10-04T10:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Soberanía Radio y TV",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-04T10:00:00",
+      "fin": "2026-10-04T15:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]
