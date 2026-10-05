@@ -1,151 +1,130 @@
 {
   "actual": {
-    "titulo": "Documentales",
-    "descripcion": "Franja con los más aclamados documentales mundiales.",
-    "inicio": "2026-10-04T10:00:00",
-    "fin": "2026-10-04T11:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/documentales.jpg"
+    "titulo": "Temas que importan",
+    "descripcion": "Conversaciones reales, sin filtros, sobre los temas más importantes de la semana.",
+    "inicio": "2026-10-05T12:00:00",
+    "fin": "2026-10-05T13:00:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/temasqueimportan.jpg"
   },
   "siguiente": {
-    "titulo": "Distrito Emprendedor",
-    "descripcion": "Entrevista a emprendedores y consejos para una gestión exitosa.",
-    "inicio": "2026-10-04T11:00:00",
-    "fin": "2026-10-04T12:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/distritoemprendedor.jpg"
+    "titulo": "Cuéntamelo todo",
+    "descripcion": "Todos los temas que le interesan a las mujeres como psicología, belleza, salud, emprendimiento y motivación.",
+    "inicio": "2026-10-05T13:00:00",
+    "fin": "2026-10-05T14:00:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Documentales",
-      "descripcion": "Franja con los más aclamados documentales mundiales.",
-      "inicio": "2026-10-04T10:00:00",
-      "fin": "2026-10-04T11:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/documentales.jpg"
+      "titulo": "Temas que importan",
+      "descripcion": "Conversaciones reales, sin filtros, sobre los temas más importantes de la semana.",
+      "inicio": "2026-10-05T12:00:00",
+      "fin": "2026-10-05T13:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/temasqueimportan.jpg"
     },
     {
-      "titulo": "Distrito Emprendedor",
-      "descripcion": "Entrevista a emprendedores y consejos para una gestión exitosa.",
-      "inicio": "2026-10-04T11:00:00",
-      "fin": "2026-10-04T12:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/distritoemprendedor.jpg"
-    },
-    {
-      "titulo": "Manzo Dato",
-      "descripcion": "Espacio dedicado a descubrir la gastronomía local y experiencias imperdibles.",
-      "inicio": "2026-10-04T12:00:00",
-      "fin": "2026-10-04T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/manzodato.jpg"
-    },
-    {
-      "titulo": "Girovisual noticias",
-      "descripcion": "La información más destacada y las últimas noticias.",
-      "inicio": "2026-10-04T13:00:00",
-      "fin": "2026-10-04T14:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/girovisualnoticias.jpg"
-    },
-    {
-      "titulo": "Déficit Intencional",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-04T14:00:00",
-      "fin": "2026-10-04T15:00:00",
+      "titulo": "Cuéntamelo todo",
+      "descripcion": "Todos los temas que le interesan a las mujeres como psicología, belleza, salud, emprendimiento y motivación.",
+      "inicio": "2026-10-05T13:00:00",
+      "fin": "2026-10-05T14:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Amplificando Chile",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-04T15:00:00",
-      "fin": "2026-10-04T16:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/amplificandochile.jpg"
-    },
-    {
-      "titulo": "Zoom out",
-      "descripcion": "Entrevistas con expertos en psicología, espiritualidad y desarrollo personal.",
-      "inicio": "2026-10-04T16:00:00",
-      "fin": "2026-10-04T17:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/zoomout.jpg"
-    },
-    {
-      "titulo": "Iris y Petro",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-04T17:00:00",
-      "fin": "2026-10-04T18:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¿Por qué somos así?",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-04T18:00:00",
-      "fin": "2026-10-04T19:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Palosantos",
-      "descripcion": "Un espacio de conversación donde el esoterismo, la espiritualidad, las terapias holísticas y el humor se encuentran para abrir la mente y conectar con nuevas formas de comprender la vida.",
-      "inicio": "2026-10-04T19:00:00",
-      "fin": "2026-10-04T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lospalosantos.jpg"
-    },
-    {
-      "titulo": "Girovisual noticias",
-      "descripcion": "La información más destacada y las últimas noticias.",
-      "inicio": "2026-10-04T20:00:00",
-      "fin": "2026-10-04T21:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/girovisualnoticias.jpg"
-    },
-    {
-      "titulo": "1 hora de datos curiosos",
-      "descripcion": "Curiosidades y datos para disfrutar en familia.",
-      "inicio": "2026-10-04T21:00:00",
-      "fin": "2026-10-04T22:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/1horadedatoscuriosos.jpg"
-    },
-    {
-      "titulo": "Sin Filtros",
-      "descripcion": "Noticias, entrevistas, debates.",
-      "inicio": "2026-10-04T22:00:00",
-      "fin": "2026-10-05T00:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/sinfiltros.jpg"
-    },
-    {
-      "titulo": "Atomicas",
-      "descripcion": "Entrevistas, actualidad, moda y entretenimiento con invitadas y panelistas.",
-      "inicio": "2026-10-05T00:00:00",
-      "fin": "2026-10-05T01:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/atomicas.jpg"
-    },
-    {
-      "titulo": "Mister Roka",
-      "descripcion": "Todos los temas relacionados con la vida en Alemania, según la experiencia de un chileno: los supermercados, la comida, cómo emigrar, vivir, trabajar y estudiar en el país.",
-      "inicio": "2026-10-05T01:00:00",
-      "fin": "2026-10-05T02:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Amplificando Chile",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-05T02:00:00",
-      "fin": "2026-10-05T03:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/amplificandochile.jpg"
     },
     {
       "titulo": "Música al plato",
       "descripcion": "Un programa para disfrutar de una variedad musical seleccionada por ti.",
-      "inicio": "2026-10-05T03:00:00",
-      "fin": "2026-10-05T08:00:00",
+      "inicio": "2026-10-05T14:00:00",
+      "fin": "2026-10-05T15:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/musicaalplato.jpg"
     },
     {
       "titulo": "Doctor en casa",
       "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
-      "inicio": "2026-10-05T08:00:00",
-      "fin": "2026-10-05T09:00:00",
+      "inicio": "2026-10-05T15:00:00",
+      "fin": "2026-10-05T16:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/doctorencasa.jpg"
+    },
+    {
+      "titulo": "Pulso regional",
+      "descripcion": "Debate, análisis y conversación de alto nivel con quienes tienen experiencia y con quienes tienen mucho que decir.",
+      "inicio": "2026-10-05T16:00:00",
+      "fin": "2026-10-05T17:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "1 hora de datos curiosos",
+      "descripcion": "Curiosidades y datos para disfrutar en familia.",
+      "inicio": "2026-10-05T17:00:00",
+      "fin": "2026-10-05T18:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/1horadedatoscuriosos.jpg"
+    },
+    {
+      "titulo": "Temas que importan",
+      "descripcion": "Conversaciones reales, sin filtros, sobre los temas más importantes de la semana.",
+      "inicio": "2026-10-05T18:00:00",
+      "fin": "2026-10-05T19:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/temasqueimportan.jpg"
+    },
+    {
+      "titulo": "Estilo chic",
+      "descripcion": "Moda, belleza y vida sana. Con Sabrina Sosa y Javier Avilés.",
+      "inicio": "2026-10-05T19:00:00",
+      "fin": "2026-10-05T20:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/estilochic.jpg"
+    },
+    {
+      "titulo": "Sin Filtros",
+      "descripcion": "Programa de política y actualidad nacional.",
+      "inicio": "2026-10-05T20:00:00",
+      "fin": "2026-10-05T22:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/sinfiltros.jpg"
+    },
+    {
+      "titulo": "Pulso regional",
+      "descripcion": "Debate, análisis y conversación de alto nivel con quienes tienen experiencia y con quienes tienen mucho que decir.",
+      "inicio": "2026-10-05T22:00:00",
+      "fin": "2026-10-05T23:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Escápate conmigo",
+      "descripcion": "Lucerito es una huérfana que vive con su malvada tía Raymunda en una gran Hacienda. Ahí tienen un orfanato en el cual ofrecen clases a los niños. Raymunda quiere casar a Lucerito con Gastón, un señor muy rico. Pero Lucerito escapa a la Ciudad de México para reunirse con Manuel y conseguir su sueño de ser una gran cantante. En el camino conoce a unos personajes muy simpáticos que la protegen de todo.",
+      "inicio": "2026-10-05T23:00:00",
+      "fin": "2026-10-06T00:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/escapateconmigo.jpg"
+    },
+    {
+      "titulo": "Música al plato",
+      "descripcion": "Un programa para disfrutar de una variedad musical seleccionada por ti.",
+      "inicio": "2026-10-06T00:00:00",
+      "fin": "2026-10-06T08:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/musicaalplato.jpg"
+    },
+    {
+      "titulo": "Doctor en casa",
+      "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
+      "inicio": "2026-10-06T08:00:00",
+      "fin": "2026-10-06T09:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/doctorencasa.jpg"
     },
     {
       "titulo": "Sin Filtros",
       "descripcion": "Programa de política y actualidad nacional.",
-      "inicio": "2026-10-05T09:00:00",
-      "fin": "2026-10-05T11:00:00",
+      "inicio": "2026-10-06T09:00:00",
+      "fin": "2026-10-06T11:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/sinfiltros.jpg"
+    },
+    {
+      "titulo": "Manada Gotika",
+      "descripcion": "El primer programa dedicado a la multifamiliar que busca mejorar la calidad de vida y brindar bienestar a cada uno de sus integrantes, sobre todo crear conciencia sobre la tenencia responsable de animales y sobre el cuidado del medio ambiente.",
+      "inicio": "2026-10-06T11:00:00",
+      "fin": "2026-10-06T12:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Temas que importan",
+      "descripcion": "Conversaciones reales, sin filtros, sobre los temas más importantes de la semana.",
+      "inicio": "2026-10-06T12:00:00",
+      "fin": "2026-10-06T13:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/temasqueimportan.jpg"
     }
   ]
 }
