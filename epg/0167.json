@@ -1,117 +1,19 @@
 {
   "actual": {
-    "titulo": "Temas que importan",
-    "descripcion": "Conversaciones reales, sin filtros, sobre los temas más importantes de la semana.",
-    "inicio": "2026-10-05T12:00:00",
-    "fin": "2026-10-05T13:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/temasqueimportan.jpg"
-  },
-  "siguiente": {
-    "titulo": "Cuéntamelo todo",
-    "descripcion": "Todos los temas que le interesan a las mujeres como psicología, belleza, salud, emprendimiento y motivación.",
-    "inicio": "2026-10-05T13:00:00",
-    "fin": "2026-10-05T14:00:00",
+    "titulo": "Manada Gotika",
+    "descripcion": "El primer programa dedicado a la multifamiliar que busca mejorar la calidad de vida y brindar bienestar a cada uno de sus integrantes, sobre todo crear conciencia sobre la tenencia responsable de animales y sobre el cuidado del medio ambiente.",
+    "inicio": "2026-10-06T11:00:00",
+    "fin": "2026-10-06T12:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
+  "siguiente": {
+    "titulo": "Temas que importan",
+    "descripcion": "Conversaciones reales, sin filtros, sobre los temas más importantes de la semana.",
+    "inicio": "2026-10-06T12:00:00",
+    "fin": "2026-10-06T13:00:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/temasqueimportan.jpg"
+  },
   "lista": [
-    {
-      "titulo": "Temas que importan",
-      "descripcion": "Conversaciones reales, sin filtros, sobre los temas más importantes de la semana.",
-      "inicio": "2026-10-05T12:00:00",
-      "fin": "2026-10-05T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/temasqueimportan.jpg"
-    },
-    {
-      "titulo": "Cuéntamelo todo",
-      "descripcion": "Todos los temas que le interesan a las mujeres como psicología, belleza, salud, emprendimiento y motivación.",
-      "inicio": "2026-10-05T13:00:00",
-      "fin": "2026-10-05T14:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Música al plato",
-      "descripcion": "Un programa para disfrutar de una variedad musical seleccionada por ti.",
-      "inicio": "2026-10-05T14:00:00",
-      "fin": "2026-10-05T15:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/musicaalplato.jpg"
-    },
-    {
-      "titulo": "Doctor en casa",
-      "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
-      "inicio": "2026-10-05T15:00:00",
-      "fin": "2026-10-05T16:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/doctorencasa.jpg"
-    },
-    {
-      "titulo": "Pulso regional",
-      "descripcion": "Debate, análisis y conversación de alto nivel con quienes tienen experiencia y con quienes tienen mucho que decir.",
-      "inicio": "2026-10-05T16:00:00",
-      "fin": "2026-10-05T17:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "1 hora de datos curiosos",
-      "descripcion": "Curiosidades y datos para disfrutar en familia.",
-      "inicio": "2026-10-05T17:00:00",
-      "fin": "2026-10-05T18:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/1horadedatoscuriosos.jpg"
-    },
-    {
-      "titulo": "Temas que importan",
-      "descripcion": "Conversaciones reales, sin filtros, sobre los temas más importantes de la semana.",
-      "inicio": "2026-10-05T18:00:00",
-      "fin": "2026-10-05T19:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/temasqueimportan.jpg"
-    },
-    {
-      "titulo": "Estilo chic",
-      "descripcion": "Moda, belleza y vida sana. Con Sabrina Sosa y Javier Avilés.",
-      "inicio": "2026-10-05T19:00:00",
-      "fin": "2026-10-05T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/estilochic.jpg"
-    },
-    {
-      "titulo": "Sin Filtros",
-      "descripcion": "Programa de política y actualidad nacional.",
-      "inicio": "2026-10-05T20:00:00",
-      "fin": "2026-10-05T22:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/sinfiltros.jpg"
-    },
-    {
-      "titulo": "Pulso regional",
-      "descripcion": "Debate, análisis y conversación de alto nivel con quienes tienen experiencia y con quienes tienen mucho que decir.",
-      "inicio": "2026-10-05T22:00:00",
-      "fin": "2026-10-05T23:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escápate conmigo",
-      "descripcion": "Lucerito es una huérfana que vive con su malvada tía Raymunda en una gran Hacienda. Ahí tienen un orfanato en el cual ofrecen clases a los niños. Raymunda quiere casar a Lucerito con Gastón, un señor muy rico. Pero Lucerito escapa a la Ciudad de México para reunirse con Manuel y conseguir su sueño de ser una gran cantante. En el camino conoce a unos personajes muy simpáticos que la protegen de todo.",
-      "inicio": "2026-10-05T23:00:00",
-      "fin": "2026-10-06T00:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/escapateconmigo.jpg"
-    },
-    {
-      "titulo": "Música al plato",
-      "descripcion": "Un programa para disfrutar de una variedad musical seleccionada por ti.",
-      "inicio": "2026-10-06T00:00:00",
-      "fin": "2026-10-06T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/musicaalplato.jpg"
-    },
-    {
-      "titulo": "Doctor en casa",
-      "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
-      "inicio": "2026-10-06T08:00:00",
-      "fin": "2026-10-06T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/doctorencasa.jpg"
-    },
-    {
-      "titulo": "Sin Filtros",
-      "descripcion": "Programa de política y actualidad nacional.",
-      "inicio": "2026-10-06T09:00:00",
-      "fin": "2026-10-06T11:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/sinfiltros.jpg"
-    },
     {
       "titulo": "Manada Gotika",
       "descripcion": "El primer programa dedicado a la multifamiliar que busca mejorar la calidad de vida y brindar bienestar a cada uno de sus integrantes, sobre todo crear conciencia sobre la tenencia responsable de animales y sobre el cuidado del medio ambiente.",
@@ -125,6 +27,104 @@
       "inicio": "2026-10-06T12:00:00",
       "fin": "2026-10-06T13:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/temasqueimportan.jpg"
+    },
+    {
+      "titulo": "Manada Gotika",
+      "descripcion": "El primer programa dedicado a la multifamiliar que busca mejorar la calidad de vida y brindar bienestar a cada uno de sus integrantes, sobre todo crear conciencia sobre la tenencia responsable de animales y sobre el cuidado del medio ambiente.",
+      "inicio": "2026-10-06T13:00:00",
+      "fin": "2026-10-06T14:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Doctor en casa",
+      "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
+      "inicio": "2026-10-06T14:00:00",
+      "fin": "2026-10-06T15:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/doctorencasa.jpg"
+    },
+    {
+      "titulo": "Más verde",
+      "descripcion": "Espacio dedicado al medio ambiente y al cuidado de la naturaleza.",
+      "inicio": "2026-10-06T15:00:00",
+      "fin": "2026-10-06T16:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pulso regional",
+      "descripcion": "Debate, análisis y conversación de alto nivel con quienes tienen experiencia y con quienes tienen mucho que decir.",
+      "inicio": "2026-10-06T16:00:00",
+      "fin": "2026-10-06T17:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "1 hora de datos curiosos",
+      "descripcion": "Curiosidades y datos para disfrutar en familia.",
+      "inicio": "2026-10-06T17:00:00",
+      "fin": "2026-10-06T18:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/1horadedatoscuriosos.jpg"
+    },
+    {
+      "titulo": "Temas que importan",
+      "descripcion": "Conversaciones reales, sin filtros, sobre los temas más importantes de la semana.",
+      "inicio": "2026-10-06T18:00:00",
+      "fin": "2026-10-06T19:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/temasqueimportan.jpg"
+    },
+    {
+      "titulo": "Estilo chic",
+      "descripcion": "Moda, belleza y vida sana. Con Sabrina Sosa y Javier Avilés.",
+      "inicio": "2026-10-06T19:00:00",
+      "fin": "2026-10-06T20:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/estilochic.jpg"
+    },
+    {
+      "titulo": "Sin Filtros",
+      "descripcion": "Programa de política y actualidad nacional.",
+      "inicio": "2026-10-06T20:00:00",
+      "fin": "2026-10-06T22:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/sinfiltros.jpg"
+    },
+    {
+      "titulo": "Escápate conmigo",
+      "descripcion": "Lucerito es una huérfana que vive con su malvada tía Raymunda en una gran Hacienda. Ahí tienen un orfanato en el cual ofrecen clases a los niños. Raymunda quiere casar a Lucerito con Gastón, un señor muy rico. Pero Lucerito escapa a la Ciudad de México para reunirse con Manuel y conseguir su sueño de ser una gran cantante. En el camino conoce a unos personajes muy simpáticos que la protegen de todo.",
+      "inicio": "2026-10-06T22:00:00",
+      "fin": "2026-10-06T23:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/escapateconmigo.jpg"
+    },
+    {
+      "titulo": "Mister Roka",
+      "descripcion": "Todos los temas relacionados con la vida en Alemania, según la experiencia de un chileno: los supermercados, la comida, cómo emigrar, vivir, trabajar y estudiar en el país.",
+      "inicio": "2026-10-06T23:00:00",
+      "fin": "2026-10-07T00:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Música al plato",
+      "descripcion": "Un programa para disfrutar de una variedad musical seleccionada por ti.",
+      "inicio": "2026-10-07T00:00:00",
+      "fin": "2026-10-07T08:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/musicaalplato.jpg"
+    },
+    {
+      "titulo": "Doctor en casa",
+      "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
+      "inicio": "2026-10-07T08:00:00",
+      "fin": "2026-10-07T09:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/doctorencasa.jpg"
+    },
+    {
+      "titulo": "Sin Filtros",
+      "descripcion": "Programa de política y actualidad nacional.",
+      "inicio": "2026-10-07T09:00:00",
+      "fin": "2026-10-07T11:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/sinfiltros.jpg"
+    },
+    {
+      "titulo": "Con amor, Carlos",
+      "descripcion": "Un espacio de aprendizaje y transformación personal. La verdadera sanación comienza desde el interior. Se exploran nuevas formas de cuidar el cuerpo, fortalecer la mente y alimentar el espíritu.",
+      "inicio": "2026-10-07T11:00:00",
+      "fin": "2026-10-07T12:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]
 }

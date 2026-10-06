@@ -1,150 +1,136 @@
 {
   "actual": {
-    "titulo": "ESPN KnockOut",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-10-05T11:00:00",
-    "fin": "2026-10-05T13:00:00",
+    "titulo": "NFL",
+    "descripcion": "Acceso exclusivo a la pretemporada y a los partidos de la NFL.",
+    "inicio": "2026-10-06T11:00:00",
+    "fin": "2026-10-06T13:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "NFL",
-    "descripcion": "Acceso exclusivo a la pretemporada y a los partidos de la NFL.",
-    "inicio": "2026-10-05T13:00:00",
-    "fin": "2026-10-05T15:00:00",
+    "titulo": "MLB",
+    "descripcion": "Vive los partidos de la temporada 2026 de la MLB, con las emociones de la liga de béisbol más importante del mundo.",
+    "inicio": "2026-10-06T13:00:00",
+    "fin": "2026-10-06T15:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "ESPN KnockOut",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-05T11:00:00",
-      "fin": "2026-10-05T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NFL",
-      "descripcion": "Acceso exclusivo a la pretemporada y a los partidos de la NFL.",
-      "inicio": "2026-10-05T13:00:00",
-      "fin": "2026-10-05T15:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Big Day With Peter Schrager",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-05T15:00:00",
-      "fin": "2026-10-05T16:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NFL Live",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-05T16:00:00",
-      "fin": "2026-10-05T18:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "UEFA Champions League Weekly",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-05T18:30:00",
-      "fin": "2026-10-05T19:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Monday Night Countdown",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-05T19:00:00",
-      "fin": "2026-10-05T21:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Monday Night Kickoff",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-05T21:00:00",
-      "fin": "2026-10-05T21:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Atlanta Falcons vs New Orleans Saints",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-05T21:15:00",
-      "fin": "2026-10-06T00:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NFL",
-      "descripcion": "Acceso exclusivo a la pretemporada y a los partidos de la NFL.",
-      "inicio": "2026-10-06T00:15:00",
-      "fin": "2026-10-06T02:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lo mejor de MotoGP",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-06T02:15:00",
-      "fin": "2026-10-06T02:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jalisco",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-06T02:30:00",
-      "fin": "2026-10-06T03:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Equipo F Centroamérica",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-06T03:00:00",
-      "fin": "2026-10-06T04:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN FC",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-06T04:00:00",
-      "fin": "2026-10-06T05:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espnfc.jpg"
-    },
-    {
-      "titulo": "NFL",
-      "descripcion": "Acceso exclusivo a la pretemporada y a los partidos de la NFL.",
-      "inicio": "2026-10-06T05:00:00",
-      "fin": "2026-10-06T07:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lo mejor de MotoGP",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-06T07:00:00",
-      "fin": "2026-10-06T07:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jalisco",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-06T07:30:00",
-      "fin": "2026-10-06T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "MLB",
-      "descripcion": "Vive los partidos de la temporada 2026 de la MLB, con las emociones de la liga de béisbol más importante del mundo.",
-      "inicio": "2026-10-06T08:00:00",
-      "fin": "2026-10-06T10:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN FC",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-06T10:00:00",
-      "fin": "2026-10-06T11:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espnfc.jpg"
-    },
     {
       "titulo": "NFL",
       "descripcion": "Acceso exclusivo a la pretemporada y a los partidos de la NFL.",
       "inicio": "2026-10-06T11:00:00",
       "fin": "2026-10-06T13:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "MLB",
+      "descripcion": "Vive los partidos de la temporada 2026 de la MLB, con las emociones de la liga de béisbol más importante del mundo.",
+      "inicio": "2026-10-06T13:00:00",
+      "fin": "2026-10-06T15:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Big Day With Peter Schrager",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-06T15:00:00",
+      "fin": "2026-10-06T16:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NBA Today",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-06T16:00:00",
+      "fin": "2026-10-06T17:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NFL Live",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-06T17:00:00",
+      "fin": "2026-10-06T18:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NFL",
+      "descripcion": "Acceso exclusivo a la pretemporada y a los partidos de la NFL.",
+      "inicio": "2026-10-06T18:00:00",
+      "fin": "2026-10-06T21:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Southern Miss vs Troy",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-06T21:00:00",
+      "fin": "2026-10-06T21:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Atlanta Falcons vs New Orleans Saints",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-06T21:15:00",
+      "fin": "2026-10-07T00:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NFL",
+      "descripcion": "Acceso exclusivo a la pretemporada y a los partidos de la NFL.",
+      "inicio": "2026-10-07T00:00:00",
+      "fin": "2026-10-07T02:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NFL Semanal",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-07T02:00:00",
+      "fin": "2026-10-07T03:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Equipo F Centroamérica",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-07T03:00:00",
+      "fin": "2026-10-07T04:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ESPN FC",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-07T04:00:00",
+      "fin": "2026-10-07T05:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espnfc.jpg"
+    },
+    {
+      "titulo": "NFL",
+      "descripcion": "Acceso exclusivo a la pretemporada y a los partidos de la NFL.",
+      "inicio": "2026-10-07T05:00:00",
+      "fin": "2026-10-07T07:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NFL Semanal",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-07T07:00:00",
+      "fin": "2026-10-07T08:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Southern Miss vs Troy",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-07T08:00:00",
+      "fin": "2026-10-07T10:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ESPN FC",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-07T10:00:00",
+      "fin": "2026-10-07T11:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espnfc.jpg"
+    },
+    {
+      "titulo": "WNBA",
+      "descripcion": "Vive los partidos de la 30º edición de la Liga de Baloncesto femenino profesional de los Estados Unidos. Dieciséis equipos disputan la temporada regular. Los mejores equipos clasificacion a los Playoffs, serie de partidos eliminatorios.",
+      "inicio": "2026-10-07T11:00:00",
+      "fin": "2026-10-07T13:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]

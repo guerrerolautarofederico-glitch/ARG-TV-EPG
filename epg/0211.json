@@ -1,131 +1,19 @@
 {
   "actual": {
-    "titulo": "Dnews al día",
-    "descripcion": "Un resumen de la jornada informativa con el análisis, las voces de los protagonistas, las figuras políticas de Latinoamérica y las repercusiones en los países de la región.",
-    "inicio": "2026-10-05T12:00:00",
-    "fin": "2026-10-05T14:00:00",
+    "titulo": "Dnews a la mañana",
+    "descripcion": "Toda la actualidad y la información en la edición matutina, para comprender lo que sucede en la región y en el mundo.",
+    "inicio": "2026-10-06T08:00:00",
+    "fin": "2026-10-06T12:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "DNews a la tarde - Primera edición",
-    "descripcion": "Toda la actualidad y la información en la edición de la tarde, para comprender lo que sucede en la región y en el mundo.",
-    "inicio": "2026-10-05T14:00:00",
-    "fin": "2026-10-05T17:00:00",
+    "titulo": "Dnews al día",
+    "descripcion": "Un resumen de la jornada informativa con el análisis, las voces de los protagonistas, las figuras políticas de Latinoamérica y las repercusiones en los países de la región.",
+    "inicio": "2026-10-06T12:00:00",
+    "fin": "2026-10-06T14:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Dnews al día",
-      "descripcion": "Un resumen de la jornada informativa con el análisis, las voces de los protagonistas, las figuras políticas de Latinoamérica y las repercusiones en los países de la región.",
-      "inicio": "2026-10-05T12:00:00",
-      "fin": "2026-10-05T14:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews a la tarde - Primera edición",
-      "descripcion": "Toda la actualidad y la información en la edición de la tarde, para comprender lo que sucede en la región y en el mundo.",
-      "inicio": "2026-10-05T14:00:00",
-      "fin": "2026-10-05T17:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews a la tarde - Segunda edición",
-      "descripcion": "Toda la actualidad y la información en la edición de la tarde, para comprender lo que sucede en la región y en el mundo.",
-      "inicio": "2026-10-05T17:00:00",
-      "fin": "2026-10-05T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews central",
-      "descripcion": "Toda la actualidad y la información para comprender lo que sucede en la región y en el mundo.",
-      "inicio": "2026-10-05T20:00:00",
-      "fin": "2026-10-05T21:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La clave",
-      "descripcion": "Un espacio donde abordamos la actualidad social, política y económica del país y de la región a través del estilo inconfundible y el conocimiento periodístico de Alfredo Leuco.",
-      "inicio": "2026-10-05T21:00:00",
-      "fin": "2026-10-05T22:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews Update",
-      "descripcion": "Analizamos la estabilidad geopolítica y las nuevas alianzas mundiales bajo el filtro de una Inteligencia Artificial que hoy redefine la verdad y la opinión pública.",
-      "inicio": "2026-10-05T22:00:00",
-      "fin": "2026-10-05T23:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Literamente cubano",
-      "descripcion": "Desde el corazón de La Habana recorremos la realidad de la Cuba de hoy: su sociedad, la crisis que atraviesa y la forma en que viven y resisten los cubanos en su día a día.",
-      "inicio": "2026-10-05T23:00:00",
-      "fin": "2026-10-06T00:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews central",
-      "descripcion": "Repetición ║ Toda la actualidad y la información para comprender lo que sucede en la región y en el mundo.",
-      "inicio": "2026-10-06T00:00:00",
-      "fin": "2026-10-06T01:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La clave",
-      "descripcion": "Repetición ║ Un espacio donde abordamos la actualidad social, política y económica del país y de la región a través del estilo inconfundible y el conocimiento periodístico de Alfredo Leuco.",
-      "inicio": "2026-10-06T01:00:00",
-      "fin": "2026-10-06T02:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews Update",
-      "descripcion": "Analizamos la estabilidad geopolítica y las nuevas alianzas mundiales bajo el filtro de una Inteligencia Artificial que hoy redefine la verdad y la opinión pública.",
-      "inicio": "2026-10-06T02:00:00",
-      "fin": "2026-10-06T03:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Literamente cubano",
-      "descripcion": "Desde el corazón de La Habana recorremos la realidad de la Cuba de hoy: su sociedad, la crisis que atraviesa y la forma en que viven y resisten los cubanos en su día a día.",
-      "inicio": "2026-10-06T03:00:00",
-      "fin": "2026-10-06T04:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La clave",
-      "descripcion": "Repetición ║ Un espacio donde abordamos la actualidad social, política y económica del país y de la región a través del estilo inconfundible y el conocimiento periodístico de Alfredo Leuco.",
-      "inicio": "2026-10-06T04:00:00",
-      "fin": "2026-10-06T05:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fuerza latina",
-      "descripcion": "Las periodistas Natalia Orozco y Yoani Sánchez conversan cada semana con mujeres extraordinarias de América Latina, quienes nos acercan sus fascinantes historias y nos muestran el entorno en el que viven y trabajan. Son mujeres que, con tenacidad y perseverancia, se proponen cambiar la sociedad y alzan su voz para reclamar derechos y denunciar injusticias.",
-      "inicio": "2026-10-06T05:00:00",
-      "fin": "2026-10-06T05:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fuerzalatina.jpg"
-    },
-    {
-      "titulo": "Buena salud América",
-      "descripcion": "Un espacio para tratar temas médicos y en el que la prevención será la mejor receta.",
-      "inicio": "2026-10-06T05:30:00",
-      "fin": "2026-10-06T06:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews central",
-      "descripcion": "Repetición ║ Toda la actualidad y la información para comprender lo que sucede en la región y en el mundo.",
-      "inicio": "2026-10-06T06:00:00",
-      "fin": "2026-10-06T07:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews Update",
-      "descripcion": "Analizamos la estabilidad geopolítica y las nuevas alianzas mundiales bajo el filtro de una Inteligencia Artificial que hoy redefine la verdad y la opinión pública.",
-      "inicio": "2026-10-06T07:00:00",
-      "fin": "2026-10-06T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Dnews a la mañana",
       "descripcion": "Toda la actualidad y la información en la edición matutina, para comprender lo que sucede en la región y en el mundo.",
@@ -138,6 +26,125 @@
       "descripcion": "Un resumen de la jornada informativa con el análisis, las voces de los protagonistas, las figuras políticas de Latinoamérica y las repercusiones en los países de la región.",
       "inicio": "2026-10-06T12:00:00",
       "fin": "2026-10-06T14:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews a la tarde - Primera edición",
+      "descripcion": "Toda la actualidad y la información en la edición de la tarde, para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-06T14:00:00",
+      "fin": "2026-10-06T17:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews a la tarde - Segunda edición",
+      "descripcion": "Toda la actualidad y la información en la edición de la tarde, para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-06T17:00:00",
+      "fin": "2026-10-06T20:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews central",
+      "descripcion": "Toda la actualidad y la información para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-06T20:00:00",
+      "fin": "2026-10-06T22:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews Update",
+      "descripcion": "Analizamos la estabilidad geopolítica y las nuevas alianzas mundiales bajo el filtro de una Inteligencia Artificial que hoy redefine la verdad y la opinión pública.",
+      "inicio": "2026-10-06T22:00:00",
+      "fin": "2026-10-06T23:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Vinos de América",
+      "descripcion": "De la mano del sommelier y periodista Fabricio Portelli, conocemos las historias de las bodegas de Latinoamérica y descubrimos, junto a sus protagonistas, los secretos, sabores y particularidades del vino de nuestra región.",
+      "inicio": "2026-10-06T23:00:00",
+      "fin": "2026-10-06T23:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dr. Veller",
+      "descripcion": "Un espacio dedicado a la salud y conducido por los hermanos Veller, exitosos médicos de YouTube que acercan sus conocimientos de una forma fácil y entendible, a través de consejos, guías y videos didácticos.",
+      "inicio": "2026-10-06T23:30:00",
+      "fin": "2026-10-07T00:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews central",
+      "descripcion": "Repetición ║ Toda la actualidad y la información para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-07T00:00:00",
+      "fin": "2026-10-07T01:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews central",
+      "descripcion": "Repetición ║ Toda la actualidad y la información para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-07T01:00:00",
+      "fin": "2026-10-07T02:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews Update",
+      "descripcion": "Analizamos la estabilidad geopolítica y las nuevas alianzas mundiales bajo el filtro de una Inteligencia Artificial que hoy redefine la verdad y la opinión pública.",
+      "inicio": "2026-10-07T02:00:00",
+      "fin": "2026-10-07T03:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Vinos de América",
+      "descripcion": "De la mano del sommelier y periodista Fabricio Portelli, conocemos las historias de las bodegas de Latinoamérica y descubrimos, junto a sus protagonistas, los secretos, sabores y particularidades del vino de nuestra región.",
+      "inicio": "2026-10-07T03:00:00",
+      "fin": "2026-10-07T03:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dr. Veller",
+      "descripcion": "Un espacio dedicado a la salud y conducido por los hermanos Veller, exitosos médicos de YouTube que acercan sus conocimientos de una forma fácil y entendible, a través de consejos, guías y videos didácticos.",
+      "inicio": "2026-10-07T03:30:00",
+      "fin": "2026-10-07T04:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews central",
+      "descripcion": "Repetición ║ Toda la actualidad y la información para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-07T04:00:00",
+      "fin": "2026-10-07T05:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Enlaces",
+      "descripcion": "Riguroso y entretenido a la vez, presenta temas relevantes del mundo digital con un profundo enfoque periodístico: los desafíos de las redes sociales, la seguridad en Internet o la red como plataforma de agitación política. Un espacio entretenido con los videos más descabellados de la web, rankings con atrevidas clasificaciones y gráficas informativas que presentan el mundo desde una nueva perspectiva.",
+      "inicio": "2026-10-07T05:00:00",
+      "fin": "2026-10-07T05:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/enlaces.jpg"
+    },
+    {
+      "titulo": "DNews Música",
+      "descripcion": "Todas las novedades musicales del continente en un formato ágil y dinámico.",
+      "inicio": "2026-10-07T05:30:00",
+      "fin": "2026-10-07T06:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews central",
+      "descripcion": "Repetición ║ Toda la actualidad y la información para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-07T06:00:00",
+      "fin": "2026-10-07T07:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews Update",
+      "descripcion": "Analizamos la estabilidad geopolítica y las nuevas alianzas mundiales bajo el filtro de una Inteligencia Artificial que hoy redefine la verdad y la opinión pública.",
+      "inicio": "2026-10-07T07:00:00",
+      "fin": "2026-10-07T08:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dnews a la mañana",
+      "descripcion": "Toda la actualidad y la información en la edición matutina, para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-07T08:00:00",
+      "fin": "2026-10-07T12:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]
