@@ -1,180 +1,19 @@
 {
   "actual": {
-    "titulo": "Masha y el oso",
-    "descripcion": "Masha vive en el bosque con sus mascotas: un perro, una cabra y un cerdo. Ella obliga a los animales del bosque a que jueguen con ella, por lo que ellos le temen. Masha vive cerca del transiberiano y una mañana, Masha mira a una mariposa y la sigue cuando viene a darse cuenta entra a la casa de un oso que había salido a purgar. Mientras juega allí, Masha termina haciendo un gran desorden en la casa. El oso regresa a su hogar y ve el desastre causado por Masha. El oso intenta sin éxito deshacerse de ella. Al final, Masha y el oso se vuelven amigos.",
-    "inicio": "2026-10-08T11:30:00",
-    "fin": "2026-10-08T12:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/mashayeloso.jpg"
+    "titulo": "Rosita Fresita en la gran ciudad",
+    "descripcion": "La aspirante a pastelera Rosita Fresita llega a la Gran Manzana. ¡Es su gran oportunidad para triunfar y tener aventuras flan-tásticas con sus nuevas amigas!",
+    "inicio": "2026-10-09T11:30:00",
+    "fin": "2026-10-09T11:45:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "El show de Snoopy",
-    "descripcion": "El perrito más icónico del mundo está aquí. Descubre nuevas aventuras con el beagle más bailarín y soñador, acompañado de sus fieles amigos Woodstock, Charlie Brown y su inolvidable pandilla.",
-    "inicio": "2026-10-08T12:00:00",
-    "fin": "2026-10-08T12:30:00",
+    "titulo": "Rosita Fresita: aventuras en Tutti Frutti",
+    "descripcion": "Frutillita vive en un pequeño mundo que se extiende bajo las hojas de una huerta de bayas. Allí, ella y sus amigas viven grandes aventuras y desafíos. En cada episodio, Frutillita demuestra que incluso las niñas tienen grandes cualidades.",
+    "inicio": "2026-10-09T11:45:00",
+    "fin": "2026-10-09T13:30:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Masha y el oso",
-      "descripcion": "Masha vive en el bosque con sus mascotas: un perro, una cabra y un cerdo. Ella obliga a los animales del bosque a que jueguen con ella, por lo que ellos le temen. Masha vive cerca del transiberiano y una mañana, Masha mira a una mariposa y la sigue cuando viene a darse cuenta entra a la casa de un oso que había salido a purgar. Mientras juega allí, Masha termina haciendo un gran desorden en la casa. El oso regresa a su hogar y ve el desastre causado por Masha. El oso intenta sin éxito deshacerse de ella. Al final, Masha y el oso se vuelven amigos.",
-      "inicio": "2026-10-08T11:30:00",
-      "fin": "2026-10-08T12:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/mashayeloso.jpg"
-    },
-    {
-      "titulo": "El show de Snoopy",
-      "descripcion": "El perrito más icónico del mundo está aquí. Descubre nuevas aventuras con el beagle más bailarín y soñador, acompañado de sus fieles amigos Woodstock, Charlie Brown y su inolvidable pandilla.",
-      "inicio": "2026-10-08T12:00:00",
-      "fin": "2026-10-08T12:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Princesita Sofía",
-      "descripcion": "La pequeña Sofía comienza su vida como una niña común. Pero cuando su mamá Miranda se casa con el Rey Roland II, ella rápidamente pasa a un glamoroso mundo de castillos y realeza con nuevos hermanastros: Amber y James.",
-      "inicio": "2026-10-08T12:30:00",
-      "fin": "2026-10-08T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La casa de Mickey Mouse de Disney",
-      "descripcion": "Mickey, Minnie, el Pato Donald, Daisy, Goofy y Pluto ayudarán a los más pequeños a resolver distintos acertijos utilizando habilidades básicas como identificar las formas o contar hasta diez.",
-      "inicio": "2026-10-08T13:00:00",
-      "fin": "2026-10-08T13:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Trolls: No Pierdas El Ritmo!",
-      "descripcion": "La reina Poppy quiere mantener la paz entre los Trolls y los Bergens. ¿Y qué mejor modo que compartiendo diversión y juegos?",
-      "inicio": "2026-10-08T13:30:00",
-      "fin": "2026-10-08T14:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/trollsnopierdaselritmo.jpg"
-    },
-    {
-      "titulo": "Las nuevas películas de Scooby-Doo",
-      "descripcion": "Cada episodio presentaba a alguna celebridad invitada, quien ayudaría a los jóvenes a resolver el misterio de la semana. Algunas celebridades aportaron con su propia voz (Don Knotts, Jonathan Winters, Sandy Duncan, Tim Conway y Sonny and Cher entre otros); las voces de algunos fueron posibles solo con la ayuda de imitadores (Los tres chiflados y El gordo y el flaco), y el resto eran personajes de Hanna-Barbera (los personajes de The Harlem Globetrotters (1970), Josie y sus Gatimelódicas (1970), Jeannie (1973) y Speed Buggy (1973); The Addams Family y Batman y Robin aparecieron un año antes de que sus propias series fueran creadas por Hanna-Barbera -- The Addams Family y Los súper amigos, 1973)",
-      "inicio": "2026-10-08T14:00:00",
-      "fin": "2026-10-08T15:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lasnuevaspeliculasdescoobydoo.jpg"
-    },
-    {
-      "titulo": "Duck Dodgers",
-      "descripcion": "Después de estar congelado por accidente en el siglo XXI, Duck hace lo mismo en el siglo XXIV y se une a los protectores de la tierra. Con su nave espacial y su único tripulante, Porky, salen a defender la galaxia.",
-      "inicio": "2026-10-08T15:00:00",
-      "fin": "2026-10-08T16:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El correcaminos",
-      "descripcion": "En las desiertas carreteras del desierto al suroeste de Estados Unidos, Wile E. Coyote agota cada una de sus ideas, todas fallidas, para lograr atrapar al mega veloz Correcaminos. Ambos viven en una constante persecución.",
-      "inicio": "2026-10-08T16:00:00",
-      "fin": "2026-10-08T17:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El nuevo show del Pájaro Loco",
-      "descripcion": "El divertido pájaro con el gran pico dorado ha regresado y está más grande que nunca.",
-      "inicio": "2026-10-08T17:00:00",
-      "fin": "2026-10-08T18:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Escandalosos",
-      "descripcion": "Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse.",
-      "inicio": "2026-10-08T18:00:00",
-      "fin": "2026-10-08T19:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de Garfield",
-      "descripcion": "Garfield es ese gato súper gordo, cínico y perezoso amado mundialmente. Cuando no está comiendo lasaña, ocupando espacio en el sofá o jugando con su amigo el perro Odie, Garfield está ocupado siendo un famoso gato de Hollywood.",
-      "inicio": "2026-10-08T19:00:00",
-      "fin": "2026-10-08T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dragon Ball Super",
-      "descripcion": "Continúa las aventuras de Goku luego de seis meses de que Majin Boo es derrotado, cuando la Tierra se ha convertido, una vez más, en un lugar pacífico.",
-      "inicio": "2026-10-08T20:00:00",
-      "fin": "2026-10-08T21:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Malcolm",
-      "descripcion": "La historia de una familia compuesta por cuatro hermanos y sus padres. Malcolm parece ser el único que muestra algo de cordura, mientras sus neuróticos padres y sus tres hermanos se meten en problemas.",
-      "inicio": "2026-10-08T21:00:00",
-      "fin": "2026-10-08T22:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un día para vivir",
-      "descripcion": "Historias de hombres y mujeres de distintas edades que aparentemente pasan por un buen momento en su vida, pero reciben la visita de la muerte quien les advierte que tienen 24 horas para resolver lo que tienen pendiente.",
-      "inicio": "2026-10-08T22:30:00",
-      "fin": "2026-10-09T00:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/undiaparavivir.jpg"
-    },
-    {
-      "titulo": "Dra. Lucía, un don extraordinario",
-      "descripcion": "En un hospital llamado Matilde Montoya, sigue los desafíos diarios que deben superar los médicos y el personal. Además se muestran a fondo sus vidas personales mientras lidian con sus vínculos, amores, familias y más.",
-      "inicio": "2026-10-09T00:30:00",
-      "fin": "2026-10-09T01:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lotería del crimen",
-      "descripcion": "Un grupo de detectives adscritos a una unidad de inteligencia policiaca deberán de resolver pistas para dar con los criminales más buscados.",
-      "inicio": "2026-10-09T01:30:00",
-      "fin": "2026-10-09T02:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hotel del Luna",
-      "descripcion": "Jang Man Wol (IU) es la CEO del Hotel del Luna. El hotel está situado en el centro de Seúl y tiene una apariencia muy misteriosa. Ella cometió un gran pecado hace muchos años y, debido a esto, ha estado atrapada en el Hotel del Luna. Aunque hermosa como la luna, tiene mal carácter, es desconfiada y codiciosa.\n\nGoo Chan Sung (Yeo Jin Goo) trabajó como el subdirector más joven en una corporación hotelera multinacional. Es un sincero perfeccionista. Parece sensato, pero en realidad tiene una disposición suave. Debido a un caso inesperado, comienza a trabajar como gerente en el Hotel del Luna.\n\nEl hotel del Luna es habitado por clientes fantasmas.",
-      "inicio": "2026-10-09T02:30:00",
-      "fin": "2026-10-09T03:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hoteldelluna.jpg"
-    },
-    {
-      "titulo": "Inova",
-      "descripcion": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar.",
-      "inicio": "2026-10-09T03:30:00",
-      "fin": "2026-10-09T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Barras de ajuste",
-      "descripcion": "Barra de ajuste.",
-      "inicio": "2026-10-09T08:00:00",
-      "fin": "2026-10-09T08:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "RTC",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-09T08:15:00",
-      "fin": "2026-10-09T08:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Inova",
-      "descripcion": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar.",
-      "inicio": "2026-10-09T08:30:00",
-      "fin": "2026-10-09T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Esme & Roy",
-      "descripcion": "Esta es la historia de una niña, Esme, y de su monstruoso mejor amigo, Roy. Ambos viven en el pueblo de Monsterdale, un lugar poblado por extrañas criaturas en el que tendrán que solucionar toda clase de embrollos.",
-      "inicio": "2026-10-09T09:00:00",
-      "fin": "2026-10-09T10:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Star Wars: Aventuras de Jóvenes Jedi",
-      "descripcion": "Kai, Lys y Nubs aprenden a dominar la Fuerza con el maestro Yoda en el planeta Tenoo y recorren la galaxia con la increíble Nash y RJ en el Halcón de Fuego Carmesí.",
-      "inicio": "2026-10-09T10:00:00",
-      "fin": "2026-10-09T11:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/starwarsaventurasdejovenesjedi.jpg"
-    },
     {
       "titulo": "Rosita Fresita en la gran ciudad",
       "descripcion": "La aspirante a pastelera Rosita Fresita llega a la Gran Manzana. ¡Es su gran oportunidad para triunfar y tener aventuras flan-tásticas con sus nuevas amigas!",
@@ -188,6 +27,111 @@
       "inicio": "2026-10-09T11:45:00",
       "fin": "2026-10-09T13:30:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Spirit: cabalgando libre",
+      "descripcion": "Cuando Lucky conoce a un mustang salvaje llamado Spirit, siente una conexión instantánea con el caballo indomable. Lucky se embarca en emocionantes aventuras con sus dos nuevas mejores amigas, Pru y Abigail.",
+      "inicio": "2026-10-09T13:30:00",
+      "fin": "2026-10-09T15:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El tesoro perdido de Jesse James",
+      "descripcion": "Un grupo de niños de una zona rural de Missouri busca el tesoro escondido de Jesse James para salvar a su familia, amigos y condado.",
+      "inicio": "2026-10-09T15:30:00",
+      "fin": "2026-10-09T17:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La liga extraordinaria",
+      "descripcion": "En plena Era Victoriana, el gobierno inglés vive dominado por el pánico porque no sabe cómo frenar un diabólico plan. La única solución es contratar a los más grandes aventureros.",
+      "inicio": "2026-10-09T17:30:00",
+      "fin": "2026-10-09T19:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Abraham Lincoln: cazador de vampiros",
+      "descripcion": "La madre de Abe fue asesinada por un vampiro. Desde ese momento y con tan sólo nueve años, decide vengarse de ellos, dedicando su vida a eliminar a esos siniestros seres. Incluso siendo el presidente de su país.",
+      "inicio": "2026-10-09T19:45:00",
+      "fin": "2026-10-09T22:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La princesa",
+      "descripcion": "Al negarse a casarse con un capo de la droga, Grecia está decidida a pagar ella misma la deuda de su padre. Para ganar el dinero, decide apostar en los palenques de Sinaloa, donde conoce a Armando. Inmediatamente queda cautivado por su belleza y actitud intrépida. Pero, poco sabe él que enamorarse de ella será su esfuerzo más peligroso. Basado en el famoso corrido \"La Princesa\", de Alfredo Ríos \"El Komander\".",
+      "inicio": "2026-10-09T22:00:00",
+      "fin": "2026-10-09T23:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laprincesa.jpg"
+    },
+    {
+      "titulo": "Fecha 11, Estadio Universitario • Tigres UANL vs Toluca",
+      "descripcion": "Tigres UANL vs Toluca | Vive las emociones de la 116º edición del campeonato de liga de la Primera División del fútbol mexicano. Se trata del 61º torneo corto con el que comienza la temporada 2026-2027.",
+      "inicio": "2026-10-09T23:45:00",
+      "fin": "2026-10-10T02:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mike Y Dave: Los Busca Novias",
+      "descripcion": "Dos hermanos muy fiesteros ponen un anuncio online para encontrar las parejas perfectas para ir a la boda hawaiana de su hermana. Esperando una escapada salvaje, los chicos se encuentran sobrepasados por un dúo incontrolable.",
+      "inicio": "2026-10-10T02:00:00",
+      "fin": "2026-10-10T04:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Inova",
+      "descripcion": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar.",
+      "inicio": "2026-10-10T04:00:00",
+      "fin": "2026-10-10T08:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Barras de ajuste",
+      "descripcion": "Barra de ajuste.",
+      "inicio": "2026-10-10T08:00:00",
+      "fin": "2026-10-10T08:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "RTC",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-10T08:15:00",
+      "fin": "2026-10-10T08:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Inova",
+      "descripcion": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar.",
+      "inicio": "2026-10-10T08:30:00",
+      "fin": "2026-10-10T09:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El payaso Plim Plim: Un héroe del corazón",
+      "descripcion": "Con su estilo innovador, El payaso Plim Plim: Un héroe del corazón, hace de la simpleza un valor y de la infancia un mundo mágico. Sus historias en formato de fábula incluyen guiños visuales, musicales, cinematográficos y literarios.",
+      "inicio": "2026-10-10T09:00:00",
+      "fin": "2026-10-10T10:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bernard",
+      "descripcion": "Conoce a Bernard, un oso polar torpe que viaja haciéndose querer. Si algo le puede salir mal, le saldrá peor, y es que cosas tan simples como hacer una foto o correr por el campo pueden convertirse en el mayor de los enredos con él.",
+      "inicio": "2026-10-10T10:00:00",
+      "fin": "2026-10-10T11:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Ositos Cariñosos • D.Animados",
+      "descripcion": "D.Animados | Los Ositos Cariñosos son un grupo de adorables y tiernos amigos, cada uno con la maravillosa misión de impartir y enseñar al mundo buenos sentimientos como la amistad, la alegría, y el cariño.",
+      "inicio": "2026-10-10T11:15:00",
+      "fin": "2026-10-10T11:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pokemon",
+      "descripcion": "Ash y sus amigos capturan, entrenan y batallan con los Pokémon. En su camino deberán enfrentar al malvado \"Team Rocket\", formado por Jessie, James y Meowth, quienes quieren dominar al mundo.",
+      "inicio": "2026-10-10T11:30:00",
+      "fin": "2026-10-10T12:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/pokemon.jpg"
     }
   ]
 }
