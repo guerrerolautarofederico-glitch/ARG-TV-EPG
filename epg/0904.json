@@ -1,115 +1,94 @@
 {
   "actual": {
-    "titulo": "Buen día Nación",
-    "descripcion": "Toda la información de la mano de los expertos.",
-    "inicio": "2026-10-09T10:00:00",
-    "fin": "2026-10-09T13:00:00",
+    "titulo": "+Info fin de semana",
+    "descripcion": "Toda la información de Argentina y el mundo a cargo del mejor equipo de columnistas en todos los temas.",
+    "inicio": "2026-10-10T09:00:00",
+    "fin": "2026-10-10T13:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Noticias",
-    "descripcion": "Hugo Machiavelli y Viviana Valles cierran el día informando con responsabilidad sobre los hechos de la jornada.",
-    "inicio": "2026-10-09T13:00:00",
-    "fin": "2026-10-09T15:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/noticias.jpg"
+    "titulo": "La robineta",
+    "descripcion": "Espacio donde se recorren distintos barrios, ferias y puntos de interés de Buenos Aires y sus alrededores. El programa combina gastronomía, cultura, música tradicional y entrevistas con los vecinos y turistas. Toda la información y la mejor compañía.",
+    "inicio": "2026-10-10T13:00:00",
+    "fin": "2026-10-10T16:00:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Buen día Nación",
-      "descripcion": "Toda la información de la mano de los expertos.",
-      "inicio": "2026-10-09T10:00:00",
-      "fin": "2026-10-09T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "Hugo Machiavelli y Viviana Valles cierran el día informando con responsabilidad sobre los hechos de la jornada.",
-      "inicio": "2026-10-09T13:00:00",
-      "fin": "2026-10-09T15:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Código Nación",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-09T15:00:00",
-      "fin": "2026-10-09T17:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Clima de época",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-09T17:00:00",
-      "fin": "2026-10-09T18:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Siempre +",
-      "descripcion": "Cristina Pérez llega con compromiso, análisis y toda la información que necesitas saber.",
-      "inicio": "2026-10-09T18:30:00",
-      "fin": "2026-10-09T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La trama del poder",
-      "descripcion": "Entrevista a los personajes más influyentes de la sociedad argentina.",
-      "inicio": "2026-10-09T20:00:00",
-      "fin": "2026-10-09T21:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Una batalla tras otra",
-      "descripcion": "El debate necesario para combatir la desinformación y acercarse a la verdad.",
-      "inicio": "2026-10-09T21:30:00",
-      "fin": "2026-10-09T23:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/unabatallatrasotra.jpg"
-    },
-    {
-      "titulo": "Caso abierto",
-      "descripcion": "Serie de TV de 156 episodios (2003-2010). De la unidad del FBI denominada \"Cold Cases\" (\"casos fríos\") forman parte los detectives de Philadelphia Lilly Rush (Kathryn Morris) y John Stillman (John Finn). Esta sección se ocupa de volver a investigar casos archivados por falta de pruebas cinco, diez o incluso cincuenta años después.",
-      "inicio": "2026-10-09T23:00:00",
-      "fin": "2026-10-10T00:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/casoabierto.jpg"
-    },
-    {
-      "titulo": "Mañanas mías",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-10T00:00:00",
-      "fin": "2026-10-10T03:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La trama del poder",
-      "descripcion": "Entrevista a los personajes más influyentes de la sociedad argentina.",
-      "inicio": "2026-10-10T03:00:00",
-      "fin": "2026-10-10T04:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Una batalla tras otra",
-      "descripcion": "El debate necesario para combatir la desinformación y acercarse a la verdad.",
-      "inicio": "2026-10-10T04:00:00",
-      "fin": "2026-10-10T06:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/unabatallatrasotra.jpg"
-    },
-    {
-      "titulo": "Hambre de futuro",
-      "descripcion": "Un recorrido por el país para conocer las realidades y los sueños de los niños que viven en las comunidades más vulnerables.",
-      "inicio": "2026-10-10T06:00:00",
-      "fin": "2026-10-10T07:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "+ Mañana",
-      "descripcion": "Hecho mitad humano y mitad espíritu por accidente, un joven es empleado por una compañía de parcas en el inframundo para llevar a cabo misiones especiales.",
-      "inicio": "2026-10-10T07:00:00",
-      "fin": "2026-10-10T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/manana.jpg"
-    },
     {
       "titulo": "+Info fin de semana",
       "descripcion": "Toda la información de Argentina y el mundo a cargo del mejor equipo de columnistas en todos los temas.",
       "inicio": "2026-10-10T09:00:00",
       "fin": "2026-10-10T13:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La robineta",
+      "descripcion": "Espacio donde se recorren distintos barrios, ferias y puntos de interés de Buenos Aires y sus alrededores. El programa combina gastronomía, cultura, música tradicional y entrevistas con los vecinos y turistas. Toda la información y la mejor compañía.",
+      "inicio": "2026-10-10T13:00:00",
+      "fin": "2026-10-10T16:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "+Noticias fin de semana",
+      "descripcion": "Toda la información de la Argentina y el mundo, con la mejor conducción y un excelente grupo de columnistas.",
+      "inicio": "2026-10-10T16:00:00",
+      "fin": "2026-10-10T20:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/noticiasfindesemana.jpg"
+    },
+    {
+      "titulo": "+Info Sábado",
+      "descripcion": "Lo mejor y los momentos más destacados de la información del fin de semana de la mano de Pablo Corso.",
+      "inicio": "2026-10-10T20:00:00",
+      "fin": "2026-10-10T22:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Resumen de noticias",
+      "descripcion": "Se presentan las entrevistas más relevantes de la actualidad informativa en toda la República Argentina.",
+      "inicio": "2026-10-10T22:00:00",
+      "fin": "2026-10-11T00:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Especiales - Eventos LN",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-11T00:00:00",
+      "fin": "2026-10-11T01:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La robineta",
+      "descripcion": "Espacio donde se recorren distintos barrios, ferias y puntos de interés de Buenos Aires y sus alrededores. El programa combina gastronomía, cultura, música tradicional y entrevistas con los vecinos y turistas. Toda la información y la mejor compañía.",
+      "inicio": "2026-10-11T01:00:00",
+      "fin": "2026-10-11T04:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "+Info Sábado",
+      "descripcion": "Lo mejor y los momentos más destacados de la información del fin de semana de la mano de Pablo Corso.",
+      "inicio": "2026-10-11T04:00:00",
+      "fin": "2026-10-11T06:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hambre de futuro",
+      "descripcion": "Un recorrido por el país para conocer las realidades y los sueños de los niños que viven en las comunidades más vulnerables.",
+      "inicio": "2026-10-11T06:00:00",
+      "fin": "2026-10-11T07:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "+ Mañana",
+      "descripcion": "Hecho mitad humano y mitad espíritu por accidente, un joven es empleado por una compañía de parcas en el inframundo para llevar a cabo misiones especiales.",
+      "inicio": "2026-10-11T07:00:00",
+      "fin": "2026-10-11T09:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/manana.jpg"
+    },
+    {
+      "titulo": "+Info fin de semana",
+      "descripcion": "Toda la información de Argentina y el mundo a cargo del mejor equipo de columnistas en todos los temas.",
+      "inicio": "2026-10-11T09:00:00",
+      "fin": "2026-10-11T13:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]

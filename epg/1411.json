@@ -1,122 +1,94 @@
 {
   "actual": {
-    "titulo": "Espn F12",
-    "descripcion": "Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.",
-    "inicio": "2026-10-09T11:00:00",
-    "fin": "2026-10-09T13:00:00",
+    "titulo": "Fútbol Premier League • Chelsea vs Bournemouth",
+    "descripcion": "Chelsea vs Bournemouth | Jornada 6 de la temporada 2026-27 de la Premier League. Chelsea se enfrenta a Bournemouth. Desde el estadio Stamford Bridge. El Chelsea llega en décima posición tras cinco partidos, después de una derrota por 3-0 ante el Brentford.",
+    "inicio": "2026-10-10T10:50:00",
+    "fin": "2026-10-10T12:55:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "ESPN F90",
-    "descripcion": "Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.",
-    "inicio": "2026-10-09T13:00:00",
-    "fin": "2026-10-09T15:00:00",
+    "titulo": "SportsCenter",
+    "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
+    "inicio": "2026-10-10T12:55:00",
+    "fin": "2026-10-10T13:20:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Espn F12",
-      "descripcion": "Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.",
-      "inicio": "2026-10-09T11:00:00",
-      "fin": "2026-10-09T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN F90",
-      "descripcion": "Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.",
-      "inicio": "2026-10-09T13:00:00",
-      "fin": "2026-10-09T15:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Espn F3",
-      "descripcion": "Programación deportiva dedicada a la agenda futbolística, resúmenes, análisis y seguimientos que dan de qué hablar.",
-      "inicio": "2026-10-09T15:00:00",
-      "fin": "2026-10-09T16:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-10-09T16:30:00",
-      "fin": "2026-10-09T18:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN F360",
-      "descripcion": "Con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.",
-      "inicio": "2026-10-09T18:00:00",
-      "fin": "2026-10-09T19:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-10-09T19:15:00",
-      "fin": "2026-10-09T21:25:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-10-09T21:25:00",
-      "fin": "2026-10-09T23:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Espn F10",
-      "descripcion": "Los fines de semana se llenan de fútbol. Tras la finalización del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.",
-      "inicio": "2026-10-09T23:00:00",
-      "fin": "2026-10-10T00:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-10-10T00:00:00",
-      "fin": "2026-10-10T02:55:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Rugby Test Match • Nueva Zelanda vs Australia",
-      "descripcion": "Nueva Zelanda vs Australia | Cobertura de los amistosos internacionales de rugby.",
-      "inicio": "2026-10-10T02:55:00",
-      "fin": "2026-10-10T05:10:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-10-10T05:10:00",
-      "fin": "2026-10-10T07:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
-      "inicio": "2026-10-10T07:00:00",
-      "fin": "2026-10-10T08:20:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol Premier League • Arsenal vs Leeds United",
-      "descripcion": "Arsenal vs Leeds United | Jornada 6 de la temporada 2026-27 de la Premier League. Desde el estadio Emirates, en Londres. El Arsenal recibe al Leeds tras haber perdido su último partido y habiendo vencido previamente al Leeds por 4-0 en Elland Road en enero.",
-      "inicio": "2026-10-10T08:20:00",
-      "fin": "2026-10-10T10:25:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
-      "inicio": "2026-10-10T10:25:00",
-      "fin": "2026-10-10T10:50:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Fútbol Premier League • Chelsea vs Bournemouth",
       "descripcion": "Chelsea vs Bournemouth | Jornada 6 de la temporada 2026-27 de la Premier League. Chelsea se enfrenta a Bournemouth. Desde el estadio Stamford Bridge. El Chelsea llega en décima posición tras cinco partidos, después de una derrota por 3-0 ante el Brentford.",
       "inicio": "2026-10-10T10:50:00",
       "fin": "2026-10-10T12:55:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
+      "inicio": "2026-10-10T12:55:00",
+      "fin": "2026-10-10T13:20:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Premier League • Manchester United vs Tottenham Hotspur",
+      "descripcion": "Manchester United vs Tottenham Hotspur | Jornada 6 de la temporada 2026-27 de la Premier League. Desde el estadio Old Trafford. Los Red Devils llegan en el puesto 12 tras empatar 1-1 con el Fulham, mientras que los Spurs llegan tras caer 3-0 ante el Brentford en su partido anterior.",
+      "inicio": "2026-10-10T13:20:00",
+      "fin": "2026-10-10T15:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Argentino Primera División • Barracas Central vs Huracán",
+      "descripcion": "Barracas Central vs Huracán | Fecha 12 de la Zona B del Torneo Clausura 2026 de la LPF. Barracas Central recibe a Huracán. Desde el estadio Claudio Chiqui Tapia, en Buenos Aires.",
+      "inicio": "2026-10-10T15:30:00",
+      "fin": "2026-10-10T17:40:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-10-10T17:40:00",
+      "fin": "2026-10-10T21:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-10-10T21:15:00",
+      "fin": "2026-10-10T23:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-10-10T23:30:00",
+      "fin": "2026-10-11T05:20:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-10-11T05:20:00",
+      "fin": "2026-10-11T07:20:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Serie A • Como vs Roma",
+      "descripcion": "Como vs Roma | Acción de la fecha 6. Como enfrenta a AS Roma. Desde el Giuseppe Sinigaglia. Los visitantes liderean la tabla sin conocer aún la derrota en el certamen.",
+      "inicio": "2026-10-11T07:20:00",
+      "fin": "2026-10-11T09:25:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
+      "inicio": "2026-10-11T09:25:00",
+      "fin": "2026-10-11T09:50:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Premier League • Crystal Palace vs Nottingham Forest",
+      "descripcion": "Crystal Palace vs Nottingham Forest | Jornada 6 de la temporada 2026-27 de la Premier League. Crystal Palace se enfrenta a Nottingham Forest. Desde el estadio Selhurst Park. Ambos equipos han empatado cuatro de sus últimos cinco enfrentamientos, incluido un empate 1-1 en el City Ground.",
+      "inicio": "2026-10-11T09:50:00",
+      "fin": "2026-10-11T11:55:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]

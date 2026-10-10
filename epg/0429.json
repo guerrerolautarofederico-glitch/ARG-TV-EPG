@@ -1,117 +1,19 @@
 {
   "actual": {
-    "titulo": "Despierta Win",
-    "descripcion": "El deporte cobra vida desde el inicio del día con un viaje más allá de los titulares hasta el corazón de las historias en una fusión de entretenimiento y deporte.",
-    "inicio": "2026-10-09T10:00:00",
-    "fin": "2026-10-09T14:30:00",
+    "titulo": "Automovilismo",
+    "descripcion": "La mejor cobertura y toda la acción de las competencias de automovilismo.",
+    "inicio": "2026-10-10T09:30:00",
+    "fin": "2026-10-10T11:30:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "WIN Noticias",
-    "descripcion": "La más completa información y todas las novedades del mundo deportivo nacional e internacional. Además, se tiene la más amplia cobertura de los deportistas colombianos en todo el mundo.",
-    "inicio": "2026-10-09T14:30:00",
-    "fin": "2026-10-09T16:00:00",
+    "titulo": "Carrera",
+    "descripcion": "Cobertura de la carrera de obstáculos del Spartan World Championship. Desde Hvar, en Croacia.",
+    "inicio": "2026-10-10T11:30:00",
+    "fin": "2026-10-10T13:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Despierta Win",
-      "descripcion": "El deporte cobra vida desde el inicio del día con un viaje más allá de los titulares hasta el corazón de las historias en una fusión de entretenimiento y deporte.",
-      "inicio": "2026-10-09T10:00:00",
-      "fin": "2026-10-09T14:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "WIN Noticias",
-      "descripcion": "La más completa información y todas las novedades del mundo deportivo nacional e internacional. Además, se tiene la más amplia cobertura de los deportistas colombianos en todo el mundo.",
-      "inicio": "2026-10-09T14:30:00",
-      "fin": "2026-10-09T16:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Medio tiempo",
-      "descripcion": "Todo el análisis e información de la primera mitad del partido y lo que se espera en el segundo tiempo.",
-      "inicio": "2026-10-09T16:00:00",
-      "fin": "2026-10-09T18:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Saque largo",
-      "descripcion": "Una forma diferente de ver y vivir el fútbol, con debate y análisis sobre lo que pasa a nivel nacional e internacional.",
-      "inicio": "2026-10-09T18:00:00",
-      "fin": "2026-10-09T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol Colombiano Primera División • Alianza FC vs Águilas Doradas",
-      "descripcion": "Alianza FC vs Águilas Doradas | Acción de la fecha 14 del Torneo Finalización 2026 de la Categoría Primera A. Alianza FC se enfrenta a Águilas Doradas. Desde el estadio Armando Maestre Pavajeau, en Valledupar, Colombia.",
-      "inicio": "2026-10-09T20:00:00",
-      "fin": "2026-10-09T22:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol Colombiano Primera División • Once Caldas vs Llaneros",
-      "descripcion": "Once Caldas vs Llaneros | Acción de la fecha 14 del Torneo Finalización 2026 de la Categoría Primera A. Once Caldas se enfrenta a Llaneros FC. Desde el estadio Palogrande, en Manizales, Caldas, Colombia.",
-      "inicio": "2026-10-09T22:00:00",
-      "fin": "2026-10-10T00:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "What the fun",
-      "descripcion": "Comparar dos cosas completamente opuestas experimentándolas de primera mano y comparando sus diferencias. Contrastar cosas diferentes, como caro y barato, real y falso, caliente y frío, rápido y lento, etc.",
-      "inicio": "2026-10-10T00:00:00",
-      "fin": "2026-10-10T00:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Win Noticias Noche",
-      "descripcion": "Un completo recorrido por el deporte nacional e internacional en un show dinámico e informativo, con las mejores noticias.",
-      "inicio": "2026-10-10T00:30:00",
-      "fin": "2026-10-10T01:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol Colombiano Primera División • Atlético Nacional vs Deportes Tolima",
-      "descripcion": "Atlético Nacional vs Deportes Tolima | Acción de la fecha 9 del Torneo Finalización 2026 de la Categoría Primera A. Atlético Nacional se enfrenta a Deportes Tolima. Desde el estadio Atanasio Girardot, en Medellín, Colombia.",
-      "inicio": "2026-10-10T01:00:00",
-      "fin": "2026-10-10T03:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol Colombiano Segunda División • Real Cundinamarca vs Real Santander",
-      "descripcion": "Real Cundinamarca vs Real Santander | Acción de la fecha 5 del Torneo Finalización 2026 de la Categoría Primera B. Real Cundinamarca se enfrenta a Real Santander. Desde el Estadio Municipal de Mosquera, en Mosquera, Cundinamarca, Colombia.",
-      "inicio": "2026-10-10T03:00:00",
-      "fin": "2026-10-10T05:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Detrás de la gloria • Honor y Tradición (Junior 2018-II)",
-      "descripcion": "Honor y Tradición (Junior 2018-II) | Todo sobre la campaña del equipo colombiano en el Torneo Finalización.",
-      "inicio": "2026-10-10T05:00:00",
-      "fin": "2026-10-10T06:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "WIN Noticias",
-      "descripcion": "La más completa información y todas las novedades del mundo deportivo nacional e internacional. Además, se tiene la más amplia cobertura de los deportistas colombianos en todo el mundo.",
-      "inicio": "2026-10-10T06:00:00",
-      "fin": "2026-10-10T07:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Campañas • Once Caldas: Campeón Liga I 2003",
-      "descripcion": "Once Caldas: Campeón Liga I 2003 | El rumbo de Once Caldas a la final del Torneo Apertura 2003 de la Primera A, en el que consiguió su segundo título.",
-      "inicio": "2026-10-10T07:00:00",
-      "fin": "2026-10-10T07:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol Colombiano Primera División • Alianza FC vs Águilas Doradas",
-      "descripcion": "Alianza FC vs Águilas Doradas | Acción de la fecha 14 del Torneo Finalización 2026 de la Categoría Primera A. Alianza FC se enfrenta a Águilas Doradas. Desde el estadio Armando Maestre Pavajeau, en Valledupar, Colombia.",
-      "inicio": "2026-10-10T07:30:00",
-      "fin": "2026-10-10T09:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Automovilismo",
       "descripcion": "La mejor cobertura y toda la acción de las competencias de automovilismo.",
@@ -124,6 +26,118 @@
       "descripcion": "Cobertura de la carrera de obstáculos del Spartan World Championship. Desde Hvar, en Croacia.",
       "inicio": "2026-10-10T11:30:00",
       "fin": "2026-10-10T13:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol: Previa",
+      "descripcion": "Reportajes, análisis y comentarios previo al gran evento deportivo.",
+      "inicio": "2026-10-10T13:00:00",
+      "fin": "2026-10-10T13:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Futsal Liga de Colombia • ICSIN FC vs Sergio Arboleda",
+      "descripcion": "En vivo ║ ICSIN FC vs Sergio Arboleda | Cuartos de final, partido de ida de la Liga de Futsal FCF 2026. ICSIN FC se enfrenta a Sergio Arboleda. Desde el Coliseo Ramón Elías López, en Palmira, Valle del Cauca.",
+      "inicio": "2026-10-10T13:30:00",
+      "fin": "2026-10-10T15:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "WIN Noticias",
+      "descripcion": "La más completa información y todas las novedades del mundo deportivo nacional e internacional. Además, se tiene la más amplia cobertura de los deportistas colombianos en todo el mundo.",
+      "inicio": "2026-10-10T15:00:00",
+      "fin": "2026-10-10T16:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol: Previa",
+      "descripcion": "Reportajes, análisis y comentarios previo al gran evento deportivo.",
+      "inicio": "2026-10-10T16:00:00",
+      "fin": "2026-10-10T17:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol: Previa",
+      "descripcion": "Reportajes, análisis y comentarios previo al gran evento deportivo.",
+      "inicio": "2026-10-10T17:30:00",
+      "fin": "2026-10-10T18:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Fútbol Brasileirao • Vasco da Gama vs Remo",
+      "descripcion": "En vivo ║ Vasco da Gama vs Remo | Fecha 30 del Brasileirao Serie A 2026. Vasco da Gama (14) derrotó a Botafogo por 1-2 en la jornada anterior, en tanto que Remo (19) empató 1-1 con Gremio. Desde el estadio São Januário, en Río de Janeiro.",
+      "inicio": "2026-10-10T18:00:00",
+      "fin": "2026-10-10T20:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Colombiano Primera División • Junior vs Internacional de Bogotá",
+      "descripcion": "Junior vs Internacional de Bogotá | Acción de la fecha 14 del Torneo Finalización 2026 de la Categoría Primera A. Junior se enfrenta a Internacional de Bogotá. Desde el Estadio Metropolitano Roberto Meléndez, en Barranquilla, Colombia.",
+      "inicio": "2026-10-10T20:00:00",
+      "fin": "2026-10-10T22:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol: Previa",
+      "descripcion": "Reportajes, análisis y comentarios previo al gran evento deportivo.",
+      "inicio": "2026-10-10T22:00:00",
+      "fin": "2026-10-10T22:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Futsal Liga de Colombia • Carmen de Viboral vs Cúcuta FC",
+      "descripcion": "En vivo ║ Carmen de Viboral vs Cúcuta FC | Cuartos de final, partido de ida de la Liga de Futsal FCF 2026. Carmen de Viboral se enfrenta a Cúcuta FC. Desde el Coliseo Ernesto Ríos Arias, en La Unión, Antioquia.",
+      "inicio": "2026-10-10T22:30:00",
+      "fin": "2026-10-11T00:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "WIN Noticias",
+      "descripcion": "La más completa información y todas las novedades del mundo deportivo nacional e internacional. Además, se tiene la más amplia cobertura de los deportistas colombianos en todo el mundo.",
+      "inicio": "2026-10-11T00:00:00",
+      "fin": "2026-10-11T01:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Colombiano Primera División • Deportivo Pereira vs Deportivo Cali",
+      "descripcion": "Deportivo Pereira vs Deportivo Cali | Acción de la fecha 14 del Torneo Finalización 2026 de la Categoría Primera A. Deportivo Pereira se enfrenta a Deportivo Cali. Desde el estadio Hernán Ramírez Villegas, en Pereira, Colombia.",
+      "inicio": "2026-10-11T01:30:00",
+      "fin": "2026-10-11T03:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Colombiano Segunda División • Bogotá vs Patriotas Boyacá",
+      "descripcion": "Bogotá vs Patriotas Boyacá | Acción de la fecha 5 del Torneo Finalización 2026 de la Categoría Primera B. Bogotá se enfrenta a Patriotas Boyacá. Desde el Parque Estadio Olaya Herrera, en Bogotá, Colombia.",
+      "inicio": "2026-10-11T03:30:00",
+      "fin": "2026-10-11T05:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Una cancha llamada Colombia",
+      "descripcion": "Proyecto social, deportivo, artístico, documental e integral de la Fundación Arte para el Cambio que evidencia cómo el fútbol se convierte en un eje de transformación social en cada rincón de Colombia.",
+      "inicio": "2026-10-11T05:30:00",
+      "fin": "2026-10-11T06:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Futsal Liga de Colombia • ICSIN FC vs Sergio Arboleda",
+      "descripcion": "ICSIN FC vs Sergio Arboleda | Cuartos de final, partido de ida de la Liga de Futsal FCF 2026. ICSIN FC se enfrenta a Sergio Arboleda. Desde el Coliseo Ramón Elías López, en Palmira, Valle del Cauca.",
+      "inicio": "2026-10-11T06:00:00",
+      "fin": "2026-10-11T07:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "WIN Noticias",
+      "descripcion": "La más completa información y todas las novedades del mundo deportivo nacional e internacional. Además, se tiene la más amplia cobertura de los deportistas colombianos en todo el mundo.",
+      "inicio": "2026-10-11T07:30:00",
+      "fin": "2026-10-11T09:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Colombiano Primera División • Deportivo Pereira vs Deportivo Cali",
+      "descripcion": "Deportivo Pereira vs Deportivo Cali | Acción de la fecha 14 del Torneo Finalización 2026 de la Categoría Primera A. Deportivo Pereira se enfrenta a Deportivo Cali. Desde el estadio Hernán Ramírez Villegas, en Pereira, Colombia.",
+      "inicio": "2026-10-11T09:00:00",
+      "fin": "2026-10-11T11:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]

@@ -1,122 +1,115 @@
 {
   "actual": {
-    "titulo": "Me quiero casar",
-    "descripcion": "Romance entre una turista norteamericana y un joven médico mexicano.",
-    "inicio": "2026-10-09T10:44:00",
-    "fin": "2026-10-09T12:21:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/mequierocasar.jpg"
-  },
-  "siguiente": {
-    "titulo": "Operación carambola",
-    "descripcion": "Un muchacho es contratado por un ladrón, quien se hace pasar por un agente de seguridad. Sin embargo, con el tiempo, el joven se dará cuenta de que en realidad es la carnada del criminal, por lo que intentará detenerlo.",
-    "inicio": "2026-10-09T12:21:00",
-    "fin": "2026-10-09T13:58:00",
+    "titulo": "Quiero ser artista",
+    "descripcion": "Historia de un cartero que desea convertirse en estrella de cine. Entra en el mágico mundo de los estudios cinematográficos, con las estrellas más famosas del cine mexicano y descubre todos los secretos de la filmación.",
+    "inicio": "2026-10-10T10:47:00",
+    "fin": "2026-10-10T12:49:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
+  "siguiente": {
+    "titulo": "El profe",
+    "descripcion": "Sócrates (Cantinflas) un abnegado maestro que ha consagrado su vida a la enseñanza, sacrifica la comodidad de la gran ciudad para marchar hacia el pueblo del Romeral, donde son necesarios sus servicios. Allí deberá luchar contra el poderoso cacique local, interesado en formentar la ignorancia de sus habitantes. Sócrates cuenta con el apoyo del sacerdote del pueblo y de Hortensia, una joven que acepta alquilarle una habitación en su casa. Ellos y los niños que rápidamente comienzan a admirar a su maestro, son quienes tendrán que luchar contra las fuerzas del cacique y sus aliados.",
+    "inicio": "2026-10-10T12:49:00",
+    "fin": "2026-10-10T15:05:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/elprofe.jpg"
+  },
   "lista": [
-    {
-      "titulo": "Me quiero casar",
-      "descripcion": "Romance entre una turista norteamericana y un joven médico mexicano.",
-      "inicio": "2026-10-09T10:44:00",
-      "fin": "2026-10-09T12:21:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/mequierocasar.jpg"
-    },
-    {
-      "titulo": "Operación carambola",
-      "descripcion": "Un muchacho es contratado por un ladrón, quien se hace pasar por un agente de seguridad. Sin embargo, con el tiempo, el joven se dará cuenta de que en realidad es la carnada del criminal, por lo que intentará detenerlo.",
-      "inicio": "2026-10-09T12:21:00",
-      "fin": "2026-10-09T13:58:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Es mi vida",
-      "descripcion": "La vida del famoso cantautor mexicano Juan Gabriel, cuando es acusado de un robo que no cometió, motivo por el cual es obligado a purgar una larga condena en la penitenciaria de Lecumberri.",
-      "inicio": "2026-10-09T13:58:00",
-      "fin": "2026-10-09T16:02:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Huracán Ramírez y la monjita negra",
-      "descripcion": "Un luchador mexicano que es huérfano y no puede hablar tiene una conexión especial con una monja inocente que se mudó de Nueva York a México y lo conoció.",
-      "inicio": "2026-10-09T16:02:00",
-      "fin": "2026-10-09T17:56:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/huracanramirezylamonjitanegra.jpg"
-    },
-    {
-      "titulo": "La Mujer Marcada",
-      "descripcion": "Ana, una mujer que tiene el rostro desfigurado, desea matarse, pero es salvada por Germán, que le da cobijo y la invita a cenar. Cierto día reencuentra a Rodolfo, rico hampón quien fue el causante de su desgracia y ella se enamora.",
-      "inicio": "2026-10-09T17:56:00",
-      "fin": "2026-10-09T19:46:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dos Fantasmas y Una Muchacha",
-      "descripcion": "En tiempos de don Porfirio, los catrines Pérez y López mueren al batirse a duelo por la cupletista Ana \"La Tobillera\", y sus espíritus son condenados a vagar como fantasmas por el teatro donde se enfrentaron hasta que se vuelvan amigos. Cincuenta años después, los fantasmas piden la oportunidad de redimirse. Para conseguirla deberán comprobar que ya no existe rivalidad entre ellos.",
-      "inicio": "2026-10-09T19:46:00",
-      "fin": "2026-10-09T21:18:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dosfantasmasyunamuchacha.jpg"
-    },
-    {
-      "titulo": "Despedida de casada",
-      "descripcion": "Una pareja de recién casados decide divorciarse aludiendo a las infidelidades de él y a los celos de ella. Sin embargo, el piso en el que viven es de los dos, por lo que el juez les obliga a dividir con un muro su hogar.",
-      "inicio": "2026-10-09T21:18:00",
-      "fin": "2026-10-09T22:57:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El profe",
-      "descripcion": "Sócrates (Cantinflas) un abnegado maestro que ha consagrado su vida a la enseñanza, sacrifica la comodidad de la gran ciudad para marchar hacia el pueblo del Romeral, donde son necesarios sus servicios. Allí deberá luchar contra el poderoso cacique local, interesado en formentar la ignorancia de sus habitantes. Sócrates cuenta con el apoyo del sacerdote del pueblo y de Hortensia, una joven que acepta alquilarle una habitación en su casa. Ellos y los niños que rápidamente comienzan a admirar a su maestro, son quienes tendrán que luchar contra las fuerzas del cacique y sus aliados.",
-      "inicio": "2026-10-09T22:57:00",
-      "fin": "2026-10-10T01:13:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/elprofe.jpg"
-    },
-    {
-      "titulo": "El garañón",
-      "descripcion": "Un vendedor de rebozos moribundo encomienda la suerte de su hijo a otro hombre. Al crecer, el chico retoma el camino de su padre, quien era un mujeriego y se dedicaba a vivir experiencias con bellas mujeres.",
-      "inicio": "2026-10-10T01:13:00",
-      "fin": "2026-10-10T02:53:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La risa en vacaciones 2",
-      "descripcion": "Segunda entrega de la bromas de los locos de la risa.",
-      "inicio": "2026-10-10T02:53:00",
-      "fin": "2026-10-10T04:33:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/larisaenvacaciones2.jpg"
-    },
-    {
-      "titulo": "La buena, la mala y la golfa",
-      "descripcion": "La directora de un internado para señoritas juega en un casino clandestino al que asaltan. Los tres ladrones huyen de allí, se disfrazan y se refugian en la institución dirigida por la mujer.",
-      "inicio": "2026-10-10T04:33:00",
-      "fin": "2026-10-10T06:03:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Flores de papel",
-      "descripcion": "Desde un punto de vista ficticio, se presenta el enfrentamiento entre dos clases sociales: el subproletariado y la burguesía; sin dejar a un lado a la clase media.",
-      "inicio": "2026-10-10T06:03:00",
-      "fin": "2026-10-10T07:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La alegría de vivir",
-      "descripcion": "Rosita es una hermosa empleada doméstica que, sin pensarlo, se queda a cargo de una casa de gente muy adinerada. A partir de ahí, se hará pasar por una mujer poderosa, teniendo como consecuencia un sin fin de enredos.",
-      "inicio": "2026-10-10T07:30:00",
-      "fin": "2026-10-10T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El oreja rajada",
-      "descripcion": "Aventuras de dos amiguitos, que unidos al amor de un potrillo, huyen con el cuando el dueño pretende eliminar al caballo al haberse accidentado.",
-      "inicio": "2026-10-10T09:00:00",
-      "fin": "2026-10-10T10:47:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Quiero ser artista",
       "descripcion": "Historia de un cartero que desea convertirse en estrella de cine. Entra en el mágico mundo de los estudios cinematográficos, con las estrellas más famosas del cine mexicano y descubre todos los secretos de la filmación.",
       "inicio": "2026-10-10T10:47:00",
       "fin": "2026-10-10T12:49:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El profe",
+      "descripcion": "Sócrates (Cantinflas) un abnegado maestro que ha consagrado su vida a la enseñanza, sacrifica la comodidad de la gran ciudad para marchar hacia el pueblo del Romeral, donde son necesarios sus servicios. Allí deberá luchar contra el poderoso cacique local, interesado en formentar la ignorancia de sus habitantes. Sócrates cuenta con el apoyo del sacerdote del pueblo y de Hortensia, una joven que acepta alquilarle una habitación en su casa. Ellos y los niños que rápidamente comienzan a admirar a su maestro, son quienes tendrán que luchar contra las fuerzas del cacique y sus aliados.",
+      "inicio": "2026-10-10T12:49:00",
+      "fin": "2026-10-10T15:05:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/elprofe.jpg"
+    },
+    {
+      "titulo": "De sangre chicana",
+      "descripcion": "Un matrimonio decide viajar a Estados Unidos para mejorar su economía. Serán padres de tres hijos que tomarán distintos caminos: Raúl será un luchador profesional, María sentirá vergüenza de su origen y Juan se convertirá en un pandillero.",
+      "inicio": "2026-10-10T15:05:00",
+      "fin": "2026-10-10T16:49:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Por tu maldito amor",
+      "descripcion": "Ernesto Santos, sobrevive a una tragedia en la selva. En su pueblo lo creían muerto y al volver, se entera que su mujer, tiene un romance con otro. Ernesto se tiene que enfrentar con él, al que mata y por eso tiene que huir.",
+      "inicio": "2026-10-10T16:49:00",
+      "fin": "2026-10-10T18:37:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ángel del barrio",
+      "descripcion": "Patada de Mula, un viejo boxeador retirado, vive con el sentimiento de culpa de haber matado a su oponente en su última pelea, pero trabaja como masajista en un gimnasio, vende globos los domingos y con lo que obtiene mantiene a la viuda del rival que mató y a su hijo El Kid, aspirante a boxeador, sin que él lo sepa. Patada también está enamorado de su vecina Marga, una joven a quien el gángster duque y su propio padre empujan a la prostitución, pero a la que Patada envía cartas como un enamorado anónimo. El Kid es patrocinado por Duque, detesta a Patada por la muerte de su padre, pero cuando lo echa de la fonda que atiende su madre ella le confiesa lo que él ha hecho por ellos y Kid le pide perdón y lo hace su second. Tras varios triunfos Kid y Marga se enamoran y por él ella deja al Duque.",
+      "inicio": "2026-10-10T18:37:00",
+      "fin": "2026-10-10T20:19:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El supersabio",
+      "descripcion": "Cantinflas es el ayudante de un científico de una petrolera que durante muchos años ha estado investigando la manera de extraer del agua de mar la sustancia básica de la gasolina. Pero este es asesinado y el próximo es su asistente.",
+      "inicio": "2026-10-10T20:19:00",
+      "fin": "2026-10-10T22:17:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Teresa",
+      "descripcion": "Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.",
+      "inicio": "2026-10-10T22:17:00",
+      "fin": "2026-10-11T00:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/teresa.jpg"
+    },
+    {
+      "titulo": "Sol en llamas",
+      "descripcion": "Un miembro apóstata de la clase dominante renuncia a su privilegio y vive entre los peones, educándolos para que estén listos para la Revolución Mexicana. Desafortunadamente, la bella hija del terrateniente rival.",
+      "inicio": "2026-10-11T00:10:00",
+      "fin": "2026-10-11T01:59:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tres mujeres en la hoguera",
+      "descripcion": "Alex y Mane invitan a unas amigas a pasar unas vacaciones en su casa de playa, en un juego de atracción constante los personajes se ven envueltos en una trama de traición, ambición, pasión y muerte.",
+      "inicio": "2026-10-11T01:59:00",
+      "fin": "2026-10-11T03:50:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Peseros",
+      "descripcion": "Al defenderse, dos ex ladrones, obligados a robar por un policía, le sacan un ojo al oficial y huyen a Monterrey. Allí, cada uno conseguirá un trabajo distintos y se enamorarán de dos mozas. La aparición del policía complicará su situación.",
+      "inicio": "2026-10-11T03:50:00",
+      "fin": "2026-10-11T05:35:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "De sangre chicana",
+      "descripcion": "Un matrimonio decide viajar a Estados Unidos para mejorar su economía. Serán padres de tres hijos que tomarán distintos caminos: Raúl será un luchador profesional, María sentirá vergüenza de su origen y Juan se convertirá en un pandillero.",
+      "inicio": "2026-10-11T05:35:00",
+      "fin": "2026-10-11T07:19:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cabalgando a la Luna",
+      "descripcion": "Una familia decadente  de la Ciudad de México,  recibe lecciones de vida de los visitantes rurales.",
+      "inicio": "2026-10-11T07:19:00",
+      "fin": "2026-10-11T09:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pepito as del volante",
+      "descripcion": "El padre de Pepito muere al volcarse el Ferrari en el que está ganando una carrera automovilística, por lo que Pepito se acerca a su abuelo y le pide que equipen un coche para llevarlo a competir.",
+      "inicio": "2026-10-11T09:00:00",
+      "fin": "2026-10-11T10:41:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Santa Claus",
+      "descripcion": "La Navidad está a punto de llegar y Santa Claus está emocionado. Por eso decide visitar a su amigo Merlín, un poderoso mago quien le ayudará con numerosas herramientas para que Santa pueda derrotar a su enemigo, \"el precio\".",
+      "inicio": "2026-10-11T10:41:00",
+      "fin": "2026-10-11T12:30:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]

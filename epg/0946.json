@@ -1,158 +1,144 @@
 {
   "actual": {
-    "titulo": "Playlist",
-    "descripcion": "100% de música, 100% de vídeoclipes.",
-    "inicio": "2026-10-09T09:00:00",
-    "fin": "2026-10-09T22:30:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/playlist.jpg"
+    "titulo": "Trece animado • Serie",
+    "descripcion": "Serie | Un espacio con programas infantiles para que los niños se diviertan y a al vez aprendan desde casa. Junto a una gran variedad de personajes y aventuras, los más pequeños se reirán, cantarán y jugarán a la vez que aprenden sobre la vida.",
+    "inicio": "2026-10-10T09:00:00",
+    "fin": "2026-10-10T22:00:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Salió el sol",
-    "descripcion": "Un magazine matutino que le da los buenos días a los televidentes de las regiones y provincias de Colombia. Presenta secciones de cocina, mascotas, fitness y mucho más.",
-    "inicio": "2026-10-09T22:30:00",
-    "fin": "2026-10-10T01:00:00",
+    "titulo": "Toma el control",
+    "descripcion": "Espacio en el que la defensora de la audiencia, Adriana Álvarez, vincula distintas regiones mediante debates y temas de interés, con invitados importantes. Junto a ella se encuentra Christian Briceño, primer presentador colombiano sordo.",
+    "inicio": "2026-10-10T22:00:00",
+    "fin": "2026-10-10T22:30:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Playlist",
-      "descripcion": "100% de música, 100% de vídeoclipes.",
-      "inicio": "2026-10-09T09:00:00",
-      "fin": "2026-10-09T22:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/playlist.jpg"
-    },
-    {
-      "titulo": "Salió el sol",
-      "descripcion": "Un magazine matutino que le da los buenos días a los televidentes de las regiones y provincias de Colombia. Presenta secciones de cocina, mascotas, fitness y mucho más.",
-      "inicio": "2026-10-09T22:30:00",
-      "fin": "2026-10-10T01:00:00",
+      "titulo": "Trece animado • Serie",
+      "descripcion": "Serie | Un espacio con programas infantiles para que los niños se diviertan y a al vez aprendan desde casa. Junto a una gran variedad de personajes y aventuras, los más pequeños se reirán, cantarán y jugarán a la vez que aprenden sobre la vida.",
+      "inicio": "2026-10-10T09:00:00",
+      "fin": "2026-10-10T22:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "La cocina de mi abuela",
-      "descripcion": "Un deleite al paladar con los mejores platos de los 40 municipios de Norte de Santander",
-      "inicio": "2026-10-10T01:00:00",
-      "fin": "2026-10-10T01:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lacocinademiabuela.jpg"
-    },
-    {
-      "titulo": "Ruta gastronómica",
-      "descripcion": "Cristian Montoya te lleva de viaje a través de los sabores tradicionales de cada lugar que visita.",
-      "inicio": "2026-10-10T01:30:00",
-      "fin": "2026-10-10T02:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Playlist",
-      "descripcion": "100% de música, 100% de vídeoclipes.",
-      "inicio": "2026-10-10T02:00:00",
-      "fin": "2026-10-10T02:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/playlist.jpg"
-    },
-    {
-      "titulo": "En Forma",
-      "descripcion": "Espacio que abarca todos los aspectos de la salud, para que conozcas las últimas novedades en tratamientos médicos, medicina alternativa, bienestar y ejercicio, así como los más recientes descubrimientos en nutrición y belleza.",
-      "inicio": "2026-10-10T02:00:00",
-      "fin": "2026-10-10T02:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/enforma.jpg"
-    },
-    {
-      "titulo": "Fuerza latina",
-      "descripcion": "Las periodistas Natalia Orozco y Yoani Sánchez conversan cada semana con mujeres extraordinarias de América Latina, quienes nos acercan sus fascinantes historias y nos muestran el entorno en el que viven y trabajan. Son mujeres que, con tenacidad y perseverancia, se proponen cambiar la sociedad y alzan su voz para reclamar derechos y denunciar injusticias.",
-      "inicio": "2026-10-10T02:30:00",
-      "fin": "2026-10-10T03:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fuerzalatina.jpg"
-    },
-    {
-      "titulo": "DW Noticias",
-      "descripcion": "El noticiero de la DW prioriza el desarrollo de las historias de América Latina desde una perspectiva europea. Muestra los temas que afectan a las personas en todo el mundo con más profundidad y análisis de primera mano.",
-      "inicio": "2026-10-10T03:00:00",
-      "fin": "2026-10-10T03:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Magnifica Región Trece",
-      "descripcion": "Espacio que explora la diversidad cultural y natural de la región.",
-      "inicio": "2026-10-10T03:30:00",
-      "fin": "2026-10-10T04:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ruta musical",
-      "descripcion": "Realizamos una selección de los mejores grupos y solistas quienes con sus diversos ritmos y estilos alegran el alma, fortalecen el espíritu y motivan a vivir cada día con renovado entusiasmo.",
-      "inicio": "2026-10-10T04:00:00",
-      "fin": "2026-10-10T04:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ciencia y tecnología al descubierto",
-      "descripcion": "Explora ideas, personas e innovaciones que están cambiando el mundo.",
-      "inicio": "2026-10-10T04:30:00",
-      "fin": "2026-10-10T05:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Playlist",
-      "descripcion": "100% de música, 100% de vídeoclipes.",
-      "inicio": "2026-10-10T05:00:00",
-      "fin": "2026-10-10T06:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/playlist.jpg"
-    },
-    {
-      "titulo": "Honores policiales",
-      "descripcion": "Sigue la vida y el trabajo de los oficiales de la comisaría de Balihe. Con la ayuda de los ancianos de la comisaría, aprenderán a gestionar su vida y su trabajo y, con el tiempo, se convertirán en policías destacados.",
-      "inicio": "2026-10-10T06:00:00",
-      "fin": "2026-10-10T07:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Playlist • Esperanzador",
-      "descripcion": "Esperanzador | 100% de música, 100% de vídeoclipes.",
-      "inicio": "2026-10-10T07:00:00",
-      "fin": "2026-10-10T07:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/playlist.jpg"
-    },
-    {
-      "titulo": "Patrulla salva perros",
-      "descripcion": "Una serie en formato docu-reality que sigue a diversos rescatistas. A través de historias reales, se muestra el trabajo de los equipos que atienden a perros, gatos y otras mascotas en condiciones de vulnerabilidad.",
-      "inicio": "2026-10-10T07:00:00",
-      "fin": "2026-10-10T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Playlist",
-      "descripcion": "100% de música, 100% de vídeoclipes.",
-      "inicio": "2026-10-10T08:00:00",
-      "fin": "2026-10-10T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/playlist.jpg"
-    },
-    {
-      "titulo": "Music for Life",
-      "descripcion": "Variedad de contenidos de actualidad, música en vivo de bandas emergentes, videos musicales y entrevistas a celebridades que comparten una misma pasión: las regiones, la vida y la música.",
-      "inicio": "2026-10-10T08:00:00",
-      "fin": "2026-10-10T09:00:00",
+      "titulo": "Toma el control",
+      "descripcion": "Espacio en el que la defensora de la audiencia, Adriana Álvarez, vincula distintas regiones mediante debates y temas de interés, con invitados importantes. Junto a ella se encuentra Christian Briceño, primer presentador colombiano sordo.",
+      "inicio": "2026-10-10T22:00:00",
+      "fin": "2026-10-10T22:30:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Trece animado • Serie",
       "descripcion": "Serie | Un espacio con programas infantiles para que los niños se diviertan y a al vez aprendan desde casa. Junto a una gran variedad de personajes y aventuras, los más pequeños se reirán, cantarán y jugarán a la vez que aprenden sobre la vida.",
-      "inicio": "2026-10-10T09:00:00",
-      "fin": "2026-10-10T09:00:00",
+      "inicio": "2026-10-10T22:30:00",
+      "fin": "2026-10-11T02:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Playlist",
       "descripcion": "100% de música, 100% de vídeoclipes.",
-      "inicio": "2026-10-10T09:00:00",
-      "fin": "2026-10-10T09:30:00",
+      "inicio": "2026-10-11T02:00:00",
+      "fin": "2026-10-11T03:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/playlist.jpg"
     },
     {
-      "titulo": "Contragolpe",
-      "descripcion": "Un programa que aborda lo más destacado de la agenda del fútbol a nivel nacional. Los presentadores analizan los partidos, comentan las jugadas clave y hacen sus predicciones para la siguiente fecha.",
-      "inicio": "2026-10-10T09:30:00",
-      "fin": "2026-10-10T22:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/contragolpe.jpg"
+      "titulo": "Toma el control",
+      "descripcion": "Espacio en el que la defensora de la audiencia, Adriana Álvarez, vincula distintas regiones mediante debates y temas de interés, con invitados importantes. Junto a ella se encuentra Christian Briceño, primer presentador colombiano sordo.",
+      "inicio": "2026-10-11T03:00:00",
+      "fin": "2026-10-11T03:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Diarios del agua",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-11T03:30:00",
+      "fin": "2026-10-11T04:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Magnifica Región Trece",
+      "descripcion": "Espacio que explora la diversidad cultural y natural de la región.",
+      "inicio": "2026-10-11T04:00:00",
+      "fin": "2026-10-11T05:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los saberes del campo",
+      "descripcion": "Espacio para que los televidentes tengan la posibilidad de conocer de primera mano las innovaciones en los sectores agropecuario, forestal y ambiental que se desarrollan en la Escuela ECAPMA.",
+      "inicio": "2026-10-11T05:00:00",
+      "fin": "2026-10-11T05:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Playlist",
+      "descripcion": "100% de música, 100% de vídeoclipes.",
+      "inicio": "2026-10-11T05:30:00",
+      "fin": "2026-10-11T07:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/playlist.jpg"
+    },
+    {
+      "titulo": "Playlist • Esperanzador",
+      "descripcion": "Esperanzador | 100% de música, 100% de vídeoclipes.",
+      "inicio": "2026-10-11T07:00:00",
+      "fin": "2026-10-11T07:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/playlist.jpg"
+    },
+    {
+      "titulo": "Viejitos en fuga",
+      "descripcion": "Un hombre mayor llamado Juan de la Cruz Sanclemente es recluido en un geriátrico por su hijo, quien quiere quedarse con su fortuna. Cansados del maltrato, un grupo de ancianos decide ayudar al protagonista y se fugan del lugar con él.",
+      "inicio": "2026-10-11T07:00:00",
+      "fin": "2026-10-11T08:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El campo no para",
+      "descripcion": "El campo no para, es el informativo del sector agropecuario colombiano, que busca resaltar la labor, planificación, eficiencia y desarrollo del trabajo de los campesinos que trabajan por la seguridad alimentaria, la productividad y",
+      "inicio": "2026-10-11T08:00:00",
+      "fin": "2026-10-11T08:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ICA",
+      "descripcion": "Toda la información del sector agropecuario colombiano.",
+      "inicio": "2026-10-11T08:00:00",
+      "fin": "2026-10-11T08:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ministerio TIC",
+      "descripcion": "Espacio del Ministerio de Tecnologías de la Información y Comunicaciones de Colombia.",
+      "inicio": "2026-10-11T08:30:00",
+      "fin": "2026-10-11T08:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Music for Life • Con Julio",
+      "descripcion": "Con Julio | Variedad de contenidos de actualidad, música en vivo de bandas emergentes, videos musicales y entrevistas a celebridades que comparten una misma pasión: las regiones, la vida y la música.",
+      "inicio": "2026-10-11T08:30:00",
+      "fin": "2026-10-11T09:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Educación y desarrollo sostenible",
+      "descripcion": "El rector de la UNAD, Jaime Leal Aafandor, aborda los grandes desafíos contemporáneos a partir de los Objetivos de Desarrollo Sostenible (ODS), destacando el papel de la educación como motor de transformación social.",
+      "inicio": "2026-10-11T09:00:00",
+      "fin": "2026-10-11T09:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Trece animado • Serie",
+      "descripcion": "Serie | Un espacio con programas infantiles para que los niños se diviertan y a al vez aprendan desde casa. Junto a una gran variedad de personajes y aventuras, los más pequeños se reirán, cantarán y jugarán a la vez que aprenden sobre la vida.",
+      "inicio": "2026-10-11T09:30:00",
+      "fin": "2026-10-11T09:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Serenata de Teleantioquia",
+      "descripcion": "Programa musical dedicado a difundir la música tradicional, romántica y de antaño.",
+      "inicio": "2026-10-11T09:30:00",
+      "fin": "2026-10-11T23:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]
 }
