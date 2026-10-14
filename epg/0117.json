@@ -1,145 +1,19 @@
 {
   "actual": {
-    "titulo": "Calle 7",
-    "descripcion": "Programa de entretención donde un grupo de jóvenes realizaban pruebas lúdicas para ayudar a un televidente",
-    "inicio": "2026-10-13T11:15:00",
-    "fin": "2026-10-13T13:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/calle7.jpg"
-  },
-  "siguiente": {
     "titulo": "¿Dónde Está Elisa?",
     "descripcion": "Dónde Está Elisa? es la adaptación de la telenovela chilena del mismo nombre cuya trama se desenvuelve tras la desaparición de Elisa durante una noche de fiesta.",
-    "inicio": "2026-10-13T13:00:00",
-    "fin": "2026-10-13T14:00:00",
+    "inicio": "2026-10-14T09:00:00",
+    "fin": "2026-10-14T10:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dondeestaelisa.jpg"
   },
+  "siguiente": {
+    "titulo": "Pasiones",
+    "descripcion": "Los casos más interesantes de personas con problemas amorosos, relatados por sus protagonistas quienes reciben consejos de la audiencia y un panel de expertos.",
+    "inicio": "2026-10-14T10:00:00",
+    "fin": "2026-10-14T11:15:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/pasiones.jpg"
+  },
   "lista": [
-    {
-      "titulo": "Calle 7",
-      "descripcion": "Programa de entretención donde un grupo de jóvenes realizaban pruebas lúdicas para ayudar a un televidente",
-      "inicio": "2026-10-13T11:15:00",
-      "fin": "2026-10-13T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/calle7.jpg"
-    },
-    {
-      "titulo": "¿Dónde Está Elisa?",
-      "descripcion": "Dónde Está Elisa? es la adaptación de la telenovela chilena del mismo nombre cuya trama se desenvuelve tras la desaparición de Elisa durante una noche de fiesta.",
-      "inicio": "2026-10-13T13:00:00",
-      "fin": "2026-10-13T14:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dondeestaelisa.jpg"
-    },
-    {
-      "titulo": "Aquelarre",
-      "descripcion": "Telenovela, aborda una historia de misterios y amores apasionados que se desarrollan en un mágico ambiente en la zona central de Chile. Pueblo donde nacen solo mujeres.",
-      "inicio": "2026-10-13T14:00:00",
-      "fin": "2026-10-13T15:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/aquelarre.jpg"
-    },
-    {
-      "titulo": "Patiperros",
-      "descripcion": "El espacio mostraba la vida, historias y experiencias de los chilenos que decidieron emigrar y vivir en distintos países alrededor de los cinco continentes",
-      "inicio": "2026-10-13T15:00:00",
-      "fin": "2026-10-13T16:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/patiperros.jpg"
-    },
-    {
-      "titulo": "Legado: Tierra Adentro",
-      "descripcion": "El legado de Tierradentro se compone principalmente de sus hipogeos subterráneos, sus urnas funerarias y su arte rupestre.",
-      "inicio": "2026-10-13T16:00:00",
-      "fin": "2026-10-13T17:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/legadotierraadentro.jpg"
-    },
-    {
-      "titulo": "Pasiones",
-      "descripcion": "Los casos más interesantes de personas con problemas amorosos, relatados por sus protagonistas quienes reciben consejos de la audiencia y un panel de expertos.",
-      "inicio": "2026-10-13T17:00:00",
-      "fin": "2026-10-13T18:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/pasiones.jpg"
-    },
-    {
-      "titulo": "Calle 7",
-      "descripcion": "Programa de entretención donde un grupo de jóvenes realizaban pruebas lúdicas para ayudar a un televidente",
-      "inicio": "2026-10-13T18:15:00",
-      "fin": "2026-10-13T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/calle7.jpg"
-    },
-    {
-      "titulo": "Aquelarre",
-      "descripcion": "Telenovela, aborda una historia de misterios y amores apasionados que se desarrollan en un mágico ambiente en la zona central de Chile. Pueblo donde nacen solo mujeres.",
-      "inicio": "2026-10-13T20:00:00",
-      "fin": "2026-10-13T21:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/aquelarre.jpg"
-    },
-    {
-      "titulo": "¿Dónde Está Elisa?",
-      "descripcion": "Dónde Está Elisa? es la adaptación de la telenovela chilena del mismo nombre cuya trama se desenvuelve tras la desaparición de Elisa durante una noche de fiesta.",
-      "inicio": "2026-10-13T21:00:00",
-      "fin": "2026-10-13T22:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dondeestaelisa.jpg"
-    },
-    {
-      "titulo": "Mea Culpa",
-      "descripcion": "Programa que recrea algunos de los crímenes más impactantes de Chile. Conducido por Carlos Pinto",
-      "inicio": "2026-10-13T22:00:00",
-      "fin": "2026-10-14T00:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meaculpa.jpg"
-    },
-    {
-      "titulo": "El día menos pensado",
-      "descripcion": "Andrea es una joven estudiante cuya familia enfrenta graves problemas económicos.",
-      "inicio": "2026-10-14T00:00:00",
-      "fin": "2026-10-14T01:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/eldiamenospensado.jpg"
-    },
-    {
-      "titulo": "Mea Culpa",
-      "descripcion": "Programa que recrea algunos de los crímenes más impactantes de Chile. Conducido por Carlos Pinto",
-      "inicio": "2026-10-14T01:00:00",
-      "fin": "2026-10-14T02:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meaculpa.jpg"
-    },
-    {
-      "titulo": "¿Dónde Está Elisa?",
-      "descripcion": "Dónde Está Elisa? es la adaptación de la telenovela chilena del mismo nombre cuya trama se desenvuelve tras la desaparición de Elisa durante una noche de fiesta.",
-      "inicio": "2026-10-14T02:00:00",
-      "fin": "2026-10-14T03:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dondeestaelisa.jpg"
-    },
-    {
-      "titulo": "Patiperros",
-      "descripcion": "El espacio mostraba la vida, historias y experiencias de los chilenos que decidieron emigrar y vivir en distintos países alrededor de los cinco continentes",
-      "inicio": "2026-10-14T03:00:00",
-      "fin": "2026-10-14T04:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/patiperros.jpg"
-    },
-    {
-      "titulo": "Legado: Tierra Adentro",
-      "descripcion": "El legado de Tierradentro se compone principalmente de sus hipogeos subterráneos, sus urnas funerarias y su arte rupestre.",
-      "inicio": "2026-10-14T04:00:00",
-      "fin": "2026-10-14T05:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/legadotierraadentro.jpg"
-    },
-    {
-      "titulo": "Pasiones",
-      "descripcion": "Los casos más interesantes de personas con problemas amorosos, relatados por sus protagonistas quienes reciben consejos de la audiencia y un panel de expertos.",
-      "inicio": "2026-10-14T05:00:00",
-      "fin": "2026-10-14T06:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/pasiones.jpg"
-    },
-    {
-      "titulo": "Calle 7",
-      "descripcion": "Programa de entretención donde un grupo de jóvenes realizaban pruebas lúdicas para ayudar a un televidente",
-      "inicio": "2026-10-14T06:30:00",
-      "fin": "2026-10-14T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/calle7.jpg"
-    },
-    {
-      "titulo": "Aquelarre",
-      "descripcion": "Telenovela, aborda una historia de misterios y amores apasionados que se desarrollan en un mágico ambiente en la zona central de Chile. Pueblo donde nacen solo mujeres.",
-      "inicio": "2026-10-14T08:00:00",
-      "fin": "2026-10-14T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/aquelarre.jpg"
-    },
     {
       "titulo": "¿Dónde Está Elisa?",
       "descripcion": "Dónde Está Elisa? es la adaptación de la telenovela chilena del mismo nombre cuya trama se desenvuelve tras la desaparición de Elisa durante una noche de fiesta.",
@@ -160,6 +34,132 @@
       "inicio": "2026-10-14T11:15:00",
       "fin": "2026-10-14T13:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/calle7.jpg"
+    },
+    {
+      "titulo": "¿Dónde Está Elisa?",
+      "descripcion": "Dónde Está Elisa? es la adaptación de la telenovela chilena del mismo nombre cuya trama se desenvuelve tras la desaparición de Elisa durante una noche de fiesta.",
+      "inicio": "2026-10-14T13:00:00",
+      "fin": "2026-10-14T14:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dondeestaelisa.jpg"
+    },
+    {
+      "titulo": "Aquelarre",
+      "descripcion": "Telenovela, aborda una historia de misterios y amores apasionados que se desarrollan en un mágico ambiente en la zona central de Chile. Pueblo donde nacen solo mujeres.",
+      "inicio": "2026-10-14T14:00:00",
+      "fin": "2026-10-14T15:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/aquelarre.jpg"
+    },
+    {
+      "titulo": "Patiperros",
+      "descripcion": "El espacio mostraba la vida, historias y experiencias de los chilenos que decidieron emigrar y vivir en distintos países alrededor de los cinco continentes",
+      "inicio": "2026-10-14T15:00:00",
+      "fin": "2026-10-14T16:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/patiperros.jpg"
+    },
+    {
+      "titulo": "Legado: Tierra Adentro",
+      "descripcion": "El legado de Tierradentro se compone principalmente de sus hipogeos subterráneos, sus urnas funerarias y su arte rupestre.",
+      "inicio": "2026-10-14T16:00:00",
+      "fin": "2026-10-14T17:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/legadotierraadentro.jpg"
+    },
+    {
+      "titulo": "Pasiones",
+      "descripcion": "Los casos más interesantes de personas con problemas amorosos, relatados por sus protagonistas quienes reciben consejos de la audiencia y un panel de expertos.",
+      "inicio": "2026-10-14T17:00:00",
+      "fin": "2026-10-14T18:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/pasiones.jpg"
+    },
+    {
+      "titulo": "Calle 7",
+      "descripcion": "Programa de entretención donde un grupo de jóvenes realizaban pruebas lúdicas para ayudar a un televidente",
+      "inicio": "2026-10-14T18:15:00",
+      "fin": "2026-10-14T20:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/calle7.jpg"
+    },
+    {
+      "titulo": "Aquelarre",
+      "descripcion": "Telenovela, aborda una historia de misterios y amores apasionados que se desarrollan en un mágico ambiente en la zona central de Chile. Pueblo donde nacen solo mujeres.",
+      "inicio": "2026-10-14T20:00:00",
+      "fin": "2026-10-14T21:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/aquelarre.jpg"
+    },
+    {
+      "titulo": "¿Dónde Está Elisa?",
+      "descripcion": "Dónde Está Elisa? es la adaptación de la telenovela chilena del mismo nombre cuya trama se desenvuelve tras la desaparición de Elisa durante una noche de fiesta.",
+      "inicio": "2026-10-14T21:00:00",
+      "fin": "2026-10-14T22:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dondeestaelisa.jpg"
+    },
+    {
+      "titulo": "Mea Culpa",
+      "descripcion": "Programa que recrea algunos de los crímenes más impactantes de Chile. Conducido por Carlos Pinto",
+      "inicio": "2026-10-14T22:00:00",
+      "fin": "2026-10-15T00:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meaculpa.jpg"
+    },
+    {
+      "titulo": "El día menos pensado",
+      "descripcion": "Andrea es una joven estudiante cuya familia enfrenta graves problemas económicos.",
+      "inicio": "2026-10-15T00:00:00",
+      "fin": "2026-10-15T01:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/eldiamenospensado.jpg"
+    },
+    {
+      "titulo": "Mea Culpa",
+      "descripcion": "Programa que recrea algunos de los crímenes más impactantes de Chile. Conducido por Carlos Pinto",
+      "inicio": "2026-10-15T01:00:00",
+      "fin": "2026-10-15T02:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meaculpa.jpg"
+    },
+    {
+      "titulo": "¿Dónde Está Elisa?",
+      "descripcion": "Dónde Está Elisa? es la adaptación de la telenovela chilena del mismo nombre cuya trama se desenvuelve tras la desaparición de Elisa durante una noche de fiesta.",
+      "inicio": "2026-10-15T02:00:00",
+      "fin": "2026-10-15T03:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dondeestaelisa.jpg"
+    },
+    {
+      "titulo": "Patiperros",
+      "descripcion": "El espacio mostraba la vida, historias y experiencias de los chilenos que decidieron emigrar y vivir en distintos países alrededor de los cinco continentes",
+      "inicio": "2026-10-15T03:00:00",
+      "fin": "2026-10-15T04:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/patiperros.jpg"
+    },
+    {
+      "titulo": "Legado: Tierra Adentro",
+      "descripcion": "El legado de Tierradentro se compone principalmente de sus hipogeos subterráneos, sus urnas funerarias y su arte rupestre.",
+      "inicio": "2026-10-15T04:00:00",
+      "fin": "2026-10-15T05:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/legadotierraadentro.jpg"
+    },
+    {
+      "titulo": "Pasiones",
+      "descripcion": "Los casos más interesantes de personas con problemas amorosos, relatados por sus protagonistas quienes reciben consejos de la audiencia y un panel de expertos.",
+      "inicio": "2026-10-15T05:00:00",
+      "fin": "2026-10-15T06:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/pasiones.jpg"
+    },
+    {
+      "titulo": "Calle 7",
+      "descripcion": "Programa de entretención donde un grupo de jóvenes realizaban pruebas lúdicas para ayudar a un televidente",
+      "inicio": "2026-10-15T06:30:00",
+      "fin": "2026-10-15T08:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/calle7.jpg"
+    },
+    {
+      "titulo": "Aquelarre",
+      "descripcion": "Telenovela, aborda una historia de misterios y amores apasionados que se desarrollan en un mágico ambiente en la zona central de Chile. Pueblo donde nacen solo mujeres.",
+      "inicio": "2026-10-15T08:00:00",
+      "fin": "2026-10-15T09:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/aquelarre.jpg"
+    },
+    {
+      "titulo": "¿Dónde Está Elisa?",
+      "descripcion": "Dónde Está Elisa? es la adaptación de la telenovela chilena del mismo nombre cuya trama se desenvuelve tras la desaparición de Elisa durante una noche de fiesta.",
+      "inicio": "2026-10-15T09:00:00",
+      "fin": "2026-10-15T10:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dondeestaelisa.jpg"
     }
   ]
 }
