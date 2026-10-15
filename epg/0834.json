@@ -1,109 +1,116 @@
 {
   "actual": {
-    "titulo": "Angry Birds 2: La película",
-    "descripcion": "En esta nueva aventura, tanto los cerdos como los pájaros tendrán que aunar sus fuerzas para hacer frente a Zeta. Zeta ha venido desde su isla helada en busca de un lugar más cómodo para vivir, pero su llegada está a punto de poner la vida de Red, Chuck, Bomb, Leonard y compañía patas arriba.",
-    "inicio": "2026-10-14T09:40:00",
-    "fin": "2026-10-14T11:30:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/angrybirds2lapelicula.jpg"
-  },
-  "siguiente": {
-    "titulo": "El perro samurai: La leyenda de Kakamucho",
-    "descripcion": "Hank, un perro encantador, tiene la cabeza llena de sueños sobre convertirse en samurái, pero debe superar una serie de pruebas para derrotar a sus enemigos.",
-    "inicio": "2026-10-14T11:30:00",
-    "fin": "2026-10-14T13:15:00",
+    "titulo": "Coraline Y La Puerta Secreta",
+    "descripcion": "Coraline es una niña que se muda con sus padres a una casa enorme. Aburrida, empieza a explorar las innumerables puertas del lugar y acaba abriendo una que la lleva a otra casa y a otro mundo donde todo es perfecto, hasta que se niega a quedarse para siempre y se da cuenta que la realidad donde está atrapada no es más que un señuelo para engañarla.",
+    "inicio": "2026-10-15T08:30:00",
+    "fin": "2026-10-15T10:25:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
+  "siguiente": {
+    "titulo": "Hotel Transylvania",
+    "descripcion": "Drácula regenta un hotel en el que se alojan personajes como Frankenstein, la Momia, el Hombre Invisible, hombres-lobo... El problema del conde es que tiene una hija de espíritu aventurero a la que le resulta difícil controlar. El conflicto surge cuando se aloja en el hotel un ser humano que se siente atraído por la hija del dueño.",
+    "inicio": "2026-10-15T10:25:00",
+    "fin": "2026-10-15T12:10:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hoteltransylvania.jpg"
+  },
   "lista": [
-    {
-      "titulo": "Angry Birds 2: La película",
-      "descripcion": "En esta nueva aventura, tanto los cerdos como los pájaros tendrán que aunar sus fuerzas para hacer frente a Zeta. Zeta ha venido desde su isla helada en busca de un lugar más cómodo para vivir, pero su llegada está a punto de poner la vida de Red, Chuck, Bomb, Leonard y compañía patas arriba.",
-      "inicio": "2026-10-14T09:40:00",
-      "fin": "2026-10-14T11:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/angrybirds2lapelicula.jpg"
-    },
-    {
-      "titulo": "El perro samurai: La leyenda de Kakamucho",
-      "descripcion": "Hank, un perro encantador, tiene la cabeza llena de sueños sobre convertirse en samurái, pero debe superar una serie de pruebas para derrotar a sus enemigos.",
-      "inicio": "2026-10-14T11:30:00",
-      "fin": "2026-10-14T13:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bailarina",
-      "descripcion": "Felicia es una niña que vive en un orfanato en su Bretaña natal. Su pasión es la danza y sueña con convertirse en una bailarina profesional. Para conseguirlo se escapa con la ayuda de su amigo Víctor y viaja hasta el París de 1879.",
-      "inicio": "2026-10-14T13:15:00",
-      "fin": "2026-10-14T14:55:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sonic 2: La película",
-      "descripcion": "Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe. La prueba de fuego llega con el retorno del malvado Robotnik, en esta ocasión con un nuevo compinche, Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic forma equipo con su propio compañero de fatigas, Tails, y juntos se lanzan a una aventura que les llevará por todo el mundo en busca de la preciada piedra para evitar que caiga en manos equivocadas.",
-      "inicio": "2026-10-14T14:55:00",
-      "fin": "2026-10-14T17:10:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/sonic2lapelicula.jpg"
-    },
-    {
-      "titulo": "Spider-Man: Un nuevo universo",
-      "descripcion": "El adolescente Miles Morales se convierte en el Hombre Araña de su realidad, cruzándose en su camino con cinco contrapartes de otras dimensiones para detener una amenaza de todas las realidades.",
-      "inicio": "2026-10-14T17:10:00",
-      "fin": "2026-10-14T19:25:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El legado Bourne",
-      "descripcion": "El agente Aaron Cross es otro producto creado por el eficiente programa Outcome. Estos agentes han sido diseñados y entrenados para funcionar en solitario en misiones altamente arriesgadas. Sin embargo, el programa se convierte en un peligro cuando se sabe que la historia de Bourne va a pasar a ser de dominio público. Entonces los altos mandos de la agencia, responsables de Treadstone y BlackBriar, deciden tomar una solución drástica.",
-      "inicio": "2026-10-14T19:25:00",
-      "fin": "2026-10-14T22:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "John Wick: Sin control",
-      "descripcion": "John Wick es un antiguo asesino a sueldo que observa, sin poder hacer nada, como un ladrón roba su coche y mata al perro que su mujer le regaló antes de morir. Tras el hecho, Wick persigue al delincuente y descubre que su padre es un jefe mafioso de Nueva York, que está pagando una gran recompensa por su cabeza.",
-      "inicio": "2026-10-14T22:00:00",
-      "fin": "2026-10-14T23:55:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Perdida",
-      "descripcion": "El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa...",
-      "inicio": "2026-10-14T23:55:00",
-      "fin": "2026-10-15T02:40:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/perdida.jpg"
-    },
-    {
-      "titulo": "El hombre lobo",
-      "descripcion": "La infancia de Lawrence Talbot se acabó bruscamente la noche que murió su madre. Se marchó de su pueblo, Blackmoor, y tardó décadas en recuperarse e intentar olvidar. Cuando Gwen Conliffe, la prometida de su hermano, lo encuentra y le ruega que la ayude a buscar a su amor, que se encuentra desaparecido, Lawrence Talbot regresa a casa. Entonces se entera de que algo brutal, salvaje, con una sed insaciable de sangre ha matado a muchos campesinos.",
-      "inicio": "2026-10-15T02:40:00",
-      "fin": "2026-10-15T04:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El silencio de los inocentes",
-      "descripcion": "El FBI busca a un asesino en serie, apodado Buffalo Bill, que mata a sus víctimas, todas ellas adolescentes, después de prepararlas minuciosamente y arrancarles la piel. Para poder atraparlo contactan con Clarice Starling, una brillante licenciada universitaria, experta en conductas psicópatas, que aspira a formar parte del FBI. Siguiendo las instrucciones de su jefe, Clarice visita en una cárcel de alta seguridad a Hanibal Lecter, psicoanalista y asesino, dotado de una inteligencia superior. Su misión será intentar sacarle información sobre los patrones de conducta de 'Buffalo Bill'.",
-      "inicio": "2026-10-15T04:30:00",
-      "fin": "2026-10-15T06:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un inesperado cuento de Navidad",
-      "descripcion": "Talia y su mejor amigo de la infancia, Anderson, se reúnen inesperadamente en un pueblo familiar lleno de espíritu navideño que restaura a sus visitantes durante tiempos de profunda agitación.",
-      "inicio": "2026-10-15T06:30:00",
-      "fin": "2026-10-15T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hollywood on Set • Máquinas mortales / El príncipe feliz / ¿Puedes perdonarme?",
-      "descripcion": "Máquinas mortales / El príncipe feliz / ¿Puedes perdonarme? | Conocemos los detalles detrás de las bambalinas de las películas: Máquinas mortales, el príncipe feliz y ¿Puedes perdonarme?",
-      "inicio": "2026-10-15T08:00:00",
-      "fin": "2026-10-15T08:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hollywoodonset.jpg"
-    },
     {
       "titulo": "Coraline Y La Puerta Secreta",
       "descripcion": "Coraline es una niña que se muda con sus padres a una casa enorme. Aburrida, empieza a explorar las innumerables puertas del lugar y acaba abriendo una que la lleva a otra casa y a otro mundo donde todo es perfecto, hasta que se niega a quedarse para siempre y se da cuenta que la realidad donde está atrapada no es más que un señuelo para engañarla.",
       "inicio": "2026-10-15T08:30:00",
       "fin": "2026-10-15T10:25:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hotel Transylvania",
+      "descripcion": "Drácula regenta un hotel en el que se alojan personajes como Frankenstein, la Momia, el Hombre Invisible, hombres-lobo... El problema del conde es que tiene una hija de espíritu aventurero a la que le resulta difícil controlar. El conflicto surge cuando se aloja en el hotel un ser humano que se siente atraído por la hija del dueño.",
+      "inicio": "2026-10-15T10:25:00",
+      "fin": "2026-10-15T12:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hoteltransylvania.jpg"
+    },
+    {
+      "titulo": "Trolls",
+      "descripcion": "Conocidos por sus pelos de colores, locos y mágicos, los Trolls son las criaturas más felices y alegres que irrumpen en el mundo de la canción. Pero su mundo de arco iris y cupcakes cambiará para siempre cuando su líder Poppy debe embarcarse en una misión de rescate que la llevará muy lejos del único mundo que siempre ha conocido.",
+      "inicio": "2026-10-15T12:10:00",
+      "fin": "2026-10-15T13:55:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/trolls.jpg"
+    },
+    {
+      "titulo": "Trolls 2: Gira mundial",
+      "descripcion": "En una aventura que les llevará más allá de todo lo que habían conocido, Poppy y Branch descubren que su tribu de Trolls es solo una de las seis que existen, que el resto están repartidas en seis reinos y consagradas a seis tipos distintos de música: funk, country, tecno, clásica, pop y rock. La reina Bárbara, miembro de la realeza del hard rock, y su padre, el Rey Metal, quieren acabar con el resto de géneros musicales e imponer el reinado del rock. Con el destino del mundo en juego, Poppy y Branch, junto con el resto de la pandilla — Grandullón, Chanelle, Satén, Cooper y Guy Diamante—, visitarán los demás reinos para unir a los Trolls contra los planes de Barb de eclipsarlos a todos.",
+      "inicio": "2026-10-15T13:55:00",
+      "fin": "2026-10-15T15:40:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/trolls2giramundial.jpg"
+    },
+    {
+      "titulo": "Trolls 3: Se armó la banda",
+      "descripcion": "Cuando Floyd, uno de los hermanos de Branch, es secuestrado por una pareja de maléficas estrellas del pop para aprovecharse de su talento musical, Branch y Poppy tendrán que embarcarse en un viaje tan aterrador como emotivo para reunir a la familia y rescatar a Floyd de un destino aún peor que el desolador olvido de los fans.",
+      "inicio": "2026-10-15T15:40:00",
+      "fin": "2026-10-15T17:25:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tomb Raider: Las aventuras de Lara Croft",
+      "descripcion": "Lara Croft es la hija ferozmente independiente de un excéntrico aventurero que desapareció cuando apenas era una adolescente. Ahora, una joven de 21 años, sin ningún enfoque o propósito real, Lara navega por las caóticas calles del moderno este de Londres como un mensajero en bicicleta. Decidida a forjar su propio camino, se niega a tomar las riendas del imperio global de su padre tan firmemente como ella rechaza la idea de que realmente se ha ido. Yendo explícitamente en contra de sus deseos finales, deja todo lo que conoce detrás en busca del último destino conocido de su padre: una tumba legendaria en una isla mítica que podría estar en algún lugar de la costa de Japón.",
+      "inicio": "2026-10-15T17:25:00",
+      "fin": "2026-10-15T19:35:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El hombre de la máscara de hierro",
+      "descripcion": "Francia se muere de hambre, mientras el Rey Luis XIV mantiene un reinado de terror. Sólo \"los tres mosqueteros\" podrán salir al rescate. Su misión: liberar a un misterioso prisionero en La Bastilla, en cuya identidad radica el secreto que podrá salvar a la nación...",
+      "inicio": "2026-10-15T19:35:00",
+      "fin": "2026-10-15T22:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/elhombredelamascaradehierro.jpg"
+    },
+    {
+      "titulo": "Perros de la calle",
+      "descripcion": "Cuatro criminales en traje negro y gafas oscuras intentan determinar cuál de ellos es una rata, o policía, luego de que el golpe a un banco sale violentamente mal en este elegante thriller que inteligentemente salta en el tiempo y presenta los ingeniosos, irónicos diálogos e inesperados giros que pronto se convertirían en señas de identidad de la cultura pop en el cine de la mano de un debutante escritor y director Quentin Tarantino.",
+      "inicio": "2026-10-15T22:00:00",
+      "fin": "2026-10-15T23:55:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Amnesia",
+      "descripcion": "Leonard ha dedicado su vida a encontrar y dar muerte al hombre que violó y asesinó a su esposa. Complicada tarea, ya que Leonard sufre una peculiar forma de amnesia y no puede recordar nada más allá de quince minutos.",
+      "inicio": "2026-10-15T23:55:00",
+      "fin": "2026-10-16T02:05:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El precio del mañana",
+      "descripcion": "En una sociedad en la que se ha conseguido anular el gen que provoca el envejecimiento, todas las personas aparenten tener 25 años. El tiempo se utiliza como moneda de cambio para evitar la superpoblación. Will es un hombre sin recursos que, después de ser acusado falsamente de haber cometido un crimen, decide huir, secuestrando en su camino a una joven heredera de una prestigiosa familia.",
+      "inicio": "2026-10-16T02:05:00",
+      "fin": "2026-10-16T04:05:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Resistencia",
+      "descripcion": "Segunda Guerra Mundial. Corre el año 1941 y los judíos de Europa Oriental están siendo masacrados a millares. En la Bielorrusia ocupada, tres hermanos logran escapar de una muerte segura y se refugian en los densos bosques de alrededor de su casa, que conocen desde su infancia. Allí inician su desesperada lucha contra los nazis. Su lucha se convertirá en algo mucho más importante, una forma de vengar las muertes de sus seres queridos al salvar a miles de personas.",
+      "inicio": "2026-10-16T04:05:00",
+      "fin": "2026-10-16T06:25:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/resistencia.jpg"
+    },
+    {
+      "titulo": "Una Navidad atemporal",
+      "descripcion": "Charles Whitley viaja desde 1903 hasta el año 2020, donde conoce a Megan Turner y vive una Navidad del siglo XXI.",
+      "inicio": "2026-10-16T06:25:00",
+      "fin": "2026-10-16T08:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/unanavidadatemporal.jpg"
+    },
+    {
+      "titulo": "Hollywood on Set • La gran muralla / LEGO Batman: la película / ¡Huye!",
+      "descripcion": "La gran muralla / LEGO Batman: la película / ¡Huye! | Te mostramos el backstage de las peliculas: La gran muralla, LEGO Batman: la película y ¡Huye! Conoce todos los detalles del detrás de escena, de estos set's de Hollywood.",
+      "inicio": "2026-10-16T08:00:00",
+      "fin": "2026-10-16T08:25:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hollywoodonset.jpg"
+    },
+    {
+      "titulo": "My Little Pony: La película",
+      "descripcion": "Cuando una fuerza oscura amenaza a Ponyville y el Mane 6, todos se van en un viaje hasta el final de equestria para salvar a su querida casa, y se encuentran con nuevos amigos y peligrosos desafíos a lo largo del camino.",
+      "inicio": "2026-10-16T08:25:00",
+      "fin": "2026-10-16T10:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/mylittleponylapelicula.jpg"
     }
   ]
 }
