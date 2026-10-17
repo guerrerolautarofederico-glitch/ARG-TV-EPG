@@ -1,150 +1,129 @@
 {
   "actual": {
-    "titulo": "Latina noticias matinal",
-    "descripcion": "Las noticias del Perú y el mundo.",
-    "inicio": "2026-10-16T09:00:00",
-    "fin": "2026-10-16T11:00:00",
+    "titulo": "Latina noticias fin de semana",
+    "descripcion": "Lo más importante del Perú y el mundo.",
+    "inicio": "2026-10-17T09:00:00",
+    "fin": "2026-10-17T12:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Arriba mi gente",
-    "descripcion": "Un magazine con un enfoque renovado y con lo último en entretenimiento, espectáculo y entrevistas exclusivas.",
-    "inicio": "2026-10-16T11:00:00",
-    "fin": "2026-10-16T14:00:00",
+    "titulo": "Latina noticias reporte semanal",
+    "descripcion": "Las noticias más destacadas.",
+    "inicio": "2026-10-17T12:00:00",
+    "fin": "2026-10-17T14:00:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Latina noticias matinal",
-      "descripcion": "Las noticias del Perú y el mundo.",
-      "inicio": "2026-10-16T09:00:00",
-      "fin": "2026-10-16T11:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Arriba mi gente",
-      "descripcion": "Un magazine con un enfoque renovado y con lo último en entretenimiento, espectáculo y entrevistas exclusivas.",
-      "inicio": "2026-10-16T11:00:00",
-      "fin": "2026-10-16T14:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Latina noticias mediodía",
-      "descripcion": "Las noticias del Perú y el mundo.",
-      "inicio": "2026-10-16T14:00:00",
-      "fin": "2026-10-16T17:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuando los ángeles caen",
-      "descripcion": "Conducido por Juan Barragán, «Cuando los ángeles caen» es un programa unitario de dramatizaciones que presenta impactantes historias de la vida real basadas en testimonios. Cada episodio explora situaciones límite, conflictos familiares, dilemas morales y giros drásticos donde la fragilidad humana se pone a prueba, mostrando cómo las personas enfrentan momentos de oscuridad y la búsqueda de redención.",
-      "inicio": "2026-10-16T17:00:00",
-      "fin": "2026-10-16T18:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/cuandolosangelescaen.jpg"
-    },
-    {
-      "titulo": "Las vueltas del amor",
-      "descripcion": "Andre es un joven médico que pasó un año trabajando en África. Durante este tiempo, intercambió mensajes con su novia. Sin embargo, cuando regresa a Brasil, descubre que su hermana fue la que le escribió.",
-      "inicio": "2026-10-16T18:00:00",
-      "fin": "2026-10-16T19:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lasvueltasdelamor.jpg"
-    },
-    {
-      "titulo": "Por mi hijo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-16T19:00:00",
-      "fin": "2026-10-16T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mi vida por ti",
-      "descripcion": "Una mujer se ve obligada a regresar a su tierra natal tras la muerte de su esposo. Pero muy pronto se encuentra en una realidad familiar opresiva de la que le resulta difícil liberarse.",
-      "inicio": "2026-10-16T20:00:00",
-      "fin": "2026-10-16T21:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Latina noticias central",
-      "descripcion": "Las últimas noticias del Perú y el mundo.",
-      "inicio": "2026-10-16T21:00:00",
-      "fin": "2026-10-16T22:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Valentina valiente",
-      "descripcion": "Valentina: ella hará cualquier cosa por su familia y su abuela. Un nuevo trabajo desata un romance inesperado, mientras navega por decisiones difíciles y celos. ¿Encontrará la felicidad?",
-      "inicio": "2026-10-16T22:30:00",
-      "fin": "2026-10-16T23:20:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/valentinavaliente.jpg"
-    },
-    {
-      "titulo": "Yo Soy",
-      "descripcion": "Un programa donde los concursantes imitan a su estrella preferida realizando conciertos espectaculares y dispuestos a realizar inimaginables cambios para ser premiados como ganadores.",
-      "inicio": "2026-10-16T23:20:00",
-      "fin": "2026-10-17T01:20:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/yosoy.jpg"
-    },
-    {
-      "titulo": "Corazón ajeno",
-      "descripcion": "La vida de cuatro personas se entrelaza luego de un accidente de tránsito y el destino parece no querer que se separen nunca más.",
-      "inicio": "2026-10-17T01:20:00",
-      "fin": "2026-10-17T02:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Espacio alquilado (Problemas y soluciones)",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-17T02:00:00",
-      "fin": "2026-10-17T02:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Espacio alquilado (Nutrisa)",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-17T02:30:00",
-      "fin": "2026-10-17T03:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lo que callamos las mujeres",
-      "descripcion": "Historias basadas en hechos reales que viven las mujeres en su entorno social. Se pretende que las mujeres rompan el silencio y hagan denuncia de la violencia que sufren volviéndose parte activa en el cambio de la sociedad.",
-      "inicio": "2026-10-17T03:30:00",
-      "fin": "2026-10-17T04:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/loquecallamoslasmujeres.jpg"
-    },
-    {
-      "titulo": "Dos esposas",
-      "descripcion": "Víctor Guevara se divorcia de su esposa, Yvonne Aguiluz, para comenzar de nuevo con la madre soltera, Janine Argüello, con quien había tenido una aventura. Víctor sufre un accidente automovilístico y se despierta sin recordar a Janine.",
-      "inicio": "2026-10-17T04:30:00",
-      "fin": "2026-10-17T05:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "No me dejes",
-      "descripcion": "La familia Sayar comienza una nueva vida tras algunas pérdidas.",
-      "inicio": "2026-10-17T05:00:00",
-      "fin": "2026-10-17T06:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/nomedejes.jpg"
-    },
-    {
-      "titulo": "Buenas nuevas y malas nuevas",
-      "descripcion": "Las noticias que se deben conocer en el Perú y el mundo.",
-      "inicio": "2026-10-17T06:00:00",
-      "fin": "2026-10-17T07:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Latina noticias reporte semanal",
-      "descripcion": "Las noticias más destacadas.",
-      "inicio": "2026-10-17T07:00:00",
-      "fin": "2026-10-17T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Latina noticias fin de semana",
       "descripcion": "Lo más importante del Perú y el mundo.",
       "inicio": "2026-10-17T09:00:00",
       "fin": "2026-10-17T12:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Latina noticias reporte semanal",
+      "descripcion": "Las noticias más destacadas.",
+      "inicio": "2026-10-17T12:00:00",
+      "fin": "2026-10-17T14:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Latina noticias mediodía",
+      "descripcion": "Las noticias más destacadas del fin de semana.",
+      "inicio": "2026-10-17T14:00:00",
+      "fin": "2026-10-17T16:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Somos vóley",
+      "descripcion": "Cobertura, análisis y las noticias más relevantes de la Liga Peruana de Vóley (LPV).",
+      "inicio": "2026-10-17T16:00:00",
+      "fin": "2026-10-17T16:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/somosvoley.jpg"
+    },
+    {
+      "titulo": "Voleibol Femenino Peruano Liga Nacional • Atlético Atenea vs Olva Latino",
+      "descripcion": "Atlético Atenea vs Olva Latino | Fecha 1 de la Liga Peruana de Vóley Femenino 2026-27. Atletico Atenea se enfrenta a Olva Latino. Desde el Polideportivo Luisa Estela Fuentes Quijandría, en Lima.",
+      "inicio": "2026-10-17T16:30:00",
+      "fin": "2026-10-17T18:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/voleibolfemeninoperuanoliganacional.jpg"
+    },
+    {
+      "titulo": "Voleibol Femenino Peruano Liga Nacional • Universitario vs Deportivo Soan",
+      "descripcion": "Universitario vs Deportivo Soan | Fecha 1 de la Liga Peruana de Vóley Femenino 2026-27. Universitario de Deportes se enfrenta a Deportivo Soan. Desde el Polideportivo Luisa Estela Fuentes Quijandría, en Lima.",
+      "inicio": "2026-10-17T18:45:00",
+      "fin": "2026-10-17T20:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/voleibolfemeninoperuanoliganacional.jpg"
+    },
+    {
+      "titulo": "Voleibol Femenino Peruano Liga Nacional • USMP vs Circolo Sportivo Italiano",
+      "descripcion": "USMP vs Circolo Sportivo Italiano | Fecha 1 de la Liga Peruana de Vóley Femenino 2026-27. USMP se enfrenta a Circolo Sportivo Italiano. Desde el Polideportivo Luisa Estela Fuentes Quijandría, en Lima.",
+      "inicio": "2026-10-17T20:45:00",
+      "fin": "2026-10-17T23:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/voleibolfemeninoperuanoliganacional.jpg"
+    },
+    {
+      "titulo": "Yo Soy",
+      "descripcion": "Un programa donde los concursantes imitan a su estrella preferida realizando conciertos espectaculares y dispuestos a realizar inimaginables cambios para ser premiados como ganadores.",
+      "inicio": "2026-10-17T23:00:00",
+      "fin": "2026-10-18T00:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/yosoy.jpg"
+    },
+    {
+      "titulo": "La gran sangre",
+      "descripcion": "La hija de un empresario textil de Gamarra, Allison Tamani, es secuestrada por una misteriosa banda criminal. Sus secuestradores la someten a horribles torturas y hasta recurren a la mutilación parcial.",
+      "inicio": "2026-10-18T00:45:00",
+      "fin": "2026-10-18T02:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lagransangre.jpg"
+    },
+    {
+      "titulo": "Espacio alquilado (Nutrisa)",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-18T02:30:00",
+      "fin": "2026-10-18T03:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espacioalquiladonutrisa.jpg"
+    },
+    {
+      "titulo": "Lo que callamos las mujeres",
+      "descripcion": "Historias basadas en hechos reales que viven las mujeres en su entorno social. Se pretende que las mujeres rompan el silencio y hagan denuncia de la violencia que sufren volviéndose parte activa en el cambio de la sociedad.",
+      "inicio": "2026-10-18T03:30:00",
+      "fin": "2026-10-18T04:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/loquecallamoslasmujeres.jpg"
+    },
+    {
+      "titulo": "Dos esposas",
+      "descripcion": "Víctor Guevara se divorcia de su esposa, Yvonne Aguiluz, para comenzar de nuevo con la madre soltera, Janine Argüello, con quien había tenido una aventura. Víctor sufre un accidente automovilístico y se despierta sin recordar a Janine.",
+      "inicio": "2026-10-18T04:30:00",
+      "fin": "2026-10-18T05:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dosesposas.jpg"
+    },
+    {
+      "titulo": "Alerta latina",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-18T05:00:00",
+      "fin": "2026-10-18T05:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Especial Reporte semanal",
+      "descripcion": "Especial sobre este programa de las noticias más relevantes de la semana del Perú y el mundo.",
+      "inicio": "2026-10-18T05:45:00",
+      "fin": "2026-10-18T07:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/especialreportesemanal.jpg"
+    },
+    {
+      "titulo": "Reporte semanal",
+      "descripcion": "Un resumen de las noticias más relevantes de la semana del Perú y el mundo.",
+      "inicio": "2026-10-18T07:00:00",
+      "fin": "2026-10-18T08:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/reportesemanal.jpg"
+    },
+    {
+      "titulo": "Latina noticias fin de semana",
+      "descripcion": "Lo más importante del Perú y el mundo.",
+      "inicio": "2026-10-18T08:00:00",
+      "fin": "2026-10-18T10:30:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]

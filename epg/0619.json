@@ -1,220 +1,213 @@
 {
   "actual": {
-    "titulo": "Brockmire • Make-Up Game",
-    "descripcion": "Make-Up Game | Jules visita a Jim y se van de paseo por Nueva Orleans. Aunque estrechan lazos durante la noche, aún no pueden definir los nuevos términos de su relación.",
-    "inicio": "2026-10-16T09:00:00",
-    "fin": "2026-10-16T09:30:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/brockmire.jpg"
+    "titulo": "Making the Movies",
+    "descripcion": "Una mirada tras bastidores a cómo se crean algunas de las películas más taquilleras.",
+    "inicio": "2026-10-17T09:00:00",
+    "fin": "2026-10-17T11:00:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Crímenes reales: ¿Sucedió aquí? • Angier, North Carolina",
-    "descripcion": "Angier, North Carolina | Un hombre afirma que le disparó al esposo de su hija en defensa propia, pero las investigaciones posteriores revelan que el asesinato no estaba justificado.",
-    "inicio": "2026-10-16T09:30:00",
-    "fin": "2026-10-16T10:20:00",
+    "titulo": "Planet Action",
+    "descripcion": "Un espacio único que reúne los detrás de cámaras de las películas de acción más relevantes de Hollywood.",
+    "inicio": "2026-10-17T11:00:00",
+    "fin": "2026-10-17T11:30:00",
     "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Brockmire • Make-Up Game",
-      "descripcion": "Make-Up Game | Jules visita a Jim y se van de paseo por Nueva Orleans. Aunque estrechan lazos durante la noche, aún no pueden definir los nuevos términos de su relación.",
-      "inicio": "2026-10-16T09:00:00",
-      "fin": "2026-10-16T09:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/brockmire.jpg"
-    },
-    {
-      "titulo": "Crímenes reales: ¿Sucedió aquí? • Angier, North Carolina",
-      "descripcion": "Angier, North Carolina | Un hombre afirma que le disparó al esposo de su hija en defensa propia, pero las investigaciones posteriores revelan que el asesinato no estaba justificado.",
-      "inicio": "2026-10-16T09:30:00",
-      "fin": "2026-10-16T10:20:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Crímenes reales: ¿Sucedió aquí? • Iaeger, West Virginia",
-      "descripcion": "Iaeger, West Virginia | Un médico muere en un incendio dentro de una casa y las investigaciones apuntan a un incendio provocado, pero pronto el fiscal duda de su propia evidencia.",
-      "inicio": "2026-10-16T10:20:00",
-      "fin": "2026-10-16T11:10:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lodge 49 • Exile",
-      "descripcion": "Exile | Dud reanuda su aprendizaje con Blaise. Ernie ve a alguien de su pasado. Ernie toca fondo. Liz defiende vigorosamente a sus empleados.",
-      "inicio": "2026-10-16T11:10:00",
-      "fin": "2026-10-16T12:05:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lodge49.jpg"
-    },
-    {
-      "titulo": "Lodge 49 • Zugzwang",
-      "descripcion": "Zugzwang | L. Marvin Metz llega al Lodge 49 con Dud y Ernie. Además, Liz consigue un ascenso y Scott se va de paseo.",
-      "inicio": "2026-10-16T12:05:00",
-      "fin": "2026-10-16T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lodge49.jpg"
-    },
-    {
-      "titulo": "The Son • Alguien necesita una pala",
-      "descripcion": "Alguien necesita una pala | Los comanches van a la guerra en 1852. En 1916, la lucha de los McCullough con Standard Oil llega a un punto crítico.",
-      "inicio": "2026-10-16T13:00:00",
-      "fin": "2026-10-16T13:50:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/theson.jpg"
-    },
-    {
-      "titulo": "The Son • Todas sus manchas de culpa",
-      "descripcion": "Todas sus manchas de culpa | En 1852, la banda de los comanches del joven Eli se ve obligada a sobrevivir por su cuenta. En 1916, los McCullough buscan a María. Jeannie descubre un secreto devastador.",
-      "inicio": "2026-10-16T13:50:00",
-      "fin": "2026-10-16T14:40:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/theson.jpg"
-    },
-    {
-      "titulo": "Crímenes reales: ¿Sucedió aquí? • Iaeger, West Virginia",
-      "descripcion": "Iaeger, West Virginia | Un médico muere en un incendio dentro de una casa y las investigaciones apuntan a un incendio provocado, pero pronto el fiscal duda de su propia evidencia.",
-      "inicio": "2026-10-16T14:40:00",
-      "fin": "2026-10-16T15:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Halt & Catch Fire • Festival con fuego",
-      "descripcion": "Festival con fuego | Adversarios imprevistos y mayores complicaciones dificultan el progreso que el equipo de Cardiff Electric ha realizado.",
-      "inicio": "2026-10-16T15:30:00",
-      "fin": "2026-10-16T16:20:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/haltcatchfire.jpg"
-    },
-    {
-      "titulo": "Halt & Catch Fire • 1984",
-      "descripcion": "1984 | Gordon y Joe se preparan para transportar al Gigante; un defecto sospechoso causa una brecha en la sociedad; Cameron toma control de su futuro.",
-      "inicio": "2026-10-16T16:20:00",
-      "fin": "2026-10-16T17:10:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/haltcatchfire.jpg"
-    },
-    {
-      "titulo": "Lodge 49 • Exile",
-      "descripcion": "Exile | Dud reanuda su aprendizaje con Blaise. Ernie ve a alguien de su pasado. Ernie toca fondo. Liz defiende vigorosamente a sus empleados.",
-      "inicio": "2026-10-16T17:10:00",
-      "fin": "2026-10-16T18:05:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lodge49.jpg"
-    },
-    {
-      "titulo": "Lodge 49 • Zugzwang",
-      "descripcion": "Zugzwang | L. Marvin Metz llega al Lodge 49 con Dud y Ernie. Además, Liz consigue un ascenso y Scott se va de paseo.",
-      "inicio": "2026-10-16T18:05:00",
-      "fin": "2026-10-16T19:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lodge49.jpg"
-    },
-    {
-      "titulo": "The Son • Alguien necesita una pala",
-      "descripcion": "Alguien necesita una pala | Los comanches van a la guerra en 1852. En 1916, la lucha de los McCullough con Standard Oil llega a un punto crítico.",
-      "inicio": "2026-10-16T19:00:00",
-      "fin": "2026-10-16T19:50:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/theson.jpg"
-    },
-    {
-      "titulo": "The Son • Todas sus manchas de culpa",
-      "descripcion": "Todas sus manchas de culpa | En 1852, la banda de los comanches del joven Eli se ve obligada a sobrevivir por su cuenta. En 1916, los McCullough buscan a María. Jeannie descubre un secreto devastador.",
-      "inicio": "2026-10-16T19:50:00",
-      "fin": "2026-10-16T20:45:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/theson.jpg"
-    },
-    {
-      "titulo": "Crímenes reales: ¿Sucedió aquí? • Iaeger, West Virginia",
-      "descripcion": "Iaeger, West Virginia | Un médico muere en un incendio dentro de una casa y las investigaciones apuntan a un incendio provocado, pero pronto el fiscal duda de su propia evidencia.",
-      "inicio": "2026-10-16T20:45:00",
-      "fin": "2026-10-16T21:35:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Halt & Catch Fire • Festival con fuego",
-      "descripcion": "Festival con fuego | Adversarios imprevistos y mayores complicaciones dificultan el progreso que el equipo de Cardiff Electric ha realizado.",
-      "inicio": "2026-10-16T21:35:00",
-      "fin": "2026-10-16T22:25:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/haltcatchfire.jpg"
-    },
-    {
-      "titulo": "Halt & Catch Fire • 1984",
-      "descripcion": "1984 | Gordon y Joe se preparan para transportar al Gigante; un defecto sospechoso causa una brecha en la sociedad; Cameron toma control de su futuro.",
-      "inicio": "2026-10-16T22:25:00",
-      "fin": "2026-10-16T23:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/haltcatchfire.jpg"
-    },
-    {
-      "titulo": "The Son • Alguien necesita una pala",
-      "descripcion": "Alguien necesita una pala | Los comanches van a la guerra en 1852. En 1916, la lucha de los McCullough con Standard Oil llega a un punto crítico.",
-      "inicio": "2026-10-16T23:15:00",
-      "fin": "2026-10-17T00:05:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/theson.jpg"
-    },
-    {
-      "titulo": "The Son • Todas sus manchas de culpa",
-      "descripcion": "Todas sus manchas de culpa | En 1852, la banda de los comanches del joven Eli se ve obligada a sobrevivir por su cuenta. En 1916, los McCullough buscan a María. Jeannie descubre un secreto devastador.",
-      "inicio": "2026-10-17T00:05:00",
-      "fin": "2026-10-17T01:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/theson.jpg"
-    },
-    {
-      "titulo": "The Walking Dead • Consumido",
-      "descripcion": "Consumido | Carol y Daryl persiguen a los captores de Beth por una Atlanta devastada, pero su auto se queda sin gasolina y deben pasar la noche en un refugio para mujeres.",
-      "inicio": "2026-10-17T01:00:00",
-      "fin": "2026-10-17T01:45:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/thewalkingdead.jpg"
-    },
-    {
-      "titulo": "The Walking Dead • Cruzado",
-      "descripcion": "Cruzado | Daryl y Noah regresan a la iglesia para pedirles ayuda a sus compañeros. Rick y otros integrantes del grupo van a Atlanta con la intención de secuestrar a varios policías para intercambiarlos por Beth y Carol.",
-      "inicio": "2026-10-17T01:45:00",
-      "fin": "2026-10-17T02:35:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/thewalkingdead.jpg"
-    },
-    {
-      "titulo": "The Walking Dead • Camina con nosotros",
-      "descripcion": "Camina con nosotros | Michonne devuelve a Virgil a la isla misteriosa de la que proviene para que se reencuentre con su familia. A cambio, Virgil promete que le entregará un arsenal que cambiará el rumbo de la guerra contra los Susurradores.",
-      "inicio": "2026-10-17T02:35:00",
-      "fin": "2026-10-17T03:25:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/thewalkingdead.jpg"
-    },
-    {
-      "titulo": "The Walking Dead • En lo que nos hemos convertido",
-      "descripcion": "En lo que nos hemos convertido | Michonne devuelve a Virgil a la isla misteriosa de la que proviene para que se reencuentre con su familia. A cambio, Virgil promete que le entregará un arsenal que cambiará el rumbo de la guerra contra los Susurradores.",
-      "inicio": "2026-10-17T03:25:00",
-      "fin": "2026-10-17T04:25:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/thewalkingdead.jpg"
-    },
-    {
-      "titulo": "The Walking Dead • Consumido",
-      "descripcion": "Consumido | Carol y Daryl persiguen a los captores de Beth por una Atlanta devastada, pero su auto se queda sin gasolina y deben pasar la noche en un refugio para mujeres.",
-      "inicio": "2026-10-17T04:25:00",
-      "fin": "2026-10-17T05:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/thewalkingdead.jpg"
-    },
-    {
-      "titulo": "The Walking Dead • Cruzado",
-      "descripcion": "Cruzado | Daryl y Noah regresan a la iglesia para pedirles ayuda a sus compañeros. Rick y otros integrantes del grupo van a Atlanta con la intención de secuestrar a varios policías para intercambiarlos por Beth y Carol.",
-      "inicio": "2026-10-17T05:15:00",
-      "fin": "2026-10-17T06:10:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/thewalkingdead.jpg"
-    },
-    {
-      "titulo": "The Walking Dead • Camina con nosotros",
-      "descripcion": "Camina con nosotros | Michonne devuelve a Virgil a la isla misteriosa de la que proviene para que se reencuentre con su familia. A cambio, Virgil promete que le entregará un arsenal que cambiará el rumbo de la guerra contra los Susurradores.",
-      "inicio": "2026-10-17T06:10:00",
-      "fin": "2026-10-17T07:05:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/thewalkingdead.jpg"
-    },
-    {
-      "titulo": "The Walking Dead • En lo que nos hemos convertido",
-      "descripcion": "En lo que nos hemos convertido | Michonne devuelve a Virgil a la isla misteriosa de la que proviene para que se reencuentre con su familia. A cambio, Virgil promete que le entregará un arsenal que cambiará el rumbo de la guerra contra los Susurradores.",
-      "inicio": "2026-10-17T07:05:00",
-      "fin": "2026-10-17T08:05:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/thewalkingdead.jpg"
-    },
-    {
-      "titulo": "Crímenes reales: ¿Sucedió aquí? • Iaeger, West Virginia",
-      "descripcion": "Iaeger, West Virginia | Un médico muere en un incendio dentro de una casa y las investigaciones apuntan a un incendio provocado, pero pronto el fiscal duda de su propia evidencia.",
-      "inicio": "2026-10-17T08:05:00",
-      "fin": "2026-10-17T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Making the Movies",
       "descripcion": "Una mirada tras bastidores a cómo se crean algunas de las películas más taquilleras.",
       "inicio": "2026-10-17T09:00:00",
       "fin": "2026-10-17T11:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Planet Action",
+      "descripcion": "Un espacio único que reúne los detrás de cámaras de las películas de acción más relevantes de Hollywood.",
+      "inicio": "2026-10-17T11:00:00",
+      "fin": "2026-10-17T11:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Crímenes reales: ¿Sucedió aquí? • Rockville/Ellington, Connecticut",
+      "descripcion": "Rockville/Ellington, Connecticut | Una bailarina de 22 años desaparece y las investigaciones apuntan a los hombres del pueblo vecino que frecuentaban el club donde ella bailaba.",
+      "inicio": "2026-10-17T11:30:00",
+      "fin": "2026-10-17T12:20:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Crímenes reales: ¿Sucedió aquí? • Dallas, Georgia",
+      "descripcion": "Dallas, Georgia | Una mujer es encontrada muerta en su baño y la policía inicia una investigación para determinar si la muerte fue un suicidio, como afirmó su esposo, o un asesinato.",
+      "inicio": "2026-10-17T12:20:00",
+      "fin": "2026-10-17T13:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Crímenes reales: ¿Sucedió aquí? • Pocomoke City, Maryland",
+      "descripcion": "Pocomoke City, Maryland | Una joven madre soltera desaparece sin dejar rastro y las investigaciones sugieren que abandonó a sus hijos. Mientras tanto, su familia intenta demostrar que fue asesinada.",
+      "inicio": "2026-10-17T13:10:00",
+      "fin": "2026-10-17T14:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Crímenes reales: ¿Sucedió aquí? • Angier, North Carolina",
+      "descripcion": "Angier, North Carolina | Un hombre afirma que le disparó al esposo de su hija en defensa propia, pero las investigaciones posteriores revelan que el asesinato no estaba justificado.",
+      "inicio": "2026-10-17T14:00:00",
+      "fin": "2026-10-17T14:50:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Crímenes reales: ¿Sucedió aquí? • Iaeger, West Virginia",
+      "descripcion": "Iaeger, West Virginia | Un médico muere en un incendio dentro de una casa y las investigaciones apuntan a un incendio provocado, pero pronto el fiscal duda de su propia evidencia.",
+      "inicio": "2026-10-17T14:50:00",
+      "fin": "2026-10-17T15:40:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Halt & Catch Fire • Recalada",
+      "descripcion": "Recalada | Después de tener un gran avance, Cameron está en desacuerdo con Gordon; Joe tiene que tomar una decisión difícil; revelaciones personales son inducidas.",
+      "inicio": "2026-10-17T15:40:00",
+      "fin": "2026-10-17T16:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/haltcatchfire.jpg"
+    },
+    {
+      "titulo": "Halt & Catch Fire • Gigante",
+      "descripcion": "Gigante | Cuando una persona del pasado de Joe llega de visita, su relación con Cameron se ve amenazada; el costo del trabajo de Gordon se pone al día con él.",
+      "inicio": "2026-10-17T16:30:00",
+      "fin": "2026-10-17T17:20:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/haltcatchfire.jpg"
+    },
+    {
+      "titulo": "Halt & Catch Fire • Los 214",
+      "descripcion": "Los 214 | El equipo ultima los preparativos para COMDEX en medio del escándalo; Bosworth hace un sacrificio por el bien del programa.",
+      "inicio": "2026-10-17T17:20:00",
+      "fin": "2026-10-17T18:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/haltcatchfire.jpg"
+    },
+    {
+      "titulo": "Halt & Catch Fire • Festival con fuego",
+      "descripcion": "Festival con fuego | Adversarios imprevistos y mayores complicaciones dificultan el progreso que el equipo de Cardiff Electric ha realizado.",
+      "inicio": "2026-10-17T18:10:00",
+      "fin": "2026-10-17T19:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/haltcatchfire.jpg"
+    },
+    {
+      "titulo": "Halt & Catch Fire • 1984",
+      "descripcion": "1984 | Gordon y Joe se preparan para transportar al Gigante; un defecto sospechoso causa una brecha en la sociedad; Cameron toma control de su futuro.",
+      "inicio": "2026-10-17T19:00:00",
+      "fin": "2026-10-17T19:55:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/haltcatchfire.jpg"
+    },
+    {
+      "titulo": "The Son • Pelé a un perro",
+      "descripcion": "Pelé a un perro | Un nuevo peligro reabre viejas heridas en la tribu del joven Eli en 1852. En 1916, Eli y Phineas tratan de luchar contra Standard Oil cuando María García regresa.",
+      "inicio": "2026-10-17T19:55:00",
+      "fin": "2026-10-17T20:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/theson.jpg"
+    },
+    {
+      "titulo": "The Son • Aceite caliente",
+      "descripcion": "Aceite caliente | En 1852, el joven Eli es forzado a esconder un secreto mortal. En 1916, el regreso de María trae consecuencias devastadoras para el negocio petrolero de los McCullough.",
+      "inicio": "2026-10-17T20:45:00",
+      "fin": "2026-10-17T21:35:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/theson.jpg"
+    },
+    {
+      "titulo": "The Son • La luz azul",
+      "descripcion": "La luz azul | En 1852, el joven Eli debe proteger a Ingrid. En 1916, un nuevo ataque de Standard Oil obliga a la familia McCullough a reunirse.",
+      "inicio": "2026-10-17T21:35:00",
+      "fin": "2026-10-17T22:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/theson.jpg"
+    },
+    {
+      "titulo": "The Son • Alguien necesita una pala",
+      "descripcion": "Alguien necesita una pala | Los comanches van a la guerra en 1852. En 1916, la lucha de los McCullough con Standard Oil llega a un punto crítico.",
+      "inicio": "2026-10-17T22:30:00",
+      "fin": "2026-10-17T23:20:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/theson.jpg"
+    },
+    {
+      "titulo": "The Son • Todas sus manchas de culpa",
+      "descripcion": "Todas sus manchas de culpa | En 1852, la banda de los comanches del joven Eli se ve obligada a sobrevivir por su cuenta. En 1916, los McCullough buscan a María. Jeannie descubre un secreto devastador.",
+      "inicio": "2026-10-17T23:20:00",
+      "fin": "2026-10-18T00:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/theson.jpg"
+    },
+    {
+      "titulo": "Soulmates • La escala",
+      "descripcion": "La escala | Mateo y Jonah se encuentran en un bar e inmediatamente se llevan bien. Mateo enfurece cuando descubre que Jonah le robó el pasaporte, saboteando su oportunidad de volar a Colombia para encontrarse con su alma gemela.",
+      "inicio": "2026-10-18T00:10:00",
+      "fin": "2026-10-18T01:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/soulmates.jpg"
+    },
+    {
+      "titulo": "Dark Winds • Sol de agujero negro",
+      "descripcion": "Sol de agujero negro | Leaphorn trabaja a contrarreloj para obtener una confesión de un sospechoso antes de que deje de estar bajo su custodia. Mientras tanto, Chee se introduce de incógnito en la secta que vincula sus distintas investigaciones.",
+      "inicio": "2026-10-18T01:00:00",
+      "fin": "2026-10-18T01:55:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/darkwinds.jpg"
+    },
+    {
+      "titulo": "The Walking Dead: Dead City • ¿Por qué los Continentales cruzaron el río?",
+      "descripcion": "¿Por qué los Continentales cruzaron el río? | Negan prueba algo nuevo con El Croata. Maggie viaja a un lugar peligroso y sorprendente.",
+      "inicio": "2026-10-18T01:55:00",
+      "fin": "2026-10-18T02:50:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/thewalkingdeaddeadcity.jpg"
+    },
+    {
+      "titulo": "Las brujas de Mayfair de Anne Rice • La esclavitud",
+      "descripcion": "La esclavitud | Atrapados en la Casa de la Calle Primera, Rowan y Sip deben enfrentarse a sus muchos misterios para poder escapar. Rowan se enfrenta a una oferta inconcebible. Odette, la hermana de Sip, hace un descubrimiento espeluznante.",
+      "inicio": "2026-10-18T02:50:00",
+      "fin": "2026-10-18T03:40:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rectify • Plato's Cave",
+      "descripcion": "Plato's Cave | El día de Janet en la ciudad con Daniel se vuelve un circo mediático; el alguacil Daggett cuestiona a Trey Willis sobre un testigo que desaparece.",
+      "inicio": "2026-10-18T03:40:00",
+      "fin": "2026-10-18T04:35:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Soulmates • La escala",
+      "descripcion": "La escala | Mateo y Jonah se encuentran en un bar e inmediatamente se llevan bien. Mateo enfurece cuando descubre que Jonah le robó el pasaporte, saboteando su oportunidad de volar a Colombia para encontrarse con su alma gemela.",
+      "inicio": "2026-10-18T04:35:00",
+      "fin": "2026-10-18T05:25:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/soulmates.jpg"
+    },
+    {
+      "titulo": "Dark Winds • Sol de agujero negro",
+      "descripcion": "Sol de agujero negro | Leaphorn trabaja a contrarreloj para obtener una confesión de un sospechoso antes de que deje de estar bajo su custodia. Mientras tanto, Chee se introduce de incógnito en la secta que vincula sus distintas investigaciones.",
+      "inicio": "2026-10-18T05:25:00",
+      "fin": "2026-10-18T06:20:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/darkwinds.jpg"
+    },
+    {
+      "titulo": "The Walking Dead: Dead City • ¿Por qué los Continentales cruzaron el río?",
+      "descripcion": "¿Por qué los Continentales cruzaron el río? | Negan prueba algo nuevo con El Croata. Maggie viaja a un lugar peligroso y sorprendente.",
+      "inicio": "2026-10-18T06:20:00",
+      "fin": "2026-10-18T07:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/thewalkingdeaddeadcity.jpg"
+    },
+    {
+      "titulo": "Las brujas de Mayfair de Anne Rice • La esclavitud",
+      "descripcion": "La esclavitud | Atrapados en la Casa de la Calle Primera, Rowan y Sip deben enfrentarse a sus muchos misterios para poder escapar. Rowan se enfrenta a una oferta inconcebible. Odette, la hermana de Sip, hace un descubrimiento espeluznante.",
+      "inicio": "2026-10-18T07:15:00",
+      "fin": "2026-10-18T08:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rectify • Plato's Cave",
+      "descripcion": "Plato's Cave | El día de Janet en la ciudad con Daniel se vuelve un circo mediático; el alguacil Daggett cuestiona a Trey Willis sobre un testigo que desaparece.",
+      "inicio": "2026-10-18T08:10:00",
+      "fin": "2026-10-18T09:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Planet Action",
+      "descripcion": "Un espacio único que reúne los detrás de cámaras de las películas de acción más relevantes de Hollywood.",
+      "inicio": "2026-10-18T09:00:00",
+      "fin": "2026-10-18T11:30:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     }
   ]
