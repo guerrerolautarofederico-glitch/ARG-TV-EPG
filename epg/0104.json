@@ -1,151 +1,144 @@
 {
   "actual": {
-    "titulo": "Chilenos de norte a sur",
-    "descripcion": "Un espacio con historias que reflejan la riqueza de nuestro país y su gente, dentro y fuera de las fronteras de Chile.",
-    "inicio": "2026-10-17T08:30:00",
-    "fin": "2026-10-17T10:30:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/chilenosdenorteasur.jpg"
+    "titulo": "24 horas a la hora",
+    "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
+    "inicio": "2026-10-18T09:00:00",
+    "fin": "2026-10-18T09:30:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/24horasalahora.jpg"
   },
   "siguiente": {
-    "titulo": "El chavo del ocho",
-    "descripcion": "La historia de un niño huérfano y muy humilde, al que se le conoce simplemente como 'El Chavo', vive en una vecindad de la Ciudad de México, en el departamento número ocho, y que tiene su 'escondite secreto' en un barril situado en el patio principal del lugar. Allí, éste debe convivir con los particulares vecinos, con los que siempre se ve envuelto en divertidas situaciones. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.",
-    "inicio": "2026-10-17T10:30:00",
-    "fin": "2026-10-17T13:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/elchavodelocho.jpg"
+    "titulo": "Estado nacional",
+    "descripcion": "Un espacio informativo de actualidad y debate político. Cuenta semanalmente con invitados y panelistas que traen los acontecimientos de relevancia a nivel nacional e internacional.",
+    "inicio": "2026-10-18T09:30:00",
+    "fin": "2026-10-18T11:15:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/estadonacional.jpg"
   },
   "lista": [
-    {
-      "titulo": "Chilenos de norte a sur",
-      "descripcion": "Un espacio con historias que reflejan la riqueza de nuestro país y su gente, dentro y fuera de las fronteras de Chile.",
-      "inicio": "2026-10-17T08:30:00",
-      "fin": "2026-10-17T10:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/chilenosdenorteasur.jpg"
-    },
-    {
-      "titulo": "El chavo del ocho",
-      "descripcion": "La historia de un niño huérfano y muy humilde, al que se le conoce simplemente como 'El Chavo', vive en una vecindad de la Ciudad de México, en el departamento número ocho, y que tiene su 'escondite secreto' en un barril situado en el patio principal del lugar. Allí, éste debe convivir con los particulares vecinos, con los que siempre se ve envuelto en divertidas situaciones. En cada alocado episodio, el Chavo es acompañado por la Chilindrina, Kiko, Don Ramón, la Bruja del 71, Doña Florinda, el profesor Jirafales y Ñoño.",
-      "inicio": "2026-10-17T10:30:00",
-      "fin": "2026-10-17T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/elchavodelocho.jpg"
-    },
-    {
-      "titulo": "24 horas al día",
-      "descripcion": "Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial, donde te presentamos un resumen con informaciones referidas a la política, la economía, los deportes, entre otros ámbitos.",
-      "inicio": "2026-10-17T13:00:00",
-      "fin": "2026-10-17T14:45:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/24horasaldia.jpg"
-    },
-    {
-      "titulo": "Milagros inesperados",
-      "descripcion": "Basada en la novela de Stephen King, un guardia de prisión, que vigila a un condenado a muerte, desarrolla una profunda relación con el desahuciado y aprende que, los milagros ocurren en los lugares más inesperados.",
-      "inicio": "2026-10-17T14:45:00",
-      "fin": "2026-10-17T18:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/milagrosinesperados.jpg"
-    },
-    {
-      "titulo": "Forrest Gump",
-      "descripcion": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
-      "inicio": "2026-10-17T18:15:00",
-      "fin": "2026-10-17T21:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/forrestgump.jpg"
-    },
-    {
-      "titulo": "24 horas central - Sábado",
-      "descripcion": "Marian Basso repasa los hechos más destacados de la agenda de noticias nacional e internacional. A través de diversos reportajes, el público podrá informarse al completo sobre la coyuntura.",
-      "inicio": "2026-10-17T21:00:00",
-      "fin": "2026-10-17T22:20:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/24horascentralsabado.jpg"
-    },
-    {
-      "titulo": "TV tiempo",
-      "descripcion": "El informe meteorológico de nuestro país y de Sudamérica, proyecciones y pronósticos avalados por la Dirección Meteorológica de Chile.",
-      "inicio": "2026-10-17T22:20:00",
-      "fin": "2026-10-17T22:25:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/tvtiempo.jpg"
-    },
-    {
-      "titulo": "Los 33",
-      "descripcion": "Narra los sucesos reales que ocurrieron en Chile en agosto del 2010, cuando el derrumbe de la mina San José dejó atrapados a 33 mineros a unos 720 metros de profundidad durante 70 días.",
-      "inicio": "2026-10-17T22:25:00",
-      "fin": "2026-10-18T01:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/0104_fallback.jpg"
-    },
-    {
-      "titulo": "Los colonos",
-      "descripcion": "Chile, principios del siglo XX. José Menéndez, un rico terrateniente, contrata a tres jinetes para que delimiten el perímetro de su extensa propiedad y abran una ruta hacia el océano Atlántico a través de la vasta Patagonia.",
-      "inicio": "2026-10-18T01:00:00",
-      "fin": "2026-10-18T02:45:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/loscolonos.jpg"
-    },
-    {
-      "titulo": "El día menos pensado",
-      "descripcion": "Repetición ║ Una producción que recrea historias atribuidas a sucesos paranormales, como encuentros con otras dimensiones y la vida después de la muerte.",
-      "inicio": "2026-10-18T02:45:00",
-      "fin": "2026-10-18T03:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/eldiamenospensado.jpg"
-    },
-    {
-      "titulo": "TV tiempo - Informe final",
-      "descripcion": "Conozca el informe del tiempo.",
-      "inicio": "2026-10-18T03:15:00",
-      "fin": "2026-10-18T03:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/tvtiempoinformefinal.jpg"
-    },
-    {
-      "titulo": "El cuento del tío",
-      "descripcion": "Repetición ║ El conductor Carlos Pinto presenta recreaciones de casos de estafas ocurridos en Chile. Así el programa busca conscientizar para que el público no se deje engañar a la vez que se abordan situaciones dramáticas desde el humor.",
-      "inicio": "2026-10-18T03:30:00",
-      "fin": "2026-10-18T04:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/elcuentodeltio.jpg"
-    },
-    {
-      "titulo": "La vida es una lotería",
-      "descripcion": "Repetición ║ Conoce las historias reales de varios ganadores de Kino, Imán y Boleto Lotería y cómo la alegría que estos juegos de azar hacen que sus vidas cambien por completo.",
-      "inicio": "2026-10-18T04:15:00",
-      "fin": "2026-10-18T05:45:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lavidaesunaloteria.jpg"
-    },
-    {
-      "titulo": "Chile conectado",
-      "descripcion": "Espacio en el que te presentamos los mejores reportajes y notas del acontecer local de la gran mayoría de regiones chilenas, narrados por periodistas de cada uno de los territorios.",
-      "inicio": "2026-10-18T05:45:00",
-      "fin": "2026-10-18T06:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/chileconectado.jpg"
-    },
-    {
-      "titulo": "Santa misa",
-      "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
-      "inicio": "2026-10-18T06:00:00",
-      "fin": "2026-10-18T06:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/santamisa.jpg"
-    },
-    {
-      "titulo": "Extreme makeover: Home edition",
-      "descripcion": "Un reality que demuestra que con solidaridad y un cuerpo de voluntarios es posible cambiar la vida de mucha gente. En una semana el programa se propone remodelar la casa de una familia necesitada.",
-      "inicio": "2026-10-18T06:30:00",
-      "fin": "2026-10-18T07:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/extrememakeoverhomeedition.jpg"
-    },
-    {
-      "titulo": "El chapulín colorado",
-      "descripcion": "Al Chapulín, donde quiera que aparezca, lo reconocen como un superhéroe, pero este agranda su ego cuando en realidad es débil y tímido, por lo que decepciona a sus seguidores. A pesar de esto, hace todo lo posible por ayudar y al final da con las soluciones a los problemas.",
-      "inicio": "2026-10-18T07:15:00",
-      "fin": "2026-10-18T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/elchapulincolorado.jpg"
-    },
-    {
-      "titulo": "El pulso de Chile",
-      "descripcion": "Un espacio pensado para abrir la conversación, analizar la contingencia y poner sobre la mesa los temas que realmente impactan a las personas en todo el país.",
-      "inicio": "2026-10-18T08:00:00",
-      "fin": "2026-10-18T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/elpulsodechile.jpg"
-    },
     {
       "titulo": "24 horas a la hora",
       "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
       "inicio": "2026-10-18T09:00:00",
       "fin": "2026-10-18T09:30:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/24horasalahora.jpg"
+    },
+    {
+      "titulo": "Estado nacional",
+      "descripcion": "Un espacio informativo de actualidad y debate político. Cuenta semanalmente con invitados y panelistas que traen los acontecimientos de relevancia a nivel nacional e internacional.",
+      "inicio": "2026-10-18T09:30:00",
+      "fin": "2026-10-18T11:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/estadonacional.jpg"
+    },
+    {
+      "titulo": "El profe",
+      "descripcion": "Sócrates (Cantinflas) un abnegado maestro que ha consagrado su vida a la enseñanza, sacrifica la comodidad de la gran ciudad para marchar hacia el pueblo del Romeral, donde son necesarios sus servicios. Allí deberá luchar contra el poderoso cacique local, interesado en formentar la ignorancia de sus habitantes. Sócrates cuenta con el apoyo del sacerdote del pueblo y de Hortensia, una joven que acepta alquilarle una habitación en su casa. Ellos y los niños que rápidamente comienzan a admirar a su maestro, son quienes tendrán que luchar contra las fuerzas del cacique y sus aliados.",
+      "inicio": "2026-10-18T11:15:00",
+      "fin": "2026-10-18T13:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/elprofe.jpg"
+    },
+    {
+      "titulo": "24 horas al día",
+      "descripcion": "Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial, donde te presentamos un resumen con informaciones referidas a la política, la economía, los deportes, entre otros ámbitos.",
+      "inicio": "2026-10-18T13:30:00",
+      "fin": "2026-10-18T15:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/24horasaldia.jpg"
+    },
+    {
+      "titulo": "Chile conectado",
+      "descripcion": "Espacio en el que te presentamos los mejores reportajes y notas del acontecer local de la gran mayoría de regiones chilenas, narrados por periodistas de cada uno de los territorios.",
+      "inicio": "2026-10-18T15:00:00",
+      "fin": "2026-10-18T18:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/chileconectado.jpg"
+    },
+    {
+      "titulo": "Masterchef Chile - Lo mejor",
+      "descripcion": "Mira las competencias gastronómicas para encontrar al mejor cocinero amateur del país.",
+      "inicio": "2026-10-18T18:30:00",
+      "fin": "2026-10-18T21:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/masterchefchilelomejor.jpg"
+    },
+    {
+      "titulo": "24 horas central - Domingo",
+      "descripcion": "El análisis de las noticias más importantes de la jornada.",
+      "inicio": "2026-10-18T21:00:00",
+      "fin": "2026-10-18T22:35:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/24horascentraldomingo.jpg"
+    },
+    {
+      "titulo": "TV tiempo",
+      "descripcion": "El informe meteorológico de nuestro país y de Sudamérica, proyecciones y pronósticos avalados por la Dirección Meteorológica de Chile.",
+      "inicio": "2026-10-18T22:35:00",
+      "fin": "2026-10-18T22:40:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/tvtiempo.jpg"
+    },
+    {
+      "titulo": "Masterchef Chile",
+      "descripcion": "Mira las competencias gastronómicas para encontrar al mejor cocinero amateur del país.",
+      "inicio": "2026-10-18T22:40:00",
+      "fin": "2026-10-19T00:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/masterchefchile.jpg"
+    },
+    {
+      "titulo": "Avenida Brasil",
+      "descripcion": "Nina, de seis años, abandonada por su madrastra, Carmina, en un basural después de que estafara y dejara muerto a su padre. Ella promete vengar el nombre de su papá y hacer la vida imposible a la mujer que le quitó todo. En el vertedero, Nina conoce al amor de su vida, del que termina separándose al ser adoptada por una familia argentina que la rebautizaría como Rita. Doce años después, esta se convierte en la cocinera de Carmina, quién no la reconoce, y comienza su plan de justicia que complicará su propia vida, además de intentar reencontrarse con su amor de la infancia.",
+      "inicio": "2026-10-19T00:45:00",
+      "fin": "2026-10-19T01:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/avenidabrasil.jpg"
+    },
+    {
+      "titulo": "El día menos pensado",
+      "descripcion": "Repetición ║ Una producción que recrea historias atribuidas a sucesos paranormales, como encuentros con otras dimensiones y la vida después de la muerte.",
+      "inicio": "2026-10-19T01:45:00",
+      "fin": "2026-10-19T02:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/eldiamenospensado.jpg"
+    },
+    {
+      "titulo": "TV tiempo - Informe final",
+      "descripcion": "Conozca el informe del tiempo.",
+      "inicio": "2026-10-19T02:15:00",
+      "fin": "2026-10-19T02:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/tvtiempoinformefinal.jpg"
+    },
+    {
+      "titulo": "Pampa ilusión",
+      "descripcion": "Repetición ║ La hija exiliada de un empresario inglés regresa a casa, en medio de la lucha de clases entre la burguesía y el proletariado en la oficina salitrera de Humberstone, durante la aguda crisis financiera de los años treinta.",
+      "inicio": "2026-10-19T02:30:00",
+      "fin": "2026-10-19T03:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/pampailusion.jpg"
+    },
+    {
+      "titulo": "El mediodía",
+      "descripcion": "Repetición ║ Una propuesta cargada de entretenimiento, juegos y una conexión directa con la calle. Este programa está conducido por el animador Daniel Fuenzalida en un espacio dinámico y cercano, donde el animador interactuará directamente con el público a través de concursos y actividades que invitarán a la audiencia a sentirse parte del programa.",
+      "inicio": "2026-10-19T03:15:00",
+      "fin": "2026-10-19T05:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/elmediodia.jpg"
+    },
+    {
+      "titulo": "Hora 24",
+      "descripcion": "Actualidad e información.",
+      "inicio": "2026-10-19T05:00:00",
+      "fin": "2026-10-19T05:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hora24.jpg"
+    },
+    {
+      "titulo": "Previa 24",
+      "descripcion": "Espacio matutino de noticias, con toda la información de la jornada.",
+      "inicio": "2026-10-19T05:30:00",
+      "fin": "2026-10-19T06:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/24.jpg"
+    },
+    {
+      "titulo": "24 horas: Tu mañana",
+      "descripcion": "Revisa las principales noticias de la jornada junto a 24 Horas - Tu mañana.",
+      "inicio": "2026-10-19T06:00:00",
+      "fin": "2026-10-19T08:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/24horastumanana.jpg"
+    },
+    {
+      "titulo": "Buenos días a todos",
+      "descripcion": "Un magazine matutino en el que se presentan servicios, conversaciones, humor y la mejor compañía para empezar cada día.",
+      "inicio": "2026-10-19T08:00:00",
+      "fin": "2026-10-19T11:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/buenosdiasatodos.jpg"
     }
   ]
 }
