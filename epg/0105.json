@@ -1,115 +1,136 @@
 {
   "actual": {
-    "titulo": "Meganoticias siempre juntos",
-    "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
-    "inicio": "2026-10-18T08:00:00",
-    "fin": "2026-10-18T13:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meganoticiassiemprejuntos.jpg"
+    "titulo": "Mucho gusto",
+    "descripcion": "Un programa que se encarga de llevar información y entretenimiento de una manera muy alegre a los hogares chilenos, con un panel de expertos para debatir los hechos más destacados de la actualidad.",
+    "inicio": "2026-10-19T08:00:00",
+    "fin": "2026-10-19T13:00:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/muchogusto.jpg"
   },
   "siguiente": {
-    "titulo": "Meganoticias actualiza",
-    "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
-    "inicio": "2026-10-18T13:00:00",
-    "fin": "2026-10-18T14:55:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meganoticiasactualiza.jpg"
+    "titulo": "Meganoticias alerta",
+    "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+    "inicio": "2026-10-19T13:00:00",
+    "fin": "2026-10-19T15:40:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meganoticiasalerta.jpg"
   },
   "lista": [
-    {
-      "titulo": "Meganoticias siempre juntos",
-      "descripcion": "El periodista Luis Ugalde, analiza y comenta las principales noticias de Chile y el mundo.",
-      "inicio": "2026-10-18T08:00:00",
-      "fin": "2026-10-18T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meganoticiassiemprejuntos.jpg"
-    },
-    {
-      "titulo": "Meganoticias actualiza",
-      "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
-      "inicio": "2026-10-18T13:00:00",
-      "fin": "2026-10-18T14:55:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meganoticiasactualiza.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-10-18T14:55:00",
-      "fin": "2026-10-18T15:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "[En vivo] De paseo",
-      "descripcion": "En vivo ║ Coté nos invita a un divertido recorrido por lugares emblemáticos de Chile.",
-      "inicio": "2026-10-18T15:00:00",
-      "fin": "2026-10-18T17:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/depaseo.jpg"
-    },
-    {
-      "titulo": "Lo mejor de Detrás del muro",
-      "descripcion": "Repetición ║ Programa especial de lo mejor de 'Detrás del Muro', reviviendo los divertidos sketch.",
-      "inicio": "2026-10-18T17:00:00",
-      "fin": "2026-10-18T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/detrasdelmuro.jpg"
-    },
-    {
-      "titulo": "Meganoticias prime",
-      "descripcion": "La actualidad e información más relevante de Chile y el mundo.",
-      "inicio": "2026-10-18T20:00:00",
-      "fin": "2026-10-18T22:20:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meganoticiasprime.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Toda la informacion meteorológica del país.",
-      "inicio": "2026-10-18T22:20:00",
-      "fin": "2026-10-18T22:25:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "¡Atrapados! 133",
-      "descripcion": "Un retrato crudo y realista del trabajo de Carabineros de Chile, con relatos que exponen riesgos, retos y decisiones en terreno. Presentado por Luis Ugalde, ofrece un viaje sin filtros hacia el corazón de la seguridad ciudadana.",
-      "inicio": "2026-10-18T22:25:00",
-      "fin": "2026-10-18T23:40:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/atrapados133.jpg"
-    },
-    {
-      "titulo": "¡Atrapados! 133 • Fina selección",
-      "descripcion": "Fina selección | Un retrato crudo y realista del trabajo de Carabineros de Chile, con relatos que exponen riesgos, retos y decisiones en terreno. Presentado por Luis Ugalde, ofrece un viaje sin filtros hacia el corazón de la seguridad ciudadana.",
-      "inicio": "2026-10-18T23:40:00",
-      "fin": "2026-10-19T00:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/atrapados133.jpg"
-    },
-    {
-      "titulo": "¿Volverías con tu ex? 2 - Lo mejor",
-      "descripcion": "Reality donde los participantes se verán enfrentados a la posibilidad de ir por una segunda oportunidad con su ex pareja, o elegir el camino de la venganza.",
-      "inicio": "2026-10-19T00:30:00",
-      "fin": "2026-10-19T02:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/volveriascontuex2lomejor.jpg"
-    },
-    {
-      "titulo": "Dale play",
-      "descripcion": "Repetición ║ Competirán dos equipos conformados por tres personas, los cuales deberán adivinar quién canta una determinada canción, mediante pistas musicales. Al igual que en Pasapalabra, en los equipos habrá una persona desconocida acompañada por dos famosos locales, quienes lo ayudarán a ir ganando puntos para llevarse los pozos de dinero. Uno de estos se entregará cada episodio y el segundo, el más importante, se acumulará hasta que algún trío logre el juego perfecto.",
-      "inicio": "2026-10-19T02:30:00",
-      "fin": "2026-10-19T04:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/daleplay.jpg"
-    },
-    {
-      "titulo": "[En vivo] Meganoticias ahora",
-      "descripcion": "En vivo ║ Un programa que acerca las informaciones más relevantes de Chile y el mundo para informar al público. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
-      "inicio": "2026-10-19T04:00:00",
-      "fin": "2026-10-19T05:45:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meganoticiasahora.jpg"
-    },
-    {
-      "titulo": "Meganoticias amanece",
-      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
-      "inicio": "2026-10-19T05:45:00",
-      "fin": "2026-10-19T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meganoticiasamanece.jpg"
-    },
     {
       "titulo": "Mucho gusto",
       "descripcion": "Un programa que se encarga de llevar información y entretenimiento de una manera muy alegre a los hogares chilenos, con un panel de expertos para debatir los hechos más destacados de la actualidad.",
       "inicio": "2026-10-19T08:00:00",
       "fin": "2026-10-19T13:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/muchogusto.jpg"
+    },
+    {
+      "titulo": "Meganoticias alerta",
+      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+      "inicio": "2026-10-19T13:00:00",
+      "fin": "2026-10-19T15:40:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meganoticiasalerta.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Toda la informacion meteorológica del país.",
+      "inicio": "2026-10-19T15:40:00",
+      "fin": "2026-10-19T15:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Carmen Gloria: Fuerte & claro",
+      "descripcion": "Talk show de actualidad social con foco en los conflictos ciudadanos de forma cercana y clara.",
+      "inicio": "2026-10-19T15:45:00",
+      "fin": "2026-10-19T16:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/carmengloriafuerteclaro.jpg"
+    },
+    {
+      "titulo": "La Baronesa",
+      "descripcion": "Sigue la historia de Aurora Valdés, una mujer que hará todo por proteger el legado de su familia. Pero los secretos, el poder y el control pondrán a prueba los vínculos que durante años creyó inquebrantables.",
+      "inicio": "2026-10-19T16:45:00",
+      "fin": "2026-10-19T18:05:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/labaronesa.jpg"
+    },
+    {
+      "titulo": "Dale play",
+      "descripcion": "Competirán dos equipos conformados por tres personas, los cuales deberán adivinar quién canta una determinada canción, mediante pistas musicales. Al igual que en Pasapalabra, en los equipos habrá una persona desconocida acompañada por dos famosos locales, quienes lo ayudarán a ir ganando puntos para llevarse los pozos de dinero. Uno de estos se entregará cada episodio y el segundo, el más importante, se acumulará hasta que algún trío logre el juego perfecto.",
+      "inicio": "2026-10-19T18:05:00",
+      "fin": "2026-10-19T20:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/daleplay.jpg"
+    },
+    {
+      "titulo": "Meganoticias prime",
+      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+      "inicio": "2026-10-19T20:00:00",
+      "fin": "2026-10-19T21:05:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meganoticiasprime.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Toda la informacion meteorológica del país.",
+      "inicio": "2026-10-19T21:05:00",
+      "fin": "2026-10-19T21:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Reunión de superados",
+      "descripcion": "Un grupo de WhatsApp de apoderados del establecimiento Thomas Campbell School, liderado por el profesor jefe Rubén, invita a los padres estar comunicados, en donde se vivirarán intensos momentos.",
+      "inicio": "2026-10-19T21:10:00",
+      "fin": "2026-10-19T22:10:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/reuniondesuperados.jpg"
+    },
+    {
+      "titulo": "Prohibida Obsesión",
+      "descripcion": "Narra la historia de Luciano, un arquitecto con su vida personal y profesional resuelta, hasta que una noche se cruza con Bárbara, que hará que la aventura de una noche termine trastornando para siempre sus destinos.",
+      "inicio": "2026-10-19T22:10:00",
+      "fin": "2026-10-19T23:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/prohibidaobsesion.jpg"
+    },
+    {
+      "titulo": "¿Volverías con tu ex? 2",
+      "descripcion": "Reality donde los participantes se verán enfrentados a la posibilidad de ir por una segunda oportunidad con su ex pareja, o elegir el camino de la venganza.",
+      "inicio": "2026-10-19T23:00:00",
+      "fin": "2026-10-20T00:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/volveriascontuex2.jpg"
+    },
+    {
+      "titulo": "La hora de jugar - Trasnoche",
+      "descripcion": "Mucho gusto, en una alianza con Lotería, preparan un programa donde la consigna es pasarlo bien y ganar suculentos premios.",
+      "inicio": "2026-10-20T00:30:00",
+      "fin": "2026-10-20T01:15:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/lahoradejugartrasnoche.jpg"
+    },
+    {
+      "titulo": "Dale play",
+      "descripcion": "Repetición ║ Competirán dos equipos conformados por tres personas, los cuales deberán adivinar quién canta una determinada canción, mediante pistas musicales. Al igual que en Pasapalabra, en los equipos habrá una persona desconocida acompañada por dos famosos locales, quienes lo ayudarán a ir ganando puntos para llevarse los pozos de dinero. Uno de estos se entregará cada episodio y el segundo, el más importante, se acumulará hasta que algún trío logre el juego perfecto.",
+      "inicio": "2026-10-20T01:15:00",
+      "fin": "2026-10-20T03:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/daleplay.jpg"
+    },
+    {
+      "titulo": "Reunión de superados",
+      "descripcion": "Repetición ║ Un grupo de WhatsApp de apoderados del establecimiento Thomas Campbell School, liderado por el profesor jefe Rubén, invita a los padres estar comunicados, en donde se vivirarán intensos momentos.",
+      "inicio": "2026-10-20T03:00:00",
+      "fin": "2026-10-20T04:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/reuniondesuperados.jpg"
+    },
+    {
+      "titulo": "[En vivo] Meganoticias ahora",
+      "descripcion": "En vivo ║ Un programa que acerca las informaciones más relevantes de Chile y el mundo para informar al público. A través del trabajo de periodistas, reporteros y expertos, el público podrá informarse al completo sobre la realidad.",
+      "inicio": "2026-10-20T04:00:00",
+      "fin": "2026-10-20T05:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meganoticiasahora.jpg"
+    },
+    {
+      "titulo": "Meganoticias amanece",
+      "descripcion": "Noticiero con las informaciones más relevantes de Chile y el mundo.",
+      "inicio": "2026-10-20T05:45:00",
+      "fin": "2026-10-20T08:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/meganoticiasamanece.jpg"
+    },
+    {
+      "titulo": "Mucho gusto",
+      "descripcion": "Un programa que se encarga de llevar información y entretenimiento de una manera muy alegre a los hogares chilenos, con un panel de expertos para debatir los hechos más destacados de la actualidad.",
+      "inicio": "2026-10-20T08:00:00",
+      "fin": "2026-10-20T13:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/muchogusto.jpg"
     }
   ]

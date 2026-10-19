@@ -1,67 +1,158 @@
 {
   "actual": {
-    "titulo": "Thema TV",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-10-18T08:00:00",
-    "fin": "2026-10-18T12:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    "titulo": "Doctor en casa",
+    "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
+    "inicio": "2026-10-19T10:00:00",
+    "fin": "2026-10-19T11:00:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/doctorencasa.jpg"
   },
   "siguiente": {
-    "titulo": "Thema TV",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-10-18T12:00:00",
-    "fin": "2026-10-18T16:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    "titulo": "Pasión a la mexicana",
+    "descripcion": "Telenovela que narra una historia de amor, traición y lucha por el poder en el corazón de México, con personajes inolvidables y giros inesperados.",
+    "inicio": "2026-10-19T11:00:00",
+    "fin": "2026-10-19T12:00:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/pasionalamexicana.jpg"
   },
   "lista": [
     {
-      "titulo": "Thema TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-18T08:00:00",
-      "fin": "2026-10-18T12:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+      "titulo": "Doctor en casa",
+      "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
+      "inicio": "2026-10-19T10:00:00",
+      "fin": "2026-10-19T11:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/doctorencasa.jpg"
     },
     {
-      "titulo": "Thema TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-18T12:00:00",
-      "fin": "2026-10-18T16:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Thema TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-18T16:00:00",
-      "fin": "2026-10-18T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Thema TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-18T20:00:00",
-      "fin": "2026-10-19T00:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Thema TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-19T00:00:00",
-      "fin": "2026-10-19T04:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Thema TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-19T04:00:00",
-      "fin": "2026-10-19T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Thema TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-19T08:00:00",
+      "titulo": "Pasión a la mexicana",
+      "descripcion": "Telenovela que narra una historia de amor, traición y lucha por el poder en el corazón de México, con personajes inolvidables y giros inesperados.",
+      "inicio": "2026-10-19T11:00:00",
       "fin": "2026-10-19T12:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/pasionalamexicana.jpg"
+    },
+    {
+      "titulo": "Documentales",
+      "descripcion": "Selección de documentales variados",
+      "inicio": "2026-10-19T12:00:00",
+      "fin": "2026-10-19T13:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/documentales.jpg"
+    },
+    {
+      "titulo": "Forever",
+      "descripcion": "Espacio musical con una selección de baladas y clásicos románticos de todos los tiempos.",
+      "inicio": "2026-10-19T13:00:00",
+      "fin": "2026-10-19T14:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/forever.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias",
+      "descripcion": "Edición de mediodía del noticiero, con una actualización de las noticias más relevantes de la jornada y despachos en vivo desde los puntos de interés.",
+      "inicio": "2026-10-19T14:00:00",
+      "fin": "2026-10-19T14:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Documentales",
+      "descripcion": "Selección de documentales variados",
+      "inicio": "2026-10-19T14:45:00",
+      "fin": "2026-10-19T15:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/documentales.jpg"
+    },
+    {
+      "titulo": "Doctor en casa",
+      "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
+      "inicio": "2026-10-19T15:30:00",
+      "fin": "2026-10-19T16:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/doctorencasa.jpg"
+    },
+    {
+      "titulo": "Pasión a la mexicana",
+      "descripcion": "Telenovela que narra una historia de amor, traición y lucha por el poder en el corazón de México, con personajes inolvidables y giros inesperados.",
+      "inicio": "2026-10-19T16:30:00",
+      "fin": "2026-10-19T17:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/pasionalamexicana.jpg"
+    },
+    {
+      "titulo": "Documentales",
+      "descripcion": "Selección de documentales variados",
+      "inicio": "2026-10-19T17:30:00",
+      "fin": "2026-10-19T19:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/documentales.jpg"
+    },
+    {
+      "titulo": "Especial Musical",
+      "descripcion": "Un espacio dedicado a la música, con conciertos en vivo, videoclips, entrevistas a artistas y especiales temáticos sobre géneros y épocas musicales.",
+      "inicio": "2026-10-19T19:00:00",
+      "fin": "2026-10-19T21:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/especialmusical.jpg"
+    },
+    {
+      "titulo": "Documentales",
+      "descripcion": "Selección de documentales variados",
+      "inicio": "2026-10-19T21:00:00",
+      "fin": "2026-10-19T22:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/documentales.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias",
+      "descripcion": "Edición central del noticiero, con un análisis profundo de las noticias más importantes del día, entrevistas exclusivas y reportajes de investigación.",
+      "inicio": "2026-10-19T22:00:00",
+      "fin": "2026-10-19T22:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Documentales",
+      "descripcion": "Selección de documentales variados",
+      "inicio": "2026-10-19T22:45:00",
+      "fin": "2026-10-20T00:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/documentales.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias",
+      "descripcion": "Edición de trasnoche del noticiero, con un resumen de lo más destacado de la jornada y un adelanto de las noticias del día siguiente.",
+      "inicio": "2026-10-20T00:30:00",
+      "fin": "2026-10-20T01:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Documentales",
+      "descripcion": "Selección de documentales variados",
+      "inicio": "2026-10-20T01:45:00",
+      "fin": "2026-10-20T02:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/documentales.jpg"
+    },
+    {
+      "titulo": "Especial Musical",
+      "descripcion": "Un espacio dedicado a la música, con conciertos en vivo, videoclips, entrevistas a artistas y especiales temáticos sobre géneros y épocas musicales.",
+      "inicio": "2026-10-20T02:30:00",
+      "fin": "2026-10-20T07:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/especialmusical.jpg"
+    },
+    {
+      "titulo": "Forever",
+      "descripcion": "Espacio musical con una selección de baladas y clásicos románticos de todos los tiempos.",
+      "inicio": "2026-10-20T07:00:00",
+      "fin": "2026-10-20T08:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/forever.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias",
+      "descripcion": "Edición matutina del noticiero central, con un completo resumen de las noticias más importantes de Chile y el mundo para comenzar el día bien informado.",
+      "inicio": "2026-10-20T08:00:00",
+      "fin": "2026-10-20T08:45:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Espacio Cultural",
+      "descripcion": "Un programa dedicado a la difusión de las artes y la cultura, con entrevistas a artistas, reportajes sobre eventos y exposiciones, y análisis de las últimas tendencias.",
+      "inicio": "2026-10-20T08:45:00",
+      "fin": "2026-10-20T10:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Doctor en casa",
+      "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
+      "inicio": "2026-10-20T10:00:00",
+      "fin": "2026-10-20T11:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/doctorencasa.jpg"
     }
   ]
 }

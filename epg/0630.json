@@ -1,130 +1,165 @@
 {
   "actual": {
-    "titulo": "Venga la alegría",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-10-18T09:00:00",
-    "fin": "2026-10-18T11:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/vengalaalegria.jpg"
+    "titulo": "Hechos AM",
+    "descripcion": "Las noticias más destacadas y la mejor información con entrevistas sobre temas de interés general.",
+    "inicio": "2026-10-19T10:00:00",
+    "fin": "2026-10-19T12:00:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hechosam.jpg"
   },
   "siguiente": {
-    "titulo": "Domingo al extremo",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-10-18T11:00:00",
-    "fin": "2026-10-18T13:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/domingoalextremo.jpg"
+    "titulo": "Venga la alegría",
+    "descripcion": "Un programa de entretenimiento que aborda temas de interés personal como cocina, belleza, sexualidad, reflexiones, consejos y otros.",
+    "inicio": "2026-10-19T12:00:00",
+    "fin": "2026-10-19T14:00:00",
+    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/vengalaalegria.jpg"
   },
   "lista": [
     {
+      "titulo": "Hechos AM",
+      "descripcion": "Las noticias más destacadas y la mejor información con entrevistas sobre temas de interés general.",
+      "inicio": "2026-10-19T10:00:00",
+      "fin": "2026-10-19T12:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hechosam.jpg"
+    },
+    {
       "titulo": "Venga la alegría",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-18T09:00:00",
-      "fin": "2026-10-18T11:00:00",
+      "descripcion": "Un programa de entretenimiento que aborda temas de interés personal como cocina, belleza, sexualidad, reflexiones, consejos y otros.",
+      "inicio": "2026-10-19T12:00:00",
+      "fin": "2026-10-19T14:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/vengalaalegria.jpg"
     },
     {
-      "titulo": "Domingo al extremo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-18T11:00:00",
-      "fin": "2026-10-18T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/domingoalextremo.jpg"
+      "titulo": "Venga la alegría",
+      "descripcion": "Un programa de entretenimiento que aborda temas de interés personal como cocina, belleza, sexualidad, reflexiones, consejos y otros.",
+      "inicio": "2026-10-19T14:00:00",
+      "fin": "2026-10-19T16:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/vengalaalegria.jpg"
+    },
+    {
+      "titulo": "Ventaneando",
+      "descripcion": "La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.",
+      "inicio": "2026-10-19T16:00:00",
+      "fin": "2026-10-19T17:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hechos Meridiano",
+      "descripcion": "Las noticias en vivo con reportajes de corresponsales remotos.",
+      "inicio": "2026-10-19T17:00:00",
+      "fin": "2026-10-19T18:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Al extremo",
+      "descripcion": "Un programa periodístico que compila varios segmentos de noticias, las cuales tienen una cosa en común, estas son impactantes y asombrosas, algunas de estas noticias que se presentan son controversiales y algunas algo amarillistas.",
+      "inicio": "2026-10-19T18:00:00",
+      "fin": "2026-10-19T19:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/alextremo.jpg"
+    },
+    {
+      "titulo": "Acércate a Rocío",
+      "descripcion": "Hablar de los problemas es el primer paso para superarlos y, por eso, Rocío trae un programa único para hablar de las preocupaciones de cada día y, en conjunto, encontrar una solución.",
+      "inicio": "2026-10-19T19:30:00",
+      "fin": "2026-10-19T21:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/acercatearocio.jpg"
+    },
+    {
+      "titulo": "Ventaneando",
+      "descripcion": "La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.",
+      "inicio": "2026-10-19T21:30:00",
+      "fin": "2026-10-19T22:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Rutas de la vida",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-18T13:00:00",
-      "fin": "2026-10-18T15:00:00",
+      "descripcion": "La serie cuenta, en cada capítulo, una historia diferente con personajes nuevos. El eje central de las historias es el transporte público, ya que todas ellas suceden dentro de alguno de los medios de traslado del país.",
+      "inicio": "2026-10-19T22:30:00",
+      "fin": "2026-10-19T23:30:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/rutasdelavida.jpg"
     },
     {
       "titulo": "Mujeres rompiendo el silencio",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-18T15:00:00",
-      "fin": "2026-10-18T17:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Nada personal",
-      "descripcion": "Por casualidad, Mariana Aragón (Margarita Muñoz) es sobreviviente y testigo del multi-homicidio de su mejor amiga, y dos jóvenes periodistas que investigaban una conspiración Narco-política en la que se le involucra al procurador Raúl Rey (Juan Soler), conocido como \"el Rey\". Cuando Mariana es herida de un balazo emprende la huida en esa misma noche, durante su camino se encuentra con Alejandro Castillo (Valentino Lanús), un joven periodista a quien le pide ayuda para escapar y demostrar su inocencia, y a Santiago Leal (Matías Novoa), comandante encargado del caso de Mariana, quien la ayuda para hacer justicia, pero en un giro de 180°, por órdenes de \"el Rey\" Mariana es arrestada, pasando un infierno en la cual la hacen adicta a la heroína, y la convierten en una dama de compañía.",
-      "inicio": "2026-10-18T17:00:00",
-      "fin": "2026-10-18T19:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/nadapersonal.jpg"
-    },
-    {
-      "titulo": "Lo que la gente cuenta",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-18T19:00:00",
-      "fin": "2026-10-18T21:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/loquelagentecuenta.jpg"
-    },
-    {
-      "titulo": "Rutas de la vida",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-18T21:00:00",
-      "fin": "2026-10-18T23:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/rutasdelavida.jpg"
-    },
-    {
-      "titulo": "Lo que la gente cuenta",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-18T23:00:00",
-      "fin": "2026-10-19T00:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/loquelagentecuenta.jpg"
-    },
-    {
-      "titulo": "Mujeres rompiendo el silencio",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-19T00:00:00",
-      "fin": "2026-10-19T02:00:00",
+      "descripcion": "Una serie que aborda temas relacionados con la situación de la mujer en la sociedad actual a través de testimonios y ofreciendo orientación.",
+      "inicio": "2026-10-19T23:30:00",
+      "fin": "2026-10-20T00:30:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Lo que la gente cuenta",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-19T02:00:00",
-      "fin": "2026-10-19T03:00:00",
+      "descripcion": "Leyendas populares y escalofriantes que aterrorizan hasta los más valientes. Historias aterradoras desde las localidades donde han sucedido.",
+      "inicio": "2026-10-20T00:30:00",
+      "fin": "2026-10-20T01:30:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/loquelagentecuenta.jpg"
     },
     {
-      "titulo": "FIA: Carolina Rocha • 6 al 10",
-      "descripcion": "6 al 10 | La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-19T03:00:00",
-      "fin": "2026-10-19T03:30:00",
+      "titulo": "Noticiero Hechos",
+      "descripcion": "Las noticias de El Salvador al momento. La realidad social, política y económica en sus diferentes emisiones.",
+      "inicio": "2026-10-20T01:30:00",
+      "fin": "2026-10-20T02:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "FIA: Carolina Rocha",
+      "descripcion": "A lo largo de su carrera, la periodista Carolina Rocha ha recolectado las historias que encuentra en cada rincón de México. Con micrófono en mano, se ha encargado de relatar sobre gastronomía, folklore e historias de vida.",
+      "inicio": "2026-10-20T02:30:00",
+      "fin": "2026-10-20T03:30:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fiacarolinarocha.jpg"
     },
     {
       "titulo": "AQC",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-19T03:30:00",
-      "fin": "2026-10-19T04:00:00",
+      "inicio": "2026-10-20T03:30:00",
+      "fin": "2026-10-20T04:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ventaneando",
+      "descripcion": "La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.",
+      "inicio": "2026-10-20T04:00:00",
+      "fin": "2026-10-20T05:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mujeres rompiendo el silencio",
+      "descripcion": "Una serie que aborda temas relacionados con la situación de la mujer en la sociedad actual a través de testimonios y ofreciendo orientación.",
+      "inicio": "2026-10-20T05:00:00",
+      "fin": "2026-10-20T06:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rutas de la vida",
+      "descripcion": "La serie cuenta, en cada capítulo, una historia diferente con personajes nuevos. El eje central de las historias es el transporte público, ya que todas ellas suceden dentro de alguno de los medios de traslado del país.",
+      "inicio": "2026-10-20T06:00:00",
+      "fin": "2026-10-20T07:00:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/rutasdelavida.jpg"
+    },
+    {
+      "titulo": "Lo que la gente cuenta",
+      "descripcion": "Leyendas populares y escalofriantes que aterrorizan hasta los más valientes. Historias aterradoras desde las localidades donde han sucedido.",
+      "inicio": "2026-10-20T07:00:00",
+      "fin": "2026-10-20T08:30:00",
+      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/loquelagentecuenta.jpg"
+    },
+    {
+      "titulo": "AQC",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-20T08:30:00",
+      "fin": "2026-10-20T09:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Hechos Contigo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-19T04:00:00",
-      "fin": "2026-10-19T05:00:00",
+      "descripcion": "Las buenas noticias, pero también los hechos que muestran la verdad del ámbito nacional e internacional.",
+      "inicio": "2026-10-20T09:00:00",
+      "fin": "2026-10-20T10:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hechoscontigo.jpg"
     },
     {
       "titulo": "Hechos AM",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-19T05:00:00",
-      "fin": "2026-10-19T07:00:00",
+      "descripcion": "Las noticias más destacadas y la mejor información con entrevistas sobre temas de interés general.",
+      "inicio": "2026-10-20T10:00:00",
+      "fin": "2026-10-20T12:00:00",
       "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/hechosam.jpg"
-    },
-    {
-      "titulo": "Venga la alegría",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-19T07:00:00",
-      "fin": "2026-10-19T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/vengalaalegria.jpg"
-    },
-    {
-      "titulo": "Venga la alegría",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-19T09:00:00",
-      "fin": "2026-10-19T11:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/vengalaalegria.jpg"
     }
   ]
 }
