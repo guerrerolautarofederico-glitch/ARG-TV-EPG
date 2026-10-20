@@ -1,116 +1,95 @@
 {
   "actual": {
-    "titulo": "Castle • La senda del ninja",
-    "descripcion": "La senda del ninja | Cuando una bailarina de danza es asesinada, Castle y Beckett inician una nueva investigación ahondando en la vida secreta de la víctima. Las primeras pruebas revelan que el homicida es un ninja y que ahora éste va a por ellos.",
-    "inicio": "2026-10-19T09:00:00",
-    "fin": "2026-10-19T22:02:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/castle.jpg"
+    "titulo": "Castle • The Greater Good",
+    "descripcion": "The Greater Good | Castle y Beckett investigan el asesinato de un agente de bolsa de Wall Street. Sin embargo, el caso da un giro inesperado cuando constatan que la víctima era en realidad un informador encubierto de la Fiscalía estadounidense.",
+    "inicio": "2026-10-20T09:00:00",
+    "fin": "2026-10-20T22:01:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/castle.jpg"
   },
   "siguiente": {
-    "titulo": "Castle • Under Fire",
-    "descripcion": "Under Fire | Richard y Kate siguen la pista a un pirómano en serie convertido en asesino. Entretanto, Jenny, la mujer de Ryan, se pone de parto, pero un desastre amenaza con arruinar el feliz acontecimiento.",
-    "inicio": "2026-10-19T22:02:00",
-    "fin": "2026-10-19T23:22:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/castle.jpg"
+    "titulo": "Castle • Misión secreta",
+    "descripcion": "Misión secreta | La investigación del asesinato del joven empleado en una tienda de video da un giro inesperado cuando Castle y Beckett descubren que en el pasado la víctima fue un hacker de alto nivel.",
+    "inicio": "2026-10-20T22:01:00",
+    "fin": "2026-10-20T22:53:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/castle.jpg"
   },
   "lista": [
-    {
-      "titulo": "Castle • La senda del ninja",
-      "descripcion": "La senda del ninja | Cuando una bailarina de danza es asesinada, Castle y Beckett inician una nueva investigación ahondando en la vida secreta de la víctima. Las primeras pruebas revelan que el homicida es un ninja y que ahora éste va a por ellos.",
-      "inicio": "2026-10-19T09:00:00",
-      "fin": "2026-10-19T22:02:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/castle.jpg"
-    },
-    {
-      "titulo": "Castle • Under Fire",
-      "descripcion": "Under Fire | Richard y Kate siguen la pista a un pirómano en serie convertido en asesino. Entretanto, Jenny, la mujer de Ryan, se pone de parto, pero un desastre amenaza con arruinar el feliz acontecimiento.",
-      "inicio": "2026-10-19T22:02:00",
-      "fin": "2026-10-19T23:22:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/castle.jpg"
-    },
-    {
-      "titulo": "Mi Amigo Enzo",
-      "descripcion": "Un ingenioso perro llamado Enzo rememora las lecciones que ha aprendido de su amigo humano Denny, un piloto de carreras que aspiraba llegar a la Fórmula Uno.",
-      "inicio": "2026-10-19T23:22:00",
-      "fin": "2026-10-20T01:42:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mesa 19",
-      "descripcion": "Una dama de honor cabreada porque acaba de ser relevada de sus funciones, una esposa aburrida, un chaval que está deseando encontrar el amor, un tipo peculiar que viene directamente de la cárcel, otro al que su mujer le odia y una abuela pizpireta que esconde droga en su habitación. Son los integrantes de la mesa 19. Eloise, la que iba a ser la dama de honor en cuestión, ha decidido asistir a esta boda de todos modos, y ha acabado en esta mesa de perdedores… Eso sí, han decidido que van a hacer algo al respecto.",
-      "inicio": "2026-10-20T01:42:00",
-      "fin": "2026-10-20T02:02:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/mesa19.jpg"
-    },
-    {
-      "titulo": "Alien: Covenant",
-      "descripcion": "La nave Covenant emprende un viaje espacial rumbo a un remoto planeta para colonizarlo. Cuando detecta una señal proveniente de un paraíso inexplorado, decide cambiar su rumbo. Sin embargo, lo que encontrarán será un mundo oscuro y hostil.",
-      "inicio": "2026-10-20T02:02:00",
-      "fin": "2026-10-20T03:29:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/aliencovenant.jpg"
-    },
-    {
-      "titulo": "Búsqueda Implacable 2",
-      "descripcion": "Siguiendo con la historia de la primera parte, Bryan Mills tendrá que volver a demostrar todas sus habilidades como agente retirado de la CIA, para salvar esta vez tanto la vida de su mujer y su hija, como la suya propia.",
-      "inicio": "2026-10-20T03:29:00",
-      "fin": "2026-10-20T04:37:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Stuber: Locos Al Volante",
-      "descripcion": "Cuando un tranquilo conductor, Stu recoge a un pasajero que resulta ser un policía persiguiendo a un asesino, Stu se ve envuelto en una angustiante aventura.",
-      "inicio": "2026-10-20T04:37:00",
-      "fin": "2026-10-20T05:29:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El gran Showman",
-      "descripcion": "Phineas Taylor Barnum presenta actos en vivo en el escenario del circo. Sin embargo, cuando apuesta todo en la cantante de ópera Jenny Lind, perderá de vista el aspecto más importante de su vida: su familia.",
-      "inicio": "2026-10-20T05:29:00",
-      "fin": "2026-10-20T06:06:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/elgranshowman.jpg"
-    },
-    {
-      "titulo": "Castle • Canto mortal",
-      "descripcion": "Canto mortal | Un cuerpo es descubierto en el teatro que acoge el último espectáculo de Martha. La investigación de Castle y Becket sacará a la luz sorprendentes detalles sobre el mundo de las competiciones acappella.",
-      "inicio": "2026-10-20T06:06:00",
-      "fin": "2026-10-20T06:49:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/castle.jpg"
-    },
-    {
-      "titulo": "Castle • Testigo de la acusación",
-      "descripcion": "Testigo de la acusación | Cuando Castle sube al estrado como testigo clave de un asesinato, la nueva información surge de repente, forzando a Beckett a apresurarse a prevenir un error judicial.",
-      "inicio": "2026-10-20T06:49:00",
-      "fin": "2026-10-20T07:31:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/castle.jpg"
-    },
-    {
-      "titulo": "Castle • Muerte roja",
-      "descripcion": "Muerte roja | El hijo de un diplomático ruso es asesinado. Durante la investigación, Castle observa a un joven guardia ruso, quien está más involucrado en el caso de lo que se espera.",
-      "inicio": "2026-10-20T07:31:00",
-      "fin": "2026-10-20T07:41:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/castle.jpg"
-    },
-    {
-      "titulo": "El Callejón De Las Almas Perdidas",
-      "descripcion": "Un ambicioso feriante muy hábil para manipular a través de la palabra se alía con una psiquiatra tan peligrosa como él y juntos estafan a la alta sociedad neoyorquina de los años 40.",
-      "inicio": "2026-10-20T07:41:00",
-      "fin": "2026-10-20T08:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Castle • Lo que se oculta debajo",
-      "descripcion": "Lo que se oculta debajo | Castle está decidido a descubrir quién asesinó a su ídolo, un autor solitario, pero la verdad parece ser más extraña que la ficción.",
-      "inicio": "2026-10-20T08:15:00",
-      "fin": "2026-10-20T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/castle.jpg"
-    },
     {
       "titulo": "Castle • The Greater Good",
       "descripcion": "The Greater Good | Castle y Beckett investigan el asesinato de un agente de bolsa de Wall Street. Sin embargo, el caso da un giro inesperado cuando constatan que la víctima era en realidad un informador encubierto de la Fiscalía estadounidense.",
       "inicio": "2026-10-20T09:00:00",
       "fin": "2026-10-20T22:01:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/castle.jpg"
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/castle.jpg"
+    },
+    {
+      "titulo": "Castle • Misión secreta",
+      "descripcion": "Misión secreta | La investigación del asesinato del joven empleado en una tienda de video da un giro inesperado cuando Castle y Beckett descubren que en el pasado la víctima fue un hacker de alto nivel.",
+      "inicio": "2026-10-20T22:01:00",
+      "fin": "2026-10-20T22:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/castle.jpg"
+    },
+    {
+      "titulo": "Los Simpson • Llévate a mi esposa, sinvergüenza",
+      "descripcion": "Llévate a mi esposa, sinvergüenza | Homero se gana una motocicleta en un concurso de baile con Marge. Con la ayuda de Bart, aprende a manejarla y funda su propia pandilla, junto con Lenny, Carl y Flanders, \"Los Hell's Satans\".",
+      "inicio": "2026-10-20T22:53:00",
+      "fin": "2026-10-20T23:03:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lossimpson.jpg"
+    },
+    {
+      "titulo": "Castle • Licenciado en la muerte",
+      "descripcion": "Licenciado en la muerte | Castle finge ser un profesor universitario para investigar el espeluznante asesinato de un estudiante. Una vez dentro, Beckett y Castle perciben que en la universidad se esconden secretos muy oscuros.",
+      "inicio": "2026-10-20T23:03:00",
+      "fin": "2026-10-20T23:27:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/castle.jpg"
+    },
+    {
+      "titulo": "Los Simpson • Un gran embaucador",
+      "descripcion": "Un gran embaucador | Una empresa de juguetes compra Springfield Elementary y utiliza al alumnado como grupo de enfoque para su nuevo juguete navideño Funzo.",
+      "inicio": "2026-10-20T23:27:00",
+      "fin": "2026-10-21T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lossimpson.jpg"
+    },
+    {
+      "titulo": "Alien vs depredador",
+      "descripcion": "Un equipo de arqueólogos y científicos va a la Antártida a investigar misteriosas emanaciones de calor. De repente, descubren una pirámide debajo del hielo, habitada por depredadores que aguardan la llegada de alienígenas para dar batalla.",
+      "inicio": "2026-10-21T00:00:00",
+      "fin": "2026-10-21T01:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Brigada A: los magníficos",
+      "descripcion": "Un equipo de ex agentes especiales veteranos de guerra de Iraq son culpados por un asesinato que no cometieron. Pasándose al bando de los deshonestos aprovechan sus talentos únicos para limpiar sus nombres y encontrar al verdadero culpable.",
+      "inicio": "2026-10-21T01:29:00",
+      "fin": "2026-10-21T02:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Alien: Covenant",
+      "descripcion": "La nave Covenant emprende un viaje espacial rumbo a un remoto planeta para colonizarlo. Cuando detecta una señal proveniente de un paraíso inexplorado, decide cambiar su rumbo. Sin embargo, lo que encontrarán será un mundo oscuro y hostil.",
+      "inicio": "2026-10-21T02:02:00",
+      "fin": "2026-10-21T04:01:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aliencovenant.jpg"
+    },
+    {
+      "titulo": "Esto es guerra",
+      "descripcion": "Dos agentes de la CIA, grandes amigos desde la infancia, se enamoran de la misma mujer. Su amistad desaparece y se enzarzan en una batalla de proporciones épicas que pondrá en jaque a la ciudad de Nueva York.",
+      "inicio": "2026-10-21T04:01:00",
+      "fin": "2026-10-21T06:03:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/estoesguerra.jpg"
+    },
+    {
+      "titulo": "Yo, robot",
+      "descripcion": "En el año 2035, los robots son unos dispositivos que usamos todos los días y en quienes confiamos, excepto un detective paranoico, investigando lo que solo él cree que es un crimen perpetrado por un robot. El caso lo lleva a descubrir algo aún peor que amenaza la raza humana.",
+      "inicio": "2026-10-21T06:03:00",
+      "fin": "2026-10-21T08:21:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yorobot.jpg"
+    },
+    {
+      "titulo": "Día de la Independencia: Contraataque",
+      "descripcion": "Veinte años después de la invasión extraterrestre ocurrida en julio de 1996, la humanidad consiguió rescatar una pequeña cantidad de tecnología extraterrestre para desarrollar armas que defiendan el planeta.",
+      "inicio": "2026-10-21T08:21:00",
+      "fin": "2026-10-21T22:52:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

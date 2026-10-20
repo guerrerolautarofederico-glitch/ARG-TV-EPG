@@ -1,158 +1,165 @@
 {
   "actual": {
-    "titulo": "Todo en 30",
-    "descripcion": "En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DIRECTV Sports.",
-    "inicio": "2026-10-19T10:30:00",
-    "fin": "2026-10-19T11:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/todoen30.jpg"
+    "titulo": "Fútbol total",
+    "descripcion": "Otra forma de sentir el Mundial: Debate, actualidad, análisis e historias que van más allá de la cancha con la conducción de Juanjo Buscalia.",
+    "inicio": "2026-10-20T09:00:00",
+    "fin": "2026-10-20T10:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futboltotal.jpg"
   },
   "siguiente": {
-    "titulo": "DSports Noticias Lite",
-    "descripcion": "¡Vivimos el Mundial 24/7! Arranca cada día informado con Manu Olivari y Sol Rivas.",
-    "inicio": "2026-10-19T11:00:00",
-    "fin": "2026-10-19T12:30:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
+    "titulo": "Fútbol CONMEBOL Copa Sudamericana",
+    "descripcion": "La segunda competición más prestigiosa de clubes de América del Sur.",
+    "inicio": "2026-10-20T10:00:00",
+    "fin": "2026-10-20T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolconmebolcopasudamericana.jpg"
   },
   "lista": [
-    {
-      "titulo": "Todo en 30",
-      "descripcion": "En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DIRECTV Sports.",
-      "inicio": "2026-10-19T10:30:00",
-      "fin": "2026-10-19T11:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/todoen30.jpg"
-    },
-    {
-      "titulo": "DSports Noticias Lite",
-      "descripcion": "¡Vivimos el Mundial 24/7! Arranca cada día informado con Manu Olivari y Sol Rivas.",
-      "inicio": "2026-10-19T11:00:00",
-      "fin": "2026-10-19T12:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "De Fútbol Se Habla Así Argentina",
-      "descripcion": "El debate futbolero más caliente del fútbol argentino de la mano de Toti Pasman y un gran equipo.",
-      "inicio": "2026-10-19T12:30:00",
-      "fin": "2026-10-19T13:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/defutbolsehablaasiargentina.jpg"
-    },
-    {
-      "titulo": "DSports noticias",
-      "descripcion": "Actualidad, protagonistas, análisis y cobertura especial desde las sedes de la Copa Mundial de la FIFA 2026.",
-      "inicio": "2026-10-19T13:30:00",
-      "fin": "2026-10-19T14:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg"
-    },
-    {
-      "titulo": "Puede pasar",
-      "descripcion": "Mucho más que resultados: el Mundial se vive con estilo propio en Puede Pasar, con la conducción de Gustavo Kuffner.",
-      "inicio": "2026-10-19T14:30:00",
-      "fin": "2026-10-19T15:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/puedepasar.jpg"
-    },
-    {
-      "titulo": "Fútbol: Previa",
-      "descripcion": "Reportajes, análisis y comentarios previo al gran evento deportivo.",
-      "inicio": "2026-10-19T15:30:00",
-      "fin": "2026-10-19T15:55:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futbol.jpg"
-    },
-    {
-      "titulo": "[En vivo] LaLiga • Getafe CF vs Rayo Vallecano",
-      "descripcion": "En vivo ║ Getafe CF vs Rayo Vallecano | Jornada 9 de la temporada 2026-27 de LaLiga. Desde el estadio Coliseum Alfonso Pérez. El Getafe cayó 3-0 como visitante ante el Barcelona, mientras que el Rayo Vallecano igualó 1-1 en San Mamés ante el Athletic Club.",
-      "inicio": "2026-10-19T15:55:00",
-      "fin": "2026-10-19T18:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/laliga.jpg"
-    },
-    {
-      "titulo": "Fútbol total",
-      "descripcion": "Otra forma de sentir el Mundial: Debate, actualidad, análisis e historias que van más allá de la cancha con la conducción de Juanjo Buscalia.",
-      "inicio": "2026-10-19T18:00:00",
-      "fin": "2026-10-19T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futboltotal.jpg"
-    },
-    {
-      "titulo": "El juego",
-      "descripcion": "Víctor (Nico Furtado) y Eva (Maggie Civantos) son una pareja que tras siete años de relación decide separarse el día que se decreta el estado de alarma. Debido al confinamiento, se ven obligados a seguir conviviendo y, para no volverse locos y hacer el encierro más llevadero, deciden jugar a un juego que tiene dos reglas: empezar de cero como si sus años juntos no hubieran existido y terminar la relación cuando acabe el encierro.",
-      "inicio": "2026-10-19T20:00:00",
-      "fin": "2026-10-19T21:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/eljuego.jpg"
-    },
-    {
-      "titulo": "Más que fútbol",
-      "descripcion": "Todo el análisis sobre la Copa Mundial de la FIFA 2018 en Rusia.",
-      "inicio": "2026-10-19T21:00:00",
-      "fin": "2026-10-19T22:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/masquefutbol.jpg"
-    },
-    {
-      "titulo": "DSports Total",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-19T22:00:00",
-      "fin": "2026-10-19T23:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportstotal.jpg"
-    },
-    {
-      "titulo": "DSports Noticias Nite",
-      "descripcion": "Cierra el día con el resumen más completo del Mundial: análisis, noticias y repercusiones de la jornada con la dupla de Julián Fernández y Martín Reich.",
-      "inicio": "2026-10-19T23:00:00",
-      "fin": "2026-10-20T00:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticiasnite.jpg"
-    },
-    {
-      "titulo": "Más que fútbol",
-      "descripcion": "Todo el análisis sobre la Copa Mundial de la FIFA 2018 en Rusia.",
-      "inicio": "2026-10-20T00:00:00",
-      "fin": "2026-10-20T01:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/masquefutbol.jpg"
-    },
-    {
-      "titulo": "DSports Noticias Nite",
-      "descripcion": "Cierra el día con el resumen más completo del Mundial: análisis, noticias y repercusiones de la jornada con la dupla de Julián Fernández y Martín Reich.",
-      "inicio": "2026-10-20T01:00:00",
-      "fin": "2026-10-20T03:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticiasnite.jpg"
-    },
-    {
-      "titulo": "Fútbol total",
-      "descripcion": "Otra forma de sentir el Mundial: Debate, actualidad, análisis e historias que van más allá de la cancha con la conducción de Juanjo Buscalia.",
-      "inicio": "2026-10-20T03:00:00",
-      "fin": "2026-10-20T04:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futboltotal.jpg"
-    },
-    {
-      "titulo": "Fútbol LaLiga",
-      "descripcion": "La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.",
-      "inicio": "2026-10-20T04:00:00",
-      "fin": "2026-10-20T06:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futbollaliga.jpg"
-    },
-    {
-      "titulo": "El Chiringuito de Jugones",
-      "descripcion": "Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.",
-      "inicio": "2026-10-20T06:00:00",
-      "fin": "2026-10-20T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/elchiringuitodejugones.jpg"
-    },
-    {
-      "titulo": "DSports noticias",
-      "descripcion": "Actualidad, protagonistas, análisis y cobertura especial desde las sedes de la Copa Mundial de la FIFA 2026.",
-      "inicio": "2026-10-20T08:00:00",
-      "fin": "2026-10-20T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/dsportsnoticias.jpg"
-    },
     {
       "titulo": "Fútbol total",
       "descripcion": "Otra forma de sentir el Mundial: Debate, actualidad, análisis e historias que van más allá de la cancha con la conducción de Juanjo Buscalia.",
       "inicio": "2026-10-20T09:00:00",
       "fin": "2026-10-20T10:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futboltotal.jpg"
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futboltotal.jpg"
     },
     {
       "titulo": "Fútbol CONMEBOL Copa Sudamericana",
       "descripcion": "La segunda competición más prestigiosa de clubes de América del Sur.",
       "inicio": "2026-10-20T10:00:00",
       "fin": "2026-10-20T12:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futbolconmebolcopasudamericana.jpg"
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolconmebolcopasudamericana.jpg"
+    },
+    {
+      "titulo": "Puede pasar",
+      "descripcion": "Mucho más que resultados: el Mundial se vive con estilo propio en Puede Pasar, con la conducción de Gustavo Kuffner.",
+      "inicio": "2026-10-20T12:00:00",
+      "fin": "2026-10-20T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puedepasar.jpg"
+    },
+    {
+      "titulo": "DSports noticias",
+      "descripcion": "Actualidad, protagonistas, análisis y cobertura especial desde las sedes de la Copa Mundial de la FIFA 2026.",
+      "inicio": "2026-10-20T13:30:00",
+      "fin": "2026-10-20T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dsportsnoticias.jpg"
+    },
+    {
+      "titulo": "De Fútbol Se Habla Así Argentina",
+      "descripcion": "El debate futbolero más caliente del fútbol argentino de la mano de Toti Pasman y un gran equipo.",
+      "inicio": "2026-10-20T15:00:00",
+      "fin": "2026-10-20T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/defutbolsehablaasiargentina.jpg"
+    },
+    {
+      "titulo": "DSPORTS Show",
+      "descripcion": "Pablo Giralt se dedica a repasar la actualidad del fútbol mundial. El contenido, a su vez, cuenta con la presencia de invitados de lujos.",
+      "inicio": "2026-10-20T16:30:00",
+      "fin": "2026-10-20T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hilos",
+      "descripcion": "Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.",
+      "inicio": "2026-10-20T17:30:00",
+      "fin": "2026-10-20T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hilos.jpg"
+    },
+    {
+      "titulo": "DSports noticias",
+      "descripcion": "Actualidad, protagonistas, análisis y cobertura especial desde las sedes de la Copa Mundial de la FIFA 2026.",
+      "inicio": "2026-10-20T18:00:00",
+      "fin": "2026-10-20T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dsportsnoticias.jpg"
+    },
+    {
+      "titulo": "Fútbol total",
+      "descripcion": "Otra forma de sentir el Mundial: Debate, actualidad, análisis e historias que van más allá de la cancha con la conducción de Juanjo Buscalia.",
+      "inicio": "2026-10-20T19:00:00",
+      "fin": "2026-10-20T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futboltotal.jpg"
+    },
+    {
+      "titulo": "Todo en 30",
+      "descripcion": "En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DIRECTV Sports.",
+      "inicio": "2026-10-20T20:00:00",
+      "fin": "2026-10-20T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/todoen30.jpg"
+    },
+    {
+      "titulo": "Hilos",
+      "descripcion": "Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.",
+      "inicio": "2026-10-20T20:30:00",
+      "fin": "2026-10-20T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hilos.jpg"
+    },
+    {
+      "titulo": "Lo mejor de La Liga",
+      "descripcion": "Cobertura de La Liga de España, con comentarios, las mejores jugadas, goles, puntuaciones e información de los próximos partidos.",
+      "inicio": "2026-10-20T21:00:00",
+      "fin": "2026-10-20T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laliga.jpg"
+    },
+    {
+      "titulo": "DSports noticias",
+      "descripcion": "Actualidad, protagonistas, análisis y cobertura especial desde las sedes de la Copa Mundial de la FIFA 2026.",
+      "inicio": "2026-10-20T22:00:00",
+      "fin": "2026-10-20T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dsportsnoticias.jpg"
+    },
+    {
+      "titulo": "Ascenso directo",
+      "descripcion": "Toda la información, análisis y debate sobre las categorías del ascenso del fútbol argentino.",
+      "inicio": "2026-10-20T23:00:00",
+      "fin": "2026-10-21T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ascensodirecto.jpg"
+    },
+    {
+      "titulo": "DSports historias",
+      "descripcion": "Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.",
+      "inicio": "2026-10-21T00:00:00",
+      "fin": "2026-10-21T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dsportshistorias.jpg"
+    },
+    {
+      "titulo": "Lo mejor de DSports Fight",
+      "descripcion": "Repaso de los mejores momentos de DSports Fight, la casa de los deportes de contacto.",
+      "inicio": "2026-10-21T00:30:00",
+      "fin": "2026-10-21T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dsportsfight.jpg"
+    },
+    {
+      "titulo": "Todo en 30",
+      "descripcion": "En treinta minutos el resumen de los mejores momentos del fútbol a nivel internacional.",
+      "inicio": "2026-10-21T01:30:00",
+      "fin": "2026-10-21T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/todoen30.jpg"
+    },
+    {
+      "titulo": "DSports noticias",
+      "descripcion": "Actualidad, protagonistas, análisis y cobertura especial desde las sedes de la Copa Mundial de la FIFA 2026.",
+      "inicio": "2026-10-21T02:00:00",
+      "fin": "2026-10-21T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dsportsnoticias.jpg"
+    },
+    {
+      "titulo": "DSports Noticias Nite",
+      "descripcion": "Cierra el día con el resumen más completo del Mundial: análisis, noticias y repercusiones de la jornada con la dupla de Julián Fernández y Martín Reich.",
+      "inicio": "2026-10-21T03:00:00",
+      "fin": "2026-10-21T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dsportsnoticiasnite.jpg"
+    },
+    {
+      "titulo": "DSports Noticias Nite",
+      "descripcion": "Cierra el día con el resumen más completo del Mundial: análisis, noticias y repercusiones de la jornada con la dupla de Julián Fernández y Martín Reich.",
+      "inicio": "2026-10-21T06:00:00",
+      "fin": "2026-10-21T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dsportsnoticiasnite.jpg"
+    },
+    {
+      "titulo": "Fútbol CONMEBOL Copa Sudamericana • Vasco da Gama vs Boca Juniors",
+      "descripcion": "Vasco da Gama vs Boca Juniors | Semifinal de vuelta de la CONMEBOL Sudamericana 2026. Vasco da Gama recibe a Boca Juniors. Desde el São Januário, en Río de Janeiro.",
+      "inicio": "2026-10-21T09:00:00",
+      "fin": "2026-10-21T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolconmebolcopasudamericana.jpg"
     }
   ]
 }

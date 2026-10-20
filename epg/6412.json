@@ -1,186 +1,165 @@
 {
   "actual": {
-    "titulo": "ESPN Compact",
-    "descripcion": "Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.",
-    "inicio": "2026-10-19T10:00:00",
-    "fin": "2026-10-19T11:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espncompact.jpg"
+    "titulo": "Fútbol LaLiga • Goles de LaLiga 2026-27",
+    "descripcion": "Goles de LaLiga 2026-27 | Recopilación de los mejores goles de la temporada 2026-27 de LaLiga.",
+    "inicio": "2026-10-20T09:30:00",
+    "fin": "2026-10-20T10:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbollaliga.jpg"
   },
   "siguiente": {
-    "titulo": "SportsCenter",
-    "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-    "inicio": "2026-10-19T11:00:00",
-    "fin": "2026-10-19T12:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/sportscenter.jpg"
+    "titulo": "Italian Serie A Highlights",
+    "descripcion": "Lo más destacado de la jornada del fútbol Italiano.",
+    "inicio": "2026-10-20T10:00:00",
+    "fin": "2026-10-20T11:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/italianserieahighlights.jpg"
   },
   "lista": [
-    {
-      "titulo": "ESPN Compact",
-      "descripcion": "Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.",
-      "inicio": "2026-10-19T10:00:00",
-      "fin": "2026-10-19T11:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/espncompact.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-10-19T11:00:00",
-      "fin": "2026-10-19T12:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Fútbol LaLiga • Real Madrid vs Sevilla",
-      "descripcion": "Real Madrid vs Sevilla | Jornada 9 de la temporada 2026-27 de LaLiga. Desde el estadio Santiago Bernabéu. El Real Madrid se impuso 2-1 como local ante el Villarreal, mientras que el Sevilla FC logró un importante triunfo 2-3 a domicilio frente al Levante.",
-      "inicio": "2026-10-19T12:00:00",
-      "fin": "2026-10-19T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futbollaliga.jpg"
-    },
-    {
-      "titulo": "Fútbol internacional",
-      "descripcion": "Toda la cobertura de los encuentros entre los equipos internacionales de fútbol.",
-      "inicio": "2026-10-19T13:00:00",
-      "fin": "2026-10-19T13:20:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futbolinternacional.jpg"
-    },
-    {
-      "titulo": "Fútbol Serie A • Monza vs Cagliari",
-      "descripcion": "Monza vs Cagliari | Acción de la fecha 7 de la Serie A 2026-27. Monza enfrenta a Cagliari. Desde el U-Power Stadium. Los visitantes están a la caza del liderato.",
-      "inicio": "2026-10-19T13:20:00",
-      "fin": "2026-10-19T15:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol Serie A • Parma vs Torino",
-      "descripcion": "Parma vs Torino | Acción de la fecha 7 de la Serie A 2026-27. Parma enfrenta a Torino. Desde el Stadio Ennio Tardini. Los locales buscan salir de la zona de descenso.",
-      "inicio": "2026-10-19T15:30:00",
-      "fin": "2026-10-19T17:45:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "UEFA Europa & Conference League Magazine",
-      "descripcion": "Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.",
-      "inicio": "2026-10-19T17:45:00",
-      "fin": "2026-10-19T18:45:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefaeuropaconferenceleaguemagazine.jpg"
-    },
-    {
-      "titulo": "ATP World Tour Weekly • The Impossible Shot",
-      "descripcion": "The Impossible Shot | Golfistas profesionales intentan el reto de redes sociales del 'tiro imposible' intentando anotar en un hoyo que apenas supera el diámetro de la bola.",
-      "inicio": "2026-10-19T18:45:00",
-      "fin": "2026-10-19T19:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/atpworldtourweekly.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-10-19T19:00:00",
-      "fin": "2026-10-19T20:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "The Spirit of Yachting • Maxi Yacht Rolex Cup and Rolex Swan Cup 2026",
-      "descripcion": "Maxi Yacht Rolex Cup and Rolex Swan Cup 2026 | En septiembre, la Costa Esmeralda de Cerdeña fue el escenario de dos eventos del calendario de vela: la Maxi Yacht Rolex Cup, de carácter anual, y la Rolex Swan Cup, que se celebra cada dos años.",
-      "inicio": "2026-10-19T20:30:00",
-      "fin": "2026-10-19T21:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/thespiritofyachting.jpg"
-    },
-    {
-      "titulo": "Fútbol Americano NFL • Washington Commanders vs San Francisco 49ers",
-      "descripcion": "Washington Commanders vs San Francisco 49ers | Los 49ers reciben a los Commanders en el Levi's Stadium en la semana 6. San Francisco venció a Seattle por 32-29, manteniendo el invicto. Washington empató con los Giants tras la prórroga, frenando así una racha de varias derrotas consecutivas.",
-      "inicio": "2026-10-19T21:00:00",
-      "fin": "2026-10-20T00:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Italian Serie A Highlights",
-      "descripcion": "Lo más destacado de la jornada del fútbol Italiano.",
-      "inicio": "2026-10-20T00:15:00",
-      "fin": "2026-10-20T01:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/italianserieahighlights.jpg"
-    },
-    {
-      "titulo": "Bundesliga Highlights Show",
-      "descripcion": "Disfruta los juegos de las 34 jornadas de una de las ligas más prestigiosas a nivel mundial.",
-      "inicio": "2026-10-20T01:15:00",
-      "fin": "2026-10-20T02:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/bundesligahighlightsshow.jpg"
-    },
-    {
-      "titulo": "Fútbol Premier League • Tottenham Hotspur vs Coventry City",
-      "descripcion": "Tottenham Hotspur vs Coventry City | Jornada 7 de la temporada 2026-27 de la Premier League. Desde el estadio Tottenham Hotspur. El Tottenham se enfrenta a un Coventry City que ha ganado sus dos últimos encuentros, incluida una victoria por 4-1 en casa ante el Newcastle United.",
-      "inicio": "2026-10-20T02:15:00",
-      "fin": "2026-10-20T04:15:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol internacional • Manchester City: Campeón de la EFL Cup 2025-26",
-      "descripcion": "Manchester City: Campeón de la EFL Cup 2025-26 | El camino de Manchester City rumbo a la final de la EFL Cup 2025-26, en la que venció al Arsenal y consiguió su noveno título.",
-      "inicio": "2026-10-20T04:15:00",
-      "fin": "2026-10-20T04:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futbolinternacional.jpg"
-    },
-    {
-      "titulo": "Fútbol LaLiga • Goles de LaLiga 2026-27",
-      "descripcion": "Goles de LaLiga 2026-27 | Recopilación de los mejores goles de la temporada 2026-27 de LaLiga.",
-      "inicio": "2026-10-20T04:30:00",
-      "fin": "2026-10-20T05:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futbollaliga.jpg"
-    },
-    {
-      "titulo": "Italian Serie A Highlights",
-      "descripcion": "Lo más destacado de la jornada del fútbol Italiano.",
-      "inicio": "2026-10-20T05:00:00",
-      "fin": "2026-10-20T06:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/italianserieahighlights.jpg"
-    },
-    {
-      "titulo": "FIM Road Racing World Championship Highlights",
-      "descripcion": "Recopilación de los momentos más emocionantes de las carreras del campeonato mundial de motociclismo.",
-      "inicio": "2026-10-20T06:00:00",
-      "fin": "2026-10-20T06:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fimroadracingworldchampionshiphighlights.jpg"
-    },
-    {
-      "titulo": "UEFA Champions League Weekly",
-      "descripcion": "Momentos destacados, entrevistas y toda la información de la jornada semanal de la UEFA Champions League.",
-      "inicio": "2026-10-20T06:30:00",
-      "fin": "2026-10-20T07:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefachampionsleagueweekly.jpg"
-    },
-    {
-      "titulo": "UEFA Europa & Conference League Magazine",
-      "descripcion": "Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.",
-      "inicio": "2026-10-20T07:00:00",
-      "fin": "2026-10-20T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/uefaeuropaconferenceleaguemagazine.jpg"
-    },
-    {
-      "titulo": "Bundesliga Highlights Show",
-      "descripcion": "Disfruta los juegos de las 34 jornadas de una de las ligas más prestigiosas a nivel mundial.",
-      "inicio": "2026-10-20T08:00:00",
-      "fin": "2026-10-20T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/bundesligahighlightsshow.jpg"
-    },
-    {
-      "titulo": "FIM Road Racing World Championship Highlights",
-      "descripcion": "Recopilación de los momentos más emocionantes de las carreras del campeonato mundial de motociclismo.",
-      "inicio": "2026-10-20T09:00:00",
-      "fin": "2026-10-20T09:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/fimroadracingworldchampionshiphighlights.jpg"
-    },
     {
       "titulo": "Fútbol LaLiga • Goles de LaLiga 2026-27",
       "descripcion": "Goles de LaLiga 2026-27 | Recopilación de los mejores goles de la temporada 2026-27 de LaLiga.",
       "inicio": "2026-10-20T09:30:00",
       "fin": "2026-10-20T10:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/futbollaliga.jpg"
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbollaliga.jpg"
     },
     {
       "titulo": "Italian Serie A Highlights",
       "descripcion": "Lo más destacado de la jornada del fútbol Italiano.",
       "inicio": "2026-10-20T10:00:00",
       "fin": "2026-10-20T11:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/italianserieahighlights.jpg"
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/italianserieahighlights.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-10-20T11:00:00",
+      "fin": "2026-10-20T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Bundesliga Highlights Show",
+      "descripcion": "Disfruta los juegos de las 34 jornadas de una de las ligas más prestigiosas a nivel mundial.",
+      "inicio": "2026-10-20T12:00:00",
+      "fin": "2026-10-20T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bundesligahighlightsshow.jpg"
+    },
+    {
+      "titulo": "El show de la Copa Libertadores",
+      "descripcion": "Momentos más destacados de la Copa Libertadores.",
+      "inicio": "2026-10-20T13:00:00",
+      "fin": "2026-10-20T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elshowdelacopalibertadores.jpg"
+    },
+    {
+      "titulo": "Fútbol UEFA Champions League • Fenerbahçe vs Slavia Praha",
+      "descripcion": "Fenerbahçe vs Slavia Praha | Acción de la jornada 3 de la fase de liga de la UEFA Champions League 2026-27. Fenerbahce busca su primera victoria y Slavia Praga sus primeros puntos.",
+      "inicio": "2026-10-20T13:30:00",
+      "fin": "2026-10-20T15:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol UEFA Champions League • Liverpool vs Villarreal CF",
+      "descripcion": "Liverpool vs Villarreal CF | Acción de la jornada 3 de la fase de liga de la UEFA Champions League 2026-27. Los Reds buscan su tercera victoria y Villarreal mantenerse en zona de clasificación.",
+      "inicio": "2026-10-20T15:40:00",
+      "fin": "2026-10-20T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "UEFA Europa & Conference League Magazine",
+      "descripcion": "Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.",
+      "inicio": "2026-10-20T18:00:00",
+      "fin": "2026-10-20T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/uefaeuropaconferenceleaguemagazine.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-10-20T19:00:00",
+      "fin": "2026-10-20T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "ESPN Compact • UEFA Champions League: Paris Saint-Germain vs Barcelona",
+      "descripcion": "UEFA Champions League: Paris Saint-Germain vs Barcelona | Compacto de la jornada 3 de la fase de liga de la UEFA Champions League 2026-27. Disputado el 20 de octubre de 2026.",
+      "inicio": "2026-10-20T20:30:00",
+      "fin": "2026-10-20T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espncompact.jpg"
+    },
+    {
+      "titulo": "ESPN Compact • UEFA Champions League: Liverpool vs Villareal",
+      "descripcion": "UEFA Champions League: Liverpool vs Villareal | Compacto de la jornada 3 de la fase de liga de la UEFA Champions League 2026-27. Disputado el 20 de octubre de 2026.",
+      "inicio": "2026-10-20T21:30:00",
+      "fin": "2026-10-20T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espncompact.jpg"
+    },
+    {
+      "titulo": "UEFA Champions League Highlights",
+      "descripcion": "Resultados y las mejores jugadas de la Copa UEFA de clubes Campeones.",
+      "inicio": "2026-10-20T22:30:00",
+      "fin": "2026-10-20T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/uefachampionsleaguehighlights.jpg"
+    },
+    {
+      "titulo": "Goles de la Premier League",
+      "descripcion": "El repaso a las grandes emociones con los goles del campeonato inglés de fútbol.",
+      "inicio": "2026-10-20T23:30:00",
+      "fin": "2026-10-21T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/golesdelapremierleague.jpg"
+    },
+    {
+      "titulo": "Fútbol CONMEBOL Copa Sudamericana • Vasco da Gama vs Boca Juniors",
+      "descripcion": "Vasco da Gama vs Boca Juniors | Semifinal de vuelta de la CONMEBOL Sudamericana 2026. Vasco da Gama recibe a Boca Juniors. Desde el São Januário, en Río de Janeiro.",
+      "inicio": "2026-10-21T00:30:00",
+      "fin": "2026-10-21T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolconmebolcopasudamericana.jpg"
+    },
+    {
+      "titulo": "Fútbol LaLiga • Goles de LaLiga 2026-27",
+      "descripcion": "Goles de LaLiga 2026-27 | Recopilación de los mejores goles de la temporada 2026-27 de LaLiga.",
+      "inicio": "2026-10-21T02:30:00",
+      "fin": "2026-10-21T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbollaliga.jpg"
+    },
+    {
+      "titulo": "Premier Padel Tennis • Pretoria, Men's & Women's Final (Secondary Court)",
+      "descripcion": "Pretoria, Men's & Women's Final (Secondary Court) | Cobertura de una de las competiciones más importantes del mundo del pádel.",
+      "inicio": "2026-10-21T03:00:00",
+      "fin": "2026-10-21T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ESPN Compact • UEFA Champions League: Liverpool vs Villareal",
+      "descripcion": "UEFA Champions League: Liverpool vs Villareal | Compacto de la jornada 3 de la fase de liga de la UEFA Champions League 2026-27. Disputado el 20 de octubre de 2026.",
+      "inicio": "2026-10-21T04:00:00",
+      "fin": "2026-10-21T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espncompact.jpg"
+    },
+    {
+      "titulo": "ESPN Compact • UEFA Champions League: Paris Saint-Germain vs Barcelona",
+      "descripcion": "UEFA Champions League: Paris Saint-Germain vs Barcelona | Compacto de la jornada 3 de la fase de liga de la UEFA Champions League 2026-27. Disputado el 20 de octubre de 2026.",
+      "inicio": "2026-10-21T05:00:00",
+      "fin": "2026-10-21T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espncompact.jpg"
+    },
+    {
+      "titulo": "Fútbol CONMEBOL Copa Sudamericana • Vasco da Gama vs Boca Juniors",
+      "descripcion": "Vasco da Gama vs Boca Juniors | Semifinal de vuelta de la CONMEBOL Sudamericana 2026. Vasco da Gama recibe a Boca Juniors. Desde el São Januário, en Río de Janeiro.",
+      "inicio": "2026-10-21T06:00:00",
+      "fin": "2026-10-21T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolconmebolcopasudamericana.jpg"
+    },
+    {
+      "titulo": "ESPN Compact • UEFA Champions League: Paris Saint-Germain vs Barcelona",
+      "descripcion": "UEFA Champions League: Paris Saint-Germain vs Barcelona | Compacto de la jornada 3 de la fase de liga de la UEFA Champions League 2026-27. Disputado el 20 de octubre de 2026.",
+      "inicio": "2026-10-21T08:00:00",
+      "fin": "2026-10-21T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espncompact.jpg"
+    },
+    {
+      "titulo": "Fútbol UEFA Champions League • Fenerbahçe vs Slavia Praha",
+      "descripcion": "Fenerbahçe vs Slavia Praha | Acción de la jornada 3 de la fase de liga de la UEFA Champions League 2026-27. Fenerbahce busca su primera victoria y Slavia Praga sus primeros puntos.",
+      "inicio": "2026-10-21T09:00:00",
+      "fin": "2026-10-21T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

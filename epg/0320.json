@@ -1,151 +1,130 @@
 {
   "actual": {
-    "titulo": "Moomin",
-    "descripcion": "Historia que mezcla la amistad y el amor por la naturaleza con pequeñas aventuras y toques de misterio.",
-    "inicio": "2026-10-19T10:30:00",
-    "fin": "2026-10-19T11:30:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/0320_fallback.jpg"
-  },
-  "siguiente": {
     "titulo": "Grupo Especial Gorila",
     "descripcion": "En el siglo 86, el escuadrón clandestino \"Grupo Especial Gorila\" utiliza el poderoso robot Srungle para salvar la galaxia del sindicato mafioso \"Crime\"",
-    "inicio": "2026-10-19T11:30:00",
-    "fin": "2026-10-19T13:00:00",
-    "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/grupoespecialgorila.jpg"
+    "inicio": "2026-10-20T09:00:00",
+    "fin": "2026-10-20T10:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/grupoespecialgorila.jpg"
+  },
+  "siguiente": {
+    "titulo": "Moomin",
+    "descripcion": "Historia que mezcla la amistad y el amor por la naturaleza con pequeñas aventuras y toques de misterio.",
+    "inicio": "2026-10-20T10:30:00",
+    "fin": "2026-10-20T11:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0320_fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Moomin",
-      "descripcion": "Historia que mezcla la amistad y el amor por la naturaleza con pequeñas aventuras y toques de misterio.",
-      "inicio": "2026-10-19T10:30:00",
-      "fin": "2026-10-19T11:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/0320_fallback.jpg"
-    },
-    {
-      "titulo": "Grupo Especial Gorila",
-      "descripcion": "En el siglo 86, el escuadrón clandestino \"Grupo Especial Gorila\" utiliza el poderoso robot Srungle para salvar la galaxia del sindicato mafioso \"Crime\"",
-      "inicio": "2026-10-19T11:30:00",
-      "fin": "2026-10-19T13:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/grupoespecialgorila.jpg"
-    },
-    {
-      "titulo": "Moomin",
-      "descripcion": "Historia que mezcla la amistad y el amor por la naturaleza con pequeñas aventuras y toques de misterio.",
-      "inicio": "2026-10-19T13:00:00",
-      "fin": "2026-10-19T14:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/0320_fallback.jpg"
-    },
-    {
-      "titulo": "Almendrita",
-      "descripcion": "Almendrita, una diminuta hada con un gran corazón, desea vivir entre los humanos. Su viaje estará lleno de amistad, valentía y sueños, en un mundo donde la magia y la inocencia iluminan cada historia.",
-      "inicio": "2026-10-19T14:00:00",
-      "fin": "2026-10-19T15:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/almendrita.jpg"
-    },
-    {
-      "titulo": "Orphen",
-      "descripcion": "Orphen, un gran hechicero, busca desesperadamente la manera de que Azalea, su maestra y amiga de la infancia, vuelva a su forma original, puesto que se ha convertido en un temible dragón conocido como Agosto Sangriento. Para ello deberá dominar ...",
-      "inicio": "2026-10-19T15:00:00",
-      "fin": "2026-10-19T16:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/orphen.jpg"
-    },
-    {
-      "titulo": "Slayers",
-      "descripcion": "Sigue las andanzas de la hechicera adolescente Lina Inverse y sus compañeros mientras viajan a través de su mundo. Usando magia poderosa y habilidad con la espada, luchan contra magos extralimitados y demonios que buscan destruir el mundo.",
-      "inicio": "2026-10-19T16:30:00",
-      "fin": "2026-10-19T17:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/slayers.jpg"
-    },
-    {
-      "titulo": "Almendrita",
-      "descripcion": "Almendrita, una diminuta hada con un gran corazón, desea vivir entre los humanos. Su viaje estará lleno de amistad, valentía y sueños, en un mundo donde la magia y la inocencia iluminan cada historia.",
-      "inicio": "2026-10-19T17:30:00",
-      "fin": "2026-10-19T18:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/almendrita.jpg"
-    },
-    {
-      "titulo": "Orphen",
-      "descripcion": "Orphen, un gran hechicero, busca desesperadamente la manera de que Azalea, su maestra y amiga de la infancia, vuelva a su forma original, puesto que se ha convertido en un temible dragón conocido como Agosto Sangriento. Para ello deberá dominar ...",
-      "inicio": "2026-10-19T18:30:00",
-      "fin": "2026-10-19T20:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/orphen.jpg"
-    },
-    {
-      "titulo": "Slayers",
-      "descripcion": "Sigue las andanzas de la hechicera adolescente Lina Inverse y sus compañeros mientras viajan a través de su mundo. Usando magia poderosa y habilidad con la espada, luchan contra magos extralimitados y demonios que buscan destruir el mundo.",
-      "inicio": "2026-10-19T20:00:00",
-      "fin": "2026-10-19T21:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/slayers.jpg"
-    },
-    {
-      "titulo": "Ninja Kamui",
-      "descripcion": "El deseo de venganza del exmiembro de un clan ninja lo lleva a colaborar con los agentes del FBI para investigar el asesinato de su mujer e hijo.",
-      "inicio": "2026-10-19T21:00:00",
-      "fin": "2026-10-19T22:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/ninjakamui.jpg"
-    },
-    {
-      "titulo": "Marmalade Boy",
-      "descripcion": "Miki Koishikawa es una estudiante de 15 años, cuyos padres realizan un intercambio de parejas con la familia Matsura, que tiene un hijo de su edad, Yuu. Los padres deciden vivir bajo el mismo techo con sus hijos, y Miki, que se muestra reacia al ...",
-      "inicio": "2026-10-19T22:30:00",
-      "fin": "2026-10-20T00:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/marmaladeboy.jpg"
-    },
-    {
-      "titulo": "Almendrita",
-      "descripcion": "Almendrita, una diminuta hada con un gran corazón, desea vivir entre los humanos. Su viaje estará lleno de amistad, valentía y sueños, en un mundo donde la magia y la inocencia iluminan cada historia.",
-      "inicio": "2026-10-20T00:00:00",
-      "fin": "2026-10-20T01:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/almendrita.jpg"
-    },
-    {
-      "titulo": "Ninja Kamui",
-      "descripcion": "El deseo de venganza del exmiembro de un clan ninja lo lleva a colaborar con los agentes del FBI para investigar el asesinato de su mujer e hijo.",
-      "inicio": "2026-10-20T01:00:00",
-      "fin": "2026-10-20T02:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/ninjakamui.jpg"
-    },
-    {
-      "titulo": "Marmalade Boy",
-      "descripcion": "Miki Koishikawa es una estudiante de 15 años, cuyos padres realizan un intercambio de parejas con la familia Matsura, que tiene un hijo de su edad, Yuu. Los padres deciden vivir bajo el mismo techo con sus hijos, y Miki, que se muestra reacia al ...",
-      "inicio": "2026-10-20T02:30:00",
-      "fin": "2026-10-20T04:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/marmaladeboy.jpg"
-    },
-    {
-      "titulo": "Fire Force",
-      "descripcion": "Tokio se encuentra bajo un extraño fenómeno: ¡la gente entra, sin explicación alguna, en combustión espontánea! Aunque, afortunadamente, hay un equipo a cargo de mantener a raya este particular fenómeno… ¡El Cuerpo Especial de Bomberos! ...",
-      "inicio": "2026-10-20T04:00:00",
-      "fin": "2026-10-20T06:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/0320_fallback.jpg"
-    },
-    {
-      "titulo": "Grupo Especial Gorila",
-      "descripcion": "En el siglo 86, el escuadrón clandestino \"Grupo Especial Gorila\" utiliza el poderoso robot Srungle para salvar la galaxia del sindicato mafioso \"Crime\"",
-      "inicio": "2026-10-20T06:30:00",
-      "fin": "2026-10-20T08:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/grupoespecialgorila.jpg"
-    },
-    {
-      "titulo": "Moomin",
-      "descripcion": "Historia que mezcla la amistad y el amor por la naturaleza con pequeñas aventuras y toques de misterio.",
-      "inicio": "2026-10-20T08:00:00",
-      "fin": "2026-10-20T09:00:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/0320_fallback.jpg"
-    },
     {
       "titulo": "Grupo Especial Gorila",
       "descripcion": "En el siglo 86, el escuadrón clandestino \"Grupo Especial Gorila\" utiliza el poderoso robot Srungle para salvar la galaxia del sindicato mafioso \"Crime\"",
       "inicio": "2026-10-20T09:00:00",
       "fin": "2026-10-20T10:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/grupoespecialgorila.jpg"
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/grupoespecialgorila.jpg"
     },
     {
       "titulo": "Moomin",
       "descripcion": "Historia que mezcla la amistad y el amor por la naturaleza con pequeñas aventuras y toques de misterio.",
       "inicio": "2026-10-20T10:30:00",
       "fin": "2026-10-20T11:30:00",
-      "icono": "https://cdn.jsdelivr.net/gh/Puticastillo/EPGCL@main/zoidberg/0320_fallback.jpg"
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0320_fallback.jpg"
+    },
+    {
+      "titulo": "Grupo Especial Gorila",
+      "descripcion": "En el siglo 86, el escuadrón clandestino \"Grupo Especial Gorila\" utiliza el poderoso robot Srungle para salvar la galaxia del sindicato mafioso \"Crime\"",
+      "inicio": "2026-10-20T11:30:00",
+      "fin": "2026-10-20T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/grupoespecialgorila.jpg"
+    },
+    {
+      "titulo": "Moomin",
+      "descripcion": "Historia que mezcla la amistad y el amor por la naturaleza con pequeñas aventuras y toques de misterio.",
+      "inicio": "2026-10-20T13:00:00",
+      "fin": "2026-10-20T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0320_fallback.jpg"
+    },
+    {
+      "titulo": "Almendrita",
+      "descripcion": "Almendrita, una diminuta hada con un gran corazón, desea vivir entre los humanos. Su viaje estará lleno de amistad, valentía y sueños, en un mundo donde la magia y la inocencia iluminan cada historia.",
+      "inicio": "2026-10-20T14:00:00",
+      "fin": "2026-10-20T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/almendrita.jpg"
+    },
+    {
+      "titulo": "Orphen",
+      "descripcion": "Orphen, un gran hechicero, busca desesperadamente la manera de que Azalea, su maestra y amiga de la infancia, vuelva a su forma original, puesto que se ha convertido en un temible dragón conocido como Agosto Sangriento. Para ello deberá dominar ...",
+      "inicio": "2026-10-20T15:00:00",
+      "fin": "2026-10-20T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/orphen.jpg"
+    },
+    {
+      "titulo": "Slayers",
+      "descripcion": "Sigue las andanzas de la hechicera adolescente Lina Inverse y sus compañeros mientras viajan a través de su mundo. Usando magia poderosa y habilidad con la espada, luchan contra magos extralimitados y demonios que buscan destruir el mundo.",
+      "inicio": "2026-10-20T16:30:00",
+      "fin": "2026-10-20T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/slayers.jpg"
+    },
+    {
+      "titulo": "Almendrita",
+      "descripcion": "Almendrita, una diminuta hada con un gran corazón, desea vivir entre los humanos. Su viaje estará lleno de amistad, valentía y sueños, en un mundo donde la magia y la inocencia iluminan cada historia.",
+      "inicio": "2026-10-20T17:30:00",
+      "fin": "2026-10-20T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/almendrita.jpg"
+    },
+    {
+      "titulo": "Orphen",
+      "descripcion": "Orphen, un gran hechicero, busca desesperadamente la manera de que Azalea, su maestra y amiga de la infancia, vuelva a su forma original, puesto que se ha convertido en un temible dragón conocido como Agosto Sangriento. Para ello deberá dominar ...",
+      "inicio": "2026-10-20T18:30:00",
+      "fin": "2026-10-20T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/orphen.jpg"
+    },
+    {
+      "titulo": "Slayers",
+      "descripcion": "Sigue las andanzas de la hechicera adolescente Lina Inverse y sus compañeros mientras viajan a través de su mundo. Usando magia poderosa y habilidad con la espada, luchan contra magos extralimitados y demonios que buscan destruir el mundo.",
+      "inicio": "2026-10-20T20:00:00",
+      "fin": "2026-10-20T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/slayers.jpg"
+    },
+    {
+      "titulo": "Ninja Kamui",
+      "descripcion": "El deseo de venganza del exmiembro de un clan ninja lo lleva a colaborar con los agentes del FBI para investigar el asesinato de su mujer e hijo.",
+      "inicio": "2026-10-20T21:00:00",
+      "fin": "2026-10-20T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ninjakamui.jpg"
+    },
+    {
+      "titulo": "Marmalade Boy",
+      "descripcion": "Miki Koishikawa es una estudiante de 15 años, cuyos padres realizan un intercambio de parejas con la familia Matsura, que tiene un hijo de su edad, Yuu. Los padres deciden vivir bajo el mismo techo con sus hijos, y Miki, que se muestra reacia al ...",
+      "inicio": "2026-10-20T22:30:00",
+      "fin": "2026-10-21T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/marmaladeboy.jpg"
+    },
+    {
+      "titulo": "Senpai TV",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-21T00:30:00",
+      "fin": "2026-10-21T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0320_fallback.jpg"
+    },
+    {
+      "titulo": "Senpai TV",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-21T01:00:00",
+      "fin": "2026-10-21T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0320_fallback.jpg"
+    },
+    {
+      "titulo": "Senpai TV",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-21T05:00:00",
+      "fin": "2026-10-21T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0320_fallback.jpg"
+    },
+    {
+      "titulo": "Senpai TV",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-21T09:00:00",
+      "fin": "2026-10-21T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0320_fallback.jpg"
     }
   ]
 }
