@@ -2,276 +2,241 @@
   "actual": {
     "titulo": "Música para tus ojos",
     "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
-    "inicio": "2026-10-20T09:30:00",
-    "fin": "2026-10-20T10:00:00",
+    "inicio": "2026-10-21T09:30:00",
+    "fin": "2026-10-21T11:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
   },
   "siguiente": {
-    "titulo": "En concierto • Joss Favela",
-    "descripcion": "Joss Favela | Una oportunidad para disfrutar del concierto de uno de los cantautores del momento, Joss Favela. Desde el carnaval de Guamúchil, Sinaloa.",
-    "inicio": "2026-10-20T10:00:00",
-    "fin": "2026-10-20T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enconcierto.jpg"
+    "titulo": "Video Rola en vivo • Miguel López",
+    "descripcion": "Miguel López | La información de este programa no se encuentra disponible.",
+    "inicio": "2026-10-21T11:00:00",
+    "fin": "2026-10-21T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Música para tus ojos",
-      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
-      "inicio": "2026-10-20T09:30:00",
-      "fin": "2026-10-20T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
-    },
-    {
-      "titulo": "En concierto • Joss Favela",
-      "descripcion": "Joss Favela | Una oportunidad para disfrutar del concierto de uno de los cantautores del momento, Joss Favela. Desde el carnaval de Guamúchil, Sinaloa.",
-      "inicio": "2026-10-20T10:00:00",
-      "fin": "2026-10-20T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enconcierto.jpg"
-    },
-    {
-      "titulo": "Música para tus ojos",
-      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
-      "inicio": "2026-10-20T11:00:00",
-      "fin": "2026-10-20T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
-    },
-    {
-      "titulo": "La entrevista",
-      "descripcion": "Andrés Lafuente, después de varios fracasos, se enfrenta a su gran oportunidad: un puesto de responsable financiero de una multinacional. Ana Peláez, una reclutadora despiadada, plantea a Lafuente cinco pruebas. Cada uno de los ejercicios rompen y vulneran las premisas de una entrevista convencional, sometiendo a Andrés a un vía crucis continuado y humillante. Finalmente, Ana desafía a Andrés con una prueba donde nada es lo que parece.",
-      "inicio": "2026-10-20T12:00:00",
-      "fin": "2026-10-20T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Música para tus ojos",
-      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
-      "inicio": "2026-10-20T12:30:00",
-      "fin": "2026-10-20T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
-    },
-    {
-      "titulo": "Like news",
-      "descripcion": "Lo más relevante de la información generada en torno a la música regional mexicana.",
-      "inicio": "2026-10-20T13:00:00",
-      "fin": "2026-10-20T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/likenews.jpg"
-    },
-    {
-      "titulo": "Música para tus ojos",
-      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
-      "inicio": "2026-10-20T13:30:00",
-      "fin": "2026-10-20T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
-    },
-    {
-      "titulo": "La regadera",
-      "descripcion": "Un concepto creado para divertirse y reírse de la vida.",
-      "inicio": "2026-10-20T14:00:00",
-      "fin": "2026-10-20T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laregadera.jpg"
-    },
-    {
-      "titulo": "Las Gruperronas",
-      "descripcion": "El top ten de la música más popular de México con Alexandra González.",
-      "inicio": "2026-10-20T14:30:00",
-      "fin": "2026-10-20T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lasgruperronas.jpg"
-    },
-    {
-      "titulo": "Música para tus ojos",
-      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
-      "inicio": "2026-10-20T15:00:00",
-      "fin": "2026-10-20T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
-    },
-    {
-      "titulo": "Videografía • Carín León",
-      "descripcion": "Carín León | Un espacio para disfrutar el recorrido musical de los artistas favoritos del público a través de sus mejores videos.",
-      "inicio": "2026-10-20T15:30:00",
-      "fin": "2026-10-20T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Beat urbano",
-      "descripcion": "Los videos y artistas más representativos de la música urbana.",
-      "inicio": "2026-10-20T16:00:00",
-      "fin": "2026-10-20T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/beaturbano.jpg"
-    },
-    {
-      "titulo": "Las 3 más pedidas • Banda",
-      "descripcion": "Banda | Una deleitable selección de las canciones de banda más pedidas.",
-      "inicio": "2026-10-20T17:00:00",
-      "fin": "2026-10-20T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/las3maspedidas.jpg"
-    },
-    {
-      "titulo": "Música para tus ojos",
-      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
-      "inicio": "2026-10-20T17:30:00",
-      "fin": "2026-10-20T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
-    },
-    {
-      "titulo": "En concierto • Joss Favela",
-      "descripcion": "Joss Favela | Una oportunidad para disfrutar del concierto de uno de los cantautores del momento, Joss Favela. Desde el carnaval de Guamúchil, Sinaloa.",
-      "inicio": "2026-10-20T18:00:00",
-      "fin": "2026-10-20T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enconcierto.jpg"
-    },
-    {
-      "titulo": "Video Rola en vivo • Miguel López",
-      "descripcion": "Miguel López | La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-20T19:00:00",
-      "fin": "2026-10-20T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La entrevista",
-      "descripcion": "Andrés Lafuente, después de varios fracasos, se enfrenta a su gran oportunidad: un puesto de responsable financiero de una multinacional. Ana Peláez, una reclutadora despiadada, plantea a Lafuente cinco pruebas. Cada uno de los ejercicios rompen y vulneran las premisas de una entrevista convencional, sometiendo a Andrés a un vía crucis continuado y humillante. Finalmente, Ana desafía a Andrés con una prueba donde nada es lo que parece.",
-      "inicio": "2026-10-20T20:00:00",
-      "fin": "2026-10-20T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mini conciertos",
-      "descripcion": "Programa que muestra una selección de los mejores artistas y videos musicales en vivo a través de Video Rola Mini Conciertos.",
-      "inicio": "2026-10-20T20:30:00",
-      "fin": "2026-10-20T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniconciertos.jpg"
-    },
-    {
-      "titulo": "En concierto • Cuisillos",
-      "descripcion": "Cuisillos | Se presentan los grandes jefes de la música: Cuisillos.",
-      "inicio": "2026-10-20T21:00:00",
-      "fin": "2026-10-20T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enconcierto.jpg"
-    },
-    {
-      "titulo": "Las 3 más pedidas • Urbano",
-      "descripcion": "Urbano | Reproducción de las canciones más solicitadas del momento con cada capítulo enfocado en un género musical.",
-      "inicio": "2026-10-20T22:00:00",
-      "fin": "2026-10-20T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/las3maspedidas.jpg"
-    },
-    {
-      "titulo": "Música para tus ojos",
-      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
-      "inicio": "2026-10-20T22:30:00",
-      "fin": "2026-10-20T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
-    },
-    {
-      "titulo": "La regadera",
-      "descripcion": "Un concepto creado para divertirse y reírse de la vida.",
-      "inicio": "2026-10-20T23:00:00",
-      "fin": "2026-10-20T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laregadera.jpg"
-    },
-    {
-      "titulo": "Música para tus ojos",
-      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
-      "inicio": "2026-10-20T23:30:00",
-      "fin": "2026-10-21T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
-    },
-    {
-      "titulo": "Mini conciertos",
-      "descripcion": "Programa que muestra una selección de los mejores artistas y videos musicales en vivo a través de Video Rola Mini Conciertos.",
-      "inicio": "2026-10-21T00:30:00",
-      "fin": "2026-10-21T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniconciertos.jpg"
-    },
-    {
-      "titulo": "Videografía • Carín León",
-      "descripcion": "Carín León | Un espacio para disfrutar el recorrido musical de los artistas favoritos del público a través de sus mejores videos.",
-      "inicio": "2026-10-21T01:00:00",
-      "fin": "2026-10-21T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Música para tus ojos",
-      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
-      "inicio": "2026-10-21T01:30:00",
-      "fin": "2026-10-21T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
-    },
-    {
-      "titulo": "Video Rola en vivo • Miguel López",
-      "descripcion": "Miguel López | La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-21T03:00:00",
-      "fin": "2026-10-21T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La entrevista",
-      "descripcion": "Andrés Lafuente, después de varios fracasos, se enfrenta a su gran oportunidad: un puesto de responsable financiero de una multinacional. Ana Peláez, una reclutadora despiadada, plantea a Lafuente cinco pruebas. Cada uno de los ejercicios rompen y vulneran las premisas de una entrevista convencional, sometiendo a Andrés a un vía crucis continuado y humillante. Finalmente, Ana desafía a Andrés con una prueba donde nada es lo que parece.",
-      "inicio": "2026-10-21T04:00:00",
-      "fin": "2026-10-21T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mini conciertos",
-      "descripcion": "Programa que muestra una selección de los mejores artistas y videos musicales en vivo a través de Video Rola Mini Conciertos.",
-      "inicio": "2026-10-21T04:30:00",
-      "fin": "2026-10-21T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniconciertos.jpg"
-    },
-    {
-      "titulo": "En concierto • Cuisillos",
-      "descripcion": "Cuisillos | Se presentan los grandes jefes de la música: Cuisillos.",
-      "inicio": "2026-10-21T05:00:00",
-      "fin": "2026-10-21T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enconcierto.jpg"
-    },
-    {
-      "titulo": "Las 3 más pedidas • Urbano",
-      "descripcion": "Urbano | Reproducción de las canciones más solicitadas del momento con cada capítulo enfocado en un género musical.",
-      "inicio": "2026-10-21T06:00:00",
-      "fin": "2026-10-21T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/las3maspedidas.jpg"
-    },
-    {
-      "titulo": "Música para tus ojos",
-      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
-      "inicio": "2026-10-21T06:30:00",
-      "fin": "2026-10-21T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
-    },
-    {
-      "titulo": "La regadera",
-      "descripcion": "Un concepto creado para divertirse y reírse de la vida.",
-      "inicio": "2026-10-21T07:00:00",
-      "fin": "2026-10-21T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laregadera.jpg"
-    },
-    {
-      "titulo": "Música para tus ojos",
-      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
-      "inicio": "2026-10-21T07:30:00",
-      "fin": "2026-10-21T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
-    },
-    {
-      "titulo": "Mini conciertos",
-      "descripcion": "Programa que muestra una selección de los mejores artistas y videos musicales en vivo a través de Video Rola Mini Conciertos.",
-      "inicio": "2026-10-21T08:30:00",
-      "fin": "2026-10-21T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniconciertos.jpg"
-    },
-    {
-      "titulo": "Videografía • Carín León",
-      "descripcion": "Carín León | Un espacio para disfrutar el recorrido musical de los artistas favoritos del público a través de sus mejores videos.",
-      "inicio": "2026-10-21T09:00:00",
-      "fin": "2026-10-21T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Música para tus ojos",
       "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
       "inicio": "2026-10-21T09:30:00",
       "fin": "2026-10-21T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
+    },
+    {
+      "titulo": "Video Rola en vivo • Miguel López",
+      "descripcion": "Miguel López | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-21T11:00:00",
+      "fin": "2026-10-21T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La entrevista",
+      "descripcion": "Andrés Lafuente, después de varios fracasos, se enfrenta a su gran oportunidad: un puesto de responsable financiero de una multinacional. Ana Peláez, una reclutadora despiadada, plantea a Lafuente cinco pruebas. Cada uno de los ejercicios rompen y vulneran las premisas de una entrevista convencional, sometiendo a Andrés a un vía crucis continuado y humillante. Finalmente, Ana desafía a Andrés con una prueba donde nada es lo que parece.",
+      "inicio": "2026-10-21T12:00:00",
+      "fin": "2026-10-21T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mini conciertos",
+      "descripcion": "Programa que muestra una selección de los mejores artistas y videos musicales en vivo a través de Video Rola Mini Conciertos.",
+      "inicio": "2026-10-21T12:30:00",
+      "fin": "2026-10-21T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniconciertos.jpg"
+    },
+    {
+      "titulo": "En concierto • Cuisillos",
+      "descripcion": "Cuisillos | Se presentan los grandes jefes de la música: Cuisillos.",
+      "inicio": "2026-10-21T13:00:00",
+      "fin": "2026-10-21T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enconcierto.jpg"
+    },
+    {
+      "titulo": "Las 3 más pedidas • Urbano",
+      "descripcion": "Urbano | Reproducción de las canciones más solicitadas del momento con cada capítulo enfocado en un género musical.",
+      "inicio": "2026-10-21T14:00:00",
+      "fin": "2026-10-21T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/las3maspedidas.jpg"
+    },
+    {
+      "titulo": "Música para tus ojos",
+      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
+      "inicio": "2026-10-21T14:30:00",
+      "fin": "2026-10-21T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
+    },
+    {
+      "titulo": "La regadera",
+      "descripcion": "Un concepto creado para divertirse y reírse de la vida.",
+      "inicio": "2026-10-21T15:00:00",
+      "fin": "2026-10-21T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laregadera.jpg"
+    },
+    {
+      "titulo": "Música para tus ojos",
+      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
+      "inicio": "2026-10-21T15:30:00",
+      "fin": "2026-10-21T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
+    },
+    {
+      "titulo": "Mini conciertos",
+      "descripcion": "Programa que muestra una selección de los mejores artistas y videos musicales en vivo a través de Video Rola Mini Conciertos.",
+      "inicio": "2026-10-21T16:30:00",
+      "fin": "2026-10-21T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniconciertos.jpg"
+    },
+    {
+      "titulo": "Videografía • Carín León",
+      "descripcion": "Carín León | Un espacio para disfrutar el recorrido musical de los artistas favoritos del público a través de sus mejores videos.",
+      "inicio": "2026-10-21T17:00:00",
+      "fin": "2026-10-21T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Música para tus ojos",
+      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
+      "inicio": "2026-10-21T17:30:00",
+      "fin": "2026-10-21T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
+    },
+    {
+      "titulo": "En concierto • Joss Favela",
+      "descripcion": "Joss Favela | Una selección de las mejores presentaciones en vivo de los artistas más destacados de la música regional mexicana.",
+      "inicio": "2026-10-21T19:00:00",
+      "fin": "2026-10-21T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enconcierto.jpg"
+    },
+    {
+      "titulo": "La entrevista",
+      "descripcion": "Andrés Lafuente, después de varios fracasos, se enfrenta a su gran oportunidad: un puesto de responsable financiero de una multinacional. Ana Peláez, una reclutadora despiadada, plantea a Lafuente cinco pruebas. Cada uno de los ejercicios rompen y vulneran las premisas de una entrevista convencional, sometiendo a Andrés a un vía crucis continuado y humillante. Finalmente, Ana desafía a Andrés con una prueba donde nada es lo que parece.",
+      "inicio": "2026-10-21T20:00:00",
+      "fin": "2026-10-21T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Música para tus ojos",
+      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
+      "inicio": "2026-10-21T20:30:00",
+      "fin": "2026-10-21T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
+    },
+    {
+      "titulo": "La regadera",
+      "descripcion": "Un concepto creado para divertirse y reírse de la vida.",
+      "inicio": "2026-10-21T22:00:00",
+      "fin": "2026-10-21T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laregadera.jpg"
+    },
+    {
+      "titulo": "Música para tus ojos",
+      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
+      "inicio": "2026-10-21T22:30:00",
+      "fin": "2026-10-21T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
+    },
+    {
+      "titulo": "Videografía • Carín León",
+      "descripcion": "Carín León | Un espacio para disfrutar el recorrido musical de los artistas favoritos del público a través de sus mejores videos.",
+      "inicio": "2026-10-21T23:30:00",
+      "fin": "2026-10-22T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Beat urbano",
+      "descripcion": "Los videos y artistas más representativos de la música urbana.",
+      "inicio": "2026-10-22T00:00:00",
+      "fin": "2026-10-22T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/beaturbano.jpg"
+    },
+    {
+      "titulo": "Las 3 más pedidas • Norteño",
+      "descripcion": "Norteño | Se pueden pedir las canciones preferidas a través de WhatsApp y el público podrá ser protagonista en \"Las 3 más pedidas\".",
+      "inicio": "2026-10-22T01:00:00",
+      "fin": "2026-10-22T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/las3maspedidas.jpg"
+    },
+    {
+      "titulo": "Otra Noche con Ustedes",
+      "descripcion": "Espacio lleno de humor e inteligencia con las personalidades más renombradas del medio artístico.",
+      "inicio": "2026-10-22T01:30:00",
+      "fin": "2026-10-22T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/otranocheconustedes.jpg"
+    },
+    {
+      "titulo": "En concierto • Joss Favela",
+      "descripcion": "Joss Favela | Una oportunidad para disfrutar del concierto de uno de los cantautores del momento, Joss Favela. Desde el carnaval de Guamúchil, Sinaloa.",
+      "inicio": "2026-10-22T03:00:00",
+      "fin": "2026-10-22T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enconcierto.jpg"
+    },
+    {
+      "titulo": "La entrevista",
+      "descripcion": "Andrés Lafuente, después de varios fracasos, se enfrenta a su gran oportunidad: un puesto de responsable financiero de una multinacional. Ana Peláez, una reclutadora despiadada, plantea a Lafuente cinco pruebas. Cada uno de los ejercicios rompen y vulneran las premisas de una entrevista convencional, sometiendo a Andrés a un vía crucis continuado y humillante. Finalmente, Ana desafía a Andrés con una prueba donde nada es lo que parece.",
+      "inicio": "2026-10-22T04:00:00",
+      "fin": "2026-10-22T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Música para tus ojos",
+      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
+      "inicio": "2026-10-22T04:30:00",
+      "fin": "2026-10-22T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
+    },
+    {
+      "titulo": "Mini conciertos • Grupo Tumbado",
+      "descripcion": "Grupo Tumbado | Programa que muestra una selección de los mejores artistas y videos musicales en vivo a través de Video Rola Mini Conciertos.",
+      "inicio": "2026-10-22T05:00:00",
+      "fin": "2026-10-22T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniconciertos.jpg"
+    },
+    {
+      "titulo": "Música para tus ojos",
+      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
+      "inicio": "2026-10-22T05:30:00",
+      "fin": "2026-10-22T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
+    },
+    {
+      "titulo": "La regadera",
+      "descripcion": "Un concepto creado para divertirse y reírse de la vida.",
+      "inicio": "2026-10-22T06:00:00",
+      "fin": "2026-10-22T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laregadera.jpg"
+    },
+    {
+      "titulo": "Música para tus ojos",
+      "descripcion": "Un programa que muestra los videos musicales de los artistas favoritos del momento.",
+      "inicio": "2026-10-22T06:30:00",
+      "fin": "2026-10-22T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaparatusojos.jpg"
+    },
+    {
+      "titulo": "Videografía • Carín León",
+      "descripcion": "Carín León | Un espacio para disfrutar el recorrido musical de los artistas favoritos del público a través de sus mejores videos.",
+      "inicio": "2026-10-22T07:30:00",
+      "fin": "2026-10-22T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Beat urbano",
+      "descripcion": "Los videos y artistas más representativos de la música urbana.",
+      "inicio": "2026-10-22T08:00:00",
+      "fin": "2026-10-22T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/beaturbano.jpg"
+    },
+    {
+      "titulo": "Las 3 más pedidas • Norteño",
+      "descripcion": "Norteño | Se pueden pedir las canciones preferidas a través de WhatsApp y el público podrá ser protagonista en \"Las 3 más pedidas\".",
+      "inicio": "2026-10-22T09:00:00",
+      "fin": "2026-10-22T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/las3maspedidas.jpg"
+    },
+    {
+      "titulo": "Otra Noche con Ustedes",
+      "descripcion": "Espacio lleno de humor e inteligencia con las personalidades más renombradas del medio artístico.",
+      "inicio": "2026-10-22T09:30:00",
+      "fin": "2026-10-22T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/otranocheconustedes.jpg"
     }
   ]
 }
