@@ -1,122 +1,66 @@
 {
   "actual": {
-    "titulo": "Mambrú se fue a la guerra",
-    "descripcion": "Tras la muerte de un hombre, su esposa le revela a su familia que su marido sigue vivo, ya que había permanecido oculto desde la Guerra Civil. Ahora, el hombre debe enfrentarse a los problemas económicos de la familia.",
-    "inicio": "2026-10-21T09:10:00",
-    "fin": "2026-10-21T10:55:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Película",
+    "descripcion": "Arte cinematográfico mundial.",
+    "inicio": "2026-10-22T07:30:00",
+    "fin": "2026-10-22T12:35:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pelicula.jpg"
   },
   "siguiente": {
-    "titulo": "Los caballeros del botón de ancla",
-    "descripcion": "Tres alumnos de la Escuela Naval deben poner a prueba su lealtad como amigos cuando el amor entra en sus vidas.",
-    "inicio": "2026-10-21T10:55:00",
-    "fin": "2026-10-21T12:40:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Película",
+    "descripcion": "Arte cinematográfico mundial.",
+    "inicio": "2026-10-22T12:35:00",
+    "fin": "2026-10-22T18:25:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pelicula.jpg"
   },
   "lista": [
-    {
-      "titulo": "Mambrú se fue a la guerra",
-      "descripcion": "Tras la muerte de un hombre, su esposa le revela a su familia que su marido sigue vivo, ya que había permanecido oculto desde la Guerra Civil. Ahora, el hombre debe enfrentarse a los problemas económicos de la familia.",
-      "inicio": "2026-10-21T09:10:00",
-      "fin": "2026-10-21T10:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los caballeros del botón de ancla",
-      "descripcion": "Tres alumnos de la Escuela Naval deben poner a prueba su lealtad como amigos cuando el amor entra en sus vidas.",
-      "inicio": "2026-10-21T10:55:00",
-      "fin": "2026-10-21T12:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La vida de nadie",
-      "descripcion": "Emilio Barrero (José Coronado) es un economista que trabaja en el Banco de España. Tiene una esposa modelo, un bonito chalet y un hijo que le admira. Su esposa (Adriana Ozores) le está preparando una sorpresa para su cumpleaños; pero la sorpresa se la va a llevar ella, porque la vida de Emilio está basada en la mentira. Cuando conoce a Rosana (Marta Etura), una encantadora estudiante, el precario equilibrio de su vida se quiebra y todo se precipita hacia un inesperado desenlace.",
-      "inicio": "2026-10-21T12:40:00",
-      "fin": "2026-10-21T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lavidadenadie.jpg"
-    },
-    {
-      "titulo": "Bearn o la sala de las muñecas",
-      "descripcion": "En Mallorca, España, y tras la muerte de sus protectores, un hijo solitario se dedica a reconstruir la abrumadora historia de su familia.",
-      "inicio": "2026-10-21T14:30:00",
-      "fin": "2026-10-21T16:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El fantasma y Doña Juanita",
-      "descripcion": "Temiendo que su sobrina Rosita abandone a su verdadero amor y contraiga un matrimonio de conveniencia, doña Juanita le cuenta la historia de cuando, muchos años atrás, se enamoró de un contable que trabajaba en un circo.",
-      "inicio": "2026-10-21T16:35:00",
-      "fin": "2026-10-21T17:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El camino de los ingleses",
-      "descripcion": "En la España de los años setenta, un chico (Alberto Amarilla) que desea ser poeta, se enamora de una aspirante a bailarina (María Ruiz).",
-      "inicio": "2026-10-21T17:45:00",
-      "fin": "2026-10-21T19:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El embrujo de Shanghai",
-      "descripcion": "En la Barcelona de 1948, las apariciones y desapariciones de los maquis que llegan desde el otro lado de la frontera y el relato de sus aventuras son lo único que anima el ambiente gris de la posguerra. El relato de la aventura de uno de esos héroes míticos, que embarca rumbo a Shanghái para cumplir una arriesgada misión entre pistoleros, nazis y bellas mujeres, da sentido a la vida de dos adolescentes, Dani y Susana, hasta que la realidad les haga despertar.",
-      "inicio": "2026-10-21T19:40:00",
-      "fin": "2026-10-21T21:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elembrujodeshanghai.jpg"
-    },
-    {
-      "titulo": "Bombas para la paz",
-      "descripcion": "Antes de su muerte, un científico revela a su ayudante la fórmula incompleta de un sensacional descubrimiento: una sustancia que vuelve pacíficos a los más belicosos. La sustancia es una auténtica bomba y el científico le encarga que la utilice para conseguir la paz en el mundo. Tras realizar varias pruebas, el joven viaja a París donde se va a celebrar una conferencia a la que asistirán los dirigentes más importantes del mundo. Su intención es arrojar la \"bomba para la paz\" en la conferencia.",
-      "inicio": "2026-10-21T21:40:00",
-      "fin": "2026-10-21T23:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El golfo",
-      "descripcion": "Una ejecutiva neoyorquina va a Acapulco para salir de su monotonía, ahí conoce a un cantante a quien ayuda a triunfar.",
-      "inicio": "2026-10-21T23:10:00",
-      "fin": "2026-10-22T00:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Desde que amanece, apetece",
-      "descripcion": "Una familia envía a su hijo a vivir con su tío para que se convierta en un hombre exitoso, sin imaginar que este tiene un nuevo negocio: una agencia de sexoservidores, donde el chico será la estrella.",
-      "inicio": "2026-10-22T00:50:00",
-      "fin": "2026-10-22T02:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Incautos",
-      "descripcion": "Ernesto es un estafador acostumbrado a pequeños golpes al que se le presenta la oportunidad de dar un último gran golpe que le permita retirarse. El golpe no será nada fácil y se verá envuelto en una espiral de traición y venganza.",
-      "inicio": "2026-10-22T02:45:00",
-      "fin": "2026-10-22T04:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Oh, cielos!",
-      "descripcion": "Un ángel llega a la Tierra en una misión especial para un publicista que abandonó a su familia.",
-      "inicio": "2026-10-22T04:35:00",
-      "fin": "2026-10-22T05:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Inconscientes",
-      "descripcion": "Al llegar un día a casa, Alma encuentra a su marido, un psiquiatra de ideas modernas, con los ojos llorosos y dispuesto a irse para siempre. Se va sin dar más explicaciones, dejándola sola a punto de dar a luz. Ahora, ella investiga el porqué.",
-      "inicio": "2026-10-22T05:55:00",
-      "fin": "2026-10-22T07:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cortometrajes",
-      "descripcion": "Espacio para la emisión de producciones de corta duración.",
-      "inicio": "2026-10-22T07:15:00",
-      "fin": "2026-10-22T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cortometrajes.jpg"
-    },
     {
       "titulo": "Película",
       "descripcion": "Arte cinematográfico mundial.",
       "inicio": "2026-10-22T07:30:00",
       "fin": "2026-10-22T12:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pelicula.jpg"
+    },
+    {
+      "titulo": "Película",
+      "descripcion": "Arte cinematográfico mundial.",
+      "inicio": "2026-10-22T12:35:00",
+      "fin": "2026-10-22T18:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pelicula.jpg"
+    },
+    {
+      "titulo": "Película",
+      "descripcion": "Arte cinematográfico mundial.",
+      "inicio": "2026-10-22T18:25:00",
+      "fin": "2026-10-22T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pelicula.jpg"
+    },
+    {
+      "titulo": "Película",
+      "descripcion": "Arte cinematográfico mundial.",
+      "inicio": "2026-10-22T23:00:00",
+      "fin": "2026-10-23T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pelicula.jpg"
+    },
+    {
+      "titulo": "Película",
+      "descripcion": "Arte cinematográfico mundial.",
+      "inicio": "2026-10-23T04:00:00",
+      "fin": "2026-10-23T06:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pelicula.jpg"
+    },
+    {
+      "titulo": "Cortometrajes",
+      "descripcion": "Espacio para la emisión de producciones de corta duración.",
+      "inicio": "2026-10-23T06:55:00",
+      "fin": "2026-10-23T07:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cortometrajes.jpg"
+    },
+    {
+      "titulo": "Película",
+      "descripcion": "Arte cinematográfico mundial.",
+      "inicio": "2026-10-23T07:15:00",
+      "fin": "2026-10-23T12:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pelicula.jpg"
     }
   ]
