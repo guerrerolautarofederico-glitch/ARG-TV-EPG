@@ -1,102 +1,95 @@
 {
   "actual": {
-    "titulo": "Caminando entre tumbas",
-    "descripcion": "Matt Scudder, un expolicía de Nueva York, trabaja como detective privado a pesar de que no tiene licencia. Cuando accede a regañadientes a ayudar a un traficante de heroína a cazar a los hombres que secuestraron y asesinaron brutalmente a su esposa, descubre que no es la primera vez que esos hombres han cometido este tipo de crímenes. Entonces decide recorrer las calles de Nueva York para detener a los asesinos antes de que vuelvan a matar.",
-    "inicio": "2026-10-22T07:55:00",
-    "fin": "2026-10-22T10:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/caminandoentretumbas.jpg"
-  },
-  "siguiente": {
     "titulo": "Planet Action",
     "descripcion": "Un espacio único que reúne los detrás de cámaras de las películas de acción más relevantes de Hollywood.",
-    "inicio": "2026-10-22T10:00:00",
-    "fin": "2026-10-22T14:00:00",
+    "inicio": "2026-10-23T08:15:00",
+    "fin": "2026-10-23T14:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planetaction.jpg"
   },
+  "siguiente": {
+    "titulo": "Sin aire",
+    "descripcion": "Un viaje para realizar submarinismo en aguas profundas se convierte en una lucha por la supervivencia para dos hermanas cuando un desprendimiento de tierra provoca que una de ellas quede atrapada bajo la superficie.",
+    "inicio": "2026-10-23T14:00:00",
+    "fin": "2026-10-23T15:40:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+  },
   "lista": [
-    {
-      "titulo": "Caminando entre tumbas",
-      "descripcion": "Matt Scudder, un expolicía de Nueva York, trabaja como detective privado a pesar de que no tiene licencia. Cuando accede a regañadientes a ayudar a un traficante de heroína a cazar a los hombres que secuestraron y asesinaron brutalmente a su esposa, descubre que no es la primera vez que esos hombres han cometido este tipo de crímenes. Entonces decide recorrer las calles de Nueva York para detener a los asesinos antes de que vuelvan a matar.",
-      "inicio": "2026-10-22T07:55:00",
-      "fin": "2026-10-22T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/caminandoentretumbas.jpg"
-    },
-    {
-      "titulo": "Planet Action",
-      "descripcion": "Un espacio único que reúne los detrás de cámaras de las películas de acción más relevantes de Hollywood.",
-      "inicio": "2026-10-22T10:00:00",
-      "fin": "2026-10-22T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planetaction.jpg"
-    },
-    {
-      "titulo": "Carnada",
-      "descripcion": "Un buzo es contratado para buscar una caja de diamantes robados que se extraviaron durante un accidente aéreo.",
-      "inicio": "2026-10-22T14:00:00",
-      "fin": "2026-10-22T15:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Héroe de centro comercial 2",
-      "descripcion": "Paul Blart lleva a su hija adolescente con él a Las Vegas a una exposición de guardias de seguridad. Mientras están ahí, él se enfrenta a un robo y tiene que detener a los criminales.",
-      "inicio": "2026-10-22T15:35:00",
-      "fin": "2026-10-22T17:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Rocky IV",
-      "descripcion": "Nuevas aventuras tanto personales como deportivas del boxeador Rocky Balboa, que en esta ocasión debe enfrentarse a un duro y frío boxeador soviético, llamado Ivan Drago.",
-      "inicio": "2026-10-22T17:25:00",
-      "fin": "2026-10-22T19:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rockyiv.jpg"
-    },
-    {
-      "titulo": "Siete almas",
-      "descripcion": "Ben Thomas es un inspector de Hacienda que comienza a contactar con determinadas personas con la aparente intención de ayudarles, a todos de diferentes maneras, sin que sepamos bien ni sus razones ni sus objetivos. Aparentemente Ben tiene un plan, pero cuando conoce a una de esas personas, la atractiva Emily, comienza a sentir algo por ella, complicándose sus misteriosos planes.",
-      "inicio": "2026-10-22T19:05:00",
-      "fin": "2026-10-22T21:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sietealmas.jpg"
-    },
-    {
-      "titulo": "Alfa",
-      "descripcion": "Hace 20 000 años, en plena glaciación, un joven resulta herido durante una cacería y sus compañeros se marchan, dándolo por muerto. El joven despierta y encuentra a un lobo que fue abandonado por su manada. Hombre y lobo intentarán sobrevivir juntos.",
-      "inicio": "2026-10-22T21:20:00",
-      "fin": "2026-10-22T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alfa.jpg"
-    },
-    {
-      "titulo": "Bajo el mismo cielo",
-      "descripcion": "Un contratista militar se encuentra en una encrucijada amorosa mientras trabaja en Hawái. Por un lado, Tracy, un viejo amor. Y por el otro, Allison, una dura piloto con la que conecta totalmente. Mientras su misión avanza, Tracy le desvelará algo trascendental acerca de su pasado.",
-      "inicio": "2026-10-22T23:00:00",
-      "fin": "2026-10-23T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bajoelmismocielo.jpg"
-    },
-    {
-      "titulo": "Ad Astra: hacia las estrellas",
-      "descripcion": "Roy McBride es un ingeniero que perdió a su padre en una misión sin retorno a Neptuno para encontrar signos de inteligencia extraterrestre. Veinte años después, emprende el mismo viaje a través del sistema solar para tratar de encontrarlo.",
-      "inicio": "2026-10-23T01:00:00",
-      "fin": "2026-10-23T03:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/adastrahacialasestrellas.jpg"
-    },
-    {
-      "titulo": "Hombre en llamas",
-      "descripcion": "Contratado como guardaespaldas de una niña de nueve años, hija de un rico empresario, un exagente de la CIA se venga de sus captores en México, una ciudad asediada por una ola de secuestros.",
-      "inicio": "2026-10-23T03:15:00",
-      "fin": "2026-10-23T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sicario",
-      "descripcion": "En la zona fronteriza que se extiende entre Estados Unidos y México la joven Kate Macer, una idealista agente del FBI, es reclutada por una fuerza de élite del Gobierno para luchar contra el narcotráfico. Bajo el mando de Matt Graver, un frío miembro de las fuerzas gubernamentales, y de Alejandro, un enigmático asesor, el equipo emprende una misión que lleva a la mujer a cuestionarse sus convicciones sobre la guerra contra los narcos y los límites de la ley.",
-      "inicio": "2026-10-23T06:00:00",
-      "fin": "2026-10-23T08:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sicario.jpg"
-    },
     {
       "titulo": "Planet Action",
       "descripcion": "Un espacio único que reúne los detrás de cámaras de las películas de acción más relevantes de Hollywood.",
       "inicio": "2026-10-23T08:15:00",
       "fin": "2026-10-23T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planetaction.jpg"
+    },
+    {
+      "titulo": "Sin aire",
+      "descripcion": "Un viaje para realizar submarinismo en aguas profundas se convierte en una lucha por la supervivencia para dos hermanas cuando un desprendimiento de tierra provoca que una de ellas quede atrapada bajo la superficie.",
+      "inicio": "2026-10-23T14:00:00",
+      "fin": "2026-10-23T15:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Luchando con mi familia",
+      "descripcion": "Paige, nacida y educada en una familia de luchadores ingleses, recibe la oportunidad con la que siempre soñó, entrar a formar parte del 🤼 [WWE] WWE. Sin embargo, las cosas no son tan idílicas: lo que obtiene es la posibilidad de ingresar, pero no es seguro.",
+      "inicio": "2026-10-23T15:40:00",
+      "fin": "2026-10-23T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Con la frente en alto",
+      "descripcion": "Un ex-soldado de las Fuerzas Especiales de EE. UU. regresa a su ciudad natal, ahora invadida por el crimen, las drogas y la violencia para convertirse en sheriff y limpiar el pueblo con la ayuda de su mejor amigo.",
+      "inicio": "2026-10-23T17:45:00",
+      "fin": "2026-10-23T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Alfa",
+      "descripcion": "Hace 20 000 años, en plena glaciación, un joven resulta herido durante una cacería y sus compañeros se marchan, dándolo por muerto. El joven despierta y encuentra a un lobo que fue abandonado por su manada. Hombre y lobo intentarán sobrevivir juntos.",
+      "inicio": "2026-10-23T19:15:00",
+      "fin": "2026-10-23T20:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alfa.jpg"
+    },
+    {
+      "titulo": "El caza recompensas",
+      "descripcion": "Milo Boyd, un cazarrecompensas que no pasa por su mejor momento, recibe el trabajo de sus sueños: debe encontrar a su exesposa, una reportera que ha violado su libertad condicional.",
+      "inicio": "2026-10-23T20:55:00",
+      "fin": "2026-10-23T22:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sr. y Sra. Smith",
+      "descripcion": "Jane y John Smith forman una pareja de vida acomodada dentro de un ordinario y monótono matrimonio suburbano. Además ambos ocultan algo por lo que su pareja mataría por saber: los dos son agentes secretos, asesinos increíblemente eficientes que trabajan para organizaciones que compiten entre sí. Además, un día el Sr. y la Sra. Smith descubren una nueva fuente de emoción en su matrimonio cuando se les contrata para asesinarse mutuamente, pues será entonces cuando comienza la verdadera diversión...",
+      "inicio": "2026-10-23T22:55:00",
+      "fin": "2026-10-24T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/srysrasmith.jpg"
+    },
+    {
+      "titulo": "El hombre del norte",
+      "descripcion": "El príncipe Amleth está a punto de convertirse en hombre pero, en ese momento, su tío asesina brutalmente a su padre y secuestra a la madre del niño. Dos décadas después, Amleth es un vikingo que tiene la misión de salvar a su madre.",
+      "inicio": "2026-10-24T01:00:00",
+      "fin": "2026-10-24T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elhombredelnorte.jpg"
+    },
+    {
+      "titulo": "El renacido",
+      "descripcion": "Durante una expedición en las tierras salvajes americanas, el legendario explorador Hugh Glass es brutalmente atacado por un oso y dado por muerto por los miembros de su propia partida de caza. En su cruzada por sobrevivir, Glass supera inimaginables tribulaciones, además de la traición de su confidente John Fitzgerald. Guiado por la pura determinación y el amor de su familia, Glass deberá superar un duro invierno mientras busca sin descanso un motivo para seguir adelante y encontrar la redención.",
+      "inicio": "2026-10-24T03:30:00",
+      "fin": "2026-10-24T06:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elrenacido.jpg"
+    },
+    {
+      "titulo": "El profesor Marston y la Mujer Maravilla",
+      "descripcion": "Basada en la vida del Dr. William Marston, psicólogo y teórico de Harvard, quien ayudó a crear el detector de mentiras y el famoso personaje ficticio de la Mujer Maravilla.",
+      "inicio": "2026-10-24T06:20:00",
+      "fin": "2026-10-24T08:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Making the Movies",
+      "descripcion": "Una mirada tras bastidores a cómo se crean algunas de las películas más taquilleras.",
+      "inicio": "2026-10-24T08:20:00",
+      "fin": "2026-10-24T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/makingthemovies.jpg"
     }
   ]
 }
