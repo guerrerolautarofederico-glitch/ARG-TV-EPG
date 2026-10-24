@@ -1,66 +1,101 @@
 {
   "actual": {
-    "titulo": "La Tetera",
-    "descripcion": "El primer y único matinal farandulero del streaming chileno.",
-    "inicio": "2026-10-23T08:00:00",
-    "fin": "2026-10-23T12:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/latetera.jpg"
-  },
-  "siguiente": {
     "titulo": "Música en La Nuestra",
     "descripcion": "Canciones para apañarte en todas.",
-    "inicio": "2026-10-23T12:00:00",
-    "fin": "2026-10-23T16:00:00",
+    "inicio": "2026-10-24T00:00:00",
+    "fin": "2026-10-24T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaenlanuestra.jpg"
   },
+  "siguiente": {
+    "titulo": "Así Es La Cosa",
+    "descripcion": "Conversaciones anecdóticas sobre situaciones de vida y temas de actualidad.",
+    "inicio": "2026-10-24T10:00:00",
+    "fin": "2026-10-24T11:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/asieslacosa.jpg"
+  },
   "lista": [
-    {
-      "titulo": "La Tetera",
-      "descripcion": "El primer y único matinal farandulero del streaming chileno.",
-      "inicio": "2026-10-23T08:00:00",
-      "fin": "2026-10-23T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/latetera.jpg"
-    },
-    {
-      "titulo": "Música en La Nuestra",
-      "descripcion": "Canciones para apañarte en todas.",
-      "inicio": "2026-10-23T12:00:00",
-      "fin": "2026-10-23T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaenlanuestra.jpg"
-    },
-    {
-      "titulo": "La Tetera",
-      "descripcion": "El primer y único matinal farandulero del streaming chileno.",
-      "inicio": "2026-10-23T16:00:00",
-      "fin": "2026-10-23T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/latetera.jpg"
-    },
-    {
-      "titulo": "Música en La Nuestra",
-      "descripcion": "Canciones para apañarte en todas.",
-      "inicio": "2026-10-23T18:00:00",
-      "fin": "2026-10-23T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaenlanuestra.jpg"
-    },
-    {
-      "titulo": "Ring City",
-      "descripcion": "La lucha libre chilena como nunca antes la viste, con los mejores combates de NGEN.",
-      "inicio": "2026-10-23T21:00:00",
-      "fin": "2026-10-23T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ringcity.jpg"
-    },
-    {
-      "titulo": "La Tetera",
-      "descripcion": "El primer y único matinal farandulero del streaming chileno.",
-      "inicio": "2026-10-23T22:00:00",
-      "fin": "2026-10-24T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/latetera.jpg"
-    },
     {
       "titulo": "Música en La Nuestra",
       "descripcion": "Canciones para apañarte en todas.",
       "inicio": "2026-10-24T00:00:00",
       "fin": "2026-10-24T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaenlanuestra.jpg"
+    },
+    {
+      "titulo": "Así Es La Cosa",
+      "descripcion": "Conversaciones anecdóticas sobre situaciones de vida y temas de actualidad.",
+      "inicio": "2026-10-24T10:00:00",
+      "fin": "2026-10-24T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/asieslacosa.jpg"
+    },
+    {
+      "titulo": "La Trombonera",
+      "descripcion": "Confesiones íntimas y chistosas que nos dejan grandes anécdotas.",
+      "inicio": "2026-10-24T11:00:00",
+      "fin": "2026-10-24T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/latrombonera.jpg"
+    },
+    {
+      "titulo": "Música en La Nuestra",
+      "descripcion": "Canciones para apañarte en todas.",
+      "inicio": "2026-10-24T12:00:00",
+      "fin": "2026-10-24T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaenlanuestra.jpg"
+    },
+    {
+      "titulo": "Modo Tech",
+      "descripcion": "Noticiero de tecnología de SuperGeek.cl en La Nuestra.",
+      "inicio": "2026-10-24T16:00:00",
+      "fin": "2026-10-24T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/modotech.jpg"
+    },
+    {
+      "titulo": "Los Resistidos",
+      "descripcion": "Debate sin tapujos sobre los últimos lanzamientos tecnológicos.",
+      "inicio": "2026-10-24T16:30:00",
+      "fin": "2026-10-24T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losresistidos.jpg"
+    },
+    {
+      "titulo": "Modo Tech",
+      "descripcion": "Noticiero de tecnología de SuperGeek.cl en La Nuestra.",
+      "inicio": "2026-10-24T17:30:00",
+      "fin": "2026-10-24T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/modotech.jpg"
+    },
+    {
+      "titulo": "Ring City",
+      "descripcion": "La lucha libre chilena como nunca antes la viste, con los mejores combates de NGEN.",
+      "inicio": "2026-10-24T18:00:00",
+      "fin": "2026-10-24T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ringcity.jpg"
+    },
+    {
+      "titulo": "Música en La Nuestra",
+      "descripcion": "Canciones para apañarte en todas.",
+      "inicio": "2026-10-24T19:00:00",
+      "fin": "2026-10-24T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaenlanuestra.jpg"
+    },
+    {
+      "titulo": "Así Es La Cosa",
+      "descripcion": "Conversaciones anecdóticas sobre situaciones de vida y temas de actualidad.",
+      "inicio": "2026-10-24T22:00:00",
+      "fin": "2026-10-24T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/asieslacosa.jpg"
+    },
+    {
+      "titulo": "La Trombonera",
+      "descripcion": "Confesiones íntimas y chistosas que nos dejan grandes anécdotas.",
+      "inicio": "2026-10-24T23:00:00",
+      "fin": "2026-10-25T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/latrombonera.jpg"
+    },
+    {
+      "titulo": "Música en La Nuestra",
+      "descripcion": "Canciones para apañarte en todas.",
+      "inicio": "2026-10-25T01:00:00",
+      "fin": "2026-10-25T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musicaenlanuestra.jpg"
     }
   ]

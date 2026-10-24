@@ -1,278 +1,19 @@
 {
   "actual": {
-    "titulo": "Le Journal de la RTBF",
-    "descripcion": "Los presentadores informan sobre las últimas noticias internacionales de última hora y los acontecimientos actuales en política, asuntos sociales y economía.",
-    "inicio": "2026-10-23T09:30:00",
-    "fin": "2026-10-23T10:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lejournaldelartbf.jpg"
+    "titulo": "Construire demain",
+    "descripcion": "La información de este programa no se encuentra disponible.",
+    "inicio": "2026-10-24T08:51:00",
+    "fin": "2026-10-24T09:21:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/construiredemain.jpg"
   },
   "siguiente": {
-    "titulo": "Télématin",
-    "descripcion": "Información sobre moda, salud, empleo, consumo, cocina y cultura, entre otros temas. Conducido por Flavie Flament y Julien Arnaud de lunes a viernes y con Maya Lauqué y Damien Thévenot los fines de semana.",
-    "inicio": "2026-10-23T10:00:00",
-    "fin": "2026-10-23T10:51:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telematin.jpg"
+    "titulo": "Outremer.l'info",
+    "descripcion": "Estreno ║ La información ultramarina encuentra su lugar en este formato. Se proporciona una cobertura más amplia y un mayor seguimiento de los ultramarinos que viven en Francia.",
+    "inicio": "2026-10-24T09:21:00",
+    "fin": "2026-10-24T09:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/outremerlinfo.jpg"
   },
   "lista": [
-    {
-      "titulo": "Le Journal de la RTBF",
-      "descripcion": "Los presentadores informan sobre las últimas noticias internacionales de última hora y los acontecimientos actuales en política, asuntos sociales y economía.",
-      "inicio": "2026-10-23T09:30:00",
-      "fin": "2026-10-23T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lejournaldelartbf.jpg"
-    },
-    {
-      "titulo": "Télématin",
-      "descripcion": "Información sobre moda, salud, empleo, consumo, cocina y cultura, entre otros temas. Conducido por Flavie Flament y Julien Arnaud de lunes a viernes y con Maya Lauqué y Damien Thévenot los fines de semana.",
-      "inicio": "2026-10-23T10:00:00",
-      "fin": "2026-10-23T10:51:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telematin.jpg"
-    },
-    {
-      "titulo": "Château !",
-      "descripcion": "El presentador André Manoukian visita los castillos más bellos de la región Centro-Val de Loire. Grandes o pequeños, antiguos o modernos, famosos o desconocidos, cada uno de estos hitos del patrimonio francés cuenta su propia historia.",
-      "inicio": "2026-10-23T10:51:00",
-      "fin": "2026-10-23T11:18:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chteau.jpg"
-    },
-    {
-      "titulo": "C'est du Belge",
-      "descripcion": "Periodistas, historiadores, cronistas y cantantes se reúnen.",
-      "inicio": "2026-10-23T11:18:00",
-      "fin": "2026-10-23T11:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cestdubelge.jpg"
-    },
-    {
-      "titulo": "Vroum",
-      "descripcion": "Espacio dedicado a los autos antiguos, desde los modelos más antiguos hasta los \"youngtimers\". Los coleccionistas y profesionales del mundo de los autos antiguos comparten su pasión y sus conocimientos.",
-      "inicio": "2026-10-23T11:45:00",
-      "fin": "2026-10-23T12:12:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vroum.jpg"
-    },
-    {
-      "titulo": "Outremer.gourmand",
-      "descripcion": "El chef Brice Laurent Dubois invita a personalidades del mundo de la gastronomía a explorar algunas de las mejores recetas de todo el mundo.",
-      "inicio": "2026-10-23T12:12:00",
-      "fin": "2026-10-23T12:38:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/outremergourmand.jpg"
-    },
-    {
-      "titulo": "Tout le monde veut prendre sa place",
-      "descripcion": "El juego en que todo el mundo puede convertirse en campeón.",
-      "inicio": "2026-10-23T12:38:00",
-      "fin": "2026-10-23T13:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/toutlemondeveutprendresaplace.jpg"
-    },
-    {
-      "titulo": "Itinéraires paysans",
-      "descripcion": "Los enfoques medioambientales, económicos y paisajísticos de los agricultores de Francia.",
-      "inicio": "2026-10-23T13:23:00",
-      "fin": "2026-10-23T13:37:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un si grand soleil",
-      "descripcion": "Tras 17 años de ausencia, Claire regresa a su ciudad natal en Montpellier con su hijo de 16 años, Théo. Ella huyó de su pasado y de sus padres después del suicidio de su hermana y vivió sola con su hijo en África, donde trabajó como enfermera.",
-      "inicio": "2026-10-23T13:37:00",
-      "fin": "2026-10-23T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/unsigrandsoleil.jpg"
-    },
-    {
-      "titulo": "64', le monde en français",
-      "descripcion": "La actualidad internacional descifrada por el mundo francófono de la mano de Mohamed Kaci y Clémentine Pawlotsky.",
-      "inicio": "2026-10-23T14:00:00",
-      "fin": "2026-10-23T14:27:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/64lemondeenfranais.jpg"
-    },
-    {
-      "titulo": "La p'tite librairie",
-      "descripcion": "François Busnel resalta obras emblemáticas de la literatura francófona.",
-      "inicio": "2026-10-23T14:27:00",
-      "fin": "2026-10-23T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Allons-y Franco!",
-      "descripcion": "Cada viernes, periodistas de los medios francófonos comparan sus puntos de vista sobre los sucesos más relevantes del mundo actual.",
-      "inicio": "2026-10-23T14:30:00",
-      "fin": "2026-10-23T14:54:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/allonsyfranco.jpg"
-    },
-    {
-      "titulo": "L'invité",
-      "descripcion": "Patrick Simonin recibe a los protagonistas de la actualidad, la cultura, la música, el cine, los libros, y todos los que hacen vibrar la época actual en un encuentro imperdible.",
-      "inicio": "2026-10-23T14:54:00",
-      "fin": "2026-10-23T15:03:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/linvite.jpg"
-    },
-    {
-      "titulo": "Ma vie, ma gueule",
-      "descripcion": "Barberie Bichette, alias Barbie, atraviesa una crisis existencial y acumula las peripecias a menudo cómicas. Un retrato íntimo de una mujer en tres actos: una comedia, una tragedia y una epifanía.",
-      "inicio": "2026-10-23T15:03:00",
-      "fin": "2026-10-23T16:39:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un bon garçon",
-      "descripcion": "Max, 16 años, talentoso nadador, se prepara para el ingreso en un programa de estudio y deporte. Entre los entrenamientos y las salidas con sus amigos, lleva la existencia de un adolescente común. Pero un día, cuando la policía llega para interrogar a su entrenador, acusado de abuso sexual, su vida organizada da un vuelco.",
-      "inicio": "2026-10-23T16:39:00",
-      "fin": "2026-10-23T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Le journal de la RTS",
-      "descripcion": "Estreno ║ Los presentadores informan sobre las últimas noticias y acontecimientos actuales en política, asuntos sociales y economía de países francófonos y otras regiones del mundo.",
-      "inicio": "2026-10-23T17:00:00",
-      "fin": "2026-10-23T17:27:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lejournaldelarts.jpg"
-    },
-    {
-      "titulo": "Slam",
-      "descripcion": "Toño ha logrado ascender en el difícil escalafón del periodismo hasta la categoría de sufrido becario y presta sus servicios en la revista musical Chill Out Magazine, en la que sólo uno de los dos becarios contratados este año puede quedarse en plantilla. Su rival en el puesto es Oliver, un niño de papá que quiere quedarse en la revista como sea. Toño tendrá que demostrar su capacidad para encontrar un buen reportaje. Pero, ¿Qué hacer para conseguir el puesto?",
-      "inicio": "2026-10-23T17:27:00",
-      "fin": "2026-10-23T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/slam.jpg"
-    },
-    {
-      "titulo": "TV5Monde, Le Journal Afrique",
-      "descripcion": "Estreno ║ La actualidad del continente africano.",
-      "inicio": "2026-10-23T18:00:00",
-      "fin": "2026-10-23T18:26:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Route du Rhum 2026 - Destination Guadeloupe",
-      "descripcion": "Regata transatlántica en solitario que une, cada cuatro años, Saint-Malo, en Bretaña, con Pointe-à-Pitre, en Guadalupe.",
-      "inicio": "2026-10-23T18:26:00",
-      "fin": "2026-10-23T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/routedurhum2026destinationguadeloupe.jpg"
-    },
-    {
-      "titulo": "Objectif Monde L'hebdo",
-      "descripcion": "Noticiero que aborda los principales asuntos geopolíticos de la actualidad mundial.",
-      "inicio": "2026-10-23T18:30:00",
-      "fin": "2026-10-23T18:56:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/objectifmondelhebdo.jpg"
-    },
-    {
-      "titulo": "Fauchées",
-      "descripcion": "Para saldar sus deudas, Suzanne y Mona venden las pertenencias de su abuela. Sin embargo, se deben enfrentar a compradores excéntricos, estafas y recuerdos, por lo que cada venta se convierte en una aventura.",
-      "inicio": "2026-10-23T18:56:00",
-      "fin": "2026-10-23T19:01:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fauchees.jpg"
-    },
-    {
-      "titulo": "Cousu",
-      "descripcion": "Se descubre el mundo a través de la moda y se embarca en un viaje, desde Argentina hasta Bélgica y Marruecos, para explorar la conexión entre la cultura y la moda.",
-      "inicio": "2026-10-23T19:01:00",
-      "fin": "2026-10-23T19:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cousu.jpg"
-    },
-    {
-      "titulo": "La rencontre, francophonie et ambassadeurs",
-      "descripcion": "Los embajadores revelan su propia manera de hacer suyo el francés como lengua viva. Lo realizan a través de las artes, con palabras que les han conmovido y textos que les acompañan.",
-      "inicio": "2026-10-23T19:55:00",
-      "fin": "2026-10-23T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larencontrefrancophonieetambassadeurs.jpg"
-    },
-    {
-      "titulo": "Le journal de France 2",
-      "descripcion": "Boletín de noticias francesas.",
-      "inicio": "2026-10-23T20:00:00",
-      "fin": "2026-10-23T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lejournaldefrance2.jpg"
-    },
-    {
-      "titulo": "[En vivo] La malédiction du lys",
-      "descripcion": "En vivo ║ Un hombre fue asesinado según un ritual reservado, dos siglos antes, para los esclavos negros fugitivos. Sus familiares provienen de una de las grandes familias de Burdeos y tienen un oscuro pasado ligado al tráfico de esclavos.",
-      "inicio": "2026-10-23T20:30:00",
-      "fin": "2026-10-23T22:03:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Destination Francophonie",
-      "descripcion": "Iván Kabacoff viaja a distintos lugares para conocer a francófonos que mantienen viva y dinámica la lengua francesa.",
-      "inicio": "2026-10-23T22:03:00",
-      "fin": "2026-10-23T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destinationfrancophonie.jpg"
-    },
-    {
-      "titulo": "L'actu",
-      "descripcion": "Estreno ║ Se presentan las últimas noticias sobre temas sociales, políticos, culturales y económicos de todo el mundo.",
-      "inicio": "2026-10-23T22:30:00",
-      "fin": "2026-10-23T23:01:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lactu.jpg"
-    },
-    {
-      "titulo": "Fragments",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-23T23:01:00",
-      "fin": "2026-10-24T00:27:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fragments.jpg"
-    },
-    {
-      "titulo": "Jeux d'influence • les combattantes",
-      "descripcion": "les combattantes | El director de marketing de una gran empresa de agroquímicos es descubierto ahogado en el Sena, tras una reacción política al pesticida de la empresa; luego su hija inicia una investigación interna sobre la empresa.",
-      "inicio": "2026-10-24T00:27:00",
-      "fin": "2026-10-24T02:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/jeuxdinfluence.jpg"
-    },
-    {
-      "titulo": "Le 6h00 info",
-      "descripcion": "Estreno ║ El noticiero de las 6:00, hora de París, realizado por la redacción de France Télévisions.",
-      "inicio": "2026-10-24T02:20:00",
-      "fin": "2026-10-24T02:46:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/le6h00info.jpg"
-    },
-    {
-      "titulo": "C dans l'air",
-      "descripcion": "Se descifran los temas que integran la portada de los periódicos. Invitados y periodistas analizan los grandes acontecimientos del momento para comprender mejor la actualidad social, política y cultural.",
-      "inicio": "2026-10-24T02:46:00",
-      "fin": "2026-10-24T03:53:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cdanslair.jpg"
-    },
-    {
-      "titulo": "Ma vie, ma gueule",
-      "descripcion": "Barberie Bichette, alias Barbie, atraviesa una crisis existencial y acumula las peripecias a menudo cómicas. Un retrato íntimo de una mujer en tres actos: una comedia, una tragedia y una epifanía.",
-      "inicio": "2026-10-24T03:53:00",
-      "fin": "2026-10-24T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Le téléjournal de radio-canada",
-      "descripcion": "El presentador analiza las últimas noticias de Canadá, cubriendo los avances en materia de gobierno, sociedad y política.",
-      "inicio": "2026-10-24T06:00:00",
-      "fin": "2026-10-24T06:27:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/letelejournalderadiocanada.jpg"
-    },
-    {
-      "titulo": "Télématin",
-      "descripcion": "Información sobre moda, salud, empleo, consumo, cocina y cultura, entre otros temas. Conducido por Flavie Flament y Julien Arnaud de lunes a viernes y con Maya Lauqué y Damien Thévenot los fines de semana.",
-      "inicio": "2026-10-24T06:27:00",
-      "fin": "2026-10-24T07:18:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telematin.jpg"
-    },
-    {
-      "titulo": "Démo de mode",
-      "descripcion": "En ocasión de los desfiles parisinos, prêt-à-porter y alta costura, Viviane Blassel invita a creadores a ver su propio desfile y a expresarse sobre sus modelos, en un lugar como en casa, propicio para la intimidad y la complicidad.",
-      "inicio": "2026-10-24T07:18:00",
-      "fin": "2026-10-24T07:32:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/demodemode.jpg"
-    },
-    {
-      "titulo": "Suisse en scène",
-      "descripcion": "Se entrevista a una personalidad del panorama cultural suizo, con la oportunidad de repasar su trayectoria y las principales líneas que sustentan su obra.",
-      "inicio": "2026-10-24T07:32:00",
-      "fin": "2026-10-24T07:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/suisseenscne.jpg"
-    },
-    {
-      "titulo": "Silence ça pousse !",
-      "descripcion": "Programa de horticultura dando consejos sobre el jardín.",
-      "inicio": "2026-10-24T07:59:00",
-      "fin": "2026-10-24T08:51:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/silenceapousse.jpg"
-    },
     {
       "titulo": "Construire demain",
       "descripcion": "La información de este programa no se encuentra disponible.",
@@ -293,6 +34,293 @@
       "inicio": "2026-10-24T09:30:00",
       "fin": "2026-10-24T09:59:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lejournaldelartbf.jpg"
+    },
+    {
+      "titulo": "Histoires et leçons",
+      "descripcion": "Las historias viajan a través del tiempo y el espacio y transmiten valores humanos universales. ¡Un cuento de un país diferente en cada episodio!",
+      "inicio": "2026-10-24T09:59:00",
+      "fin": "2026-10-24T10:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/histoiresetleons.jpg"
+    },
+    {
+      "titulo": "Les mini-héros de la forêt",
+      "descripcion": "Juliette, Gastón, Jade y Gabin, cuatro amigos, viven en el mundo encantado de Merfeuillu. Vestidos con una capa y una máscara, los cuatro mini héroes del bosque resuelven problemas, protegen su entorno y superan sus miedos.",
+      "inicio": "2026-10-24T10:02:00",
+      "fin": "2026-10-24T10:09:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lesminiherosdelafort.jpg"
+    },
+    {
+      "titulo": "My Class",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-24T10:09:00",
+      "fin": "2026-10-24T10:17:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/myclass.jpg"
+    },
+    {
+      "titulo": "Woolly Woolly",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-24T10:17:00",
+      "fin": "2026-10-24T10:28:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/woollywoolly.jpg"
+    },
+    {
+      "titulo": "Ta vie sans ça",
+      "descripcion": "Un homenaje humorístico a objetos cotidianos cuyo origen desconocemos, pero que hacen la vida mucho más fácil.",
+      "inicio": "2026-10-24T10:28:00",
+      "fin": "2026-10-24T10:31:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/taviesansa.jpg"
+    },
+    {
+      "titulo": "Jad et ses sœurs",
+      "descripcion": "Ranya y Syrine, dos hermanas gemelas, son tan adorables como inseparables. Su vida es alegre y llena de pequeñas aventuras cotidianas, pero todo cambia de repente con la llegada de su hermanito, Jad.",
+      "inicio": "2026-10-24T10:31:00",
+      "fin": "2026-10-24T10:34:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/jadetsessurs.jpg"
+    },
+    {
+      "titulo": "Capitaine tonus",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-24T10:34:00",
+      "fin": "2026-10-24T10:37:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/capitainetonus.jpg"
+    },
+    {
+      "titulo": "Compostman et moi",
+      "descripcion": "Charlie, de seis años y medio, conoce a Compostman, un gigante vegetal que transforma su vida en la ciudad. Juntos viven aventuras ecológicas divertidas e inspiradoras, que les enseñan a los niños cómo reconectarse con la naturaleza en el día a día.",
+      "inicio": "2026-10-24T10:37:00",
+      "fin": "2026-10-24T10:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/compostmanetmoi.jpg"
+    },
+    {
+      "titulo": "Il est une fois",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-24T10:59:00",
+      "fin": "2026-10-24T11:06:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ilestunefois.jpg"
+    },
+    {
+      "titulo": "Les Gardes Chimères",
+      "descripcion": "Wendy y Thelma se preparan para pasar las vacaciones de verano en casa de Walter, un anciano que vive en plena naturaleza. Como son polos opuestos y están lejos de sus costumbres urbanas, temen que las semanas se hagan interminables.",
+      "inicio": "2026-10-24T11:06:00",
+      "fin": "2026-10-24T11:17:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lesgardeschimres.jpg"
+    },
+    {
+      "titulo": "Cirkus",
+      "descripcion": "Un operador de circo y sus amigos gimnastas pertenecientes a una gran compañía hacen malabarismos con sus vidas e intentan traer de vuelta la extinta cultura circense al público.",
+      "inicio": "2026-10-24T11:17:00",
+      "fin": "2026-10-24T11:39:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cirkus.jpg"
+    },
+    {
+      "titulo": "1001 Mondes Antiques",
+      "descripcion": "Braillard, Colombe y Lablatte viajan a través del tiempo y de las civilizaciones antiguas.",
+      "inicio": "2026-10-24T11:39:00",
+      "fin": "2026-10-24T11:43:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/1001mondesantiques.jpg"
+    },
+    {
+      "titulo": "Les super pouvoirs du vivant",
+      "descripcion": "El mundo animal rebosa de criaturas con poderes extraordinarios. Para tornar accesible la formidable inventiva de la naturaleza y la importancia capital de preservarla, se muestra este fascinante viaje, poético y gracioso.",
+      "inicio": "2026-10-24T11:43:00",
+      "fin": "2026-10-24T11:48:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lessuperpouvoirsduvivant.jpg"
+    },
+    {
+      "titulo": "Mission info",
+      "descripcion": "Un programa de actualidad para infantes de entre 7 a 11 años.",
+      "inicio": "2026-10-24T11:48:00",
+      "fin": "2026-10-24T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/missioninfo.jpg"
+    },
+    {
+      "titulo": "Diner à la ferme: l'esprit de famille",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-24T12:00:00",
+      "fin": "2026-10-24T12:48:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dinerlafermelespritdefamille.jpg"
+    },
+    {
+      "titulo": "Cousu",
+      "descripcion": "Se descubre el mundo a través de la moda y se embarca en un viaje, desde Argentina hasta Bélgica y Marruecos, para explorar la conexión entre la cultura y la moda.",
+      "inicio": "2026-10-24T12:48:00",
+      "fin": "2026-10-24T13:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cousu.jpg"
+    },
+    {
+      "titulo": "Parlons éco",
+      "descripcion": "Se analizan las principales tendencias del momento y se recibe a mujeres y hombres que emprenden, innovan e imaginan la economía del futuro.",
+      "inicio": "2026-10-24T13:45:00",
+      "fin": "2026-10-24T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/parlonseco.jpg"
+    },
+    {
+      "titulo": "64', le monde en français",
+      "descripcion": "La actualidad internacional descifrada por el mundo francófono de la mano de Mohamed Kaci y Clémentine Pawlotsky.",
+      "inicio": "2026-10-24T14:00:00",
+      "fin": "2026-10-24T14:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/64lemondeenfranais.jpg"
+    },
+    {
+      "titulo": "Terriennes",
+      "descripcion": "Un espacio francófono en el que se analiza la condición femenina en el mundo.",
+      "inicio": "2026-10-24T14:23:00",
+      "fin": "2026-10-24T14:27:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/terriennes.jpg"
+    },
+    {
+      "titulo": "La p'tite librairie",
+      "descripcion": "François Busnel resalta obras emblemáticas de la literatura francófona.",
+      "inicio": "2026-10-24T14:27:00",
+      "fin": "2026-10-24T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "64', le monde en français",
+      "descripcion": "La actualidad internacional descifrada por el mundo francófono de la mano de Mohamed Kaci y Clémentine Pawlotsky.",
+      "inicio": "2026-10-24T14:30:00",
+      "fin": "2026-10-24T14:54:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/64lemondeenfranais.jpg"
+    },
+    {
+      "titulo": "L'invité",
+      "descripcion": "Patrick Simonin recibe a los protagonistas de la actualidad, la cultura, la música, el cine, los libros, y todos los que hacen vibrar la época actual en un encuentro imperdible.",
+      "inicio": "2026-10-24T14:54:00",
+      "fin": "2026-10-24T15:03:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/linvite.jpg"
+    },
+    {
+      "titulo": "Le match dans le match",
+      "descripcion": "Personalidades del mundo del deporte repasan una competición, una carrera o un momento importante en su vida.",
+      "inicio": "2026-10-24T15:03:00",
+      "fin": "2026-10-24T15:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lematchdanslematch.jpg"
+    },
+    {
+      "titulo": "Fútbol Ligue 1",
+      "descripcion": "Acción del campeonato francés de fútbol de Primera División.",
+      "inicio": "2026-10-24T15:40:00",
+      "fin": "2026-10-24T17:44:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolligue1.jpg"
+    },
+    {
+      "titulo": "Questions pour un champion",
+      "descripcion": "Un juego que conjuga cultura y entretenimiento y que pone a prueba la velocidad, los reflejos y los conocimientos.",
+      "inicio": "2026-10-24T17:44:00",
+      "fin": "2026-10-24T18:17:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/questionspourunchampion.jpg"
+    },
+    {
+      "titulo": "TV5Monde, Le Journal Afrique",
+      "descripcion": "Estreno ║ La actualidad del continente africano.",
+      "inicio": "2026-10-24T18:17:00",
+      "fin": "2026-10-24T18:43:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Route du Rhum 2026 - Destination Guadeloupe",
+      "descripcion": "Regata transatlántica en solitario que une, cada cuatro años, Saint-Malo, en Bretaña, con Pointe-à-Pitre, en Guadalupe.",
+      "inicio": "2026-10-24T18:43:00",
+      "fin": "2026-10-24T18:47:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/routedurhum2026destinationguadeloupe.jpg"
+    },
+    {
+      "titulo": "La grande galerie francophone",
+      "descripcion": "Ali Baddou y sus columnistas reciben a los artistas francófonos más relevantes de la actualidad en un espacio de intercambios, creaciones y sorpresas que celebra el arte y lo comparte con el mundo.",
+      "inicio": "2026-10-24T18:47:00",
+      "fin": "2026-10-24T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lagrandegaleriefrancophone.jpg"
+    },
+    {
+      "titulo": "Le journal de France 2",
+      "descripcion": "Boletín de noticias francesas.",
+      "inicio": "2026-10-24T20:00:00",
+      "fin": "2026-10-24T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lejournaldefrance2.jpg"
+    },
+    {
+      "titulo": "[En vivo] L'acrobate",
+      "descripcion": "En vivo ║ La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-24T20:30:00",
+      "fin": "2026-10-24T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Le Journal de la RTBF",
+      "descripcion": "Los presentadores informan sobre las últimas noticias internacionales de última hora y los acontecimientos actuales en política, asuntos sociales y economía.",
+      "inicio": "2026-10-24T22:30:00",
+      "fin": "2026-10-24T22:56:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lejournaldelartbf.jpg"
+    },
+    {
+      "titulo": "Lio",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-24T22:56:00",
+      "fin": "2026-10-24T23:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lio.jpg"
+    },
+    {
+      "titulo": "Les 50 ans de Sttellla",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-24T23:55:00",
+      "fin": "2026-10-25T01:11:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "C dans l'air",
+      "descripcion": "Se descifran los temas que integran la portada de los periódicos. Invitados y periodistas analizan los grandes acontecimientos del momento para comprender mejor la actualidad social, política y cultural.",
+      "inicio": "2026-10-25T01:11:00",
+      "fin": "2026-10-25T02:18:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cdanslair.jpg"
+    },
+    {
+      "titulo": "OPJ, Pacifique Sud",
+      "descripcion": "La brigada de la comandante Clarissa Hoarau recibe a un nuevo oficial proveniente de París.",
+      "inicio": "2026-10-25T02:18:00",
+      "fin": "2026-10-25T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/opjpacifiquesud.jpg"
+    },
+    {
+      "titulo": "Le téléjournal de radio-canada",
+      "descripcion": "El presentador analiza las últimas noticias de Canadá, cubriendo los avances en materia de gobierno, sociedad y política.",
+      "inicio": "2026-10-25T06:00:00",
+      "fin": "2026-10-25T06:22:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/letelejournalderadiocanada.jpg"
+    },
+    {
+      "titulo": "Ça va l'faire!",
+      "descripcion": "Un equipo de columnistas trabaja sin descanso para reunir las últimas noticias de la región, desde el medio ambiente hasta el bienestar.",
+      "inicio": "2026-10-25T06:22:00",
+      "fin": "2026-10-25T07:18:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/avalfaire.jpg"
+    },
+    {
+      "titulo": "Démo de mode",
+      "descripcion": "En ocasión de los desfiles parisinos, prêt-à-porter y alta costura, Viviane Blassel invita a creadores a ver su propio desfile y a expresarse sobre sus modelos, en un lugar como en casa, propicio para la intimidad y la complicidad.",
+      "inicio": "2026-10-25T07:18:00",
+      "fin": "2026-10-25T07:32:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/demodemode.jpg"
+    },
+    {
+      "titulo": "Diner à la ferme: l'esprit de famille",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-25T07:32:00",
+      "fin": "2026-10-25T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dinerlafermelespritdefamille.jpg"
+    },
+    {
+      "titulo": "À Bon Entendeur",
+      "descripcion": "Programa que prueba todos los productos, compara precios, descubre fraudes, pone en alerta a los consumidores e interpela a los fabricantes.",
+      "inicio": "2026-10-25T08:30:00",
+      "fin": "2026-10-25T08:58:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bonentendeur.jpg"
+    },
+    {
+      "titulo": "Hep taxi!",
+      "descripcion": "En la ciudad o en el campo, de día o de noche, Jérôme Colin, el animador y conductor de taxi, embarca a su prestigioso cliente en un paseo en cuatro ruedas, propicio para las confidencias.",
+      "inicio": "2026-10-25T08:58:00",
+      "fin": "2026-10-25T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/heptaxi.jpg"
     }
   ]
 }

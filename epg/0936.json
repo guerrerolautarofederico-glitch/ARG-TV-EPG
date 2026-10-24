@@ -1,87 +1,136 @@
 {
   "actual": {
-    "titulo": "Mshow",
-    "descripcion": "A diario, toda la actualidad de la televisión, el cine y el teatro, además de llevar a cabo la más completa cobertura de los eventos más importantes y entrevistas exclusivas con los protagonistas absolutos de la farándula.",
-    "inicio": "2026-10-23T02:30:00",
-    "fin": "2026-10-24T00:00:00",
+    "titulo": "Vida Purita",
+    "descripcion": "Un programa de bienestar y estilo de vida que aborda la alimentación saludable, el bienestar emocional y los hábitos que contribuyen a una mejor calidad de vida.",
+    "inicio": "2026-10-24T09:00:00",
+    "fin": "2026-10-24T09:35:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Mundo moda",
-    "descripcion": "Moda, belleza y estilo en un solo lugar.",
-    "inicio": "2026-10-24T00:00:00",
-    "fin": "2026-10-24T00:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "El Chavo del 8",
+    "descripcion": "Las vivencias de un grupo de personas que habitan en una vecindad mexicana, donde el Chavo junto con sus amigos, llevan a cabo travesuras que ocasionan malentendidos y discusiones entre los mismos vecinos.",
+    "inicio": "2026-10-24T09:35:00",
+    "fin": "2026-10-24T12:48:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
   },
   "lista": [
     {
-      "titulo": "Mshow",
-      "descripcion": "A diario, toda la actualidad de la televisión, el cine y el teatro, además de llevar a cabo la más completa cobertura de los eventos más importantes y entrevistas exclusivas con los protagonistas absolutos de la farándula.",
-      "inicio": "2026-10-23T02:30:00",
-      "fin": "2026-10-24T00:00:00",
+      "titulo": "Vida Purita",
+      "descripcion": "Un programa de bienestar y estilo de vida que aborda la alimentación saludable, el bienestar emocional y los hábitos que contribuyen a una mejor calidad de vida.",
+      "inicio": "2026-10-24T09:00:00",
+      "fin": "2026-10-24T09:35:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Mundo moda",
-      "descripcion": "Moda, belleza y estilo en un solo lugar.",
-      "inicio": "2026-10-24T00:00:00",
-      "fin": "2026-10-24T00:30:00",
+      "titulo": "El Chavo del 8",
+      "descripcion": "Las vivencias de un grupo de personas que habitan en una vecindad mexicana, donde el Chavo junto con sus amigos, llevan a cabo travesuras que ocasionan malentendidos y discusiones entre los mismos vecinos.",
+      "inicio": "2026-10-24T09:35:00",
+      "fin": "2026-10-24T12:48:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
+    },
+    {
+      "titulo": "Chappie",
+      "descripcion": "En un futuro cercano, la policía mecanizada controla el crimen. Cuando un droide de la policía, Chappie, es robado y se le da una nueva programación, se convierte en el primer robot con la capacidad de pensar y sentir por sí mismo.",
+      "inicio": "2026-10-24T12:48:00",
+      "fin": "2026-10-24T14:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chappie.jpg"
+    },
+    {
+      "titulo": "Sólo tres días",
+      "descripcion": "John Brennan, su mujer Lara y su hijo Luke llevan una vida feliz, que experimenta un vuelco dramático cuando ella es acusada de asesinato y condenada a veinte años de prisión. Su marido hará todo lo posible para sacarla de la cárcel.",
+      "inicio": "2026-10-24T14:50:00",
+      "fin": "2026-10-24T17:09:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Construyendo sueños TV",
-      "descripcion": "Un programa donde Paula Trapani nos muestra que es posible cumplir el sueño de tener la casa propia.",
-      "inicio": "2026-10-24T00:30:00",
-      "fin": "2026-10-24T01:00:00",
+      "titulo": "Juego de secretos",
+      "descripcion": "El oficial de la CIA, Harris, y su compañero están en una base secreta interrogando a un sospechoso de terrorismo cuando su misión da un giro mortal.",
+      "inicio": "2026-10-24T17:09:00",
+      "fin": "2026-10-24T18:43:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La ciudad de mentiras",
+      "descripcion": "El detective del Departamento de Policía de Los Ángeles, Russell Poole, ha pasado años tratando de resolver su caso más importante: los asesinatos de The Notorious B.I.G. y Tupac Shakur, pero después de dos décadas, la investigación permanece abierta. Jack Jackson, un reportero desesperado por salvar su reputación y su carrera, está decidido a averiguar por qué. En busca de la verdad, los dos se unen y desentrañan una red creciente de corrupción institucional y mentiras. Basada en el libro LAbyrinth de Randall Sullivan.",
+      "inicio": "2026-10-24T18:43:00",
+      "fin": "2026-10-24T20:37:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laciudaddementiras.jpg"
+    },
+    {
+      "titulo": "Swordfish: acceso autorizado",
+      "descripcion": "Stanley Jobson, un experto en informática, es requerido por Gabriel Shear para que le ayude a decodificar un complicado código de seguridad. Jobson, exconvicto, planea usar su tajada para recuperar la custodia de su hija.",
+      "inicio": "2026-10-24T20:37:00",
+      "fin": "2026-10-24T22:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Analízate",
+      "descripcion": "Paul Vitti está a punto de cumplir su condena, y los agentes del FBI que lo controlan están desconcertados. Día tras día observan cómo se sumerge en un estado semi catatónico. Sólo su psiquiatra podrá salvarlo.",
+      "inicio": "2026-10-24T22:20:00",
+      "fin": "2026-10-25T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Medical Hair TV",
       "descripcion": "Medical Hair es un infomercial sobre tratamientos capilares. En el mismo rotan en cada salida, las personas entrevistadas, quienes cuentan sus experiencias.",
-      "inicio": "2026-10-24T01:00:00",
-      "fin": "2026-10-24T01:30:00",
+      "inicio": "2026-10-25T00:00:00",
+      "fin": "2026-10-25T00:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Dar en la nota",
       "descripcion": "Un programa de entrevistas donde conversamos con artistas y figuras del espectáculo.",
-      "inicio": "2026-10-24T01:30:00",
-      "fin": "2026-10-24T02:00:00",
+      "inicio": "2026-10-25T00:30:00",
+      "fin": "2026-10-25T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Interés mutuo",
-      "descripcion": "Aborda temas que son de interés general, como el cuidado de la salud, la educación, el turismo, el entretenimiento, las nuevas tecnologías, y el trabajo de la gente en distintos lugares de nuestro país y su cultura.",
-      "inicio": "2026-10-24T02:00:00",
-      "fin": "2026-10-24T02:30:00",
+      "titulo": "Mundo moda • Emisión del día domingo",
+      "descripcion": "Emisión del día domingo | Moda, belleza y estilo en un solo lugar.",
+      "inicio": "2026-10-25T01:00:00",
+      "fin": "2026-10-25T01:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Mshow",
-      "descripcion": "A diario, toda la actualidad de la televisión, el cine y el teatro, además de llevar a cabo la más completa cobertura de los eventos más importantes y entrevistas exclusivas con los protagonistas absolutos de la farándula.",
-      "inicio": "2026-10-24T02:30:00",
-      "fin": "2026-10-24T03:30:00",
+      "titulo": "Cirujanos",
+      "descripcion": "Cuatro doctores que harán que cada participante se sienta mejor en salud y estética.",
+      "inicio": "2026-10-25T01:30:00",
+      "fin": "2026-10-25T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Construyendo sueños TV • Emisión del día miércoles",
+      "descripcion": "Emisión del día miércoles | Un programa donde Paula Trapani nos muestra que es posible cumplir el sueño de tener la casa propia.",
+      "inicio": "2026-10-25T02:00:00",
+      "fin": "2026-10-25T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Medical Hair TV",
+      "descripcion": "Medical Hair es un infomercial sobre tratamientos capilares. En el mismo rotan en cada salida, las personas entrevistadas, quienes cuentan sus experiencias.",
+      "inicio": "2026-10-25T02:30:00",
+      "fin": "2026-10-25T03:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Ciudad Magazine",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-24T03:30:00",
-      "fin": "2026-10-24T04:00:00",
+      "inicio": "2026-10-25T03:30:00",
+      "fin": "2026-10-25T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Ciudad Magazine",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-24T04:00:00",
-      "fin": "2026-10-24T08:00:00",
+      "inicio": "2026-10-25T04:00:00",
+      "fin": "2026-10-25T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Ciudad Magazine",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-24T08:00:00",
-      "fin": "2026-10-24T12:00:00",
+      "inicio": "2026-10-25T08:00:00",
+      "fin": "2026-10-25T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

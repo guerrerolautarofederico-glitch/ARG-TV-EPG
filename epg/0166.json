@@ -1,333 +1,305 @@
 {
   "actual": {
-    "titulo": "Cocinando La Ruta Austral",
-    "descripcion": "El Chef Sergi Arola recorre nuestro pais, conociendo pueblos perdidos y personas que le mostraran tradiciones y emotivas historias todas conectadas con la gastronomía.",
-    "inicio": "2026-10-23T09:00:00",
-    "fin": "2026-10-23T09:48:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cocinandolarutaaustral.jpg"
+    "titulo": "Wild Chile",
+    "descripcion": "René Araneda, chileno, guía profesional de safari y la inglesa radicada en Chile Sussanah Buchan, oceanógrafa, recorren nuestro país por cielo, tierra y mar, tras la huella de 8 de los animales más atractivos de la fauna Chilena.",
+    "inicio": "2026-10-24T09:00:00",
+    "fin": "2026-10-24T10:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/wildchile.jpg"
   },
   "siguiente": {
-    "titulo": "Nota Sabingo",
-    "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-    "inicio": "2026-10-23T09:48:00",
-    "fin": "2026-10-23T10:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    "titulo": "Menú de Chile",
+    "descripcion": "El gran chef Sergi Arola nos invita a recorrer Chile, para descubrir la diversidad gastronómica de su cultura. Aquí reviviremos platos icónicos de cada región del país, acompañado de grandes historias de cada uno de los lugares visitados.",
+    "inicio": "2026-10-24T10:00:00",
+    "fin": "2026-10-24T10:40:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/menudechile.jpg"
   },
   "lista": [
-    {
-      "titulo": "Cocinando La Ruta Austral",
-      "descripcion": "El Chef Sergi Arola recorre nuestro pais, conociendo pueblos perdidos y personas que le mostraran tradiciones y emotivas historias todas conectadas con la gastronomía.",
-      "inicio": "2026-10-23T09:00:00",
-      "fin": "2026-10-23T09:48:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cocinandolarutaaustral.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-23T09:48:00",
-      "fin": "2026-10-23T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Islas de Chile",
-      "descripcion": "Un recorrido junto a Cristian Riquelme por las islas de Chile, para conocer la diversidad de geográfica del país, así como también la diversa fauna. En estos viajes , el público descubrirá además, hermosas historias de los habitantes.",
-      "inicio": "2026-10-23T10:00:00",
-      "fin": "2026-10-23T10:49:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/islasdechile.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-23T10:49:00",
-      "fin": "2026-10-23T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "De Mar A Cordillera",
-      "descripcion": "Emilia Daiber viaja de norte a sur conociendo las distintas realidades que viven los habitantes del mar y la cordillera de Chile.",
-      "inicio": "2026-10-23T11:00:00",
-      "fin": "2026-10-23T11:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/demaracordillera.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-23T11:40:00",
-      "fin": "2026-10-23T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Menú de Chile",
-      "descripcion": "El gran chef Sergi Arola nos invita a recorrer Chile, para descubrir la diversidad gastronómica de su cultura. Aquí reviviremos platos icónicos de cada región del país, acompañado de grandes historias de cada uno de los lugares visitados.",
-      "inicio": "2026-10-23T12:00:00",
-      "fin": "2026-10-23T12:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/menudechile.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-23T12:40:00",
-      "fin": "2026-10-23T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Islas del Mundo",
-      "descripcion": "La periodista, Sol Leyton recorre islas de distintos rincones del planeta. Conoce la cultura, historia y tradiciones de comunidades que viven rodeadas por el mar. Un viaje por territorios únicos y su identidad.",
-      "inicio": "2026-10-23T13:00:00",
-      "fin": "2026-10-23T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/islasdelmundo.jpg"
-    },
-    {
-      "titulo": "A orillas del camino",
-      "descripcion": "Juan Pablo Queraltó viaja por distintos caminos y carreteras de nuestro pais, donde nos llevara por distintos recorridos a conocer lugares, personajes y comidas de nuestro país.",
-      "inicio": "2026-10-23T14:00:00",
-      "fin": "2026-10-23T14:47:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aorillasdelcamino.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-23T14:47:00",
-      "fin": "2026-10-23T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Islas de Chile",
-      "descripcion": "Un recorrido junto a Cristian Riquelme por las islas de Chile, para conocer la diversidad de geográfica del país, así como también la diversa fauna. En estos viajes , el público descubrirá además, hermosas historias de los habitantes.",
-      "inicio": "2026-10-23T15:00:00",
-      "fin": "2026-10-23T15:47:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/islasdechile.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-23T15:47:00",
-      "fin": "2026-10-23T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Menú de Chile",
-      "descripcion": "El gran chef Sergi Arola nos invita a recorrer Chile, para descubrir la diversidad gastronómica de su cultura. Aquí reviviremos platos icónicos de cada región del país, acompañado de grandes historias de cada uno de los lugares visitados.",
-      "inicio": "2026-10-23T16:00:00",
-      "fin": "2026-10-23T16:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/menudechile.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-23T16:40:00",
-      "fin": "2026-10-23T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Familias De Mercado",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-23T17:00:00",
-      "fin": "2026-10-23T17:46:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/familiasdemercado.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-23T17:46:00",
-      "fin": "2026-10-23T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "De Mar A Cordillera",
-      "descripcion": "Emilia Daiber viaja de norte a sur conociendo las distintas realidades que viven los habitantes del mar y la cordillera de Chile.",
-      "inicio": "2026-10-23T18:00:00",
-      "fin": "2026-10-23T18:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/demaracordillera.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-23T18:40:00",
-      "fin": "2026-10-23T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Cocinando La Ruta Austral",
-      "descripcion": "El Chef Sergi Arola recorre nuestro pais, conociendo pueblos perdidos y personas que le mostraran tradiciones y emotivas historias todas conectadas con la gastronomía.",
-      "inicio": "2026-10-23T19:00:00",
-      "fin": "2026-10-23T19:48:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cocinandolarutaaustral.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-23T19:48:00",
-      "fin": "2026-10-23T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Islas de Chile",
-      "descripcion": "Un recorrido junto a Cristian Riquelme por las islas de Chile, para conocer la diversidad de geográfica del país, así como también la diversa fauna. En estos viajes , el público descubrirá además, hermosas historias de los habitantes.",
-      "inicio": "2026-10-23T20:00:00",
-      "fin": "2026-10-23T20:47:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/islasdechile.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-23T20:47:00",
-      "fin": "2026-10-23T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "A orillas del camino",
-      "descripcion": "Juan Pablo Queraltó viaja por distintos caminos y carreteras de nuestro pais, donde nos llevara por distintos recorridos a conocer lugares, personajes y comidas de nuestro país.",
-      "inicio": "2026-10-23T21:00:00",
-      "fin": "2026-10-23T21:46:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aorillasdelcamino.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-23T21:46:00",
-      "fin": "2026-10-23T21:56:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Islas del Mundo",
-      "descripcion": "La periodista, Sol Leyton recorre islas de distintos rincones del planeta. Conoce la cultura, historia y tradiciones de comunidades que viven rodeadas por el mar. Un viaje por territorios únicos y su identidad.",
-      "inicio": "2026-10-23T21:56:00",
-      "fin": "2026-10-23T22:53:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/islasdelmundo.jpg"
-    },
-    {
-      "titulo": "Huasitos",
-      "descripcion": "Disfruta de los geniales recorridos por nuestro país de los Huasitos, Pedro Pelluco y Pomperio Olegario, con su alegria y humor conoceras distintos personajes, lugares y comidas propias de nuestra tierra.",
-      "inicio": "2026-10-23T22:53:00",
-      "fin": "2026-10-24T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/huasitos.jpg"
-    },
-    {
-      "titulo": "A orillas del camino",
-      "descripcion": "Juan Pablo Queraltó viaja por distintos caminos y carreteras de nuestro pais, donde nos llevara por distintos recorridos a conocer lugares, personajes y comidas de nuestro país.",
-      "inicio": "2026-10-24T00:00:00",
-      "fin": "2026-10-24T00:47:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aorillasdelcamino.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-24T00:47:00",
-      "fin": "2026-10-24T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Doble Vida",
-      "descripcion": "¡Un recorrido inolvidable! Pipo Gormaz nos invita a viajar por nuestro país para conocer las historias de grandes chilenos y chilenas",
-      "inicio": "2026-10-24T01:00:00",
-      "fin": "2026-10-24T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/doblevida.jpg"
-    },
-    {
-      "titulo": "Menú de Chile",
-      "descripcion": "El gran chef Sergi Arola nos invita a recorrer Chile, para descubrir la diversidad gastronómica de su cultura. Aquí reviviremos platos icónicos de cada región del país, acompañado de grandes historias de cada uno de los lugares visitados.",
-      "inicio": "2026-10-24T02:00:00",
-      "fin": "2026-10-24T02:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/menudechile.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-24T02:40:00",
-      "fin": "2026-10-24T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Menú de Chile",
-      "descripcion": "El gran chef Sergi Arola nos invita a recorrer Chile, para descubrir la diversidad gastronómica de su cultura. Aquí reviviremos platos icónicos de cada región del país, acompañado de grandes historias de cada uno de los lugares visitados.",
-      "inicio": "2026-10-24T03:00:00",
-      "fin": "2026-10-24T03:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/menudechile.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-24T03:40:00",
-      "fin": "2026-10-24T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Haciendo Patria",
-      "descripcion": "Historias de chilenos, que dejaron todo para irse a los lugares mas extremos de nuestro país, por trabajo, por un cambio de vida o por amor, aquí conoceras su historia de la mani de Juan Pablo Queralto.",
-      "inicio": "2026-10-24T04:00:00",
-      "fin": "2026-10-24T04:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/haciendopatria.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-24T04:40:00",
-      "fin": "2026-10-24T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Eco Ruta",
-      "descripcion": "Vanesa Borghi, conoce y nos presenta emprendimientos ecológicos, turismo sustentable y lugares naturales destacados a lo largo de Chile. El espacio resalta iniciativas de conservación, reciclaje y turismo aventura en diversas regiones del país",
-      "inicio": "2026-10-24T05:00:00",
-      "fin": "2026-10-24T05:49:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ecoruta.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-24T05:49:00",
-      "fin": "2026-10-24T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "A orillas del camino",
-      "descripcion": "Juan Pablo Queraltó viaja por distintos caminos y carreteras de nuestro pais, donde nos llevara por distintos recorridos a conocer lugares, personajes y comidas de nuestro país.",
-      "inicio": "2026-10-24T06:00:00",
-      "fin": "2026-10-24T06:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aorillasdelcamino.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-24T06:45:00",
-      "fin": "2026-10-24T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Ancestrales",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-24T07:00:00",
-      "fin": "2026-10-24T07:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ancestrales.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-24T07:45:00",
-      "fin": "2026-10-24T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
-    {
-      "titulo": "Huasitos",
-      "descripcion": "Disfruta de los geniales recorridos por nuestro país de los Huasitos, Pedro Pelluco y Pomperio Olegario, con su alegria y humor conoceras distintos personajes, lugares y comidas propias de nuestra tierra.",
-      "inicio": "2026-10-24T08:00:00",
-      "fin": "2026-10-24T08:49:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/huasitos.jpg"
-    },
-    {
-      "titulo": "Nota Sabingo",
-      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
-      "inicio": "2026-10-24T08:49:00",
-      "fin": "2026-10-24T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
-    },
     {
       "titulo": "Wild Chile",
       "descripcion": "René Araneda, chileno, guía profesional de safari y la inglesa radicada en Chile Sussanah Buchan, oceanógrafa, recorren nuestro país por cielo, tierra y mar, tras la huella de 8 de los animales más atractivos de la fauna Chilena.",
       "inicio": "2026-10-24T09:00:00",
       "fin": "2026-10-24T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/wildchile.jpg"
+    },
+    {
+      "titulo": "Menú de Chile",
+      "descripcion": "El gran chef Sergi Arola nos invita a recorrer Chile, para descubrir la diversidad gastronómica de su cultura. Aquí reviviremos platos icónicos de cada región del país, acompañado de grandes historias de cada uno de los lugares visitados.",
+      "inicio": "2026-10-24T10:00:00",
+      "fin": "2026-10-24T10:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/menudechile.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-24T10:40:00",
+      "fin": "2026-10-24T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "Menú de Chile",
+      "descripcion": "El gran chef Sergi Arola nos invita a recorrer Chile, para descubrir la diversidad gastronómica de su cultura. Aquí reviviremos platos icónicos de cada región del país, acompañado de grandes historias de cada uno de los lugares visitados.",
+      "inicio": "2026-10-24T11:00:00",
+      "fin": "2026-10-24T11:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/menudechile.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-24T11:40:00",
+      "fin": "2026-10-24T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "De Mar A Cordillera",
+      "descripcion": "Emilia Daiber viaja de norte a sur conociendo las distintas realidades que viven los habitantes del mar y la cordillera de Chile.",
+      "inicio": "2026-10-24T12:00:00",
+      "fin": "2026-10-24T12:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/demaracordillera.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-24T12:40:00",
+      "fin": "2026-10-24T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "Mi Familia Chilena",
+      "descripcion": "Una serie documental sobre identidad, memoria y reencuentro. A través de historias reales, chilenos y chilenas que viven fuera del país emprenden viajes personales para reconstruir su historia familiar, enfrentar el exilio, la adopción y la mig...",
+      "inicio": "2026-10-24T13:00:00",
+      "fin": "2026-10-24T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mifamiliachilena.jpg"
+    },
+    {
+      "titulo": "Ríos del Mundo",
+      "descripcion": "Serie documental que combina viajes y cultura, y presentada por Tita Ureta, que te lleva a descubrir la importancia y las historias de grandes ríos de Chile y del mundo.",
+      "inicio": "2026-10-24T14:00:00",
+      "fin": "2026-10-24T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/riosdelmundo.jpg"
+    },
+    {
+      "titulo": "Doble Vida",
+      "descripcion": "¡Un recorrido inolvidable! Pipo Gormaz nos invita a viajar por nuestro país para conocer las historias de grandes chilenos y chilenas",
+      "inicio": "2026-10-24T15:00:00",
+      "fin": "2026-10-24T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/doblevida.jpg"
+    },
+    {
+      "titulo": "Amigas en viaje",
+      "descripcion": "Descubre junto a nuestras queridisimas amigas, ambas actrices Catalina Olcay y Mónica Godoy, distintos paisajes de nuestro país, disfrutando comidas, lugares y personajes que sin duda dejaran huella.",
+      "inicio": "2026-10-24T16:00:00",
+      "fin": "2026-10-24T16:48:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/amigasenviaje.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-24T16:48:00",
+      "fin": "2026-10-24T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "Mujeres de mar",
+      "descripcion": "Un homenaje a cientos de mujeres que trabajan y sacan adelante a sus familias en sus trabajos ligados a las costas chilenas.",
+      "inicio": "2026-10-24T17:00:00",
+      "fin": "2026-10-24T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mujeresdemar.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-24T17:45:00",
+      "fin": "2026-10-24T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "De Mar A Cordillera",
+      "descripcion": "Emilia Daiber viaja de norte a sur conociendo las distintas realidades que viven los habitantes del mar y la cordillera de Chile.",
+      "inicio": "2026-10-24T18:00:00",
+      "fin": "2026-10-24T18:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/demaracordillera.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-24T18:40:00",
+      "fin": "2026-10-24T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "Eco Ruta",
+      "descripcion": "Vanesa Borghi, conoce y nos presenta emprendimientos ecológicos, turismo sustentable y lugares naturales destacados a lo largo de Chile. El espacio resalta iniciativas de conservación, reciclaje y turismo aventura en diversas regiones del país",
+      "inicio": "2026-10-24T19:00:00",
+      "fin": "2026-10-24T19:52:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ecoruta.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-24T19:52:00",
+      "fin": "2026-10-24T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "De Mar A Cordillera",
+      "descripcion": "Emilia Daiber viaja de norte a sur conociendo las distintas realidades que viven los habitantes del mar y la cordillera de Chile.",
+      "inicio": "2026-10-24T20:00:00",
+      "fin": "2026-10-24T20:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/demaracordillera.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-24T20:40:00",
+      "fin": "2026-10-24T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "Mi Familia Chilena",
+      "descripcion": "Una serie documental sobre identidad, memoria y reencuentro. A través de historias reales, chilenos y chilenas que viven fuera del país emprenden viajes personales para reconstruir su historia familiar, enfrentar el exilio, la adopción y la mig...",
+      "inicio": "2026-10-24T21:00:00",
+      "fin": "2026-10-24T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mifamiliachilena.jpg"
+    },
+    {
+      "titulo": "Ríos del Mundo",
+      "descripcion": "Serie documental que combina viajes y cultura, y presentada por Tita Ureta, que te lleva a descubrir la importancia y las historias de grandes ríos de Chile y del mundo.",
+      "inicio": "2026-10-24T22:00:00",
+      "fin": "2026-10-24T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/riosdelmundo.jpg"
+    },
+    {
+      "titulo": "Wild Chile",
+      "descripcion": "René Araneda, chileno, guía profesional de safari y la inglesa radicada en Chile Sussanah Buchan, oceanógrafa, recorren nuestro país por cielo, tierra y mar, tras la huella de 8 de los animales más atractivos de la fauna Chilena.",
+      "inicio": "2026-10-24T23:00:00",
+      "fin": "2026-10-25T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/wildchile.jpg"
+    },
+    {
+      "titulo": "Mi Familia Chilena",
+      "descripcion": "Una serie documental sobre identidad, memoria y reencuentro. A través de historias reales, chilenos y chilenas que viven fuera del país emprenden viajes personales para reconstruir su historia familiar, enfrentar el exilio, la adopción y la mig...",
+      "inicio": "2026-10-25T00:00:00",
+      "fin": "2026-10-25T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mifamiliachilena.jpg"
+    },
+    {
+      "titulo": "Islas de Chile",
+      "descripcion": "Un recorrido junto a Cristian Riquelme por las islas de Chile, para conocer la diversidad de geográfica del país, así como también la diversa fauna. En estos viajes , el público descubrirá además, hermosas historias de los habitantes.",
+      "inicio": "2026-10-25T01:00:00",
+      "fin": "2026-10-25T01:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/islasdechile.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-25T01:50:00",
+      "fin": "2026-10-25T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "Menú de Chile",
+      "descripcion": "El gran chef Sergi Arola nos invita a recorrer Chile, para descubrir la diversidad gastronómica de su cultura. Aquí reviviremos platos icónicos de cada región del país, acompañado de grandes historias de cada uno de los lugares visitados.",
+      "inicio": "2026-10-25T02:00:00",
+      "fin": "2026-10-25T02:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/menudechile.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-25T02:40:00",
+      "fin": "2026-10-25T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "Menú de Chile",
+      "descripcion": "El gran chef Sergi Arola nos invita a recorrer Chile, para descubrir la diversidad gastronómica de su cultura. Aquí reviviremos platos icónicos de cada región del país, acompañado de grandes historias de cada uno de los lugares visitados.",
+      "inicio": "2026-10-25T03:00:00",
+      "fin": "2026-10-25T03:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/menudechile.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-25T03:40:00",
+      "fin": "2026-10-25T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "Mujeres de mar",
+      "descripcion": "Un homenaje a cientos de mujeres que trabajan y sacan adelante a sus familias en sus trabajos ligados a las costas chilenas.",
+      "inicio": "2026-10-25T04:00:00",
+      "fin": "2026-10-25T04:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mujeresdemar.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-25T04:45:00",
+      "fin": "2026-10-25T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "Ancestrales",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-25T05:00:00",
+      "fin": "2026-10-25T05:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ancestrales.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-25T05:45:00",
+      "fin": "2026-10-25T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "Estrella De Mi Pueblo",
+      "descripcion": "Carmen Gloria Bresky, presenta a grandes personajes propios de nuestra cultura",
+      "inicio": "2026-10-25T06:00:00",
+      "fin": "2026-10-25T06:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/estrellademipueblo.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-25T06:45:00",
+      "fin": "2026-10-25T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "En tus zapatos",
+      "descripcion": "Yuhui acepta el desafio de cambiar su vida y vivir la de distintos personajes de nuestro pais,",
+      "inicio": "2026-10-25T07:00:00",
+      "fin": "2026-10-25T07:48:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entuszapatos.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-25T07:48:00",
+      "fin": "2026-10-25T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "Huasitos",
+      "descripcion": "Disfruta de los geniales recorridos por nuestro país de los Huasitos, Pedro Pelluco y Pomperio Olegario, con su alegria y humor conoceras distintos personajes, lugares y comidas propias de nuestra tierra.",
+      "inicio": "2026-10-25T08:00:00",
+      "fin": "2026-10-25T08:49:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/huasitos.jpg"
+    },
+    {
+      "titulo": "Nota Sabingo",
+      "descripcion": "Disfruta de emprendimientos, sabores y relatos que dan vida a Chile. Historias de chilenos que rescatan tradiciones, gastronomía y cultura local.",
+      "inicio": "2026-10-25T08:49:00",
+      "fin": "2026-10-25T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/notasabingo.jpg"
+    },
+    {
+      "titulo": "Islas del Mundo",
+      "descripcion": "La periodista, Sol Leyton recorre islas de distintos rincones del planeta. Conoce la cultura, historia y tradiciones de comunidades que viven rodeadas por el mar. Un viaje por territorios únicos y su identidad.",
+      "inicio": "2026-10-25T09:00:00",
+      "fin": "2026-10-25T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/islasdelmundo.jpg"
     }
   ]
 }

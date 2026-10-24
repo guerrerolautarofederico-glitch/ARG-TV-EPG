@@ -1,80 +1,73 @@
 {
   "actual": {
-    "titulo": "Así Pega",
-    "descripcion": "La mejor selección musical, entretenimiento y compañía durante la mañana. Conduce: Melissa Quiñonez.",
-    "inicio": "2026-10-23T09:00:00",
-    "fin": "2026-10-23T12:00:00",
+    "titulo": "Agenda E40",
+    "descripcion": "Todo lo que pasa el fin de semana, cartelera, música y entretenimiento. Conduce: Meli Galeano.",
+    "inicio": "2026-10-24T09:00:00",
+    "fin": "2026-10-24T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Ranking E40",
-    "descripcion": "El conteo oficial con las canciones más votadas y los éxitos más importantes. Conduce: Leo Rivas.",
-    "inicio": "2026-10-23T12:00:00",
-    "fin": "2026-10-23T15:00:00",
+    "titulo": "Ranking E40 - Weekend",
+    "descripcion": "Edición especial de fin de semana con el ranking de los temas más pegados. Conduce: Oscar Ayala.",
+    "inicio": "2026-10-24T12:00:00",
+    "fin": "2026-10-24T15:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Así Pega",
-      "descripcion": "La mejor selección musical, entretenimiento y compañía durante la mañana. Conduce: Melissa Quiñonez.",
-      "inicio": "2026-10-23T09:00:00",
-      "fin": "2026-10-23T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ranking E40",
-      "descripcion": "El conteo oficial con las canciones más votadas y los éxitos más importantes. Conduce: Leo Rivas.",
-      "inicio": "2026-10-23T12:00:00",
-      "fin": "2026-10-23T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Elegidos E40",
-      "descripcion": "Tus temas favoritos elegidos por los oyentes y las novedades de la tarde. Conduce: Franco Da Rosa.",
-      "inicio": "2026-10-23T15:00:00",
-      "fin": "2026-10-23T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Top 20",
-      "descripcion": "El repaso por los 20 éxitos más calientes del momento. Conduce: Fadua Huespe.",
-      "inicio": "2026-10-23T18:00:00",
-      "fin": "2026-10-23T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/top20.jpg"
-    },
-    {
-      "titulo": "Rompiendo la noche",
-      "descripcion": "La mejor compañía nocturna con música, diversión e interacción. Conduce: Aarón Rey.",
-      "inicio": "2026-10-23T20:00:00",
-      "fin": "2026-10-23T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Música E40",
-      "descripcion": "Los mejores éxitos musicales y las canciones que más pegan de Estación 40.",
-      "inicio": "2026-10-23T22:00:00",
-      "fin": "2026-10-24T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Música E40",
-      "descripcion": "Los mejores éxitos musicales y las canciones que más pegan de Estación 40.",
-      "inicio": "2026-10-24T00:00:00",
-      "fin": "2026-10-24T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pista E40",
-      "descripcion": "El calentamiento del fin de semana con los mejores beats y mezclas. Conduce: Iván Pereira.",
-      "inicio": "2026-10-24T08:00:00",
-      "fin": "2026-10-24T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Agenda E40",
       "descripcion": "Todo lo que pasa el fin de semana, cartelera, música y entretenimiento. Conduce: Meli Galeano.",
       "inicio": "2026-10-24T09:00:00",
       "fin": "2026-10-24T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ranking E40 - Weekend",
+      "descripcion": "Edición especial de fin de semana con el ranking de los temas más pegados. Conduce: Oscar Ayala.",
+      "inicio": "2026-10-24T12:00:00",
+      "fin": "2026-10-24T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Weekend E40",
+      "descripcion": "Tardes de fin de semana con pura diversión, tendencias y la música que más pega. Conduce: Gaby Ovelar.",
+      "inicio": "2026-10-24T15:00:00",
+      "fin": "2026-10-24T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "E40 Fresh",
+      "descripcion": "Lo más nuevo de la música internacional, estrenos y tendencias juveniles. Conduce: Sofi Romberg.",
+      "inicio": "2026-10-24T18:00:00",
+      "fin": "2026-10-24T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Retrotón E40",
+      "descripcion": "Los clásicos que marcaron época, reggaetón del recuerdo y los mejores retro hits.",
+      "inicio": "2026-10-24T20:00:00",
+      "fin": "2026-10-24T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Previa E40",
+      "descripcion": "La previa del fin de semana con el ritmo que enciende la fiesta.",
+      "inicio": "2026-10-24T21:00:00",
+      "fin": "2026-10-24T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Música E40",
+      "descripcion": "Los mejores éxitos musicales y las canciones que más pegan de Estación 40.",
+      "inicio": "2026-10-24T22:00:00",
+      "fin": "2026-10-25T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Música E40",
+      "descripcion": "Los mejores éxitos musicales y las canciones que más pegan de Estación 40.",
+      "inicio": "2026-10-25T00:00:00",
+      "fin": "2026-10-25T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

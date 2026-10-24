@@ -2,136 +2,87 @@
   "actual": {
     "titulo": "Cablenoticias • Repetición",
     "descripcion": "Repetición | Repetición de la edición central del noticiero.",
-    "inicio": "2026-10-23T09:00:00",
-    "fin": "2026-10-23T10:00:00",
+    "inicio": "2026-10-24T09:00:00",
+    "fin": "2026-10-24T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticias.jpg"
   },
   "siguiente": {
-    "titulo": "Clasificados a su Servicio",
-    "descripcion": "Espacio para la publicación de avisos clasificados y datos de servicios de la comunidad.",
-    "inicio": "2026-10-23T10:00:00",
-    "fin": "2026-10-23T10:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Clásicos de la TV",
+    "descripcion": "Un viaje al pasado para revivir programas y series icónicas de la televisión.",
+    "inicio": "2026-10-24T10:00:00",
+    "fin": "2026-10-24T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clasicosdelatv.jpg"
   },
   "lista": [
-    {
-      "titulo": "Cablenoticias • Repetición",
-      "descripcion": "Repetición | Repetición de la edición central del noticiero.",
-      "inicio": "2026-10-23T09:00:00",
-      "fin": "2026-10-23T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticias.jpg"
-    },
-    {
-      "titulo": "Clasificados a su Servicio",
-      "descripcion": "Espacio para la publicación de avisos clasificados y datos de servicios de la comunidad.",
-      "inicio": "2026-10-23T10:00:00",
-      "fin": "2026-10-23T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Portavoz noticias",
-      "descripcion": "Programa de noticias con reportajes y actualidad de la provincia de San Antonio.",
-      "inicio": "2026-10-23T10:30:00",
-      "fin": "2026-10-23T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "Bloque animado",
-      "descripcion": "Entretención para los más pequeños con una selección de dibujos animados.",
-      "inicio": "2026-10-23T12:00:00",
-      "fin": "2026-10-23T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bloqueanimado.jpg"
-    },
-    {
-      "titulo": "Clasificados a su Servicio",
-      "descripcion": "Espacio para la publicación de avisos clasificados y datos de servicios de la comunidad.",
-      "inicio": "2026-10-23T13:00:00",
-      "fin": "2026-10-23T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cablenoticias • Edición Mediodía",
-      "descripcion": "Edición Mediodía | Informativo con las noticias que marcan la primera mitad de la jornada en el Litoral Central.",
-      "inicio": "2026-10-23T14:00:00",
-      "fin": "2026-10-23T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticias.jpg"
-    },
-    {
-      "titulo": "Ximena contigo",
-      "descripcion": "Magazine de conversación con entrevistas, datos de interés y actualidad.",
-      "inicio": "2026-10-23T15:00:00",
-      "fin": "2026-10-23T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ximenacontigo.jpg"
-    },
-    {
-      "titulo": "CNTV infantil",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-      "inicio": "2026-10-23T16:00:00",
-      "fin": "2026-10-23T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "Cablenoticias • Avance",
-      "descripcion": "Avance | Avance informativo con una actualización de las noticias más importantes del día.",
-      "inicio": "2026-10-23T18:00:00",
-      "fin": "2026-10-23T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticias.jpg"
-    },
-    {
-      "titulo": "Clasificados a su Servicio",
-      "descripcion": "Espacio para la publicación de avisos clasificados y datos de servicios de la comunidad.",
-      "inicio": "2026-10-23T19:00:00",
-      "fin": "2026-10-23T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hablando de clásicos de la TV",
-      "descripcion": "Programa de conversación y análisis sobre las series y programas que marcaron historia.",
-      "inicio": "2026-10-23T20:00:00",
-      "fin": "2026-10-23T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hablandodeclasicosdelatv.jpg"
-    },
-    {
-      "titulo": "Cablenoticias: Edición Central",
-      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
-      "inicio": "2026-10-23T21:00:00",
-      "fin": "2026-10-23T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
-    },
-    {
-      "titulo": "El retrovisor",
-      "descripcion": "Espacio musical para recordar los grandes éxitos de décadas pasadas.",
-      "inicio": "2026-10-23T22:00:00",
-      "fin": "2026-10-23T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Región oculta",
-      "descripcion": "Programa que explora los misterios, mitos y leyendas de la región.",
-      "inicio": "2026-10-23T23:00:00",
-      "fin": "2026-10-24T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/regionoculta.jpg"
-    },
-    {
-      "titulo": "Cablenoticias • Repetición",
-      "descripcion": "Repetición | Repetición de la edición central del noticiero.",
-      "inicio": "2026-10-24T00:00:00",
-      "fin": "2026-10-24T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticias.jpg"
-    },
-    {
-      "titulo": "Fuera de Aire",
-      "descripcion": "Espacio de cierre de transmisiones.",
-      "inicio": "2026-10-24T01:00:00",
-      "fin": "2026-10-24T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Cablenoticias • Repetición",
       "descripcion": "Repetición | Repetición de la edición central del noticiero.",
       "inicio": "2026-10-24T09:00:00",
       "fin": "2026-10-24T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticias.jpg"
+    },
+    {
+      "titulo": "Clásicos de la TV",
+      "descripcion": "Un viaje al pasado para revivir programas y series icónicas de la televisión.",
+      "inicio": "2026-10-24T10:00:00",
+      "fin": "2026-10-24T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clasicosdelatv.jpg"
+    },
+    {
+      "titulo": "Cablenoticias • Repetición",
+      "descripcion": "Repetición | Repetición de la edición central del noticiero.",
+      "inicio": "2026-10-24T14:00:00",
+      "fin": "2026-10-24T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticias.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
+      "inicio": "2026-10-24T15:00:00",
+      "fin": "2026-10-24T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Programación cultural",
+      "descripcion": "Segmento dedicado a la emisión de contenido cultural.",
+      "inicio": "2026-10-24T16:00:00",
+      "fin": "2026-10-24T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Culturalia",
+      "descripcion": "Agenda y actualidad cultural con los eventos más importantes de la zona.",
+      "inicio": "2026-10-24T20:30:00",
+      "fin": "2026-10-24T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/culturalia.jpg"
+    },
+    {
+      "titulo": "Cablenoticias • Resumen Semanal",
+      "descripcion": "Resumen Semanal | El resumen con las noticias más importantes que ocurrieron durante la semana en el Litoral Central.",
+      "inicio": "2026-10-24T21:00:00",
+      "fin": "2026-10-24T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticias.jpg"
+    },
+    {
+      "titulo": "Fútbol amateur",
+      "descripcion": "Transmisión de partidos del fútbol local de la provincia de San Antonio.",
+      "inicio": "2026-10-24T22:00:00",
+      "fin": "2026-10-25T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolamateur.jpg"
+    },
+    {
+      "titulo": "Fuera de Aire",
+      "descripcion": "Espacio de cierre de transmisiones.",
+      "inicio": "2026-10-25T01:00:00",
+      "fin": "2026-10-25T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Resumen Cablenoticias",
+      "descripcion": "Un compendio con las noticias más importantes y los hechos que marcaron la pauta durante la última semana.",
+      "inicio": "2026-10-25T09:00:00",
+      "fin": "2026-10-25T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
