@@ -1,137 +1,165 @@
 {
   "actual": {
-    "titulo": "TeveCompras",
-    "descripcion": "Compras por TV donde encuentra los últimos productos del mercado.",
-    "inicio": "2026-10-24T08:00:00",
-    "fin": "2026-10-24T10:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tevecompras.jpg"
+    "titulo": "Ambiente y medio",
+    "descripcion": "Un programa de periodismo aplicado a la ecología. Un espacio amplio que abarca desde la explicación de los procesos que conducen a problemas ambientales hasta las formas de enfrentarlos.",
+    "inicio": "2026-10-25T09:00:00",
+    "fin": "2026-10-25T10:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ambienteymedio.jpg"
   },
   "siguiente": {
-    "titulo": "Destinos y sabores",
-    "descripcion": "Un recorrido por los atractivos turísticos de Argentina y el mundo a través de los aromas y sabores de cada lugar.",
-    "inicio": "2026-10-24T10:00:00",
-    "fin": "2026-10-24T10:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destinosysabores.jpg"
+    "titulo": "Pedalearg",
+    "descripcion": "Para los amantes de las dos ruedas, la movilidad sustentable y la vida saludable, un espacio donde los apasionados del ciclismo tienen su lugar.",
+    "inicio": "2026-10-25T10:00:00",
+    "fin": "2026-10-25T10:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pedalearg.jpg"
   },
   "lista": [
-    {
-      "titulo": "TeveCompras",
-      "descripcion": "Compras por TV donde encuentra los últimos productos del mercado.",
-      "inicio": "2026-10-24T08:00:00",
-      "fin": "2026-10-24T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tevecompras.jpg"
-    },
-    {
-      "titulo": "Destinos y sabores",
-      "descripcion": "Un recorrido por los atractivos turísticos de Argentina y el mundo a través de los aromas y sabores de cada lugar.",
-      "inicio": "2026-10-24T10:00:00",
-      "fin": "2026-10-24T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destinosysabores.jpg"
-    },
-    {
-      "titulo": "Tecno tendencias",
-      "descripcion": "Las últimas noticias y las tendencias en el mundo de los juegos y las aplicaciones.",
-      "inicio": "2026-10-24T10:30:00",
-      "fin": "2026-10-24T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tecnotendencias.jpg"
-    },
-    {
-      "titulo": "Comer para creer",
-      "descripcion": "Un recorrido por los mejores restaurantes de Buenos Aires. Platos típicos, comidas tradicionales y sencillas para aprender a cocinar y disfrutar con todos los sentidos.",
-      "inicio": "2026-10-24T11:00:00",
-      "fin": "2026-10-24T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comerparacreer.jpg"
-    },
-    {
-      "titulo": "Modo Selfie",
-      "descripcion": "Un programa que recorre distintos lugares del mundo mientras el conductor filma en modo selfi.",
-      "inicio": "2026-10-24T12:00:00",
-      "fin": "2026-10-24T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/modoselfie.jpg"
-    },
-    {
-      "titulo": "Pasión de sábado",
-      "descripcion": "Presentación de los mejores grupos de la movida tropical.",
-      "inicio": "2026-10-24T13:00:00",
-      "fin": "2026-10-24T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasiondesabado.jpg"
-    },
-    {
-      "titulo": "Mírame así, el camino de Noa",
-      "descripcion": "Noa, una joven extranjera que llega a Argentina, y Tomy, un músico que abandonó la banda que había formado con sus amigos, se conocen luego de haber sido traicionados por sus respectivas parejas.",
-      "inicio": "2026-10-24T19:00:00",
-      "fin": "2026-10-24T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mirameasielcaminodenoa.jpg"
-    },
-    {
-      "titulo": "Secretos verdaderos",
-      "descripcion": "Las biografías no autorizadas de los artistas más importantes del mundo del espectáculo, la política, el deporte y el jet set internacional.",
-      "inicio": "2026-10-24T20:00:00",
-      "fin": "2026-10-24T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/secretosverdaderos.jpg"
-    },
-    {
-      "titulo": "Argentina de película",
-      "descripcion": "Emisión de películas de producción argentina con la participación de sus protagonistas, quienes comentarán el largometraje antes de presentarlo.",
-      "inicio": "2026-10-24T22:00:00",
-      "fin": "2026-10-25T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/argentinadepelicula.jpg"
-    },
-    {
-      "titulo": "Argentina de película",
-      "descripcion": "Emisión de películas de producción argentina con la participación de sus protagonistas, quienes comentarán el largometraje antes de presentarlo.",
-      "inicio": "2026-10-25T00:00:00",
-      "fin": "2026-10-25T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/argentinadepelicula.jpg"
-    },
-    {
-      "titulo": "Re! Te paso ubicación",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-25T00:30:00",
-      "fin": "2026-10-25T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/retepasoubicacion.jpg"
-    },
-    {
-      "titulo": "Pasión de sábado",
-      "descripcion": "Presentación de los mejores grupos de la movida tropical.",
-      "inicio": "2026-10-25T01:00:00",
-      "fin": "2026-10-25T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasiondesabado.jpg"
-    },
-    {
-      "titulo": "Problemas y soluciones",
-      "descripcion": "La Fé nos ayuda a encontrar la solución a los problemas y llevar una vida mejor.",
-      "inicio": "2026-10-25T05:30:00",
-      "fin": "2026-10-25T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/problemasysoluciones.jpg"
-    },
-    {
-      "titulo": "Pasión de sábado",
-      "descripcion": "Presentación de los mejores grupos de la movida tropical.",
-      "inicio": "2026-10-25T06:00:00",
-      "fin": "2026-10-25T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasiondesabado.jpg"
-    },
-    {
-      "titulo": "TeveCompras",
-      "descripcion": "Compras por TV donde encuentra los últimos productos del mercado.",
-      "inicio": "2026-10-25T07:00:00",
-      "fin": "2026-10-25T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tevecompras.jpg"
-    },
-    {
-      "titulo": "Mundo visual",
-      "descripcion": "Recorrida por los destinos turísticos más importantes de Argentina y el mundo, con información práctica de un viajero experimentado.",
-      "inicio": "2026-10-25T08:00:00",
-      "fin": "2026-10-25T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundovisual.jpg"
-    },
     {
       "titulo": "Ambiente y medio",
       "descripcion": "Un programa de periodismo aplicado a la ecología. Un espacio amplio que abarca desde la explicación de los procesos que conducen a problemas ambientales hasta las formas de enfrentarlos.",
       "inicio": "2026-10-25T09:00:00",
       "fin": "2026-10-25T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ambienteymedio.jpg"
+    },
+    {
+      "titulo": "Pedalearg",
+      "descripcion": "Para los amantes de las dos ruedas, la movilidad sustentable y la vida saludable, un espacio donde los apasionados del ciclismo tienen su lugar.",
+      "inicio": "2026-10-25T10:00:00",
+      "fin": "2026-10-25T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pedalearg.jpg"
+    },
+    {
+      "titulo": "Re! Te paso ubicación",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-25T10:30:00",
+      "fin": "2026-10-25T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/retepasoubicacion.jpg"
+    },
+    {
+      "titulo": "Tecno tendencias",
+      "descripcion": "Las últimas noticias y las tendencias en el mundo de los juegos y las aplicaciones.",
+      "inicio": "2026-10-25T11:00:00",
+      "fin": "2026-10-25T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tecnotendencias.jpg"
+    },
+    {
+      "titulo": "Destinos y sabores",
+      "descripcion": "Un recorrido por los atractivos turísticos de Argentina y el mundo a través de los aromas y sabores de cada lugar.",
+      "inicio": "2026-10-25T11:30:00",
+      "fin": "2026-10-25T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destinosysabores.jpg"
+    },
+    {
+      "titulo": "Viralizados",
+      "descripcion": "Darío Lopilato comparte los videos virales que hay en internet. Los más graciosos, inesperados o anecdóticos que se comparten ampliamente y que generan conversaciones y memes.",
+      "inicio": "2026-10-25T12:00:00",
+      "fin": "2026-10-25T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viralizados.jpg"
+    },
+    {
+      "titulo": "Secretos verdaderos",
+      "descripcion": "Las biografías no autorizadas de los artistas más importantes del mundo del espectáculo, la política, el deporte y el jet set internacional.",
+      "inicio": "2026-10-25T14:00:00",
+      "fin": "2026-10-25T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/secretosverdaderos.jpg"
+    },
+    {
+      "titulo": "Especiales América 60 años",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-25T16:00:00",
+      "fin": "2026-10-25T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/especialesamerica60anos.jpg"
+    },
+    {
+      "titulo": "Infama • La previa",
+      "descripcion": "La previa | Todo lo que ocurre en la temporada más caliente, desde Mar del Plata, Punta del Este y Buenos Aires, así como las últimas novedades de la farándula.",
+      "inicio": "2026-10-25T17:30:00",
+      "fin": "2026-10-25T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/infama.jpg"
+    },
+    {
+      "titulo": "Infama",
+      "descripcion": "Todo lo que ocurre en la temporada más caliente, desde Mar del Plata, Punta del Este y Buenos Aires, así como las últimas novedades de la farándula.",
+      "inicio": "2026-10-25T18:30:00",
+      "fin": "2026-10-25T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/infama.jpg"
+    },
+    {
+      "titulo": "GPS",
+      "descripcion": "Amalia una joven toma un Uber nocturno para ir a una fiesta, pero el viaje comienza a ponerse cada vez más extraño.",
+      "inicio": "2026-10-25T20:00:00",
+      "fin": "2026-10-25T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/gps.jpg"
+    },
+    {
+      "titulo": "Mauro Szeta presenta",
+      "descripcion": "Mauro Szeta revisita los casos policiales más importantes.",
+      "inicio": "2026-10-25T22:00:00",
+      "fin": "2026-10-25T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mauroszetapresenta.jpg"
+    },
+    {
+      "titulo": "Entrevistas de película",
+      "descripcion": "Teté Coustarot entrevista reconocidos actores de la industria del entretenimiento argentino.",
+      "inicio": "2026-10-25T23:00:00",
+      "fin": "2026-10-25T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistasdepelicula.jpg"
+    },
+    {
+      "titulo": "Modo Selfie",
+      "descripcion": "Un programa que recorre distintos lugares del mundo mientras el conductor filma en modo selfi.",
+      "inicio": "2026-10-25T23:30:00",
+      "fin": "2026-10-26T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/modoselfie.jpg"
+    },
+    {
+      "titulo": "Drivers",
+      "descripcion": "El mundo motor, novedades e informes sobre autos modernos y clásicos, y un espacio para el tuning.",
+      "inicio": "2026-10-26T00:45:00",
+      "fin": "2026-10-26T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/drivers.jpg"
+    },
+    {
+      "titulo": "Pare de sufrir",
+      "descripcion": "Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.",
+      "inicio": "2026-10-26T01:00:00",
+      "fin": "2026-10-26T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/paredesufrir.jpg"
+    },
+    {
+      "titulo": "Intrusos",
+      "descripcion": "Romances, separaciones y escándalos. Las últimas novedades de la farándula y lo que los famosos no quieren contar.",
+      "inicio": "2026-10-26T02:00:00",
+      "fin": "2026-10-26T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/intrusos.jpg"
+    },
+    {
+      "titulo": "Pare de sufrir",
+      "descripcion": "Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.",
+      "inicio": "2026-10-26T05:00:00",
+      "fin": "2026-10-26T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/paredesufrir.jpg"
+    },
+    {
+      "titulo": "Animérica",
+      "descripcion": "Una propuesta con contenido educativo y de entretenimiento donde los niños encuentran un espacio de aprendizaje y diversión.",
+      "inicio": "2026-10-26T05:30:00",
+      "fin": "2026-10-26T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/animerica.jpg"
+    },
+    {
+      "titulo": "Arriba América",
+      "descripcion": "Con un enfoque dinámico y preciso, se ofrece un panorama completo de la actualidad, política, economía y todo lo que necesitas saber antes de arrancar tu jornada. Las noticias de primera mano, con la claridad y profundidad que buscas en el día.",
+      "inicio": "2026-10-26T06:00:00",
+      "fin": "2026-10-26T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/arribaamerica.jpg"
+    },
+    {
+      "titulo": "Desayuno americano",
+      "descripcion": "Un magacín con todo el entretenimiento que se necesita. Todo lo referente al espectáculo, deportes y más.",
+      "inicio": "2026-10-26T08:00:00",
+      "fin": "2026-10-26T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/desayunoamericano.jpg"
     }
   ]
 }

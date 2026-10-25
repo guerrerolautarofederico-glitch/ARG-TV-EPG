@@ -1,73 +1,87 @@
 {
   "actual": {
-    "titulo": "Agenda E40",
-    "descripcion": "Todo lo que pasa el fin de semana, cartelera, música y entretenimiento. Conduce: Meli Galeano.",
-    "inicio": "2026-10-24T09:00:00",
-    "fin": "2026-10-24T12:00:00",
+    "titulo": "Música E40",
+    "descripcion": "Los mejores éxitos musicales y las canciones que más pegan de Estación 40.",
+    "inicio": "2026-10-25T00:00:00",
+    "fin": "2026-10-25T10:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Ranking E40 - Weekend",
-    "descripcion": "Edición especial de fin de semana con el ranking de los temas más pegados. Conduce: Oscar Ayala.",
-    "inicio": "2026-10-24T12:00:00",
-    "fin": "2026-10-24T15:00:00",
+    "titulo": "Clásicos Latinos",
+    "descripcion": "Grandes éxitos en español y clásicos inolvidables de la música latina.",
+    "inicio": "2026-10-25T10:00:00",
+    "fin": "2026-10-25T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Agenda E40",
-      "descripcion": "Todo lo que pasa el fin de semana, cartelera, música y entretenimiento. Conduce: Meli Galeano.",
-      "inicio": "2026-10-24T09:00:00",
-      "fin": "2026-10-24T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ranking E40 - Weekend",
-      "descripcion": "Edición especial de fin de semana con el ranking de los temas más pegados. Conduce: Oscar Ayala.",
-      "inicio": "2026-10-24T12:00:00",
-      "fin": "2026-10-24T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Weekend E40",
-      "descripcion": "Tardes de fin de semana con pura diversión, tendencias y la música que más pega. Conduce: Gaby Ovelar.",
-      "inicio": "2026-10-24T15:00:00",
-      "fin": "2026-10-24T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "E40 Fresh",
-      "descripcion": "Lo más nuevo de la música internacional, estrenos y tendencias juveniles. Conduce: Sofi Romberg.",
-      "inicio": "2026-10-24T18:00:00",
-      "fin": "2026-10-24T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Retrotón E40",
-      "descripcion": "Los clásicos que marcaron época, reggaetón del recuerdo y los mejores retro hits.",
-      "inicio": "2026-10-24T20:00:00",
-      "fin": "2026-10-24T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Previa E40",
-      "descripcion": "La previa del fin de semana con el ritmo que enciende la fiesta.",
-      "inicio": "2026-10-24T21:00:00",
-      "fin": "2026-10-24T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Música E40",
-      "descripcion": "Los mejores éxitos musicales y las canciones que más pegan de Estación 40.",
-      "inicio": "2026-10-24T22:00:00",
-      "fin": "2026-10-25T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Música E40",
       "descripcion": "Los mejores éxitos musicales y las canciones que más pegan de Estación 40.",
       "inicio": "2026-10-25T00:00:00",
       "fin": "2026-10-25T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clásicos Latinos",
+      "descripcion": "Grandes éxitos en español y clásicos inolvidables de la música latina.",
+      "inicio": "2026-10-25T10:00:00",
+      "fin": "2026-10-25T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Retrotón E40",
+      "descripcion": "Los clásicos que marcaron época, reggaetón del recuerdo y los mejores retro hits.",
+      "inicio": "2026-10-25T12:00:00",
+      "fin": "2026-10-25T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Música E40",
+      "descripcion": "Los mejores éxitos musicales y las canciones que más pegan de Estación 40.",
+      "inicio": "2026-10-25T13:00:00",
+      "fin": "2026-10-25T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Retrotón E40",
+      "descripcion": "Los clásicos que marcaron época, reggaetón del recuerdo y los mejores retro hits.",
+      "inicio": "2026-10-25T20:00:00",
+      "fin": "2026-10-25T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Música E40",
+      "descripcion": "Los mejores éxitos musicales y las canciones que más pegan de Estación 40.",
+      "inicio": "2026-10-25T21:00:00",
+      "fin": "2026-10-26T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Música E40",
+      "descripcion": "Los mejores éxitos musicales y las canciones que más pegan de Estación 40.",
+      "inicio": "2026-10-26T00:00:00",
+      "fin": "2026-10-26T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Momento 40",
+      "descripcion": "Espacio de reflexión, música y actualidad para arrancar la jornada en Estación 40.",
+      "inicio": "2026-10-26T06:00:00",
+      "fin": "2026-10-26T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Despiertos",
+      "descripcion": "El mañanero que te despierta con toda la energía, música y buena onda. Conduce: Meli Galeano.",
+      "inicio": "2026-10-26T06:30:00",
+      "fin": "2026-10-26T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Así Pega",
+      "descripcion": "La mejor selección musical, entretenimiento y compañía durante la mañana. Conduce: Melissa Quiñonez.",
+      "inicio": "2026-10-26T09:00:00",
+      "fin": "2026-10-26T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

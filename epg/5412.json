@@ -1,129 +1,122 @@
 {
   "actual": {
-    "titulo": "Fútbol EFL Championship • Charlton Athletic vs Norwich City",
-    "descripcion": "Estreno ║ Charlton Athletic vs Norwich City | Desde The Valley en Londres, Inglaterra.",
-    "inicio": "2026-10-24T08:20:00",
-    "fin": "2026-10-24T10:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-  },
-  "siguiente": {
     "titulo": "SportsCenter",
     "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-    "inicio": "2026-10-24T10:30:00",
-    "fin": "2026-10-24T11:00:00",
+    "inicio": "2026-10-25T08:00:00",
+    "fin": "2026-10-25T10:50:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
   },
+  "siguiente": {
+    "titulo": "Fútbol Serie A • Genoa vs Venezia",
+    "descripcion": "Estreno ║ Genoa vs Venezia | Acción de la fecha 8. Genoa enfrenta a Venezia. Desde el Stadio Luigi Ferraris. Duelo directo para no caer en la zona de descenso.",
+    "inicio": "2026-10-25T10:50:00",
+    "fin": "2026-10-25T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+  },
   "lista": [
-    {
-      "titulo": "Fútbol EFL Championship • Charlton Athletic vs Norwich City",
-      "descripcion": "Estreno ║ Charlton Athletic vs Norwich City | Desde The Valley en Londres, Inglaterra.",
-      "inicio": "2026-10-24T08:20:00",
-      "fin": "2026-10-24T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-10-24T10:30:00",
-      "fin": "2026-10-24T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "2026 AIG Women's Open Official Film",
-      "descripcion": "Recopilación de los mejores momentos del AIG Women's Open 2026. Desde el Royal Lytham and St Annes 🏌️ [Golf] Golf Club, en Lancashire, Inglaterra.",
-      "inicio": "2026-10-24T11:00:00",
-      "fin": "2026-10-24T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol Mexicano Primera División • Atlético San Luis vs Atlas",
-      "descripcion": "Atlético San Luis vs Atlas | Lo más emocionante, destacado junto con todos los detalles en la cobertura de los partidos de la Liga MX.",
-      "inicio": "2026-10-24T12:00:00",
-      "fin": "2026-10-24T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-10-24T14:00:00",
-      "fin": "2026-10-24T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Béisbol",
-      "descripcion": "Estreno ║ Destacados, toda la acción y la mejor cobertura de los encuentros de béisbol.",
-      "inicio": "2026-10-24T16:00:00",
-      "fin": "2026-10-24T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/beisbol.jpg"
-    },
-    {
-      "titulo": "ESPN KnockOut",
-      "descripcion": "Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN.",
-      "inicio": "2026-10-24T18:00:00",
-      "fin": "2026-10-24T18:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espnknockout.jpg"
-    },
-    {
-      "titulo": "Queens League Americas",
-      "descripcion": "Estreno ║ Cobertura de la liga femenina de fútbol 7 de América: Queens League.",
-      "inicio": "2026-10-24T18:55:00",
-      "fin": "2026-10-24T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/queensleagueamericas.jpg"
-    },
-    {
-      "titulo": "Kings League Americas • Atlético Parceros vs Los Chamos",
-      "descripcion": "Estreno ║ Atlético Parceros vs Los Chamos | Jornada 1 de la fase regular 2024-25.",
-      "inicio": "2026-10-24T20:00:00",
-      "fin": "2026-10-24T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/kingsleagueamericas.jpg"
-    },
-    {
-      "titulo": "ESPN KnockOut • Emmanuel Navarrete vs O'Shaquie Foster",
-      "descripcion": "Estreno ║ Emmanuel Navarrete vs O'Shaquie Foster | Combate por la unificación de los títulos superligeros del WBO, IBF y WBC. Emmanuel Navarrete en trifulca con O'Shaquie Foster. Disputado el 24 de octubre de 2026 en el Frost Bank Center, en San Antonio, Texas.",
-      "inicio": "2026-10-24T21:30:00",
-      "fin": "2026-10-25T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espnknockout.jpg"
-    },
-    {
-      "titulo": "The Spirit of Yachting • Maxi Yacht Rolex Cup and Rolex Swan Cup 2026",
-      "descripcion": "Maxi Yacht Rolex Cup and Rolex Swan Cup 2026 | En septiembre, la Costa Esmeralda de Cerdeña fue el escenario de dos eventos del calendario de vela: la Maxi Yacht Rolex Cup, de carácter anual, y la Rolex Swan Cup, que se celebra cada dos años.",
-      "inicio": "2026-10-25T00:30:00",
-      "fin": "2026-10-25T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thespiritofyachting.jpg"
-    },
-    {
-      "titulo": "Fútbol Serie A • Napoli vs Roma",
-      "descripcion": "Napoli vs Roma | Desde el estadio Diego Armando Maradona, en Nápoles, Italia.",
-      "inicio": "2026-10-25T01:00:00",
-      "fin": "2026-10-25T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol picante",
-      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
-      "inicio": "2026-10-25T03:00:00",
-      "fin": "2026-10-25T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-10-25T05:00:00",
-      "fin": "2026-10-25T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Fútbol Serie A • Lazio vs Parma",
-      "descripcion": "Lazio vs Parma | Desde el Estadio Olímpico de ⚽ [Serie A] Roma, en Italia.",
-      "inicio": "2026-10-25T06:00:00",
-      "fin": "2026-10-25T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "SportsCenter",
       "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
       "inicio": "2026-10-25T08:00:00",
       "fin": "2026-10-25T10:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol Serie A • Genoa vs Venezia",
+      "descripcion": "Estreno ║ Genoa vs Venezia | Acción de la fecha 8. Genoa enfrenta a Venezia. Desde el Stadio Luigi Ferraris. Duelo directo para no caer en la zona de descenso.",
+      "inicio": "2026-10-25T10:50:00",
+      "fin": "2026-10-25T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol picante",
+      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-10-25T13:00:00",
+      "fin": "2026-10-25T13:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "Fútbol Serie A • Lecce vs Juventus",
+      "descripcion": "Estreno ║ Lecce vs Juventus | Acción de la fecha 8. Lecce enfrenta a ⚽ [Serie A] Juventus. Desde el Stadio Via del Mare. Los visitantes luchan por puestos en zona de clasificación a competiciones europeas.",
+      "inicio": "2026-10-25T13:50:00",
+      "fin": "2026-10-25T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-10-25T16:00:00",
+      "fin": "2026-10-25T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol NWSL • Kansas City Current vs Washington Spirit",
+      "descripcion": "Estreno ║ Kansas City Current vs Washington Spirit | Acción de la temporada regular de la NWSL 2026. El Current busca retener el cuarto lugar y el Spirit el liderato.",
+      "inicio": "2026-10-25T18:00:00",
+      "fin": "2026-10-25T19:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Mexicano Liga Expansión • Tapatío vs Club Atlético Morelia",
+      "descripcion": "Estreno ║ Tapatío vs Club Atlético Morelia | Jornada 14 del Torneo Apertura 2026 de la Liga Expansión MX. Tapatío se enfrenta a Atlético Morelia. Desde el estadio Akron. En la fecha 13, la escuadra rojiblanca sumó su tercera victoria consecutiva tras derrotar 2-1 a los Alacranes de Durango.",
+      "inicio": "2026-10-25T19:50:00",
+      "fin": "2026-10-25T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Mexicano Femenino Primera División • Atlético San Luis vs Club América",
+      "descripcion": "Atlético San Luis vs Club América | Acción de la jornada 12 de Torneo Apertura 2026. Las Potosinas buscan retener el tercer lugar y las Águilas el liderato, ambos del Grupo B.",
+      "inicio": "2026-10-25T22:00:00",
+      "fin": "2026-10-26T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Golf ️ PGA Tour • FedEx Cup Playoffs",
+      "descripcion": "FedEx Cup Playoffs | Recopilación de los mejores momentos del FedEx Cup Playoffs 2026. Disputado del 13 al 30 de agosto de 2026.",
+      "inicio": "2026-10-26T00:00:00",
+      "fin": "2026-10-26T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Mexicano Liga Expansión • Tlaxcala vs Correcaminos UAT",
+      "descripcion": "Tlaxcala vs Correcaminos UAT | Jornada 14 del Torneo Apertura 2026 de la Liga Expansión MX. Desde el estadio Tlahuicole. Los 🏒 [NHL] Coyotes de Tlaxcala se impusieron 2-1 al Correcaminos en la cancha del estadio Marte R. Gómez durante la jornada 14 del Torneo Clausura 2026.",
+      "inicio": "2026-10-26T01:00:00",
+      "fin": "2026-10-26T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol picante",
+      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-10-26T03:00:00",
+      "fin": "2026-10-26T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-10-26T05:00:00",
+      "fin": "2026-10-26T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol Eredivisie • PSV vs Feyenoord",
+      "descripcion": "PSV vs Feyenoord | Fecha 10 de la Eredivisie temporada 2026-27. PSV, en tercer lugar, ganó los últimos cinco cara a cara al líder Feyenoord. Desde el Philips Stadion, en Eindhoven.",
+      "inicio": "2026-10-26T06:00:00",
+      "fin": "2026-10-26T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol picante",
+      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-10-26T08:00:00",
+      "fin": "2026-10-26T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-10-26T09:00:00",
+      "fin": "2026-10-26T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
     }
   ]

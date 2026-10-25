@@ -1,108 +1,94 @@
 {
   "actual": {
-    "titulo": "Tu tele",
-    "descripcion": "La defensora atiende las observaciones de los televidentes, a través de correos electrónicos, llamadas y cartas que llegan a esta oficina.",
-    "inicio": "2026-10-24T09:00:00",
-    "fin": "2026-10-24T09:30:00",
+    "titulo": "RCN Noticias",
+    "descripcion": "Un espacio para encontrar contenidos de opinión, análisis y debate.",
+    "inicio": "2026-10-25T09:00:00",
+    "fin": "2026-10-25T22:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Los Pitufos",
-    "descripcion": "Basada en unas historietas del belga Pierre Culliford (AKA Peyo) y ambientada en la Edad Media. En la aldea de los pitufos todas las casas son hongos o setas. Todos ellos se visten igual: pantalón blanco y gorro frigio blanco, a excepción del Gran Pitufo o Papá Pitufo, que usa un atuendo rojo. Él es el jefe de la aldea, debido a su avanzada edad y a sus conocimientos de magia.\n\nEl brujo Gargamel y su gato Azrael, intentan siempre y por todos los medios capturar a los pitufos con trampas. Los objetivos son dos: utilizarlos como ingrediente imprescindible para conseguir la transmutación de los metales y su transformación en oro, y preparar con ellos 'sopa de pitufos', un legendario plato exquisito de sabor incomparable. La serie se ramificó en varias películas; la última, que se estrenó en 2008, celebraba el 50º aniversario de los personajes.",
-    "inicio": "2026-10-24T09:30:00",
-    "fin": "2026-10-24T22:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lospitufos.jpg"
+    "titulo": "Nuestra Santa Misa",
+    "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
+    "inicio": "2026-10-25T22:00:00",
+    "fin": "2026-10-25T22:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Tu tele",
-      "descripcion": "La defensora atiende las observaciones de los televidentes, a través de correos electrónicos, llamadas y cartas que llegan a esta oficina.",
-      "inicio": "2026-10-24T09:00:00",
-      "fin": "2026-10-24T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Pitufos",
-      "descripcion": "Basada en unas historietas del belga Pierre Culliford (AKA Peyo) y ambientada en la Edad Media. En la aldea de los pitufos todas las casas son hongos o setas. Todos ellos se visten igual: pantalón blanco y gorro frigio blanco, a excepción del Gran Pitufo o Papá Pitufo, que usa un atuendo rojo. Él es el jefe de la aldea, debido a su avanzada edad y a sus conocimientos de magia.\n\nEl brujo Gargamel y su gato Azrael, intentan siempre y por todos los medios capturar a los pitufos con trampas. Los objetivos son dos: utilizarlos como ingrediente imprescindible para conseguir la transmutación de los metales y su transformación en oro, y preparar con ellos 'sopa de pitufos', un legendario plato exquisito de sabor incomparable. La serie se ramificó en varias películas; la última, que se estrenó en 2008, celebraba el 50º aniversario de los personajes.",
-      "inicio": "2026-10-24T09:30:00",
-      "fin": "2026-10-24T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lospitufos.jpg"
-    },
-    {
-      "titulo": "Ana de nadie",
-      "descripcion": "Ana, una mujer de 50 años, deberá replantear aspectos claves de su vida al descubrir que su marido con el que ha estado 25 años le es infiel.",
-      "inicio": "2026-10-24T22:00:00",
-      "fin": "2026-10-24T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Chavo del 8",
-      "descripcion": "Las vivencias de un grupo de personas que habitan en una vecindad mexicana, donde el Chavo junto con sus amigos, llevan a cabo travesuras que ocasionan malentendidos y discusiones entre los mismos vecinos.",
-      "inicio": "2026-10-24T22:30:00",
-      "fin": "2026-10-24T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
-    },
-    {
-      "titulo": "MasterChef Celebrity Colombia",
-      "descripcion": "Es la versión Colombiana de MasterChef Celebrity.",
-      "inicio": "2026-10-24T23:00:00",
-      "fin": "2026-10-25T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/masterchefcelebritycolombia.jpg"
-    },
-    {
-      "titulo": "Clásico RCN",
-      "descripcion": "Disfruta lo más emocionante del evento ciclista Clásico RCN Sistecrédito en su edición 2026. La competencia atraviesa 7 departamentos, consta de 9 etapas y se extiende a lo largo de 1272 kilómetros.",
-      "inicio": "2026-10-25T00:30:00",
-      "fin": "2026-10-25T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Enfermeras",
-      "descripcion": "María Clara González labora como jefe de enfermeras en uno de los hospitales más reconocidos de la ciudad: el Santa Rosa de Bogotá. La vida parecería sonreírle de no ser por la monotonía en la que ha caído su matrimonio con Román, con el que tiene dos hijos. El día de su aniversario, María Clara toma la decisión de reconquistar a su esposo y reserva una habitación de hotel para pasar la noche con él. No obstante, Román sufre un infarto en el lugar y es trasladado de emergencia para que reciba ayuda médica. María Clara pasa la noche a su lado. Al día siguiente, llega una mujer de nombre Paula acompañada de su pequeño hijo, y le dice a la enfermera que se trata del primogénito de Román. A partir de allí, María Clara se va desilusionando cada vez más de su marido, al punto de planear su divorcio.",
-      "inicio": "2026-10-25T01:00:00",
-      "fin": "2026-10-25T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enfermeras.jpg"
-    },
-    {
-      "titulo": "Noticias late",
-      "descripcion": "Un repaso nocturno por los acontecimientos más relevantes de la jornada, con toda la información a nivel nacional e internacional.",
-      "inicio": "2026-10-25T01:30:00",
-      "fin": "2026-10-25T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La noche",
-      "descripcion": "Un camino vertiginoso, infinito y único por todos los reveses nocturnos. Sexo, drogas y bebidas se alternan entre encuentro y encuentro, creando un continuado sin tapujos, frente a una cámara tan curiosa como audaz, que se atreve a recorrerlo todo.",
-      "inicio": "2026-10-25T02:00:00",
-      "fin": "2026-10-25T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lanoche.jpg"
-    },
-    {
-      "titulo": "RCN Noticias",
-      "descripcion": "Un espacio para encontrar contenidos de opinión, análisis y debate.",
-      "inicio": "2026-10-25T02:30:00",
-      "fin": "2026-10-25T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un amante de infarto",
-      "descripcion": "Durante un puente festivo, un prestigioso cardiólogo recibe un llamado de emergencia en plena noche. El doctor termina involucrado en las consecuencias de una fiesta clandestina de un candidato a la presidencia.",
-      "inicio": "2026-10-25T05:00:00",
-      "fin": "2026-10-25T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Caso cerrado",
-      "descripcion": "La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica. Con mediación sensata busca mantener la armonía y la paz en las relaciones personales. Resuelve en poco más de quince minutos casos que pueden tomar meses en una corte y lo hace de manera bastante equilibrada. Antes de la transmisión del espacio, ambas partes firman un acuerdo legal, jurando que se regirán por las decisiones que ella tome.",
-      "inicio": "2026-10-25T07:00:00",
-      "fin": "2026-10-25T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casocerrado.jpg"
-    },
     {
       "titulo": "RCN Noticias",
       "descripcion": "Un espacio para encontrar contenidos de opinión, análisis y debate.",
       "inicio": "2026-10-25T09:00:00",
       "fin": "2026-10-25T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Nuestra Santa Misa",
+      "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
+      "inicio": "2026-10-25T22:00:00",
+      "fin": "2026-10-25T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Retrato hablado",
+      "descripcion": "Exploramos casos sin resolver, crímenes olvidados y las voces de quienes han sido invisibilizados por el sistema.",
+      "inicio": "2026-10-25T22:00:00",
+      "fin": "2026-10-25T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Chavo del 8",
+      "descripcion": "Las vivencias de un grupo de personas que habitan en una vecindad mexicana, donde el Chavo junto con sus amigos, llevan a cabo travesuras que ocasionan malentendidos y discusiones entre los mismos vecinos.",
+      "inicio": "2026-10-25T23:00:00",
+      "fin": "2026-10-26T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
+    },
+    {
+      "titulo": "El show de las estrellas • Especial",
+      "descripcion": "Especial | Los televidentes podrán disfrutar de la presentación, que contará con cuatro artistas: Paola Jara, Alfredo Gutiérrez, Luis Silva, y Banda Fiesta, orquesta que se ha dedicado a interpretar el género tropical.",
+      "inicio": "2026-10-26T00:00:00",
+      "fin": "2026-10-26T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elshowdelasestrellas.jpg"
+    },
+    {
+      "titulo": "Clásico RCN",
+      "descripcion": "Disfruta lo más emocionante del evento ciclista Clásico RCN Sistecrédito en su edición 2026. La competencia atraviesa 7 departamentos, consta de 9 etapas y se extiende a lo largo de 1272 kilómetros.",
+      "inicio": "2026-10-26T00:30:00",
+      "fin": "2026-10-26T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El show de las estrellas • Especial",
+      "descripcion": "Especial | Los televidentes podrán disfrutar de la presentación, que contará con cuatro artistas: Paola Jara, Alfredo Gutiérrez, Luis Silva, y Banda Fiesta, orquesta que se ha dedicado a interpretar el género tropical.",
+      "inicio": "2026-10-26T01:00:00",
+      "fin": "2026-10-26T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elshowdelasestrellas.jpg"
+    },
+    {
+      "titulo": "RCN Noticias",
+      "descripcion": "Un espacio para encontrar contenidos de opinión, análisis y debate.",
+      "inicio": "2026-10-26T02:30:00",
+      "fin": "2026-10-26T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los justicieros",
+      "descripcion": "Decidido a retirarse de su trabajo como representante de la ley, el legendario Wyatt Earp se establece en Tombstone, Arizona, junto a sus hermanos. Pero un grupo de forajidos interrumpirá su tranquilidad.",
+      "inicio": "2026-10-26T05:00:00",
+      "fin": "2026-10-26T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Caso cerrado",
+      "descripcion": "La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica. Con mediación sensata busca mantener la armonía y la paz en las relaciones personales. Resuelve en poco más de quince minutos casos que pueden tomar meses en una corte y lo hace de manera bastante equilibrada. Antes de la transmisión del espacio, ambas partes firman un acuerdo legal, jurando que se regirán por las decisiones que ella tome.",
+      "inicio": "2026-10-26T07:00:00",
+      "fin": "2026-10-26T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casocerrado.jpg"
+    },
+    {
+      "titulo": "RCN Noticias",
+      "descripcion": "Un espacio para encontrar contenidos de opinión, análisis y debate.",
+      "inicio": "2026-10-26T09:00:00",
+      "fin": "2026-10-26T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
