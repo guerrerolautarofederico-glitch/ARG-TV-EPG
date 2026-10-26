@@ -1,262 +1,143 @@
 {
   "actual": {
-    "titulo": "DNews - Fin de semana • Parte 4",
-    "descripcion": "Parte 4 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-    "inicio": "2026-10-25T09:30:00",
-    "fin": "2026-10-25T10:00:00",
+    "titulo": "Dnews a la mañana",
+    "descripcion": "Toda la actualidad y la información en la edición matutina, para comprender lo que sucede en la región y en el mundo.",
+    "inicio": "2026-10-26T08:00:00",
+    "fin": "2026-10-26T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Alzar la voz",
-    "descripcion": "Un documental sobre la vida de la cantautora Rocío Carbajo y su viaje musical rodeado de recuerdos familiares y militancia.",
-    "inicio": "2026-10-25T10:00:00",
-    "fin": "2026-10-25T10:30:00",
+    "titulo": "Dnews al día",
+    "descripcion": "Un resumen de la jornada informativa con el análisis, las voces de los protagonistas, las figuras políticas de Latinoamérica y las repercusiones en los países de la región.",
+    "inicio": "2026-10-26T12:00:00",
+    "fin": "2026-10-26T14:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "DNews - Fin de semana • Parte 4",
-      "descripcion": "Parte 4 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-25T09:30:00",
-      "fin": "2026-10-25T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Alzar la voz",
-      "descripcion": "Un documental sobre la vida de la cantautora Rocío Carbajo y su viaje musical rodeado de recuerdos familiares y militancia.",
-      "inicio": "2026-10-25T10:00:00",
-      "fin": "2026-10-25T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews Música",
-      "descripcion": "Todas las novedades musicales del continente en un formato ágil y dinámico.",
-      "inicio": "2026-10-25T10:30:00",
-      "fin": "2026-10-25T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews - Fin de semana • Parte 5",
-      "descripcion": "Parte 5 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-25T11:00:00",
-      "fin": "2026-10-25T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews - Fin de semana • Parte 6",
-      "descripcion": "Parte 6 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-25T11:30:00",
-      "fin": "2026-10-25T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Finca las divas - Cocina de estación",
-      "descripcion": "Un programa de gastronomía que recorre las cocinas y tradiciones culinarias de los pueblos huarpes, incas y criollos que habitaron la región de Cuyo, rescatando sus sabores, ingredientes ancestrales y las historias que dieron forma a la identidad gastronómica cuyana.",
-      "inicio": "2026-10-25T12:00:00",
-      "fin": "2026-10-25T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Vinos de América",
-      "descripcion": "De la mano del sommelier y periodista Fabricio Portelli, conocemos las historias de las bodegas de Latinoamérica y descubrimos, junto a sus protagonistas, los secretos, sabores y particularidades del vino de nuestra región.",
-      "inicio": "2026-10-25T12:30:00",
-      "fin": "2026-10-25T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cocina Latina",
-      "descripcion": "Recorremos los mejores restaurantes de Latinoamérica de la mano de reconocidos chefs, descubriendo sus cocinas, sus historias y los secretos detrás de cada plato que los distingue.",
-      "inicio": "2026-10-25T13:00:00",
-      "fin": "2026-10-25T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Buena salud América",
-      "descripcion": "Un espacio para tratar temas médicos y en el que la prevención será la mejor receta.",
-      "inicio": "2026-10-25T13:30:00",
-      "fin": "2026-10-25T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Colmenares",
-      "descripcion": "Una producción documental que reconstruye el caso vinculado a la muerte de un joven universitario y que se convirtió en un fenómeno judicial y social de alcance internacional.",
-      "inicio": "2026-10-25T14:00:00",
-      "fin": "2026-10-25T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews - Fin de semana • Parte 2",
-      "descripcion": "Parte 2 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-25T14:30:00",
-      "fin": "2026-10-25T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cocotrips",
-      "descripcion": "Un espacio de turismo, gastronomía, cultura y aventura en el que Coco Maggio comparte su pasión por los viajes y nos lleva a recorrer distintos países de Latinoamérica.",
-      "inicio": "2026-10-25T15:00:00",
-      "fin": "2026-10-25T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ecolatina",
-      "descripcion": "Un ciclo cuyo objetivo es proteger el medio ambiente. Abordamos diversos temas como el desarrollo sustentable, la lucha contra el cambio climático, la pérdida de la biodiversidad, las especies invasoras que fueron introducidas y se expanden de forma descontrolada y mucho más.",
-      "inicio": "2026-10-25T15:30:00",
-      "fin": "2026-10-25T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews - Fin de semana • Parte 3",
-      "descripcion": "Parte 3 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-25T16:00:00",
-      "fin": "2026-10-25T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews - Fin de semana • Parte 4",
-      "descripcion": "Parte 4 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-25T16:30:00",
-      "fin": "2026-10-25T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dnews - Especial elecciones Brasil",
-      "descripcion": "Resumen informativo con enviados especiales a Brasil por la elección presidencial que define el futuro del país.",
-      "inicio": "2026-10-25T17:00:00",
-      "fin": "2026-10-25T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cocina Latina",
-      "descripcion": "Recorremos los mejores restaurantes de Latinoamérica de la mano de reconocidos chefs, descubriendo sus cocinas, sus historias y los secretos detrás de cada plato que los distingue.",
-      "inicio": "2026-10-25T23:00:00",
-      "fin": "2026-10-25T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Buena salud América",
-      "descripcion": "Un espacio para tratar temas médicos y en el que la prevención será la mejor receta.",
-      "inicio": "2026-10-25T23:30:00",
-      "fin": "2026-10-26T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews Música",
-      "descripcion": "Todas las novedades musicales del continente en un formato ágil y dinámico.",
-      "inicio": "2026-10-26T00:00:00",
-      "fin": "2026-10-26T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Alzar la voz",
-      "descripcion": "Un documental sobre la vida de la cantautora Rocío Carbajo y su viaje musical rodeado de recuerdos familiares y militancia.",
-      "inicio": "2026-10-26T00:30:00",
-      "fin": "2026-10-26T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews - Fin de semana • Parte 3",
-      "descripcion": "Parte 3 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-26T01:00:00",
-      "fin": "2026-10-26T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews - Fin de semana • Parte 4",
-      "descripcion": "Parte 4 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-26T01:30:00",
-      "fin": "2026-10-26T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Visión futuro",
-      "descripcion": "Visión futuro es la emisión de DW sobre ciencia. Este magazín va dirigido a todos los que se interesan por la investigación en Alemania y Europa. Con un lenguaje comprensible y una presentación atractiva, sus dinámicos reportajes cubren un amplio espectro de temas cruciales para el futuro: desde la astronáutica hasta la protección medioambiental, pasando por la ingeniería genética, los descubrimientos en la medicina y las propuestas urbanísticas del mañana. Visión futuro transmite las ideas de personas que piensan más allá: científicos destacados, cerebros únicos y visionarios.",
-      "inicio": "2026-10-26T02:00:00",
-      "fin": "2026-10-26T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/visionfuturo.jpg"
-    },
-    {
-      "titulo": "Cocina Latina",
-      "descripcion": "Recorremos los mejores restaurantes de Latinoamérica de la mano de reconocidos chefs, descubriendo sus cocinas, sus historias y los secretos detrás de cada plato que los distingue.",
-      "inicio": "2026-10-26T02:30:00",
-      "fin": "2026-10-26T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Finca las divas - Cocina de estación",
-      "descripcion": "Un programa de gastronomía que recorre las cocinas y tradiciones culinarias de los pueblos huarpes, incas y criollos que habitaron la región de Cuyo, rescatando sus sabores, ingredientes ancestrales y las historias que dieron forma a la identidad gastronómica cuyana.",
-      "inicio": "2026-10-26T03:00:00",
-      "fin": "2026-10-26T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ecolatina",
-      "descripcion": "Un ciclo cuyo objetivo es proteger el medio ambiente. Abordamos diversos temas como el desarrollo sustentable, la lucha contra el cambio climático, la pérdida de la biodiversidad, las especies invasoras que fueron introducidas y se expanden de forma descontrolada y mucho más.",
-      "inicio": "2026-10-26T03:30:00",
-      "fin": "2026-10-26T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews Música",
-      "descripcion": "Todas las novedades musicales del continente en un formato ágil y dinámico.",
-      "inicio": "2026-10-26T04:00:00",
-      "fin": "2026-10-26T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Vinos de América",
-      "descripcion": "De la mano del sommelier y periodista Fabricio Portelli, conocemos las historias de las bodegas de Latinoamérica y descubrimos, junto a sus protagonistas, los secretos, sabores y particularidades del vino de nuestra región.",
-      "inicio": "2026-10-26T04:30:00",
-      "fin": "2026-10-26T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews - Fin de semana • Parte 5",
-      "descripcion": "Parte 5 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-26T05:00:00",
-      "fin": "2026-10-26T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews - Fin de semana • Parte 6",
-      "descripcion": "Parte 6 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-26T05:30:00",
-      "fin": "2026-10-26T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews - Fin de semana • Parte 1",
-      "descripcion": "Parte 1 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-26T06:00:00",
-      "fin": "2026-10-26T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews - Fin de semana • Parte 2",
-      "descripcion": "Parte 2 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-26T06:30:00",
-      "fin": "2026-10-26T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews - Fin de semana • Parte 3",
-      "descripcion": "Parte 3 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-26T07:00:00",
-      "fin": "2026-10-26T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DNews - Fin de semana • Parte 4",
-      "descripcion": "Parte 4 | Para analizar las noticias más relevantes. Para conocer realidades diferentes. Los hechos que impactaron y lo que tenes que saber para empezar la semana informado.",
-      "inicio": "2026-10-26T07:30:00",
-      "fin": "2026-10-26T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Dnews a la mañana",
       "descripcion": "Toda la actualidad y la información en la edición matutina, para comprender lo que sucede en la región y en el mundo.",
       "inicio": "2026-10-26T08:00:00",
       "fin": "2026-10-26T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dnews al día",
+      "descripcion": "Un resumen de la jornada informativa con el análisis, las voces de los protagonistas, las figuras políticas de Latinoamérica y las repercusiones en los países de la región.",
+      "inicio": "2026-10-26T12:00:00",
+      "fin": "2026-10-26T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews a la tarde - Primera edición",
+      "descripcion": "Toda la actualidad y la información en la edición de la tarde, para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-26T14:00:00",
+      "fin": "2026-10-26T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews a la tarde - Segunda edición",
+      "descripcion": "Toda la actualidad y la información en la edición de la tarde, para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-26T17:00:00",
+      "fin": "2026-10-26T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews central",
+      "descripcion": "Toda la actualidad y la información para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-26T20:00:00",
+      "fin": "2026-10-26T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La clave",
+      "descripcion": "Un espacio donde abordamos la actualidad social, política y económica del país y de la región a través del estilo inconfundible y el conocimiento periodístico de Alfredo Leuco.",
+      "inicio": "2026-10-26T21:00:00",
+      "fin": "2026-10-26T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews Update",
+      "descripcion": "Analizamos la estabilidad geopolítica y las nuevas alianzas mundiales bajo el filtro de una Inteligencia Artificial que hoy redefine la verdad y la opinión pública.",
+      "inicio": "2026-10-26T22:00:00",
+      "fin": "2026-10-26T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Literamente cubano",
+      "descripcion": "Desde el corazón de La Habana recorremos la realidad de la Cuba de hoy: su sociedad, la crisis que atraviesa y la forma en que viven y resisten los cubanos en su día a día.",
+      "inicio": "2026-10-26T23:00:00",
+      "fin": "2026-10-27T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews central",
+      "descripcion": "Repetición ║ Toda la actualidad y la información para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-27T00:00:00",
+      "fin": "2026-10-27T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Buena salud América",
+      "descripcion": "Un espacio para tratar temas médicos y en el que la prevención será la mejor receta.",
+      "inicio": "2026-10-27T01:00:00",
+      "fin": "2026-10-27T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La clave",
+      "descripcion": "Repetición ║ Un espacio donde abordamos la actualidad social, política y económica del país y de la región a través del estilo inconfundible y el conocimiento periodístico de Alfredo Leuco.",
+      "inicio": "2026-10-27T01:30:00",
+      "fin": "2026-10-27T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews Update",
+      "descripcion": "Analizamos la estabilidad geopolítica y las nuevas alianzas mundiales bajo el filtro de una Inteligencia Artificial que hoy redefine la verdad y la opinión pública.",
+      "inicio": "2026-10-27T02:30:00",
+      "fin": "2026-10-27T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Literamente cubano",
+      "descripcion": "Desde el corazón de La Habana recorremos la realidad de la Cuba de hoy: su sociedad, la crisis que atraviesa y la forma en que viven y resisten los cubanos en su día a día.",
+      "inicio": "2026-10-27T03:30:00",
+      "fin": "2026-10-27T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La clave",
+      "descripcion": "Repetición ║ Un espacio donde abordamos la actualidad social, política y económica del país y de la región a través del estilo inconfundible y el conocimiento periodístico de Alfredo Leuco.",
+      "inicio": "2026-10-27T04:30:00",
+      "fin": "2026-10-27T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fuerza latina",
+      "descripcion": "Las periodistas Natalia Orozco y Yoani Sánchez conversan cada semana con mujeres extraordinarias de América Latina, quienes nos acercan sus fascinantes historias y nos muestran el entorno en el que viven y trabajan. Son mujeres que, con tenacidad y perseverancia, se proponen cambiar la sociedad y alzan su voz para reclamar derechos y denunciar injusticias.",
+      "inicio": "2026-10-27T05:30:00",
+      "fin": "2026-10-27T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatina.jpg"
+    },
+    {
+      "titulo": "DNews central",
+      "descripcion": "Repetición ║ Toda la actualidad y la información para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-27T06:00:00",
+      "fin": "2026-10-27T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DNews Update",
+      "descripcion": "Analizamos la estabilidad geopolítica y las nuevas alianzas mundiales bajo el filtro de una Inteligencia Artificial que hoy redefine la verdad y la opinión pública.",
+      "inicio": "2026-10-27T07:00:00",
+      "fin": "2026-10-27T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dnews a la mañana",
+      "descripcion": "Toda la actualidad y la información en la edición matutina, para comprender lo que sucede en la región y en el mundo.",
+      "inicio": "2026-10-27T08:00:00",
+      "fin": "2026-10-27T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

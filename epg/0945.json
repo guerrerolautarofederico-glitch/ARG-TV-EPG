@@ -1,150 +1,66 @@
 {
   "actual": {
-    "titulo": "Santa misa",
-    "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
-    "inicio": "2026-10-25T09:15:00",
-    "fin": "2026-10-25T22:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
+    "titulo": "Arriba Bogotá",
+    "descripcion": "Magazín informativo donde podrás encontrar información de interés sobre los hechos más relevantes ocurridos en la actualidad, desde reportes de tránsito, estado del clima y entretenimiento, entre otros.",
+    "inicio": "2026-10-26T07:30:00",
+    "fin": "2026-10-26T23:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Bravissimo",
-    "descripcion": "El maestro suplente Impallato descubre a un alumno con unas características excepcionales para la canción lírica y lo explota para obtener fama y riqueza.",
-    "inicio": "2026-10-25T22:00:00",
-    "fin": "2026-10-25T22:00:00",
+    "titulo": "Resumen - Inocente de ti",
+    "descripcion": "Resumen de la serie donde Florecita, es una joven de Zacatecas que junto con su hermana deciden irse a Miami a alcanzar a su padre y sus hermanos que radican ahí, pero este largo viaje resulta más complicado hubieran imaginado.",
+    "inicio": "2026-10-26T23:30:00",
+    "fin": "2026-10-27T01:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Santa misa",
-      "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
-      "inicio": "2026-10-25T09:15:00",
-      "fin": "2026-10-25T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
-    },
-    {
-      "titulo": "Bravissimo",
-      "descripcion": "El maestro suplente Impallato descubre a un alumno con unas características excepcionales para la canción lírica y lo explota para obtener fama y riqueza.",
-      "inicio": "2026-10-25T22:00:00",
-      "fin": "2026-10-25T22:00:00",
+      "titulo": "Arriba Bogotá",
+      "descripcion": "Magazín informativo donde podrás encontrar información de interés sobre los hechos más relevantes ocurridos en la actualidad, desde reportes de tránsito, estado del clima y entretenimiento, entre otros.",
+      "inicio": "2026-10-26T07:30:00",
+      "fin": "2026-10-26T23:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Citynoticias de las 8",
-      "descripcion": "Al terminar el día siempre es importante estar bien informado, por eso llega hasta ti este espacio que te llevará los hechos más importantes en diferentes ámbitos del acontecer diario nacional e internacional.",
-      "inicio": "2026-10-25T22:00:00",
-      "fin": "2026-10-25T23:00:00",
+      "titulo": "Resumen - Inocente de ti",
+      "descripcion": "Resumen de la serie donde Florecita, es una joven de Zacatecas que junto con su hermana deciden irse a Miami a alcanzar a su padre y sus hermanos que radican ahí, pero este largo viaje resulta más complicado hubieran imaginado.",
+      "inicio": "2026-10-26T23:30:00",
+      "fin": "2026-10-27T01:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Noctámbulo",
-      "descripcion": "Durante las mañanas, disfruta del desarrollo de las informaciones correspondientes a los sucesos más importantes ocurridos en la Bogotá noctámbula, para que te enteres de inmediato de lo que sucedió en la noche capitalina.",
-      "inicio": "2026-10-25T23:00:00",
-      "fin": "2026-10-25T23:30:00",
+      "titulo": "Citynoticias del mediodía",
+      "descripcion": "Al mediodía, siempre es bueno actualizarse con las informaciones de último momento. Por eso, este espacio llevará a tu pantalla todos los acontecimientos que han ocurrido en las recientes horas a nivel nacional e internacional.",
+      "inicio": "2026-10-27T01:30:00",
+      "fin": "2026-10-27T04:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Destinos",
-      "descripcion": "Destinos gira en torno a equívocos risueños en el ambiente estudiantil. Comienza como una historia sobre el comportamiento de unos estudiantes en una casa de huéspedes, donde se presentan asuntos de amor y fiestas que se están investigando. Luego hay cambios bruscos de tono, de cómico a dramático, cuando los chicos tienen que enfrentarse a la realidad de la vida cotidiana en la búsqueda de sus objetivos. Hacia el final la trama se complica, con la sospecha de que el matrimonio entre los protagonistas podría ser incestuoso.",
-      "inicio": "2026-10-25T23:30:00",
-      "fin": "2026-10-26T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destinos.jpg"
-    },
-    {
-      "titulo": "Noticiero del Congreso",
-      "descripcion": "Información de las actividades y el trabajo que se desarrolla en el Congreso.",
-      "inicio": "2026-10-26T00:00:00",
-      "fin": "2026-10-26T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Arriba, Bogotá - Reporte semanal",
-      "descripcion": "Un magazine periodístico en donde se brinda toda la información sobre los últimos acontecimientos de la semana: actualidad, tránsito, clima, personajes y mucho más temas destacados.",
-      "inicio": "2026-10-26T00:30:00",
-      "fin": "2026-10-26T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Citynoticias - Fin de semana",
-      "descripcion": "Un espacio periodístico en el cual se cubren los últimos acontecimientos y se brinda información de interés para los habitantes de Bogotá con un estilo informal, distendido y dinámico.",
-      "inicio": "2026-10-26T02:00:00",
-      "fin": "2026-10-26T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Programación comercial",
-      "descripcion": "Un espacio que presenta diversos contenidos comercial y de compra y venta de producto y servicios.",
-      "inicio": "2026-10-26T02:00:00",
-      "fin": "2026-10-26T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Programación comercial",
-      "descripcion": "Un espacio que presenta diversos contenidos comercial y de compra y venta de producto y servicios.",
-      "inicio": "2026-10-26T02:30:00",
-      "fin": "2026-10-26T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Somos llaves",
-      "descripcion": "Espacios que da voz a los empresarios, a través de historias inspiradoras se contagiará a pequeños empresarios sobre el impulso y las posibilidades que dá la ccb con capacitaciones y servicios claves, herramientas para salir adelante...",
-      "inicio": "2026-10-26T03:00:00",
-      "fin": "2026-10-26T03:30:00",
+      "titulo": "Corona TV",
+      "descripcion": "Ariel Osorio y Alejandra Serje conducen un espacio donde analizan la actualidad de la farándula. A través del espacio, los presentadores se entretienen con infidelidades, escándalos, secretos y mucho más.",
+      "inicio": "2026-10-27T04:30:00",
+      "fin": "2026-10-27T05:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Degrassi: la nueva generación",
       "descripcion": "Serie adolescente que trata sobre las alegrías y problemas de sus jovenes protagonistas en su entorno familiar y escolar. La serie trata en forma entretenida y cotidiana temas propios de los adolescentes de una forma bastante madura.",
-      "inicio": "2026-10-26T03:30:00",
-      "fin": "2026-10-26T04:00:00",
+      "inicio": "2026-10-27T05:30:00",
+      "fin": "2026-10-27T06:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/degrassilanuevageneracion.jpg"
     },
     {
-      "titulo": "Sala de redacción",
-      "descripcion": "Un espacio de análisis de los temas coyunturales que más interesan a Bogotá.",
-      "inicio": "2026-10-26T04:00:00",
-      "fin": "2026-10-26T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "¿Quién tiene la razón?",
+      "descripcion": "La doctora Nancy Álvarez y Carmen Jara, acompañadas de un jurado implacable, escuchan y resuelven problemas de ciudadanos comunes. Una tribuna para analizar y buscar soluciones a los diferentes conflictos familiares y de pareja.",
+      "inicio": "2026-10-27T06:30:00",
+      "fin": "2026-10-27T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/quientienelarazon.jpg"
     },
     {
-      "titulo": "En mi semana",
-      "descripcion": "Programa de entretenimiento, entrevistas y tendencias de la televisión colombiana enfocado en conectar con la audiencia mediante historias de la cultura popular y el entretenimiento nacional.",
-      "inicio": "2026-10-26T04:30:00",
-      "fin": "2026-10-26T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Degrassi: la nueva generación",
-      "descripcion": "Serie adolescente que trata sobre las alegrías y problemas de sus jovenes protagonistas en su entorno familiar y escolar. La serie trata en forma entretenida y cotidiana temas propios de los adolescentes de una forma bastante madura.",
-      "inicio": "2026-10-26T05:00:00",
-      "fin": "2026-10-26T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/degrassilanuevageneracion.jpg"
-    },
-    {
-      "titulo": "Defensor del televidente",
-      "descripcion": "Espacio de expresión ciudadana cuyo objetivo es fomentar la participación crítica de los televidentes en relación con la calidad de los contenidos y el desempeño del canal.",
-      "inicio": "2026-10-26T05:30:00",
-      "fin": "2026-10-26T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La leyenda del dragón",
-      "descripcion": "Al ser elegido como el nuevo Dragón Dorado, el joven Ang desata el despecho de su hermana gemela Ling. Rechazada, ella sucumbe al poder del Dragón de las Sombras, obligando a Ang a enfrentarse a su propia familia para salvar el mundo.",
-      "inicio": "2026-10-26T06:00:00",
-      "fin": "2026-10-26T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Popeye",
-      "descripcion": "Popeye es un marinero independiente, con una pipa de caña de maíz siempre en la boca, una peculiar forma de hablar, y, sobre todo, unos desarrolladísimos músculos en los antebrazos. Su alimento preferido son las espinacas que aumentan su fuerza hasta límites insospechados. Tiene el cabello rojo y una prominente mandíbula. Su único ojo, el izquierdo es de color azul. Su extraño sentido del humor se pone de manifiesto en una serie de aventuras a lo largo del mundo, en las que se enfrenta a diversos enemigos, especialmente a Bluto, que está enamorado de Olivia, la novia de Popeye.",
-      "inicio": "2026-10-26T07:00:00",
-      "fin": "2026-10-26T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/popeye.jpg"
-    },
-    {
-      "titulo": "De fiesta con Danny Marín • Capítulo 82",
-      "descripcion": "Capítulo 82 | Un espacio diferente para disfrutar en familia con mucha música, artistas, entretenimiento, buen humor y grandes sorpresas.",
-      "inicio": "2026-10-26T09:00:00",
-      "fin": "2026-10-26T22:00:00",
+      "titulo": "Inocente de ti",
+      "descripcion": "Florecita Gonzales, interpretada por Camila Sodi, es una joven alegre y decidida que luego de pasar por una gran tragedia en su intento por llegar a los Estados Unidos para alcanzar a su padre y sus hermanos que radican ahí, lucha por trabajar y salir adelante, sin pensar que en uno de esos días conocería al hombre de su vida, no sin antes tener que luchar por su amor. Inocente De Ti es una producción Mexicana, remake de la telenovela de 1992 \"Maria Mercedes\"",
+      "inicio": "2026-10-27T08:30:00",
+      "fin": "2026-10-27T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

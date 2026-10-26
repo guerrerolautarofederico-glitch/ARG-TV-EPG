@@ -1,101 +1,115 @@
 {
   "actual": {
-    "titulo": "Intercambio de hermanas: Navidad en el pueblo",
-    "descripcion": "Jennifer y Meg son hermanas muy unidas que viven distanciadas. La primera está en Salt Lake City, dirige un exitoso restaurante que abrió con su difunto esposo; la segunda se quedó en Hazelwood, en la panadería local de sus padres.",
-    "inicio": "2026-10-25T09:00:00",
-    "fin": "2026-10-25T10:35:00",
+    "titulo": "Escuela de tontos",
+    "descripcion": "Roger se inscribe con el Dr. P, quien usa métodos extraños pero efectivos, en un curso para mejorar su autoestima. Muy pronto, alumno y profesor entran en conflicto cuando se enamoran de la misma joven.",
+    "inicio": "2026-10-26T09:30:00",
+    "fin": "2026-10-26T11:25:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Una receta navideña",
-    "descripcion": "Annie enfrenta su primer desafío en la panadería familiar cuando la receta de su abuela desaparece y, con la ayuda de Sam, el panadero local, se embarca en una misión para recuperarla.",
-    "inicio": "2026-10-25T10:35:00",
-    "fin": "2026-10-25T12:10:00",
+    "titulo": "Johnny English",
+    "descripcion": "Las joyas de la Corona desaparecieron, y Johnny English debe investigar el caso, un agente tan entregado al trabajo como inexperto",
+    "inicio": "2026-10-26T11:25:00",
+    "fin": "2026-10-26T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
+      "titulo": "Escuela de tontos",
+      "descripcion": "Roger se inscribe con el Dr. P, quien usa métodos extraños pero efectivos, en un curso para mejorar su autoestima. Muy pronto, alumno y profesor entran en conflicto cuando se enamoran de la misma joven.",
+      "inicio": "2026-10-26T09:30:00",
+      "fin": "2026-10-26T11:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Johnny English",
+      "descripcion": "Las joyas de la Corona desaparecieron, y Johnny English debe investigar el caso, un agente tan entregado al trabajo como inexperto",
+      "inicio": "2026-10-26T11:25:00",
+      "fin": "2026-10-26T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Johnny English 3.0",
+      "descripcion": "Cuando un ciberataque revela la identidad de los agentes secretos en actividad del Reino Unido, Johnny English se convierte en la única esperanza. Pero para dar con el hacker, Johnny deberá esforzarse y adaptarse a la tecnología moderna.",
+      "inicio": "2026-10-26T13:00:00",
+      "fin": "2026-10-26T14:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La vuelta al mundo en 80 días",
+      "descripcion": "El caballero aventurero Phileas Fogg emprende una búsqueda para viajar alrededor del mundo y regresar a casa en un período de 80 días. Adaptación épica del clásico de Jules Verne, Around the World in 80 Days.",
+      "inicio": "2026-10-26T14:40:00",
+      "fin": "2026-10-26T16:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lavueltaalmundoen80dias.jpg"
+    },
+    {
+      "titulo": "Ophelia",
+      "descripcion": "Ophelia, es una joven adolescente e impetuosa que reside en el castillo de Elsinore como una de las personas de confianza de la Reina Gertrude. Su personalidad no pasa desapercibida ante los ojos del Príncipe Hamlet, a quien conquista rápidamente. Ambos se enzarzan en un apasionado romance secreto mientras su reino se encuentra al borde de entrar en guerra, plagado de traición y de intrigas palaciegas. Versión de Hamlet desde la perspectiva de Ofelia.",
+      "inicio": "2026-10-26T16:50:00",
+      "fin": "2026-10-26T18:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ophelia.jpg"
+    },
+    {
+      "titulo": "Emma",
+      "descripcion": "Miniserie de TV de 4 capítulos. Emma Woodhouse (Romola Garai), una joven hermosa, inteligente y rica, está convencida de que tiene un don especial para ejercer de casamentera después de haber apoyado los felices matrimonios de su hermana mayor y de su institutriz. No le importa que el Sr. Knightley intente demostrarle que ella, en realidad, no tuvo nada que ver con esas bodas. Ofuscada por ese don inexistente, se enzarza en un juego peligroso y persuade a su amiga Harriet Smith (Louise Dylan), una joven hermosa, pero de clase social inferior, para que rechace la atractiva propuesta de matrimonio de un granjero del pueblo.",
+      "inicio": "2026-10-26T18:40:00",
+      "fin": "2026-10-26T20:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/emma.jpg"
+    },
+    {
+      "titulo": "Mas notas perfectas",
+      "descripcion": "Beca y Fat Amy se enfrentan a su último año en la universidad. Las Barden Bellas se han convertido en el coro a capella más importante y envidiado del campus y competirá en el Campeonato mundial de Coros.",
+      "inicio": "2026-10-26T20:55:00",
+      "fin": "2026-10-26T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pitch Perfect 3: La última nota",
+      "descripcion": "Tras ganar el campeonato del mundo, las Bellas se separan y descubren que es difícil encontrar trabajo en el mundo de la música. Pero cuando tienen la oportunidad de reunirse para un tour en el extranjero, el grupo volverá a hacer música.",
+      "inicio": "2026-10-26T23:00:00",
+      "fin": "2026-10-27T00:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un pequeño favor",
+      "descripcion": "Stephanie es una joven madre videobloguera de una ciudad pequeña cuya mejor amiga, la sofisticada Emily, desaparece un día repentinamente. A Stephanie le ayudará en su búsqueda el marido de Emily, Sean.",
+      "inicio": "2026-10-27T00:40:00",
+      "fin": "2026-10-27T02:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/unpequenofavor.jpg"
+    },
+    {
+      "titulo": "Sangre, sudor y gloria",
+      "descripcion": "Daniel y Adrian entrenan muy duro en el gimnasio cada día. Deciden pasar a la acción y dar un gran golpe. Los dos, junto a Paul, un ex presidiario temeroso de Dios, forman un grupo para extorsionar y secuestrar a un empresario adinerado.",
+      "inicio": "2026-10-27T02:50:00",
+      "fin": "2026-10-27T05:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hombre en llamas",
+      "descripcion": "John Creasy, un antiguo agente de la CIA es contratado en México para hacer de guardaespaldas de una niña. Creasy soporta a regañadientes a la precoz niña, pero cuando es secuestrada jura matar a cualquiera que esté involucrado.",
+      "inicio": "2026-10-27T05:05:00",
+      "fin": "2026-10-27T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Intercambio de hermanas: Navidad en la ciudad",
+      "descripcion": "Dos hermanas encuentran un nuevo propósito y descubren lo que realmente necesitan en la vida durante la fiesta navideña.",
+      "inicio": "2026-10-27T07:30:00",
+      "fin": "2026-10-27T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/intercambiodehermanasnavidadenlaciudad.jpg"
+    },
+    {
+      "titulo": "Un inesperado cuento de Navidad",
+      "descripcion": "Talia y su mejor amigo de la infancia, Anderson, se reúnen inesperadamente en un pueblo familiar lleno de espíritu navideño que restaura a sus visitantes durante tiempos de profunda agitación.",
+      "inicio": "2026-10-27T09:00:00",
+      "fin": "2026-10-27T10:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/uninesperadocuentodenavidad.jpg"
+    },
+    {
       "titulo": "Intercambio de hermanas: Navidad en el pueblo",
       "descripcion": "Jennifer y Meg son hermanas muy unidas que viven distanciadas. La primera está en Salt Lake City, dirige un exitoso restaurante que abrió con su difunto esposo; la segunda se quedó en Hazelwood, en la panadería local de sus padres.",
-      "inicio": "2026-10-25T09:00:00",
-      "fin": "2026-10-25T10:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Una receta navideña",
-      "descripcion": "Annie enfrenta su primer desafío en la panadería familiar cuando la receta de su abuela desaparece y, con la ayuda de Sam, el panadero local, se embarca en una misión para recuperarla.",
-      "inicio": "2026-10-25T10:35:00",
-      "fin": "2026-10-25T12:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Stargate, puerta a las estrellas",
-      "descripcion": "Un coronel y un científico, movidos por distintos intereses, investigan el misterioso hallazgo en unas excavaciones de un extraño artefacto al que llaman \"Puerta de las Estrellas\". Acompañados de un equipo de reconocimiento, atraviesan la Puerta y son transportados a un lejano planeta.",
-      "inicio": "2026-10-25T12:10:00",
-      "fin": "2026-10-25T14:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/stargatepuertaalasestrellas.jpg"
-    },
-    {
-      "titulo": "Rocky Balboa",
-      "descripcion": "Cuando un canal de cable transmite una simulación que predice que un Rocky Balboa en su apogeo ganaría la pelea contra el actual campeón de peso pesado, el envejecido y retirado Balboa comienza a considerar su regreso al ring.",
-      "inicio": "2026-10-25T14:15:00",
-      "fin": "2026-10-25T16:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Creed: Corazón de campeón",
-      "descripcion": "Adonis Johnson, hijo de Apollo Creed, busca a Rocky y le pide que sea su entrenador. Rocky ve en Adonis la fuerza y determinación que tenía su rival, y que lo terminó por convertir en su mejor amigo.",
-      "inicio": "2026-10-25T16:10:00",
-      "fin": "2026-10-25T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Creed II: Defendiendo el legado",
-      "descripcion": "Adonis Creed debe pelear contra un oponente que tiene vínculos con el pasado de su familia. Bajo la tutela de Rocky Balboa, el recién coronado campeón de peso pesado, se enfrentará a Viktor Drago, hijo de Ivan Drago.",
-      "inicio": "2026-10-25T18:30:00",
-      "fin": "2026-10-25T20:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ad Astra: hacia las estrellas",
-      "descripcion": "El astronauta Roy McBride emprende una misión a través de un implacable sistema solar, para descubrir la verdad sobre su desaparecido padre y su condenada expedición que ahora, 30 años después, amenaza el universo.",
-      "inicio": "2026-10-25T20:50:00",
-      "fin": "2026-10-25T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/adastrahacialasestrellas.jpg"
-    },
-    {
-      "titulo": "El silencio de los inocentes",
-      "descripcion": "Una joven (Alexandra Neldel) comienza a trabajar recogiendo llamadas de emergencia cuando recibe una que le pone sobre la pista de un asesino en serie que, por alguna extraña razón, pretende que ella se involucre en el caso. Por otro lado de nuevo otra adolescente ha sido secuestrada. La policía no sabe por dónde empezar, pero seguramente de ella dependerá que encuentren a la víctima con vida.",
-      "inicio": "2026-10-25T23:00:00",
-      "fin": "2026-10-26T01:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El hombre lobo",
-      "descripcion": "La infancia de Lawrence Talbot se acabó bruscamente la noche que murió su madre. Se marchó de su pueblo, Blackmoor, y tardó décadas en recuperarse e intentar olvidar. Cuando Gwen Conliffe, la prometida de su hermano, le encuentra y le ruega que la ayude a buscar a su amor, que se encuentra desaparecido, Lawrence Talbot regresa a casa. Entonces se entera de que algo brutal, salvaje, con una sed insaciable de sangre ha matado a muchos campesinos. Empieza a encajar las piezas del sangriento rompecabezas y descubre que existe una antigua maldición que convierte a las víctimas en hombres lobo las noches de luna llena. Para acabar con la carnicería y proteger a la mujer de la que se ha enamorado, Lawrence Talbot debe destruir a la temible criatura que se esconde en los bosques cercanos a Blackmoor. Este hombre sencillo con un pasado doloroso sale en busca de la bestia y descubre que él también tiene un lado primitivo que ni siquiera podía imaginar.",
-      "inicio": "2026-10-26T01:10:00",
-      "fin": "2026-10-26T02:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elhombrelobo.jpg"
-    },
-    {
-      "titulo": "Studio Universal",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-26T02:10:00",
-      "fin": "2026-10-26T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Studio Universal",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-26T03:00:00",
-      "fin": "2026-10-26T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Studio Universal",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-26T07:00:00",
-      "fin": "2026-10-26T11:00:00",
+      "inicio": "2026-10-27T10:40:00",
+      "fin": "2026-10-27T12:20:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

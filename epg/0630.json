@@ -1,123 +1,165 @@
 {
   "actual": {
-    "titulo": "Movie • A sablazo limpio",
-    "descripcion": "A sablazo limpio | Un representante real va a un pueblo para ver al gobernador y se enamora de su hija.",
-    "inicio": "2026-10-25T09:00:00",
-    "fin": "2026-10-25T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Hechos AM",
+    "descripcion": "Las noticias más destacadas y la mejor información con entrevistas sobre temas de interés general.",
+    "inicio": "2026-10-26T10:00:00",
+    "fin": "2026-10-26T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechosam.jpg"
   },
   "siguiente": {
-    "titulo": "Hechos Domingo",
-    "descripcion": "Un programa que aborda la información más relevante del fin de semana.",
-    "inicio": "2026-10-25T11:00:00",
-    "fin": "2026-10-25T12:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Venga la alegría",
+    "descripcion": "Un programa de entretenimiento que aborda temas de interés personal como cocina, belleza, sexualidad, reflexiones, consejos y otros.",
+    "inicio": "2026-10-26T12:00:00",
+    "fin": "2026-10-26T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vengalaalegria.jpg"
   },
   "lista": [
     {
-      "titulo": "Movie • A sablazo limpio",
-      "descripcion": "A sablazo limpio | Un representante real va a un pueblo para ver al gobernador y se enamora de su hija.",
-      "inicio": "2026-10-25T09:00:00",
-      "fin": "2026-10-25T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hechos Domingo",
-      "descripcion": "Un programa que aborda la información más relevante del fin de semana.",
-      "inicio": "2026-10-25T11:00:00",
-      "fin": "2026-10-25T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Hechos AM",
+      "descripcion": "Las noticias más destacadas y la mejor información con entrevistas sobre temas de interés general.",
+      "inicio": "2026-10-26T10:00:00",
+      "fin": "2026-10-26T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechosam.jpg"
     },
     {
       "titulo": "Venga la alegría",
       "descripcion": "Un programa de entretenimiento que aborda temas de interés personal como cocina, belleza, sexualidad, reflexiones, consejos y otros.",
-      "inicio": "2026-10-25T12:00:00",
-      "fin": "2026-10-25T14:00:00",
+      "inicio": "2026-10-26T12:00:00",
+      "fin": "2026-10-26T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vengalaalegria.jpg"
     },
     {
       "titulo": "Venga la alegría",
       "descripcion": "Un programa de entretenimiento que aborda temas de interés personal como cocina, belleza, sexualidad, reflexiones, consejos y otros.",
-      "inicio": "2026-10-25T14:00:00",
-      "fin": "2026-10-25T16:00:00",
+      "inicio": "2026-10-26T14:00:00",
+      "fin": "2026-10-26T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vengalaalegria.jpg"
     },
     {
-      "titulo": "Domingo al extremo",
-      "descripcion": "Un programa periodístico que compila varios segmentos de noticias, las cuales tienen una cosa en común, estas son impactantes y asombrosas, algunas de estas noticias que se presentan son controversiales y algunas algo amarillistas.",
-      "inicio": "2026-10-25T16:00:00",
-      "fin": "2026-10-25T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/domingoalextremo.jpg"
+      "titulo": "Ventaneando",
+      "descripcion": "La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.",
+      "inicio": "2026-10-26T16:00:00",
+      "fin": "2026-10-26T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hechos Meridiano",
+      "descripcion": "Las noticias en vivo con reportajes de corresponsales remotos.",
+      "inicio": "2026-10-26T17:00:00",
+      "fin": "2026-10-26T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Al extremo",
+      "descripcion": "Programa de televisión mexicano de nota roja, sucesos impactantes, notas insólitas y videos virales del mundo, conducido con un estilo dinámico y cercano al público..",
+      "inicio": "2026-10-26T18:00:00",
+      "fin": "2026-10-26T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alextremo.jpg"
+    },
+    {
+      "titulo": "Acércate a Rocío",
+      "descripcion": "Hablar de los problemas es el primer paso para superarlos y, por eso, Rocío trae un programa único para hablar de las preocupaciones de cada día y, en conjunto, encontrar una solución.",
+      "inicio": "2026-10-26T19:30:00",
+      "fin": "2026-10-26T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/acercatearocio.jpg"
+    },
+    {
+      "titulo": "Ventaneando",
+      "descripcion": "La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.",
+      "inicio": "2026-10-26T21:30:00",
+      "fin": "2026-10-26T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Rutas de la vida",
       "descripcion": "La serie cuenta, en cada capítulo, una historia diferente con personajes nuevos. El eje central de las historias es el transporte público, ya que todas ellas suceden dentro de alguno de los medios de traslado del país.",
-      "inicio": "2026-10-25T18:00:00",
-      "fin": "2026-10-25T20:00:00",
+      "inicio": "2026-10-26T22:30:00",
+      "fin": "2026-10-26T23:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rutasdelavida.jpg"
     },
     {
       "titulo": "Mujeres rompiendo el silencio",
       "descripcion": "Una serie que aborda temas relacionados con la situación de la mujer en la sociedad actual a través de testimonios y ofreciendo orientación.",
-      "inicio": "2026-10-25T20:00:00",
-      "fin": "2026-10-25T22:00:00",
+      "inicio": "2026-10-26T23:30:00",
+      "fin": "2026-10-27T00:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Nada personal",
-      "descripcion": "Por casualidad, Mariana Aragón (Margarita Muñoz) es sobreviviente y testigo del multi-homicidio de su mejor amiga, y dos jóvenes periodistas que investigaban una conspiración Narco-política en la que se le involucra al procurador Raúl Rey (Juan Soler), conocido como \"el Rey\". Cuando Mariana es herida de un balazo emprende la huida en esa misma noche, durante su camino se encuentra con Alejandro Castillo (Valentino Lanús), un joven periodista a quien le pide ayuda para escapar y demostrar su inocencia, y a Santiago Leal (Matías Novoa), comandante encargado del caso de Mariana, quien la ayuda para hacer justicia, pero en un giro de 180°, por órdenes de \"el Rey\" Mariana es arrestada, pasando un infierno en la cual la hacen adicta a la heroína, y la convierten en una dama de compañía.",
-      "inicio": "2026-10-25T22:00:00",
-      "fin": "2026-10-26T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nadapersonal.jpg"
+      "titulo": "Lo que la gente cuenta",
+      "descripcion": "Leyendas populares y escalofriantes que aterrorizan hasta los más valientes. Historias aterradoras desde las localidades donde han sucedido.",
+      "inicio": "2026-10-27T00:30:00",
+      "fin": "2026-10-27T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loquelagentecuenta.jpg"
     },
     {
       "titulo": "Noticiero Hechos",
       "descripcion": "Las noticias de El Salvador al momento. La realidad social, política y económica en sus diferentes emisiones.",
-      "inicio": "2026-10-26T00:30:00",
-      "fin": "2026-10-26T02:30:00",
+      "inicio": "2026-10-27T01:30:00",
+      "fin": "2026-10-27T02:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Lo que la gente cuenta",
-      "descripcion": "Leyendas populares y escalofriantes que aterrorizan hasta los más valientes. Historias aterradoras desde las localidades donde han sucedido.",
-      "inicio": "2026-10-26T02:30:00",
-      "fin": "2026-10-26T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loquelagentecuenta.jpg"
+      "titulo": "FIA: Carolina Rocha",
+      "descripcion": "A lo largo de su carrera, la periodista Carolina Rocha ha recolectado las historias que encuentra en cada rincón de México. Con micrófono en mano, se ha encargado de relatar sobre gastronomía, folklore e historias de vida.",
+      "inicio": "2026-10-27T02:30:00",
+      "fin": "2026-10-27T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fiacarolinarocha.jpg"
+    },
+    {
+      "titulo": "AQC",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-27T03:30:00",
+      "fin": "2026-10-27T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ventaneando",
+      "descripcion": "La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.",
+      "inicio": "2026-10-27T04:00:00",
+      "fin": "2026-10-27T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Mujeres rompiendo el silencio",
       "descripcion": "Una serie que aborda temas relacionados con la situación de la mujer en la sociedad actual a través de testimonios y ofreciendo orientación.",
-      "inicio": "2026-10-26T04:00:00",
-      "fin": "2026-10-26T05:00:00",
+      "inicio": "2026-10-27T05:00:00",
+      "fin": "2026-10-27T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Rutas de la vida",
       "descripcion": "La serie cuenta, en cada capítulo, una historia diferente con personajes nuevos. El eje central de las historias es el transporte público, ya que todas ellas suceden dentro de alguno de los medios de traslado del país.",
-      "inicio": "2026-10-26T05:00:00",
-      "fin": "2026-10-26T06:00:00",
+      "inicio": "2026-10-27T06:00:00",
+      "fin": "2026-10-27T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rutasdelavida.jpg"
-    },
-    {
-      "titulo": "Mujeres rompiendo el silencio",
-      "descripcion": "Una serie que aborda temas relacionados con la situación de la mujer en la sociedad actual a través de testimonios y ofreciendo orientación.",
-      "inicio": "2026-10-26T06:00:00",
-      "fin": "2026-10-26T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Lo que la gente cuenta",
       "descripcion": "Leyendas populares y escalofriantes que aterrorizan hasta los más valientes. Historias aterradoras desde las localidades donde han sucedido.",
-      "inicio": "2026-10-26T07:00:00",
-      "fin": "2026-10-26T09:00:00",
+      "inicio": "2026-10-27T07:00:00",
+      "fin": "2026-10-27T08:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loquelagentecuenta.jpg"
     },
     {
-      "titulo": "Mujeres rompiendo el silencio",
-      "descripcion": "Una serie que aborda temas relacionados con la situación de la mujer en la sociedad actual a través de testimonios y ofreciendo orientación.",
-      "inicio": "2026-10-26T09:00:00",
-      "fin": "2026-10-26T10:00:00",
+      "titulo": "AQC",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-27T08:30:00",
+      "fin": "2026-10-27T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hechos Contigo",
+      "descripcion": "Las buenas noticias, pero también los hechos que muestran la verdad del ámbito nacional e internacional.",
+      "inicio": "2026-10-27T09:00:00",
+      "fin": "2026-10-27T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechoscontigo.jpg"
+    },
+    {
+      "titulo": "Hechos AM",
+      "descripcion": "Las noticias más destacadas y la mejor información con entrevistas sobre temas de interés general.",
+      "inicio": "2026-10-27T10:00:00",
+      "fin": "2026-10-27T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechosam.jpg"
     }
   ]
 }

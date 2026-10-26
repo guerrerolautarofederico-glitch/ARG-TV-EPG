@@ -1,185 +1,122 @@
 {
   "actual": {
-    "titulo": "Un juego de fábulas",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-10-25T09:30:00",
-    "fin": "2026-10-25T22:00:00",
+    "titulo": "A primera hora",
+    "descripcion": "Un programa que ofrece información actualizada y orientación de las agendas públicas, comunitarias, deportivas y culturales.",
+    "inicio": "2026-10-26T09:00:00",
+    "fin": "2026-10-26T22:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Ecoamiguitos",
-    "descripcion": "Un espacio de conscientización sobre el medioambiente y el planeta para los más pequeños.",
-    "inicio": "2026-10-25T22:00:00",
-    "fin": "2026-10-25T22:00:00",
+    "titulo": "Los más capaces",
+    "descripcion": "Un espacio donde se entrevistan a personas con discapacidades que cuentan sus historias, su desarrollo personal y profesional y sus relatos personales.",
+    "inicio": "2026-10-26T22:00:00",
+    "fin": "2026-10-26T22:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Un juego de fábulas",
+      "titulo": "A primera hora",
+      "descripcion": "Un programa que ofrece información actualizada y orientación de las agendas públicas, comunitarias, deportivas y culturales.",
+      "inicio": "2026-10-26T09:00:00",
+      "fin": "2026-10-26T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los más capaces",
+      "descripcion": "Un espacio donde se entrevistan a personas con discapacidades que cuentan sus historias, su desarrollo personal y profesional y sus relatos personales.",
+      "inicio": "2026-10-26T22:00:00",
+      "fin": "2026-10-26T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mañana y café",
+      "descripcion": "Mañana y Café será la mejor compañía para empezar el día con información fresca, entretenimiento y ese toque especial que nos hace únicos.",
+      "inicio": "2026-10-26T22:30:00",
+      "fin": "2026-10-27T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Poderosas",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-25T09:30:00",
-      "fin": "2026-10-25T22:00:00",
+      "inicio": "2026-10-27T00:00:00",
+      "fin": "2026-10-27T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/poderosas.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-27T01:30:00",
+      "fin": "2026-10-27T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/porconfirmar.jpg"
+    },
+    {
+      "titulo": "Tradiciones culinarias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-27T02:00:00",
+      "fin": "2026-10-27T02:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Ecoamiguitos",
-      "descripcion": "Un espacio de conscientización sobre el medioambiente y el planeta para los más pequeños.",
-      "inicio": "2026-10-25T22:00:00",
-      "fin": "2026-10-25T22:00:00",
+      "titulo": "Pobladores",
+      "descripcion": "Una ventana para asomarnos a la realidad cotidiana de gente que vive en poblados o parajes desolados. Buscamos detener la mirada en lugares olvidados, alejados de las grandes urbes, donde la vida transcurre a otro ritmo.",
+      "inicio": "2026-10-27T02:30:00",
+      "fin": "2026-10-27T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Cultura.21",
-      "descripcion": "Espacio que presenta a los protagonistas, detecta las ideas nuevas, explica los grandes debates y está presente en los eventos más destacados de la temporada. Un periodismo que examina con atención el espíritu del momento.",
-      "inicio": "2026-10-25T22:00:00",
-      "fin": "2026-10-25T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cultura21.jpg"
-    },
-    {
-      "titulo": "Aula abierta",
-      "descripcion": "Un espacio institucional de Educal, que mantiene informada a la comunidad sobre el acontecer de los docentes de Caldas.",
-      "inicio": "2026-10-25T22:30:00",
-      "fin": "2026-10-25T22:30:00",
+      "titulo": "TVA noticias",
+      "descripcion": "Un espacio informativo que tiene como objetivo mantener al televidente actualizado con los principales sucesos del momento de Colombia y el mundo. En cada emisión se brinda de manera puntual y oportuna el acontecer del Triángulo del Café.",
+      "inicio": "2026-10-27T03:00:00",
+      "fin": "2026-10-27T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Valor argentino",
-      "descripcion": "Un recorrido por la historia y las experiencias de algunas de las más de 25.000 entidades de la economía social que hay en el país.",
-      "inicio": "2026-10-25T22:30:00",
-      "fin": "2026-10-25T23:00:00",
+      "titulo": "Salud para todos",
+      "descripcion": "Un espacio de contenido informativo con noticias, consejos y medidas de prevención para la salud de todos.",
+      "inicio": "2026-10-27T04:00:00",
+      "fin": "2026-10-27T04:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tru Kids",
-      "descripcion": "Un espacio lleno de aventuras, creatividad y aprendizajes significativos para los niños. El programa incluye secciones que integran juegos, manualidades, historias locales, entrevistas con invitados especiales y desafíos interactivos.",
-      "inicio": "2026-10-25T23:00:00",
-      "fin": "2026-10-25T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La hora de acero",
-      "descripcion": "Un espacio de opinión en el que se tocan temas con relación nacional y seccional, generando una matriz de debate y análisis, para indagar en la verdadera razón de la situación actual. Conducido por William Acero.",
-      "inicio": "2026-10-25T23:00:00",
-      "fin": "2026-10-25T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Una luz en el sendero",
-      "descripcion": "Un espacio espiritual en el que el Padre Pacho difunde la palabra de Dios, a través de sus comentarios y la experiencia de sus invitados.",
-      "inicio": "2026-10-25T23:30:00",
-      "fin": "2026-10-26T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TC Música",
-      "descripcion": "Un espacio que exalta el talento, con un enfoque especial en el vallenato y la música popular. A través de entrevistas, presentaciones y conversaciones, el programa conecta al público con artistas que mantienen vivas estas tradiciones.",
-      "inicio": "2026-10-26T00:00:00",
-      "fin": "2026-10-26T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sin límites",
-      "descripcion": "Los jóvenes serán los protagonistas de un espacio que busca mostrarle al país los talentos que tenemos y que son de exportación. Todo usando como recurso narrativo la técnica de animación y live action.",
-      "inicio": "2026-10-26T01:00:00",
-      "fin": "2026-10-26T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinlimites.jpg"
     },
     {
       "titulo": "Terreno de juego",
       "descripcion": "Una serie documental que sigue la vida de un deportista de la región, que comparte sus experiencias y lesiones.",
-      "inicio": "2026-10-26T02:00:00",
-      "fin": "2026-10-26T02:30:00",
+      "inicio": "2026-10-27T04:30:00",
+      "fin": "2026-10-27T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/terrenodejuego.jpg"
     },
     {
-      "titulo": "Pacífico tres en la senda",
-      "descripcion": "Un programa cultura propuesto por Concesión Pacífico Tres para que el público conozca las actividades sociales, ambientales y algunas obras emblemáticas del proyecto.",
-      "inicio": "2026-10-26T02:30:00",
-      "fin": "2026-10-26T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Manos solidarias",
-      "descripcion": "Un espacio para brindar ayuda a los que más lo necesitan.",
-      "inicio": "2026-10-26T02:30:00",
-      "fin": "2026-10-26T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Telecafé noticias - Fin de semana",
-      "descripcion": "Telecafé Noticias es un informativo regional de carácter público. Tiene como objetivo acompañar de manera efectiva a las comunidades de los 53 municipios del eje cafetero, en lo social, educativo y cultural., emisión de fin de semana.",
-      "inicio": "2026-10-26T03:00:00",
-      "fin": "2026-10-26T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Vivir mejor con Santa Sofía",
-      "descripcion": "Programa institucional del Hospital Departamental Universitario Santa Sofia de Caldas que expone diversos temas vinculados a la salud, problemáticas del lugar y las formas de prevención con profesionales de la institución.",
-      "inicio": "2026-10-26T04:00:00",
-      "fin": "2026-10-26T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El juego de la vida",
-      "descripcion": "Lorena (Sara Maldonado), Paulina (Ana Layevska), Fernanda (Margarita Magaña) y Daniela (Jacqueline García) son cuatro amigas muy diferentes entre sí: mientras Lorena es centrada y responsable, Paulina es la alocada del grupo siempre dejándose llevar por sus impulsos y pasiones. Entre tanto, Daniela es tierna y reprimida por su severo padre y Fernanda es la ruda del grupo apasionada por el fútbol.",
-      "inicio": "2026-10-26T04:30:00",
-      "fin": "2026-10-26T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eljuegodelavida.jpg"
-    },
-    {
-      "titulo": "Raíces cafeteras",
-      "descripcion": "Un espacio que comparte microdumentales que dan cuenta de las tradiciones del Eje Cafetero. A través de las producciones, el público descubre la magia cultural de Manizales y Caldas y de sus raíces.",
-      "inicio": "2026-10-26T05:30:00",
-      "fin": "2026-10-26T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Áreas protegidas",
+      "titulo": "Por confirmar",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-26T06:00:00",
-      "fin": "2026-10-26T06:30:00",
+      "inicio": "2026-10-27T05:00:00",
+      "fin": "2026-10-27T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/porconfirmar.jpg"
+    },
+    {
+      "titulo": "La gallada",
+      "descripcion": "Un magazine hecho por y para jóvenes, con mucha risa, música y diversión.",
+      "inicio": "2026-10-27T06:00:00",
+      "fin": "2026-10-27T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Sabores mágicos",
+      "titulo": "Por confirmar",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-26T06:30:00",
-      "fin": "2026-10-26T07:00:00",
+      "inicio": "2026-10-27T07:00:00",
+      "fin": "2026-10-27T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/porconfirmar.jpg"
+    },
+    {
+      "titulo": "Conexión vital",
+      "descripcion": "Espacio dedicado a la salud, en el que doctores tratarán diversos contenidos y recomendarán tratamientos y productos naturales. Además, expondrán sus conocimientos y experiencias para informar sobre la prevención de enfermedades.",
+      "inicio": "2026-10-27T08:00:00",
+      "fin": "2026-10-27T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Otra parte de la historia",
-      "descripcion": "Un programa que repasa diversos momentos en la historia del fútbol de la mano de futbolistas destacados. A través de sus testimonios, el público podrá descubrir sus inicios en el deporte así como los hechos clave en sus carreras deportivas.",
-      "inicio": "2026-10-26T07:00:00",
-      "fin": "2026-10-26T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Visión futuro",
-      "descripcion": "Visión futuro es la emisión de DW sobre ciencia. Este magazín va dirigido a todos los que se interesan por la investigación en Alemania y Europa. Con un lenguaje comprensible y una presentación atractiva, sus dinámicos reportajes cubren un amplio espectro de temas cruciales para el futuro: desde la astronáutica hasta la protección medioambiental, pasando por la ingeniería genética, los descubrimientos en la medicina y las propuestas urbanísticas del mañana. Visión futuro transmite las ideas de personas que piensan más allá: científicos destacados, cerebros únicos y visionarios.",
-      "inicio": "2026-10-26T07:30:00",
-      "fin": "2026-10-26T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/visionfuturo.jpg"
-    },
-    {
-      "titulo": "Conectando territorios",
-      "descripcion": "Un espacio orientado a mostrar cómo la conectividad, la formación digital y la innovación están transformando vidas en todo el país. Así se presentan los avances del Gobierno Nacional en las diferentes regiones de Colombia.",
-      "inicio": "2026-10-26T08:00:00",
-      "fin": "2026-10-26T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El camino de los siglos",
-      "descripcion": "Serie documental de tres capítulos en el que un apasionado por el arte y la historia realiza un viaje de conocimiento y exploración por diferentes rincones del Departamento de Boyacá.",
-      "inicio": "2026-10-26T08:30:00",
-      "fin": "2026-10-26T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Telecafé noticias - Fin de semana",
-      "descripcion": "Telecafé Noticias es un informativo regional de carácter público. Tiene como objetivo acompañar de manera efectiva a las comunidades de los 53 municipios del eje cafetero, en lo social, educativo y cultural., emisión de fin de semana.",
-      "inicio": "2026-10-26T09:00:00",
-      "fin": "2026-10-26T22:00:00",
+      "titulo": "Telecafé noticias",
+      "descripcion": "Disfruta de un compilado informativo basado en hechos de alto impacto dentro de la jornada diaria a nivel nacional que influyen a gran escala en nuestra región. La narrativa objetiva y veraz se encuentra a cargo de un equipo experto.",
+      "inicio": "2026-10-27T09:00:00",
+      "fin": "2026-10-27T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

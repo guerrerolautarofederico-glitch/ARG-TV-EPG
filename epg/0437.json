@@ -1,137 +1,165 @@
 {
   "actual": {
-    "titulo": "Lucha Libre CMLL • Retro",
-    "descripcion": "Retro | Viaja a la época dorada de la lucha libre mexicana con combates legendarios, grandes rivalidades y los momentos que hicieron grande al CMLL.",
-    "inicio": "2026-10-25T09:00:00",
-    "fin": "2026-10-25T10:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/luchalibrecmll.jpg"
-  },
-  "siguiente": {
     "titulo": "La última palabra",
     "descripcion": "Una joven visita a su abuela, a quien no ha visto en años. Pero lo que encuentra no es exactamente lo que esperaba.",
-    "inicio": "2026-10-25T10:00:00",
-    "fin": "2026-10-25T11:00:00",
+    "inicio": "2026-10-26T10:00:00",
+    "fin": "2026-10-26T11:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
+  },
+  "siguiente": {
+    "titulo": "FOX Fit",
+    "descripcion": "Ejercicios y rutinas de trabajo para obtener un cuerpo perfecto de forma sencilla y amena. Todo ello de la mano de expertas consagradas en el mundo del fitness.",
+    "inicio": "2026-10-26T11:00:00",
+    "fin": "2026-10-26T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxfit.jpg"
   },
   "lista": [
     {
-      "titulo": "Lucha Libre CMLL • Retro",
-      "descripcion": "Retro | Viaja a la época dorada de la lucha libre mexicana con combates legendarios, grandes rivalidades y los momentos que hicieron grande al CMLL.",
-      "inicio": "2026-10-25T09:00:00",
-      "fin": "2026-10-25T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/luchalibrecmll.jpg"
-    },
-    {
       "titulo": "La última palabra",
       "descripcion": "Una joven visita a su abuela, a quien no ha visto en años. Pero lo que encuentra no es exactamente lo que esperaba.",
-      "inicio": "2026-10-25T10:00:00",
-      "fin": "2026-10-25T11:00:00",
+      "inicio": "2026-10-26T10:00:00",
+      "fin": "2026-10-26T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
     },
     {
       "titulo": "FOX Fit",
       "descripcion": "Ejercicios y rutinas de trabajo para obtener un cuerpo perfecto de forma sencilla y amena. Todo ello de la mano de expertas consagradas en el mundo del fitness.",
-      "inicio": "2026-10-25T11:00:00",
-      "fin": "2026-10-25T11:50:00",
+      "inicio": "2026-10-26T11:00:00",
+      "fin": "2026-10-26T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxfit.jpg"
+    },
+    {
+      "titulo": "Central Fox",
+      "descripcion": "Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
+      "inicio": "2026-10-26T12:00:00",
+      "fin": "2026-10-26T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
+    },
+    {
+      "titulo": "La última palabra",
+      "descripcion": "Una joven visita a su abuela, a quien no ha visto en años. Pero lo que encuentra no es exactamente lo que esperaba.",
+      "inicio": "2026-10-26T13:00:00",
+      "fin": "2026-10-26T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
+    },
+    {
+      "titulo": "Baloncesto Liga ACB • Valencia Basket vs Kosner Baskonia",
+      "descripcion": "Valencia Basket vs Kosner Baskonia | Cobertura del partido de la semana 5 de la Liga ACB 2026-27. Baskonia se llevó el último cara a cara sobre ⚽ [LaLiga] Valencia por apretado 86-88 en mayo pasado. Desde la Roig Arena, en ⚽ [LaLiga] Valencia, España.",
+      "inicio": "2026-10-26T14:00:00",
+      "fin": "2026-10-26T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/baloncestoligaacb.jpg"
+    },
+    {
+      "titulo": "FIBA Highlights",
+      "descripcion": "Una recopilación con los mejores momentos de los partidos de la Federación Internacional de Baloncesto.",
+      "inicio": "2026-10-26T16:30:00",
+      "fin": "2026-10-26T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fibahighlights.jpg"
+    },
+    {
+      "titulo": "Fox Gol México",
+      "descripcion": "Noticias, análisis, comentarios, goles y las jugadas más destacadas de la Liga mexicana de fútbol.",
+      "inicio": "2026-10-26T17:00:00",
+      "fin": "2026-10-26T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxgolmexico.jpg"
+    },
+    {
+      "titulo": "Regata • The Ocean Race Atlantic",
+      "descripcion": "The Ocean Race Atlantic | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-26T18:00:00",
+      "fin": "2026-10-26T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Icarus Sports • Gearing Up",
+      "descripcion": "Gearing Up | Un recorrido por la Brasil Stock Car Pro Series, el GT3 Gulf 12 Hours en Abu Dabi y el Monster Jam \"ThunderROARus\".",
+      "inicio": "2026-10-26T18:30:00",
+      "fin": "2026-10-26T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Lucha Libre CMLL • Retro",
       "descripcion": "Retro | Viaja a la época dorada de la lucha libre mexicana con combates legendarios, grandes rivalidades y los momentos que hicieron grande al CMLL.",
-      "inicio": "2026-10-25T11:50:00",
-      "fin": "2026-10-25T12:50:00",
+      "inicio": "2026-10-26T19:00:00",
+      "fin": "2026-10-26T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/luchalibrecmll.jpg"
-    },
-    {
-      "titulo": "Baloncesto Liga ACB • Valencia Basket vs Kosner Baskonia",
-      "descripcion": "Estreno ║ Valencia Basket vs Kosner Baskonia | Cobertura del partido de la semana 5 de la Liga ACB 2026-27. Baskonia se llevó el último cara a cara sobre ⚽ [LaLiga] Valencia por apretado 86-88 en mayo pasado. Desde la Roig Arena, en ⚽ [LaLiga] Valencia, España.",
-      "inicio": "2026-10-25T12:50:00",
-      "fin": "2026-10-25T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/baloncestoligaacb.jpg"
-    },
-    {
-      "titulo": "Icarus Sports • The Outdoor Sports Show",
-      "descripcion": "The Outdoor Sports Show | Exploramos el mundo a través de hazañas únicas, donde la aventura, la naturaleza y el esfuerzo se viven al máximo.",
-      "inicio": "2026-10-25T15:30:00",
-      "fin": "2026-10-25T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "AEW Collision",
-      "descripcion": "Los populares luchadores profesionales del roster (plantilla) de 🤼 [AEW] AEW compiten entre sí en luchas cada sábado para ganar el título de campeón.",
-      "inicio": "2026-10-25T16:00:00",
-      "fin": "2026-10-25T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aewcollision.jpg"
-    },
-    {
-      "titulo": "Automovilismo • GT Challenge de las Américas: Puebla, Race 1",
-      "descripcion": "GT Challenge de las Américas: Puebla, Race 1 | El GT Challenge de las Américas hace su debut en México con dos días de intensa competencia. Desde el autódromo Miguel E. Abed, en Puebla, México.",
-      "inicio": "2026-10-25T18:00:00",
-      "fin": "2026-10-25T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Fox Fight Club",
       "descripcion": "Una mirada al costado íntimo de los hombres que se juegan todo cuando suena la campana.",
-      "inicio": "2026-10-25T21:00:00",
-      "fin": "2026-10-25T21:30:00",
+      "inicio": "2026-10-26T20:00:00",
+      "fin": "2026-10-26T20:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxfightclub.jpg"
     },
     {
-      "titulo": "Icarus Sports • The Outdoor Sports Show",
-      "descripcion": "The Outdoor Sports Show | Exploramos el mundo a través de hazañas únicas, donde la aventura, la naturaleza y el esfuerzo se viven al máximo.",
-      "inicio": "2026-10-25T21:30:00",
-      "fin": "2026-10-25T22:00:00",
+      "titulo": "All Elite Wrestling: Dynamite",
+      "descripcion": "La lucha más intensa llega con 🤼 [AEW] AEW Dynamite: combates espectaculares, rivalidades al límite y estrellas que lo dejan todo en el ring.",
+      "inicio": "2026-10-26T20:30:00",
+      "fin": "2026-10-26T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/allelitewrestlingdynamite.jpg"
+    },
+    {
+      "titulo": "Lucha Libre CMLL • Retro",
+      "descripcion": "Retro | Viaja a la época dorada de la lucha libre mexicana con combates legendarios, grandes rivalidades y los momentos que hicieron grande al CMLL.",
+      "inicio": "2026-10-26T23:00:00",
+      "fin": "2026-10-27T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/luchalibrecmll.jpg"
+    },
+    {
+      "titulo": "All Elite Show",
+      "descripcion": "Estreno ║ El show con el resumen más dinámico y divertido de 🤼 [AEW] AEW, donde los expertos analizarán los combates más épicos, noticias y predicciones.",
+      "inicio": "2026-10-27T00:00:00",
+      "fin": "2026-10-27T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alleliteshow.jpg"
+    },
+    {
+      "titulo": "AEW Collision",
+      "descripcion": "Los populares luchadores profesionales del roster (plantilla) de 🤼 [AEW] AEW compiten entre sí en luchas cada sábado para ganar el título de campeón.",
+      "inicio": "2026-10-27T01:00:00",
+      "fin": "2026-10-27T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aewcollision.jpg"
+    },
+    {
+      "titulo": "Games of the Future",
+      "descripcion": "Con más de veinticinco millones de dólares en juego, más de 260 equipos de 100 países compiten en torneos Phygital Sports, Esports y Tech Sports.",
+      "inicio": "2026-10-27T03:00:00",
+      "fin": "2026-10-27T03:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Baloncesto Liga ACB • Hiopos Lleida vs Real Madrid",
       "descripcion": "Hiopos Lleida vs Real Madrid | Jornada 5 de la Liga ACB temporada 2026-27. Lleida tiene tres partidos sin ganar; ⚽ [LaLiga] Real Madrid va por su quinta victoria consecutiva. Desde el Pavelló Barris Nord, en Lleida.",
-      "inicio": "2026-10-25T22:00:00",
-      "fin": "2026-10-26T00:30:00",
+      "inicio": "2026-10-27T03:30:00",
+      "fin": "2026-10-27T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/baloncestoligaacb.jpg"
     },
     {
-      "titulo": "Regata • The Ocean Race Atlantic",
-      "descripcion": "The Ocean Race Atlantic | La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-26T00:30:00",
-      "fin": "2026-10-26T01:00:00",
+      "titulo": "FIA TCR World Tour",
+      "descripcion": "Cobertura, reportajes, análisis y resúmenes del campeonato internacional de automóviles de turismo: TCR World Tour.",
+      "inicio": "2026-10-27T06:00:00",
+      "fin": "2026-10-27T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fiatcrworldtour.jpg"
+    },
+    {
+      "titulo": "Fútbol Rápido MASL • Kansas City Comets vs San Diego Sockers",
+      "descripcion": "Kansas City Comets vs San Diego Sockers | Acción de la temporada regular 2025-26 de la MASL. Kansas City Comets se enfrenta a San Diego Sockers. Desde el Cable Dahmer Arena, en Independencia, Missouri.",
+      "inicio": "2026-10-27T06:30:00",
+      "fin": "2026-10-27T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "All Elite Wrestling: Dynamite",
-      "descripcion": "La lucha más intensa llega con 🤼 [AEW] AEW Dynamite: combates espectaculares, rivalidades al límite y estrellas que lo dejan todo en el ring.",
-      "inicio": "2026-10-26T01:00:00",
-      "fin": "2026-10-26T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/allelitewrestlingdynamite.jpg"
+      "titulo": "+90",
+      "descripcion": "Se analiza todo lo que sucede en las ligas más relevantes del fútbol internacional más allá de los 90 minutos de juego. Sin dejar de lado el fútbol mexicano.",
+      "inicio": "2026-10-27T09:00:00",
+      "fin": "2026-10-27T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/90.jpg"
     },
     {
-      "titulo": "Cardenales, destino CDMX",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-26T03:30:00",
-      "fin": "2026-10-26T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cardenalesdestinocdmx.jpg"
-    },
-    {
-      "titulo": "Fútbol Rápido MASL • Milwaukee Wave vs Utica City FC",
-      "descripcion": "Milwaukee Wave vs Utica City FC | Cobertura de la temporada regular 2025-26 de la MASL. Utica City FC visita a Milwaukee Wave. Desde el UW-Milwaukee Panther Arena, en Milwaukee, Wisconsin.",
-      "inicio": "2026-10-26T04:00:00",
-      "fin": "2026-10-26T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Baloncesto Liga ACB • Río Breogán vs Unicaja",
-      "descripcion": "Río Breogán vs Unicaja | Jornada 5 de la Liga ACB temporada 2026-27. Río Breogán (3) tiene una derrota y tres victorias en cuatro juegos; Unicaja (9) suma dos ganados. Desde el Pazo dos Deportes, en Lugo.",
-      "inicio": "2026-10-26T06:30:00",
-      "fin": "2026-10-26T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/baloncestoligaacb.jpg"
-    },
-    {
-      "titulo": "Fox Gol México",
-      "descripcion": "Noticias, análisis, comentarios, goles y las jugadas más destacadas de la Liga mexicana de fútbol.",
-      "inicio": "2026-10-26T09:00:00",
-      "fin": "2026-10-26T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxgolmexico.jpg"
+      "titulo": "La última palabra",
+      "descripcion": "Una joven visita a su abuela, a quien no ha visto en años. Pero lo que encuentra no es exactamente lo que esperaba.",
+      "inicio": "2026-10-27T10:00:00",
+      "fin": "2026-10-27T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
     }
   ]
 }

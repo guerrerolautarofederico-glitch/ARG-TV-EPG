@@ -2,205 +2,142 @@
   "actual": {
     "titulo": "Bogotá cultural",
     "descripcion": "Visitamos distintas bibliotecas y espacios de difusión cultural de Bogotá y nos acercamos al mundo de la literatura.",
-    "inicio": "2026-10-25T09:30:00",
-    "fin": "2026-10-25T22:00:00",
+    "inicio": "2026-10-26T09:30:00",
+    "fin": "2026-10-26T22:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Santa misa",
-    "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
-    "inicio": "2026-10-25T22:00:00",
-    "fin": "2026-10-25T22:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
+    "titulo": "En tu cocina",
+    "descripcion": "Creatividad, ingenio y sazón son los ingredientes principales que acompañan la elaboración de prácticas recetas que son presentadas al espectador, con lo más variado de la gastronomía colombiana para el deleite de su paladar.",
+    "inicio": "2026-10-26T22:00:00",
+    "fin": "2026-10-26T22:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
       "titulo": "Bogotá cultural",
       "descripcion": "Visitamos distintas bibliotecas y espacios de difusión cultural de Bogotá y nos acercamos al mundo de la literatura.",
-      "inicio": "2026-10-25T09:30:00",
-      "fin": "2026-10-25T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Santa misa",
-      "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
-      "inicio": "2026-10-25T22:00:00",
-      "fin": "2026-10-25T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
-    },
-    {
-      "titulo": "Es tiempo de contar",
-      "descripcion": "Espacio que presenta entrevistas con varios invitados sobre diferentes temas, desde las experiencias de un artista de circo hasta la accesibilidad para personas con discapacidades visuales.",
-      "inicio": "2026-10-25T22:00:00",
-      "fin": "2026-10-25T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "RPM",
-      "descripcion": "Mundo del auto y de la movilidad. Pruebas mecánicas y tecnologías respetuosas con el clima, ideas sorprendentes y visiones futuristas. RPM lo mantiene a la vanguardia a altas revoluciones.",
-      "inicio": "2026-10-25T22:30:00",
-      "fin": "2026-10-25T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rpm.jpg"
-    },
-    {
-      "titulo": "Espacio comercial",
-      "descripcion": "Transmisión en la que se muestran artículos de uso cotidiano, sitios de comida rápida o eventos a realizarse en el país, con un toque dinámico y entretenido para que estés actualizado con lo más nuevo del mercado.",
-      "inicio": "2026-10-25T23:00:00",
-      "fin": "2026-10-25T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Global Es",
-      "descripcion": "8.000 millones de personas poblamos la Tierra. Y nunca hemos estado tan conectadas. ¿Cómo abordarlo? Global 3000 se convierte en Global Es, porque ahora más que nunca es necesaria una coexistencia consciente. ¿Cómo enfrentar los urgentes problemas mundiales?\n\nEl cambio climático y la pérdida de biodiversidad exigen una nueva forma de economía. Algo va a tener que cambiar si queremos vivir, trabajar y alimentarnos de forma digna en el futuro. El progreso y los cambios tecnológicos pueden ayudarnos a conseguirlo. Global Es da ideas sorprendentes, muestra posibles soluciones y ofrece perspectivas para un mundo que cambia a toda velocidad. Y para ello, parte de personas que buscan e impulsan el cambio y, así, inspiran a los demás.",
-      "inicio": "2026-10-25T23:00:00",
-      "fin": "2026-10-25T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/globales.jpg"
-    },
-    {
-      "titulo": "Cibernítidos",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-25T23:30:00",
-      "fin": "2026-10-25T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Santa misa",
-      "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
-      "inicio": "2026-10-25T23:30:00",
-      "fin": "2026-10-26T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
-    },
-    {
-      "titulo": "Salud para todos",
-      "descripcion": "Un espacio de contenido informativo con noticias, consejos y medidas de prevención para la salud de todos.",
-      "inicio": "2026-10-26T00:00:00",
-      "fin": "2026-10-26T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Insignia",
-      "descripcion": "Edición institucional sobre el Comando General de las Fuerzas Militares de Colombia que cuenta sobre la actualidad, festividades, operaciones y demás procedimientos que realizan estos héroes de la patria para cuidar a la nación caribeña.",
-      "inicio": "2026-10-26T00:00:00",
-      "fin": "2026-10-26T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Plantas y jardines",
-      "descripcion": "Un segmento para aprender el arte de crear, diseñar y equilibrar espacios con dos herramientas, la naturaleza verde y la creatividad.",
-      "inicio": "2026-10-26T00:30:00",
-      "fin": "2026-10-26T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Aprenda y venda",
-      "descripcion": "Un programa orientado a la formación y capacitación de la audiencia en las artes manuales y demás aspectos culturales propios de nuestro país, con énfasis en la producción y el trabajo.",
-      "inicio": "2026-10-26T01:00:00",
-      "fin": "2026-10-26T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Salud para todos",
-      "descripcion": "Un espacio de contenido informativo con noticias, consejos y medidas de prevención para la salud de todos.",
-      "inicio": "2026-10-26T01:00:00",
-      "fin": "2026-10-26T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Santo Rosario - Misterios gloriosos",
-      "descripcion": "Realicemos una plegaria popular a la Virgen María que contempla los misterios de nuestra fe.",
-      "inicio": "2026-10-26T02:00:00",
-      "fin": "2026-10-26T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dios con nosotros - Adoración al Santísimo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-26T02:00:00",
-      "fin": "2026-10-26T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Santa misa",
-      "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
-      "inicio": "2026-10-26T02:30:00",
-      "fin": "2026-10-26T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
-    },
-    {
-      "titulo": "Dios con nosotros - Adoración al Santísimo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-26T02:30:00",
-      "fin": "2026-10-26T03:30:00",
+      "inicio": "2026-10-26T09:30:00",
+      "fin": "2026-10-26T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "En tu cocina",
       "descripcion": "Creatividad, ingenio y sazón son los ingredientes principales que acompañan la elaboración de prácticas recetas que son presentadas al espectador, con lo más variado de la gastronomía colombiana para el deleite de su paladar.",
-      "inicio": "2026-10-26T03:30:00",
-      "fin": "2026-10-26T05:00:00",
+      "inicio": "2026-10-26T22:00:00",
+      "fin": "2026-10-26T22:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Coronilla de la misericordia",
-      "descripcion": "Comparte con nosotros la oración a la Divina Misericordia.",
-      "inicio": "2026-10-26T05:00:00",
-      "fin": "2026-10-26T05:10:00",
+      "titulo": "Redes abiertas",
+      "descripcion": "Un espacio que aborda diversos tópicos de interés ciudadano junto a expertos invitados.",
+      "inicio": "2026-10-26T22:30:00",
+      "fin": "2026-10-26T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "La voz del pastor",
-      "descripcion": "Un espacio que cuenta con la recopilación de testimonios de los estudiantes del Liceo Jubilar Juan Pablo II, en Montevideo, que narra cómo es posible combinar excelencia académica y valores cristianos.",
-      "inicio": "2026-10-26T05:10:00",
-      "fin": "2026-10-26T05:30:00",
+      "titulo": "Viviendo la vida",
+      "descripcion": "Decubra otra forma de vivir la vida en este espacio donde disfrutará de entrevistas, manualidades, recetas y mucho más.",
+      "inicio": "2026-10-26T23:00:00",
+      "fin": "2026-10-27T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Salud para todos",
+      "descripcion": "Un espacio de contenido informativo con noticias, consejos y medidas de prevención para la salud de todos.",
+      "inicio": "2026-10-27T00:00:00",
+      "fin": "2026-10-27T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Aprenda y venda",
       "descripcion": "Un programa orientado a la formación y capacitación de la audiencia en las artes manuales y demás aspectos culturales propios de nuestro país, con énfasis en la producción y el trabajo.",
-      "inicio": "2026-10-26T05:30:00",
-      "fin": "2026-10-26T06:30:00",
+      "inicio": "2026-10-27T01:00:00",
+      "fin": "2026-10-27T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Es un placer",
-      "descripcion": "Un espacio en el cual se llevan a cabo entrevistas a los personajes más destacados de cáracter nacional e internacional. En cada edición, mediante testimonios, anécdotas y confesiones, los invitados mostrarán su lado más humano.",
-      "inicio": "2026-10-26T06:30:00",
-      "fin": "2026-10-26T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bogotá cultural",
-      "descripcion": "Visitamos distintas bibliotecas y espacios de difusión cultural de Bogotá y nos acercamos al mundo de la literatura.",
-      "inicio": "2026-10-26T07:00:00",
-      "fin": "2026-10-26T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Santo Rosario - Misterios gloriosos",
-      "descripcion": "Realicemos una plegaria popular a la Virgen María que contempla los misterios de nuestra fe.",
-      "inicio": "2026-10-26T07:30:00",
-      "fin": "2026-10-26T08:00:00",
+      "titulo": "En tu cocina",
+      "descripcion": "Creatividad, ingenio y sazón son los ingredientes principales que acompañan la elaboración de prácticas recetas que son presentadas al espectador, con lo más variado de la gastronomía colombiana para el deleite de su paladar.",
+      "inicio": "2026-10-27T02:00:00",
+      "fin": "2026-10-27T02:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Santa misa",
       "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
-      "inicio": "2026-10-26T08:00:00",
-      "fin": "2026-10-26T09:00:00",
+      "inicio": "2026-10-27T02:30:00",
+      "fin": "2026-10-27T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
     },
     {
-      "titulo": "Mi vida mi oficio",
-      "descripcion": "Descubra la belleza detrás de los oficios manuales y las personas que le dan vida a estas apasionantes labores.",
-      "inicio": "2026-10-26T09:00:00",
-      "fin": "2026-10-26T09:30:00",
+      "titulo": "Viviendo la vida",
+      "descripcion": "Decubra otra forma de vivir la vida en este espacio donde disfrutará de entrevistas, manualidades, recetas y mucho más.",
+      "inicio": "2026-10-27T03:00:00",
+      "fin": "2026-10-27T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Arquitectura y Fe",
-      "descripcion": "La íntima relación entre arquitectura y fe.",
-      "inicio": "2026-10-26T09:30:00",
-      "fin": "2026-10-26T22:00:00",
+      "titulo": "Salud para todos",
+      "descripcion": "Un espacio de contenido informativo con noticias, consejos y medidas de prevención para la salud de todos.",
+      "inicio": "2026-10-27T04:00:00",
+      "fin": "2026-10-27T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Coronilla de la misericordia",
+      "descripcion": "Comparte con nosotros la oración a la Divina Misericordia.",
+      "inicio": "2026-10-27T05:00:00",
+      "fin": "2026-10-27T05:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cápsulas Fe - UGC",
+      "descripcion": "Un espacio de contenido religioso para reflexionar y conectar con la fe y la espiritualidad.",
+      "inicio": "2026-10-27T05:10:00",
+      "fin": "2026-10-27T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Aprenda y venda",
+      "descripcion": "Un programa orientado a la formación y capacitación de la audiencia en las artes manuales y demás aspectos culturales propios de nuestro país, con énfasis en la producción y el trabajo.",
+      "inicio": "2026-10-27T05:30:00",
+      "fin": "2026-10-27T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ciudadanos inteligentes",
+      "descripcion": "Una visión crítica sobre el impacto de las tecnologías en la humanidad. A través de entrevistas, imágenes impactantes y animaciones, invita a reflexionar sobre cómo las nuevas tecnologías están transformando las vidas y el futuro.",
+      "inicio": "2026-10-27T06:30:00",
+      "fin": "2026-10-27T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Santo Rosario - Misterios gozozos",
+      "descripcion": "Comparte con nosotros el Santo Rosario.",
+      "inicio": "2026-10-27T07:30:00",
+      "fin": "2026-10-27T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Santa misa",
+      "descripcion": "La misa dominical transmitida desde distintas iglesias católicas de nuestro país.",
+      "inicio": "2026-10-27T08:00:00",
+      "fin": "2026-10-27T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
+    },
+    {
+      "titulo": "Redes abiertas",
+      "descripcion": "Un espacio que aborda diversos tópicos de interés ciudadano junto a expertos invitados.",
+      "inicio": "2026-10-27T08:30:00",
+      "fin": "2026-10-27T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Franciscaniando",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-27T09:00:00",
+      "fin": "2026-10-27T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
