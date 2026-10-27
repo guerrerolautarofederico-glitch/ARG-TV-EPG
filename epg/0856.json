@@ -1,178 +1,143 @@
 {
   "actual": {
-    "titulo": "Espejo público",
-    "descripcion": "Espejo público es un programa de televisión español presentado por Susanna Griso y producido por Antena 3 Noticias para su emisión en las mañanas de Antena 3.",
-    "inicio": "2026-10-26T10:41:00",
-    "fin": "2026-10-26T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espejopublico.jpg"
+    "titulo": "El hormiguero",
+    "descripcion": "Presentado por Pablo Motos, en colaboración con las marionetas Trancas, Barrancas y Petancas, este espacio trae hasta tu pantalla el mejor entretenimiento, con interesantes contenidos que giran alrededor del humor, la magia, entrevistas y los experimentos de divulgación científica.",
+    "inicio": "2026-10-27T10:00:00",
+    "fin": "2026-10-27T11:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elhormiguero.jpg"
   },
   "siguiente": {
     "titulo": "Noticias",
     "descripcion": "NOTICIAS es un desafío para el espectador. En parte porque expresa un punto de vista radical que genera una sensación de mundo totalmente extraña a los discursos dominantes sobre la realidad. En parte también porque sus imágenes, muchas de ellas extremas, expresan un sentido del tiempo, de la composición y del color que se sitúan en las antípodas de lo que consumimos día a día en el cine y la televisión.  Pero sobre todo porque debido a lo inesperado de las formas y relaciones de los objetos que aborda (monos de zoológico, salas de espera de hospitales públicos, un reportero de provincia, sitios del suceso de crímenes y suicidios, turistas en un salar desértico, éxtasis religioso de penitentes), es el espectador el que debe construir su propia película a través de lo que ve y escucha. NOTICIAS es una experiencia cinematográfica en todo el sentido de la palabra.",
-    "inicio": "2026-10-26T11:00:00",
-    "fin": "2026-10-26T11:45:00",
+    "inicio": "2026-10-27T11:00:00",
+    "fin": "2026-10-27T11:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
   },
   "lista": [
-    {
-      "titulo": "Espejo público",
-      "descripcion": "Espejo público es un programa de televisión español presentado por Susanna Griso y producido por Antena 3 Noticias para su emisión en las mañanas de Antena 3.",
-      "inicio": "2026-10-26T10:41:00",
-      "fin": "2026-10-26T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espejopublico.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "NOTICIAS es un desafío para el espectador. En parte porque expresa un punto de vista radical que genera una sensación de mundo totalmente extraña a los discursos dominantes sobre la realidad. En parte también porque sus imágenes, muchas de ellas extremas, expresan un sentido del tiempo, de la composición y del color que se sitúan en las antípodas de lo que consumimos día a día en el cine y la televisión.  Pero sobre todo porque debido a lo inesperado de las formas y relaciones de los objetos que aborda (monos de zoológico, salas de espera de hospitales públicos, un reportero de provincia, sitios del suceso de crímenes y suicidios, turistas en un salar desértico, éxtasis religioso de penitentes), es el espectador el que debe construir su propia película a través de lo que ve y escucha. NOTICIAS es una experiencia cinematográfica en todo el sentido de la palabra.",
-      "inicio": "2026-10-26T11:00:00",
-      "fin": "2026-10-26T11:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Espejo público",
-      "descripcion": "Espejo público es un programa de televisión español presentado por Susanna Griso y producido por Antena 3 Noticias para su emisión en las mañanas de Antena 3.",
-      "inicio": "2026-10-26T11:45:00",
-      "fin": "2026-10-26T14:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espejopublico.jpg"
-    },
-    {
-      "titulo": "Tu Tiempo con Roberto Brasero",
-      "descripcion": "Una nueva manera de ver la información meteorológica. Previsiones del tiempo de una forma sencilla y amena.",
-      "inicio": "2026-10-26T14:15:00",
-      "fin": "2026-10-26T14:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cocina abierta de Karlos Arguiñano",
-      "descripcion": "Recetas de cocina fáciles y económicas elaboradas por nuestros cocineros Karlos Arguiñano, Eva Arguiñano, Bruno Oteiza, Joseba Arguiñano, ¡y muchos más!",
-      "inicio": "2026-10-26T14:40:00",
-      "fin": "2026-10-26T15:09:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pasapalabra",
-      "descripcion": "El mítico concurso regresa, renovado de la mano de Roberto Leal. Uno de los puntos fuertes del concurso son los invitados, que ayudan a los concursantes a conseguir el mayor número de segundos posible para la prueba final.",
-      "inicio": "2026-10-26T15:09:00",
-      "fin": "2026-10-26T15:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasapalabra.jpg"
-    },
-    {
-      "titulo": "Cocina abierta",
-      "descripcion": "Karlos Arguiñano ofrece diversión e innovación para que comer cada día no sea una tarea monótona. Los niños son los que dan más guerra a la hora de comer, por eso Arguiñano no se olvidará de ellos y propondrá platos divertidos para sus paladares.",
-      "inicio": "2026-10-26T15:15:00",
-      "fin": "2026-10-26T15:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pasapalabra",
-      "descripcion": "El mítico concurso regresa, renovado de la mano de Roberto Leal. Uno de los puntos fuertes del concurso son los invitados, que ayudan a los concursantes a conseguir el mayor número de segundos posible para la prueba final.",
-      "inicio": "2026-10-26T15:45:00",
-      "fin": "2026-10-26T16:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasapalabra.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "NOTICIAS es un desafío para el espectador. En parte porque expresa un punto de vista radical que genera una sensación de mundo totalmente extraña a los discursos dominantes sobre la realidad. En parte también porque sus imágenes, muchas de ellas extremas, expresan un sentido del tiempo, de la composición y del color que se sitúan en las antípodas de lo que consumimos día a día en el cine y la televisión.  Pero sobre todo porque debido a lo inesperado de las formas y relaciones de los objetos que aborda (monos de zoológico, salas de espera de hospitales públicos, un reportero de provincia, sitios del suceso de crímenes y suicidios, turistas en un salar desértico, éxtasis religioso de penitentes), es el espectador el que debe construir su propia película a través de lo que ve y escucha. NOTICIAS es una experiencia cinematográfica en todo el sentido de la palabra.",
-      "inicio": "2026-10-26T16:05:00",
-      "fin": "2026-10-26T16:41:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Deportes",
-      "descripcion": "Sección de noticias relacionadas con el mundo del deporte.",
-      "inicio": "2026-10-26T16:41:00",
-      "fin": "2026-10-26T16:43:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportes.jpg"
-    },
-    {
-      "titulo": "Y ahora Sonsoles",
-      "descripcion": "Programa de actualidad en directo presentado por Sonsoles Ónega. Contará con los mejores invitados y colaboradores en plató para comentar las noticias y sucesos más relevantes.",
-      "inicio": "2026-10-26T16:43:00",
-      "fin": "2026-10-26T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias",
-      "descripcion": "NOTICIAS es un desafío para el espectador. En parte porque expresa un punto de vista radical que genera una sensación de mundo totalmente extraña a los discursos dominantes sobre la realidad. En parte también porque sus imágenes, muchas de ellas extremas, expresan un sentido del tiempo, de la composición y del color que se sitúan en las antípodas de lo que consumimos día a día en el cine y la televisión.  Pero sobre todo porque debido a lo inesperado de las formas y relaciones de los objetos que aborda (monos de zoológico, salas de espera de hospitales públicos, un reportero de provincia, sitios del suceso de crímenes y suicidios, turistas en un salar desértico, éxtasis religioso de penitentes), es el espectador el que debe construir su propia película a través de lo que ve y escucha. NOTICIAS es una experiencia cinematográfica en todo el sentido de la palabra.",
-      "inicio": "2026-10-26T17:00:00",
-      "fin": "2026-10-26T18:17:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
-    },
-    {
-      "titulo": "Sueños de libertad",
-      "descripcion": "Begoña Montes es una mujer que vive atrapada en un matrimonio tóxico y busca la ansiada libertad en la España de 1958.",
-      "inicio": "2026-10-26T18:17:00",
-      "fin": "2026-10-26T19:17:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/suenosdelibertad.jpg"
-    },
-    {
-      "titulo": "La ruleta de la suerte",
-      "descripcion": "La ruleta de la suerte es un concurso de televisión español emitido por Antena 3 y presentado por Jorge Fernández junto a Laura Moure.",
-      "inicio": "2026-10-26T19:17:00",
-      "fin": "2026-10-26T20:21:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laruletadelasuerte.jpg"
-    },
-    {
-      "titulo": "Pasapalabra",
-      "descripcion": "El mítico concurso regresa, renovado de la mano de Roberto Leal. Uno de los puntos fuertes del concurso son los invitados, que ayudan a los concursantes a conseguir el mayor número de segundos posible para la prueba final.",
-      "inicio": "2026-10-26T20:21:00",
-      "fin": "2026-10-26T21:12:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasapalabra.jpg"
-    },
-    {
-      "titulo": "El hormiguero",
-      "descripcion": "Presentado por Pablo Motos, en colaboración con las marionetas Trancas, Barrancas y Petancas, este espacio trae hasta tu pantalla el mejor entretenimiento, con interesantes contenidos que giran alrededor del humor, la magia, entrevistas y los experimentos de divulgación científica.",
-      "inicio": "2026-10-26T21:12:00",
-      "fin": "2026-10-26T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elhormiguero.jpg"
-    },
-    {
-      "titulo": "Salvados",
-      "descripcion": "El programa de investigación que aborda temas políticos, sociales y económicos de actualidad de alcance internacional.",
-      "inicio": "2026-10-26T23:00:00",
-      "fin": "2026-10-27T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/salvados.jpg"
-    },
-    {
-      "titulo": "Honor",
-      "descripcion": "El hijo de Martín, juez con alta reputación, atropella a un miembro de la mafia y se da a la fuga. Martín entabla un plan para salvar a su hijo y que no sea condenado. Martín Romero es un juez íntegro y reputado cuya vida cambia por completo cuando su hijo Álex comete un atropello y se da a la fuga. La víctima es miembro de una familia de la mafia y Romero es consciente de que, si trasciende la culpabilidad de Álex, será condenado de un modo u otro. Comenzará entonces un arriesgado plan para protegerlo, que pondrá a prueba todas sus convicciones morales y profesionales con tal de salvar a su hijo.",
-      "inicio": "2026-10-27T00:00:00",
-      "fin": "2026-10-27T01:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/honor.jpg"
-    },
-    {
-      "titulo": "Los Más..",
-      "descripcion": "Los mejores videoclips del panorama musical y las últimas novedades.",
-      "inicio": "2026-10-27T01:15:00",
-      "fin": "2026-10-27T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias de la mañana",
-      "descripcion": "Noticias de la Mañana es el noticieso matutino de RTS que te acompaña en el inicio de cada jornada con la información más oportuna, reportajes de la comunidad, entrevistas de actualidad y los hechos más destacados del ámbito nacional e internacional.",
-      "inicio": "2026-10-27T01:30:00",
-      "fin": "2026-10-27T03:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticiasdelamanana.jpg"
-    },
-    {
-      "titulo": "Espejo público",
-      "descripcion": "Espejo público es un programa de televisión español presentado por Susanna Griso y producido por Antena 3 Noticias para su emisión en las mañanas de Antena 3.",
-      "inicio": "2026-10-27T03:55:00",
-      "fin": "2026-10-27T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espejopublico.jpg"
-    },
-    {
-      "titulo": "Zapeando",
-      "descripcion": "Zapeando es un programa de televisión producido por Globomedia que se emite en la sobremesa de laSexta desde el 18 de noviembre de 2013. Creado por Juan Andrés García \"Bropi\" y presentado por Frank Blanco, el programa repasa cada jornada televisiva en tono de humor, juega a diversos juegos, prepara múltiples secciones...\n\nEl programa está compuesto por Ana Morgade, Anna Simon, Cristina Pedroche, Miki Nadal y Quique Peinado junto con otros colaboradores ocasionales.",
-      "inicio": "2026-10-27T08:30:00",
-      "fin": "2026-10-27T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zapeando.jpg"
-    },
     {
       "titulo": "El hormiguero",
       "descripcion": "Presentado por Pablo Motos, en colaboración con las marionetas Trancas, Barrancas y Petancas, este espacio trae hasta tu pantalla el mejor entretenimiento, con interesantes contenidos que giran alrededor del humor, la magia, entrevistas y los experimentos de divulgación científica.",
       "inicio": "2026-10-27T10:00:00",
       "fin": "2026-10-27T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elhormiguero.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "NOTICIAS es un desafío para el espectador. En parte porque expresa un punto de vista radical que genera una sensación de mundo totalmente extraña a los discursos dominantes sobre la realidad. En parte también porque sus imágenes, muchas de ellas extremas, expresan un sentido del tiempo, de la composición y del color que se sitúan en las antípodas de lo que consumimos día a día en el cine y la televisión.  Pero sobre todo porque debido a lo inesperado de las formas y relaciones de los objetos que aborda (monos de zoológico, salas de espera de hospitales públicos, un reportero de provincia, sitios del suceso de crímenes y suicidios, turistas en un salar desértico, éxtasis religioso de penitentes), es el espectador el que debe construir su propia película a través de lo que ve y escucha. NOTICIAS es una experiencia cinematográfica en todo el sentido de la palabra.",
+      "inicio": "2026-10-27T11:00:00",
+      "fin": "2026-10-27T11:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Espejo público",
+      "descripcion": "Espejo público es un programa de televisión español presentado por Susanna Griso y producido por Antena 3 Noticias para su emisión en las mañanas de Antena 3.",
+      "inicio": "2026-10-27T11:45:00",
+      "fin": "2026-10-27T14:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espejopublico.jpg"
+    },
+    {
+      "titulo": "Tu Tiempo con Roberto Brasero",
+      "descripcion": "Una nueva manera de ver la información meteorológica. Previsiones del tiempo de una forma sencilla y amena.",
+      "inicio": "2026-10-27T14:45:00",
+      "fin": "2026-10-27T15:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cocina abierta",
+      "descripcion": "Karlos Arguiñano ofrece diversión e innovación para que comer cada día no sea una tarea monótona. Los niños son los que dan más guerra a la hora de comer, por eso Arguiñano no se olvidará de ellos y propondrá platos divertidos para sus paladares.",
+      "inicio": "2026-10-27T15:15:00",
+      "fin": "2026-10-27T15:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pasapalabra",
+      "descripcion": "El mítico concurso regresa, renovado de la mano de Roberto Leal. Uno de los puntos fuertes del concurso son los invitados, que ayudan a los concursantes a conseguir el mayor número de segundos posible para la prueba final.",
+      "inicio": "2026-10-27T15:45:00",
+      "fin": "2026-10-27T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasapalabra.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "NOTICIAS es un desafío para el espectador. En parte porque expresa un punto de vista radical que genera una sensación de mundo totalmente extraña a los discursos dominantes sobre la realidad. En parte también porque sus imágenes, muchas de ellas extremas, expresan un sentido del tiempo, de la composición y del color que se sitúan en las antípodas de lo que consumimos día a día en el cine y la televisión.  Pero sobre todo porque debido a lo inesperado de las formas y relaciones de los objetos que aborda (monos de zoológico, salas de espera de hospitales públicos, un reportero de provincia, sitios del suceso de crímenes y suicidios, turistas en un salar desértico, éxtasis religioso de penitentes), es el espectador el que debe construir su propia película a través de lo que ve y escucha. NOTICIAS es una experiencia cinematográfica en todo el sentido de la palabra.",
+      "inicio": "2026-10-27T17:00:00",
+      "fin": "2026-10-27T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Y ahora Sonsoles",
+      "descripcion": "Programa de actualidad en directo presentado por Sonsoles Ónega. Contará con los mejores invitados y colaboradores en plató para comentar las noticias y sucesos más relevantes.",
+      "inicio": "2026-10-27T17:45:00",
+      "fin": "2026-10-27T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sueños de libertad",
+      "descripcion": "Begoña Montes es una mujer que vive atrapada en un matrimonio tóxico y busca la ansiada libertad en la España de 1958.",
+      "inicio": "2026-10-27T19:15:00",
+      "fin": "2026-10-27T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/suenosdelibertad.jpg"
+    },
+    {
+      "titulo": "La ruleta de la suerte",
+      "descripcion": "La ruleta de la suerte es un concurso de televisión español emitido por Antena 3 y presentado por Jorge Fernández junto a Laura Moure.",
+      "inicio": "2026-10-27T20:30:00",
+      "fin": "2026-10-27T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laruletadelasuerte.jpg"
+    },
+    {
+      "titulo": "Pasapalabra",
+      "descripcion": "El mítico concurso regresa, renovado de la mano de Roberto Leal. Uno de los puntos fuertes del concurso son los invitados, que ayudan a los concursantes a conseguir el mayor número de segundos posible para la prueba final.",
+      "inicio": "2026-10-27T21:30:00",
+      "fin": "2026-10-27T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasapalabra.jpg"
+    },
+    {
+      "titulo": "El hormiguero",
+      "descripcion": "Presentado por Pablo Motos, en colaboración con las marionetas Trancas, Barrancas y Petancas, este espacio trae hasta tu pantalla el mejor entretenimiento, con interesantes contenidos que giran alrededor del humor, la magia, entrevistas y los experimentos de divulgación científica.",
+      "inicio": "2026-10-27T22:30:00",
+      "fin": "2026-10-27T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elhormiguero.jpg"
+    },
+    {
+      "titulo": "Equipo de investigación",
+      "descripcion": "Programa de investigación presentado por Gloria Serra en el que se tratan los temas de actualidad con un perfil exhaustivo.",
+      "inicio": "2026-10-27T23:30:00",
+      "fin": "2026-10-28T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/equipodeinvestigacion.jpg"
+    },
+    {
+      "titulo": "Honor",
+      "descripcion": "El hijo de Martín, juez con alta reputación, atropella a un miembro de la mafia y se da a la fuga. Martín entabla un plan para salvar a su hijo y que no sea condenado. Martín Romero es un juez íntegro y reputado cuya vida cambia por completo cuando su hijo Álex comete un atropello y se da a la fuga. La víctima es miembro de una familia de la mafia y Romero es consciente de que, si trasciende la culpabilidad de Álex, será condenado de un modo u otro. Comenzará entonces un arriesgado plan para protegerlo, que pondrá a prueba todas sus convicciones morales y profesionales con tal de salvar a su hijo.",
+      "inicio": "2026-10-28T00:45:00",
+      "fin": "2026-10-28T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/honor.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "NOTICIAS es un desafío para el espectador. En parte porque expresa un punto de vista radical que genera una sensación de mundo totalmente extraña a los discursos dominantes sobre la realidad. En parte también porque sus imágenes, muchas de ellas extremas, expresan un sentido del tiempo, de la composición y del color que se sitúan en las antípodas de lo que consumimos día a día en el cine y la televisión.  Pero sobre todo porque debido a lo inesperado de las formas y relaciones de los objetos que aborda (monos de zoológico, salas de espera de hospitales públicos, un reportero de provincia, sitios del suceso de crímenes y suicidios, turistas en un salar desértico, éxtasis religioso de penitentes), es el espectador el que debe construir su propia película a través de lo que ve y escucha. NOTICIAS es una experiencia cinematográfica en todo el sentido de la palabra.",
+      "inicio": "2026-10-28T02:00:00",
+      "fin": "2026-10-28T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
+    },
+    {
+      "titulo": "Espejo público",
+      "descripcion": "Espejo público es un programa de televisión español presentado por Susanna Griso y producido por Antena 3 Noticias para su emisión en las mañanas de Antena 3.",
+      "inicio": "2026-10-28T04:00:00",
+      "fin": "2026-10-28T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espejopublico.jpg"
+    },
+    {
+      "titulo": "Zapeando",
+      "descripcion": "Zapeando es un programa de televisión producido por Globomedia que se emite en la sobremesa de laSexta desde el 18 de noviembre de 2013. Creado por Juan Andrés García \"Bropi\" y presentado por Frank Blanco, el programa repasa cada jornada televisiva en tono de humor, juega a diversos juegos, prepara múltiples secciones...\n\nEl programa está compuesto por Ana Morgade, Anna Simon, Cristina Pedroche, Miki Nadal y Quique Peinado junto con otros colaboradores ocasionales.",
+      "inicio": "2026-10-28T09:00:00",
+      "fin": "2026-10-28T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zapeando.jpg"
+    },
+    {
+      "titulo": "El hormiguero",
+      "descripcion": "Presentado por Pablo Motos, en colaboración con las marionetas Trancas, Barrancas y Petancas, este espacio trae hasta tu pantalla el mejor entretenimiento, con interesantes contenidos que giran alrededor del humor, la magia, entrevistas y los experimentos de divulgación científica.",
+      "inicio": "2026-10-28T10:00:00",
+      "fin": "2026-10-28T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elhormiguero.jpg"
     }
   ]

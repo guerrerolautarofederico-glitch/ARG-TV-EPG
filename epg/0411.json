@@ -1,108 +1,94 @@
 {
   "actual": {
     "titulo": "SportsCenter",
-    "descripcion": "Grabado ║ SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
-    "inicio": "2026-10-26T05:00:00",
-    "fin": "2026-10-26T11:00:00",
+    "descripcion": "Grabado ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
+    "inicio": "2026-10-27T09:00:00",
+    "fin": "2026-10-27T14:20:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
   },
   "siguiente": {
-    "titulo": "[En vivo] SportsCenter",
-    "descripcion": "En vivo ║ SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
-    "inicio": "2026-10-26T11:00:00",
-    "fin": "2026-10-26T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    "titulo": "[En vivo] Serie A • Sassuolo vs Lazio, Fecha 9, Mapei Stadium - Città del Tricolore",
+    "descripcion": "En vivo ║ Sassuolo vs Lazio, Fecha 9, Mapei Stadium - Città del Tricolore | Sassuolo se enfrenta a Lazio en el Mapei Stadium - Città del Tricolore por la fecha 9 de la Serie A 2026-2027. El equipo local llega tras perder 2-0 ante su rival en la última jornada y acumula tres derrotas en sus últimos cinco encuentros. Por su parte, Lazio llega en un buen momento, habiendo ganado sus últimos tres partidos, incluyendo un 2-1 en su más reciente presentación. En el historial directo, Lazio ha ganado tres de los últimos cinco enfrentamientos, mientras que Sassuolo solo ha logrado una victoria.",
+    "inicio": "2026-10-27T14:20:00",
+    "fin": "2026-10-27T16:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Grabado ║ SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
-      "inicio": "2026-10-26T05:00:00",
-      "fin": "2026-10-26T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "[En vivo] SportsCenter",
-      "descripcion": "En vivo ║ SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
-      "inicio": "2026-10-26T11:00:00",
-      "fin": "2026-10-26T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "PSG Campeón UCL 2025-2026",
-      "descripcion": "Grabado ║ El club Paris Saint-Germain se consagró campeón de la UEFA Champions League 2025-2026. Con esta conquista, el conjunto parisino se convierte en el primer equipo en conseguir un bicampeonato de la Champions League desde el Real Madrid.",
-      "inicio": "2026-10-26T14:00:00",
-      "fin": "2026-10-26T14:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Grabado ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
-      "inicio": "2026-10-26T14:20:00",
-      "fin": "2026-10-26T16:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "[En vivo] Ligue 1 • Paris Saint-Germain vs Olympique Lyon, Fecha 8, Parc des Princes",
-      "descripcion": "En vivo ║ Paris Saint-Germain vs Olympique Lyon, Fecha 8, Parc des Princes | Paris Saint-Germain recibe a Olympique Lyon en el Parc des Princes por la fecha 8 de Ligue 1 2026-2027. El local llega con una racha positiva, habiendo ganado sus últimos cinco partidos, incluyendo una victoria 4-2 sobre su rival en la UEFA Champions League. Por su parte, Olympique Lyon viene de una derrota 3-0 en la UEFA Europa League, aunque logró una victoria 2-1 en su último encuentro de Ligue 1. En el historial directo, PSG ha ganado cuatro de los últimos cinco enfrentamientos, siendo el más reciente una derrota 1-2 en abril de 2026.",
-      "inicio": "2026-10-26T16:20:00",
-      "fin": "2026-10-26T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] ESPN F360",
-      "descripcion": "En vivo ║ La Champions League, las grandes ligas europeas, la Copa Libertadores y las estrellas del fútbol mundial brillan en ESPN Fútbol 360. Una vuelta por el planeta fútbol con el análisis a fondo y el debate de nuestro panel de expertos, que desmenuza la actualidad de la élite del deporte rey.",
-      "inicio": "2026-10-26T18:30:00",
-      "fin": "2026-10-26T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] SportsCenter",
-      "descripcion": "En vivo ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
-      "inicio": "2026-10-26T20:00:00",
-      "fin": "2026-10-26T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "[En vivo] ESPN F90",
-      "descripcion": "En vivo ║ Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
-      "inicio": "2026-10-26T21:00:00",
-      "fin": "2026-10-26T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] ESPN F Show",
-      "descripcion": "En vivo ║ El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.",
-      "inicio": "2026-10-26T22:30:00",
-      "fin": "2026-10-27T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] SportsCenter",
-      "descripcion": "En vivo ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
-      "inicio": "2026-10-27T00:00:00",
-      "fin": "2026-10-27T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "ESPN F Show",
-      "descripcion": "Grabado ║ El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.",
-      "inicio": "2026-10-27T06:00:00",
-      "fin": "2026-10-27T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN F90",
-      "descripcion": "Grabado ║ Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
-      "inicio": "2026-10-27T07:30:00",
-      "fin": "2026-10-27T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "SportsCenter",
       "descripcion": "Grabado ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
       "inicio": "2026-10-27T09:00:00",
       "fin": "2026-10-27T14:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "[En vivo] Serie A • Sassuolo vs Lazio, Fecha 9, Mapei Stadium - Città del Tricolore",
+      "descripcion": "En vivo ║ Sassuolo vs Lazio, Fecha 9, Mapei Stadium - Città del Tricolore | Sassuolo se enfrenta a Lazio en el Mapei Stadium - Città del Tricolore por la fecha 9 de la Serie A 2026-2027. El equipo local llega tras perder 2-0 ante su rival en la última jornada y acumula tres derrotas en sus últimos cinco encuentros. Por su parte, Lazio llega en un buen momento, habiendo ganado sus últimos tres partidos, incluyendo un 2-1 en su más reciente presentación. En el historial directo, Lazio ha ganado tres de los últimos cinco enfrentamientos, mientras que Sassuolo solo ha logrado una victoria.",
+      "inicio": "2026-10-27T14:20:00",
+      "fin": "2026-10-27T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Serie A • Roma vs Cagliari, Fecha 9, Stadio Olimpico",
+      "descripcion": "En vivo ║ Roma vs Cagliari, Fecha 9, Stadio Olimpico | Roma recibe a Cagliari en el Stadio Olimpico por la fecha 9 de la Serie A 2026-2027. El local llega tras un emocionante empate 3-3 como visitante, donde mostró una gran capacidad de reacción. En tanto, Cagliari viene de una derrota 0-2 en su último partido, lo que complica su situación en la tabla. En el historial reciente entre ambos, Roma ha ganado 3 de los últimos 5 encuentros, con una victoria de Cagliari y un empate.",
+      "inicio": "2026-10-27T16:30:00",
+      "fin": "2026-10-27T18:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] ESPN F360",
+      "descripcion": "En vivo ║ La Champions League, las grandes ligas europeas, la Copa Libertadores y las estrellas del fútbol mundial brillan en ESPN Fútbol 360. Una vuelta por el planeta fútbol con el análisis a fondo y el debate de nuestro panel de expertos, que desmenuza la actualidad de la élite del deporte rey.",
+      "inicio": "2026-10-27T18:45:00",
+      "fin": "2026-10-27T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] SportsCenter",
+      "descripcion": "En vivo ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
+      "inicio": "2026-10-27T20:00:00",
+      "fin": "2026-10-27T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "[En vivo] ESPN F90",
+      "descripcion": "En vivo ║ Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
+      "inicio": "2026-10-27T21:00:00",
+      "fin": "2026-10-27T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] ESPN F Show",
+      "descripcion": "En vivo ║ El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.",
+      "inicio": "2026-10-27T22:30:00",
+      "fin": "2026-10-28T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Diferido ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
+      "inicio": "2026-10-28T00:00:00",
+      "fin": "2026-10-28T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "ESPN F Show",
+      "descripcion": "Grabado ║ El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.",
+      "inicio": "2026-10-28T06:00:00",
+      "fin": "2026-10-28T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ESPN F90",
+      "descripcion": "Grabado ║ Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
+      "inicio": "2026-10-28T07:30:00",
+      "fin": "2026-10-28T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Grabado ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
+      "inicio": "2026-10-28T09:00:00",
+      "fin": "2026-10-28T14:20:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
     }
   ]
