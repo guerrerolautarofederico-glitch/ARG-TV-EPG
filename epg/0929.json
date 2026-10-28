@@ -1,179 +1,214 @@
 {
   "actual": {
-    "titulo": "Turbozaurs",
-    "descripcion": "La serie gira en torno a las aventuras del equipo Turbozaur, quienes están dispuestos a resolver todas las dificultades y problemas que los niños enfrentan en su vida diaria.",
-    "inicio": "2026-10-27T10:00:00",
-    "fin": "2026-10-27T10:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/turbozaurs.jpg"
-  },
-  "siguiente": {
     "titulo": "Gigantosaurus",
     "descripcion": "Cuatro amigos de dinosaurios exploran su mundo y buscan y aprenden sobre el 'Gigantosaurus', el dinosaurio más grande y feroz de todos.",
-    "inicio": "2026-10-27T10:30:00",
-    "fin": "2026-10-27T11:00:00",
+    "inicio": "2026-10-28T10:30:00",
+    "fin": "2026-10-28T11:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/gigantosaurus.jpg"
+  },
+  "siguiente": {
+    "titulo": "Bluey",
+    "descripcion": "Las aventuras de una cachorra de pastor australiano que se divierte con su familia y amigos en situaciones de la vida cotidiana.",
+    "inicio": "2026-10-28T11:00:00",
+    "fin": "2026-10-28T11:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
   },
   "lista": [
     {
-      "titulo": "Turbozaurs",
-      "descripcion": "La serie gira en torno a las aventuras del equipo Turbozaur, quienes están dispuestos a resolver todas las dificultades y problemas que los niños enfrentan en su vida diaria.",
-      "inicio": "2026-10-27T10:00:00",
-      "fin": "2026-10-27T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/turbozaurs.jpg"
-    },
-    {
       "titulo": "Gigantosaurus",
       "descripcion": "Cuatro amigos de dinosaurios exploran su mundo y buscan y aprenden sobre el 'Gigantosaurus', el dinosaurio más grande y feroz de todos.",
-      "inicio": "2026-10-27T10:30:00",
-      "fin": "2026-10-27T11:00:00",
+      "inicio": "2026-10-28T10:30:00",
+      "fin": "2026-10-28T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/gigantosaurus.jpg"
     },
     {
       "titulo": "Bluey",
       "descripcion": "Las aventuras de una cachorra de pastor australiano que se divierte con su familia y amigos en situaciones de la vida cotidiana.",
-      "inicio": "2026-10-27T11:00:00",
-      "fin": "2026-10-27T11:30:00",
+      "inicio": "2026-10-28T11:00:00",
+      "fin": "2026-10-28T11:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
     },
     {
       "titulo": "Masha y el oso",
       "descripcion": "Masha vive en el bosque con sus mascotas: un perro, una cabra y un cerdo. Ella obliga a los animales del bosque a que jueguen con ella, por lo que ellos le temen. Masha vive cerca del transiberiano y una mañana, Masha mira a una mariposa y la sigue cuando viene a darse cuenta entra a la casa de un oso que había salido a purgar. Mientras juega allí, Masha termina haciendo un gran desorden en la casa. El oso regresa a su hogar y ve el desastre causado por Masha. El oso intenta sin éxito deshacerse de ella. Al final, Masha y el oso se vuelven amigos.",
-      "inicio": "2026-10-27T11:30:00",
-      "fin": "2026-10-27T12:00:00",
+      "inicio": "2026-10-28T11:30:00",
+      "fin": "2026-10-28T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mashayeloso.jpg"
     },
     {
-      "titulo": "El show de Snoopy",
-      "descripcion": "Tan bailarín y soñador como siempre, vuelve el perro más emblemático del mundo. Acompaña a este simpático beagle en sus nuevas aventuras con su mejor amigo Emilio y el resto de la pandilla Peanuts.",
-      "inicio": "2026-10-27T12:00:00",
-      "fin": "2026-10-27T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elshowdesnoopy.jpg"
+      "titulo": "De campamento con Snoopy",
+      "descripcion": "Tras descubrir que su tropa corre peligro de desintegrarse, Snoopy y los Scouts Beagle se marchan al aire libre para ganarse sus insignias al mérito. Mientras tanto, Charlie Brown y sus amigos disfrutan el verano en el Campamento Remoto.",
+      "inicio": "2026-10-28T12:00:00",
+      "fin": "2026-10-28T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Princesita Sofía",
       "descripcion": "La pequeña Sofía comienza su vida como una niña común. Pero cuando su mamá Miranda se casa con el Rey Roland II, ella rápidamente pasa a un glamoroso mundo de castillos y realeza con nuevos hermanastros: Amber y James.",
-      "inicio": "2026-10-27T12:30:00",
-      "fin": "2026-10-27T13:00:00",
+      "inicio": "2026-10-28T12:30:00",
+      "fin": "2026-10-28T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Spidey y sus sorprendentes amigos",
       "descripcion": "Sigue a Peter Parker, Gwen Stacy y Miles Morales y sus aventuras mientras los jóvenes héroes se unen a Hulk, Ms. Marvel y Black Panther para derrotar a enemigos como Rhino, Doc Ock y Green Goblin y descubre que el trabajo en equipo es la mejor manera de salvar el día.",
-      "inicio": "2026-10-27T13:00:00",
-      "fin": "2026-10-27T13:30:00",
+      "inicio": "2026-10-28T13:00:00",
+      "fin": "2026-10-28T13:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Hotel Transylvania: la serie",
       "descripcion": "Hotel Transylvania: The Series se centra en los años adolecentes de la hija de Drácula, Mavis, y sus tres amigos más cercanos: Hank N Stein, Pedro y Wendy Blob. Con Drácula fuera por motivos de \"negocios de vampiro\", Mavis finalmente encuentra su oportunidad de demostrarle a su padre lo que es capaz de hacer y con la ayuda de sus amigos decide poner en funcionamiento sus ideas brillantes para poner el hotel en movimiento.\n\nLa llegada de la tía Lydia complica las cosas, puesto que, mientras Mavis y sus amigos están dispuestos a dejarse llevar y divertirse, la hermana mayor y malvada de Drácula presiona para conseguir más orden y tradición en el hotel.\n\nLa serie animada es una producción de Sony Pictures Animation y Nelvana Limited. Protagonizan la ficción Bryn McAuley (Numb Chucks), Evany Rosen (Winston Steinburger and Sir Dudley Ding Dong), Gage Munroe (My Big, Big Friend), Josep Motiki (Rescue Heroes) y Dan Chameroy (Oh No! It's an Alien Invasion).",
-      "inicio": "2026-10-27T13:30:00",
-      "fin": "2026-10-27T14:00:00",
+      "inicio": "2026-10-28T13:30:00",
+      "fin": "2026-10-28T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoteltransylvanialaserie.jpg"
     },
     {
       "titulo": "El mundo de Craig",
       "descripcion": "Sigue a Craig y sus dos amigos, Kelsey y JP, mientras viven aventuras en un mundo de naturaleza virgen, dominado por los niños en el arroyo.",
-      "inicio": "2026-10-27T14:00:00",
-      "fin": "2026-10-27T15:00:00",
+      "inicio": "2026-10-28T14:00:00",
+      "fin": "2026-10-28T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmundodecraig.jpg"
     },
     {
       "titulo": "Los padrinos mágicos",
       "descripcion": "Timmy Turner es un niño de 10 años al que nadie entiende, es muy poco popular y sus compañeros le suelen tomar el pelo. Sus padres le prestan poca atención, aunque lo quieren mucho, pues es su único hijo, y siempre lo dejan al cuidado de Vicky, la niñera malvada, que trata a Timmy como esclavo. Es allí donde intervienen Cosmo y Wanda, los recién asignados padrinos mágicos de Timmy. Los padrinos mágicos son seres mágicos que se le asignan a los niños que no llevan una vida feliz, sin embargo muchos deseos que Timmy llega a pedir lo llevan a empeorar una situación que parecía sencilla, por lo cual Timmy debe obedecer \"Las Reglas\" o seguir la intuición de malas noticias que posee Wanda, por el contrario Cosmo es despreocupado con los deseos de Timmy por lo que ambos tienen aventuras grandiosas y siempre Wanda trata de remediar los problemas causados por ambos.",
-      "inicio": "2026-10-27T15:00:00",
-      "fin": "2026-10-27T16:00:00",
+      "inicio": "2026-10-28T15:00:00",
+      "fin": "2026-10-28T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lospadrinosmagicos.jpg"
     },
     {
       "titulo": "Misterios de Silvestre y Piolín",
       "descripcion": "Silvestre y Piolín unen fuerzas con abuelita, la ancianita dueña de Piolín, y su buldog Héctor, para viajar a toda clase de lugares exóticos a la caza de malvados criminales mientras Silvestre trata de cazar a Piolín.",
-      "inicio": "2026-10-27T16:00:00",
-      "fin": "2026-10-27T17:00:00",
+      "inicio": "2026-10-28T16:00:00",
+      "fin": "2026-10-28T17:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "El nuevo show del Pájaro Loco",
       "descripcion": "El divertido pájaro con el gran pico dorado ha regresado y está más grande que nunca.",
-      "inicio": "2026-10-27T17:00:00",
-      "fin": "2026-10-27T18:00:00",
+      "inicio": "2026-10-28T17:00:00",
+      "fin": "2026-10-28T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Escandalosos",
       "descripcion": "Conoce a tres hermanos osos, Pardo, Panda y Polar. Míralos hacer cualquier cosa con tal de pertenecer a la sociedad. Ya sea comprando comida, haciendo amigos humanos o convirtiéndose en celebridades de internet, los peludos amigos tienen dificultades para asimilar la civilización. Sin embargo, pronto se dan cuenta de que se tienen los unos a los otros para apoyarse.",
-      "inicio": "2026-10-27T18:00:00",
-      "fin": "2026-10-27T19:00:00",
+      "inicio": "2026-10-28T18:00:00",
+      "fin": "2026-10-28T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "El show de Garfield",
       "descripcion": "Serie de TV (2008-Actualidad). Hay dos cosas importantes en la vida para un gato: la siesta y ¡la lasaña! Al menos eso es lo que piensa Garfield, un gato naranja la mar de espabilado. El show de Garfield es la versión animada en 3D de las clásicas tiras cómicas protagonizadas por el gato más perezoso y comilón de la pequeña pantalla. Esta serie es la continuación de Garfield y sus amigos.",
-      "inicio": "2026-10-27T19:00:00",
-      "fin": "2026-10-27T20:00:00",
+      "inicio": "2026-10-28T19:00:00",
+      "fin": "2026-10-28T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elshowdegarfield.jpg"
     },
     {
       "titulo": "Los Simpson",
       "descripcion": "Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel.",
-      "inicio": "2026-10-27T20:00:00",
-      "fin": "2026-10-27T21:00:00",
+      "inicio": "2026-10-28T20:00:00",
+      "fin": "2026-10-28T21:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lossimpson.jpg"
     },
     {
       "titulo": "Malcolm",
       "descripcion": "Sitcom familiar que aborda los divertidos problemas y situaciones de una familia americana de clase media en la que el hijo Malcolm parece ser el único sensato... o al menos el único que da señales de cordura. La familia está compuesta por sus neuróticos padres Hal y Lois, el hermano mayor Francis y sus otros dos hermanos, Reese y Dewey.",
-      "inicio": "2026-10-27T21:00:00",
-      "fin": "2026-10-27T22:30:00",
+      "inicio": "2026-10-28T21:00:00",
+      "fin": "2026-10-28T22:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/malcolm.jpg"
     },
     {
       "titulo": "Un día para vivir",
       "descripcion": "Historias de personas con distintas edades que aparentemente pasan por un buen momento en su vida, pero reciben la visita de la muerte quien les advierte que tienen 24 horas para resolver lo que tienen pendiente. En una carrera contra el tiempo cada uno tendrá que decidir su responsabilidad y hacer hasta lo imposible si es que quieren otra oportunidad.",
-      "inicio": "2026-10-27T22:30:00",
-      "fin": "2026-10-28T00:30:00",
+      "inicio": "2026-10-28T22:30:00",
+      "fin": "2026-10-29T00:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/undiaparavivir.jpg"
     },
     {
       "titulo": "Dra. Lucía, un don extraordinario",
       "descripcion": "En un hospital llamado Matilde Montoya, sigue los desafíos diarios que deben superar los médicos y el personal. Además se muestran a fondo sus vidas personales mientras lidian con sus vínculos, amores, familias y más.",
-      "inicio": "2026-10-28T00:30:00",
-      "fin": "2026-10-28T01:30:00",
+      "inicio": "2026-10-29T00:30:00",
+      "fin": "2026-10-29T01:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Lotería del crimen",
       "descripcion": "Un grupo de detectives adscritos a una unidad de inteligencia policiaca deberán de resolver pistas para dar con los criminales más buscados.",
-      "inicio": "2026-10-28T01:30:00",
-      "fin": "2026-10-28T02:30:00",
+      "inicio": "2026-10-29T01:30:00",
+      "fin": "2026-10-29T02:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Hotel del Luna",
       "descripcion": "Jang Man Wol (IU) es la CEO del Hotel del Luna. El hotel está situado en el centro de Seúl y tiene una apariencia muy misteriosa. Ella cometió un gran pecado hace muchos años y, debido a esto, ha estado atrapada en el Hotel del Luna. Aunque hermosa como la luna, tiene mal carácter, es desconfiada y codiciosa.\n\nGoo Chan Sung (Yeo Jin Goo) trabajó como el subdirector más joven en una corporación hotelera multinacional. Es un sincero perfeccionista. Parece sensato, pero en realidad tiene una disposición suave. Debido a un caso inesperado, comienza a trabajar como gerente en el Hotel del Luna.\n\nEl hotel del Luna es habitado por clientes fantasmas.",
-      "inicio": "2026-10-28T02:30:00",
-      "fin": "2026-10-28T03:30:00",
+      "inicio": "2026-10-29T02:30:00",
+      "fin": "2026-10-29T03:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoteldelluna.jpg"
     },
     {
-      "titulo": "Azteca 7",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-28T03:30:00",
-      "fin": "2026-10-28T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Farmacias Similares",
+      "descripcion": "Espacio infomercial.",
+      "inicio": "2026-10-29T03:30:00",
+      "fin": "2026-10-29T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/farmaciassimilares.jpg"
     },
     {
-      "titulo": "Azteca 7",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-28T04:00:00",
-      "fin": "2026-10-28T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Inova",
+      "descripcion": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar.",
+      "inicio": "2026-10-29T04:00:00",
+      "fin": "2026-10-29T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/inova.jpg"
     },
     {
-      "titulo": "Azteca 7",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-28T08:00:00",
-      "fin": "2026-10-28T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Barras de ajuste",
+      "descripcion": "Barra de ajuste.",
+      "inicio": "2026-10-29T08:00:00",
+      "fin": "2026-10-29T08:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/barrasdeajuste.jpg"
+    },
+    {
+      "titulo": "RTC",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-29T08:15:00",
+      "fin": "2026-10-29T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtc.jpg"
+    },
+    {
+      "titulo": "Inova",
+      "descripcion": "Promoción y venta de productos, así como también servicios. Ofrece los mejores precios, variadas formas de pago y sistemas de entrega sin complicaciones, para que pueda recibirlos en la comodidad de su hogar.",
+      "inicio": "2026-10-29T08:30:00",
+      "fin": "2026-10-29T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/inova.jpg"
+    },
+    {
+      "titulo": "44 gatos",
+      "descripcion": "Sigue las aventuras de cuatro gatitos que conforman un grupo musical llamado The Buffycats. La serie se centra en temas de amistad, altruismo, tolerancia y diversidad.",
+      "inicio": "2026-10-29T09:00:00",
+      "fin": "2026-10-29T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/44gatos.jpg"
+    },
+    {
+      "titulo": "Milo",
+      "descripcion": "A Milo le encanta usar el juego de roles para explorar el amplio mundo de los trabajos y las vocaciones. Junto con sus mejores amigos Lofty y Lark, cada episodio celebra un rol laboral diferente.",
+      "inicio": "2026-10-29T09:30:00",
+      "fin": "2026-10-29T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/milo.jpg"
+    },
+    {
+      "titulo": "Turbozaurs",
+      "descripcion": "La serie gira en torno a las aventuras del equipo Turbozaur, quienes están dispuestos a resolver todas las dificultades y problemas que los niños enfrentan en su vida diaria.",
+      "inicio": "2026-10-29T10:00:00",
+      "fin": "2026-10-29T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/turbozaurs.jpg"
+    },
+    {
+      "titulo": "Gigantosaurus",
+      "descripcion": "Cuatro amigos de dinosaurios exploran su mundo y buscan y aprenden sobre el 'Gigantosaurus', el dinosaurio más grande y feroz de todos.",
+      "inicio": "2026-10-29T10:30:00",
+      "fin": "2026-10-29T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/gigantosaurus.jpg"
     }
   ]
 }

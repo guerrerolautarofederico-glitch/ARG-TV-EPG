@@ -1,108 +1,59 @@
 {
   "actual": {
-    "titulo": "La mañana con Moria",
-    "descripcion": "Un provocador magazine de actualidad, con la conducción de Moria Casán y su lengua karateka. El espacio tendrá debates sobre los temas del día, actualidad, policiales, política, espectáculos, salud y entretenimiento.",
-    "inicio": "2026-10-27T09:00:00",
-    "fin": "2026-10-27T10:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Otro día perdido",
+    "descripcion": "Un big show donde la actualidad se mezcla con el humor, la ironía y la tecnología en una propuesta de gran despliegue. Monólogos punzantes, entrevistas, inteligencia artificial, bandas en vivo y mucho más.",
+    "inicio": "2026-10-27T22:30:00",
+    "fin": "2026-10-29T01:15:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/otrodiaperdido.jpg"
   },
   "siguiente": {
-    "titulo": "Puro show",
-    "descripcion": "Notas, chismes, móviles en vivo, lo mejor del espectáculo argentino y toda la actualidad, la vivis en un solo lugar, con el estilo único de \"Puro Show\".",
-    "inicio": "2026-10-27T10:30:00",
-    "fin": "2026-10-27T12:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Cierre de transmisiones",
+    "descripcion": "Fin de emisión diaria del canal.",
+    "inicio": "2026-10-29T01:15:00",
+    "fin": "2026-10-29T06:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
   },
   "lista": [
     {
+      "titulo": "Otro día perdido",
+      "descripcion": "Un big show donde la actualidad se mezcla con el humor, la ironía y la tecnología en una propuesta de gran despliegue. Monólogos punzantes, entrevistas, inteligencia artificial, bandas en vivo y mucho más.",
+      "inicio": "2026-10-27T22:30:00",
+      "fin": "2026-10-29T01:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/otrodiaperdido.jpg"
+    },
+    {
+      "titulo": "Cierre de transmisiones",
+      "descripcion": "Fin de emisión diaria del canal.",
+      "inicio": "2026-10-29T01:15:00",
+      "fin": "2026-10-29T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
+    },
+    {
+      "titulo": "Tiempo del tiempo",
+      "descripcion": "Este mininoticiero informa el estado del tiempo y de las condiciones presentes reportadas en distintos puntos de Capital Federal y Gran Buenos Aires, al mismo tiempo que en el resto de las ciudades del interior de Argentina.",
+      "inicio": "2026-10-29T06:30:00",
+      "fin": "2026-10-29T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Arriba argentinos",
+      "descripcion": "La mejor información y todo lo que necesitás saber para arrancar el día. El pronóstico del tiempo, cómo está el tránsito, las noticias de último momento y todo el análisis de lo que pasa en el país en dos horas con la mejor onda.",
+      "inicio": "2026-10-29T07:00:00",
+      "fin": "2026-10-29T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
       "titulo": "La mañana con Moria",
       "descripcion": "Un provocador magazine de actualidad, con la conducción de Moria Casán y su lengua karateka. El espacio tendrá debates sobre los temas del día, actualidad, policiales, política, espectáculos, salud y entretenimiento.",
-      "inicio": "2026-10-27T09:00:00",
-      "fin": "2026-10-27T10:30:00",
+      "inicio": "2026-10-29T09:00:00",
+      "fin": "2026-10-29T10:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Puro show",
       "descripcion": "Notas, chismes, móviles en vivo, lo mejor del espectáculo argentino y toda la actualidad, la vivis en un solo lugar, con el estilo único de \"Puro Show\".",
-      "inicio": "2026-10-27T10:30:00",
-      "fin": "2026-10-27T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Zorro",
-      "descripcion": "California, 1820. Diego de la Vega, el único hijo de Don Alejandro, regresa a casa para luchar contra la injusticia y la corrupción reinantes. Durante el día es un dandy presumido y por las noches un espadachín enmascarado llamado El Zorro.",
-      "inicio": "2026-10-27T12:30:00",
-      "fin": "2026-10-27T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elzorro.jpg"
-    },
-    {
-      "titulo": "Mediodía noticias",
-      "descripcion": "Toda la información sobre lo que pasa en el mundo, en el país y en tu barrio, con la mirada única de un notable equipo de periodistas.",
-      "inicio": "2026-10-27T13:00:00",
-      "fin": "2026-10-27T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La cocina rebelde",
-      "descripcion": "Un magazine vespertino centrado en el mundo de la gastronomía, que contará con un destacado y variado staff de cocineros de la Argentina. A lo largo de cada emisión, pasarán por sus cocinas reconocidos chefs nacionales e internacionales.",
-      "inicio": "2026-10-27T14:30:00",
-      "fin": "2026-10-27T16:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuestión de peso",
-      "descripcion": "Cuestión de peso es un reality show que presenta a diversas personas con sobrepeso y sigue sus intentos diarios por reducir su peso.",
-      "inicio": "2026-10-27T16:15:00",
-      "fin": "2026-10-27T18:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Ahora caigo!",
-      "descripcion": "¡Ahora caigo! es la adaptación española del exitoso concurso israelí Lauf Al Hamilion de Arutz 10, producido en España por Gestmusic. Es un programa de televisión emitido por Antena 3 y presentado por Arturo Valls, siendo Silvia Abril su sustituta en los meses de verano.",
-      "inicio": "2026-10-27T18:15:00",
-      "fin": "2026-10-27T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahoracaigo.jpg"
-    },
-    {
-      "titulo": "Telenoche",
-      "descripcion": "El mejor equipo de profesionales, primero estás vos.",
-      "inicio": "2026-10-27T20:00:00",
-      "fin": "2026-10-27T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telenoche.jpg"
-    },
-    {
-      "titulo": "Otro día perdido",
-      "descripcion": "Un big show donde la actualidad se mezcla con el humor, la ironía y la tecnología en una propuesta de gran despliegue. Monólogos punzantes, entrevistas, inteligencia artificial, bandas en vivo y mucho más.",
-      "inicio": "2026-10-27T22:30:00",
-      "fin": "2026-10-27T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/otrodiaperdido.jpg"
-    },
-    {
-      "titulo": "El Trece",
-      "descripcion": "LS85 TV Canal 13, conocido comercialmente como El Trece,2 es un canal y cadena de televisión de Argentina que transmite desde la ciudad de Buenos Aires.\n\nLa emisora fue inaugurada el 1 de octubre de 1960 y desde el año 1989 es propiedad de la empresa Arte Radiotelevisivo Argentino (Artear), propiedad del Grupo Clarín. Asimismo cuenta con una señal internacional llamada El Trece Internacional.",
-      "inicio": "2026-10-27T23:30:00",
-      "fin": "2026-10-28T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Trece",
-      "descripcion": "LS85 TV Canal 13, conocido comercialmente como El Trece,2 es un canal y cadena de televisión de Argentina que transmite desde la ciudad de Buenos Aires.\n\nLa emisora fue inaugurada el 1 de octubre de 1960 y desde el año 1989 es propiedad de la empresa Arte Radiotelevisivo Argentino (Artear), propiedad del Grupo Clarín. Asimismo cuenta con una señal internacional llamada El Trece Internacional.",
-      "inicio": "2026-10-28T00:00:00",
-      "fin": "2026-10-28T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Trece",
-      "descripcion": "LS85 TV Canal 13, conocido comercialmente como El Trece,2 es un canal y cadena de televisión de Argentina que transmite desde la ciudad de Buenos Aires.\n\nLa emisora fue inaugurada el 1 de octubre de 1960 y desde el año 1989 es propiedad de la empresa Arte Radiotelevisivo Argentino (Artear), propiedad del Grupo Clarín. Asimismo cuenta con una señal internacional llamada El Trece Internacional.",
-      "inicio": "2026-10-28T04:00:00",
-      "fin": "2026-10-28T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Trece",
-      "descripcion": "LS85 TV Canal 13, conocido comercialmente como El Trece,2 es un canal y cadena de televisión de Argentina que transmite desde la ciudad de Buenos Aires.\n\nLa emisora fue inaugurada el 1 de octubre de 1960 y desde el año 1989 es propiedad de la empresa Arte Radiotelevisivo Argentino (Artear), propiedad del Grupo Clarín. Asimismo cuenta con una señal internacional llamada El Trece Internacional.",
-      "inicio": "2026-10-28T08:00:00",
-      "fin": "2026-10-28T12:00:00",
+      "inicio": "2026-10-29T10:30:00",
+      "fin": "2026-10-29T12:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

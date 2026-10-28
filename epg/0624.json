@@ -1,59 +1,87 @@
 {
   "actual": {
-    "titulo": "En concierto",
-    "descripcion": "Desde distintos escenarios de Iberoamérica, ponemos en su pantalla diversos eventos musicales para que disfrutes de los mejores shows en vivo.",
-    "inicio": "2026-10-27T03:00:00",
-    "fin": "2026-10-28T00:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enconcierto.jpg"
+    "titulo": "Mañanas de adoración",
+    "descripcion": "Un espacio dedicado a la música de alabanza, la oración y los mensajes positivos.",
+    "inicio": "2026-10-28T09:00:00",
+    "fin": "2026-10-29T01:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Garage Rock",
-    "descripcion": "Una alternativa no solo para el cristiano, sino también para el que no lo es, de disfrutar de un espacio con excelente calidad en videos y bandas, que transmiten mensajes claros y directos.",
-    "inicio": "2026-10-28T00:30:00",
-    "fin": "2026-10-28T01:00:00",
+    "titulo": "2 x 1",
+    "descripcion": "Espacio para disfrutar dos canciones de un mismo artista. De esta manera escucha los grandes temas de tus intérpretes favoritos.",
+    "inicio": "2026-10-29T01:00:00",
+    "fin": "2026-10-29T03:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "En concierto",
-      "descripcion": "Desde distintos escenarios de Iberoamérica, ponemos en su pantalla diversos eventos musicales para que disfrutes de los mejores shows en vivo.",
-      "inicio": "2026-10-27T03:00:00",
-      "fin": "2026-10-28T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enconcierto.jpg"
-    },
-    {
-      "titulo": "Garage Rock",
-      "descripcion": "Una alternativa no solo para el cristiano, sino también para el que no lo es, de disfrutar de un espacio con excelente calidad en videos y bandas, que transmiten mensajes claros y directos.",
-      "inicio": "2026-10-28T00:30:00",
-      "fin": "2026-10-28T01:00:00",
+      "titulo": "Mañanas de adoración",
+      "descripcion": "Un espacio dedicado a la música de alabanza, la oración y los mensajes positivos.",
+      "inicio": "2026-10-28T09:00:00",
+      "fin": "2026-10-29T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "2 x 1",
       "descripcion": "Espacio para disfrutar dos canciones de un mismo artista. De esta manera escucha los grandes temas de tus intérpretes favoritos.",
-      "inicio": "2026-10-28T01:00:00",
-      "fin": "2026-10-28T02:00:00",
+      "inicio": "2026-10-29T01:00:00",
+      "fin": "2026-10-29T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Enlace Juvenil",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-28T02:00:00",
-      "fin": "2026-10-28T06:00:00",
+      "titulo": "En concierto",
+      "descripcion": "Desde distintos escenarios de Iberoamérica, ponemos en su pantalla diversos eventos musicales para que disfrutes de los mejores shows en vivo.",
+      "inicio": "2026-10-29T03:00:00",
+      "fin": "2026-10-29T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enconcierto.jpg"
+    },
+    {
+      "titulo": "Random Hits",
+      "descripcion": "Este espacio presenta los temas musicales más populares, de los artistas juveniles que adoran a Dios, de forma aleatoria. Disfruta de composiciones que van desde el pop hasta la música electrónica cristiana.",
+      "inicio": "2026-10-29T03:00:00",
+      "fin": "2026-10-29T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Enlace Juvenil",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-28T06:00:00",
-      "fin": "2026-10-28T10:00:00",
+      "titulo": "Cartas abiertas",
+      "descripcion": "Las cartas abiertas nos permiten ponernos en los zapatos de otro y ser testigos de primera línea mientras se aprende.",
+      "inicio": "2026-10-29T05:00:00",
+      "fin": "2026-10-29T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cartasabiertas.jpg"
+    },
+    {
+      "titulo": "Random Hits",
+      "descripcion": "Este espacio presenta los temas musicales más populares, de los artistas juveniles que adoran a Dios, de forma aleatoria. Disfruta de composiciones que van desde el pop hasta la música electrónica cristiana.",
+      "inicio": "2026-10-29T05:30:00",
+      "fin": "2026-10-29T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Enlace Juvenil",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-28T10:00:00",
-      "fin": "2026-10-28T14:00:00",
+      "titulo": "Complacencias",
+      "descripcion": "Recordemos los mejores momentos de la balada romántica en español de los años 60, 70, 80 y 90, donde los presentadores son nuestros propios televidentes.",
+      "inicio": "2026-10-29T06:00:00",
+      "fin": "2026-10-29T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Random Hits",
+      "descripcion": "Este espacio presenta los temas musicales más populares, de los artistas juveniles que adoran a Dios, de forma aleatoria. Disfruta de composiciones que van desde el pop hasta la música electrónica cristiana.",
+      "inicio": "2026-10-29T07:00:00",
+      "fin": "2026-10-29T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los pasos del maestro",
+      "descripcion": "Kirk y Ray te enseñan diversos consejos de evangelización, mostrándote su verdadera aplicación para que puedas fortalecer y a la vez mejorar tu relación con Dios.",
+      "inicio": "2026-10-29T08:30:00",
+      "fin": "2026-10-29T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mañanas de adoración",
+      "descripcion": "Un espacio dedicado a la música de alabanza, la oración y los mensajes positivos.",
+      "inicio": "2026-10-29T09:00:00",
+      "fin": "2026-10-29T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

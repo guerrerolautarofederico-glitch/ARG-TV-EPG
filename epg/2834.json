@@ -1,101 +1,122 @@
 {
   "actual": {
-    "titulo": "Un inesperado cuento de Navidad",
-    "descripcion": "Talia y su mejor amigo de la infancia, Anderson, se reúnen inesperadamente en un pueblo familiar lleno de espíritu navideño que restaura a sus visitantes durante tiempos de profunda agitación.",
-    "inicio": "2026-10-27T09:00:00",
-    "fin": "2026-10-27T10:40:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/uninesperadocuentodenavidad.jpg"
+    "titulo": "El diario de Bridget Jones",
+    "descripcion": "Bridget Jones está decidida a superarse a sí misma al mismo tiempo que busca al amor de su vida dejando constancia de todo ello en su diario personal.",
+    "inicio": "2026-10-28T10:00:00",
+    "fin": "2026-10-28T11:45:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eldiariodebridgetjones.jpg"
   },
   "siguiente": {
-    "titulo": "Intercambio de hermanas: Navidad en el pueblo",
-    "descripcion": "Jennifer y Meg son hermanas muy unidas que viven distanciadas. La primera está en Salt Lake City, dirige un exitoso restaurante que abrió con su difunto esposo; la segunda se quedó en Hazelwood, en la panadería local de sus padres.",
-    "inicio": "2026-10-27T10:40:00",
-    "fin": "2026-10-27T12:20:00",
+    "titulo": "El bebé de Bridget Jones",
+    "descripcion": "Después de romper con Darcy, Bridget Jones decide centrarse en su trabajo y rodearse de amigos, pero su vida amorosa toma una nueva dirección cuando conoce a Jack. Pronto ella descubre que está embarazada, pero no sabe quién es el padre.",
+    "inicio": "2026-10-28T11:45:00",
+    "fin": "2026-10-28T13:55:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
+      "titulo": "El diario de Bridget Jones",
+      "descripcion": "Bridget Jones está decidida a superarse a sí misma al mismo tiempo que busca al amor de su vida dejando constancia de todo ello en su diario personal.",
+      "inicio": "2026-10-28T10:00:00",
+      "fin": "2026-10-28T11:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eldiariodebridgetjones.jpg"
+    },
+    {
+      "titulo": "El bebé de Bridget Jones",
+      "descripcion": "Después de romper con Darcy, Bridget Jones decide centrarse en su trabajo y rodearse de amigos, pero su vida amorosa toma una nueva dirección cuando conoce a Jack. Pronto ella descubre que está embarazada, pero no sabe quién es el padre.",
+      "inicio": "2026-10-28T11:45:00",
+      "fin": "2026-10-28T13:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rocky Balboa",
+      "descripcion": "El mundo del boxeo está tan devaluado que el campeón Mason Dixon no encuentra un rival a su altura. Han pasado 30 años desde que a Rocky Balboa, un hombre sin futuro, se le presentó la oportunidad de boxear y enfrentarse contra el gran campeón Apollo Creed. El coraje y perseverancia de Rocky, tanto en la vida como en el ring, alimentó las esperanzas de millones de personas. Ahora, ya retirado, se pasa las tardes contando viejas historias a los clientes del Adrian's, el restaurante que lleva el nombre de su esposa, por la que todavía guarda un silencioso luto. Apenas ve a su hijo, que está demasiado centrado en su propia vida. El paso del tiempo y los golpes recibidos lo han hecho más humilde y lo han envejecido, pero en el fondo aún sigue siendo un luchador.",
+      "inicio": "2026-10-28T13:55:00",
+      "fin": "2026-10-28T15:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rockybalboa.jpg"
+    },
+    {
+      "titulo": "Creed: Corazón de campeón",
+      "descripcion": "Adonis Johnson, hijo de Apollo Creed, busca a Rocky y le pide que sea su entrenador. Rocky ve en Adonis la fuerza y determinación que tenía su rival, y que lo terminó por convertir en su mejor amigo.",
+      "inicio": "2026-10-28T15:50:00",
+      "fin": "2026-10-28T18:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Creed II: Defendiendo el legado",
+      "descripcion": "Adonis Creed debe pelear contra un oponente que tiene vínculos con el pasado de su familia. Bajo la tutela de Rocky Balboa, el recién coronado campeón de peso pesado, se enfrentará a Viktor Drago, hijo de Ivan Drago.",
+      "inicio": "2026-10-28T18:10:00",
+      "fin": "2026-10-28T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rápidos y furiosos 9",
+      "descripcion": "Dom Toretto lleva una vida tranquila fuera de alcance con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha en su tranquilo horizonte.",
+      "inicio": "2026-10-28T20:30:00",
+      "fin": "2026-10-28T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mundo Jurásico: Dominio",
+      "descripcion": "Años después de la destrucción de Isla Nublar, los dinosaurios viven y cazan junto a los humanos. Este equilibrio determinará, si los humanos seguirán siendo los depredadores máximos en un planeta que comparten con las criaturas temibles.",
+      "inicio": "2026-10-28T23:00:00",
+      "fin": "2026-10-29T01:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Alerta extrema",
+      "descripcion": "El piloto Brodie Torrance salva a sus pasajeros de una tormenta eléctrica tras realizar un aterrizaje forzado en una isla devastada por la guerra, lugar donde comenzará la verdadera supervivencia.",
+      "inicio": "2026-10-29T01:35:00",
+      "fin": "2026-10-29T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Baywatch: guardianes de la bahía",
+      "descripcion": "El devoto guardavidas Mitch Buchannon deberá aliarse con un bravucón socorrista novato para desenmascarar una trama delictiva que amenaza el futuro de la bahía.",
+      "inicio": "2026-10-29T03:30:00",
+      "fin": "2026-10-29T05:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/baywatchguardianesdelabahia.jpg"
+    },
+    {
+      "titulo": "Al borde del abismo",
+      "descripcion": "Nick Cassidy, un antiguo agente de policía, se escapa de la cárcel y se dirige al Hotel Roosevelt de Nueva York. Al subirse a la cornisa de uno de los pisos más altos, pone en peligro mucho más que su vida. La ciudad entera está a punto de quedarse paralizada, incluidos ciertos individuos que guardan grandes secretos.",
+      "inicio": "2026-10-29T05:40:00",
+      "fin": "2026-10-29T07:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/albordedelabismo.jpg"
+    },
+    {
       "titulo": "Un inesperado cuento de Navidad",
       "descripcion": "Talia y su mejor amigo de la infancia, Anderson, se reúnen inesperadamente en un pueblo familiar lleno de espíritu navideño que restaura a sus visitantes durante tiempos de profunda agitación.",
-      "inicio": "2026-10-27T09:00:00",
-      "fin": "2026-10-27T10:40:00",
+      "inicio": "2026-10-29T07:25:00",
+      "fin": "2026-10-29T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/uninesperadocuentodenavidad.jpg"
     },
     {
-      "titulo": "Intercambio de hermanas: Navidad en el pueblo",
-      "descripcion": "Jennifer y Meg son hermanas muy unidas que viven distanciadas. La primera está en Salt Lake City, dirige un exitoso restaurante que abrió con su difunto esposo; la segunda se quedó en Hazelwood, en la panadería local de sus padres.",
-      "inicio": "2026-10-27T10:40:00",
-      "fin": "2026-10-27T12:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Hollywood on Set • La gran muralla / LEGO Batman: la película / ¡Huye!",
+      "descripcion": "La gran muralla / LEGO Batman: la película / ¡Huye! | Te mostramos el backstage de las peliculas: La gran muralla, LEGO Batman: la película y ¡Huye! Conoce todos los detalles del detrás de escena, de estos set's de Hollywood.",
+      "inicio": "2026-10-29T09:00:00",
+      "fin": "2026-10-29T09:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hollywoodonset.jpg"
     },
     {
-      "titulo": "Trolls 2: Gira mundial",
-      "descripcion": "En una aventura que les llevará más allá de todo lo que habían conocido, Poppy y Branch descubren que su tribu de Trolls es solo una de las seis que existen, que el resto están repartidas en seis reinos y consagradas a seis tipos distintos de música: funk, country, tecno, clásica, pop y rock. La reina Bárbara, miembro de la realeza del hard rock, y su padre, el Rey Metal, quieren acabar con el resto de géneros musicales e imponer el reinado del rock. Con el destino del mundo en juego, Poppy y Branch, junto con el resto de la pandilla — Grandullón, Chanelle, Satén, Cooper y Guy Diamante—, visitarán los demás reinos para unir a los Trolls contra los planes de Barb de eclipsarlos a todos.",
-      "inicio": "2026-10-27T12:20:00",
-      "fin": "2026-10-27T13:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/trolls2giramundial.jpg"
+      "titulo": "Hollywood on Set • Dunkerque / Atómica / Annabelle 2: La creación",
+      "descripcion": "Dunkerque / Atómica / Annabelle 2: La creación | Te mostramos el making of de las películas: Dunkerque de Christopher Nolan. Luego, la película: Atómica y también, Annabelle 2: la creación.",
+      "inicio": "2026-10-29T09:25:00",
+      "fin": "2026-10-29T09:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hollywoodonset.jpg"
     },
     {
-      "titulo": "Tomb Raider: Las aventuras de Lara Croft",
-      "descripcion": "En contra de los deseos de su padre, Lara Croft deja todo atrás para buscar su último destino: una tumba en una mítica isla. Si sobrevive, podría ganarse el nombre de Tomb Raider.",
-      "inicio": "2026-10-27T13:55:00",
-      "fin": "2026-10-27T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tombraiderlasaventurasdelaracroft.jpg"
+      "titulo": "Hollywood on Set • Mujer Maravilla / Las aventuras del Capitán Calzoncillos: La película / Piratas del Caribe: La..",
+      "descripcion": "Mujer Maravilla / Las aventuras del Capitán Calzoncillos: La película / Piratas del Caribe: La.. | Vemos el detrás de escena de \"Mujer Maravilla.\" Luego, nos inmiscuimos en la película \"Las aventuras del Capitán Calzoncillos: La película.\" Además, visitamos el set de \"Piratas del Caribe: La venganza de Salazar.\"",
+      "inicio": "2026-10-29T09:55:00",
+      "fin": "2026-10-29T10:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hollywoodonset.jpg"
     },
     {
-      "titulo": "Transformers: El lado oscuro de la Luna",
-      "descripcion": "En esta tercera entrega de la saga Transformers, los Autobots y los Decepticons se ven envueltos en una peligrosa carrera espacial en la Tierra entre Estados Unidos y Rusia, donde un acontecimiento amenaza con provocar una guerra tan grande que ni los propios transformers puede que sean capaces de salvar nuestro planeta. Y una vez más, como casi siempre, Sam Witwicky se encuentra involuntariamente en medio del conflicto.",
-      "inicio": "2026-10-27T16:00:00",
-      "fin": "2026-10-27T18:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/transformerselladooscurodelaluna.jpg"
-    },
-    {
-      "titulo": "Súper 8",
-      "descripcion": "Año 1979, en un pequeño pueblo de Ohio. Joe Lamb (Joel Courtney) es un muchacho que ha perdido a su madre en un accidente y que vive con su padre policía (Kyle Chandler). Comenzado el verano, y mientras rueda una película de zombis en Super 8 con sus amigos -y sobre todo con la bella Alice Dainard (Elle Fanning)-, Joe observa cómo una camioneta se estrella contra un tren de mercancías, provocando su descarrilamiento y un terrible accidente. A partir de ese momento cosas extrañas e inexplicables comienzan a suceder en el pueblo.",
-      "inicio": "2026-10-27T18:45:00",
-      "fin": "2026-10-27T20:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/super8.jpg"
-    },
-    {
-      "titulo": "Stargate, puerta a las estrellas",
-      "descripcion": "Un coronel y un científico, movidos por distintos intereses, investigan el misterioso hallazgo en unas excavaciones de un extraño artefacto al que llaman \"Puerta de las Estrellas\". Acompañados de un equipo de reconocimiento, atraviesan la Puerta y son transportados a un lejano planeta.",
-      "inicio": "2026-10-27T20:50:00",
-      "fin": "2026-10-27T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/stargatepuertaalasestrellas.jpg"
-    },
-    {
-      "titulo": "Ad Astra: hacia las estrellas",
-      "descripcion": "El astronauta Roy McBride emprende una misión a través de un implacable sistema solar, para descubrir la verdad sobre su desaparecido padre y su condenada expedición que ahora, 30 años después, amenaza el universo.",
-      "inicio": "2026-10-27T23:00:00",
-      "fin": "2026-10-28T01:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/adastrahacialasestrellas.jpg"
-    },
-    {
-      "titulo": "Sr. y Sra. Smith",
-      "descripcion": "Jane y John Smith forman una pareja de vida acomodada dentro de un ordinario y monótono matrimonio suburbano. Además ambos ocultan algo por lo que su pareja mataría por saber: los dos son agentes secretos, asesinos increíblemente eficientes que trabajan para organizaciones que compiten entre sí. Además, un día el Sr. y la Sra. Smith descubren una nueva fuente de emoción en su matrimonio cuando se les contrata para asesinarse mutuamente, pues será entonces cuando comienza la verdadera diversión...",
-      "inicio": "2026-10-28T01:10:00",
-      "fin": "2026-10-28T02:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/srysrasmith.jpg"
-    },
-    {
-      "titulo": "Studio Universal",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-28T02:10:00",
-      "fin": "2026-10-28T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Studio Universal",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-28T03:00:00",
-      "fin": "2026-10-28T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Studio Universal",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-28T07:00:00",
-      "fin": "2026-10-28T11:00:00",
+      "titulo": "ParaNorman",
+      "descripcion": "Norman Babcock es el típico chico incomprendido del pueblo, con una gran peculiaridad: puede hablar con los muertos. Cuando una maldición provoque una invasión de zombis, éste chico será el único que podrá salvar a su gente.",
+      "inicio": "2026-10-29T10:25:00",
+      "fin": "2026-10-29T12:10:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

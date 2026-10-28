@@ -1,375 +1,368 @@
 {
   "actual": {
-    "titulo": "Todo deporte",
-    "descripcion": "Programa de televisión dedicado a la actualidad deportiva, análisis de partidos, cobertura de disciplinas nacionales e internacionales, entrevistas y los acontecimientos más relevantes del mundo del deporte.",
-    "inicio": "2026-10-27T10:00:00",
-    "fin": "2026-10-27T10:15:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tododeporte.jpg"
+    "titulo": "DocFilm • Arma de guerra: Violencia sexual contra los hombres",
+    "descripcion": "Arma de guerra: Violencia sexual contra los hombres | La violencia sexual contra mujeres existe desde que hay guerras, pero también contra los hombres. El agredido no muere, solo queda destruido. Se trata de un arma eficaz y un gran tabú. Hombres de Ucrania, Congo y Bosnia rompen el silencio.",
+    "inicio": "2026-10-28T10:00:00",
+    "fin": "2026-10-28T11:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/docfilm.jpg"
   },
   "siguiente": {
-    "titulo": "Primer plano",
-    "descripcion": "La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad. No nos limitamos a narrar acontecimientos, ahondamos en las causas y la evolución.\n\nPrimer plano: interesante, impactante, informativo.",
-    "inicio": "2026-10-27T10:15:00",
-    "fin": "2026-10-27T10:45:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerplano.jpg"
+    "titulo": "¿Cómo te afecta?",
+    "descripcion": "El programa para los jóvenes de América Latina\n\nLas nuevas generaciones consumen noticias, sobre todo, en redes sociales. ¿Cómo te afecta? quiere llegar a jóvenes y adolescentes de América Latina con temas de actualidad que les preocupan y afectan.\n\nEl lenguaje visual de ¿Cómo te afecta? es fresco, dinámico, basado en el estilo que impera en YouTube y al que están acostumbrados los jóvenes de hoy en día, alejados de los programas tradicionales de televisión.\n\nErnesto Andrés Fuenmayor y Tamara Rivera Castro serán los YouTubers que analicen y pongan en contexto temas y noticias de actualidad con voces de  jóvenes afectados por estos problemas, pero también de expertos que ayuden a pensar en soluciones ofreciendo, de este modo, un periodismo constructivo.",
+    "inicio": "2026-10-28T11:00:00",
+    "fin": "2026-10-28T11:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comoteafecta.jpg"
   },
   "lista": [
-    {
-      "titulo": "Todo deporte",
-      "descripcion": "Programa de televisión dedicado a la actualidad deportiva, análisis de partidos, cobertura de disciplinas nacionales e internacionales, entrevistas y los acontecimientos más relevantes del mundo del deporte.",
-      "inicio": "2026-10-27T10:00:00",
-      "fin": "2026-10-27T10:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tododeporte.jpg"
-    },
-    {
-      "titulo": "Primer plano",
-      "descripcion": "La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad. No nos limitamos a narrar acontecimientos, ahondamos en las causas y la evolución.\n\nPrimer plano: interesante, impactante, informativo.",
-      "inicio": "2026-10-27T10:15:00",
-      "fin": "2026-10-27T10:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerplano.jpg"
-    },
-    {
-      "titulo": "Patrimonio mundial • Tréveris - La Ciudad Alemana más Antigua, Alemania",
-      "descripcion": "Tréveris - La Ciudad Alemana más Antigua, Alemania | La ciudad de Tréveris es considerada la ciudad más antigua de Alemania y desde 1986 forma parte del Patrimonio de la Humanidad de la UNESCO.",
-      "inicio": "2026-10-27T10:45:00",
-      "fin": "2026-10-27T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En Forma",
-      "descripcion": "En Forma es un programa de televisión de la cadena alemana DW (Deutsche Welle) enfocado en la salud, el bienestar, la actividad física, la nutrición y un estilo de vida saludable. Presenta reportajes, consejos prácticos de ejercicio y bienestar integral desde una perspectiva dinámica y moderna.",
-      "inicio": "2026-10-27T11:00:00",
-      "fin": "2026-10-27T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enforma.jpg"
-    },
-    {
-      "titulo": "Enlaces: Ventana abierta al mundo digital",
-      "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
-      "inicio": "2026-10-27T11:30:00",
-      "fin": "2026-10-27T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlacesventanaabiertaalmundodigital.jpg"
-    },
-    {
-      "titulo": "Euromaxx - vida y cultura en Europa",
-      "descripcion": "Euromaxx es una revista de estilo de vida y cultura que ofrece una perspectiva colorida y actual sobre la vida, el arte, la moda, la arquitectura, la gastronomía y las tendencias en Europa",
-      "inicio": "2026-10-27T12:00:00",
-      "fin": "2026-10-27T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/euromaxxvidayculturaeneuropa.jpg"
-    },
-    {
-      "titulo": "¿Cómo te afecta?",
-      "descripcion": "El programa para los jóvenes de América Latina\n\nLas nuevas generaciones consumen noticias, sobre todo, en redes sociales. ¿Cómo te afecta? quiere llegar a jóvenes y adolescentes de América Latina con temas de actualidad que les preocupan y afectan.\n\nEl lenguaje visual de ¿Cómo te afecta? es fresco, dinámico, basado en el estilo que impera en YouTube y al que están acostumbrados los jóvenes de hoy en día, alejados de los programas tradicionales de televisión.\n\nErnesto Andrés Fuenmayor y Tamara Rivera Castro serán los YouTubers que analicen y pongan en contexto temas y noticias de actualidad con voces de  jóvenes afectados por estos problemas, pero también de expertos que ayuden a pensar en soluciones ofreciendo, de este modo, un periodismo constructivo.",
-      "inicio": "2026-10-27T12:30:00",
-      "fin": "2026-10-27T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comoteafecta.jpg"
-    },
-    {
-      "titulo": "Visión futuro",
-      "descripcion": "Visión futuro es la emisión de DW sobre ciencia. Este magazín va dirigido a todos los que se interesan por la investigación en Alemania y Europa. Con un lenguaje comprensible y una presentación atractiva, sus dinámicos reportajes cubren un amplio espectro de temas cruciales para el futuro: desde la astronáutica hasta la protección medioambiental, pasando por la ingeniería genética, los descubrimientos en la medicina y las propuestas urbanísticas del mañana. Visión futuro transmite las ideas de personas que piensan más allá: científicos destacados, cerebros únicos y visionarios.",
-      "inicio": "2026-10-27T13:00:00",
-      "fin": "2026-10-27T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/visionfuturo.jpg"
-    },
-    {
-      "titulo": "Ecolatinoamérica",
-      "descripcion": "Un magacín con todas las noticias sobre el medio ambiente.",
-      "inicio": "2026-10-27T13:30:00",
-      "fin": "2026-10-27T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ecolatinoamerica.jpg"
-    },
-    {
-      "titulo": "Patrimonio mundial • La Catedral de Roskilde: Mausoleo de Reyes, Dinamarca",
-      "descripcion": "La Catedral de Roskilde: Mausoleo de Reyes, Dinamarca | En el siglo 10, cuando los daneses eran vikingos y temidos en toda Europa, su rey construyó la iglesia que con el tiempo se convirtió en la Catedral de Roskilde, uno de los monumentos nacionales de Dinamarca.",
-      "inicio": "2026-10-27T14:00:00",
-      "fin": "2026-10-27T14:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El reportero",
-      "descripcion": "Análisis de la actualidad.",
-      "inicio": "2026-10-27T14:15:00",
-      "fin": "2026-10-27T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Primer plano",
-      "descripcion": "La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad. No nos limitamos a narrar acontecimientos, ahondamos en las causas y la evolución.\n\nPrimer plano: interesante, impactante, informativo.",
-      "inicio": "2026-10-27T14:30:00",
-      "fin": "2026-10-27T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerplano.jpg"
-    },
-    {
-      "titulo": "DW Noticias",
-      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
-      "inicio": "2026-10-27T15:00:00",
-      "fin": "2026-10-27T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Escápate!",
-      "descripcion": "Escápate inicia una nueva andadura de la mano de Lukas Stege, Diana Piñeros y Nicole Geisse. Descubra destinos de ensueño, monumentos emblemáticos y sorprendentes parajes.\n\nEscápate los lleva por rutas desconocidas y les muestra la otra cara de los lugares más visitados.  En esta nueva etapa  les traemos un programa híbrido que acude también a lo que sucede en redes, con informaciones prácticas y unos reporteros que se atreven a todo.",
-      "inicio": "2026-10-27T15:30:00",
-      "fin": "2026-10-27T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/escapate.jpg"
-    },
-    {
-      "titulo": "Todo deporte",
-      "descripcion": "Programa de televisión dedicado a la actualidad deportiva, análisis de partidos, cobertura de disciplinas nacionales e internacionales, entrevistas y los acontecimientos más relevantes del mundo del deporte.",
-      "inicio": "2026-10-27T16:00:00",
-      "fin": "2026-10-27T16:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tododeporte.jpg"
-    },
-    {
-      "titulo": "Zona docu",
-      "descripcion": "Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.\n\nTodo un abanico de contenidos de Alemania y del mundo, que no dejan impasible.",
-      "inicio": "2026-10-27T16:15:00",
-      "fin": "2026-10-27T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zonadocu.jpg"
-    },
-    {
-      "titulo": "DW Noticias",
-      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
-      "inicio": "2026-10-27T17:00:00",
-      "fin": "2026-10-27T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Primer plano",
-      "descripcion": "La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad. No nos limitamos a narrar acontecimientos, ahondamos en las causas y la evolución.\n\nPrimer plano: interesante, impactante, informativo.",
-      "inicio": "2026-10-27T17:30:00",
-      "fin": "2026-10-27T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerplano.jpg"
-    },
-    {
-      "titulo": "DW analiza",
-      "descripcion": "Un espacio que informa sobre las noticias internacionales más relevantes y analiza el trasfondo de los hechos.",
-      "inicio": "2026-10-27T18:00:00",
-      "fin": "2026-10-27T18:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dwanaliza.jpg"
-    },
-    {
-      "titulo": "Zona docu",
-      "descripcion": "Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.\n\nTodo un abanico de contenidos de Alemania y del mundo, que no dejan impasible.",
-      "inicio": "2026-10-27T18:15:00",
-      "fin": "2026-10-27T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zonadocu.jpg"
-    },
-    {
-      "titulo": "DW Noticias",
-      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
-      "inicio": "2026-10-27T19:00:00",
-      "fin": "2026-10-27T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "RPM",
-      "descripcion": "Programa sobre el automóvil y la movilidad.",
-      "inicio": "2026-10-27T19:30:00",
-      "fin": "2026-10-27T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rpm.jpg"
-    },
-    {
-      "titulo": "DW Noticias",
-      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
-      "inicio": "2026-10-27T20:00:00",
-      "fin": "2026-10-27T20:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Economía",
-      "descripcion": "Una mirada europea al mundo de la economía y los negocios. Hechos, análisis y las historias reales desde las principales plazas financieras, los mercados clave y las empresas líderes..",
-      "inicio": "2026-10-27T20:15:00",
-      "fin": "2026-10-27T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/economia.jpg"
-    },
-    {
-      "titulo": "Fuerza latina, mujeres inspiradoras de América Latina",
-      "descripcion": "Las mujeres latinoamericanas ganan protagonismo en todos los ámbitos. Con tenacidad y perseverancia, se proponen mejorar el mundo que les rodea y alzan su voz para reclamar derechos, denunciar injusticias y un mayor protagonismo en la sociedad.",
-      "inicio": "2026-10-27T20:30:00",
-      "fin": "2026-10-27T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatinamujeresinspiradorasdeamericalatina.jpg"
-    },
-    {
-      "titulo": "DW Noticias",
-      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
-      "inicio": "2026-10-27T21:00:00",
-      "fin": "2026-10-27T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hecho en Alemania",
-      "descripcion": "Cómo trabajamos, cuánto ganamos, cómo vivimos - la economía cambia rápidamente. HECHO en Alemania analiza las oportunidades y riesgos de la digitalización. Nuestros reporteros acompañan a jóvenes que crean nuevos entornos laborales.\n\nAbordamos temas polémicos como la ética frente a la rentabilidad o el negocio en torno a la reproducción asistida. Economía multimedia, sorprendente, emocional.\n\nDW Sendung MADE TeamDW Sendung MADE Team",
-      "inicio": "2026-10-27T21:30:00",
-      "fin": "2026-10-27T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechoenalemania.jpg"
-    },
-    {
-      "titulo": "DW Noticias",
-      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
-      "inicio": "2026-10-27T22:00:00",
-      "fin": "2026-10-27T22:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Economía",
-      "descripcion": "Una mirada europea al mundo de la economía y los negocios. Hechos, análisis y las historias reales desde las principales plazas financieras, los mercados clave y las empresas líderes..",
-      "inicio": "2026-10-27T22:15:00",
-      "fin": "2026-10-27T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/economia.jpg"
-    },
-    {
-      "titulo": "Fuerza latina, mujeres inspiradoras de América Latina",
-      "descripcion": "Las mujeres latinoamericanas ganan protagonismo en todos los ámbitos. Con tenacidad y perseverancia, se proponen mejorar el mundo que les rodea y alzan su voz para reclamar derechos, denunciar injusticias y un mayor protagonismo en la sociedad.",
-      "inicio": "2026-10-27T22:30:00",
-      "fin": "2026-10-27T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatinamujeresinspiradorasdeamericalatina.jpg"
-    },
-    {
-      "titulo": "Patrimonio mundial • La Catedral de Roskilde: Mausoleo de Reyes, Dinamarca",
-      "descripcion": "La Catedral de Roskilde: Mausoleo de Reyes, Dinamarca | En el siglo 10, cuando los daneses eran vikingos y temidos en toda Europa, su rey construyó la iglesia que con el tiempo se convirtió en la Catedral de Roskilde, uno de los monumentos nacionales de Dinamarca.",
-      "inicio": "2026-10-27T23:00:00",
-      "fin": "2026-10-27T23:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Zona docu",
-      "descripcion": "Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.\n\nTodo un abanico de contenidos de Alemania y del mundo, que no dejan impasible.",
-      "inicio": "2026-10-27T23:15:00",
-      "fin": "2026-10-28T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zonadocu.jpg"
-    },
-    {
-      "titulo": "Global Es",
-      "descripcion": "8.000 millones de personas poblamos la Tierra. Y nunca hemos estado tan conectadas. ¿Cómo abordarlo? Global 3000 se convierte en Global Es, porque ahora más que nunca es necesaria una coexistencia consciente. ¿Cómo enfrentar los urgentes problemas mundiales?\n\nEl cambio climático y la pérdida de biodiversidad exigen una nueva forma de economía. Algo va a tener que cambiar si queremos vivir, trabajar y alimentarnos de forma digna en el futuro. El progreso y los cambios tecnológicos pueden ayudarnos a conseguirlo. Global Es da ideas sorprendentes, muestra posibles soluciones y ofrece perspectivas para un mundo que cambia a toda velocidad. Y para ello, parte de personas que buscan e impulsan el cambio y, así, inspiran a los demás.",
-      "inicio": "2026-10-28T00:00:00",
-      "fin": "2026-10-28T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/globales.jpg"
-    },
-    {
-      "titulo": "Enlaces: Ventana abierta al mundo digital",
-      "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
-      "inicio": "2026-10-28T00:30:00",
-      "fin": "2026-10-28T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlacesventanaabiertaalmundodigital.jpg"
-    },
-    {
-      "titulo": "Hecho en Alemania",
-      "descripcion": "Cómo trabajamos, cuánto ganamos, cómo vivimos - la economía cambia rápidamente. HECHO en Alemania analiza las oportunidades y riesgos de la digitalización. Nuestros reporteros acompañan a jóvenes que crean nuevos entornos laborales.\n\nAbordamos temas polémicos como la ética frente a la rentabilidad o el negocio en torno a la reproducción asistida. Economía multimedia, sorprendente, emocional.\n\nDW Sendung MADE TeamDW Sendung MADE Team",
-      "inicio": "2026-10-28T01:00:00",
-      "fin": "2026-10-28T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechoenalemania.jpg"
-    },
-    {
-      "titulo": "Ecolatinoamérica",
-      "descripcion": "Un magacín con todas las noticias sobre el medio ambiente.",
-      "inicio": "2026-10-28T01:30:00",
-      "fin": "2026-10-28T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ecolatinoamerica.jpg"
-    },
-    {
-      "titulo": "DocFilm • Arma de guerra: Violencia sexual contra los hombres",
-      "descripcion": "Arma de guerra: Violencia sexual contra los hombres | La violencia sexual contra mujeres existe desde que hay guerras, pero también contra los hombres. El agredido no muere, solo queda destruido. Se trata de un arma eficaz y un gran tabú. Hombres de Ucrania, Congo y Bosnia rompen el silencio.",
-      "inicio": "2026-10-28T02:00:00",
-      "fin": "2026-10-28T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/docfilm.jpg"
-    },
-    {
-      "titulo": "En Forma",
-      "descripcion": "En Forma es un programa de televisión de la cadena alemana DW (Deutsche Welle) enfocado en la salud, el bienestar, la actividad física, la nutrición y un estilo de vida saludable. Presenta reportajes, consejos prácticos de ejercicio y bienestar integral desde una perspectiva dinámica y moderna.",
-      "inicio": "2026-10-28T03:00:00",
-      "fin": "2026-10-28T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enforma.jpg"
-    },
-    {
-      "titulo": "Primer plano",
-      "descripcion": "La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad. No nos limitamos a narrar acontecimientos, ahondamos en las causas y la evolución.\n\nPrimer plano: interesante, impactante, informativo.",
-      "inicio": "2026-10-28T03:30:00",
-      "fin": "2026-10-28T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerplano.jpg"
-    },
-    {
-      "titulo": "Economía",
-      "descripcion": "Una mirada europea al mundo de la economía y los negocios. Hechos, análisis y las historias reales desde las principales plazas financieras, los mercados clave y las empresas líderes..",
-      "inicio": "2026-10-28T04:00:00",
-      "fin": "2026-10-28T04:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/economia.jpg"
-    },
-    {
-      "titulo": "Zona docu",
-      "descripcion": "Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.\n\nTodo un abanico de contenidos de Alemania y del mundo, que no dejan impasible.",
-      "inicio": "2026-10-28T04:15:00",
-      "fin": "2026-10-28T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zonadocu.jpg"
-    },
-    {
-      "titulo": "Visión futuro",
-      "descripcion": "Visión futuro es la emisión de DW sobre ciencia. Este magazín va dirigido a todos los que se interesan por la investigación en Alemania y Europa. Con un lenguaje comprensible y una presentación atractiva, sus dinámicos reportajes cubren un amplio espectro de temas cruciales para el futuro: desde la astronáutica hasta la protección medioambiental, pasando por la ingeniería genética, los descubrimientos en la medicina y las propuestas urbanísticas del mañana. Visión futuro transmite las ideas de personas que piensan más allá: científicos destacados, cerebros únicos y visionarios.",
-      "inicio": "2026-10-28T05:00:00",
-      "fin": "2026-10-28T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/visionfuturo.jpg"
-    },
-    {
-      "titulo": "Fuerza latina, mujeres inspiradoras de América Latina",
-      "descripcion": "Las mujeres latinoamericanas ganan protagonismo en todos los ámbitos. Con tenacidad y perseverancia, se proponen mejorar el mundo que les rodea y alzan su voz para reclamar derechos, denunciar injusticias y un mayor protagonismo en la sociedad.",
-      "inicio": "2026-10-28T05:30:00",
-      "fin": "2026-10-28T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatinamujeresinspiradorasdeamericalatina.jpg"
-    },
-    {
-      "titulo": "Hecho en Alemania",
-      "descripcion": "Cómo trabajamos, cuánto ganamos, cómo vivimos - la economía cambia rápidamente. HECHO en Alemania analiza las oportunidades y riesgos de la digitalización. Nuestros reporteros acompañan a jóvenes que crean nuevos entornos laborales.\n\nAbordamos temas polémicos como la ética frente a la rentabilidad o el negocio en torno a la reproducción asistida. Economía multimedia, sorprendente, emocional.\n\nDW Sendung MADE TeamDW Sendung MADE Team",
-      "inicio": "2026-10-28T06:00:00",
-      "fin": "2026-10-28T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechoenalemania.jpg"
-    },
-    {
-      "titulo": "Zona docu",
-      "descripcion": "Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.\n\nTodo un abanico de contenidos de Alemania y del mundo, que no dejan impasible.",
-      "inicio": "2026-10-28T06:30:00",
-      "fin": "2026-10-28T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zonadocu.jpg"
-    },
-    {
-      "titulo": "DocFilm • Arma de guerra: Violencia sexual contra los hombres",
-      "descripcion": "Arma de guerra: Violencia sexual contra los hombres | La violencia sexual contra mujeres existe desde que hay guerras, pero también contra los hombres. El agredido no muere, solo queda destruido. Se trata de un arma eficaz y un gran tabú. Hombres de Ucrania, Congo y Bosnia rompen el silencio.",
-      "inicio": "2026-10-28T07:00:00",
-      "fin": "2026-10-28T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/docfilm.jpg"
-    },
-    {
-      "titulo": "Fuerza latina, mujeres inspiradoras de América Latina",
-      "descripcion": "Las mujeres latinoamericanas ganan protagonismo en todos los ámbitos. Con tenacidad y perseverancia, se proponen mejorar el mundo que les rodea y alzan su voz para reclamar derechos, denunciar injusticias y un mayor protagonismo en la sociedad.",
-      "inicio": "2026-10-28T08:00:00",
-      "fin": "2026-10-28T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatinamujeresinspiradorasdeamericalatina.jpg"
-    },
-    {
-      "titulo": "RPM",
-      "descripcion": "Programa sobre el automóvil y la movilidad.",
-      "inicio": "2026-10-28T08:30:00",
-      "fin": "2026-10-28T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rpm.jpg"
-    },
-    {
-      "titulo": "En Forma",
-      "descripcion": "En Forma es un programa de televisión de la cadena alemana DW (Deutsche Welle) enfocado en la salud, el bienestar, la actividad física, la nutrición y un estilo de vida saludable. Presenta reportajes, consejos prácticos de ejercicio y bienestar integral desde una perspectiva dinámica y moderna.",
-      "inicio": "2026-10-28T09:00:00",
-      "fin": "2026-10-28T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enforma.jpg"
-    },
-    {
-      "titulo": "Hecho en Alemania",
-      "descripcion": "Cómo trabajamos, cuánto ganamos, cómo vivimos - la economía cambia rápidamente. HECHO en Alemania analiza las oportunidades y riesgos de la digitalización. Nuestros reporteros acompañan a jóvenes que crean nuevos entornos laborales.\n\nAbordamos temas polémicos como la ética frente a la rentabilidad o el negocio en torno a la reproducción asistida. Economía multimedia, sorprendente, emocional.\n\nDW Sendung MADE TeamDW Sendung MADE Team",
-      "inicio": "2026-10-28T09:30:00",
-      "fin": "2026-10-28T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechoenalemania.jpg"
-    },
     {
       "titulo": "DocFilm • Arma de guerra: Violencia sexual contra los hombres",
       "descripcion": "Arma de guerra: Violencia sexual contra los hombres | La violencia sexual contra mujeres existe desde que hay guerras, pero también contra los hombres. El agredido no muere, solo queda destruido. Se trata de un arma eficaz y un gran tabú. Hombres de Ucrania, Congo y Bosnia rompen el silencio.",
       "inicio": "2026-10-28T10:00:00",
       "fin": "2026-10-28T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/docfilm.jpg"
+    },
+    {
+      "titulo": "¿Cómo te afecta?",
+      "descripcion": "El programa para los jóvenes de América Latina\n\nLas nuevas generaciones consumen noticias, sobre todo, en redes sociales. ¿Cómo te afecta? quiere llegar a jóvenes y adolescentes de América Latina con temas de actualidad que les preocupan y afectan.\n\nEl lenguaje visual de ¿Cómo te afecta? es fresco, dinámico, basado en el estilo que impera en YouTube y al que están acostumbrados los jóvenes de hoy en día, alejados de los programas tradicionales de televisión.\n\nErnesto Andrés Fuenmayor y Tamara Rivera Castro serán los YouTubers que analicen y pongan en contexto temas y noticias de actualidad con voces de  jóvenes afectados por estos problemas, pero también de expertos que ayuden a pensar en soluciones ofreciendo, de este modo, un periodismo constructivo.",
+      "inicio": "2026-10-28T11:00:00",
+      "fin": "2026-10-28T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comoteafecta.jpg"
+    },
+    {
+      "titulo": "Primer plano",
+      "descripcion": "La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad. No nos limitamos a narrar acontecimientos, ahondamos en las causas y la evolución.\n\nPrimer plano: interesante, impactante, informativo.",
+      "inicio": "2026-10-28T11:30:00",
+      "fin": "2026-10-28T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerplano.jpg"
+    },
+    {
+      "titulo": "Fuerza latina, mujeres inspiradoras de América Latina",
+      "descripcion": "Las mujeres latinoamericanas ganan protagonismo en todos los ámbitos. Con tenacidad y perseverancia, se proponen mejorar el mundo que les rodea y alzan su voz para reclamar derechos, denunciar injusticias y un mayor protagonismo en la sociedad.",
+      "inicio": "2026-10-28T12:00:00",
+      "fin": "2026-10-28T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatinamujeresinspiradorasdeamericalatina.jpg"
+    },
+    {
+      "titulo": "RPM",
+      "descripcion": "Programa sobre el automóvil y la movilidad.",
+      "inicio": "2026-10-28T12:30:00",
+      "fin": "2026-10-28T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rpm.jpg"
+    },
+    {
+      "titulo": "Hecho en Alemania",
+      "descripcion": "Cómo trabajamos, cuánto ganamos, cómo vivimos - la economía cambia rápidamente. HECHO en Alemania analiza las oportunidades y riesgos de la digitalización. Nuestros reporteros acompañan a jóvenes que crean nuevos entornos laborales.\n\nAbordamos temas polémicos como la ética frente a la rentabilidad o el negocio en torno a la reproducción asistida. Economía multimedia, sorprendente, emocional.\n\nDW Sendung MADE TeamDW Sendung MADE Team",
+      "inicio": "2026-10-28T13:00:00",
+      "fin": "2026-10-28T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechoenalemania.jpg"
+    },
+    {
+      "titulo": "¡Escápate!",
+      "descripcion": "Escápate inicia una nueva andadura de la mano de Lukas Stege, Diana Piñeros y Nicole Geisse. Descubra destinos de ensueño, monumentos emblemáticos y sorprendentes parajes.\n\nEscápate los lleva por rutas desconocidas y les muestra la otra cara de los lugares más visitados.  En esta nueva etapa  les traemos un programa híbrido que acude también a lo que sucede en redes, con informaciones prácticas y unos reporteros que se atreven a todo.",
+      "inicio": "2026-10-28T13:30:00",
+      "fin": "2026-10-28T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/escapate.jpg"
+    },
+    {
+      "titulo": "DocFilm • Arma de guerra: Violencia sexual contra los hombres",
+      "descripcion": "Arma de guerra: Violencia sexual contra los hombres | La violencia sexual contra mujeres existe desde que hay guerras, pero también contra los hombres. El agredido no muere, solo queda destruido. Se trata de un arma eficaz y un gran tabú. Hombres de Ucrania, Congo y Bosnia rompen el silencio.",
+      "inicio": "2026-10-28T14:00:00",
+      "fin": "2026-10-28T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/docfilm.jpg"
+    },
+    {
+      "titulo": "DW Noticias",
+      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
+      "inicio": "2026-10-28T15:00:00",
+      "fin": "2026-10-28T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Visión futuro",
+      "descripcion": "Visión futuro es la emisión de DW sobre ciencia. Este magazín va dirigido a todos los que se interesan por la investigación en Alemania y Europa. Con un lenguaje comprensible y una presentación atractiva, sus dinámicos reportajes cubren un amplio espectro de temas cruciales para el futuro: desde la astronáutica hasta la protección medioambiental, pasando por la ingeniería genética, los descubrimientos en la medicina y las propuestas urbanísticas del mañana. Visión futuro transmite las ideas de personas que piensan más allá: científicos destacados, cerebros únicos y visionarios.",
+      "inicio": "2026-10-28T15:30:00",
+      "fin": "2026-10-28T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/visionfuturo.jpg"
+    },
+    {
+      "titulo": "DW analiza",
+      "descripcion": "Un espacio que informa sobre las noticias internacionales más relevantes y analiza el trasfondo de los hechos.",
+      "inicio": "2026-10-28T16:00:00",
+      "fin": "2026-10-28T16:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dwanaliza.jpg"
+    },
+    {
+      "titulo": "Primer plano",
+      "descripcion": "La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad. No nos limitamos a narrar acontecimientos, ahondamos en las causas y la evolución.\n\nPrimer plano: interesante, impactante, informativo.",
+      "inicio": "2026-10-28T16:15:00",
+      "fin": "2026-10-28T16:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerplano.jpg"
+    },
+    {
+      "titulo": "Patrimonio mundial • La Catedral de Roskilde: Mausoleo de Reyes, Dinamarca",
+      "descripcion": "La Catedral de Roskilde: Mausoleo de Reyes, Dinamarca | En el siglo 10, cuando los daneses eran vikingos y temidos en toda Europa, su rey construyó la iglesia que con el tiempo se convirtió en la Catedral de Roskilde, uno de los monumentos nacionales de Dinamarca.",
+      "inicio": "2026-10-28T16:45:00",
+      "fin": "2026-10-28T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DW Noticias",
+      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
+      "inicio": "2026-10-28T17:00:00",
+      "fin": "2026-10-28T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fuerza latina, mujeres inspiradoras de América Latina",
+      "descripcion": "Las mujeres latinoamericanas ganan protagonismo en todos los ámbitos. Con tenacidad y perseverancia, se proponen mejorar el mundo que les rodea y alzan su voz para reclamar derechos, denunciar injusticias y un mayor protagonismo en la sociedad.",
+      "inicio": "2026-10-28T17:30:00",
+      "fin": "2026-10-28T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatinamujeresinspiradorasdeamericalatina.jpg"
+    },
+    {
+      "titulo": "El reportero",
+      "descripcion": "Análisis de la actualidad.",
+      "inicio": "2026-10-28T18:00:00",
+      "fin": "2026-10-28T18:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Zona docu",
+      "descripcion": "Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.\n\nTodo un abanico de contenidos de Alemania y del mundo, que no dejan impasible.",
+      "inicio": "2026-10-28T18:15:00",
+      "fin": "2026-10-28T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zonadocu.jpg"
+    },
+    {
+      "titulo": "DW Noticias",
+      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
+      "inicio": "2026-10-28T19:00:00",
+      "fin": "2026-10-28T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Aquí estoy",
+      "descripcion": "Conversaciones con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Historias de migración, de integración y de éxito; de arte o de política; pero sobre todo historias personales.",
+      "inicio": "2026-10-28T19:30:00",
+      "fin": "2026-10-28T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquiestoy.jpg"
+    },
+    {
+      "titulo": "DW Noticias",
+      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
+      "inicio": "2026-10-28T20:00:00",
+      "fin": "2026-10-28T20:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Economía",
+      "descripcion": "Una mirada europea al mundo de la economía y los negocios. Hechos, análisis y las historias reales desde las principales plazas financieras, los mercados clave y las empresas líderes..",
+      "inicio": "2026-10-28T20:15:00",
+      "fin": "2026-10-28T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/economia.jpg"
+    },
+    {
+      "titulo": "Enlaces: Ventana abierta al mundo digital",
+      "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
+      "inicio": "2026-10-28T20:30:00",
+      "fin": "2026-10-28T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlacesventanaabiertaalmundodigital.jpg"
+    },
+    {
+      "titulo": "DW Noticias",
+      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
+      "inicio": "2026-10-28T21:00:00",
+      "fin": "2026-10-28T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Enfoque Europa: Países, gente, destinos",
+      "descripcion": "Se explora la diversidad cultural y étnica de Europa y se investigan los conflictos de los residentes europeos.",
+      "inicio": "2026-10-28T21:30:00",
+      "fin": "2026-10-28T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DW Noticias",
+      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
+      "inicio": "2026-10-28T22:00:00",
+      "fin": "2026-10-28T22:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Economía",
+      "descripcion": "Una mirada europea al mundo de la economía y los negocios. Hechos, análisis y las historias reales desde las principales plazas financieras, los mercados clave y las empresas líderes..",
+      "inicio": "2026-10-28T22:15:00",
+      "fin": "2026-10-28T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/economia.jpg"
+    },
+    {
+      "titulo": "Enlaces: Ventana abierta al mundo digital",
+      "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
+      "inicio": "2026-10-28T22:30:00",
+      "fin": "2026-10-28T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlacesventanaabiertaalmundodigital.jpg"
+    },
+    {
+      "titulo": "Todo deporte",
+      "descripcion": "Programa de televisión dedicado a la actualidad deportiva, análisis de partidos, cobertura de disciplinas nacionales e internacionales, entrevistas y los acontecimientos más relevantes del mundo del deporte.",
+      "inicio": "2026-10-28T23:00:00",
+      "fin": "2026-10-28T23:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tododeporte.jpg"
+    },
+    {
+      "titulo": "Zona docu",
+      "descripcion": "Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.\n\nTodo un abanico de contenidos de Alemania y del mundo, que no dejan impasible.",
+      "inicio": "2026-10-28T23:15:00",
+      "fin": "2026-10-29T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zonadocu.jpg"
+    },
+    {
+      "titulo": "Hecho en Alemania",
+      "descripcion": "Cómo trabajamos, cuánto ganamos, cómo vivimos - la economía cambia rápidamente. HECHO en Alemania analiza las oportunidades y riesgos de la digitalización. Nuestros reporteros acompañan a jóvenes que crean nuevos entornos laborales.\n\nAbordamos temas polémicos como la ética frente a la rentabilidad o el negocio en torno a la reproducción asistida. Economía multimedia, sorprendente, emocional.\n\nDW Sendung MADE TeamDW Sendung MADE Team",
+      "inicio": "2026-10-29T00:00:00",
+      "fin": "2026-10-29T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechoenalemania.jpg"
+    },
+    {
+      "titulo": "Primer plano",
+      "descripcion": "La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad. No nos limitamos a narrar acontecimientos, ahondamos en las causas y la evolución.\n\nPrimer plano: interesante, impactante, informativo.",
+      "inicio": "2026-10-29T00:30:00",
+      "fin": "2026-10-29T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerplano.jpg"
+    },
+    {
+      "titulo": "Enlaces: Ventana abierta al mundo digital",
+      "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
+      "inicio": "2026-10-29T01:00:00",
+      "fin": "2026-10-29T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlacesventanaabiertaalmundodigital.jpg"
+    },
+    {
+      "titulo": "Aquí estoy",
+      "descripcion": "Conversaciones con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Historias de migración, de integración y de éxito; de arte o de política; pero sobre todo historias personales.",
+      "inicio": "2026-10-29T01:30:00",
+      "fin": "2026-10-29T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquiestoy.jpg"
+    },
+    {
+      "titulo": "Economía",
+      "descripcion": "Una mirada europea al mundo de la economía y los negocios. Hechos, análisis y las historias reales desde las principales plazas financieras, los mercados clave y las empresas líderes..",
+      "inicio": "2026-10-29T02:00:00",
+      "fin": "2026-10-29T02:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/economia.jpg"
+    },
+    {
+      "titulo": "Zona docu",
+      "descripcion": "Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.\n\nTodo un abanico de contenidos de Alemania y del mundo, que no dejan impasible.",
+      "inicio": "2026-10-29T02:15:00",
+      "fin": "2026-10-29T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zonadocu.jpg"
+    },
+    {
+      "titulo": "Fuerza latina, mujeres inspiradoras de América Latina",
+      "descripcion": "Las mujeres latinoamericanas ganan protagonismo en todos los ámbitos. Con tenacidad y perseverancia, se proponen mejorar el mundo que les rodea y alzan su voz para reclamar derechos, denunciar injusticias y un mayor protagonismo en la sociedad.",
+      "inicio": "2026-10-29T03:00:00",
+      "fin": "2026-10-29T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatinamujeresinspiradorasdeamericalatina.jpg"
+    },
+    {
+      "titulo": "Enfoque Europa: Países, gente, destinos",
+      "descripcion": "Se explora la diversidad cultural y étnica de Europa y se investigan los conflictos de los residentes europeos.",
+      "inicio": "2026-10-29T03:30:00",
+      "fin": "2026-10-29T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Economía",
+      "descripcion": "Una mirada europea al mundo de la economía y los negocios. Hechos, análisis y las historias reales desde las principales plazas financieras, los mercados clave y las empresas líderes..",
+      "inicio": "2026-10-29T04:00:00",
+      "fin": "2026-10-29T04:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/economia.jpg"
+    },
+    {
+      "titulo": "Zona docu",
+      "descripcion": "Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.\n\nTodo un abanico de contenidos de Alemania y del mundo, que no dejan impasible.",
+      "inicio": "2026-10-29T04:15:00",
+      "fin": "2026-10-29T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zonadocu.jpg"
+    },
+    {
+      "titulo": "Ecolatinoamérica",
+      "descripcion": "Un magacín con todas las noticias sobre el medio ambiente.",
+      "inicio": "2026-10-29T05:30:00",
+      "fin": "2026-10-29T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ecolatinoamerica.jpg"
+    },
+    {
+      "titulo": "RPM",
+      "descripcion": "Programa sobre el automóvil y la movilidad.",
+      "inicio": "2026-10-29T06:00:00",
+      "fin": "2026-10-29T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rpm.jpg"
+    },
+    {
+      "titulo": "Visión futuro",
+      "descripcion": "Visión futuro es la emisión de DW sobre ciencia. Este magazín va dirigido a todos los que se interesan por la investigación en Alemania y Europa. Con un lenguaje comprensible y una presentación atractiva, sus dinámicos reportajes cubren un amplio espectro de temas cruciales para el futuro: desde la astronáutica hasta la protección medioambiental, pasando por la ingeniería genética, los descubrimientos en la medicina y las propuestas urbanísticas del mañana. Visión futuro transmite las ideas de personas que piensan más allá: científicos destacados, cerebros únicos y visionarios.",
+      "inicio": "2026-10-29T06:30:00",
+      "fin": "2026-10-29T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/visionfuturo.jpg"
+    },
+    {
+      "titulo": "Patrimonio mundial • Marrakech - La Perla del Sur, Marruecos",
+      "descripcion": "Marrakech - La Perla del Sur, Marruecos | Marrakech surgió en el siglo XI de un campamento de almorávides nómadas. Hoy en día, la ciudad tiene un centro turístico que atrae a gente de todo el mundo. Se realiza un recorrido por los suntuosos salones y el jardín privado del rey Hassan II.",
+      "inicio": "2026-10-29T07:00:00",
+      "fin": "2026-10-29T07:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Zona docu",
+      "descripcion": "Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.\n\nTodo un abanico de contenidos de Alemania y del mundo, que no dejan impasible.",
+      "inicio": "2026-10-29T07:15:00",
+      "fin": "2026-10-29T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zonadocu.jpg"
+    },
+    {
+      "titulo": "Hecho en Alemania",
+      "descripcion": "Cómo trabajamos, cuánto ganamos, cómo vivimos - la economía cambia rápidamente. HECHO en Alemania analiza las oportunidades y riesgos de la digitalización. Nuestros reporteros acompañan a jóvenes que crean nuevos entornos laborales.\n\nAbordamos temas polémicos como la ética frente a la rentabilidad o el negocio en torno a la reproducción asistida. Economía multimedia, sorprendente, emocional.\n\nDW Sendung MADE TeamDW Sendung MADE Team",
+      "inicio": "2026-10-29T08:00:00",
+      "fin": "2026-10-29T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechoenalemania.jpg"
+    },
+    {
+      "titulo": "Enlaces: Ventana abierta al mundo digital",
+      "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
+      "inicio": "2026-10-29T08:30:00",
+      "fin": "2026-10-29T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlacesventanaabiertaalmundodigital.jpg"
+    },
+    {
+      "titulo": "Fuerza latina, mujeres inspiradoras de América Latina",
+      "descripcion": "Las mujeres latinoamericanas ganan protagonismo en todos los ámbitos. Con tenacidad y perseverancia, se proponen mejorar el mundo que les rodea y alzan su voz para reclamar derechos, denunciar injusticias y un mayor protagonismo en la sociedad.",
+      "inicio": "2026-10-29T09:00:00",
+      "fin": "2026-10-29T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatinamujeresinspiradorasdeamericalatina.jpg"
+    },
+    {
+      "titulo": "En Forma",
+      "descripcion": "En Forma es un programa de televisión de la cadena alemana DW (Deutsche Welle) enfocado en la salud, el bienestar, la actividad física, la nutrición y un estilo de vida saludable. Presenta reportajes, consejos prácticos de ejercicio y bienestar integral desde una perspectiva dinámica y moderna.",
+      "inicio": "2026-10-29T09:30:00",
+      "fin": "2026-10-29T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enforma.jpg"
+    },
+    {
+      "titulo": "Patrimonio mundial • Tréveris - La Ciudad Alemana más Antigua, Alemania",
+      "descripcion": "Tréveris - La Ciudad Alemana más Antigua, Alemania | La ciudad de Tréveris es considerada la ciudad más antigua de Alemania y desde 1986 forma parte del Patrimonio de la Humanidad de la UNESCO.",
+      "inicio": "2026-10-29T10:00:00",
+      "fin": "2026-10-29T10:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Zona docu",
+      "descripcion": "Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.\n\nTodo un abanico de contenidos de Alemania y del mundo, que no dejan impasible.",
+      "inicio": "2026-10-29T10:15:00",
+      "fin": "2026-10-29T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zonadocu.jpg"
     }
   ]
 }
