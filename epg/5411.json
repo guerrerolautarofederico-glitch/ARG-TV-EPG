@@ -1,130 +1,165 @@
 {
   "actual": {
-    "titulo": "Fútbol picante",
-    "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
-    "inicio": "2026-10-28T09:00:00",
-    "fin": "2026-10-28T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
-  },
-  "siguiente": {
     "titulo": "SportsCenter",
     "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-    "inicio": "2026-10-28T11:00:00",
-    "fin": "2026-10-28T13:00:00",
+    "inicio": "2026-10-29T11:00:00",
+    "fin": "2026-10-29T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+  },
+  "siguiente": {
+    "titulo": "Fútbol Copa de Alemania • FC Bayern München vs 1. FC Magdeburg",
+    "descripcion": "FC Bayern München vs 1. FC Magdeburg | Cobertura del partido de la segunda ronda de la Copa Pokal 2026-27. Desde el Allianz Arena, en Munich.",
+    "inicio": "2026-10-29T13:00:00",
+    "fin": "2026-10-29T15:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
+      "titulo": "SportsCenter",
+      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-10-29T11:00:00",
+      "fin": "2026-10-29T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol Copa de Alemania • FC Bayern München vs 1. FC Magdeburg",
+      "descripcion": "FC Bayern München vs 1. FC Magdeburg | Cobertura del partido de la segunda ronda de la Copa Pokal 2026-27. Desde el Allianz Arena, en Munich.",
+      "inicio": "2026-10-29T13:00:00",
+      "fin": "2026-10-29T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter AM",
+      "descripcion": "Estreno ║ La edición matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-10-29T15:00:00",
+      "fin": "2026-10-29T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenteram.jpg"
+    },
+    {
       "titulo": "Fútbol picante",
-      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
-      "inicio": "2026-10-28T09:00:00",
-      "fin": "2026-10-28T11:00:00",
+      "descripcion": "Estreno ║ La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-10-29T16:00:00",
+      "fin": "2026-10-29T16:50:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "Fútbol Inglés Copa de la Liga • Liverpool vs Chelsea",
+      "descripcion": "Estreno ║ Liverpool vs Chelsea | Acción del partido de la cuarta ronda de la EFL Cup 2026-27. Desde Anfield, en ⚽ [EPL] Liverpool, Inglaterra.",
+      "inicio": "2026-10-29T16:50:00",
+      "fin": "2026-10-29T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Equipo F",
+      "descripcion": "Estreno ║ El epicentro del análisis deportivo con entrevistas exclusivas a las figuras clave de la Liga MX con profundidad y perspectiva únicas.",
+      "inicio": "2026-10-29T17:00:00",
+      "fin": "2026-10-29T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/equipof.jpg"
+    },
+    {
+      "titulo": "Enfocados",
+      "descripcion": "Estreno ║ Se ofrece una visión global de múltiples deportes, con la conducción de expertos reconocidos que combinan respeto y experiencia.",
+      "inicio": "2026-10-29T18:00:00",
+      "fin": "2026-10-29T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enfocados.jpg"
+    },
+    {
+      "titulo": "Generación F",
+      "descripcion": "Estreno ║ Se mezcla el debate e irreverencia con rigor periodístico, creando una atmósfera única.",
+      "inicio": "2026-10-29T19:00:00",
+      "fin": "2026-10-29T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/generacionf.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-10-29T20:00:00",
+      "fin": "2026-10-29T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Béisbol esta noche",
+      "descripcion": "Estreno ║ Noche de recapitulación donde se muestran los momentos más destacados de todos los juegos y actualizaciones de los que siguen en curso.",
+      "inicio": "2026-10-29T20:30:00",
+      "fin": "2026-10-29T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/beisbolestanoche.jpg"
     },
     {
       "titulo": "SportsCenter",
       "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-10-28T11:00:00",
-      "fin": "2026-10-28T13:00:00",
+      "inicio": "2026-10-29T21:00:00",
+      "fin": "2026-10-29T21:50:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
     },
     {
-      "titulo": "Fútbol Copa de Alemania • Borussia Dortmund vs Werder Bremen",
-      "descripcion": "Borussia Dortmund vs Werder Bremen | Acción del partido de la segunda ronda de la Copa Pokal 2026-27. Desde Signal Iduna Park, en ⚽ [Bundesliga] Dortmund.",
-      "inicio": "2026-10-28T13:00:00",
-      "fin": "2026-10-28T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN México",
-      "descripcion": "Programación deportiva.",
-      "inicio": "2026-10-28T15:00:00",
-      "fin": "2026-10-28T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN México",
-      "descripcion": "Programación deportiva.",
-      "inicio": "2026-10-28T19:00:00",
-      "fin": "2026-10-28T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN México",
-      "descripcion": "Programación deportiva.",
-      "inicio": "2026-10-28T23:00:00",
-      "fin": "2026-10-29T01:00:00",
+      "titulo": "Fútbol Mexicano Liga Expansión • Alebrijes de Oaxaca vs Mineros de Zacatecas",
+      "descripcion": "Estreno ║ Alebrijes de Oaxaca vs Mineros de Zacatecas | Jornada 15 del Torneo Apertura 2026 de la Liga Expansión MX. Alebrijes de Oaxaca se enfrenta a Mineros de Zacatecas. Desde el estadio Tecnológico de Oaxaca.",
+      "inicio": "2026-10-29T21:50:00",
+      "fin": "2026-10-30T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "SportsCenter",
       "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-10-29T01:00:00",
-      "fin": "2026-10-29T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Fútbol picante",
-      "descripcion": "Estreno ║ La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
-      "inicio": "2026-10-29T02:00:00",
-      "fin": "2026-10-29T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
-    },
-    {
-      "titulo": "ESPN México",
-      "descripcion": "Programación deportiva.",
-      "inicio": "2026-10-29T03:00:00",
-      "fin": "2026-10-29T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-10-29T04:00:00",
-      "fin": "2026-10-29T05:00:00",
+      "inicio": "2026-10-30T00:00:00",
+      "fin": "2026-10-30T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
     },
     {
       "titulo": "Fútbol picante",
       "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
-      "inicio": "2026-10-29T05:00:00",
-      "fin": "2026-10-29T06:00:00",
+      "inicio": "2026-10-30T02:00:00",
+      "fin": "2026-10-30T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
     },
     {
       "titulo": "SportsCenter",
       "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-10-29T06:00:00",
-      "fin": "2026-10-29T07:00:00",
+      "inicio": "2026-10-30T03:00:00",
+      "fin": "2026-10-30T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol picante",
+      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-10-30T05:00:00",
+      "fin": "2026-10-30T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-10-30T06:00:00",
+      "fin": "2026-10-30T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
     },
     {
       "titulo": "Enfocados",
       "descripcion": "Se ofrece una visión global de múltiples deportes, con la conducción de expertos reconocidos que combinan respeto y experiencia.",
-      "inicio": "2026-10-29T07:00:00",
-      "fin": "2026-10-29T08:00:00",
+      "inicio": "2026-10-30T07:00:00",
+      "fin": "2026-10-30T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enfocados.jpg"
     },
     {
       "titulo": "Generación F",
       "descripcion": "Se mezcla el debate e irreverencia con rigor periodístico, creando una atmósfera única.",
-      "inicio": "2026-10-29T08:00:00",
-      "fin": "2026-10-29T09:00:00",
+      "inicio": "2026-10-30T08:00:00",
+      "fin": "2026-10-30T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/generacionf.jpg"
-    },
-    {
-      "titulo": "ESPN México",
-      "descripcion": "Programación deportiva.",
-      "inicio": "2026-10-29T09:00:00",
-      "fin": "2026-10-29T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Fútbol picante",
       "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
-      "inicio": "2026-10-29T10:00:00",
-      "fin": "2026-10-29T11:00:00",
+      "inicio": "2026-10-30T09:00:00",
+      "fin": "2026-10-30T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-10-30T11:00:00",
+      "fin": "2026-10-30T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
     }
   ]
 }

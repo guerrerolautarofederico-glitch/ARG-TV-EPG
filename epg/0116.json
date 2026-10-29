@@ -1,144 +1,137 @@
 {
   "actual": {
-    "titulo": "Buenos días a todos",
-    "descripcion": "Programa matutino con temas de actualidad y del espectáculo chileno, concursos y entretenimiento.",
-    "inicio": "2026-10-28T08:00:00",
-    "fin": "2026-10-28T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buenosdiasatodos.jpg"
-  },
-  "siguiente": {
     "titulo": "El mediodía",
     "descripcion": "El entretenimiento tiene un nuevo espacio en un programa lleno de humor, música, cocina, historias de sueños y emprendimientos.",
-    "inicio": "2026-10-28T11:00:00",
-    "fin": "2026-10-28T13:00:00",
+    "inicio": "2026-10-29T11:00:00",
+    "fin": "2026-10-29T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmediodia.jpg"
+  },
+  "siguiente": {
+    "titulo": "24 Tarde",
+    "descripcion": "La información más relevante a nivel internacional, nacional y regional.",
+    "inicio": "2026-10-29T13:00:00",
+    "fin": "2026-10-29T15:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Buenos días a todos",
-      "descripcion": "Programa matutino con temas de actualidad y del espectáculo chileno, concursos y entretenimiento.",
-      "inicio": "2026-10-28T08:00:00",
-      "fin": "2026-10-28T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buenosdiasatodos.jpg"
-    },
-    {
       "titulo": "El mediodía",
       "descripcion": "El entretenimiento tiene un nuevo espacio en un programa lleno de humor, música, cocina, historias de sueños y emprendimientos.",
-      "inicio": "2026-10-28T11:00:00",
-      "fin": "2026-10-28T13:00:00",
+      "inicio": "2026-10-29T11:00:00",
+      "fin": "2026-10-29T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmediodia.jpg"
     },
     {
       "titulo": "24 Tarde",
       "descripcion": "La información más relevante a nivel internacional, nacional y regional.",
-      "inicio": "2026-10-28T13:00:00",
-      "fin": "2026-10-28T15:00:00",
+      "inicio": "2026-10-29T13:00:00",
+      "fin": "2026-10-29T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Mamá por siempre",
-      "descripcion": "Espacio de conversación, risas y anécdotas sobre maternidad y paternidad.",
-      "inicio": "2026-10-28T15:00:00",
-      "fin": "2026-10-28T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mamaporsiempre.jpg"
+      "titulo": "Lleve de lo bueno",
+      "descripcion": "Rescatando y valorando la identidad de la comida chilena, descubriendo los productos esenciales y conociendo diferentes localidades para saber sobre los procesos de extracción y cosecha de insumos tradicionales.",
+      "inicio": "2026-10-29T15:00:00",
+      "fin": "2026-10-29T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/llevedelobueno.jpg"
     },
     {
       "titulo": "El mediodía",
       "descripcion": "El entretenimiento tiene un nuevo espacio en un programa lleno de humor, música, cocina, historias de sueños y emprendimientos.",
-      "inicio": "2026-10-28T16:00:00",
-      "fin": "2026-10-28T18:00:00",
+      "inicio": "2026-10-29T16:00:00",
+      "fin": "2026-10-29T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmediodia.jpg"
     },
     {
       "titulo": "Programa pagado",
       "descripcion": "Programa que muestra diversos productos para la venta.",
-      "inicio": "2026-10-28T18:00:00",
-      "fin": "2026-10-28T19:00:00",
+      "inicio": "2026-10-29T18:00:00",
+      "fin": "2026-10-29T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/programapagado.jpg"
     },
     {
       "titulo": "Pampa ilusión",
       "descripcion": "Una apasionada historia donde el amor no respeta tradiciones y suele quebrar con los esquemas de la época, todo ello enmarcado en la salitrera chilena Pampa Ilusión.",
-      "inicio": "2026-10-28T19:00:00",
-      "fin": "2026-10-28T20:00:00",
+      "inicio": "2026-10-29T19:00:00",
+      "fin": "2026-10-29T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pampailusion.jpg"
     },
     {
       "titulo": "Aquelarre",
       "descripcion": "Aquelarre, un pueblo alejado de la modernidad, se distingue de las demás localidades porque desde hace más de treinta años solo nacen mujeres. Preocupado por esta situación, un rico hacendado del lugar, hace venir de Santiago a un genetista.",
-      "inicio": "2026-10-28T20:00:00",
-      "fin": "2026-10-28T21:00:00",
+      "inicio": "2026-10-29T20:00:00",
+      "fin": "2026-10-29T21:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquelarre.jpg"
     },
     {
       "titulo": "24 horas central",
       "descripcion": "La información de mayor importancia internacional, nacional y regional.",
-      "inicio": "2026-10-28T21:00:00",
-      "fin": "2026-10-28T22:40:00",
+      "inicio": "2026-10-29T21:00:00",
+      "fin": "2026-10-29T22:40:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horascentral.jpg"
     },
     {
       "titulo": "Pampa ilusión",
       "descripcion": "Una apasionada historia donde el amor no respeta tradiciones y suele quebrar con los esquemas de la época, todo ello enmarcado en la salitrera chilena Pampa Ilusión.",
-      "inicio": "2026-10-28T22:40:00",
-      "fin": "2026-10-28T23:45:00",
+      "inicio": "2026-10-29T22:40:00",
+      "fin": "2026-10-29T23:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pampailusion.jpg"
     },
     {
-      "titulo": "Mamá por siempre",
-      "descripcion": "Espacio de conversación, risas y anécdotas sobre maternidad y paternidad.",
-      "inicio": "2026-10-28T23:45:00",
-      "fin": "2026-10-29T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mamaporsiempre.jpg"
+      "titulo": "Lleve de lo bueno",
+      "descripcion": "Rescatando y valorando la identidad de la comida chilena, descubriendo los productos esenciales y conociendo diferentes localidades para saber sobre los procesos de extracción y cosecha de insumos tradicionales.",
+      "inicio": "2026-10-29T23:45:00",
+      "fin": "2026-10-30T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/llevedelobueno.jpg"
     },
     {
       "titulo": "El mediodía",
       "descripcion": "El entretenimiento tiene un nuevo espacio en un programa lleno de humor, música, cocina, historias de sueños y emprendimientos.",
-      "inicio": "2026-10-29T01:30:00",
-      "fin": "2026-10-29T03:00:00",
+      "inicio": "2026-10-30T01:30:00",
+      "fin": "2026-10-30T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmediodia.jpg"
     },
     {
       "titulo": "Aquelarre",
       "descripcion": "Aquelarre, un pueblo alejado de la modernidad, se distingue de las demás localidades porque desde hace más de treinta años solo nacen mujeres. Preocupado por esta situación, un rico hacendado del lugar, hace venir de Santiago a un genetista.",
-      "inicio": "2026-10-29T03:00:00",
-      "fin": "2026-10-29T04:00:00",
+      "inicio": "2026-10-30T03:00:00",
+      "fin": "2026-10-30T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquelarre.jpg"
     },
     {
       "titulo": "24 Noche",
       "descripcion": "Las noticias de Chile y el mundo en política, economía, regiones, deportes, fútbol, tecnología, espectáculos, música, cine, televisión y ciencia.",
-      "inicio": "2026-10-29T04:00:00",
-      "fin": "2026-10-29T04:30:00",
+      "inicio": "2026-10-30T04:00:00",
+      "fin": "2026-10-30T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Mamá por siempre",
-      "descripcion": "Espacio de conversación, risas y anécdotas sobre maternidad y paternidad.",
-      "inicio": "2026-10-29T04:30:00",
-      "fin": "2026-10-29T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mamaporsiempre.jpg"
-    },
-    {
-      "titulo": "Frutos del país",
-      "descripcion": "Espacio sobre la identidad cultural y productiva de las comarcas chilenas rurales.",
-      "inicio": "2026-10-29T05:30:00",
-      "fin": "2026-10-29T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/frutosdelpais.jpg"
+      "titulo": "Lleve de lo bueno",
+      "descripcion": "Rescatando y valorando la identidad de la comida chilena, descubriendo los productos esenciales y conociendo diferentes localidades para saber sobre los procesos de extracción y cosecha de insumos tradicionales.",
+      "inicio": "2026-10-30T05:00:00",
+      "fin": "2026-10-30T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/llevedelobueno.jpg"
     },
     {
       "titulo": "24 AM",
       "descripcion": "Repaso de los hechos que marcaron la noche y la madrugada de Chile y el mundo.",
-      "inicio": "2026-10-29T06:00:00",
-      "fin": "2026-10-29T08:00:00",
+      "inicio": "2026-10-30T06:00:00",
+      "fin": "2026-10-30T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Buenos días a todos",
       "descripcion": "Programa matutino con temas de actualidad y del espectáculo chileno, concursos y entretenimiento.",
-      "inicio": "2026-10-29T08:00:00",
-      "fin": "2026-10-29T11:00:00",
+      "inicio": "2026-10-30T08:00:00",
+      "fin": "2026-10-30T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buenosdiasatodos.jpg"
+    },
+    {
+      "titulo": "El mediodía",
+      "descripcion": "El entretenimiento tiene un nuevo espacio en un programa lleno de humor, música, cocina, historias de sueños y emprendimientos.",
+      "inicio": "2026-10-30T11:00:00",
+      "fin": "2026-10-30T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmediodia.jpg"
     }
   ]
 }

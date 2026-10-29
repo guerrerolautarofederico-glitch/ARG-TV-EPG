@@ -1,214 +1,193 @@
 {
   "actual": {
-    "titulo": "FOX Fit",
-    "descripcion": "Ejercicios y rutinas de trabajo para obtener un cuerpo perfecto de forma sencilla y amena. Todo ello de la mano de expertas consagradas en el mundo del fitness.",
-    "inicio": "2026-10-28T10:00:00",
-    "fin": "2026-10-28T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxfit.jpg"
-  },
-  "siguiente": {
     "titulo": "Central Fox",
     "descripcion": "Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
-    "inicio": "2026-10-28T11:00:00",
-    "fin": "2026-10-28T12:00:00",
+    "inicio": "2026-10-29T11:00:00",
+    "fin": "2026-10-29T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
+  },
+  "siguiente": {
+    "titulo": "La última palabra",
+    "descripcion": "Una joven visita a su abuela, a quien no ha visto en años. Pero lo que encuentra no es exactamente lo que esperaba.",
+    "inicio": "2026-10-29T12:00:00",
+    "fin": "2026-10-29T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
   },
   "lista": [
     {
-      "titulo": "FOX Fit",
-      "descripcion": "Ejercicios y rutinas de trabajo para obtener un cuerpo perfecto de forma sencilla y amena. Todo ello de la mano de expertas consagradas en el mundo del fitness.",
-      "inicio": "2026-10-28T10:00:00",
-      "fin": "2026-10-28T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxfit.jpg"
-    },
-    {
       "titulo": "Central Fox",
       "descripcion": "Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
-      "inicio": "2026-10-28T11:00:00",
-      "fin": "2026-10-28T12:00:00",
+      "inicio": "2026-10-29T11:00:00",
+      "fin": "2026-10-29T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
     },
     {
       "titulo": "La última palabra",
       "descripcion": "Una joven visita a su abuela, a quien no ha visto en años. Pero lo que encuentra no es exactamente lo que esperaba.",
-      "inicio": "2026-10-28T12:00:00",
-      "fin": "2026-10-28T13:00:00",
+      "inicio": "2026-10-29T12:00:00",
+      "fin": "2026-10-29T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
     },
     {
-      "titulo": "Fox Gol femenil",
-      "descripcion": "Un programa dedicado al balompié internacional, pero especialmente centrado en la Liga MX femenil.",
-      "inicio": "2026-10-28T13:00:00",
-      "fin": "2026-10-28T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxgolfemenil.jpg"
+      "titulo": "+90",
+      "descripcion": "Se analiza todo lo que sucede en las ligas más relevantes del fútbol internacional más allá de los 90 minutos de juego. Sin dejar de lado el fútbol mexicano.",
+      "inicio": "2026-10-29T13:00:00",
+      "fin": "2026-10-29T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/90.jpg"
     },
     {
-      "titulo": "All Elite Show",
-      "descripcion": "El show con el resumen más dinámico y divertido de 🤼 [AEW] AEW, donde los expertos analizarán los combates más épicos, noticias y predicciones.",
-      "inicio": "2026-10-28T14:00:00",
-      "fin": "2026-10-28T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alleliteshow.jpg"
-    },
-    {
-      "titulo": "Icarus Sports • Gearing Up",
-      "descripcion": "Gearing Up | Un recorrido por la Brasil Stock Car Pro Series, el GT3 Gulf 12 Hours en Abu Dabi y el Monster Jam \"ThunderROARus\".",
-      "inicio": "2026-10-28T15:00:00",
-      "fin": "2026-10-28T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Baloncesto Liga ACB • Valencia Basket vs Kosner Baskonia",
-      "descripcion": "Valencia Basket vs Kosner Baskonia | Cobertura del partido de la semana 5 de la Liga ACB 2026-27. Baskonia se llevó el último cara a cara sobre ⚽ [LaLiga] Valencia por apretado 86-88 en mayo pasado. Desde la Roig Arena, en ⚽ [LaLiga] Valencia, España.",
-      "inicio": "2026-10-28T15:30:00",
-      "fin": "2026-10-28T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/baloncestoligaacb.jpg"
-    },
-    {
-      "titulo": "Fox Gol femenil",
-      "descripcion": "Un programa dedicado al balompié internacional, pero especialmente centrado en la Liga MX femenil.",
-      "inicio": "2026-10-28T18:00:00",
-      "fin": "2026-10-28T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxgolfemenil.jpg"
-    },
-    {
-      "titulo": "Fox Sports Radio México",
-      "descripcion": "Estreno ║ Los mayores expertos en fútbol mexicano debaten sobre el deporte rey en el plano nacional e internacional.",
-      "inicio": "2026-10-28T19:00:00",
-      "fin": "2026-10-28T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Central Fox",
-      "descripcion": "Estreno ║ Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
-      "inicio": "2026-10-28T20:00:00",
-      "fin": "2026-10-28T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
-    },
-    {
-      "titulo": "Money Line Show",
-      "descripcion": "Estreno ║ El primer programa de apuestas en la televisión deportiva en México.",
-      "inicio": "2026-10-28T21:00:00",
-      "fin": "2026-10-28T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/moneylineshow.jpg"
-    },
-    {
-      "titulo": "Fox Sports Radio México",
-      "descripcion": "Los mayores expertos en fútbol mexicano debaten sobre el deporte rey en el plano nacional e internacional.",
-      "inicio": "2026-10-28T22:00:00",
-      "fin": "2026-10-28T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Fifth Quarter • Ronda 5",
-      "descripcion": "Estreno ║ Ronda 5 | Revive lo mejor de la jornada de la Liga ACB con análisis, grandes jugadas, puntos clave y toda la emoción del básquetbol español.",
-      "inicio": "2026-10-28T23:00:00",
-      "fin": "2026-10-28T23:15:00",
+      "titulo": "Games of the Future",
+      "descripcion": "Con más de veinticinco millones de dólares en juego, más de 260 equipos de 100 países compiten en torneos Phygital Sports, Esports y Tech Sports.",
+      "inicio": "2026-10-29T14:00:00",
+      "fin": "2026-10-29T14:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Icarus Sports • Women's Football Weekly",
       "descripcion": "Women's Football Weekly | Recopilación de los mejores momentos de la semana del fútbol femenino.",
-      "inicio": "2026-10-28T23:15:00",
-      "fin": "2026-10-28T23:45:00",
+      "inicio": "2026-10-29T14:30:00",
+      "fin": "2026-10-29T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "The Fifth Quarter • Ronda 5",
-      "descripcion": "Ronda 5 | Revive lo mejor de la jornada de la Liga ACB con análisis, grandes jugadas, puntos clave y toda la emoción del básquetbol español.",
-      "inicio": "2026-10-28T23:45:00",
-      "fin": "2026-10-29T00:00:00",
+      "titulo": "Icarus Sports • Gearing Up",
+      "descripcion": "Gearing Up | Un recorrido por la Brasil Stock Car Pro Series, el GT3 Gulf 12 Hours en Abu Dabi y el Monster Jam \"ThunderROARus\".",
+      "inicio": "2026-10-29T15:00:00",
+      "fin": "2026-10-29T15:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "All Elite Wrestling: Dynamite",
+      "descripcion": "La lucha más intensa llega con 🤼 [AEW] AEW Dynamite: combates espectaculares, rivalidades al límite y estrellas que lo dejan todo en el ring.",
+      "inicio": "2026-10-29T15:30:00",
+      "fin": "2026-10-29T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/allelitewrestlingdynamite.jpg"
     },
     {
       "titulo": "+90",
-      "descripcion": "Estreno ║ Se analiza todo lo que sucede en las ligas más relevantes del fútbol internacional más allá de los 90 minutos de juego. Sin dejar de lado el fútbol mexicano.",
-      "inicio": "2026-10-29T00:00:00",
-      "fin": "2026-10-29T01:00:00",
+      "descripcion": "Se analiza todo lo que sucede en las ligas más relevantes del fútbol internacional más allá de los 90 minutos de juego. Sin dejar de lado el fútbol mexicano.",
+      "inicio": "2026-10-29T18:00:00",
+      "fin": "2026-10-29T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/90.jpg"
+    },
+    {
+      "titulo": "Fox Sports Radio México",
+      "descripcion": "Estreno ║ Los mayores expertos en fútbol mexicano debaten sobre el deporte rey en el plano nacional e internacional.",
+      "inicio": "2026-10-29T19:00:00",
+      "fin": "2026-10-29T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Central Fox",
       "descripcion": "Estreno ║ Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
-      "inicio": "2026-10-29T01:00:00",
-      "fin": "2026-10-29T02:00:00",
+      "inicio": "2026-10-29T20:00:00",
+      "fin": "2026-10-29T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
+    },
+    {
+      "titulo": "Money Line Show",
+      "descripcion": "Estreno ║ El primer programa de apuestas en la televisión deportiva en México.",
+      "inicio": "2026-10-29T21:00:00",
+      "fin": "2026-10-29T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/moneylineshow.jpg"
+    },
+    {
+      "titulo": "Fox Sports Radio México",
+      "descripcion": "Los mayores expertos en fútbol mexicano debaten sobre el deporte rey en el plano nacional e internacional.",
+      "inicio": "2026-10-29T22:00:00",
+      "fin": "2026-10-29T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "FIA TCR World Tour",
+      "descripcion": "Cobertura, reportajes, análisis y resúmenes del campeonato internacional de automóviles de turismo: TCR World Tour.",
+      "inicio": "2026-10-29T23:00:00",
+      "fin": "2026-10-30T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fiatcrworldtour.jpg"
+    },
+    {
+      "titulo": "Fox Gol México",
+      "descripcion": "Estreno ║ Noticias, análisis, comentarios, goles y las jugadas más destacadas de la Liga mexicana de fútbol.",
+      "inicio": "2026-10-30T00:00:00",
+      "fin": "2026-10-30T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxgolmexico.jpg"
+    },
+    {
+      "titulo": "Central Fox",
+      "descripcion": "Estreno ║ Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
+      "inicio": "2026-10-30T01:00:00",
+      "fin": "2026-10-30T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
     },
     {
       "titulo": "La última palabra",
       "descripcion": "Estreno ║ Una joven visita a su abuela, a quien no ha visto en años. Pero lo que encuentra no es exactamente lo que esperaba.",
-      "inicio": "2026-10-29T02:00:00",
-      "fin": "2026-10-29T03:00:00",
+      "inicio": "2026-10-30T02:00:00",
+      "fin": "2026-10-30T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
     },
     {
       "titulo": "Central Fox",
       "descripcion": "Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
-      "inicio": "2026-10-29T03:00:00",
-      "fin": "2026-10-29T04:00:00",
+      "inicio": "2026-10-30T03:00:00",
+      "fin": "2026-10-30T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
     },
     {
-      "titulo": "+90",
-      "descripcion": "Se analiza todo lo que sucede en las ligas más relevantes del fútbol internacional más allá de los 90 minutos de juego. Sin dejar de lado el fútbol mexicano.",
-      "inicio": "2026-10-29T04:00:00",
-      "fin": "2026-10-29T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/90.jpg"
+      "titulo": "Lucha Libre CMLL • Retro",
+      "descripcion": "Retro | Viaja a la época dorada de la lucha libre mexicana con combates legendarios, grandes rivalidades y los momentos que hicieron grande al CMLL.",
+      "inicio": "2026-10-30T04:00:00",
+      "fin": "2026-10-30T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/luchalibrecmll.jpg"
     },
     {
-      "titulo": "The Fifth Quarter • Ronda 5",
-      "descripcion": "Ronda 5 | Revive lo mejor de la jornada de la Liga ACB con análisis, grandes jugadas, puntos clave y toda la emoción del básquetbol español.",
-      "inicio": "2026-10-29T05:00:00",
-      "fin": "2026-10-29T05:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Regata • The Ocean Race Atlantic",
-      "descripcion": "The Ocean Race Atlantic | La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-29T05:15:00",
-      "fin": "2026-10-29T05:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Fifth Quarter • Ronda 5",
-      "descripcion": "Ronda 5 | Revive lo mejor de la jornada de la Liga ACB con análisis, grandes jugadas, puntos clave y toda la emoción del básquetbol español.",
-      "inicio": "2026-10-29T05:45:00",
-      "fin": "2026-10-29T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Fox Gol México",
+      "descripcion": "Noticias, análisis, comentarios, goles y las jugadas más destacadas de la Liga mexicana de fútbol.",
+      "inicio": "2026-10-30T05:00:00",
+      "fin": "2026-10-30T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxgolmexico.jpg"
     },
     {
       "titulo": "La última palabra",
       "descripcion": "Una joven visita a su abuela, a quien no ha visto en años. Pero lo que encuentra no es exactamente lo que esperaba.",
-      "inicio": "2026-10-29T06:00:00",
-      "fin": "2026-10-29T07:00:00",
+      "inicio": "2026-10-30T06:00:00",
+      "fin": "2026-10-30T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
     },
     {
       "titulo": "Central Fox",
       "descripcion": "Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
-      "inicio": "2026-10-29T07:00:00",
-      "fin": "2026-10-29T08:00:00",
+      "inicio": "2026-10-30T07:00:00",
+      "fin": "2026-10-30T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
     },
     {
       "titulo": "La última palabra",
       "descripcion": "Una joven visita a su abuela, a quien no ha visto en años. Pero lo que encuentra no es exactamente lo que esperaba.",
-      "inicio": "2026-10-29T08:00:00",
-      "fin": "2026-10-29T09:00:00",
+      "inicio": "2026-10-30T08:00:00",
+      "fin": "2026-10-30T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
     },
     {
       "titulo": "Central Fox",
       "descripcion": "Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
-      "inicio": "2026-10-29T09:00:00",
-      "fin": "2026-10-29T10:00:00",
+      "inicio": "2026-10-30T09:00:00",
+      "fin": "2026-10-30T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
     },
     {
       "titulo": "FOX Fit",
       "descripcion": "Ejercicios y rutinas de trabajo para obtener un cuerpo perfecto de forma sencilla y amena. Todo ello de la mano de expertas consagradas en el mundo del fitness.",
-      "inicio": "2026-10-29T10:00:00",
-      "fin": "2026-10-29T11:00:00",
+      "inicio": "2026-10-30T10:00:00",
+      "fin": "2026-10-30T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxfit.jpg"
+    },
+    {
+      "titulo": "Central Fox",
+      "descripcion": "Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
+      "inicio": "2026-10-30T11:00:00",
+      "fin": "2026-10-30T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
     }
   ]
 }

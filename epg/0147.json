@@ -1,213 +1,66 @@
 {
   "actual": {
-    "titulo": "Cultura.21",
-    "descripcion": "Espacio que presenta a los protagonistas, detecta las ideas nuevas, explica los grandes debates y está presente en los eventos más destacados de la temporada. Un periodismo que examina con atención el espíritu del momento.",
-    "inicio": "2026-10-28T10:30:00",
-    "fin": "2026-10-28T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cultura21.jpg"
+    "titulo": "TV USACH",
+    "descripcion": "La informacion de este programa no se encuentra disponible.",
+    "inicio": "2026-10-29T08:00:00",
+    "fin": "2026-10-29T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "All you need is lab",
-    "descripcion": "Te contamos todo lo que tienes que saber sobre ciencia y tecnología de una manera atractiva.",
-    "inicio": "2026-10-28T11:00:00",
-    "fin": "2026-10-28T12:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/allyouneedislab.jpg"
+    "titulo": "TV USACH",
+    "descripcion": "La informacion de este programa no se encuentra disponible.",
+    "inicio": "2026-10-29T12:00:00",
+    "fin": "2026-10-29T16:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Cultura.21",
-      "descripcion": "Espacio que presenta a los protagonistas, detecta las ideas nuevas, explica los grandes debates y está presente en los eventos más destacados de la temporada. Un periodismo que examina con atención el espíritu del momento.",
-      "inicio": "2026-10-28T10:30:00",
-      "fin": "2026-10-28T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cultura21.jpg"
-    },
-    {
-      "titulo": "All you need is lab",
-      "descripcion": "Te contamos todo lo que tienes que saber sobre ciencia y tecnología de una manera atractiva.",
-      "inicio": "2026-10-28T11:00:00",
-      "fin": "2026-10-28T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/allyouneedislab.jpg"
-    },
-    {
-      "titulo": "Singulares",
-      "descripcion": "Serie documental que acompaña a estudiantes y protagonistas de proyectos en innovación, ciencia, sociedad y cultura que están marcando pauta a nivel nacional e internacional.",
-      "inicio": "2026-10-28T12:00:00",
-      "fin": "2026-10-28T12:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/singulares.jpg"
-    },
-    {
-      "titulo": "Saica te cuenta",
-      "descripcion": "Un recorrido por el cine, la música y los videojuegos.",
-      "inicio": "2026-10-28T12:25:00",
-      "fin": "2026-10-28T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/saicatecuenta.jpg"
-    },
-    {
-      "titulo": "Enlaces",
-      "descripcion": "Riguroso y entretenido a la vez, presenta temas relevantes del mundo digital con un profundo enfoque periodístico: los desafíos de las redes sociales, la seguridad en Internet o la red como plataforma de agitación política.",
-      "inicio": "2026-10-28T12:30:00",
-      "fin": "2026-10-28T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlaces.jpg"
-    },
-    {
-      "titulo": "Ciclos de formación",
-      "descripcion": "Un espacio donde los creadores de la escena local desmenuzan su oficio y comparten los secretos del circuito.",
-      "inicio": "2026-10-28T13:00:00",
-      "fin": "2026-10-28T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ciclosdeformacion.jpg"
-    },
-    {
-      "titulo": "Educadores",
-      "descripcion": "Una serie documental que cuenta historias de docentes que desde el corazón del sistema son capaces de generar cambios en la vida de sus estudiantes.",
-      "inicio": "2026-10-28T14:00:00",
-      "fin": "2026-10-28T14:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/educadores.jpg"
-    },
-    {
-      "titulo": "Mediales art",
-      "descripcion": "Serie documental dedicada a artistas mediales.",
-      "inicio": "2026-10-28T14:15:00",
-      "fin": "2026-10-28T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/medialesart.jpg"
-    },
-    {
-      "titulo": "Territorio De Cultura Y Patrimonio",
-      "descripcion": "Serie documental producida por la Corporación Cultural de Peñalolén que pone en valor el patrimonio vivo, las tradiciones, los oficios y la memoria colectiva de la comuna.",
-      "inicio": "2026-10-28T14:30:00",
-      "fin": "2026-10-28T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/territoriodeculturaypatrimonio.jpg"
-    },
-    {
-      "titulo": "Raíz Manual De Saberes",
-      "descripcion": "Serie documental protagonizada por las mujeres integrantes del club de adulto mayor Las Violetas de Rinconada de Parral.",
-      "inicio": "2026-10-28T15:00:00",
-      "fin": "2026-10-28T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/raizmanualdesaberes.jpg"
-    },
-    {
-      "titulo": "Intersesiones",
-      "descripcion": "Un ciclo de música en vivo creado por la Corporación Cultural Usach, que busca relevar proyectos musicales chilenos en formato semidesenchufado y conectar la música con diferentes disciplinas culturales.",
-      "inicio": "2026-10-28T15:30:00",
-      "fin": "2026-10-28T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/intersesiones.jpg"
-    },
-    {
-      "titulo": "Rockódromo",
-      "descripcion": "Conciertos de escuelas de rock y música popular en Chile.",
-      "inicio": "2026-10-28T16:00:00",
-      "fin": "2026-10-28T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rockodromo.jpg"
-    },
-    {
-      "titulo": "Día D",
-      "descripcion": "Para el 70 aniversario de la invasión aliada de Europa controlada por los nazis, History nos cuenta la historia del Día. Imágenes inéditas combinadas con entrevistas a los hombres que vivieron el desembarco. Aliados y alemanes sobrevivientes cuentan sus historias de primera mano sobre la guerra que cambió el curso del mundo. El Día D sigue siendo uno de los puntos de inflexión más importantes de la Segunda Guerra Mundial, sin embargo, muy pocos de nosotros sabe la verdadera historia... hasta ahora.",
-      "inicio": "2026-10-28T16:30:00",
-      "fin": "2026-10-28T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/diad.jpg"
-    },
-    {
-      "titulo": "Voces del futuro",
-      "descripcion": "Programa de entrevista con expertos participantes de Congreso Futuro. Neurociencia, oceanografía, democracia digital, y más son los temas propuestos.",
-      "inicio": "2026-10-28T17:00:00",
-      "fin": "2026-10-28T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vocesdelfuturo.jpg"
-    },
-    {
-      "titulo": "Miniseries",
-      "descripcion": "Espacio con producciones variadas.",
-      "inicio": "2026-10-28T17:30:00",
-      "fin": "2026-10-28T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniseries.jpg"
-    },
-    {
-      "titulo": "A recorrer el mundo",
-      "descripcion": "Recorremos el mundo con Edu y Cami.",
-      "inicio": "2026-10-28T18:00:00",
-      "fin": "2026-10-28T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/arecorrerelmundo.jpg"
-    },
-    {
-      "titulo": "Sonidos porteños",
-      "descripcion": "Sonidos Porteños es un programa de televisión que se sumerge en la escena musical de Valparaíso en todas sus facetas de estilos, potenciando la creación artística de las bandas y solistas regionales.",
-      "inicio": "2026-10-28T18:30:00",
-      "fin": "2026-10-28T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sonidosportenos.jpg"
-    },
-    {
-      "titulo": "Reino Fútbol",
-      "descripcion": "Junto al periodista Cristián Arcos, exploramos el alma del deporte más querido: historias, recuerdos y conversaciones que van más allá del marcador.",
-      "inicio": "2026-10-28T19:00:00",
-      "fin": "2026-10-28T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reinofutbol.jpg"
-    },
-    {
-      "titulo": "All you need is lab",
-      "descripcion": "Te contamos todo lo que tienes que saber sobre ciencia y tecnología de una manera atractiva.",
-      "inicio": "2026-10-28T19:30:00",
-      "fin": "2026-10-28T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/allyouneedislab.jpg"
-    },
-    {
-      "titulo": "Las palabras y el viento",
-      "descripcion": "Una serie que recorre la Patagonia chilena desde la literatura, dando voz a autoras y autores contemporáneos que transforman el territorio en experiencia y palabra.",
-      "inicio": "2026-10-28T20:30:00",
-      "fin": "2026-10-28T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laspalabrasyelviento.jpg"
-    },
-    {
-      "titulo": "Habitar",
-      "descripcion": "Miniserie documental sobre formas actuales de vivir en Chile",
-      "inicio": "2026-10-28T21:00:00",
-      "fin": "2026-10-28T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/habitar.jpg"
-    },
-    {
-      "titulo": "Ciclos de formación",
-      "descripcion": "Un espacio donde los creadores de la escena local desmenuzan su oficio y comparten los secretos del circuito.",
-      "inicio": "2026-10-28T21:30:00",
-      "fin": "2026-10-28T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ciclosdeformacion.jpg"
-    },
-    {
-      "titulo": "Raíz Manual De Saberes",
-      "descripcion": "Serie documental protagonizada por las mujeres integrantes del club de adulto mayor Las Violetas de Rinconada de Parral.",
-      "inicio": "2026-10-28T22:30:00",
-      "fin": "2026-10-28T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/raizmanualdesaberes.jpg"
-    },
-    {
-      "titulo": "Cuestión de género",
-      "descripcion": "Biopic sobre la jueza del Tribunal Supremo de los EE. UU. Ruth Bader Ginsburg, la segunda mujer en la historia (tras Sandra Day O'Connor) que sirvió en este alto órgano judicial. Ginsburg fue nombrada para el alto tribunal en 1993 por el Presidente Bill Clinton. Ruth, junto a su marido el abogado Martin Ginsburg, cambió el curso de la historia con un singular caso sobre discriminación de género que abrió el camino para la igualdad en los Tribunales.",
-      "inicio": "2026-10-28T23:00:00",
-      "fin": "2026-10-28T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cuestiondegenero.jpg"
-    },
-    {
-      "titulo": "Voces",
-      "descripcion": "Una serie documental contada desde sus protagonistas, alumnos, académicos y funcionarios de la UTE.",
-      "inicio": "2026-10-28T23:30:00",
-      "fin": "2026-10-29T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/voces.jpg"
-    },
-    {
-      "titulo": "TV USACH",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-29T00:00:00",
-      "fin": "2026-10-29T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TV USACH",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-10-29T04:00:00",
-      "fin": "2026-10-29T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "TV USACH",
       "descripcion": "La informacion de este programa no se encuentra disponible.",
       "inicio": "2026-10-29T08:00:00",
       "fin": "2026-10-29T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TV USACH",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-29T12:00:00",
+      "fin": "2026-10-29T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TV USACH",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-29T16:00:00",
+      "fin": "2026-10-29T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TV USACH",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-29T20:00:00",
+      "fin": "2026-10-30T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TV USACH",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-30T00:00:00",
+      "fin": "2026-10-30T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TV USACH",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-30T04:00:00",
+      "fin": "2026-10-30T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TV USACH",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-10-30T08:00:00",
+      "fin": "2026-10-30T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
