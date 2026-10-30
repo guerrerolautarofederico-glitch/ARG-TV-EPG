@@ -2,192 +2,213 @@
   "actual": {
     "titulo": "Vivo AM",
     "descripcion": "Un programa con la mejor información de actualidad, las novedades deportivas y un toque de buen humor.",
-    "inicio": "2026-10-29T10:00:00",
-    "fin": "2026-10-29T12:00:00",
+    "inicio": "2026-10-30T10:00:00",
+    "fin": "2026-10-30T11:20:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vivoam.jpg"
   },
   "siguiente": {
-    "titulo": "Hablemos a las 12",
-    "descripcion": "Programa de noticias con la información actualizada de los hechos más importantes.",
-    "inicio": "2026-10-29T12:00:00",
-    "fin": "2026-10-29T12:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hablemosalas12.jpg"
+    "titulo": "Conversaciones T13",
+    "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
+    "inicio": "2026-10-30T11:20:00",
+    "fin": "2026-10-30T11:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
   },
   "lista": [
-    {
-      "titulo": "Vivo AM",
-      "descripcion": "Un programa con la mejor información de actualidad, las novedades deportivas y un toque de buen humor.",
-      "inicio": "2026-10-29T10:00:00",
-      "fin": "2026-10-29T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vivoam.jpg"
-    },
-    {
-      "titulo": "Hablemos a las 12",
-      "descripcion": "Programa de noticias con la información actualizada de los hechos más importantes.",
-      "inicio": "2026-10-29T12:00:00",
-      "fin": "2026-10-29T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hablemosalas12.jpg"
-    },
-    {
-      "titulo": "Entretiempo",
-      "descripcion": "Espacio donde se habla de los mejores goles, hay resúmenes de partidos y toda la emoción del mundo de los deportes.",
-      "inicio": "2026-10-29T12:30:00",
-      "fin": "2026-10-29T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entretiempo.jpg"
-    },
-    {
-      "titulo": "Teletrece tarde",
-      "descripcion": "Un espacio para toda la información nacional e internacional que marca la jornada.",
-      "inicio": "2026-10-29T13:00:00",
-      "fin": "2026-10-29T15:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "El Tiempo es una pieza audiovisual de la artista Claudia Claremi realizada en colaboración con el equipo de voluntariado del Museo que se inscribe en el Programa NOEXPO, desarrollado por el Área de Educación para el curso 2019-2020.  La premisa argumental del filme parte de un presente distópico: tras el colapso de la sociedad moderna, la cultura occidental pierde su lugar hegemónico y sus instituciones, como los museos, quedan abandonadas. En este escenario de ficción, el voluntariado aparece como el grupo de personas que habita el Museo.  A través de las acciones performativas desarrolladas durante el proceso de creación de una película experimental, el proyecto se adentra en las memorias personales y colectivas del equipo de voluntariado basadas en experiencias de atención y diálogos entre los cuerpos, el espacio y las obras de la Colección.",
-      "inicio": "2026-10-29T15:20:00",
-      "fin": "2026-10-29T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_eltiempo.jpg"
-    },
-    {
-      "titulo": "En Vivo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-29T15:30:00",
-      "fin": "2026-10-29T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
-    },
-    {
-      "titulo": "Me enteré por la prensa",
-      "descripcion": "El resumen informativo del día desde una óptica regional.",
-      "inicio": "2026-10-29T18:00:00",
-      "fin": "2026-10-29T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meentereporlaprensa.jpg"
-    },
-    {
-      "titulo": "Conexión Europa",
-      "descripcion": "Ciclo de entrevistas contingentes de economía, educación y cultura entre Chile y la Unión Europea.",
-      "inicio": "2026-10-29T19:00:00",
-      "fin": "2026-10-29T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexioneuropa.jpg"
-    },
-    {
-      "titulo": "Estamos en vivo",
-      "descripcion": "Programa de noticias con la información actualizada de los hechos más importantes.",
-      "inicio": "2026-10-29T19:30:00",
-      "fin": "2026-10-29T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/estamosenvivo.jpg"
-    },
-    {
-      "titulo": "Micrófono abierto",
-      "descripcion": "Detalle de todo lo mejor del acontecer nacional e internacional deportivo, con entrevistas a destacados personajes de todo ámbito.",
-      "inicio": "2026-10-29T20:00:00",
-      "fin": "2026-10-29T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/microfonoabierto.jpg"
-    },
-    {
-      "titulo": "Teletrece Noticias",
-      "descripcion": "Noticias de actualidad nacionales e internacionales.",
-      "inicio": "2026-10-29T21:00:00",
-      "fin": "2026-10-29T22:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecenoticias.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "El Tiempo es una pieza audiovisual de la artista Claudia Claremi realizada en colaboración con el equipo de voluntariado del Museo que se inscribe en el Programa NOEXPO, desarrollado por el Área de Educación para el curso 2019-2020.  La premisa argumental del filme parte de un presente distópico: tras el colapso de la sociedad moderna, la cultura occidental pierde su lugar hegemónico y sus instituciones, como los museos, quedan abandonadas. En este escenario de ficción, el voluntariado aparece como el grupo de personas que habita el Museo.  A través de las acciones performativas desarrolladas durante el proceso de creación de una película experimental, el proyecto se adentra en las memorias personales y colectivas del equipo de voluntariado basadas en experiencias de atención y diálogos entre los cuerpos, el espacio y las obras de la Colección.",
-      "inicio": "2026-10-29T22:40:00",
-      "fin": "2026-10-29T22:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_eltiempo.jpg"
-    },
-    {
-      "titulo": "Me enteré por la prensa",
-      "descripcion": "El resumen informativo del día desde una óptica regional.",
-      "inicio": "2026-10-29T22:50:00",
-      "fin": "2026-10-29T23:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meentereporlaprensa.jpg"
-    },
-    {
-      "titulo": "Micrófono abierto",
-      "descripcion": "Detalle de todo lo mejor del acontecer nacional e internacional deportivo, con entrevistas a destacados personajes de todo ámbito.",
-      "inicio": "2026-10-29T23:50:00",
-      "fin": "2026-10-30T00:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/microfonoabierto.jpg"
-    },
-    {
-      "titulo": "Informe T13",
-      "descripcion": "Cápsulas de la principal información de Chile.",
-      "inicio": "2026-10-30T00:50:00",
-      "fin": "2026-10-30T01:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informet13.jpg"
-    },
-    {
-      "titulo": "Conversaciones T13",
-      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-      "inicio": "2026-10-30T01:20:00",
-      "fin": "2026-10-30T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
-    },
-    {
-      "titulo": "Teletrece noche",
-      "descripcion": "Noticias de actualidad nacionales e internacionales.",
-      "inicio": "2026-10-30T02:00:00",
-      "fin": "2026-10-30T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecenoche.jpg"
-    },
-    {
-      "titulo": "Informe T13",
-      "descripcion": "Cápsulas de la principal información de Chile.",
-      "inicio": "2026-10-30T03:00:00",
-      "fin": "2026-10-30T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informet13.jpg"
-    },
-    {
-      "titulo": "Conversaciones T13",
-      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-      "inicio": "2026-10-30T04:00:00",
-      "fin": "2026-10-30T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
-    },
-    {
-      "titulo": "Infórmate en un 3x3",
-      "descripcion": "Programa informativo que presenta las noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama.",
-      "inicio": "2026-10-30T05:00:00",
-      "fin": "2026-10-30T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informateenun3x3.jpg"
-    },
-    {
-      "titulo": "Teletrece AM",
-      "descripcion": "Noticiero matutino con las últimas noticias del acontecer nacional e internacional.",
-      "inicio": "2026-10-30T06:00:00",
-      "fin": "2026-10-30T07:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletreceam.jpg"
-    },
-    {
-      "titulo": "Conversaciones T13",
-      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-      "inicio": "2026-10-30T07:50:00",
-      "fin": "2026-10-30T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
-    },
-    {
-      "titulo": "La mañana en vivo",
-      "descripcion": "Las noticias y los temas que marcan la pauta informativa desde una mirada más cercana, para comenzar el día con toda la información.",
-      "inicio": "2026-10-30T08:00:00",
-      "fin": "2026-10-30T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananaenvivo.jpg"
-    },
-    {
-      "titulo": "Conversaciones T13",
-      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
-      "inicio": "2026-10-30T09:30:00",
-      "fin": "2026-10-30T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
-    },
     {
       "titulo": "Vivo AM",
       "descripcion": "Un programa con la mejor información de actualidad, las novedades deportivas y un toque de buen humor.",
       "inicio": "2026-10-30T10:00:00",
       "fin": "2026-10-30T11:20:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vivoam.jpg"
+    },
+    {
+      "titulo": "Conversaciones T13",
+      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
+      "inicio": "2026-10-30T11:20:00",
+      "fin": "2026-10-30T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
+    },
+    {
+      "titulo": "El Mundo Hoy",
+      "descripcion": "Documentales sobre la actualidad informativa mundial.",
+      "inicio": "2026-10-30T11:30:00",
+      "fin": "2026-10-30T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmundohoy.jpg"
+    },
+    {
+      "titulo": "En primera fila",
+      "descripcion": "Recopilación de noticias relacionadas con el espectáculo.",
+      "inicio": "2026-10-30T12:00:00",
+      "fin": "2026-10-30T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enprimerafila.jpg"
+    },
+    {
+      "titulo": "Entretiempo",
+      "descripcion": "Espacio donde se habla de los mejores goles, hay resúmenes de partidos y toda la emoción del mundo de los deportes.",
+      "inicio": "2026-10-30T12:30:00",
+      "fin": "2026-10-30T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entretiempo.jpg"
+    },
+    {
+      "titulo": "Teletrece tarde",
+      "descripcion": "Un espacio para toda la información nacional e internacional que marca la jornada.",
+      "inicio": "2026-10-30T13:00:00",
+      "fin": "2026-10-30T15:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecetarde.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "El Tiempo es una pieza audiovisual de la artista Claudia Claremi realizada en colaboración con el equipo de voluntariado del Museo que se inscribe en el Programa NOEXPO, desarrollado por el Área de Educación para el curso 2019-2020.  La premisa argumental del filme parte de un presente distópico: tras el colapso de la sociedad moderna, la cultura occidental pierde su lugar hegemónico y sus instituciones, como los museos, quedan abandonadas. En este escenario de ficción, el voluntariado aparece como el grupo de personas que habita el Museo.  A través de las acciones performativas desarrolladas durante el proceso de creación de una película experimental, el proyecto se adentra en las memorias personales y colectivas del equipo de voluntariado basadas en experiencias de atención y diálogos entre los cuerpos, el espacio y las obras de la Colección.",
+      "inicio": "2026-10-30T15:20:00",
+      "fin": "2026-10-30T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_eltiempo.jpg"
+    },
+    {
+      "titulo": "En Vivo",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-30T15:30:00",
+      "fin": "2026-10-30T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_fallback.jpg"
+    },
+    {
+      "titulo": "Me enteré por la prensa",
+      "descripcion": "El resumen informativo del día desde una óptica regional.",
+      "inicio": "2026-10-30T18:00:00",
+      "fin": "2026-10-30T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meentereporlaprensa.jpg"
+    },
+    {
+      "titulo": "El Mundo Hoy",
+      "descripcion": "Documentales sobre la actualidad informativa mundial.",
+      "inicio": "2026-10-30T19:00:00",
+      "fin": "2026-10-30T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmundohoy.jpg"
+    },
+    {
+      "titulo": "Vida y salud",
+      "descripcion": "Programa donde diferentes expertos, que tocan temas relacionados con la salud y a la medicina natural, charlan sobre productos utilizados para el bienestar diario.",
+      "inicio": "2026-10-30T19:30:00",
+      "fin": "2026-10-30T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vidaysalud.jpg"
+    },
+    {
+      "titulo": "Micrófono abierto",
+      "descripcion": "Detalle de todo lo mejor del acontecer nacional e internacional deportivo, con entrevistas a destacados personajes de todo ámbito.",
+      "inicio": "2026-10-30T20:00:00",
+      "fin": "2026-10-30T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/microfonoabierto.jpg"
+    },
+    {
+      "titulo": "Teletrece Noticias",
+      "descripcion": "Noticias de actualidad nacionales e internacionales.",
+      "inicio": "2026-10-30T21:00:00",
+      "fin": "2026-10-30T22:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teletrecenoticias.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "El Tiempo es una pieza audiovisual de la artista Claudia Claremi realizada en colaboración con el equipo de voluntariado del Museo que se inscribe en el Programa NOEXPO, desarrollado por el Área de Educación para el curso 2019-2020.  La premisa argumental del filme parte de un presente distópico: tras el colapso de la sociedad moderna, la cultura occidental pierde su lugar hegemónico y sus instituciones, como los museos, quedan abandonadas. En este escenario de ficción, el voluntariado aparece como el grupo de personas que habita el Museo.  A través de las acciones performativas desarrolladas durante el proceso de creación de una película experimental, el proyecto se adentra en las memorias personales y colectivas del equipo de voluntariado basadas en experiencias de atención y diálogos entre los cuerpos, el espacio y las obras de la Colección.",
+      "inicio": "2026-10-30T22:40:00",
+      "fin": "2026-10-30T22:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0214_eltiempo.jpg"
+    },
+    {
+      "titulo": "Me enteré por la prensa",
+      "descripcion": "El resumen informativo del día desde una óptica regional.",
+      "inicio": "2026-10-30T22:50:00",
+      "fin": "2026-10-30T23:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meentereporlaprensa.jpg"
+    },
+    {
+      "titulo": "Micrófono abierto",
+      "descripcion": "Detalle de todo lo mejor del acontecer nacional e internacional deportivo, con entrevistas a destacados personajes de todo ámbito.",
+      "inicio": "2026-10-30T23:50:00",
+      "fin": "2026-10-31T00:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/microfonoabierto.jpg"
+    },
+    {
+      "titulo": "En primera fila",
+      "descripcion": "Recopilación de noticias relacionadas con el espectáculo.",
+      "inicio": "2026-10-31T00:50:00",
+      "fin": "2026-10-31T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enprimerafila.jpg"
+    },
+    {
+      "titulo": "Conversaciones T13",
+      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
+      "inicio": "2026-10-31T01:30:00",
+      "fin": "2026-10-31T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
+    },
+    {
+      "titulo": "Informe T13",
+      "descripcion": "Cápsulas de la principal información de Chile.",
+      "inicio": "2026-10-31T02:00:00",
+      "fin": "2026-10-31T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informet13.jpg"
+    },
+    {
+      "titulo": "Vida y salud",
+      "descripcion": "Programa donde diferentes expertos, que tocan temas relacionados con la salud y a la medicina natural, charlan sobre productos utilizados para el bienestar diario.",
+      "inicio": "2026-10-31T03:00:00",
+      "fin": "2026-10-31T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vidaysalud.jpg"
+    },
+    {
+      "titulo": "Mercado en vivo",
+      "descripcion": "Programa que informa al público sobre las noticias económicas que se producen en Chile.",
+      "inicio": "2026-10-31T03:30:00",
+      "fin": "2026-10-31T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mercadoenvivo.jpg"
+    },
+    {
+      "titulo": "El Mundo Hoy",
+      "descripcion": "Documentales sobre la actualidad informativa mundial.",
+      "inicio": "2026-10-31T04:00:00",
+      "fin": "2026-10-31T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmundohoy.jpg"
+    },
+    {
+      "titulo": "Transmisión conjunta 13",
+      "descripcion": "Transmisión en conjunto de varias señales de Canal 13, donde podrás disfrutar de diversos programas y series del canal.",
+      "inicio": "2026-10-31T04:30:00",
+      "fin": "2026-10-31T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/transmisionconjunta13.jpg"
+    },
+    {
+      "titulo": "Transmisión conjunta 13",
+      "descripcion": "Transmisión en conjunto de varias señales de Canal 13, donde podrás disfrutar de diversos programas y series del canal.",
+      "inicio": "2026-10-31T05:00:00",
+      "fin": "2026-10-31T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/transmisionconjunta13.jpg"
+    },
+    {
+      "titulo": "Informe T13",
+      "descripcion": "Cápsulas de la principal información de Chile.",
+      "inicio": "2026-10-31T06:30:00",
+      "fin": "2026-10-31T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informet13.jpg"
+    },
+    {
+      "titulo": "Conversaciones T13",
+      "descripcion": "Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.",
+      "inicio": "2026-10-31T07:00:00",
+      "fin": "2026-10-31T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversacionest13.jpg"
+    },
+    {
+      "titulo": "Más 100cia",
+      "descripcion": "Recopilación de noticias relacionadas con la ciencia.",
+      "inicio": "2026-10-31T07:30:00",
+      "fin": "2026-10-31T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mas100cia.jpg"
+    },
+    {
+      "titulo": "T13 finde",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-31T08:00:00",
+      "fin": "2026-10-31T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/t13finde.jpg"
     }
   ]
 }

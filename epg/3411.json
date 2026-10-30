@@ -1,137 +1,158 @@
 {
   "actual": {
-    "titulo": "Fecha 3, Parc Olympique Lyonnais • OL Lyonnes (Fra) vs Inter (Ita)",
-    "descripcion": "OL Lyonnes (Fra) vs Inter (Ita) | Vive los partidos de la 26º edición de la UEFA Champions League Femenina, torneo que reúne a los mejores equipos del continente europeo.",
-    "inicio": "2026-10-29T09:00:00",
-    "fin": "2026-10-29T23:00:00",
+    "titulo": "El show de la Fórmula 1",
+    "descripcion": "Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.",
+    "inicio": "2026-10-30T09:30:00",
+    "fin": "2026-10-30T22:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "SportsCenter",
-    "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
-    "inicio": "2026-10-29T23:00:00",
-    "fin": "2026-10-30T00:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    "titulo": "F Táctico",
+    "descripcion": "Show que analizará el fútbol hasta el más mínimo detalle en cuanto a las estructuras tácticas que rodean al juego. Los dibujos, los planteos, las estrategias, el procedimiento, las jugadas y los métodos que usan los equipos.",
+    "inicio": "2026-10-30T22:30:00",
+    "fin": "2026-10-30T23:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ftactico.jpg"
   },
   "lista": [
-    {
-      "titulo": "Fecha 3, Parc Olympique Lyonnais • OL Lyonnes (Fra) vs Inter (Ita)",
-      "descripcion": "OL Lyonnes (Fra) vs Inter (Ita) | Vive los partidos de la 26º edición de la UEFA Champions League Femenina, torneo que reúne a los mejores equipos del continente europeo.",
-      "inicio": "2026-10-29T09:00:00",
-      "fin": "2026-10-29T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
-      "inicio": "2026-10-29T23:00:00",
-      "fin": "2026-10-30T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Octavos de final, Anfield • Liverpool vs Chelsea",
-      "descripcion": "Liverpool vs Chelsea | Revive los mejores momentos de los partidos de la 67º edición de la Copa de la Liga de Inglaterra, también conocida como Carabao Cup.",
-      "inicio": "2026-10-30T00:00:00",
-      "fin": "2026-10-30T00:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bundesliga Preview Show",
-      "descripcion": "Toda la previa de la Primera División del fútbol alemán.",
-      "inicio": "2026-10-30T00:55:00",
-      "fin": "2026-10-30T01:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bundesligapreviewshow.jpg"
-    },
-    {
-      "titulo": "Fecha 9, Stadio Pierluigi Penzo • Venezia vs Inter",
-      "descripcion": "Venezia vs Inter | Revive los mejores momentos de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.",
-      "inicio": "2026-10-30T01:23:00",
-      "fin": "2026-10-30T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Octavos de final, Hill Dickinson Stadium • Everton vs Newcastle Utd",
-      "descripcion": "Everton vs Newcastle Utd | Vive los partidos de la 67º edición de la Copa de la Liga de Inglaterra, también conocida como Carabao Cup.La competición estará abierta a todos los clubes que participan en la Premier League y la English Football League.",
-      "inicio": "2026-10-30T02:00:00",
-      "fin": "2026-10-30T02:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fecha 9, PSC Arena • Frosinone vs Lecce",
-      "descripcion": "Frosinone vs Lecce | Vive las emociones de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.",
-      "inicio": "2026-10-30T02:20:00",
-      "fin": "2026-10-30T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fecha 3, Academy Stadium • Manchester City (Ing) vs Paris Saint-Germain (Fra)",
-      "descripcion": "Manchester City (Ing) vs Paris Saint-Germain (Fra) | Vive los partidos de la 26º edición de la UEFA Champions League Femenina, torneo que reúne a los mejores equipos del continente europeo.",
-      "inicio": "2026-10-30T04:00:00",
-      "fin": "2026-10-30T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fecha 9, Stadio Artemio Franchi • Fiorentina vs Atalanta",
-      "descripcion": "Fiorentina vs Atalanta | Vive las emociones de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.",
-      "inicio": "2026-10-30T04:30:00",
-      "fin": "2026-10-30T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Espn F10",
-      "descripcion": "ESPN F10 | El fútbol desde adentro. Para cerrar el domingo deportivo de la mejor manera, este show estará enfocado en profundizar lo que sucedió en la fecha del fútbol local el fin de semana y la actuación de los jugadores colombianos en el exterior.",
-      "inicio": "2026-10-30T06:00:00",
-      "fin": "2026-10-30T06:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "PSG Campeón UCL 2025-2026",
-      "descripcion": "El club Paris Saint-Germain se consagró campeón de la UEFA Champions League 2025-2026. Con esta conquista, el conjunto parisino se convierte en el primer equipo en conseguir un bicampeonato de la Champions League desde el Real Madrid.",
-      "inicio": "2026-10-30T06:45:00",
-      "fin": "2026-10-30T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bundesliga Preview Show",
-      "descripcion": "Toda la previa de la Primera División del fútbol alemán.",
-      "inicio": "2026-10-30T07:00:00",
-      "fin": "2026-10-30T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bundesligapreviewshow.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
-      "inicio": "2026-10-30T07:00:00",
-      "fin": "2026-10-30T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Octavos de final, Hill Dickinson Stadium • Everton vs Newcastle Utd",
-      "descripcion": "Everton vs Newcastle Utd | Vive los partidos de la 67º edición de la Copa de la Liga de Inglaterra, también conocida como Carabao Cup.La competición estará abierta a todos los clubes que participan en la Premier League y la English Football League.",
-      "inicio": "2026-10-30T07:30:00",
-      "fin": "2026-10-30T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El show de la Fórmula 1",
-      "descripcion": "Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.",
-      "inicio": "2026-10-30T08:30:00",
-      "fin": "2026-10-30T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "El show de la Fórmula 1",
       "descripcion": "Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.",
       "inicio": "2026-10-30T09:30:00",
-      "fin": "2026-10-30T09:30:00",
+      "fin": "2026-10-30T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "F Táctico",
+      "descripcion": "Show que analizará el fútbol hasta el más mínimo detalle en cuanto a las estructuras tácticas que rodean al juego. Los dibujos, los planteos, las estrategias, el procedimiento, las jugadas y los métodos que usan los equipos.",
+      "inicio": "2026-10-30T22:30:00",
+      "fin": "2026-10-30T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ftactico.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
+      "inicio": "2026-10-30T23:00:00",
+      "fin": "2026-10-31T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fecha 9, Stadio Pierluigi Penzo • Venezia vs Inter",
+      "descripcion": "Venezia vs Inter | Revive los mejores momentos de los partidos de la 125º edición de la Serie A, la máxima competición futbolística de Italia, la cual es organizada por la Lega Nazionale Professionisti.",
+      "inicio": "2026-10-31T00:00:00",
+      "fin": "2026-10-31T00:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Octavos de final, Hill Dickinson Stadium • Everton vs Newcastle Utd",
+      "descripcion": "Everton vs Newcastle Utd | Vive los partidos de la 67º edición de la Copa de la Liga de Inglaterra, también conocida como Carabao Cup.La competición estará abierta a todos los clubes que participan en la Premier League y la English Football League.",
+      "inicio": "2026-10-31T00:55:00",
+      "fin": "2026-10-31T02:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fecha 9, Stade Océane • Le Havre vs Paris Saint-Germain",
+      "descripcion": "Le Havre vs Paris Saint-Germain | Vive las emociones de los partidos de la 89º edición de la Ligue 1 de Francia. Los amantes del fútbol podrán disfrutar de la máxima competición profesional en el país.",
+      "inicio": "2026-10-31T02:50:00",
+      "fin": "2026-10-31T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Goles de la Serie A",
+      "descripcion": "El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.",
+      "inicio": "2026-10-31T03:00:00",
+      "fin": "2026-10-31T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Serie A - Preview Show",
+      "descripcion": "Toda la emoción previa a los grandes partidos de fútbol italiano: expectativas, comentarios, análisis, alineaciones y mucho más, para que puedas empezar el partido bien informado sobre tu equipo favorito.",
+      "inicio": "2026-10-31T04:00:00",
+      "fin": "2026-10-31T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bundesliga Preview Show",
+      "descripcion": "Toda la previa de la Primera División del fútbol alemán.",
+      "inicio": "2026-10-31T04:30:00",
+      "fin": "2026-10-31T04:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bundesligapreviewshow.jpg"
+    },
+    {
+      "titulo": "Fecha 9, Stade Pierre-Mauroy • LOSC Lille vs RC Lens",
+      "descripcion": "LOSC Lille vs RC Lens | Vive las emociones de los partidos de la 89º edición de la Ligue 1 de Francia. Los amantes del fútbol podrán disfrutar de la máxima competición profesional en el país.",
+      "inicio": "2026-10-31T04:55:00",
+      "fin": "2026-10-31T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La previa - Premier League",
+      "descripcion": "Antesala a los encuentros de la liga de fútbol de Inglaterra. Además, se presentan novedades e información sobre los equipos y jugadores que conforman la Premier League.",
+      "inicio": "2026-10-31T05:00:00",
+      "fin": "2026-10-31T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Aguas arriba",
+      "descripcion": "Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.",
+      "inicio": "2026-10-31T05:30:00",
+      "fin": "2026-10-31T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aguasarriba.jpg"
+    },
+    {
+      "titulo": "Espn F10",
+      "descripcion": "ESPN F10 | El fútbol desde adentro. Para cerrar el domingo deportivo de la mejor manera, este show estará enfocado en profundizar lo que sucedió en la fecha del fútbol local el fin de semana y la actuación de los jugadores colombianos en el exterior.",
+      "inicio": "2026-10-31T06:00:00",
+      "fin": "2026-10-31T06:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
+      "inicio": "2026-10-31T06:55:00",
+      "fin": "2026-10-31T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "ESPN Knockout, el show",
+      "descripcion": "El show de box más importante del mundo, porque cuenta con una cobertura global del deporte de contacto más emblemático y porque ofrece la mayor variedad de voces y opiniones de habla hispana.",
+      "inicio": "2026-10-31T07:00:00",
+      "fin": "2026-10-31T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "ATP Tour Uncovered",
       "descripcion": "La actualidad del circuito profesional masculino de tenis.",
-      "inicio": "2026-10-30T09:30:00",
-      "fin": "2026-10-30T22:00:00",
+      "inicio": "2026-10-31T08:00:00",
+      "fin": "2026-10-31T08:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/atptouruncovered.jpg"
+    },
+    {
+      "titulo": "World Series • Béisbol esta noche",
+      "descripcion": "Béisbol esta noche | \"Béisbol esta noche\" ofrece a los amantes de este deporte las mejores jugadas, reportajes, invitados especiales y entrevistas.",
+      "inicio": "2026-10-31T08:30:00",
+      "fin": "2026-10-31T08:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Gran Premio de Malasia, Circuito Internacional de Sepang • Clasificación - Moto GP",
+      "descripcion": "Clasificación - Moto GP | Vive las carreras de clasificación de la 78º edición de la Moto GP, la categoría principal del Campeonato Mundial de Motociclismo.",
+      "inicio": "2026-10-31T08:35:00",
+      "fin": "2026-10-31T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Serie Mundial, American Family Field • Tampa Bay Rays vs Milwaukee Brewers",
+      "descripcion": "Tampa Bay Rays vs Milwaukee Brewers | Vive los partidos de la temporada 2026 de la MLB, con las emociones de la liga de béisbol más importante del mundo.",
+      "inicio": "2026-10-31T09:00:00",
+      "fin": "2026-10-31T09:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Gran Premio de Malasia, Circuito Internacional de Sepang • Moto GP - Sprint Race",
+      "descripcion": "Moto GP - Sprint Race | Vive las emociones de la instancia de Sprint Race de la 78º edición de la Moto GP, la categoría principal del Campeonato Mundial de Motociclismo.",
+      "inicio": "2026-10-31T09:35:00",
+      "fin": "2026-10-31T22:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
