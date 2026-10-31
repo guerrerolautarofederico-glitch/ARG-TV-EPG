@@ -1,159 +1,19 @@
 {
   "actual": {
-    "titulo": "Telediario 1ª edición",
-    "descripcion": "Espacio de información audiovisual que hace un repaso diario a la actualidad general de España y el mundo.",
-    "inicio": "2026-10-30T10:55:00",
-    "fin": "2026-10-30T11:32:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario1edicion.jpg"
+    "titulo": "Noticias 24h",
+    "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
+    "inicio": "2026-10-31T06:30:00",
+    "fin": "2026-10-31T10:55:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
   },
   "siguiente": {
-    "titulo": "Teledeporte, directo al Mundial",
-    "descripcion": "Sigue la última hora con información, resúmenes e imágenes del Mundial 2026.",
-    "inicio": "2026-10-30T11:32:00",
-    "fin": "2026-10-30T11:38:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teledeportedirectoalmundial.jpg"
+    "titulo": "Telediario 1ª edición",
+    "descripcion": "Espacio de información audiovisual que hace un repaso diario a la actualidad general de España y el mundo.",
+    "inicio": "2026-10-31T10:55:00",
+    "fin": "2026-10-31T11:41:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario1edicion.jpg"
   },
   "lista": [
-    {
-      "titulo": "Telediario 1ª edición",
-      "descripcion": "Espacio de información audiovisual que hace un repaso diario a la actualidad general de España y el mundo.",
-      "inicio": "2026-10-30T10:55:00",
-      "fin": "2026-10-30T11:32:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario1edicion.jpg"
-    },
-    {
-      "titulo": "Teledeporte, directo al Mundial",
-      "descripcion": "Sigue la última hora con información, resúmenes e imágenes del Mundial 2026.",
-      "inicio": "2026-10-30T11:32:00",
-      "fin": "2026-10-30T11:38:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teledeportedirectoalmundial.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "El Tiempo es una pieza audiovisual de la artista Claudia Claremi realizada en colaboración con el equipo de voluntariado del Museo que se inscribe en el Programa NOEXPO, desarrollado por el Área de Educación para el curso 2019-2020.  La premisa argumental del filme parte de un presente distópico: tras el colapso de la sociedad moderna, la cultura occidental pierde su lugar hegemónico y sus instituciones, como los museos, quedan abandonadas. En este escenario de ficción, el voluntariado aparece como el grupo de personas que habita el Museo.  A través de las acciones performativas desarrolladas durante el proceso de creación de una película experimental, el proyecto se adentra en las memorias personales y colectivas del equipo de voluntariado basadas en experiencias de atención y diálogos entre los cuerpos, el espacio y las obras de la Colección.",
-      "inicio": "2026-10-30T11:38:00",
-      "fin": "2026-10-30T11:41:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Noticias 24h",
-      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-      "inicio": "2026-10-30T11:41:00",
-      "fin": "2026-10-30T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
-    },
-    {
-      "titulo": "Objetivo Planeta",
-      "descripcion": "Debates que abordan en profundidad, con la ayuda de expertos, algunos de los temas centrales de la COP 26, Cumbre del Clima 2021, como la energía, el transporte o el papel de los jóvenes en la lucha contra el cambio climático.",
-      "inicio": "2026-10-30T12:30:00",
-      "fin": "2026-10-30T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/objetivoplaneta.jpg"
-    },
-    {
-      "titulo": "La tarde en 24H",
-      "descripcion": "Programa informativo en directo de noticias, entrevistas y reportajes con dedicación especial a la economía.",
-      "inicio": "2026-10-30T13:00:00",
-      "fin": "2026-10-30T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/latardeen24h.jpg"
-    },
-    {
-      "titulo": "Noticias 24h",
-      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-      "inicio": "2026-10-30T16:00:00",
-      "fin": "2026-10-30T16:58:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
-    },
-    {
-      "titulo": "Telediario 2a. edición",
-      "descripcion": "Telediario con la información más importante de España y del mundo, al momento.",
-      "inicio": "2026-10-30T16:58:00",
-      "fin": "2026-10-30T17:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario2aedicion.jpg"
-    },
-    {
-      "titulo": "Teledeporte, directo al Mundial",
-      "descripcion": "Sigue la última hora con información, resúmenes e imágenes del Mundial 2026.",
-      "inicio": "2026-10-30T17:50:00",
-      "fin": "2026-10-30T17:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teledeportedirectoalmundial.jpg"
-    },
-    {
-      "titulo": "Noticias 24h",
-      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-      "inicio": "2026-10-30T17:55:00",
-      "fin": "2026-10-30T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
-    },
-    {
-      "titulo": "Europa",
-      "descripcion": "Tras la Segunda Guerra Mundial (1939-1945), Leo Kessler, un joven americano de origen alemán, se traslada a Alemania para trabajar con su tío en una compañía de ferrocarriles. Su trabajo le permitirá viajar, fascinado, por un país destruido por la guerra; pero también tendrá que enfrentarse poco a poco a los horrores de la barbarie nazi.",
-      "inicio": "2026-10-30T18:30:00",
-      "fin": "2026-10-30T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/europa.jpg"
-    },
-    {
-      "titulo": "Noticias 24h",
-      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-      "inicio": "2026-10-30T19:00:00",
-      "fin": "2026-10-30T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
-    },
-    {
-      "titulo": "La hora cultural",
-      "descripcion": "Un espacio dedicado a las novedades del mundo de la música y del ámbito del teatro.",
-      "inicio": "2026-10-30T19:30:00",
-      "fin": "2026-10-30T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahoracultural.jpg"
-    },
-    {
-      "titulo": "Noticias 24h",
-      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-      "inicio": "2026-10-30T20:00:00",
-      "fin": "2026-10-30T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
-    },
-    {
-      "titulo": "Conversatorios en Casa de América",
-      "descripcion": "Un programa de entrevistas a reconocidos personajes en una conversación tranquila para ahondar en la riqueza, la diversidad y la cultura de las sociedades latinoamericanas.",
-      "inicio": "2026-10-30T20:30:00",
-      "fin": "2026-10-30T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversatoriosencasadeamerica.jpg"
-    },
-    {
-      "titulo": "Noticias 24h",
-      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-      "inicio": "2026-10-30T21:00:00",
-      "fin": "2026-10-30T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
-    },
-    {
-      "titulo": "TD Internacional 24h",
-      "descripcion": "Programa informativo con las noticias más importantes a nivel nacional e internacional.",
-      "inicio": "2026-10-30T22:00:00",
-      "fin": "2026-10-31T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tdinternacional24h.jpg"
-    },
-    {
-      "titulo": "Europa",
-      "descripcion": "Tras la Segunda Guerra Mundial (1939-1945), Leo Kessler, un joven americano de origen alemán, se traslada a Alemania para trabajar con su tío en una compañía de ferrocarriles. Su trabajo le permitirá viajar, fascinado, por un país destruido por la guerra; pero también tendrá que enfrentarse poco a poco a los horrores de la barbarie nazi.",
-      "inicio": "2026-10-31T02:30:00",
-      "fin": "2026-10-31T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/europa.jpg"
-    },
-    {
-      "titulo": "Noticias 24h",
-      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-      "inicio": "2026-10-31T03:00:00",
-      "fin": "2026-10-31T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
-    },
-    {
-      "titulo": "Audiencia Abierta",
-      "descripcion": "Programa que da a conocer las competencias, el funcionamiento y la acción cotidiana del Jefe del Estado, el Rey Felipe VI, en España.",
-      "inicio": "2026-10-31T06:00:00",
-      "fin": "2026-10-31T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/audienciaabierta.jpg"
-    },
     {
       "titulo": "Noticias 24h",
       "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
@@ -167,6 +27,167 @@
       "inicio": "2026-10-31T10:55:00",
       "fin": "2026-10-31T11:41:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario1edicion.jpg"
+    },
+    {
+      "titulo": "Teledeporte, directo al Mundial",
+      "descripcion": "Sigue la última hora con información, resúmenes e imágenes del Mundial 2026.",
+      "inicio": "2026-10-31T11:41:00",
+      "fin": "2026-10-31T11:49:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teledeportedirectoalmundial.jpg"
+    },
+    {
+      "titulo": "Página dos",
+      "descripcion": "Espacio que acerca a las pantallas el mundo de la literatura, con entrevistas a escritores, recomendaciones y promoción de lanzamientos editoriales.",
+      "inicio": "2026-10-31T11:49:00",
+      "fin": "2026-10-31T12:19:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/paginados.jpg"
+    },
+    {
+      "titulo": "Objetivo Planeta",
+      "descripcion": "Debates que abordan en profundidad, con la ayuda de expertos, algunos de los temas centrales de la COP 26, Cumbre del Clima 2021, como la energía, el transporte o el papel de los jóvenes en la lucha contra el cambio climático.",
+      "inicio": "2026-10-31T12:19:00",
+      "fin": "2026-10-31T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/objetivoplaneta.jpg"
+    },
+    {
+      "titulo": "Noticias 24h",
+      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
+      "inicio": "2026-10-31T13:00:00",
+      "fin": "2026-10-31T16:58:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
+    },
+    {
+      "titulo": "Telediario 2a. edición",
+      "descripcion": "Telediario con la información más importante de España y del mundo, al momento.",
+      "inicio": "2026-10-31T16:58:00",
+      "fin": "2026-10-31T17:26:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario2aedicion.jpg"
+    },
+    {
+      "titulo": "Teledeporte, directo al Mundial",
+      "descripcion": "Sigue la última hora con información, resúmenes e imágenes del Mundial 2026.",
+      "inicio": "2026-10-31T17:26:00",
+      "fin": "2026-10-31T17:31:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teledeportedirectoalmundial.jpg"
+    },
+    {
+      "titulo": "Informe semanal",
+      "descripcion": "Programa de reportajes de actualidad nacional, internacional, cultura, sociedad y deportes.",
+      "inicio": "2026-10-31T17:31:00",
+      "fin": "2026-10-31T18:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informesemanal.jpg"
+    },
+    {
+      "titulo": "Noticias 24h",
+      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
+      "inicio": "2026-10-31T18:05:00",
+      "fin": "2026-10-31T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
+    },
+    {
+      "titulo": "Secuencias en 24",
+      "descripcion": "La nueva aventura cinematográfica, con entrevistas, reportajes y estrenos. Toda la información sobre el mundo del cine.",
+      "inicio": "2026-10-31T19:30:00",
+      "fin": "2026-10-31T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias 24h",
+      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
+      "inicio": "2026-10-31T20:00:00",
+      "fin": "2026-10-31T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
+    },
+    {
+      "titulo": "Atención Obras",
+      "descripcion": "Una revista electrónica que habla de la cultura actual.",
+      "inicio": "2026-10-31T20:30:00",
+      "fin": "2026-10-31T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/atencionobras.jpg"
+    },
+    {
+      "titulo": "Noticias 24h",
+      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
+      "inicio": "2026-10-31T21:00:00",
+      "fin": "2026-10-31T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
+    },
+    {
+      "titulo": "Página dos",
+      "descripcion": "Espacio que acerca a las pantallas el mundo de la literatura, con entrevistas a escritores, recomendaciones y promoción de lanzamientos editoriales.",
+      "inicio": "2026-10-31T21:30:00",
+      "fin": "2026-10-31T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/paginados.jpg"
+    },
+    {
+      "titulo": "TD Internacional 24h",
+      "descripcion": "Programa informativo con las noticias más importantes a nivel nacional e internacional.",
+      "inicio": "2026-10-31T22:00:00",
+      "fin": "2026-10-31T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tdinternacional24h.jpg"
+    },
+    {
+      "titulo": "Audiencia Abierta",
+      "descripcion": "Programa que da a conocer las competencias, el funcionamiento y la acción cotidiana del Jefe del Estado, el Rey Felipe VI, en España.",
+      "inicio": "2026-10-31T22:30:00",
+      "fin": "2026-10-31T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/audienciaabierta.jpg"
+    },
+    {
+      "titulo": "TD Internacional 24h",
+      "descripcion": "Programa informativo con las noticias más importantes a nivel nacional e internacional.",
+      "inicio": "2026-10-31T23:00:00",
+      "fin": "2026-11-01T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tdinternacional24h.jpg"
+    },
+    {
+      "titulo": "Conversatorios en Casa de América",
+      "descripcion": "Un programa de entrevistas a reconocidos personajes en una conversación tranquila para ahondar en la riqueza, la diversidad y la cultura de las sociedades latinoamericanas.",
+      "inicio": "2026-11-01T01:30:00",
+      "fin": "2026-11-01T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversatoriosencasadeamerica.jpg"
+    },
+    {
+      "titulo": "TD Internacional 24h",
+      "descripcion": "Programa informativo con las noticias más importantes a nivel nacional e internacional.",
+      "inicio": "2026-11-01T02:00:00",
+      "fin": "2026-11-01T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tdinternacional24h.jpg"
+    },
+    {
+      "titulo": "Plano general",
+      "descripcion": "Jenaro Castro muestra el lado humano de personajes relevantes de todos los ámbitos. Un viaje introspectivo con voluntad de homenajear la trayectoria de los distintos invitados que, además, eligen su música preferida y el lugar de la entrevista.",
+      "inicio": "2026-11-01T02:30:00",
+      "fin": "2026-11-01T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planogeneral.jpg"
+    },
+    {
+      "titulo": "Noticias 24h",
+      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
+      "inicio": "2026-11-01T03:00:00",
+      "fin": "2026-11-01T03:17:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
+    },
+    {
+      "titulo": "Agrosfera",
+      "descripcion": "Un programa informativo de servicio público y participación ciudadana sobre el sector primario, el medio rural y la industria alimentaria.",
+      "inicio": "2026-11-01T03:17:00",
+      "fin": "2026-11-01T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias 24h",
+      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
+      "inicio": "2026-11-01T04:00:00",
+      "fin": "2026-11-01T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
+    },
+    {
+      "titulo": "Noticias 24h",
+      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
+      "inicio": "2026-11-01T10:00:00",
+      "fin": "2026-11-01T10:54:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
     }
   ]
 }

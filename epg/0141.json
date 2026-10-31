@@ -1,115 +1,73 @@
 {
   "actual": {
-    "titulo": "Superhits Patagonia",
-    "descripcion": "Selección de los mejores éxitos musicales del momento y de todos los tiempos.",
-    "inicio": "2026-10-30T11:00:00",
-    "fin": "2026-10-30T12:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagonia.jpg"
+    "titulo": "Hashtag • Lo mejor de la semana",
+    "descripcion": "Lo mejor de la semana | Resumen con los momentos más destacados del programa juvenil durante la semana.",
+    "inicio": "2026-10-31T10:00:00",
+    "fin": "2026-10-31T12:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hashtag.jpg"
   },
   "siguiente": {
-    "titulo": "Sonido VIP",
-    "descripcion": "Espacio dedicado a la música electrónica y sus exponentes más destacados.",
-    "inicio": "2026-10-30T12:00:00",
-    "fin": "2026-10-30T12:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sonidovip.jpg"
+    "titulo": "Superhits Patagonia",
+    "descripcion": "Selección de los mejores éxitos musicales del momento y de todos los tiempos.",
+    "inicio": "2026-10-31T12:30:00",
+    "fin": "2026-10-31T21:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagonia.jpg"
   },
   "lista": [
-    {
-      "titulo": "Superhits Patagonia",
-      "descripcion": "Selección de los mejores éxitos musicales del momento y de todos los tiempos.",
-      "inicio": "2026-10-30T11:00:00",
-      "fin": "2026-10-30T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagonia.jpg"
-    },
-    {
-      "titulo": "Sonido VIP",
-      "descripcion": "Espacio dedicado a la música electrónica y sus exponentes más destacados.",
-      "inicio": "2026-10-30T12:00:00",
-      "fin": "2026-10-30T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sonidovip.jpg"
-    },
-    {
-      "titulo": "Viva Chile",
-      "descripcion": "Programa musical con los mejores videoclips de artistas nacionales.",
-      "inicio": "2026-10-30T12:30:00",
-      "fin": "2026-10-30T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vivachile.jpg"
-    },
-    {
-      "titulo": "Menú Patagonia",
-      "descripcion": "Programa de cocina con recetas locales y secretos culinarios de la Patagonia.",
-      "inicio": "2026-10-30T13:00:00",
-      "fin": "2026-10-30T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/menupatagonia.jpg"
-    },
-    {
-      "titulo": "Hashtag",
-      "descripcion": "Programa juvenil con tendencias, redes sociales, música y cultura pop.",
-      "inicio": "2026-10-30T15:00:00",
-      "fin": "2026-10-30T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hashtag.jpg"
-    },
-    {
-      "titulo": "Ingobernables",
-      "descripcion": "Espacio de conversación y debate sobre la actualidad política y social de la región y el país.",
-      "inicio": "2026-10-30T17:00:00",
-      "fin": "2026-10-30T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ingobernables.jpg"
-    },
-    {
-      "titulo": "Viva Chile",
-      "descripcion": "Programa musical con los mejores videoclips de artistas nacionales.",
-      "inicio": "2026-10-30T18:00:00",
-      "fin": "2026-10-30T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vivachile.jpg"
-    },
-    {
-      "titulo": "SuperHits de Regreso a Casa",
-      "descripcion": "La mejor selección musical para acompañar tu vuelta a casa al final del día.",
-      "inicio": "2026-10-30T19:30:00",
-      "fin": "2026-10-30T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sin Filtros",
-      "descripcion": "Programa de debate político y de actualidad nacional, donde se discuten los temas más relevantes sin censura.",
-      "inicio": "2026-10-30T20:00:00",
-      "fin": "2026-10-30T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinfiltros.jpg"
-    },
-    {
-      "titulo": "Patagonia Radio Classics",
-      "descripcion": "Un viaje por los clásicos de la música que han marcado generaciones.",
-      "inicio": "2026-10-30T22:00:00",
-      "fin": "2026-10-31T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/patagoniaradioclassics.jpg"
-    },
-    {
-      "titulo": "Superhits Patagonia",
-      "descripcion": "Selección de los mejores éxitos musicales para acompañar la madrugada.",
-      "inicio": "2026-10-31T04:00:00",
-      "fin": "2026-10-31T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagonia.jpg"
-    },
-    {
-      "titulo": "Viva Chile",
-      "descripcion": "Programa musical con los mejores videoclips de artistas nacionales.",
-      "inicio": "2026-10-31T06:00:00",
-      "fin": "2026-10-31T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vivachile.jpg"
-    },
-    {
-      "titulo": "Superhits Patagonia",
-      "descripcion": "Selección de los mejores éxitos musicales para empezar el fin de semana.",
-      "inicio": "2026-10-31T07:00:00",
-      "fin": "2026-10-31T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagonia.jpg"
-    },
     {
       "titulo": "Hashtag • Lo mejor de la semana",
       "descripcion": "Lo mejor de la semana | Resumen con los momentos más destacados del programa juvenil durante la semana.",
       "inicio": "2026-10-31T10:00:00",
       "fin": "2026-10-31T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hashtag.jpg"
+    },
+    {
+      "titulo": "Superhits Patagonia",
+      "descripcion": "Selección de los mejores éxitos musicales del momento y de todos los tiempos.",
+      "inicio": "2026-10-31T12:30:00",
+      "fin": "2026-10-31T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagonia.jpg"
+    },
+    {
+      "titulo": "Patagonia Radio Classics",
+      "descripcion": "Música y clásicos para disfrutar la noche del sábado.",
+      "inicio": "2026-10-31T21:00:00",
+      "fin": "2026-11-01T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/patagoniaradioclassics.jpg"
+    },
+    {
+      "titulo": "Superhits Patagonia",
+      "descripcion": "Selección de los mejores éxitos musicales para acompañar la madrugada.",
+      "inicio": "2026-11-01T04:00:00",
+      "fin": "2026-11-01T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagonia.jpg"
+    },
+    {
+      "titulo": "Viva Chile",
+      "descripcion": "Programa musical con los mejores videoclips de artistas nacionales.",
+      "inicio": "2026-11-01T06:00:00",
+      "fin": "2026-11-01T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vivachile.jpg"
+    },
+    {
+      "titulo": "Superhits Patagonia",
+      "descripcion": "Selección de los mejores éxitos musicales para un domingo relajado.",
+      "inicio": "2026-11-01T07:00:00",
+      "fin": "2026-11-01T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagonia.jpg"
+    },
+    {
+      "titulo": "Soy lo que como • Repetición",
+      "descripcion": "Repetición | Programa dedicado a la alimentación saludable y el bienestar. Se repiten los mejores capítulos.",
+      "inicio": "2026-11-01T09:00:00",
+      "fin": "2026-11-01T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/soyloquecomo.jpg"
+    },
+    {
+      "titulo": "Hashtag • Lo mejor de la semana",
+      "descripcion": "Lo mejor de la semana | Resumen con los momentos más destacados del programa juvenil durante la semana.",
+      "inicio": "2026-11-01T10:00:00",
+      "fin": "2026-11-01T12:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hashtag.jpg"
     }
   ]

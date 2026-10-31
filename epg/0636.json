@@ -1,215 +1,19 @@
 {
   "actual": {
-    "titulo": "Telediario 1",
-    "descripcion": "Espacio informativo que presenta las noticias más relevantes en los ámbitos nacional, internacional, social, deportivo y meteorológico. La primera edición repasa la actualidad de la jornada de lunes a viernes aportando análisis y contexto.",
-    "inicio": "2026-10-30T10:55:00",
-    "fin": "2026-10-30T11:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario1.jpg"
+    "titulo": "Tenderete",
+    "descripcion": "Programa que reúne a grupos e intérpretes para tocar y cantar música canaria y popular; con más de 40 años de edad, es considerado patrimonio colectivo de los isleños.",
+    "inicio": "2026-10-31T09:35:00",
+    "fin": "2026-10-31T10:55:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tenderete.jpg"
   },
   "siguiente": {
-    "titulo": "Deportes 1",
-    "descripcion": "Programa informativo que recoge toda la actualidad deportiva del momento.",
-    "inicio": "2026-10-30T11:30:00",
-    "fin": "2026-10-30T11:35:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportes1.jpg"
+    "titulo": "Telediario 1",
+    "descripcion": "Espacio informativo que presenta las noticias más relevantes en los ámbitos nacional, internacional, social, deportivo y meteorológico. La primera edición repasa la actualidad de la jornada de lunes a viernes aportando análisis y contexto.",
+    "inicio": "2026-10-31T10:55:00",
+    "fin": "2026-10-31T11:45:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario1.jpg"
   },
   "lista": [
-    {
-      "titulo": "Telediario 1",
-      "descripcion": "Espacio informativo que presenta las noticias más relevantes en los ámbitos nacional, internacional, social, deportivo y meteorológico. La primera edición repasa la actualidad de la jornada de lunes a viernes aportando análisis y contexto.",
-      "inicio": "2026-10-30T10:55:00",
-      "fin": "2026-10-30T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario1.jpg"
-    },
-    {
-      "titulo": "Deportes 1",
-      "descripcion": "Programa informativo que recoge toda la actualidad deportiva del momento.",
-      "inicio": "2026-10-30T11:30:00",
-      "fin": "2026-10-30T11:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportes1.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "El Tiempo es una pieza audiovisual de la artista Claudia Claremi realizada en colaboración con el equipo de voluntariado del Museo que se inscribe en el Programa NOEXPO, desarrollado por el Área de Educación para el curso 2019-2020.  La premisa argumental del filme parte de un presente distópico: tras el colapso de la sociedad moderna, la cultura occidental pierde su lugar hegemónico y sus instituciones, como los museos, quedan abandonadas. En este escenario de ficción, el voluntariado aparece como el grupo de personas que habita el Museo.  A través de las acciones performativas desarrolladas durante el proceso de creación de una película experimental, el proyecto se adentra en las memorias personales y colectivas del equipo de voluntariado basadas en experiencias de atención y diálogos entre los cuerpos, el espacio y las obras de la Colección.",
-      "inicio": "2026-10-30T11:35:00",
-      "fin": "2026-10-30T11:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Aquí la Tierra",
-      "descripcion": "Una mirada sobre cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.",
-      "inicio": "2026-10-30T11:40:00",
-      "fin": "2026-10-30T11:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquilatierra.jpg"
-    },
-    {
-      "titulo": "Directo al grano",
-      "descripcion": "Marta Flich y Gonzalo Miró conducen este espacio diario con una estructura flexible, una narrativa clara y diversidad de voces, que combina una mesa de análisis, entrevistas y reportajes. Se aborda la agenda diaria de temas sociales y políticos.",
-      "inicio": "2026-10-30T11:50:00",
-      "fin": "2026-10-30T13:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/directoalgrano.jpg"
-    },
-    {
-      "titulo": "Senderos con Juan y Migas • Un viaje hacia el interior",
-      "descripcion": "Un viaje hacia el interior | Juan y su perrito Migas, su inseparable compañero de aventuras, realizan un apasionante viaje en autocaravana por Europa. No solo disfrutarán de bellos entornos naturales o ciudades históricas, también se enfrentarán a todo tipo de adversidades.",
-      "inicio": "2026-10-30T13:55:00",
-      "fin": "2026-10-30T14:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Saber y ganar",
-      "descripcion": "Concurso que pone a prueba los conocimientos y agilidad mental a través de un auténtico bombardeo de preguntas de ámbito general. Tres concursantes compiten en cada programa para continuar en el siguiente y ganar más dinero.",
-      "inicio": "2026-10-30T14:45:00",
-      "fin": "2026-10-30T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/saberyganar.jpg"
-    },
-    {
-      "titulo": "Esto es España",
-      "descripcion": "Un recorrido por la geografía española desde una perspectiva joven y moderna de la mano de Enrique Alex, con el foco puesto en la sostenibilidad, la diversidad y la oferta natural, cultural y social de la España del siglo XXI.",
-      "inicio": "2026-10-30T15:30:00",
-      "fin": "2026-10-30T15:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Malas lenguas",
-      "descripcion": "Los líderes de siete democracias mas ricas del mundo se pierden en un bosque, al tiempo que tratan de redactar una declaración sobre una crisis mundial, enfrentándose a peligros mientras intentan encontrar la salida.",
-      "inicio": "2026-10-30T15:35:00",
-      "fin": "2026-10-30T16:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/malaslenguas.jpg"
-    },
-    {
-      "titulo": "Aquí la Tierra",
-      "descripcion": "Una mirada sobre cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.",
-      "inicio": "2026-10-30T16:25:00",
-      "fin": "2026-10-30T16:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquilatierra.jpg"
-    },
-    {
-      "titulo": "Telediario 2",
-      "descripcion": "Programa informativo cuyo objetivo es resumir las noticias nacionales e internacionales más relevantes de la jornada. Tras un sumario en el que se recopilan los temas que se van a tratar, se suceden las piezas informativas agrupadas por temáticas.",
-      "inicio": "2026-10-30T16:55:00",
-      "fin": "2026-10-30T17:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario2.jpg"
-    },
-    {
-      "titulo": "Deportes 2",
-      "descripcion": "Programa informativo que recoge toda la actualidad deportiva del momento con entrevistas y debates sobre los protagonistas de las próximas jornadas.",
-      "inicio": "2026-10-30T17:50:00",
-      "fin": "2026-10-30T17:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cifras y letras",
-      "descripcion": "T1 E540 | Concurso cuyas pruebas deben superarse gracias al conocimiento y habilidades con las cifras y las letras. Los concursantes luchan por conseguir el título del programa, lo cual les da derecho a ir a la ronda final para tratar de ganar el bote.",
-      "inicio": "2026-10-30T17:55:00",
-      "fin": "2026-10-30T18:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Valle Salvaje",
-      "descripcion": "T4 E515 | 1763. La vida de Adriana, una mujer valiente y leal a su familia, sufre un inesperado revés cuando recibe un duro golpe: su padre ha fallecido y, consecuencia de un pacto firmado en secreto, deberá viajar desde la Villa de Madrid hasta Valle Salvaje, en el norte de España, para desposar con un desconocido. Un oscuro secreto del pasado la persigue hasta el remoto valle, hogar de la familia de su prometido y de su complicada tía, doña Victoria. Allí su vida cambiará para siempre. Conocerá el verdadero amor, la traición, y el peligro cuando trate de descubrir la verdad sobre la muerte de su padre.",
-      "inicio": "2026-10-30T18:50:00",
-      "fin": "2026-10-30T19:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vallesalvaje.jpg"
-    },
-    {
-      "titulo": "La promesa",
-      "descripcion": "En la España de 1913, una mujer consigue un trabajo en el palacio de La Promesa como recompensa por salvar al hijo de los marqueses, pero nadie sabe que ella tiene sus propios planes, que incluyen vengar la muerte de su madre y encontrar a su hermano desaparecido.",
-      "inicio": "2026-10-30T19:40:00",
-      "fin": "2026-10-30T20:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapromesa.jpg"
-    },
-    {
-      "titulo": "Sukha",
-      "descripcion": "Espacio diario para el conocimiento, la cultura y el bienestar con una mirada entretenida, con humor, nuevos formatos, conexiones en directo, tertulias y arte en vivo. Un lugar de encuentro para personas con curiosidad.",
-      "inicio": "2026-10-30T20:40:00",
-      "fin": "2026-10-30T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sukha.jpg"
-    },
-    {
-      "titulo": "Aquí la Tierra",
-      "descripcion": "Una mirada sobre cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.",
-      "inicio": "2026-10-30T21:30:00",
-      "fin": "2026-10-30T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquilatierra.jpg"
-    },
-    {
-      "titulo": "TD Internacional 24 Horas",
-      "descripcion": "Informativo que prioriza las noticias internacionales sobre las nacionales, asumiendo su edición y realización. El programa tiene autonomía propia y los contenidos son elaborados por periodistas especializados en información internacional.",
-      "inicio": "2026-10-30T22:00:00",
-      "fin": "2026-10-30T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tdinternacional24horas.jpg"
-    },
-    {
-      "titulo": "La suerte en tus manos",
-      "descripcion": "Uriel trabaja en el sector financiero y es un jugador de póker online. Atraviesa un periodo de descontento vital hasta que se cruza con Gloria, una joven recién llegada de España, con la que vivirá un romance enmarcado en el mundo del juego.",
-      "inicio": "2026-10-30T22:30:00",
-      "fin": "2026-10-30T22:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lasuerteentusmanos.jpg"
-    },
-    {
-      "titulo": "Lo Hacemos Publico • Los Archivos Secretos Del No-Do",
-      "descripcion": "Los Archivos Secretos Del No-Do | Se desvelan nuevas historias que el noticiario franquista NO-DO ocultó, mediante una narración que compagina imágenes inéditas, tono periodístico y pinceladas humorísticas de la voz en off.",
-      "inicio": "2026-10-30T22:35:00",
-      "fin": "2026-10-30T23:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los archivos secretos del No-Do",
-      "descripcion": "T2 E7 | En los almacenes de la Filmoteca Española hay más de 6.000 latas con películas que el NO-DO, el noticiario franquista, rodó y que no vieron la luz. ¿Por qué se ocultaron? ¿Fue la censura? RTVE ha tenido acceso a esos archivos para explorar qué contienen todas estas latas que se cerraron sin que su contenido llegase a los cines españoles y que serán descubiertas en la nueva serie documental ‘Los archivos secretos del NO-DO’, producida en colaboración con Minoría Absoluta.",
-      "inicio": "2026-10-30T23:35:00",
-      "fin": "2026-10-31T00:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losarchivossecretosdelnodo.jpg"
-    },
-    {
-      "titulo": "En portada • ¿Te has hecho algo?",
-      "descripcion": "¿Te has hecho algo? | El programa trata el tema de la medicina estética. En España vivimos un boom de tratamientos estéticos y cirugía plástica. 4 de cada 10 personas se someten a alguno cada año. Los retoques estéticos comienzan cada vez antes, alrededor de los 20 años.",
-      "inicio": "2026-10-31T00:25:00",
-      "fin": "2026-10-31T01:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enportada.jpg"
-    },
-    {
-      "titulo": "El perro andaluz by Manu Sánchez",
-      "descripcion": "El perro andaluz by Manu Sánchez' nace como un late night en teatro y con público donde convivirán la entrevista, la improvisación, la música en directo y la actualidad. Cada entrega construirá un universo propio en el que el humor funcionará como punto de encuentro y como herramienta para mirar la realidad desde la sátira y la crítica social.",
-      "inicio": "2026-10-31T01:05:00",
-      "fin": "2026-10-31T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elperroandaluzbymanusanchez.jpg"
-    },
-    {
-      "titulo": "Sukha",
-      "descripcion": "Espacio diario para el conocimiento, la cultura y el bienestar con una mirada entretenida, con humor, nuevos formatos, conexiones en directo, tertulias y arte en vivo. Un lugar de encuentro para personas con curiosidad.",
-      "inicio": "2026-10-31T03:00:00",
-      "fin": "2026-10-31T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sukha.jpg"
-    },
-    {
-      "titulo": "Noticias 24h",
-      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-      "inicio": "2026-10-31T04:00:00",
-      "fin": "2026-10-31T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
-    },
-    {
-      "titulo": "Esto es España",
-      "descripcion": "Un recorrido por la geografía española desde una perspectiva joven y moderna de la mano de Enrique Alex, con el foco puesto en la sostenibilidad, la diversidad y la oferta natural, cultural y social de la España del siglo XXI.",
-      "inicio": "2026-10-31T08:00:00",
-      "fin": "2026-10-31T08:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Flash moda • Four seasons",
-      "descripcion": "Four seasons | Nieves Álvarez presenta este espacio que tiene como objetivo dar a conocer el mundo de la moda.",
-      "inicio": "2026-10-31T08:10:00",
-      "fin": "2026-10-31T08:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hoteles con alma • Hotel Palace, Barcelona",
-      "descripcion": "Hotel Palace, Barcelona | El antiguo Hotel Ritz fue fundado en 1919, a iniciativa de César Ritz. Finalmente fue Francesc Cambó quien terminó el hotel.",
-      "inicio": "2026-10-31T08:40:00",
-      "fin": "2026-10-31T09:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Tenderete",
       "descripcion": "Programa que reúne a grupos e intérpretes para tocar y cantar música canaria y popular; con más de 40 años de edad, es considerado patrimonio colectivo de los isleños.",
@@ -223,6 +27,216 @@
       "inicio": "2026-10-31T10:55:00",
       "fin": "2026-10-31T11:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario1.jpg"
+    },
+    {
+      "titulo": "Deportes 1",
+      "descripcion": "Programa informativo que recoge toda la actualidad deportiva del momento.",
+      "inicio": "2026-10-31T11:45:00",
+      "fin": "2026-10-31T11:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportes1.jpg"
+    },
+    {
+      "titulo": "Página dos",
+      "descripcion": "El anfitrión invita a escritores y expertos literarios de renombre para que expliquen detalladamente sus proyectos.",
+      "inicio": "2026-10-31T11:50:00",
+      "fin": "2026-10-31T12:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/paginados.jpg"
+    },
+    {
+      "titulo": "El escarabajo verde • Un paraíso incómodo",
+      "descripcion": "Un paraíso incómodo | En este programa, hablamos de la difícil convivencia entre la conservación de la naturaleza y el desarrollo tecnológico en una gran ciudad como Madrid. Las Lagunas de Ambroz son un espacio renaturalizado con un alto valor ecológico como refugio de biodiversidad y espacio de conectividad ecológica. Sin embargo, su futuro está en peligro.",
+      "inicio": "2026-10-31T12:20:00",
+      "fin": "2026-10-31T12:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "De tapas por España • Cáceres. Ciudad museo. Tierra de conquistadores",
+      "descripcion": "Cáceres. Ciudad museo. Tierra de conquistadores | Adrienne se enamora de Cáceres, de su casco histórico de cuento y de su cocina con calor de hogar. Guisos de orígenes humildes que hoy son muy apreciados, embutidos de renombre y tapas que sorprenden. Así es Cáceres, tan auténtica como sabrosa.",
+      "inicio": "2026-10-31T12:50:00",
+      "fin": "2026-10-31T13:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/detapasporespana.jpg"
+    },
+    {
+      "titulo": "Audiencia Abierta",
+      "descripcion": "Programa que da a conocer las competencias, el funcionamiento y la acción cotidiana del Jefe del Estado, el Rey Felipe VI, en España.",
+      "inicio": "2026-10-31T13:40:00",
+      "fin": "2026-10-31T14:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/audienciaabierta.jpg"
+    },
+    {
+      "titulo": "D corazón",
+      "descripcion": "Enrico es un niño de secundaria que vive con su familia en Torino, Italia. Cuando comienza el nuevo semestre, Enrico descubre que su maestro favorito es reemplazado por uno muy estricto. Él y sus compañeros de clase, mientras enfrentan los desafíos de su vida personal, tratan de llevarse bien con el nuevo maestro.",
+      "inicio": "2026-10-31T14:15:00",
+      "fin": "2026-10-31T16:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dcorazon.jpg"
+    },
+    {
+      "titulo": "Saber y ganar - Fin de semana",
+      "descripcion": "Concursos que pone a prueba los conocimientos y agilidad mental de los concursantes a través de un auténtico bombardeo de preguntas de ámbito general.",
+      "inicio": "2026-10-31T16:10:00",
+      "fin": "2026-10-31T16:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/saberyganarfindesemana.jpg"
+    },
+    {
+      "titulo": "Telediario 2",
+      "descripcion": "Programa informativo cuyo objetivo es resumir las noticias nacionales e internacionales más relevantes de la jornada. Tras un sumario en el que se recopilan los temas que se van a tratar, se suceden las piezas informativas agrupadas por temáticas.",
+      "inicio": "2026-10-31T16:55:00",
+      "fin": "2026-10-31T17:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario2.jpg"
+    },
+    {
+      "titulo": "Deportes 2",
+      "descripcion": "Programa informativo que recoge toda la actualidad deportiva del momento con entrevistas y debates sobre los protagonistas de las próximas jornadas.",
+      "inicio": "2026-10-31T17:25:00",
+      "fin": "2026-10-31T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Informe semanal",
+      "descripcion": "Programa que ofrece reportajes de actualidad nacional, internacional, cultura, sociedad y deportes. Se presentan todos aquellos temas que están a debate y que interesan a la ciudadanía.",
+      "inicio": "2026-10-31T17:30:00",
+      "fin": "2026-10-31T17:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/informesemanal.jpg"
+    },
+    {
+      "titulo": "Masterchef Celebrity",
+      "descripcion": "MasterChef es un espacio de superación personal y esfuerzo donde algunos personajes famosos del ámbito nacional descubrirán en qué consiste la cocina profesional. En juego: 75.000 euros para destinar a una ONG.",
+      "inicio": "2026-10-31T17:55:00",
+      "fin": "2026-10-31T20:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/masterchefcelebrity.jpg"
+    },
+    {
+      "titulo": "Viaje al centro de la tele",
+      "descripcion": "Viaje al centro de la tele es un programa de televisión que refleja las mejores imágenes de personajes conocidos, que RTVE ha mostrado en las últimas décadas.\n\nViaje al centro de la tele aborda en cada una de sus entregas una temática diferente para descubrir el antes y el después de las caras más conocidas, la primera vez que se pusieron ante una cámara, la canción del verano, el fenómeno de los concursos, las anécdotas gastronómicas, el mundo del espectáculo, las modas, etcétera.",
+      "inicio": "2026-10-31T20:55:00",
+      "fin": "2026-10-31T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viajealcentrodelatele.jpg"
+    },
+    {
+      "titulo": "TD Internacional 24 Horas",
+      "descripcion": "Informativo que prioriza las noticias internacionales sobre las nacionales, asumiendo su edición y realización. El programa tiene autonomía propia y los contenidos son elaborados por periodistas especializados en información internacional.",
+      "inicio": "2026-10-31T22:00:00",
+      "fin": "2026-10-31T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tdinternacional24horas.jpg"
+    },
+    {
+      "titulo": "La suerte en tus manos",
+      "descripcion": "Uriel trabaja en el sector financiero y es un jugador de póker online. Atraviesa un periodo de descontento vital hasta que se cruza con Gloria, una joven recién llegada de España, con la que vivirá un romance enmarcado en el mundo del juego.",
+      "inicio": "2026-10-31T22:30:00",
+      "fin": "2026-10-31T22:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lasuerteentusmanos.jpg"
+    },
+    {
+      "titulo": "Historia de nuestro cine",
+      "descripcion": "Espacio que ofrece un recorrido por lo mejor del cine español, desde los años 30 hasta nuestros días. Para ello, expertos del panorama cultural y cinematográfico recuperan muchas de sus joyas y muestran otras cintas menos conocidas.",
+      "inicio": "2026-10-31T22:35:00",
+      "fin": "2026-11-01T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/historiadenuestrocine.jpg"
+    },
+    {
+      "titulo": "Gala de Clausura Seminci Valladolid",
+      "descripcion": "Retransmisión de la Gala de Clausura del Festival de Cine de Valladolid 2025.",
+      "inicio": "2026-11-01T01:00:00",
+      "fin": "2026-11-01T02:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Días de cine",
+      "descripcion": "Se trata de un magacín, con reportajes y entrevistas, centrado siempre en la actualidad cinematográfica, tanto de España como internacional.",
+      "inicio": "2026-11-01T02:40:00",
+      "fin": "2026-11-01T03:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/diasdecine.jpg"
+    },
+    {
+      "titulo": "Atención Obras",
+      "descripcion": "El magacín semanal donde entrevistamos en plató a los principales protagonistas de la escena cultural. Un programa con reportajes de música, teatro, danza, arte, fotografía, agenda y planes culturales.",
+      "inicio": "2026-11-01T03:40:00",
+      "fin": "2026-11-01T04:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/atencionobras.jpg"
+    },
+    {
+      "titulo": "Sukha",
+      "descripcion": "Espacio diario para el conocimiento, la cultura y el bienestar con una mirada entretenida, con humor, nuevos formatos, conexiones en directo, tertulias y arte en vivo. Un lugar de encuentro para personas con curiosidad.",
+      "inicio": "2026-11-01T04:05:00",
+      "fin": "2026-11-01T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sukha.jpg"
+    },
+    {
+      "titulo": "Tendido cero",
+      "descripcion": "Programa de referencia de la información taurina en todo el mundo. La actualidad, el campo bravo, otras caras de la Fiesta de los toros, la opinión y la información son sus soportes semanales enfocados para atraer a La Tauromaquia.",
+      "inicio": "2026-11-01T05:00:00",
+      "fin": "2026-11-01T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tendidocero.jpg"
+    },
+    {
+      "titulo": "Noticias 24h",
+      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
+      "inicio": "2026-11-01T06:00:00",
+      "fin": "2026-11-01T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
+    },
+    {
+      "titulo": "Shalom",
+      "descripcion": "Programa semanal en el que la comunidad judía española muestra su identidad, sus costumbres, tradiciones y valores, contribuyendo a divulgar parte de su legado histórico sefardí y al desarrollo de la España actual.",
+      "inicio": "2026-11-01T07:30:00",
+      "fin": "2026-11-01T07:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/shalom.jpg"
+    },
+    {
+      "titulo": "Medina en TVE",
+      "descripcion": "Espacio que se ocupa de los temas de actualidad del colectivo islámico en España y de la recuperación del Islam histórico hispano.",
+      "inicio": "2026-11-01T07:45:00",
+      "fin": "2026-11-01T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/medinaentve.jpg"
+    },
+    {
+      "titulo": "Buenas noticias TV",
+      "descripcion": "Programa que comparte el mensaje de Jesucristo de una manera actual y relevante. A través del lenguaje audiovisual, se muestran las acciones de personas comunes que llevan la luz del Evangelio, transforman su entorno y crean un mundo mejor.",
+      "inicio": "2026-11-01T08:00:00",
+      "fin": "2026-11-01T08:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buenasnoticiastv.jpg"
+    },
+    {
+      "titulo": "Últimas preguntas",
+      "descripcion": "El programa busca dar respuesta a preguntas habituales que solemos hacernos, desde la perspectiva del cristianismo, pero también en diálogo con los fieles de otras religiones.",
+      "inicio": "2026-11-01T08:15:00",
+      "fin": "2026-11-01T08:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ultimaspreguntas.jpg"
+    },
+    {
+      "titulo": "Testimonio",
+      "descripcion": "Espacio católico en el que una persona da testimonio público de su fe. Como afirmaba Pablo VI, \"el hombre contemporáneo escucha más a gusto a los testigos que a los maestros, o si escucha a los maestros lo hace porque son testigos\".",
+      "inicio": "2026-11-01T08:40:00",
+      "fin": "2026-11-01T08:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/testimonio.jpg"
+    },
+    {
+      "titulo": "Pueblo de Dios",
+      "descripcion": "A través de un registro observacional y de entrevistas, busca contar cómo son las relaciones entre la parroquia de la Iglesia Católica, una iglesia evangélica y el santuario del “Gauchito” Antonio Gil emplazadas en un barrio del conurbano bonaerense llamado Villa Rosa.",
+      "inicio": "2026-11-01T08:45:00",
+      "fin": "2026-11-01T09:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pueblodedios.jpg"
+    },
+    {
+      "titulo": "Imprescindibles • Piedad Isla",
+      "descripcion": "Piedad Isla | Un documental que da a conocer a esta fotógrafa pionera de los años 50, 60 y 70.",
+      "inicio": "2026-11-01T09:10:00",
+      "fin": "2026-11-01T10:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/imprescindibles.jpg"
+    },
+    {
+      "titulo": "Objetivo igualdad",
+      "descripcion": "A través de reportajes y entrevistas, este programa pretende impulsar la igualdad real entre mujeres y hombres.",
+      "inicio": "2026-11-01T10:10:00",
+      "fin": "2026-11-01T10:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/objetivoigualdad.jpg"
+    },
+    {
+      "titulo": "Conversatorios en Casa de América",
+      "descripcion": "Un programa de entrevistas a personajes de reconocido prestigio que pretende profundizar en la riqueza y la diversidad de las sociedades latinoamericanas.",
+      "inicio": "2026-11-01T10:25:00",
+      "fin": "2026-11-01T10:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conversatoriosencasadeamerica.jpg"
     }
   ]
 }

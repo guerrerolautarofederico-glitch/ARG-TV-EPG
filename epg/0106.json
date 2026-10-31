@@ -1,101 +1,101 @@
 {
   "actual": {
-    "titulo": "Contigo en la mañana",
-    "descripcion": "Un espacio informativo y de entretenimiento que aborda diversas temáticas de actualidad con un estilo claro y ameno. Invitamos al público a mantenerse al día sobre los acontecimientos más relevantes.",
-    "inicio": "2026-10-30T08:00:00",
-    "fin": "2026-10-30T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/contigoenlamanana.jpg"
+    "titulo": "CHV noticias AM - Fin de semana",
+    "descripcion": "Infórmate al minuto y en video con uno de los principales noticieros de Chile. Actualización constante de lo que sucede en el país y el mundo.",
+    "inicio": "2026-10-31T08:30:00",
+    "fin": "2026-10-31T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasamfindesemana.jpg"
   },
   "siguiente": {
     "titulo": "CHV noticias tarde",
     "descripcion": "La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.",
-    "inicio": "2026-10-30T13:00:00",
-    "fin": "2026-10-30T15:30:00",
+    "inicio": "2026-10-31T13:00:00",
+    "fin": "2026-10-31T14:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiastarde.jpg"
   },
   "lista": [
-    {
-      "titulo": "Contigo en la mañana",
-      "descripcion": "Un espacio informativo y de entretenimiento que aborda diversas temáticas de actualidad con un estilo claro y ameno. Invitamos al público a mantenerse al día sobre los acontecimientos más relevantes.",
-      "inicio": "2026-10-30T08:00:00",
-      "fin": "2026-10-30T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/contigoenlamanana.jpg"
-    },
-    {
-      "titulo": "CHV noticias tarde",
-      "descripcion": "La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.",
-      "inicio": "2026-10-30T13:00:00",
-      "fin": "2026-10-30T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiastarde.jpg"
-    },
-    {
-      "titulo": "Contigo en directo",
-      "descripcion": "Acompaña a Karina Álvarez a analizar todos los acontecimientos de la jornada a nivel político y policial del país, junto a un destacado equipo periodístico y diversos panelistas invitados.",
-      "inicio": "2026-10-30T15:30:00",
-      "fin": "2026-10-30T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/contigoendirecto.jpg"
-    },
-    {
-      "titulo": "Plan perfecto",
-      "descripcion": "Nick (Alessandro Nivola)es un joven sin estudios que ve acercarse un futuro de penuria económica a causa de la grave enfermedad de su padre y las deudas contraídas con un mafioso. Con la ayuda de su novia, la sensual Lissa (Reese Witherspoon), deciden tender una trampa a su millonario amigo Bryce (Josh Brolin), chantajeándolo para no acusarle de violación. Ambos huyen a un pueblo solitario en una zona tropical...",
-      "inicio": "2026-10-30T17:30:00",
-      "fin": "2026-10-30T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planperfecto.jpg"
-    },
-    {
-      "titulo": "CHV noticias central",
-      "descripcion": "Macarena Pizarro y Daniel Matamala presentan el noticiero más creíble del país. Coberturas, notas y reportajes a fondo para estar informado con todo lo que ocurrió durante la jornada.",
-      "inicio": "2026-10-30T20:00:00",
-      "fin": "2026-10-30T22:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiascentral.jpg"
-    },
-    {
-      "titulo": "Primer plano",
-      "descripcion": "La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad. No nos limitamos a narrar acontecimientos, ahondamos en las causas y la evolución.\n\nPrimer plano: interesante, impactante, informativo.",
-      "inicio": "2026-10-30T22:35:00",
-      "fin": "2026-10-31T00:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerplano.jpg"
-    },
-    {
-      "titulo": "Traicionada",
-      "descripcion": "Jamie Taylor (Melissa George) parece tener una vida perfecta junto a su familia: vive con un marido encantador y un hijo adorable en una bonita casa de los suburbios. Pero un día tras un accidente de coche se despierta para descubrir que ha sido secuestrada por un captor con una máscara, que le dice que su marido es un asesino...",
-      "inicio": "2026-10-31T00:45:00",
-      "fin": "2026-10-31T01:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/traicionada.jpg"
-    },
-    {
-      "titulo": "Programación de trasnoche",
-      "descripcion": "Una selección de los mejores programas históricos de Chilevisión.",
-      "inicio": "2026-10-31T01:45:00",
-      "fin": "2026-10-31T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/programaciondetrasnoche.jpg"
-    },
-    {
-      "titulo": "Sabingo",
-      "descripcion": "Vamos en busca de emprendedores a lo largo de Chile, contamos historias humanas, notas de viajes, disfrutamos de comidas típicas y también de fiestas costumbristas. Descubrimos el país a través del turismo rural, recorriendo distintas localidades y conociendo a los protagonistas de cada historia.",
-      "inicio": "2026-10-31T06:00:00",
-      "fin": "2026-10-31T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sabingo.jpg"
-    },
-    {
-      "titulo": "Casado con hijos",
-      "descripcion": "El Nacho y la Titi vuelven a la casa de sus padres con nuevas historias y más locuras que nunca.",
-      "inicio": "2026-10-31T07:00:00",
-      "fin": "2026-10-31T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0106_casadoconhijos.jpg"
-    },
-    {
-      "titulo": "Primera página",
-      "descripcion": "Espacio que cuenta con la información más importante de las primeras horas del día.",
-      "inicio": "2026-10-31T08:00:00",
-      "fin": "2026-10-31T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerapagina.jpg"
-    },
     {
       "titulo": "CHV noticias AM - Fin de semana",
       "descripcion": "Infórmate al minuto y en video con uno de los principales noticieros de Chile. Actualización constante de lo que sucede en el país y el mundo.",
       "inicio": "2026-10-31T08:30:00",
       "fin": "2026-10-31T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasamfindesemana.jpg"
+    },
+    {
+      "titulo": "CHV noticias tarde",
+      "descripcion": "La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.",
+      "inicio": "2026-10-31T13:00:00",
+      "fin": "2026-10-31T14:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiastarde.jpg"
+    },
+    {
+      "titulo": "JJOO de la Juventud",
+      "descripcion": "Vive toda la emoción de las jornadas deportivas de los Juegos Olímpicos de la Juventud del 2026, celebrados en Dakar, Senegal.",
+      "inicio": "2026-10-31T14:45:00",
+      "fin": "2026-10-31T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0106_fallback.jpg"
+    },
+    {
+      "titulo": "Sabingo",
+      "descripcion": "Vamos en busca de emprendedores a lo largo de Chile, contamos historias humanas, notas de viajes, disfrutamos de comidas típicas y también de fiestas costumbristas. Descubrimos el país a través del turismo rural, recorriendo distintas localidades y conociendo a los protagonistas de cada historia.",
+      "inicio": "2026-10-31T16:00:00",
+      "fin": "2026-10-31T20:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sabingo.jpg"
+    },
+    {
+      "titulo": "CHV noticias central",
+      "descripcion": "Macarena Pizarro y Daniel Matamala presentan el noticiero más creíble del país. Coberturas, notas y reportajes a fondo para estar informado con todo lo que ocurrió durante la jornada.",
+      "inicio": "2026-10-31T20:20:00",
+      "fin": "2026-10-31T22:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiascentral.jpg"
+    },
+    {
+      "titulo": "Divina comida - Desafio duplas",
+      "descripcion": "Desafiamos a los famosos para saber quién es el mejor anfitrión. Cuatro concursantes deberán sacar a relucir todas sus armas para sorprender a sus invitados con platillos exquisitos y una excelente atención.",
+      "inicio": "2026-10-31T22:35:00",
+      "fin": "2026-11-01T01:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0106_fallback.jpg"
+    },
+    {
+      "titulo": "Divina comida de selección",
+      "descripcion": "Revivimos las mejores mesas en Divina Comida De Selección, un ciclo en el que cuatro famosos son anfitriones por una noche y preparan una cena (entrada, plato de fondo y postre) para los demás participantes.",
+      "inicio": "2026-11-01T01:15:00",
+      "fin": "2026-11-01T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0106_fallback.jpg"
+    },
+    {
+      "titulo": "Programación de trasnoche",
+      "descripcion": "Una selección de los mejores programas históricos de Chilevisión.",
+      "inicio": "2026-11-01T03:30:00",
+      "fin": "2026-11-01T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/programaciondetrasnoche.jpg"
+    },
+    {
+      "titulo": "Sabingo",
+      "descripcion": "Vamos en busca de emprendedores a lo largo de Chile, contamos historias humanas, notas de viajes, disfrutamos de comidas típicas y también de fiestas costumbristas. Descubrimos el país a través del turismo rural, recorriendo distintas localidades y conociendo a los protagonistas de cada historia.",
+      "inicio": "2026-11-01T05:30:00",
+      "fin": "2026-11-01T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sabingo.jpg"
+    },
+    {
+      "titulo": "Casado con hijos",
+      "descripcion": "El Nacho y la Titi vuelven a la casa de sus padres con nuevas historias y más locuras que nunca.",
+      "inicio": "2026-11-01T07:00:00",
+      "fin": "2026-11-01T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0106_casadoconhijos.jpg"
+    },
+    {
+      "titulo": "Primera página",
+      "descripcion": "Espacio que cuenta con la información más importante de las primeras horas del día.",
+      "inicio": "2026-11-01T08:00:00",
+      "fin": "2026-11-01T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerapagina.jpg"
+    },
+    {
+      "titulo": "CHV noticias AM - Fin de semana",
+      "descripcion": "Infórmate al minuto y en video con uno de los principales noticieros de Chile. Actualización constante de lo que sucede en el país y el mundo.",
+      "inicio": "2026-11-01T08:30:00",
+      "fin": "2026-11-01T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasamfindesemana.jpg"
     }
   ]

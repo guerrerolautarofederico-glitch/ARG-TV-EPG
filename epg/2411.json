@@ -1,116 +1,102 @@
 {
   "actual": {
-    "titulo": "Espn F12",
-    "descripcion": "Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.",
-    "inicio": "2026-10-30T11:00:00",
-    "fin": "2026-10-30T13:00:00",
+    "titulo": "Fútbol Premier League • Chelsea vs Manchester United",
+    "descripcion": "Chelsea vs Manchester United | Jornada 9 de la temporada 2026-27 de la Premier League. Desde el estadio Stamford Bridge. El Chelsea ha perdido sus dos últimos partidos, mientras que el Manchester United llega tras encadenar tres derrotas consecutivas.",
+    "inicio": "2026-10-31T09:20:00",
+    "fin": "2026-10-31T11:25:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "ESPN F90",
-    "descripcion": "Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.",
-    "inicio": "2026-10-30T13:00:00",
-    "fin": "2026-10-30T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "SportsCenter",
+    "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
+    "inicio": "2026-10-31T11:25:00",
+    "fin": "2026-10-31T11:50:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
   },
   "lista": [
-    {
-      "titulo": "Espn F12",
-      "descripcion": "Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.",
-      "inicio": "2026-10-30T11:00:00",
-      "fin": "2026-10-30T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN F90",
-      "descripcion": "Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.",
-      "inicio": "2026-10-30T13:00:00",
-      "fin": "2026-10-30T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Espn F3",
-      "descripcion": "Programación deportiva dedicada a la agenda futbolística, resúmenes, análisis y seguimientos que dan de qué hablar.",
-      "inicio": "2026-10-30T15:00:00",
-      "fin": "2026-10-30T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-10-30T16:30:00",
-      "fin": "2026-10-30T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "ESPN F360",
-      "descripcion": "Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.",
-      "inicio": "2026-10-30T18:00:00",
-      "fin": "2026-10-30T18:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Compact • Serie A Italia: Venezia vs Inter",
-      "descripcion": "Serie A Italia: Venezia vs Inter | Los mejores momentos de la fecha 9 de la Serie A de Italia 2025-26. Venezia se enfrenta a Inter. Disputado el 28 de octubre del 2026.",
-      "inicio": "2026-10-30T18:45:00",
-      "fin": "2026-10-30T19:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espncompact.jpg"
-    },
-    {
-      "titulo": "ESPN Compact • EFL Cup: Liverpool vs Chelsea",
-      "descripcion": "EFL Cup: Liverpool vs Chelsea | Compacto del partido de la cuarta ronda de la EFL Cup 2026-27. Disputado el 28 de octubre de 2026 en Anfield.",
-      "inicio": "2026-10-30T19:45:00",
-      "fin": "2026-10-30T20:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espncompact.jpg"
-    },
-    {
-      "titulo": "Fútbol internacional • Manchester City: Campeón de la FA Cup 2025-26",
-      "descripcion": "Manchester City: Campeón de la FA Cup 2025-26 | El rumbo de Manchester City a la final de la FA Cup 2025-26, en la que consiguió su octavo campeonato.",
-      "inicio": "2026-10-30T20:45:00",
-      "fin": "2026-10-30T20:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolinternacional.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-10-30T20:55:00",
-      "fin": "2026-10-30T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Espn F10",
-      "descripcion": "Los fines de semana se llenan de fútbol. Tras la finalización del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.",
-      "inicio": "2026-10-30T23:00:00",
-      "fin": "2026-10-31T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-10-31T00:00:00",
-      "fin": "2026-10-31T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Premier League Preview Show",
-      "descripcion": "Adelanto de próximos partidos de la Liga Premier.",
-      "inicio": "2026-10-31T06:00:00",
-      "fin": "2026-10-31T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/premierleaguepreviewshow.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-10-31T06:30:00",
-      "fin": "2026-10-31T09:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
     {
       "titulo": "Fútbol Premier League • Chelsea vs Manchester United",
       "descripcion": "Chelsea vs Manchester United | Jornada 9 de la temporada 2026-27 de la Premier League. Desde el estadio Stamford Bridge. El Chelsea ha perdido sus dos últimos partidos, mientras que el Manchester United llega tras encadenar tres derrotas consecutivas.",
       "inicio": "2026-10-31T09:20:00",
       "fin": "2026-10-31T11:25:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
+      "inicio": "2026-10-31T11:25:00",
+      "fin": "2026-10-31T11:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol Premier League • Manchester City vs Brighton & Hove Albion",
+      "descripcion": "Manchester City vs Brighton & Hove Albion | Jornada 9 de la temporada 2026-27 de la Premier League. Desde el estadio Etihad. El City, líder de la clasificación pero derrotado en su último partido de liga, se enfrenta a un Brighton que ha ganado dos de los últimos cuatro encuentros.",
+      "inicio": "2026-10-31T11:50:00",
+      "fin": "2026-10-31T13:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
+      "inicio": "2026-10-31T13:55:00",
+      "fin": "2026-10-31T14:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol Bundesliga • Bayern Munich vs Borussia Dortmund",
+      "descripcion": "Bayern Munich vs Borussia Dortmund | Acción de la jornada 8 de la Bundesliga 2026-27. Der Klassiker por el primer lugar de la tabla. Los Bávaros buscan su tercera victoria al hilo.",
+      "inicio": "2026-10-31T14:20:00",
+      "fin": "2026-10-31T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
+      "inicio": "2026-10-31T16:30:00",
+      "fin": "2026-10-31T16:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol LaLiga • Barcelona vs Deportivo Alavés",
+      "descripcion": "Barcelona vs Deportivo Alavés | Jornada 11 de la temporada 2026-27 de LaLiga. Desde el estadio Camp Nou. El Barcelona superó 2-0 como visitante al Real Madrid en El Clásico disputado en el Santiago Bernabéu. El Deportivo Alavés firmó un empate 1-1 en Balaídos.",
+      "inicio": "2026-10-31T16:50:00",
+      "fin": "2026-10-31T18:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbollaliga.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-10-31T18:55:00",
+      "fin": "2026-10-31T23:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-10-31T23:45:00",
+      "fin": "2026-11-01T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Campeonato Mundial de MotoGP • Gran Premio de Malasia: Carrera principal",
+      "descripcion": "Gran Premio de Malasia: Carrera principal | Cobertura de la carrera principal de la ronda 19 del MotoGP 2026 con el Gran Premio de Malasia. Desde el Circuito Internacional de Sepang, Malasia.",
+      "inicio": "2026-11-01T00:45:00",
+      "fin": "2026-11-01T05:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-11-01T05:15:00",
+      "fin": "2026-11-01T09:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol LaLiga • Getafe CF vs Sevilla",
+      "descripcion": "Getafe CF vs Sevilla | Jornada 11 de la temporada 2026-27 de LaLiga. Getafe se enfrenta a Sevilla. Desde el estadio Coliseum Alfonso Pérez. Su compromiso oficial más reciente disputado en el Coliseum se saldó con victoria del Sevilla por 1-0.",
+      "inicio": "2026-11-01T09:50:00",
+      "fin": "2026-11-01T11:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbollaliga.jpg"
     }
   ]
 }

@@ -1,299 +1,19 @@
 {
   "actual": {
-    "titulo": "Meditación de los Dolores de la Virgen María, desde la Basílica de los Ángeles",
-    "descripcion": "La Virgen María sufrió muchas penas y dolores, y la Iglesia invita a meditar sobre siete de ellos. Llorar a impulsos del amor divino es un don de Dios.",
-    "inicio": "2026-10-30T11:00:00",
-    "fin": "2026-10-30T11:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Coronilla de la Divina Misericordia - Latinoamérica",
+    "descripcion": "El Padre Luis Eduardo Rodríguez Rodríguez, nos lleva por un viaje alrededor de toda Latinoamérica, rezando la Divina Misericordia.",
+    "inicio": "2026-10-31T10:30:00",
+    "fin": "2026-10-31T10:50:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/coronilladeladivinamisericordialatinoamerica.jpg"
   },
   "siguiente": {
-    "titulo": "El rosario de los niños • Misterios dolorosos",
-    "descripcion": "Misterios dolorosos | Un vistazo a los acontecimientos de la pasión de Jesús de una manera que los niños puedan entender e inspirarse.",
-    "inicio": "2026-10-30T11:30:00",
-    "fin": "2026-10-30T12:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elrosariodelosninos.jpg"
+    "titulo": "Letanía a la bendita Virgen María",
+    "descripcion": "Una mirada a la Letanía a la bendita Virgen María y otros acontecimientos religiosos.",
+    "inicio": "2026-10-31T10:50:00",
+    "fin": "2026-10-31T11:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/letaniaalabenditavirgenmaria.jpg"
   },
   "lista": [
-    {
-      "titulo": "Meditación de los Dolores de la Virgen María, desde la Basílica de los Ángeles",
-      "descripcion": "La Virgen María sufrió muchas penas y dolores, y la Iglesia invita a meditar sobre siete de ellos. Llorar a impulsos del amor divino es un don de Dios.",
-      "inicio": "2026-10-30T11:00:00",
-      "fin": "2026-10-30T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El rosario de los niños • Misterios dolorosos",
-      "descripcion": "Misterios dolorosos | Un vistazo a los acontecimientos de la pasión de Jesús de una manera que los niños puedan entender e inspirarse.",
-      "inicio": "2026-10-30T11:30:00",
-      "fin": "2026-10-30T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elrosariodelosninos.jpg"
-    },
-    {
-      "titulo": "Perspectiva católica • La libertad religiosa",
-      "descripcion": "La libertad religiosa | Un programa que aborda la actualidad del mundo y de la iglesia desde una perspectiva católica.",
-      "inicio": "2026-10-30T12:00:00",
-      "fin": "2026-10-30T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/perspectivacatolica.jpg"
-    },
-    {
-      "titulo": "Cenáculos en familia • Reflexiones sobre el padre nuestro en la vida de familia",
-      "descripcion": "Reflexiones sobre el padre nuestro en la vida de familia | La familia Vega Henao muestra cómo la oración y el Santo Rosario transformaron su hogar gracias al perdón, la unidad y la esperanza, y al fortalecer los lazos familiares frente a las dificultades.",
-      "inicio": "2026-10-30T13:00:00",
-      "fin": "2026-10-30T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La misericordia y el perdón • El cuerpo místico de Cristo",
-      "descripcion": "El cuerpo místico de Cristo | Un espacio para hablar sobre las enseñanzas de Dios.",
-      "inicio": "2026-10-30T13:30:00",
-      "fin": "2026-10-30T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "EWTN Noticias",
-      "descripcion": "Noticias católicas del mundo, las actividades del papa y reportajes sobre destacados católicos de Sudamérica y Centroamérica.",
-      "inicio": "2026-10-30T14:00:00",
-      "fin": "2026-10-30T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Vía Crucis",
-      "descripcion": "La pasión y muerte de Cristo acompañan e ilustran el rezo de esta oración cristiana.",
-      "inicio": "2026-10-30T14:30:00",
-      "fin": "2026-10-30T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viacrucis.jpg"
-    },
-    {
-      "titulo": "Coronilla de la Divina Misericordia",
-      "descripcion": "El rezo de la oración inspirada por Nuestro Señor a Santa Faustina, para implorar a su Corazón Misericordioso.",
-      "inicio": "2026-10-30T15:00:00",
-      "fin": "2026-10-30T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/coronilladeladivinamisericordia.jpg"
-    },
-    {
-      "titulo": "Misa diaria",
-      "descripcion": "El santo sacrificio de la misa con los cantos gregorianos de los hermanos franciscanos y la visita de prelados de diversas diócesis que celebran el memorial de la pasión, muerte y resurrección de Cristo.",
-      "inicio": "2026-10-30T15:30:00",
-      "fin": "2026-10-30T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/misadiaria.jpg"
-    },
-    {
-      "titulo": "Letanía al Sagrado Corazón de Jesús",
-      "descripcion": "Una mirada a la Letanía al Sagrado Corazón de Jesús y otros acontecimientos religiosos.",
-      "inicio": "2026-10-30T16:30:00",
-      "fin": "2026-10-30T16:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/letaniaalsagradocorazondejesus.jpg"
-    },
-    {
-      "titulo": "Adoración eucarística desde la capilla de EWTN",
-      "descripcion": "Estreno ║ Un momento de oración eucarística.",
-      "inicio": "2026-10-30T16:50:00",
-      "fin": "2026-10-30T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Santo Rosario desde Lourdes - Francia",
-      "descripcion": "Oración a la Virgen María con los fieles reunidos en la Gruta de Lourdes, Francia, peregrinación religiosa.",
-      "inicio": "2026-10-30T17:00:00",
-      "fin": "2026-10-30T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elsantorosariodesdelourdesfrancia.jpg"
-    },
-    {
-      "titulo": "Anacleto González Flores",
-      "descripcion": "Un documental sobre la vida y obra de este beato mexicano.",
-      "inicio": "2026-10-30T17:30:00",
-      "fin": "2026-10-30T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/anacletogonzalezflores.jpg"
-    },
-    {
-      "titulo": "Lo mejor de la madre Angélica",
-      "descripcion": "La Madre Angélica, fundadora de EWTN, comparte su alegría y amor a Dios con el público. Junto a sus invitados especiales, analiza importantes asuntos sobre la fe y ofrece soluciones prácticas a los problemas que se presentan en la vida.",
-      "inicio": "2026-10-30T18:00:00",
-      "fin": "2026-10-30T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamadreangelica.jpg"
-    },
-    {
-      "titulo": "Kerigma de amor • La segunda venida de Cristo",
-      "descripcion": "La segunda venida de Cristo | Programa religioso que trata temas de orientación espiritual, dirigido a la comunidad católica.",
-      "inicio": "2026-10-30T19:00:00",
-      "fin": "2026-10-30T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Iglesia en camino Cuba",
-      "descripcion": "Revista noticiosa que muestra los santuarios, las devociones y la religiosidad.",
-      "inicio": "2026-10-30T19:30:00",
-      "fin": "2026-10-30T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/iglesiaencaminocuba.jpg"
-    },
-    {
-      "titulo": "Cenáculos en familia • Reflexiones sobre el padre nuestro en la vida de familia",
-      "descripcion": "Reflexiones sobre el padre nuestro en la vida de familia | La familia Vega Henao muestra cómo la oración y el Santo Rosario transformaron su hogar gracias al perdón, la unidad y la esperanza, y al fortalecer los lazos familiares frente a las dificultades.",
-      "inicio": "2026-10-30T20:00:00",
-      "fin": "2026-10-30T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La misericordia y el perdón • El cuerpo místico de Cristo",
-      "descripcion": "El cuerpo místico de Cristo | Un espacio para hablar sobre las enseñanzas de Dios.",
-      "inicio": "2026-10-30T20:30:00",
-      "fin": "2026-10-30T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "EWTN Noticias",
-      "descripcion": "Noticias católicas del mundo, las actividades del papa y reportajes sobre destacados católicos de Sudamérica y Centroamérica.",
-      "inicio": "2026-10-30T21:00:00",
-      "fin": "2026-10-30T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Anacleto González Flores",
-      "descripcion": "Un documental sobre la vida y obra de este beato mexicano.",
-      "inicio": "2026-10-30T21:30:00",
-      "fin": "2026-10-30T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/anacletogonzalezflores.jpg"
-    },
-    {
-      "titulo": "Informe provida • Cuando la desesperación tiene una salida",
-      "descripcion": "Cuando la desesperación tiene una salida | Un informe sobre los temas provida más importantes. Una mirada desde el corazón de los que están involucrados en la defensa de la vida, desde la concepción hasta su momento terminal.",
-      "inicio": "2026-10-30T22:00:00",
-      "fin": "2026-10-30T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "De dos en dos • San Ignacio y los ejercicios espirituales",
-      "descripcion": "San Ignacio y los ejercicios espirituales | De soldado herido a fundador de una orden religiosa que cambió el mundo. Descubre cómo la transformación espiritual de San Ignacio de Loyola dio origen a los Ejercicios Espirituales, una guía profunda para encontrar a Dios en todas las cosas.",
-      "inicio": "2026-10-30T22:30:00",
-      "fin": "2026-10-30T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lo mejor de la madre Angélica",
-      "descripcion": "La Madre Angélica, fundadora de EWTN, comparte su alegría y amor a Dios con el público. Junto a sus invitados especiales, analiza importantes asuntos sobre la fe y ofrece soluciones prácticas a los problemas que se presentan en la vida.",
-      "inicio": "2026-10-30T23:00:00",
-      "fin": "2026-10-31T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamadreangelica.jpg"
-    },
-    {
-      "titulo": "La misericordia y el perdón • El cuerpo místico de Cristo",
-      "descripcion": "El cuerpo místico de Cristo | Un espacio para hablar sobre las enseñanzas de Dios.",
-      "inicio": "2026-10-31T00:00:00",
-      "fin": "2026-10-31T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Kerigma de amor • La segunda venida de Cristo",
-      "descripcion": "La segunda venida de Cristo | Programa religioso que trata temas de orientación espiritual, dirigido a la comunidad católica.",
-      "inicio": "2026-10-31T00:30:00",
-      "fin": "2026-10-31T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "EWTN Noticias",
-      "descripcion": "Noticias católicas del mundo, las actividades del papa y reportajes sobre destacados católicos de Sudamérica y Centroamérica.",
-      "inicio": "2026-10-31T01:00:00",
-      "fin": "2026-10-31T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Anacleto González Flores",
-      "descripcion": "Un documental sobre la vida y obra de este beato mexicano.",
-      "inicio": "2026-10-31T01:30:00",
-      "fin": "2026-10-31T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/anacletogonzalezflores.jpg"
-    },
-    {
-      "titulo": "Cenáculos en familia • Reflexiones sobre el padre nuestro en la vida de familia",
-      "descripcion": "Reflexiones sobre el padre nuestro en la vida de familia | La familia Vega Henao muestra cómo la oración y el Santo Rosario transformaron su hogar gracias al perdón, la unidad y la esperanza, y al fortalecer los lazos familiares frente a las dificultades.",
-      "inicio": "2026-10-31T02:00:00",
-      "fin": "2026-10-31T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Santo Rosario • Misterios Gozosos",
-      "descripcion": "Misterios Gozosos | En los Misterios Gozosos, se medita sobre la vida de Jesús desde la anunciación-encarnación hasta la alegría del encuentro del Niño Jesús que se había perdido en el templo.",
-      "inicio": "2026-10-31T02:30:00",
-      "fin": "2026-10-31T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santorosario.jpg"
-    },
-    {
-      "titulo": "Canta y no llores • David Martínez y Kenosis",
-      "descripcion": "David Martínez y Kenosis | Un encuentro en profundidad con la música y la espiritualidad, con la participación de lo más destacado de México, Panamá, Guatemala y Costa Rica.",
-      "inicio": "2026-10-31T03:00:00",
-      "fin": "2026-10-31T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cantaynollores.jpg"
-    },
-    {
-      "titulo": "Entre el cielo y la tierra • Templo de Nuestra Señora Carmen, San Luis Potosí",
-      "descripcion": "Templo de Nuestra Señora Carmen, San Luis Potosí | Aspectos históricos y de interés general sobre distintos templos y santuarios de México. Algunos son: El templo de Nuestra Señora del Carmen en San Luis Potosí, el templo de Nuestra Señora del Carmen en Celaya, El templo de la Natividad en Tepoztlán.",
-      "inicio": "2026-10-31T04:00:00",
-      "fin": "2026-10-31T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Te Amé Tarde",
-      "descripcion": "Las meditaciones y oraciones de San Agustín, Obispo y doctor de la Iglesia.",
-      "inicio": "2026-10-31T04:30:00",
-      "fin": "2026-10-31T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teametarde.jpg"
-    },
-    {
-      "titulo": "Clásicos católicos: Madre Angélica presenta • Prayer or Presumption",
-      "descripcion": "Prayer or Presumption | El rezo no solo consiste en decir las palabras correctas y recibir lo que se desea. Es un vínculo que se establece con Dios.",
-      "inicio": "2026-10-31T05:00:00",
-      "fin": "2026-10-31T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clasicoscatolicosmadreangelicapresenta.jpg"
-    },
-    {
-      "titulo": "Clásicos católicos: viviendo las Escrituras",
-      "descripcion": "Selección de programación católica.",
-      "inicio": "2026-10-31T05:30:00",
-      "fin": "2026-10-31T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clasicoscatolicosviviendolasescrituras.jpg"
-    },
-    {
-      "titulo": "Juan Pablo II en España y en el Mundo",
-      "descripcion": "Una mirada a un aspecto del Santo Padre Juan Pablo II como Vicario de Cristo, y su recorrido por distintos lugares de España, mensajes a las religiosas y a los católicos de los distintos rincones del mundo.",
-      "inicio": "2026-10-31T06:00:00",
-      "fin": "2026-10-31T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Iglesia en camino Cuba",
-      "descripcion": "Revista noticiosa que muestra los santuarios, las devociones y la religiosidad.",
-      "inicio": "2026-10-31T07:30:00",
-      "fin": "2026-10-31T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/iglesiaencaminocuba.jpg"
-    },
-    {
-      "titulo": "En la herida está la misión • La afectividad",
-      "descripcion": "La afectividad | Tres mujeres conversan sobre las heridas que afectan la vida y sobre cómo poderlas sanar a través de la fe y la psicología.",
-      "inicio": "2026-10-31T08:00:00",
-      "fin": "2026-10-31T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Explora con El cazador de milagros • Lourdes",
-      "descripcion": "Lourdes | Michael O'Neill viaja a Lourdes para explorar los detalles detrás de las apariciones milagrosas de la Santísima Madre a Santa Bernadette y las aguas curativas que han resultado en curas médicas inexplicables.",
-      "inicio": "2026-10-31T08:30:00",
-      "fin": "2026-10-31T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/exploraconelcazadordemilagros.jpg"
-    },
-    {
-      "titulo": "Misa diaria",
-      "descripcion": "Estreno ║ El santo sacrificio de la misa con los cantos gregorianos de los hermanos franciscanos y la visita de prelados de diversas diócesis que celebran el memorial de la pasión, muerte y resurrección de Cristo.",
-      "inicio": "2026-10-31T09:00:00",
-      "fin": "2026-10-31T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/misadiaria.jpg"
-    },
-    {
-      "titulo": "Santo Rosario • Misterios Gozosos",
-      "descripcion": "Misterios Gozosos | En los Misterios Gozosos, se medita sobre la vida de Jesús desde la anunciación-encarnación hasta la alegría del encuentro del Niño Jesús que se había perdido en el templo.",
-      "inicio": "2026-10-31T10:00:00",
-      "fin": "2026-10-31T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santorosario.jpg"
-    },
     {
       "titulo": "Coronilla de la Divina Misericordia - Latinoamérica",
       "descripcion": "El Padre Luis Eduardo Rodríguez Rodríguez, nos lleva por un viaje alrededor de toda Latinoamérica, rezando la Divina Misericordia.",
@@ -314,6 +34,272 @@
       "inicio": "2026-10-31T11:00:00",
       "fin": "2026-10-31T11:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El rosario de los niños • Misterios gozosos",
+      "descripcion": "Misterios gozosos | Los misterios gozosos del Rosario.",
+      "inicio": "2026-10-31T11:30:00",
+      "fin": "2026-10-31T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elrosariodelosninos.jpg"
+    },
+    {
+      "titulo": "Los cuentos de Juan, el molinero • La generosidad",
+      "descripcion": "La generosidad | Nina y Juan, el molinero, explican la importancia de la generosidad a través de conversaciones y diversas situaciones.",
+      "inicio": "2026-10-31T12:00:00",
+      "fin": "2026-10-31T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La casita sobre la roca • El amigo inoportuno",
+      "descripcion": "El amigo inoportuno | El Padre Juan enseña a sus amigos Renata, una niña, Timoteo, un ratón y Leopoldo, una rana, las distintas parábolas de la Biblia y la vida de los Santos por medio de historias en dibujos animados y canciones.",
+      "inicio": "2026-10-31T12:30:00",
+      "fin": "2026-10-31T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasitasobrelaroca.jpg"
+    },
+    {
+      "titulo": "Juan Pablo II en España y en el Mundo",
+      "descripcion": "Una mirada a un aspecto del Santo Padre Juan Pablo II como Vicario de Cristo, y su recorrido por distintos lugares de España, mensajes a las religiosas y a los católicos de los distintos rincones del mundo.",
+      "inicio": "2026-10-31T13:00:00",
+      "fin": "2026-10-31T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Explora con El cazador de milagros • Lourdes",
+      "descripcion": "Lourdes | Michael O'Neill viaja a Lourdes para explorar los detalles detrás de las apariciones milagrosas de la Santísima Madre a Santa Bernadette y las aguas curativas que han resultado en curas médicas inexplicables.",
+      "inicio": "2026-10-31T14:30:00",
+      "fin": "2026-10-31T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/exploraconelcazadordemilagros.jpg"
+    },
+    {
+      "titulo": "Coronilla de la Divina Misericordia",
+      "descripcion": "El rezo de la oración inspirada por Nuestro Señor a Santa Faustina, para implorar a su Corazón Misericordioso.",
+      "inicio": "2026-10-31T15:00:00",
+      "fin": "2026-10-31T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/coronilladeladivinamisericordia.jpg"
+    },
+    {
+      "titulo": "Misa diaria",
+      "descripcion": "El santo sacrificio de la misa con los cantos gregorianos de los hermanos franciscanos y la visita de prelados de diversas diócesis que celebran el memorial de la pasión, muerte y resurrección de Cristo.",
+      "inicio": "2026-10-31T15:30:00",
+      "fin": "2026-10-31T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/misadiaria.jpg"
+    },
+    {
+      "titulo": "Letanía a la bendita Virgen María",
+      "descripcion": "Una mirada a la Letanía a la bendita Virgen María y otros acontecimientos religiosos.",
+      "inicio": "2026-10-31T16:30:00",
+      "fin": "2026-10-31T16:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/letaniaalabenditavirgenmaria.jpg"
+    },
+    {
+      "titulo": "Adoración eucarística desde la capilla de EWTN",
+      "descripcion": "Estreno ║ Un momento de oración eucarística.",
+      "inicio": "2026-10-31T16:50:00",
+      "fin": "2026-10-31T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Santo Rosario desde Lourdes - Francia",
+      "descripcion": "Oración a la Virgen María con los fieles reunidos en la Gruta de Lourdes, Francia, peregrinación religiosa.",
+      "inicio": "2026-10-31T17:00:00",
+      "fin": "2026-10-31T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elsantorosariodesdelourdesfrancia.jpg"
+    },
+    {
+      "titulo": "La misericordia y el perdón • El cuerpo místico de Cristo",
+      "descripcion": "El cuerpo místico de Cristo | Un espacio para hablar sobre las enseñanzas de Dios.",
+      "inicio": "2026-10-31T17:30:00",
+      "fin": "2026-10-31T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clásicos católicos: Madre Angélica presenta • Prayer or Presumption",
+      "descripcion": "Prayer or Presumption | El rezo no solo consiste en decir las palabras correctas y recibir lo que se desea. Es un vínculo que se establece con Dios.",
+      "inicio": "2026-10-31T18:00:00",
+      "fin": "2026-10-31T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clasicoscatolicosmadreangelicapresenta.jpg"
+    },
+    {
+      "titulo": "Clásicos católicos: viviendo las Escrituras",
+      "descripcion": "Selección de programación católica.",
+      "inicio": "2026-10-31T18:30:00",
+      "fin": "2026-10-31T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clasicoscatolicosviviendolasescrituras.jpg"
+    },
+    {
+      "titulo": "Explora con El cazador de milagros • Lourdes",
+      "descripcion": "Lourdes | Michael O'Neill viaja a Lourdes para explorar los detalles detrás de las apariciones milagrosas de la Santísima Madre a Santa Bernadette y las aguas curativas que han resultado en curas médicas inexplicables.",
+      "inicio": "2026-10-31T19:00:00",
+      "fin": "2026-10-31T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/exploraconelcazadordemilagros.jpg"
+    },
+    {
+      "titulo": "Cocina franciscana • Tartar de sayote de salmón",
+      "descripcion": "Tartar de sayote de salmón | Fray Ángel lleva más de una década dedicándose a la cocina en el Monasterio del Santo Espíritu de Gilet, en Valencia, y desde allí prepara recetas tradicionales de la gastronomía española.",
+      "inicio": "2026-10-31T19:30:00",
+      "fin": "2026-10-31T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Héctor Valdivielso: El Primer Santo Argentino",
+      "descripcion": "Héctor Valdivielso Sáez es uno de los ocho católicos mártires de la llamada Revolución de Asturias.",
+      "inicio": "2026-10-31T20:00:00",
+      "fin": "2026-10-31T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Vaticano • El camino hacia el cielo",
+      "descripcion": "El camino hacia el cielo | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-10-31T21:00:00",
+      "fin": "2026-10-31T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vaticano.jpg"
+    },
+    {
+      "titulo": "Juan Pablo II en España y en el Mundo",
+      "descripcion": "Una mirada a un aspecto del Santo Padre Juan Pablo II como Vicario de Cristo, y su recorrido por distintos lugares de España, mensajes a las religiosas y a los católicos de los distintos rincones del mundo.",
+      "inicio": "2026-10-31T21:30:00",
+      "fin": "2026-10-31T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Clásicos católicos: Madre Angélica presenta • Prayer or Presumption",
+      "descripcion": "Prayer or Presumption | El rezo no solo consiste en decir las palabras correctas y recibir lo que se desea. Es un vínculo que se establece con Dios.",
+      "inicio": "2026-10-31T23:00:00",
+      "fin": "2026-10-31T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clasicoscatolicosmadreangelicapresenta.jpg"
+    },
+    {
+      "titulo": "Clásicos católicos: viviendo las Escrituras",
+      "descripcion": "Selección de programación católica.",
+      "inicio": "2026-10-31T23:30:00",
+      "fin": "2026-11-01T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clasicoscatolicosviviendolasescrituras.jpg"
+    },
+    {
+      "titulo": "Arte hecho oración, los Mendivil",
+      "descripcion": "La familia Mendivil de Cusco, Perú utiliza sus artesanías para reflejar la vida interior, la vida de oración, de sus creadores. Una tradición de familia estrechamente ligada a la devoción popular cusqueña.",
+      "inicio": "2026-11-01T00:00:00",
+      "fin": "2026-11-01T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Vaticano • El camino hacia el cielo",
+      "descripcion": "El camino hacia el cielo | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-01T01:00:00",
+      "fin": "2026-11-01T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vaticano.jpg"
+    },
+    {
+      "titulo": "Explora con El cazador de milagros • Lourdes",
+      "descripcion": "Lourdes | Michael O'Neill viaja a Lourdes para explorar los detalles detrás de las apariciones milagrosas de la Santísima Madre a Santa Bernadette y las aguas curativas que han resultado en curas médicas inexplicables.",
+      "inicio": "2026-11-01T01:30:00",
+      "fin": "2026-11-01T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/exploraconelcazadordemilagros.jpg"
+    },
+    {
+      "titulo": "Tertulias de fe",
+      "descripcion": "Un espacio en el que se puede crecer en el amor a Jesús y su Iglesia gracias al testimonio de sus invitados.",
+      "inicio": "2026-11-01T02:00:00",
+      "fin": "2026-11-01T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tertuliasdefe.jpg"
+    },
+    {
+      "titulo": "Santo Rosario • Misterios Gloriosos",
+      "descripcion": "Misterios Gloriosos | En los Misterios Gloriosos se medita sobre la vida de Jesús desde la Resurrección del Señor hasta la Coronación de la Santísima Virgen María.",
+      "inicio": "2026-11-01T02:30:00",
+      "fin": "2026-11-01T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santorosario.jpg"
+    },
+    {
+      "titulo": "Cocina franciscana • Tartar de sayote de salmón",
+      "descripcion": "Tartar de sayote de salmón | Fray Ángel lleva más de una década dedicándose a la cocina en el Monasterio del Santo Espíritu de Gilet, en Valencia, y desde allí prepara recetas tradicionales de la gastronomía española.",
+      "inicio": "2026-11-01T03:00:00",
+      "fin": "2026-11-01T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mientras el mundo gira • ¿Los modales han pasado de moda?",
+      "descripcion": "¿Los modales han pasado de moda? | Un espacio en el que se explica de forma clara y sencilla cómo las enseñanzas de la Biblia tienen sentido en la vida cotidiana actual.",
+      "inicio": "2026-11-01T04:00:00",
+      "fin": "2026-11-01T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mientraselmundogira.jpg"
+    },
+    {
+      "titulo": "Conozca primero su fe católica • Ante la superstición: ¡Sólo Jesús tiene poder!",
+      "descripcion": "Ante la superstición: ¡Sólo Jesús tiene poder! | Basada en el famoso libro homónimo del Padre Pedro Núñez, esta serie ofrece respuestas concretas a interrogantes sobre la fe católica que plantean los fieles.",
+      "inicio": "2026-11-01T05:00:00",
+      "fin": "2026-11-01T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Perspectiva católica • La libertad religiosa",
+      "descripcion": "La libertad religiosa | Un programa que aborda la actualidad del mundo y de la iglesia desde una perspectiva católica.",
+      "inicio": "2026-11-01T06:00:00",
+      "fin": "2026-11-01T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/perspectivacatolica.jpg"
+    },
+    {
+      "titulo": "Vaticano • El camino hacia el cielo",
+      "descripcion": "El camino hacia el cielo | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-01T07:00:00",
+      "fin": "2026-11-01T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vaticano.jpg"
+    },
+    {
+      "titulo": "Informe provida • Cuando la desesperación tiene una salida",
+      "descripcion": "Cuando la desesperación tiene una salida | Un informe sobre los temas provida más importantes. Una mirada desde el corazón de los que están involucrados en la defensa de la vida, desde la concepción hasta su momento terminal.",
+      "inicio": "2026-11-01T07:30:00",
+      "fin": "2026-11-01T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ángelus con el Papa León XIV",
+      "descripcion": "El papa León XIV reza el Ángelus desde la plaza de San Pedro para invocar a la Virgen María y unir en oración a la Iglesia católica de todo el mundo.",
+      "inicio": "2026-11-01T08:00:00",
+      "fin": "2026-11-01T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/angelusconelpapaleonxiv.jpg"
+    },
+    {
+      "titulo": "De dos en dos • San Ignacio y los ejercicios espirituales",
+      "descripcion": "San Ignacio y los ejercicios espirituales | De soldado herido a fundador de una orden religiosa que cambió el mundo. Descubre cómo la transformación espiritual de San Ignacio de Loyola dio origen a los Ejercicios Espirituales, una guía profunda para encontrar a Dios en todas las cosas.",
+      "inicio": "2026-11-01T08:30:00",
+      "fin": "2026-11-01T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Santo Rosario • Misterios Gloriosos",
+      "descripcion": "Misterios Gloriosos | En los Misterios Gloriosos se medita sobre la vida de Jesús desde la Resurrección del Señor hasta la Coronación de la Santísima Virgen María.",
+      "inicio": "2026-11-01T09:00:00",
+      "fin": "2026-11-01T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santorosario.jpg"
+    },
+    {
+      "titulo": "Coronilla de la Divina Misericordia - mundo",
+      "descripcion": "El padre Luis Eduardo Rodríguez realiza un viaje alrededor de los cinco continentes rezando la Divina Misericordia.",
+      "inicio": "2026-11-01T09:30:00",
+      "fin": "2026-11-01T09:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/coronilladeladivinamisericordiamundo.jpg"
+    },
+    {
+      "titulo": "Letanía al santísimo nombre de Jesús",
+      "descripcion": "Una mirada a la Letanía al santísimo nombre de Jesús y otros acontecimientos religiosos.",
+      "inicio": "2026-11-01T09:50:00",
+      "fin": "2026-11-01T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/letaniaalsantisimonombredejesus.jpg"
+    },
+    {
+      "titulo": "Mi ratito con Jesús • Todos los santos",
+      "descripcion": "Todos los santos | Luis les enseña a Christine, Eva, Enrique y Joseph que buscar venganza no es bueno y que deben imitar a santos como Domingo Savio y Teresa del Niño Jesús.",
+      "inicio": "2026-11-01T10:00:00",
+      "fin": "2026-11-01T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La casita sobre la roca • La casita sobre arena",
+      "descripcion": "La casita sobre arena | Fray Juan enseña sobre la obediencia a la voluntad de Dios con la parábola de la casa sobre la roca. El padre también narra la historia de San Luis de Francia, quien sabiamente obedeció a Dios y construyó su reino sobre la roca que es Cristo.",
+      "inicio": "2026-11-01T10:30:00",
+      "fin": "2026-11-01T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasitasobrelaroca.jpg"
     }
   ]
 }
