@@ -2,52 +2,66 @@
   "actual": {
     "titulo": "La ciudad no para",
     "descripcion": "Un completo magazine de fin de semana con información local y los mejores panoramas para disfrutar la región.",
-    "inicio": "2026-10-31T10:00:00",
-    "fin": "2026-10-31T14:00:00",
+    "inicio": "2026-11-01T11:00:00",
+    "fin": "2026-11-01T14:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laciudadnopara.jpg"
   },
   "siguiente": {
     "titulo": "Programación MiRadio TV",
     "descripcion": "Canal local de la Región de Coquimbo centrado en noticias locales, actualidad y programas de conversación para la comunidad.",
-    "inicio": "2026-10-31T14:00:00",
-    "fin": "2026-10-31T16:00:00",
+    "inicio": "2026-11-01T14:00:00",
+    "fin": "2026-11-01T16:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
       "titulo": "La ciudad no para",
       "descripcion": "Un completo magazine de fin de semana con información local y los mejores panoramas para disfrutar la región.",
-      "inicio": "2026-10-31T10:00:00",
-      "fin": "2026-10-31T14:00:00",
+      "inicio": "2026-11-01T11:00:00",
+      "fin": "2026-11-01T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laciudadnopara.jpg"
     },
     {
       "titulo": "Programación MiRadio TV",
       "descripcion": "Canal local de la Región de Coquimbo centrado en noticias locales, actualidad y programas de conversación para la comunidad.",
-      "inicio": "2026-10-31T14:00:00",
-      "fin": "2026-10-31T16:00:00",
+      "inicio": "2026-11-01T14:00:00",
+      "fin": "2026-11-01T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "La ciudad no para",
       "descripcion": "Un completo magazine de fin de semana con información local y los mejores panoramas para disfrutar la región.",
-      "inicio": "2026-10-31T16:00:00",
-      "fin": "2026-10-31T19:00:00",
+      "inicio": "2026-11-01T16:00:00",
+      "fin": "2026-11-01T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laciudadnopara.jpg"
     },
     {
       "titulo": "Programación MiRadio TV",
       "descripcion": "Canal local de la Región de Coquimbo centrado en noticias locales, actualidad y programas de conversación para la comunidad.",
-      "inicio": "2026-10-31T19:00:00",
-      "fin": "2026-11-01T00:00:00",
+      "inicio": "2026-11-01T19:00:00",
+      "fin": "2026-11-02T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Programación de trasnoche",
       "descripcion": "Te acompañamos durante la noche con buena música.",
-      "inicio": "2026-11-01T00:00:00",
-      "fin": "2026-11-01T11:00:00",
+      "inicio": "2026-11-02T00:00:00",
+      "fin": "2026-11-02T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/programaciondetrasnoche.jpg"
+    },
+    {
+      "titulo": "Buen Día",
+      "descripcion": "Un programa matutino para empezar el día con energía, presentando noticias, datos útiles, entrevistas y segmentos de entretención para toda la familia.",
+      "inicio": "2026-11-02T07:00:00",
+      "fin": "2026-11-02T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buendia.jpg"
+    },
+    {
+      "titulo": "Mi mañana",
+      "descripcion": "Magazine de media mañana con foco en temas de actualidad, salud, hogar y tendencias. Un espacio de compañía con datos prácticos para la vida diaria.",
+      "inicio": "2026-11-02T10:00:00",
+      "fin": "2026-11-02T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mimanana.jpg"
     }
   ]
 }

@@ -1,221 +1,137 @@
 {
   "actual": {
-    "titulo": "Mundos vibrantes",
-    "descripcion": "Programa de entrevistas de temas de interés.",
-    "inicio": "2026-10-31T10:30:00",
-    "fin": "2026-10-31T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundosvibrantes.jpg"
+    "titulo": "Mundo radio",
+    "descripcion": "Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones.",
+    "inicio": "2026-11-01T11:30:00",
+    "fin": "2026-11-01T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundoradio.jpg"
   },
   "siguiente": {
-    "titulo": "Destinos turísticos",
-    "descripcion": "Programa que nos lleva a recorrer la diversidad y riqueza de Chile.",
-    "inicio": "2026-10-31T11:00:00",
-    "fin": "2026-10-31T11:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destinosturisticos.jpg"
+    "titulo": "Vox populi científico",
+    "descripcion": "La información de este programa no se encuentra disponible.",
+    "inicio": "2026-11-01T12:00:00",
+    "fin": "2026-11-01T12:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/voxpopulicientifico.jpg"
   },
   "lista": [
     {
-      "titulo": "Mundos vibrantes",
-      "descripcion": "Programa de entrevistas de temas de interés.",
-      "inicio": "2026-10-31T10:30:00",
-      "fin": "2026-10-31T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundosvibrantes.jpg"
+      "titulo": "Mundo radio",
+      "descripcion": "Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones.",
+      "inicio": "2026-11-01T11:30:00",
+      "fin": "2026-11-01T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundoradio.jpg"
+    },
+    {
+      "titulo": "Vox populi científico",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-01T12:00:00",
+      "fin": "2026-11-01T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/voxpopulicientifico.jpg"
+    },
+    {
+      "titulo": "Aires de Chile",
+      "descripcion": "Una celebración y exploración de la rica cultura y tradiciones de Chile, con una combinación única de historia, música y entrevistas con personajes culturales.",
+      "inicio": "2026-11-01T12:30:00",
+      "fin": "2026-11-01T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/airesdechile.jpg"
+    },
+    {
+      "titulo": "Culturalia",
+      "descripcion": "Un espacio de entrevistas a músicos de diversos estilos.",
+      "inicio": "2026-11-01T13:00:00",
+      "fin": "2026-11-01T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/culturalia.jpg"
+    },
+    {
+      "titulo": "Conciertos desde el estudio IMUS - PUCV",
+      "descripcion": "Durante el período de cuarentena a raíz de la pandemia de COVID-19, se lleva a cabo una serie de conciertos virtuales del Instituto y Conservatorio de Música de la Pontificia Universidad Católica de Valparaíso.",
+      "inicio": "2026-11-01T14:00:00",
+      "fin": "2026-11-01T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conciertosdesdeelestudioimuspucv.jpg"
+    },
+    {
+      "titulo": "Sonrisa de adulto mayor",
+      "descripcion": "Visita a las instalaciones del centro odontológico de especialidad con los más altos estándares. Se cuenta con un equipo de especialistas altamente calificado, infraestructura y equipamiento de última generación para la atención del adulto mayor.",
+      "inicio": "2026-11-01T15:00:00",
+      "fin": "2026-11-01T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sonrisadeadultomayor.jpg"
+    },
+    {
+      "titulo": "Circuito nacional",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-01T15:30:00",
+      "fin": "2026-11-01T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/circuitonacional.jpg"
     },
     {
       "titulo": "Destinos turísticos",
       "descripcion": "Programa que nos lleva a recorrer la diversidad y riqueza de Chile.",
-      "inicio": "2026-10-31T11:00:00",
-      "fin": "2026-10-31T11:30:00",
+      "inicio": "2026-11-01T16:00:00",
+      "fin": "2026-11-01T16:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destinosturisticos.jpg"
     },
     {
       "titulo": "Naturaleza fantástica",
       "descripcion": "Un espacio para conocer los parques nacionales más importantes del mundo. Áreas protegidas que conservan el equilibrio ecológico y la biodiversidad.",
-      "inicio": "2026-10-31T11:30:00",
-      "fin": "2026-10-31T12:00:00",
+      "inicio": "2026-11-01T16:30:00",
+      "fin": "2026-11-01T17:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/naturalezafantastica.jpg"
-    },
-    {
-      "titulo": "PIT tech talk",
-      "descripcion": "Programa semanal lleno de emoción y conocimientos sobre el fascinante mundo de la tecnología, las redes y las últimas noticias de conectividad.",
-      "inicio": "2026-10-31T12:00:00",
-      "fin": "2026-10-31T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pittechtalk.jpg"
-    },
-    {
-      "titulo": "Alfatrexx",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-31T12:30:00",
-      "fin": "2026-10-31T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alfatrexx.jpg"
-    },
-    {
-      "titulo": "Pádel y punto",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-31T13:00:00",
-      "fin": "2026-10-31T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/padelypunto.jpg"
-    },
-    {
-      "titulo": "Deportevisión",
-      "descripcion": "Noticiero sobre el deporte profesional y amateur desde una perspectiva local y nacional.",
-      "inicio": "2026-10-31T14:00:00",
-      "fin": "2026-10-31T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportevision.jpg"
-    },
-    {
-      "titulo": "Culturalia",
-      "descripcion": "Un espacio de entrevistas a músicos de diversos estilos.",
-      "inicio": "2026-10-31T15:00:00",
-      "fin": "2026-10-31T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/culturalia.jpg"
-    },
-    {
-      "titulo": "El psicólogo de todos",
-      "descripcion": "Un espacio que aborda ciencia, metafísica y diversos ámbitos de la salud mental para el bienestar de la sociedad actual, infancia, adolescencia, adultos y adultos mayores.",
-      "inicio": "2026-10-31T16:00:00",
-      "fin": "2026-10-31T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elpsicologodetodos.jpg"
-    },
-    {
-      "titulo": "Aventura 4x4",
-      "descripcion": "Programa de turismo aventura.",
-      "inicio": "2026-10-31T17:00:00",
-      "fin": "2026-10-31T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aventura4x4.jpg"
-    },
-    {
-      "titulo": "Aires de Chile",
-      "descripcion": "Una celebración y exploración de la rica cultura y tradiciones de Chile, con una combinación única de historia, música y entrevistas con personajes culturales.",
-      "inicio": "2026-10-31T17:30:00",
-      "fin": "2026-10-31T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/airesdechile.jpg"
-    },
-    {
-      "titulo": "Gente",
-      "descripcion": "Un programa de turismo, gastronomía, hotelería, cultura, salud, belleza, diseño, arquitectura, temas empresariales y reportajes.",
-      "inicio": "2026-10-31T18:00:00",
-      "fin": "2026-10-31T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/gente.jpg"
-    },
-    {
-      "titulo": "Emprendimientos con inteligencia",
-      "descripcion": "Espacio enfocado en compartir historias de gestión, innovación, crecimiento y desafíos de distintos empresarios y líderes en Chile.",
-      "inicio": "2026-10-31T19:00:00",
-      "fin": "2026-10-31T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/emprendimientosconinteligencia.jpg"
-    },
-    {
-      "titulo": "Digital bank",
-      "descripcion": "Espacio para actualizarse con las tendencias, tecnologías e innovaciones de la industria financiera.",
-      "inicio": "2026-10-31T20:00:00",
-      "fin": "2026-10-31T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/digitalbank.jpg"
-    },
-    {
-      "titulo": "¿De qué lado estás?",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-10-31T21:00:00",
-      "fin": "2026-10-31T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dequeladoestas.jpg"
-    },
-    {
-      "titulo": "Película",
-      "descripcion": "Construir vínculos, experimentar nuevos lugares, reflexionar desde el amor, abrazar el dolor, seducir los cuerpos, de-construir las miradas, abandonar la culpa, crear identidades, habitar los huecos, potenciar la conciencia, encontrarse a sí mismo, soltar vínculos.  Creating bonds, experimenting new places, reflecting from love, embracing the pain, seducing the bodies, deconstructing the looks, giving up guilt, creating identities, inhabiting the empty places, strengthening the conscience, finding yourself, letting the bonds go.",
-      "inicio": "2026-10-31T22:00:00",
-      "fin": "2026-11-01T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pelicula.jpg"
     },
     {
       "titulo": "Mundos vibrantes",
       "descripcion": "Programa de entrevistas de temas de interés.",
-      "inicio": "2026-11-01T00:00:00",
-      "fin": "2026-11-01T00:30:00",
+      "inicio": "2026-11-01T17:00:00",
+      "fin": "2026-11-01T17:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundosvibrantes.jpg"
     },
     {
-      "titulo": "PIT tech talk",
-      "descripcion": "Programa semanal lleno de emoción y conocimientos sobre el fascinante mundo de la tecnología, las redes y las últimas noticias de conectividad.",
-      "inicio": "2026-11-01T00:30:00",
-      "fin": "2026-11-01T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pittechtalk.jpg"
+      "titulo": "Aventura 4x4",
+      "descripcion": "Programa de turismo aventura.",
+      "inicio": "2026-11-01T17:30:00",
+      "fin": "2026-11-01T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aventura4x4.jpg"
     },
     {
-      "titulo": "Circuito nacional",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-01T01:00:00",
-      "fin": "2026-11-01T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/circuitonacional.jpg"
+      "titulo": "La revancha",
+      "descripcion": "Programa de entrevistas a emprendedores y artistas. Historias reales con conversaciones honestas.",
+      "inicio": "2026-11-01T18:00:00",
+      "fin": "2026-11-01T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larevancha.jpg"
     },
     {
-      "titulo": "Investigación Ovni Chile",
-      "descripcion": "Un programa especializado y dedicado a la realidad OVNI con temas como la metafísica, el despertar de la conciencia y actividad paranormal.",
-      "inicio": "2026-11-01T02:00:00",
-      "fin": "2026-11-01T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/investigacionovnichile.jpg"
+      "titulo": "UCV TV",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-11-01T19:00:00",
+      "fin": "2026-11-01T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0108_fallback.jpg"
     },
     {
-      "titulo": "Sin límites: Descubriendo Suecia",
-      "descripcion": "El conocimiento sobre el estilo de vida chileno en Suecia y los beneficios que tienen ambas culturas a través de contenido auténtico y personal.",
-      "inicio": "2026-11-01T03:00:00",
-      "fin": "2026-11-01T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinlimitesdescubriendosuecia.jpg"
+      "titulo": "UCV TV",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-11-01T23:00:00",
+      "fin": "2026-11-02T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0108_fallback.jpg"
     },
     {
-      "titulo": "De igual a igual",
-      "descripcion": "Programa de conversación inclusivo donde se recibe a distintas personalidades del quehacer nacional.",
-      "inicio": "2026-11-01T04:00:00",
-      "fin": "2026-11-01T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deigualaigual.jpg"
+      "titulo": "UCV TV",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-11-02T03:00:00",
+      "fin": "2026-11-02T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0108_fallback.jpg"
     },
     {
-      "titulo": "Series católicas",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-01T05:00:00",
-      "fin": "2026-11-01T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/seriescatolicas.jpg"
+      "titulo": "UCV TV",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-11-02T07:00:00",
+      "fin": "2026-11-02T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0108_fallback.jpg"
     },
     {
-      "titulo": "Pipiripao",
-      "descripcion": "Espacio que mezcla segmentos con diferentes personajes y series animadas infantiles, principalmente de origen japonés, dibujos animados de origen estadounidense y creaciones de Hanna-Barbera.",
-      "inicio": "2026-11-01T06:00:00",
-      "fin": "2026-11-01T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pipiripao.jpg"
-    },
-    {
-      "titulo": "Clickciber",
-      "descripcion": "Espacio dedicado a la difusión de información sobre ciberseguridad, inteligencia artificial y tecnología.",
-      "inicio": "2026-11-01T07:00:00",
-      "fin": "2026-11-01T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clickciber.jpg"
-    },
-    {
-      "titulo": "Series católicas",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-01T08:00:00",
-      "fin": "2026-11-01T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/seriescatolicas.jpg"
-    },
-    {
-      "titulo": "De igual a igual",
-      "descripcion": "Programa de conversación inclusivo donde se recibe a distintas personalidades del quehacer nacional.",
-      "inicio": "2026-11-01T09:00:00",
-      "fin": "2026-11-01T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deigualaigual.jpg"
-    },
-    {
-      "titulo": "Terra santa news",
-      "descripcion": "Un resumen semanal de noticias al servicio de la Iglesia en Tierra Santa.",
-      "inicio": "2026-11-01T10:00:00",
-      "fin": "2026-11-01T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/terrasantanews.jpg"
-    },
-    {
-      "titulo": "Rutas de un magallánico",
-      "descripcion": "Este programa sumerge al público en un mundo de viajes para explorar distintas reservas naturales, fauna, vegetación y ciudades del mundo.",
-      "inicio": "2026-11-01T10:30:00",
-      "fin": "2026-11-01T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rutasdeunmagallanico.jpg"
+      "titulo": "UCV TV",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-11-02T11:00:00",
+      "fin": "2026-11-02T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0108_fallback.jpg"
     }
   ]
 }

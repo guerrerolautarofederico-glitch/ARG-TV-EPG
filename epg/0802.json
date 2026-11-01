@@ -1,94 +1,115 @@
 {
   "actual": {
-    "titulo": "No Way, José",
-    "descripcion": "Jose Stern (Adam Goldberg), un músico de 40 años entra en crisis en su relación de noviazgo. Cuando Dusty (Ahna O'Reilly), su novia descubre su secreto oscuro, ella lo echa de su vida. Sin muchas opciones, Jose se ve obligado a permanecer en casa de un amigo suyo, el cual está casado y tiene hijos. Como se va desesperando, va pidiendo ayuda a todos sus conocidos.",
-    "inicio": "2026-10-31T09:50:00",
-    "fin": "2026-10-31T11:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nowayjose.jpg"
+    "titulo": "Nuestra última aventura",
+    "descripcion": "Ella y John están compartiendo un viaje tanto con momentos de alegría como de angustia, van recobrando así su pasión por la vida y su amor por los demás. Esto les hace replantearse, durante su aventura, cómo se ven el uno al otro.",
+    "inicio": "2026-11-01T11:35:00",
+    "fin": "2026-11-01T13:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Buscando..",
-    "descripcion": "Después de que la hija de 16 años de David Kim desaparece, se abre una investigación policial. Pero 37 horas más tarde y sin una sola pista, David decide buscar en el único lugar donde nadie ha buscado todavía.",
-    "inicio": "2026-10-31T11:30:00",
-    "fin": "2026-10-31T13:15:00",
+    "titulo": "Life: Vida inteligente",
+    "descripcion": "Un equipo de científicos a bordo de la Estación Espacial Internacional descubre una forma de vida en rápida evolución que causó la extinción en Marte y ahora amenaza a la tripulación y toda la vida en la Tierra.",
+    "inicio": "2026-11-01T13:30:00",
+    "fin": "2026-11-01T15:20:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
+      "titulo": "Nuestra última aventura",
+      "descripcion": "Ella y John están compartiendo un viaje tanto con momentos de alegría como de angustia, van recobrando así su pasión por la vida y su amor por los demás. Esto les hace replantearse, durante su aventura, cómo se ven el uno al otro.",
+      "inicio": "2026-11-01T11:35:00",
+      "fin": "2026-11-01T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Life: Vida inteligente",
+      "descripcion": "Un equipo de científicos a bordo de la Estación Espacial Internacional descubre una forma de vida en rápida evolución que causó la extinción en Marte y ahora amenaza a la tripulación y toda la vida en la Tierra.",
+      "inicio": "2026-11-01T13:30:00",
+      "fin": "2026-11-01T15:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Frágil",
+      "descripcion": "Venus (Muriel) tiene 25 años, es dulce, romántica, pero no muy atractiva. Vive con su estoico padre en un aislado valle del norte. Allí trabajan el campo y fabrican miel de flores. Su relación siempre ha sido cordial, pero nada cariñosa. Cuando Venus tenía 9 años, un niño le dio el primer y único beso, y los dos se juraron amor eterno. Desde entonces, día tras día, ella espera en vano su regreso. Cuando una mañana el padre aparece muerto, Venus abandona su casa y va en busca del amor perdido. Por el camino conoce a David (Julio Perillán), un joven actor, magnético y arrogante, que espera el comienzo del rodaje de una superproducción de Hollywood de la que será protagonista, \"Dark tale\". La idea de empezar a ser deseado y querido por millones lo tiene fascinado. Al lado de David, Venus sentirá que su búsqueda ha terminado, aunque el mundo real no sea exactamente igual que los cuentos que ella leía de niña. (FILMAFFINITY)",
+      "inicio": "2026-11-01T15:20:00",
+      "fin": "2026-11-01T17:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fragil.jpg"
+    },
+    {
+      "titulo": "Reporte clasificado",
+      "descripcion": "Daniel Jones es el principal investigador del estudio que el Senado de los Estados Unidos realizó en el programa de \"Interrogación y Detención\" de la CIA.",
+      "inicio": "2026-11-01T17:20:00",
+      "fin": "2026-11-01T19:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Comando especial",
+      "descripcion": "Se narra la conocida como \"Batalla de Inchon\", un episodio del final de la Segunda Guerra Mundial durante la invasión anfibia de Corea. Resultó una victoria decisiva y una inversión estratégica a favor de las fuerzas aliadas. La operación llevó a la reconquista de la capital surcoreana de Seúl en un plazo de dos semanas.",
+      "inicio": "2026-11-01T19:25:00",
+      "fin": "2026-11-01T21:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comandoespecial.jpg"
+    },
+    {
+      "titulo": "Sociedad café",
+      "descripcion": "Bobby Dorfman se traslada de Nueva York a Los Ángeles con la idea de hacerse un hueco en el mundo del cine a través de los contactos de su tío. Allí conoce a Vonnie, la guapa secretaria y amante de su tío, y se enamora perdidamente de ella.",
+      "inicio": "2026-11-01T21:20:00",
+      "fin": "2026-11-01T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El círculo",
+      "descripcion": "El asesinato de una famosa actriz revela una caja de Pandora de secretos y espionaje que amenaza con destruir la vida de cuatro amigos de la infancia.",
+      "inicio": "2026-11-01T23:00:00",
+      "fin": "2026-11-02T00:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcirculo.jpg"
+    },
+    {
+      "titulo": "Los voyeristas",
+      "descripcion": "Pippa y Thomas se mudan al apartamento de sus sueños y notan que sus ventanas dan al apartamento de enfrente, lo que les permite presenciar la relación volátil de la atractiva pareja al otro lado de la calle.",
+      "inicio": "2026-11-02T00:55:00",
+      "fin": "2026-11-02T02:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Diario de una adolescente",
+      "descripcion": "Jamie (Kay Panabaker) es una chica de 14 años que se siente insegura de sí misma, y su entorno no la ayuda demasiado. En casa está rodeada de fotos de chicas con físico perfecto, y en el colegio hay un grupito que la molesta con comentarios sarcásticos. Jamie descarga todas sus frustraciones en su diario, en el que inventa las aventuras de una superheroína que ella misma ha creado y que es su alter ego. Todo cambiará cuando un editor lee este diario y decide publicarlo.",
+      "inicio": "2026-11-02T02:55:00",
+      "fin": "2026-11-02T04:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/diariodeunaadolescente.jpg"
+    },
+    {
+      "titulo": "El extraño",
+      "descripcion": "La vida de un pueblo coreano es trastornada por una serie de asesinatos, salvajes y misteriosos, que azota por casualidad a la pequeña comunidad rural. Los rumores y las supersticiones se propagan a causa de la presencia, desde hace poco tiempo, de un anciano extranjero que vive como un ermita. Ante la incompetencia de la policía para encontrar al asesino y sin tener una explicación racional, algunos habitantes del pueblo buscan a un chamán. Jong-gu, un policía cuya familia está directamente amenazada, también cree que se trata de crímenes sobrenaturales…",
+      "inicio": "2026-11-02T04:40:00",
+      "fin": "2026-11-02T06:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elextrano.jpg"
+    },
+    {
+      "titulo": "El francotirador: La última masacre",
+      "descripcion": "El jefe colombiano de la droga Jesús Morales paga secretamente los servicios de un francotirador apodado \"El Diablo\", capaz de matar uno a uno los enemigos de quien lo contrata.",
+      "inicio": "2026-11-02T06:20:00",
+      "fin": "2026-11-02T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un monstruo en París",
+      "descripcion": "Hacia 1910, en París, una extraña criatura tiene aterrorizada a la población. Emilio y Raúl, dos hombres que no tienen nada en común y no muy predispuestos a la aventura, emprenden la caza del monstruo. Gracias a esta misión lograrán encontrarse a sí mismos, descubrir el amor y romper con toda clase de prejuicios, lo que les lleva a albergar dudas sobre la verdadera naturaleza de ese extraño ser.",
+      "inicio": "2026-11-02T08:00:00",
+      "fin": "2026-11-02T09:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/unmonstruoenparis.jpg"
+    },
+    {
       "titulo": "No Way, José",
       "descripcion": "Jose Stern (Adam Goldberg), un músico de 40 años entra en crisis en su relación de noviazgo. Cuando Dusty (Ahna O'Reilly), su novia descubre su secreto oscuro, ella lo echa de su vida. Sin muchas opciones, Jose se ve obligado a permanecer en casa de un amigo suyo, el cual está casado y tiene hijos. Como se va desesperando, va pidiendo ayuda a todos sus conocidos.",
-      "inicio": "2026-10-31T09:50:00",
-      "fin": "2026-10-31T11:30:00",
+      "inicio": "2026-11-02T09:35:00",
+      "fin": "2026-11-02T11:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nowayjose.jpg"
     },
     {
-      "titulo": "Buscando..",
-      "descripcion": "Después de que la hija de 16 años de David Kim desaparece, se abre una investigación policial. Pero 37 horas más tarde y sin una sola pista, David decide buscar en el único lugar donde nadie ha buscado todavía.",
-      "inicio": "2026-10-31T11:30:00",
-      "fin": "2026-10-31T13:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "2012",
-      "descripcion": "El geólogo Adrian Helmsley, descubre de que el núcleo de la Tierra se está calentando. Teme que la corteza se vuelva inestable, coincidiendo con las predicciones mayas del fin del mundo. Entre tanto, los líderes del mundo \"venden\" plazas para escapar del cataclismo. El escritor Curtis Jackson tropieza con esa información... y luchará por salvar a su familia mientras el suelo se hunde bajo sus pies, y los terremotos y las erupciones volcánicas destruyen el mundo tal y como lo conocemos.",
-      "inicio": "2026-10-31T13:15:00",
-      "fin": "2026-10-31T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/2012.jpg"
-    },
-    {
-      "titulo": "Mi amigo Dahmer",
-      "descripcion": "Jeff Dahmer es un adolescente fuera de lugar luchando para sobrevivir a la escuela secundaria con una vida familiar en ruinas. Recoge animales atropellados, se fija en un corredor de barrio, y se enfrenta a su inestable madre y su bien intencionado padre. Pronto comienza a portarse mal en el instituto, y sus gamberradas estúpidas ganan adeptos hasta crear una banda llamada The Dahmer Fan Club, dirigida por Derf Backderf . Pero esta camaradería no puede ocultar su creciente depravación. Al acercarse a la graduación, Jeff se mueve en espiral hacia la pérdida de control, acercándose cada vez más a la locura.",
-      "inicio": "2026-10-31T16:00:00",
-      "fin": "2026-10-31T17:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miamigodahmer.jpg"
-    },
-    {
-      "titulo": "Desaparecida",
-      "descripcion": "Las románticas vacaciones de Alice Monroe en el sur de Francia se convierten en un peligroso misterio cuando su novio Tom Parker desaparece de un tren hacia Arles, obligándola a descubrir verdades ocultas sobre su pasado.",
-      "inicio": "2026-10-31T17:45:00",
-      "fin": "2026-10-31T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/desaparecida.jpg"
-    },
-    {
-      "titulo": "El color que cayó del cielo",
-      "descripcion": "Nathan y su familia se mudan al campo en busca de una vida más tranquila. Pero un meteorito cae en su patio trasero y extraños sucesos comienzan a afectar la mente de la gente.",
-      "inicio": "2026-10-31T19:30:00",
-      "fin": "2026-10-31T21:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcolorquecayodelcielo.jpg"
-    },
-    {
-      "titulo": "Chucky, el muñeco diabólico",
-      "descripcion": "Un asesino se esconde en una juguetería, antes de ser ultimado utiliza un ritual vudú y entra en uno de los muñecos que va a parar a manos de Andy Barklay, un niño al que nadie le cree que su muñeco está poseído.",
-      "inicio": "2026-10-31T21:20:00",
-      "fin": "2026-10-31T22:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Maligno",
-      "descripcion": "Madison es una mujer que tiene unas macabras pesadillas que la dejan completamente paralizada. Aterrada por lo que ve en ellas, Madison no consigue dormir por las noches ni vivir por el día. Pero el terror cada vez se irá apoderando de ella cuando descubra que esas pesadillas no son sueños, sino que son hechos de la vida real.",
-      "inicio": "2026-10-31T22:50:00",
-      "fin": "2026-11-01T00:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/maligno.jpg"
-    },
-    {
-      "titulo": "Madre oscura",
-      "descripcion": "Ben, un adolescente amargado por el divorcio de sus padres, pasa el verano con su padre en la costa para aprender a obedecer a los adultos. Sin embargo, el chico descubre que una bruja milenaria ha poseído a la vecina y pretende matarlo para que nadie averigüe lo que está sucediendo.",
-      "inicio": "2026-11-01T00:25:00",
-      "fin": "2026-11-01T02:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/madreoscura.jpg"
-    },
-    {
-      "titulo": "DHE",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-01T02:25:00",
-      "fin": "2026-11-01T02:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DHE",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-01T02:25:00",
-      "fin": "2026-11-01T14:00:00",
+      "titulo": "Malas enseñanzas",
+      "descripcion": "Elizabeth es una profesora despiadada, grosera, malhablada e irresponsable: bebe, se droga y sólo piensa en encontrar un buen partido para poder dejar de trabajar. Cuando su prometido la deja, intentará conquistar a un rico profesor.",
+      "inicio": "2026-11-02T11:15:00",
+      "fin": "2026-11-02T12:55:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

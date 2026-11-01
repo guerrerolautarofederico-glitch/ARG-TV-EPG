@@ -1,109 +1,95 @@
 {
   "actual": {
-    "titulo": "Castle • Fidelis Ad Mortem",
-    "descripcion": "Fidelis Ad Mortem | Beckett debe regresar a su antiguo campo de entrenamiento para investigar la muerte de un oficial de reclutamiento. Mientras tanto, Castle debe tomar una decisión que tendría profundas consecuencias para él y para Beckett.",
-    "inicio": "2026-10-31T09:53:00",
-    "fin": "2026-10-31T23:15:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/castle.jpg"
-  },
-  "siguiente": {
-    "titulo": "Mi Amigo Enzo",
-    "descripcion": "Un ingenioso perro llamado Enzo rememora las lecciones que ha aprendido de su amigo humano Denny, un piloto de carreras que aspiraba llegar a la Fórmula Uno.",
-    "inicio": "2026-10-31T23:15:00",
-    "fin": "2026-11-01T01:37:00",
+    "titulo": "Me enamoré de una sirena",
+    "descripcion": "Luego de sufrir una decepción amorosa, un bien parecido neoyorquino naufraga en las aguas de una costa y es rescatado por una mujer de la que se enamora, llevándola a vivir con él. Lo que no se imagina es que tiene por novia a una sirena.",
+    "inicio": "2026-11-01T09:00:00",
+    "fin": "2026-11-02T00:12:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
+  "siguiente": {
+    "titulo": "Tolkien",
+    "descripcion": "Inglaterra, principios del siglo XX. El futuro escritor y filólogo John Ronald Reuel Tolkien (1892-1973) y tres de sus compañeros de escuela crean un fuerte vínculo entre ellos al compartir la misma pasión por la literatura y el arte, una verdadera hermandad que se fortalece a medida que crecen; pero el estallido de la Primera Guerra Mundial amenaza con destruirla.",
+    "inicio": "2026-11-02T00:12:00",
+    "fin": "2026-11-02T02:23:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tolkien.jpg"
+  },
   "lista": [
-    {
-      "titulo": "Castle • Fidelis Ad Mortem",
-      "descripcion": "Fidelis Ad Mortem | Beckett debe regresar a su antiguo campo de entrenamiento para investigar la muerte de un oficial de reclutamiento. Mientras tanto, Castle debe tomar una decisión que tendría profundas consecuencias para él y para Beckett.",
-      "inicio": "2026-10-31T09:53:00",
-      "fin": "2026-10-31T23:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/castle.jpg"
-    },
-    {
-      "titulo": "Mi Amigo Enzo",
-      "descripcion": "Un ingenioso perro llamado Enzo rememora las lecciones que ha aprendido de su amigo humano Denny, un piloto de carreras que aspiraba llegar a la Fórmula Uno.",
-      "inicio": "2026-10-31T23:15:00",
-      "fin": "2026-11-01T01:37:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Victor Frankenstein",
-      "descripcion": "El científico Victor Frankenstein y su brillante protegido, Igor Strausman, comparten la noble misión de ayudar a la humanidad a partir de una detonante investigación sobre la inmortalidad. Sin embargo, las cosas no saldrán como esperaban.",
-      "inicio": "2026-11-01T01:37:00",
-      "fin": "2026-11-01T01:54:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/victorfrankenstein.jpg"
-    },
-    {
-      "titulo": "Correr o morir",
-      "descripcion": "Es el año 2024. Cuando Thomas despierta, se encuentra en un ascensor sin recordar quién es. De pronto, el elevador se detiene, éste se abre y una multitud de chicos lo recibe. Ha llegado al \"Claro\".",
-      "inicio": "2026-11-01T01:54:00",
-      "fin": "2026-11-01T04:01:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Terminator: Destino oculto",
-      "descripcion": "Sarah Connor une todas sus fuerzas con una mujer cyborg para proteger a una joven de un extremadamente poderoso y nuevo Terminator.",
-      "inicio": "2026-11-01T04:01:00",
-      "fin": "2026-11-01T04:13:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/terminatordestinooculto.jpg"
-    },
-    {
-      "titulo": "El Chicano",
-      "descripcion": "Un par de hermanos gemelos del este de Los Ángeles eligen vivir sus vidas de manera diferente y terminan en lados opuestos de la ley.",
-      "inicio": "2026-11-01T04:13:00",
-      "fin": "2026-11-01T05:56:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchicano.jpg"
-    },
-    {
-      "titulo": "Castle • For Better or Worse",
-      "descripcion": "For Better or Worse | Se aproxima la esperada boda entre Castle y Beckett, cuando una sorpresa amenaza con arruinar su gran día. Ambos se ven obligados a participar en una investigación en la que tendrán que lidiar con un carismático hombre del pasado de Kate.",
-      "inicio": "2026-11-01T05:56:00",
-      "fin": "2026-11-01T06:39:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/castle.jpg"
-    },
-    {
-      "titulo": "Castle • Desaparecido",
-      "descripcion": "Desaparecido | Beckett se enfrenta al caso más difícil de su carrera luego de encontrar el auto de Castle envuelto en llamas.",
-      "inicio": "2026-11-01T06:39:00",
-      "fin": "2026-11-01T06:44:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/castle.jpg"
-    },
-    {
-      "titulo": "Maze Runner: La cura mortal",
-      "descripcion": "Junto a su grupo de Gladers, Thomas debe entrar en la legendaria Last City, el laberinto más mortífero de todos, que es manejado por la organización CRUEL. Quien salga de ahí con vida conocerá la verdad acerca de los laberintos.",
-      "inicio": "2026-11-01T06:44:00",
-      "fin": "2026-11-01T07:22:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Castle • Montreal",
-      "descripcion": "Montreal | Mientras el equipo investiga el asesinato de un CEO de una compañía de juguetes, Castle descubre una pista de su misteriosa desaparición y lo lanza a una peligrosa investigación por su cuenta.",
-      "inicio": "2026-11-01T07:22:00",
-      "fin": "2026-11-01T08:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/castle.jpg"
-    },
-    {
-      "titulo": "Castle • Desaparecido",
-      "descripcion": "Desaparecido | Beckett se enfrenta al caso más difícil de su carrera luego de encontrar el auto de Castle envuelto en llamas.",
-      "inicio": "2026-11-01T08:05:00",
-      "fin": "2026-11-01T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/castle.jpg"
-    },
     {
       "titulo": "Me enamoré de una sirena",
       "descripcion": "Luego de sufrir una decepción amorosa, un bien parecido neoyorquino naufraga en las aguas de una costa y es rescatado por una mujer de la que se enamora, llevándola a vivir con él. Lo que no se imagina es que tiene por novia a una sirena.",
       "inicio": "2026-11-01T09:00:00",
-      "fin": "2026-11-01T09:54:00",
+      "fin": "2026-11-02T00:12:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "ODessa",
-      "descripcion": "Hamburgo, 1963. Después del suicidio de un viejo judío, su diario cae en manos de Peter Miller, un joven periodista freelance. Se trata de un testimonio de los inconcebibles y crueles crímenes cometidos por el capitán de las SS Eduard Roschmann, comandante del tristemente célebre campo de exterminio de Riga (Letonia). Al parecer, Roschmann vive en algún lugar de Hamburgo con una identidad falsa, pero Miller está decidido a encontrarlo como sea.",
-      "inicio": "2026-11-01T09:54:00",
-      "fin": "2026-11-02T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/odessa.jpg"
+      "titulo": "Tolkien",
+      "descripcion": "Inglaterra, principios del siglo XX. El futuro escritor y filólogo John Ronald Reuel Tolkien (1892-1973) y tres de sus compañeros de escuela crean un fuerte vínculo entre ellos al compartir la misma pasión por la literatura y el arte, una verdadera hermandad que se fortalece a medida que crecen; pero el estallido de la Primera Guerra Mundial amenaza con destruirla.",
+      "inicio": "2026-11-02T00:12:00",
+      "fin": "2026-11-02T02:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tolkien.jpg"
+    },
+    {
+      "titulo": "La primera profecía",
+      "descripcion": "Cuando una joven estadounidense es enviada a Roma para iniciar una vida de servicio a la Iglesia, se topa con una oscuridad que pone en cuestión su propia fe y descubre una conspiración aterradora que espera provocar el nacimiento de la encarnación del mal. Una precuela de 'La profecía'.",
+      "inicio": "2026-11-02T02:23:00",
+      "fin": "2026-11-02T02:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laprimeraprofecia.jpg"
+    },
+    {
+      "titulo": "Maze Runner: La cura mortal",
+      "descripcion": "Junto a su grupo de Gladers, Thomas debe entrar en la legendaria Last City, el laberinto más mortífero de todos, que es manejado por la organización CRUEL. Quien salga de ahí con vida conocerá la verdad acerca de los laberintos.",
+      "inicio": "2026-11-02T02:40:00",
+      "fin": "2026-11-02T04:48:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Amor sin barreras",
+      "descripcion": "Mientras dos bandas de jóvenes de diferentes etnias se disputan la ciudad por medio de una pelea, dos jóvenes de ambos grupos se enamoran. Pero, ¿qué es una pandilla sin su territorio? y ¿qué hay de esperanza sin amor?.",
+      "inicio": "2026-11-02T04:48:00",
+      "fin": "2026-11-02T05:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Gol gana",
+      "descripcion": "TODO DEPENDE DE ESTE MOMENTO  Después de un acto de corrupción por parte del gobierno mexicano , un equipo de futbo amateurl deberá pelear por una oportunidad en la primera división del fútbol mexicano",
+      "inicio": "2026-11-02T05:50:00",
+      "fin": "2026-11-02T07:16:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/golgana.jpg"
+    },
+    {
+      "titulo": "Sin rodeos",
+      "descripcion": "Paz tiene una vida aparentemente perfecta. Tiene trabajo, pareja, amigas… pero algo falla. Se siente angustiada y agobiada, hay algo que no funciona. En su desesperación acudirá a la consulta de un “sanador” indio Amil Narayan, que le ofrece la solución a sus problemas: una poción a base de plantas milenarias para liberar su tensión. La poción parece más potente de lo esperado. Paz se encuentra con un resultado sorprendente, convirtiéndose, tras ingerir accidentalmente todo el frasco, en una mujer \"sin filtro\"... Remake de la comedia \"Sin filtro\" del chileno Nicolás López. Primera película dirigida por Segura fuera de la saga \"Torrente\".",
+      "inicio": "2026-11-02T07:16:00",
+      "fin": "2026-11-02T08:13:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinrodeos.jpg"
+    },
+    {
+      "titulo": "Terminator: Destino oculto",
+      "descripcion": "Sarah Connor une todas sus fuerzas con una mujer cyborg para proteger a una joven de un extremadamente poderoso y nuevo Terminator.",
+      "inicio": "2026-11-02T08:13:00",
+      "fin": "2026-11-02T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/terminatordestinooculto.jpg"
+    },
+    {
+      "titulo": "Scrubs • Mi Na Na Na",
+      "descripcion": "Mi Na Na Na | Turk se inspira en un procedimiento experimental en un adolescente paralizado gracias a una noticia en SportsCenter, Jordan está enojado porque Perry lleva un anillo de bodas y el conserje piensa que su relación está en problemas.",
+      "inicio": "2026-11-02T09:00:00",
+      "fin": "2026-11-02T09:26:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/scrubs.jpg"
+    },
+    {
+      "titulo": "Scrubs • Mi ABC",
+      "descripcion": "Mi ABC | J.D, Elliot y Dr. Cox eligen a los internos que tendran bajo su ala lo que queda del año, solo para sentirse desepcionado por sus decisiones.",
+      "inicio": "2026-11-02T09:26:00",
+      "fin": "2026-11-02T09:51:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/scrubs.jpg"
+    },
+    {
+      "titulo": "Scrubs • Mis últimas palabras",
+      "descripcion": "Mis últimas palabras | J.D. y Turk dejan de lado su \"noche de filete\" para estar con un paciente moribundo que no tiene familia.",
+      "inicio": "2026-11-02T09:51:00",
+      "fin": "2026-11-02T22:42:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/scrubs.jpg"
     }
   ]
 }

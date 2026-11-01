@@ -1,115 +1,129 @@
 {
   "actual": {
-    "titulo": "SportsCenter",
-    "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-    "inicio": "2026-10-31T10:00:00",
-    "fin": "2026-10-31T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-  },
-  "siguiente": {
-    "titulo": "Tenis ATP • ATP 500: Basel & Vienna Semifinal",
-    "descripcion": "Estreno ║ ATP 500: Basel & Vienna Semifinal | Acción de las semifinales del ATP 500. Desde el Swiss Indoors en Basel, Suiza y el Erste Bank Open en Vienna, Austria.",
-    "inicio": "2026-10-31T11:00:00",
-    "fin": "2026-10-31T15:00:00",
+    "titulo": "Tenis ATP Erste Bank Open 2026 • Final",
+    "descripcion": "Estreno ║ Final | Desde el Wiener Stadthalle, en Viena, Austria.",
+    "inicio": "2026-11-01T10:00:00",
+    "fin": "2026-11-01T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
+  "siguiente": {
+    "titulo": "SportsCenter",
+    "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+    "inicio": "2026-11-01T12:00:00",
+    "fin": "2026-11-01T13:50:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+  },
   "lista": [
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-10-31T10:00:00",
-      "fin": "2026-10-31T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Tenis ATP • ATP 500: Basel & Vienna Semifinal",
-      "descripcion": "Estreno ║ ATP 500: Basel & Vienna Semifinal | Acción de las semifinales del ATP 500. Desde el Swiss Indoors en Basel, Suiza y el Erste Bank Open en Vienna, Austria.",
-      "inicio": "2026-10-31T11:00:00",
-      "fin": "2026-10-31T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-10-31T15:00:00",
-      "fin": "2026-10-31T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Fútbol Mexicano Primera División • Atlético San Luis vs Atlas",
-      "descripcion": "Atlético San Luis vs Atlas | Acción de la jornada 15 del Torneo Apertura 2026. San Luis busca puestos de liguilla y los Rojinegros los primeros lugares.",
-      "inicio": "2026-10-31T17:00:00",
-      "fin": "2026-10-31T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Acción de la NBA",
-      "descripcion": "Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.",
-      "inicio": "2026-10-31T19:00:00",
-      "fin": "2026-10-31T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/acciondelanba.jpg"
-    },
-    {
-      "titulo": "ESPN KnockOut • Legacy Fighting Alliance 245: Ansar Khamzaev vs Juliano Prescendo",
-      "descripcion": "Legacy Fighting Alliance 245: Ansar Khamzaev vs Juliano Prescendo | Ansar Khamzaev se enfrenta a Juliano Prescendo por el título de peso semipesado. Desde el Seneca Niagara Resort & Casino, en Nueva York, Estados Unidos.",
-      "inicio": "2026-10-31T19:30:00",
-      "fin": "2026-10-31T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espnknockout.jpg"
-    },
-    {
-      "titulo": "ESPN KnockOut • Eveling Ortega vs Alma Meraz",
-      "descripcion": "Eveling Ortega vs Alma Meraz | Eveling Ortega se enfrenta a Alma Meraz por el título mundial de peso minimosca. Desde el Centro de Convenciones Olof Palme, en Managua, Nicaragua.",
-      "inicio": "2026-10-31T21:30:00",
-      "fin": "2026-10-31T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espnknockout.jpg"
-    },
-    {
-      "titulo": "Carabao Cup Highlights",
-      "descripcion": "Lo mejor de la Copa Carabao.",
-      "inicio": "2026-10-31T23:30:00",
-      "fin": "2026-11-01T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/carabaocuphighlights.jpg"
-    },
-    {
-      "titulo": "Campeonato Mundial de MotoGP • Gran Premio de Malasia: Carrera principal",
-      "descripcion": "Estreno ║ Gran Premio de Malasia: Carrera principal | Cobertura de la carrera principal de la ronda 19 del 🏍️ [MotoGP] MotoGP 2026 con el Gran Premio de Malasia. Desde el Circuito Internacional de Sepang, Malasia.",
-      "inicio": "2026-11-01T00:00:00",
-      "fin": "2026-11-01T05:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-11-01T05:15:00",
-      "fin": "2026-11-01T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Fútbol picante",
-      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
-      "inicio": "2026-11-01T06:00:00",
-      "fin": "2026-11-01T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
-    },
-    {
-      "titulo": "Fútbol Serie A • AC Milan vs Inter de Milán",
-      "descripcion": "AC Milan vs Inter de Milán | Acción de la fecha 10. ⚽ [Serie A] AC Milan enfrenta a Inter de Milán. Desde San Siro. Edición 207 de el \"Derby della Madonnina\".",
-      "inicio": "2026-11-01T07:00:00",
-      "fin": "2026-11-01T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-11-01T09:00:00",
-      "fin": "2026-11-01T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
     {
       "titulo": "Tenis ATP Erste Bank Open 2026 • Final",
       "descripcion": "Estreno ║ Final | Desde el Wiener Stadthalle, en Viena, Austria.",
       "inicio": "2026-11-01T10:00:00",
       "fin": "2026-11-01T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-11-01T12:00:00",
+      "fin": "2026-11-01T13:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol Serie A • Lecce vs Genoa",
+      "descripcion": "Estreno ║ Lecce vs Genoa | Acción de la fecha 10. Lecce enfrenta a Genoa. Desde el Stadio Via del Mare. Ambos equipos buscan escalar en la zona de media tabla y aspirar a luchar por zonas de competiciones europeas.",
+      "inicio": "2026-11-01T13:50:00",
+      "fin": "2026-11-01T15:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Copa do Brasil • Palmeiras vs Vasco da Gama",
+      "descripcion": "Estreno ║ Palmeiras vs Vasco da Gama | Acción de la semifinal de ida de la Copa de Brasil 2026-27. Desde el Nubank Parque, en Sao Paulo, Brasil.",
+      "inicio": "2026-11-01T15:50:00",
+      "fin": "2026-11-01T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-11-01T18:00:00",
+      "fin": "2026-11-01T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol picante",
+      "descripcion": "Estreno ║ La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-11-01T19:00:00",
+      "fin": "2026-11-01T19:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "Fútbol Mexicano Primera División • Santos Laguna vs Necaxa",
+      "descripcion": "Estreno ║ Santos Laguna vs Necaxa | Acción de la jornada 15 del Torneo Apertura 2026. Santos busca liguilla y los Rayos su tercera victoria del torneo.",
+      "inicio": "2026-11-01T19:50:00",
+      "fin": "2026-11-01T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "UEFA Europa & Conference League Magazine",
+      "descripcion": "Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League y la UEFA Conference League.",
+      "inicio": "2026-11-01T22:00:00",
+      "fin": "2026-11-01T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/uefaeuropaconferenceleaguemagazine.jpg"
+    },
+    {
+      "titulo": "The Spirit of Yachting • Maxi Yacht Rolex Cup and Rolex Swan Cup 2026",
+      "descripcion": "Maxi Yacht Rolex Cup and Rolex Swan Cup 2026 | En septiembre, la Costa Esmeralda de Cerdeña fue el escenario de dos eventos del calendario de vela: la Maxi Yacht Rolex Cup, de carácter anual, y la Rolex Swan Cup, que se celebra cada dos años.",
+      "inicio": "2026-11-01T23:00:00",
+      "fin": "2026-11-01T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thespiritofyachting.jpg"
+    },
+    {
+      "titulo": "Golf",
+      "descripcion": "Acción de golf clásico de los archivos de ESPN.",
+      "inicio": "2026-11-01T23:30:00",
+      "fin": "2026-11-02T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/golf.jpg"
+    },
+    {
+      "titulo": "Fútbol picante",
+      "descripcion": "Estreno ║ La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-11-02T00:00:00",
+      "fin": "2026-11-02T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "Fútbol Mexicano Primera División • Puebla vs Pumas UNAM",
+      "descripcion": "Puebla vs Pumas UNAM | Acción de la jornada 15 del Torneo Apertura 2026. ⚽ [Liga MX] Puebla busca romper su racha de dos derrotas y ⚽ [Liga MX] Pumas ganar tras empatar.",
+      "inicio": "2026-11-02T02:00:00",
+      "fin": "2026-11-02T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol picante",
+      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-11-02T04:00:00",
+      "fin": "2026-11-02T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-11-02T05:00:00",
+      "fin": "2026-11-02T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "ESPN Tenis • Previa: Paris Masters",
+      "descripcion": "Previa: Paris Masters | Análisis previo del Rolex Paris Masters 2026, parte del ATP Masters 1000. Desde el Paris La Défense Arena, en Nanterre.",
+      "inicio": "2026-11-02T06:00:00",
+      "fin": "2026-11-02T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rolex Paris Masters 2026 • Primera ronda",
+      "descripcion": "Estreno ║ Primera ronda | Acción de la primera ronda del Rolex Paris Masters 2026. Desde la Paris La Défense Arena, en Nanterre, París.",
+      "inicio": "2026-11-02T07:00:00",
+      "fin": "2026-11-02T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
