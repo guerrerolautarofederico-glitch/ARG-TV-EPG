@@ -1,137 +1,144 @@
 {
   "actual": {
-    "titulo": "Cien gritos de terror",
-    "descripcion": "Filme de terror que posee dos cuentos:\n 1) Pánico (Una deuda de pánico): Thriller con elementos sobrenaturales, Julio y María Luisa viajan a la nueva casa de campo, de la que él está enamorado, pero ella odia el moblaje y todo el resto de la casa. La casa tiene una historia de tragedia familiar, y un fantasma aún deambula por la casa.\n 2) Miedo supremo (La cripta del terror): Drama de dos personas atrapadas en una cripta. El Prof. Medina Donnas visita el cementerio local y requiere visitar la cripta de su esposa, Elizabeth, fallecida más de seis meses atrás. Por un descuido, queda sellado dentro de la catacumba, y poco después escucha el llanto de una mujer, que será su compañera durante el encierro.",
-    "inicio": "2026-11-01T11:00:00",
-    "fin": "2026-11-01T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Hechos AM",
+    "descripcion": "Estreno ║ Las noticias más destacadas y la mejor información con entrevistas sobre temas de interés general.",
+    "inicio": "2026-11-02T12:00:00",
+    "fin": "2026-11-02T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechosam.jpg"
   },
   "siguiente": {
-    "titulo": "Hechos Domingo",
-    "descripcion": "Estreno ║ Un programa que aborda la información más relevante del fin de semana.",
-    "inicio": "2026-11-01T13:00:00",
-    "fin": "2026-11-01T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Venga la alegría",
+    "descripcion": "Estreno ║ Un programa de entretenimiento que aborda temas de interés personal como cocina, belleza, sexualidad, reflexiones, consejos y otros.",
+    "inicio": "2026-11-02T14:00:00",
+    "fin": "2026-11-02T18:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vengalaalegria.jpg"
   },
   "lista": [
     {
-      "titulo": "Cien gritos de terror",
-      "descripcion": "Filme de terror que posee dos cuentos:\n 1) Pánico (Una deuda de pánico): Thriller con elementos sobrenaturales, Julio y María Luisa viajan a la nueva casa de campo, de la que él está enamorado, pero ella odia el moblaje y todo el resto de la casa. La casa tiene una historia de tragedia familiar, y un fantasma aún deambula por la casa.\n 2) Miedo supremo (La cripta del terror): Drama de dos personas atrapadas en una cripta. El Prof. Medina Donnas visita el cementerio local y requiere visitar la cripta de su esposa, Elizabeth, fallecida más de seis meses atrás. Por un descuido, queda sellado dentro de la catacumba, y poco después escucha el llanto de una mujer, que será su compañera durante el encierro.",
-      "inicio": "2026-11-01T11:00:00",
-      "fin": "2026-11-01T13:00:00",
+      "titulo": "Hechos AM",
+      "descripcion": "Estreno ║ Las noticias más destacadas y la mejor información con entrevistas sobre temas de interés general.",
+      "inicio": "2026-11-02T12:00:00",
+      "fin": "2026-11-02T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechosam.jpg"
+    },
+    {
+      "titulo": "Venga la alegría",
+      "descripcion": "Estreno ║ Un programa de entretenimiento que aborda temas de interés personal como cocina, belleza, sexualidad, reflexiones, consejos y otros.",
+      "inicio": "2026-11-02T14:00:00",
+      "fin": "2026-11-02T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vengalaalegria.jpg"
+    },
+    {
+      "titulo": "Ventaneando",
+      "descripcion": "Estreno ║ La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.",
+      "inicio": "2026-11-02T18:00:00",
+      "fin": "2026-11-02T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Hechos Domingo",
-      "descripcion": "Estreno ║ Un programa que aborda la información más relevante del fin de semana.",
-      "inicio": "2026-11-01T13:00:00",
-      "fin": "2026-11-01T14:00:00",
+      "titulo": "Hechos Meridiano",
+      "descripcion": "Estreno ║ Las noticias en vivo con reportajes de corresponsales remotos.",
+      "inicio": "2026-11-02T19:00:00",
+      "fin": "2026-11-02T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Venga la alegría, fin de semana",
-      "descripcion": "Estreno ║ Edición de fin de semana del reconocido matutino, con todo el humor e información.",
-      "inicio": "2026-11-01T14:00:00",
-      "fin": "2026-11-01T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vengalaalegriafindesemana.jpg"
+      "titulo": "Al extremo",
+      "descripcion": "Estreno ║ Programa de televisión mexicano de nota roja, sucesos impactantes, notas insólitas y videos virales del mundo, conducido con un estilo dinámico y cercano al público..",
+      "inicio": "2026-11-02T20:00:00",
+      "fin": "2026-11-02T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alextremo.jpg"
     },
     {
-      "titulo": "Domingo al extremo",
-      "descripcion": "Estreno ║ Un programa periodístico que compila varios segmentos de noticias, las cuales tienen una cosa en común, estas son impactantes y asombrosas, algunas de estas noticias que se presentan son controversiales y algunas algo amarillistas. Una serie entretenida que dejará con la boca abierta a más de uno de sus espectadores, las noticias que se incluyen son sobre temas criminales, de salud, religiosos en el que se incluyen milagros y notas curiosas que son de interés público, entre otras, también se informa al público sobre los famosos que están haciendo noticia e información interesante sobre el mundo del entretenimiento.",
-      "inicio": "2026-11-01T18:00:00",
-      "fin": "2026-11-01T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/domingoalextremo.jpg"
-    },
-    {
-      "titulo": "100 Mexicanos VIP",
-      "descripcion": "Dos equipos formados por integrantes especiales tratan de descifrar las respuestas más populares a las preguntas lanzadas por el conductor.",
-      "inicio": "2026-11-01T20:00:00",
-      "fin": "2026-11-01T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "100 mexicanos",
-      "descripcion": "Dos equipos de cuatro integrantes capitaneados por una celebridad tratan de descifrar las respuestas más populares a las preguntas lanzadas por el conductor.",
-      "inicio": "2026-11-01T21:00:00",
-      "fin": "2026-11-01T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/100mexicanos.jpg"
-    },
-    {
-      "titulo": "¿Quién quiere ser millonario?",
-      "descripcion": "Entre el 22 de enero y el 11 de marzo de 2020, vuelve a emitirse en Antena 3, 11 años después, esta vez presentado por Juanra Bonet, con 8 programas especiales emitidos los miércoles sobre las 22:45, y con varias novedades: entre sus modificaciones, el comodín del familiar sustituye al comodín de la llamada y el concursante puede escoger su segundo seguro .4​ Al programa acudirán en esta ocasión algunos de los concursantes más importantes de la historia de los concursos de televisión.",
-      "inicio": "2026-11-01T22:00:00",
-      "fin": "2026-11-01T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/quienquieresermillonario.jpg"
+      "titulo": "Acércate a Rocío",
+      "descripcion": "Estreno ║ Hablar de los problemas es el primer paso para superarlos y, por eso, Rocío trae un programa único para hablar de las preocupaciones de cada día y, en conjunto, encontrar una solución.",
+      "inicio": "2026-11-02T21:30:00",
+      "fin": "2026-11-02T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/acercatearocio.jpg"
     },
     {
       "titulo": "Exatlón México",
       "descripcion": "Estreno ║ El nuevo reality show producido por TV Azteca en República Dominicana, y cuenta con la conducción de Antonio Rosique. Es una competencia deportiva de alto rendimiento físico en donde 20 participantes tendrán que poner a prueba su inteligencia, fuerza y coraje, y en donde al final solo habrá un ganador. Cada día, los atletas tendrán una competencia distinta en la cual pondrán a prueba su resistencia física, habilidad mental y destreza.",
-      "inicio": "2026-11-01T23:00:00",
-      "fin": "2026-11-02T01:00:00",
+      "inicio": "2026-11-02T23:30:00",
+      "fin": "2026-11-03T01:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/exatlonmexico.jpg"
     },
     {
       "titulo": "La granja VIP",
       "descripcion": "Estreno ║ Grandes figuras del espectáculo se someten a la dureza de la vida rural. Con retos físicos y mucha autenticidad.",
-      "inicio": "2026-11-02T01:00:00",
-      "fin": "2026-11-02T04:00:00",
+      "inicio": "2026-11-03T01:30:00",
+      "fin": "2026-11-03T03:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lagranjavip.jpg"
     },
     {
-      "titulo": "La Resolana",
-      "descripcion": "Estreno ║ Programa conducido por Carlos El Capi Pérez, trata sobre lo más controversial de La Isla de forma divertida. Es una forma diferente de ver lo que ocurre durante la semana en este Reality.",
-      "inicio": "2026-11-02T04:00:00",
-      "fin": "2026-11-02T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laresolana.jpg"
+      "titulo": "Hechos noche",
+      "descripcion": "Estreno ║ Información puntual de toda la jornada con investigación, reportajes y secciones que muestran los diferentes rostros del país, además de tecnología y deportes.",
+      "inicio": "2026-11-03T03:30:00",
+      "fin": "2026-11-03T04:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechosnoche.jpg"
     },
     {
-      "titulo": "Farmacias Similares",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-02T05:00:00",
-      "fin": "2026-11-02T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/farmaciassimilares.jpg"
+      "titulo": "Buenas noches con Anna Lu",
+      "descripcion": "Estreno ║ La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-03T04:15:00",
+      "fin": "2026-11-03T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buenasnochesconannalu.jpg"
+    },
+    {
+      "titulo": "Los Protagonistas",
+      "descripcion": "Estreno ║ Un grupo de comentaristas especializados analiza la situación del deporte en México y el mundo.",
+      "inicio": "2026-11-03T04:30:00",
+      "fin": "2026-11-03T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losprotagonistas.jpg"
     },
     {
       "titulo": "Inova",
       "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-      "inicio": "2026-11-02T05:30:00",
-      "fin": "2026-11-02T09:00:00",
+      "inicio": "2026-11-03T05:30:00",
+      "fin": "2026-11-03T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/inova.jpg"
     },
     {
       "titulo": "Barras de ajuste",
       "descripcion": "Programación por anunciarse.",
-      "inicio": "2026-11-02T09:00:00",
-      "fin": "2026-11-02T09:15:00",
+      "inicio": "2026-11-03T09:00:00",
+      "fin": "2026-11-03T09:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/barrasdeajuste.jpg"
     },
     {
       "titulo": "RTC",
       "descripcion": "Espacio del gobierno de México.",
-      "inicio": "2026-11-02T09:15:00",
-      "fin": "2026-11-02T09:30:00",
+      "inicio": "2026-11-03T09:15:00",
+      "fin": "2026-11-03T09:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rtc.jpg"
     },
     {
       "titulo": "Inova",
       "descripcion": "Un espacio en el que se muestra una variedad de productos que el televidente puede adquirir para su hogar.",
-      "inicio": "2026-11-02T09:30:00",
-      "fin": "2026-11-02T10:00:00",
+      "inicio": "2026-11-03T09:30:00",
+      "fin": "2026-11-03T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/inova.jpg"
     },
     {
       "titulo": "Farmacias Similares",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-02T10:00:00",
-      "fin": "2026-11-02T11:00:00",
+      "inicio": "2026-11-03T10:00:00",
+      "fin": "2026-11-03T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/farmaciassimilares.jpg"
     },
     {
       "titulo": "Hechos Contigo",
       "descripcion": "Estreno ║ Las buenas noticias, pero también los hechos que muestran la verdad del ámbito nacional e internacional.",
-      "inicio": "2026-11-02T11:00:00",
-      "fin": "2026-11-02T12:00:00",
+      "inicio": "2026-11-03T11:00:00",
+      "fin": "2026-11-03T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechoscontigo.jpg"
+    },
+    {
+      "titulo": "Hechos AM",
+      "descripcion": "Estreno ║ Las noticias más destacadas y la mejor información con entrevistas sobre temas de interés general.",
+      "inicio": "2026-11-03T12:00:00",
+      "fin": "2026-11-03T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechosam.jpg"
     }
   ]
 }
