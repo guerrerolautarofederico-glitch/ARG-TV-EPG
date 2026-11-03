@@ -1,115 +1,136 @@
 {
   "actual": {
-    "titulo": "El plan perfecto",
-    "descripcion": "Un grupo de empleados del almacén son estafados y acusados de robo. Ahora tienen que huir mientras elaboran un plan para revelar la verdad.",
-    "inicio": "2026-11-02T12:50:00",
-    "fin": "2026-11-02T15:05:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elplanperfecto.jpg"
-  },
-  "siguiente": {
     "titulo": "Misión: Imposible - Repercusión",
     "descripcion": "Un traficante de armas y un grupo de terroristas pretenden realizar un triple ataque nuclear con tres artefactos de plutonio, los cuales se pierden. Ethan Hunt y su equipo tendrán que recuperarlos antes de que caigan en las manos equivocadas.",
-    "inicio": "2026-11-02T15:05:00",
-    "fin": "2026-11-02T17:41:00",
+    "inicio": "2026-11-03T11:51:00",
+    "fin": "2026-11-03T14:25:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
+  "siguiente": {
+    "titulo": "El plan perfecto",
+    "descripcion": "Un grupo de empleados del almacén son estafados y acusados de robo. Ahora tienen que huir mientras elaboran un plan para revelar la verdad.",
+    "inicio": "2026-11-03T14:25:00",
+    "fin": "2026-11-03T16:45:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elplanperfecto.jpg"
+  },
   "lista": [
-    {
-      "titulo": "El plan perfecto",
-      "descripcion": "Un grupo de empleados del almacén son estafados y acusados de robo. Ahora tienen que huir mientras elaboran un plan para revelar la verdad.",
-      "inicio": "2026-11-02T12:50:00",
-      "fin": "2026-11-02T15:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elplanperfecto.jpg"
-    },
-    {
-      "titulo": "Misión: Imposible - Repercusión",
-      "descripcion": "Un traficante de armas y un grupo de terroristas pretenden realizar un triple ataque nuclear con tres artefactos de plutonio, los cuales se pierden. Ethan Hunt y su equipo tendrán que recuperarlos antes de que caigan en las manos equivocadas.",
-      "inicio": "2026-11-02T15:05:00",
-      "fin": "2026-11-02T17:41:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dunkerque",
-      "descripcion": "II Guerra Mundial. Cientos de miles de británicos y tropas aliadas están rodeados por las fuerzas enemigas. Atrapados en la playa con el mar a sus espaldas se enfrentan a una situación imposible mientras el enemigo se acerca. La película relata la Operación Dinamo, también conocida como el milagro de Dunkerque. Se trató de una operación de evacuación de las tropas aliadas en territorio francés, que tuvo lugar a finales de mayo de 1940. La operación permitió el rescate de más de 200.000 soldados británicos y más de 100.000 franceses y belgas.",
-      "inicio": "2026-11-02T17:41:00",
-      "fin": "2026-11-02T19:32:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dunkerque.jpg"
-    },
-    {
-      "titulo": "Furia salvaje",
-      "descripcion": "Gino Felino, un detective de policía de Brooklyn, recibe una llamada comunicándole que su mejor amigo ha sido asesinado por el capo mafioso Richie Madano. Gino emprenderá una furiosa caza en busca de Madano, que campa descontrolado por la ciudad.",
-      "inicio": "2026-11-02T19:32:00",
-      "fin": "2026-11-02T21:08:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Terreno salvaje",
-      "descripcion": "Un exagente de la CIA desafía a una compañía petrolera por el uso de un equipo deficiente que amenaza la vida y el medio ambiente.",
-      "inicio": "2026-11-02T21:08:00",
-      "fin": "2026-11-02T23:01:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Infierno bajo tierra",
-      "descripcion": "Thomas 'Jack' Jackman (Adrian Paul), un experto en seguridad, es enviado a un campamento científico remoto a investigar extraños sucesos que están teniendo lugar en la zona. Cuando llega allí, la atractiva Dra. Christianson (Kate Nauta) le informa que el líder del proyecto científico ha sido asesinado, y que otro doctor murió aparentemente de un ataque cardiaco.",
-      "inicio": "2026-11-02T23:01:00",
-      "fin": "2026-11-03T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/infiernobajotierra.jpg"
-    },
-    {
-      "titulo": "Megalodón 2: El gran abismo",
-      "descripcion": "Jonás Taylor lidera un equipo de investigación en las profundidades del océano. Acorralados por colosales tiburones prehistóricos y despiadados bandidos, los científicos intentan sobrevivir a toda costa.",
-      "inicio": "2026-11-03T01:00:00",
-      "fin": "2026-11-03T03:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megalodon2elgranabismo.jpg"
-    },
-    {
-      "titulo": "Anaconda",
-      "descripcion": "Doug y Griff son muy buenos amigos desde que eran niños y siempre han soñado con hacer un remake de su película favorita de todos los tiempos: el «clásico cinematográfico» Anaconda. Cuando una crisis de mediana edad les anima a lanzarse por fin a la aventura, se adentran en la selva amazónica para empezar a rodar. Pero las cosas se ponen serias cuando aparece una anaconda gigante de verdad, convirtiendo su caótico y cómico plató de rodaje en una situación mortal.",
-      "inicio": "2026-11-03T03:05:00",
-      "fin": "2026-11-03T04:36:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/anaconda.jpg"
-    },
-    {
-      "titulo": "Atómica",
-      "descripcion": "En un futuro cercano, cuando los sistemas de comunicación se desconectan en una central nuclear aislada en el desierto, un joven inspector de seguridad, Abby Dixon, se ve obligada a ir hasta allí para restablecer las comunicaciones. Una vez en las instalaciones de la central, se da cuenta de que allí sucede algo misterioso.",
-      "inicio": "2026-11-03T04:36:00",
-      "fin": "2026-11-03T06:32:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/atomica.jpg"
-    },
-    {
-      "titulo": "Largo viaje hacia la noche",
-      "descripcion": "Luo Hongwu vuelve a su ciudad natal en busca de la mujer a la que siempre ha amado. Años atrás huyó y, ahora que ha vuelto a Kaili, la única pista que tiene es el nombre de ella: Wan Quiwen.",
-      "inicio": "2026-11-03T06:32:00",
-      "fin": "2026-11-03T08:49:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hollywood One on One",
-      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
-      "inicio": "2026-11-03T08:49:00",
-      "fin": "2026-11-03T09:11:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hollywoodoneonone.jpg"
-    },
-    {
-      "titulo": "Ten cuidado a quién llamas",
-      "descripcion": "Seis amigos atraen la atención de una presencia demoníaca durante una sesión en línea y comienzan a notar sucesos extraños en sus hogares.",
-      "inicio": "2026-11-03T09:11:00",
-      "fin": "2026-11-03T10:13:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tencuidadoaquienllamas.jpg"
-    },
-    {
-      "titulo": "Fuego con fuego",
-      "descripcion": "Joe Fisk es un muchacho que acaba de llegar a una granja-reformatorio para delincuentes juveniles. Durante una carrera por el bosque, se tropezará con Lisa, una joven internada en una escuela religiosa para señoritas cercana al reformatorio, donde ha sido prácticamente abandonada por sus padres ausentes. Aunque solo se ven durante un segundo, harán cualquier cosa para volver a verse... aunque en su situación, todo serán problemas.",
-      "inicio": "2026-11-03T10:13:00",
-      "fin": "2026-11-03T11:51:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuegoconfuego.jpg"
-    },
     {
       "titulo": "Misión: Imposible - Repercusión",
       "descripcion": "Un traficante de armas y un grupo de terroristas pretenden realizar un triple ataque nuclear con tres artefactos de plutonio, los cuales se pierden. Ethan Hunt y su equipo tendrán que recuperarlos antes de que caigan en las manos equivocadas.",
       "inicio": "2026-11-03T11:51:00",
       "fin": "2026-11-03T14:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El plan perfecto",
+      "descripcion": "Un grupo de empleados del almacén son estafados y acusados de robo. Ahora tienen que huir mientras elaboran un plan para revelar la verdad.",
+      "inicio": "2026-11-03T14:25:00",
+      "fin": "2026-11-03T16:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elplanperfecto.jpg"
+    },
+    {
+      "titulo": "Prepartido: UEFA Champions League",
+      "descripcion": "Estreno ║ La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-03T16:45:00",
+      "fin": "2026-11-03T17:01:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/prepartidouefachampionsleague.jpg"
+    },
+    {
+      "titulo": "Fútbol UEFA Champions League • Manchester United vs Roma",
+      "descripcion": "Estreno ║ Manchester United vs Roma | Acción de la jornada 4 de la UEFA ⚽🏆 [UCL] Champions League 2026-27. Los Red 🏒 [NHL] Devils buscan romper su racha de dos derrotas y ⚽ [Serie A] Roma su segunda victoria al hilo.",
+      "inicio": "2026-11-03T17:01:00",
+      "fin": "2026-11-03T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Postpartido: UEFA Champions League",
+      "descripcion": "Estreno ║ La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-03T19:00:00",
+      "fin": "2026-11-03T19:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/postpartidouefachampionsleague.jpg"
+    },
+    {
+      "titulo": "Dunkerque",
+      "descripcion": "II Guerra Mundial. Cientos de miles de británicos y tropas aliadas están rodeados por las fuerzas enemigas. Atrapados en la playa con el mar a sus espaldas se enfrentan a una situación imposible mientras el enemigo se acerca. La película relata la Operación Dinamo, también conocida como el milagro de Dunkerque. Se trató de una operación de evacuación de las tropas aliadas en territorio francés, que tuvo lugar a finales de mayo de 1940. La operación permitió el rescate de más de 200.000 soldados británicos y más de 100.000 franceses y belgas.",
+      "inicio": "2026-11-03T19:05:00",
+      "fin": "2026-11-03T20:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dunkerque.jpg"
+    },
+    {
+      "titulo": "Anaconda",
+      "descripcion": "Doug y Griff son muy buenos amigos desde que eran niños y siempre han soñado con hacer un remake de su película favorita de todos los tiempos: el «clásico cinematográfico» Anaconda. Cuando una crisis de mediana edad les anima a lanzarse por fin a la aventura, se adentran en la selva amazónica para empezar a rodar. Pero las cosas se ponen serias cuando aparece una anaconda gigante de verdad, convirtiendo su caótico y cómico plató de rodaje en una situación mortal.",
+      "inicio": "2026-11-03T20:57:00",
+      "fin": "2026-11-03T22:32:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/anaconda.jpg"
+    },
+    {
+      "titulo": "Megalodón 2: El gran abismo",
+      "descripcion": "Jonás Taylor lidera un equipo de investigación en las profundidades del océano. Acorralados por colosales tiburones prehistóricos y despiadados bandidos, los científicos intentan sobrevivir a toda costa.",
+      "inicio": "2026-11-03T22:32:00",
+      "fin": "2026-11-04T00:36:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/megalodon2elgranabismo.jpg"
+    },
+    {
+      "titulo": "Atómica",
+      "descripcion": "En un futuro cercano, cuando los sistemas de comunicación se desconectan en una central nuclear aislada en el desierto, un joven inspector de seguridad, Abby Dixon, se ve obligada a ir hasta allí para restablecer las comunicaciones. Una vez en las instalaciones de la central, se da cuenta de que allí sucede algo misterioso.",
+      "inicio": "2026-11-04T00:36:00",
+      "fin": "2026-11-04T02:41:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/atomica.jpg"
+    },
+    {
+      "titulo": "Inframundo",
+      "descripcion": "Una mujer vampiro trata de proteger a un estudiante de unos hombres lobo que intentan crear una especie híbrida.",
+      "inicio": "2026-11-04T02:41:00",
+      "fin": "2026-11-04T04:54:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Feliz día de tu muerte",
+      "descripcion": "Tree Gelbman es una estudiante universitaria que debe revivir el día de su asesinato una y otra vez. Este bucle infinito solo terminará cuando la joven descubra la identidad de su asesino.",
+      "inicio": "2026-11-04T04:54:00",
+      "fin": "2026-11-04T06:31:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/felizdiadetumuerte.jpg"
+    },
+    {
+      "titulo": "El Tirador",
+      "descripcion": "Un francotirador, ex-marine muy condecorado, vuelve a la acción para defender al presidente de su posible asesinato, sin saber que le han tendido una trampa.",
+      "inicio": "2026-11-04T06:31:00",
+      "fin": "2026-11-04T08:38:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltirador.jpg"
+    },
+    {
+      "titulo": "Hollywood One on One",
+      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
+      "inicio": "2026-11-04T08:38:00",
+      "fin": "2026-11-04T08:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hollywoodoneonone.jpg"
+    },
+    {
+      "titulo": "TNT Buzz",
+      "descripcion": "Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.",
+      "inicio": "2026-11-04T08:55:00",
+      "fin": "2026-11-04T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tntbuzz.jpg"
+    },
+    {
+      "titulo": "Hollywood One on One",
+      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
+      "inicio": "2026-11-04T09:00:00",
+      "fin": "2026-11-04T09:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hollywoodoneonone.jpg"
+    },
+    {
+      "titulo": "Sin escape",
+      "descripcion": "En la zona de servicio para camiones conocida como \"Lunar Truckstop\", algunas de estas gigantescas máquinas empiezan a moverse sin que nadie las conduzca. El pánico se desata cuando lo camiones empiezan a perseguir y a arrollar a las personas del lugar. Unos cuantos supervivientes han quedado encerrados en el interior del restaurante, donde entre todos, buscan un modo de poder escapar con vida de la indescriptible locura que les acecha desde fuera. Hay quien asegura que los camiones podrían haber sido activados a causa de los experimentos tecnológicos que se llevan a cabo en un complejo militar cercano, el Área 51.",
+      "inicio": "2026-11-04T09:53:00",
+      "fin": "2026-11-04T11:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinescape.jpg"
+    },
+    {
+      "titulo": "Minority Report: sentencia previa",
+      "descripcion": "Un policía tiene 36 horas para probar su inocencia en un crimen que han predicho que cometerá en el futuro.",
+      "inicio": "2026-11-04T11:23:00",
+      "fin": "2026-11-04T13:56:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

@@ -1,663 +1,19 @@
 {
   "actual": {
-    "titulo": "NHK Newsline",
-    "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-    "inicio": "2026-11-02T13:00:00",
-    "fin": "2026-11-02T13:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Journeys in Japan",
+    "descripcion": "En cada edición, diversos visitantes angloparlantes visitan la maravillosa isla que conforma Japón para recorrer sus confines, explorando la cultura local, mostrando sus paisajes y conociendo a nuevas personas, además de ofrecer consejos que raramente encontrarás en guías turísticas.",
+    "inicio": "2026-11-03T12:30:00",
+    "fin": "2026-11-03T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/journeysinjapan.jpg"
   },
   "siguiente": {
-    "titulo": "Hometown Stories",
-    "descripcion": "Serie de programas regionales que buscan representar el estilo de vida japonés provincial, su cultura, la industria y demás contenidos de tendencia local. Un recorrido interesante para saber más de Japón y su gente.",
-    "inicio": "2026-11-02T13:30:00",
-    "fin": "2026-11-02T13:57:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hometownstories.jpg"
+    "titulo": "NHK Newsline",
+    "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+    "inicio": "2026-11-03T13:00:00",
+    "fin": "2026-11-03T13:10:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-02T13:00:00",
-      "fin": "2026-11-02T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hometown Stories",
-      "descripcion": "Serie de programas regionales que buscan representar el estilo de vida japonés provincial, su cultura, la industria y demás contenidos de tendencia local. Un recorrido interesante para saber más de Japón y su gente.",
-      "inicio": "2026-11-02T13:30:00",
-      "fin": "2026-11-02T13:57:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hometownstories.jpg"
-    },
-    {
-      "titulo": "Easy Japanese",
-      "descripcion": "Repetición ║ Japonés fácil y útil en lecciones de tres minutos.",
-      "inicio": "2026-11-02T13:57:00",
-      "fin": "2026-11-02T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-02T14:00:00",
-      "fin": "2026-11-02T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Magical Japanese • Trees",
-      "descripcion": "Trees | Conoce datos curiosos sobre el idioma japonés, que es rico en palabras y expresiones influenciadas por la naturaleza, la historia y la cultura.",
-      "inicio": "2026-11-02T14:30:00",
-      "fin": "2026-11-02T14:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/magicaljapanese.jpg"
-    },
-    {
-      "titulo": "Easy Japanese",
-      "descripcion": "Japonés fácil y útil en lecciones de tres minutos.",
-      "inicio": "2026-11-02T14:40:00",
-      "fin": "2026-11-02T14:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Culture Crossroads",
-      "descripcion": "Un espacio que comprende varios programas regulares con el objetivo de crear una sociedad multicultural. Responden preguntas sobre Japón de televidentes extranjeros y dan consejos sobre preparación para desastres.",
-      "inicio": "2026-11-02T14:45:00",
-      "fin": "2026-11-02T14:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/culturecrossroads.jpg"
-    },
-    {
-      "titulo": "Hello! NHK WORLD-JAPAN",
-      "descripcion": "Repetición ║ Una serie de programas con información sobre Japón y Asia.",
-      "inicio": "2026-11-02T14:55:00",
-      "fin": "2026-11-02T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hellonhkworldjapan.jpg"
-    },
-    {
-      "titulo": "Newsroom Tokyo",
-      "descripcion": "La más amplia cobertura de los acontecimientos en Japón y Asia en general, así como también la evolución del día y los acontecimientos más resaltantes.",
-      "inicio": "2026-11-02T15:00:00",
-      "fin": "2026-11-02T15:28:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Direct Talk",
-      "descripcion": "Repetición ║ Espacio de entrevistas a profundidad con personas influyentes y líderes de negocios que comparten sus conocimientos, información y análisis.",
-      "inicio": "2026-11-02T15:28:00",
-      "fin": "2026-11-02T15:43:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Nun's Seasonal Calendar",
-      "descripcion": "En lo profundo de las montañas de la prefectura japonesa de Nara, se encuentra el templo Otowasan Kannonji, en donde las monjas se preparan para los eventos estacionales basados en el calendario solar.",
-      "inicio": "2026-11-02T15:43:00",
-      "fin": "2026-11-02T15:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ukiyoe Edo-Life • Mt. Fuji's Faces",
-      "descripcion": "Mt. Fuji's Faces | Observamos el monte Fuji rojo y el Fuji negro, dos vistas dramáticamente diferentes de la montaña más famosa de Japón, capturadas por el artista Hokusai. ¿Qué significó el monte Fuji para la gente de Edo?",
-      "inicio": "2026-11-02T15:55:00",
-      "fin": "2026-11-02T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ukiyoeedolife.jpg"
-    },
-    {
-      "titulo": "The Business Keyhole",
-      "descripcion": "Repetición ║ Este programa utiliza temas familiares de Japón y de todo el mundo como punto de partida para profundizar en el funcionamiento interno de diversas industrias. Al explorar el lado oculto de los negocios, revela ideas y perspectivas que pueden iluminar el camino hacia el futuro.",
-      "inicio": "2026-11-02T16:00:00",
-      "fin": "2026-11-02T16:23:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "1/10: Married by Matching Apps",
-      "descripcion": "Repetición ║ 1 de cada 10 japoneses se casó a través de servicios de búsqueda de pareja en línea en 2020. Entrevistamos a mujeres que usan estas aplicaciones, incluida Manami, que usa varios de estos servicios para encontrar una pareja perfecta.",
-      "inicio": "2026-11-02T16:23:00",
-      "fin": "2026-11-02T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Seasoning the Seasons",
-      "descripcion": "Desde los albores de la historia de Japón, el santuario de Ise ha sido un depósito de sabiduría antigua y del arte, así como también un lugar donde la gente adora a los dioses de la naturaleza. En 2013, éste se sometió a un proceso sagrado que tiene lugar cada dos décadas, la reconstrucción de los edificios principales en un sitio adyacente. Durante este periodo, los locales perpetúan las tradiciones antiguas, tales como la preparación de las ofertas de arroz y la colección de orejas de mar. Además, las tiendas y edificios que bordean la carretera de acceso han sido preservados en su forma original.",
-      "inicio": "2026-11-02T16:30:00",
-      "fin": "2026-11-02T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/seasoningtheseasons.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-02T17:00:00",
-      "fin": "2026-11-02T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Medical Frontiers",
-      "descripcion": "Japón es un líder mundial en el cuidado de la salud y en este programa se exploran las tecnologías de vanguardia que está usando, así como también se brindan consejos para una vida sana.",
-      "inicio": "2026-11-02T17:30:00",
-      "fin": "2026-11-02T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-02T18:00:00",
-      "fin": "2026-11-02T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "BOSAI",
-      "descripcion": "Japón tiene una larga historia de desastres naturales. Aquí se explora cómo superarlos y salvar vidas con el poder de la ciencia.",
-      "inicio": "2026-11-02T18:30:00",
-      "fin": "2026-11-02T18:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Why Is Hay Fever Getting Worse",
-      "descripcion": "El número de personas que padecen fiebre del heno, que afecta gravemente la vida cotidiana, está aumentando en todo el mundo. Esta tendencia se debe a un cambio en los patrones de dispersión del polen, influenciado por el cambio climático.",
-      "inicio": "2026-11-02T18:45:00",
-      "fin": "2026-11-02T18:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Time-Lapse Japan • Izumo: Steelmaking",
-      "descripcion": "Izumo: Steelmaking | Oku-Izumo es el hogar de una antigua técnica para fabricar el acero, que siempre fue utilizado en las espadas japonesas. Conocemos a un herrero que ha heredado la tradición y disfrutamos del paisaje local, presentado en imágenes time-lapse.",
-      "inicio": "2026-11-02T18:55:00",
-      "fin": "2026-11-02T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-02T19:00:00",
-      "fin": "2026-11-02T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Magical Japanese • Trees",
-      "descripcion": "Trees | Conoce datos curiosos sobre el idioma japonés, que es rico en palabras y expresiones influenciadas por la naturaleza, la historia y la cultura.",
-      "inicio": "2026-11-02T19:30:00",
-      "fin": "2026-11-02T19:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/magicaljapanese.jpg"
-    },
-    {
-      "titulo": "Easy Japanese",
-      "descripcion": "Japonés fácil y útil en lecciones de tres minutos.",
-      "inicio": "2026-11-02T19:40:00",
-      "fin": "2026-11-02T19:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Culture Crossroads",
-      "descripcion": "Un espacio que comprende varios programas regulares con el objetivo de crear una sociedad multicultural. Responden preguntas sobre Japón de televidentes extranjeros y dan consejos sobre preparación para desastres.",
-      "inicio": "2026-11-02T19:45:00",
-      "fin": "2026-11-02T19:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/culturecrossroads.jpg"
-    },
-    {
-      "titulo": "Hello! NHK WORLD-JAPAN",
-      "descripcion": "Repetición ║ Una serie de programas con información sobre Japón y Asia.",
-      "inicio": "2026-11-02T19:55:00",
-      "fin": "2026-11-02T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hellonhkworldjapan.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-02T20:00:00",
-      "fin": "2026-11-02T20:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Somewhere Street: A Short Stroll",
-      "descripcion": "Un breve paseo, un spin-off de 15 minutos de la serie Somewhere Street, explora ciudades de todo el mundo. En esta ocasión visitamos Faro, la ciudad más meridional de Portugal.",
-      "inicio": "2026-11-02T20:10:00",
-      "fin": "2026-11-02T20:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Masterpieces of Tsutaju",
-      "descripcion": "Esta producción presenta en forma didáctica y amena las obras maestras de Tsutaju, un brillante productor de ukiyo-e del período Edo.",
-      "inicio": "2026-11-02T20:25:00",
-      "fin": "2026-11-02T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hometown Stories",
-      "descripcion": "Serie de programas regionales que buscan representar el estilo de vida japonés provincial, su cultura, la industria y demás contenidos de tendencia local. Un recorrido interesante para saber más de Japón y su gente.",
-      "inicio": "2026-11-02T20:30:00",
-      "fin": "2026-11-02T20:57:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hometownstories.jpg"
-    },
-    {
-      "titulo": "Easy Japanese",
-      "descripcion": "Repetición ║ Japonés fácil y útil en lecciones de tres minutos.",
-      "inicio": "2026-11-02T20:57:00",
-      "fin": "2026-11-02T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-02T21:00:00",
-      "fin": "2026-11-02T21:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The World Heritage Sites in Japan",
-      "descripcion": "Desde paisajes naturales hasta arquitectura histórica que representan siglos de desarrollo cultural, los sitios del Patrimonio Mundial de Japón ofrecen una amplia gama de vislumbres de la historia y la belleza de la naturaleza.",
-      "inicio": "2026-11-02T21:10:00",
-      "fin": "2026-11-02T21:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/theworldheritagesitesinjapan.jpg"
-    },
-    {
-      "titulo": "The Masterpieces of Tsutaju",
-      "descripcion": "Esta producción presenta en forma didáctica y amena las obras maestras de Tsutaju, un brillante productor de ukiyo-e del período Edo.",
-      "inicio": "2026-11-02T21:25:00",
-      "fin": "2026-11-02T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Journeys in Japan",
-      "descripcion": "En cada edición, diversos visitantes angloparlantes visitan la maravillosa isla que conforma Japón para recorrer sus confines, explorando la cultura local, mostrando sus paisajes y conociendo a nuevas personas, además de ofrecer consejos que raramente encontrarás en guías turísticas.",
-      "inicio": "2026-11-02T21:30:00",
-      "fin": "2026-11-02T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/journeysinjapan.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-02T22:00:00",
-      "fin": "2026-11-02T22:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Somewhere Street: A Short Stroll",
-      "descripcion": "Un breve paseo, un spin-off de 15 minutos de la serie Somewhere Street, explora ciudades de todo el mundo. En esta ocasión visitamos Faro, la ciudad más meridional de Portugal.",
-      "inicio": "2026-11-02T22:10:00",
-      "fin": "2026-11-02T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dining with the Chef",
-      "descripcion": "Programa que presenta la mirada del mundo y la atracción de la comida japonesa que se preocupa por la harmonía general y la variedad de ingredientes.",
-      "inicio": "2026-11-02T22:30:00",
-      "fin": "2026-11-02T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-02T23:00:00",
-      "fin": "2026-11-02T23:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cinematic Journey",
-      "descripcion": "Documental en el que diversos exploradores invitan a la audiencia en su búsqueda de la belleza cinematográfica de Japón. Kyle Card recorre el largo sendero recientemente designado alrededor del majestuoso Monte Fuji y comparte sus secretos.",
-      "inicio": "2026-11-02T23:10:00",
-      "fin": "2026-11-02T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Document 72 Hours",
-      "descripcion": "Tres días en la vida de... Quédese en un lugar durante 72 horas, y vislumbre la vida de distintas personas mientras se abren y comparten sus historias.",
-      "inicio": "2026-11-02T23:30:00",
-      "fin": "2026-11-03T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/document72hours.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-03T00:00:00",
-      "fin": "2026-11-03T00:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cinematic Journey",
-      "descripcion": "Documental en el que diversos exploradores invitan a la audiencia en su búsqueda de la belleza cinematográfica de Japón. Kyle Card recorre el largo sendero recientemente designado alrededor del majestuoso Monte Fuji y comparte sus secretos.",
-      "inicio": "2026-11-03T00:10:00",
-      "fin": "2026-11-03T00:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Nun's Cookbook",
-      "descripcion": "Las monjas del Templo Otowasan Kannonji cocinan a lo grande y nos muestran cómo preparar las delicias de su recetario de temporada.",
-      "inicio": "2026-11-03T00:25:00",
-      "fin": "2026-11-03T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Medical Frontiers",
-      "descripcion": "Japón es un líder mundial en el cuidado de la salud y en este programa se exploran las tecnologías de vanguardia que está usando, así como también se brindan consejos para una vida sana.",
-      "inicio": "2026-11-03T00:30:00",
-      "fin": "2026-11-03T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-03T01:00:00",
-      "fin": "2026-11-03T01:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "MATSURI: The Heartbeat of Japan",
-      "descripcion": "Los festivales tradicionales llamados Matsuri se encuentran en todo Japón.",
-      "inicio": "2026-11-03T01:10:00",
-      "fin": "2026-11-03T01:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matsuritheheartbeatofjapan.jpg"
-    },
-    {
-      "titulo": "On the Wings",
-      "descripcion": "Los viajes aéreos desde Tokio a los aeropuertos regionales de todo Japón brindan vistas espectaculares desde la ventana del avión y muestran la habilidad de los pilotos experimentados.",
-      "inicio": "2026-11-03T01:20:00",
-      "fin": "2026-11-03T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/onthewings.jpg"
-    },
-    {
-      "titulo": "Activate Your Japanese",
-      "descripcion": "Aprende a aprovechar al máximo tus habilidades japonesas. Mira nuestros dramas que presentan útiles estrategias de comunicación, nuestros videos rápidos sobre onomatopeyas y nuestros documentales sobre 'senpai' en Japón.",
-      "inicio": "2026-11-03T01:30:00",
-      "fin": "2026-11-03T01:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dig More Japan!",
-      "descripcion": "Adéntrate en las profundidades de la cultura japonesa: sus costumbres, tradiciones, modas y gastronomía.",
-      "inicio": "2026-11-03T01:45:00",
-      "fin": "2026-11-03T01:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/digmorejapan.jpg"
-    },
-    {
-      "titulo": "Dining with the Chef Mini",
-      "descripcion": "Programa que presenta la mirada del mundo y la atracción de la comida japonesa que se preocupa por la harmonía general y la variedad de ingredientes.",
-      "inicio": "2026-11-03T01:55:00",
-      "fin": "2026-11-03T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-03T02:00:00",
-      "fin": "2026-11-03T02:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Herbal Symphony • Otoño",
-      "descripcion": "Otoño | Se presenta el Otoño, en el jardín privado de hierbas medicinales más antiguo de Japón, situado en Uda, prefectura de Nara. A medida que las plantas dan fruto, los guardianes del jardín protegen las semillas, asegurando su supervivencia para las futuras generaciones.",
-      "inicio": "2026-11-03T02:10:00",
-      "fin": "2026-11-03T02:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ukiyoe Edo-Life • Mt. Fuji's Faces",
-      "descripcion": "Mt. Fuji's Faces | Observamos el monte Fuji rojo y el Fuji negro, dos vistas dramáticamente diferentes de la montaña más famosa de Japón, capturadas por el artista Hokusai. ¿Qué significó el monte Fuji para la gente de Edo?",
-      "inicio": "2026-11-03T02:20:00",
-      "fin": "2026-11-03T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ukiyoeedolife.jpg"
-    },
-    {
-      "titulo": "Journeys in Japan",
-      "descripcion": "En cada edición, diversos visitantes angloparlantes visitan la maravillosa isla que conforma Japón para recorrer sus confines, explorando la cultura local, mostrando sus paisajes y conociendo a nuevas personas, además de ofrecer consejos que raramente encontrarás en guías turísticas.",
-      "inicio": "2026-11-03T02:30:00",
-      "fin": "2026-11-03T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/journeysinjapan.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-03T03:00:00",
-      "fin": "2026-11-03T03:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "MATSURI: The Heartbeat of Japan",
-      "descripcion": "Los festivales tradicionales llamados Matsuri se encuentran en todo Japón.",
-      "inicio": "2026-11-03T03:10:00",
-      "fin": "2026-11-03T03:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matsuritheheartbeatofjapan.jpg"
-    },
-    {
-      "titulo": "On the Wings",
-      "descripcion": "Los viajes aéreos desde Tokio a los aeropuertos regionales de todo Japón brindan vistas espectaculares desde la ventana del avión y muestran la habilidad de los pilotos experimentados.",
-      "inicio": "2026-11-03T03:20:00",
-      "fin": "2026-11-03T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/onthewings.jpg"
-    },
-    {
-      "titulo": "Dining with the Chef",
-      "descripcion": "Programa que presenta la mirada del mundo y la atracción de la comida japonesa que se preocupa por la harmonía general y la variedad de ingredientes.",
-      "inicio": "2026-11-03T03:30:00",
-      "fin": "2026-11-03T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-03T04:00:00",
-      "fin": "2026-11-03T04:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The World Heritage Sites in Japan",
-      "descripcion": "Repetición ║ Desde paisajes naturales hasta arquitectura histórica que representan siglos de desarrollo cultural, los sitios del Patrimonio Mundial de Japón ofrecen una amplia gama de vislumbres de la historia y la belleza de la naturaleza.",
-      "inicio": "2026-11-03T04:10:00",
-      "fin": "2026-11-03T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/theworldheritagesitesinjapan.jpg"
-    },
-    {
-      "titulo": "Document 72 Hours",
-      "descripcion": "Tres días en la vida de... Quédese en un lugar durante 72 horas, y vislumbre la vida de distintas personas mientras se abren y comparten sus historias.",
-      "inicio": "2026-11-03T04:30:00",
-      "fin": "2026-11-03T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/document72hours.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-03T05:00:00",
-      "fin": "2026-11-03T05:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "My Street Piano",
-      "descripcion": "Los pianos se colocan en aeropuertos, estaciones y esquinas de todo el mundo para que cualquiera pueda tocarlos. El programa propone conocer las historias de vida de cada pianista.",
-      "inicio": "2026-11-03T05:10:00",
-      "fin": "2026-11-03T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mystreetpiano.jpg"
-    },
-    {
-      "titulo": "Activate Your Japanese",
-      "descripcion": "Aprende a aprovechar al máximo tus habilidades japonesas. Mira nuestros dramas que presentan útiles estrategias de comunicación, nuestros videos rápidos sobre onomatopeyas y nuestros documentales sobre 'senpai' en Japón.",
-      "inicio": "2026-11-03T05:30:00",
-      "fin": "2026-11-03T05:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "BOSAI",
-      "descripcion": "Japón tiene una larga historia de desastres naturales. Aquí se explora cómo superarlos y salvar vidas con el poder de la ciencia.",
-      "inicio": "2026-11-03T05:45:00",
-      "fin": "2026-11-03T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-03T06:00:00",
-      "fin": "2026-11-03T06:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Time-Lapse Journey",
-      "descripcion": "Embárcate en un viaje en lapso de tiempo que te llevará a lugares famosos de todo Japón. Redescubre la belleza de Japón a medida que se desarrollan las escenas a través de la fotografía de lapso de tiempo. Desde las maravillas de la naturaleza en constante cambio hasta la tranquilidad de un templo histórico, hemos seleccionado las mejores vistas que Japón tiene para ofrecer.",
-      "inicio": "2026-11-03T06:10:00",
-      "fin": "2026-11-03T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/timelapsejourney.jpg"
-    },
-    {
-      "titulo": "Medical Frontiers",
-      "descripcion": "Japón es un líder mundial en el cuidado de la salud y en este programa se exploran las tecnologías de vanguardia que está usando, así como también se brindan consejos para una vida sana.",
-      "inicio": "2026-11-03T06:30:00",
-      "fin": "2026-11-03T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-03T07:00:00",
-      "fin": "2026-11-03T07:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ukiyoe Edo-Life • On a Snowy Night",
-      "descripcion": "On a Snowy Night | Encontramos un paisaje urbano de Edo, que es bastante pacifico y está cubierto de nieve. Pero hay algo más en el aire, el aroma de los alimentos dulces y salados, que ayudan a los habitantes de la ciudad a mantenerse calientes durante el invierno.",
-      "inicio": "2026-11-03T07:15:00",
-      "fin": "2026-11-03T07:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ukiyoeedolife.jpg"
-    },
-    {
-      "titulo": "On the Wings",
-      "descripcion": "Repetición ║ Los viajes aéreos desde Tokio a los aeropuertos regionales de todo Japón brindan vistas espectaculares desde la ventana del avión y muestran la habilidad de los pilotos experimentados.",
-      "inicio": "2026-11-03T07:20:00",
-      "fin": "2026-11-03T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/onthewings.jpg"
-    },
-    {
-      "titulo": "Darwin's Amazing Animals",
-      "descripcion": "Repetición ║ Imágenes impresionantes, curiosidades y secretos de la fauna de América, África y Asia, haciendo especial mención a la fauna japonesa.",
-      "inicio": "2026-11-03T07:30:00",
-      "fin": "2026-11-03T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/darwinsamazinganimals.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-03T08:00:00",
-      "fin": "2026-11-03T08:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Herbal Symphony • Invierno",
-      "descripcion": "Invierno | Invierno en el jardín de hierbas privadas más antiguo de Japón, en Uda, ubicado en la prefectura de Nara. Mientras las hojas caídas y la hierba marchita cubren el suelo, comienza la búsqueda de tesoros ocultos bajo la tierra helada.",
-      "inicio": "2026-11-03T08:15:00",
-      "fin": "2026-11-03T08:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Masterpieces of Tsutaju",
-      "descripcion": "Repetición ║ Esta producción presenta en forma didáctica y amena las obras maestras de Tsutaju, un brillante productor de ukiyo-e del período Edo.",
-      "inicio": "2026-11-03T08:25:00",
-      "fin": "2026-11-03T08:28:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Direct Talk",
-      "descripcion": "Espacio de entrevistas a profundidad con personas influyentes y líderes de negocios que comparten sus conocimientos, información y análisis.",
-      "inicio": "2026-11-03T08:28:00",
-      "fin": "2026-11-03T08:43:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Magical Japanese • Trees",
-      "descripcion": "Trees | Conoce datos curiosos sobre el idioma japonés, que es rico en palabras y expresiones influenciadas por la naturaleza, la historia y la cultura.",
-      "inicio": "2026-11-03T08:43:00",
-      "fin": "2026-11-03T08:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/magicaljapanese.jpg"
-    },
-    {
-      "titulo": "Easy Japanese",
-      "descripcion": "Japonés fácil y útil en lecciones de tres minutos.",
-      "inicio": "2026-11-03T08:55:00",
-      "fin": "2026-11-03T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-03T09:00:00",
-      "fin": "2026-11-03T09:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "MATSURI: The Heartbeat of Japan",
-      "descripcion": "Repetición ║ Los festivales tradicionales llamados Matsuri se encuentran en todo Japón.",
-      "inicio": "2026-11-03T09:15:00",
-      "fin": "2026-11-03T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matsuritheheartbeatofjapan.jpg"
-    },
-    {
-      "titulo": "Dining with the Chef",
-      "descripcion": "Programa que presenta la mirada del mundo y la atracción de la comida japonesa que se preocupa por la harmonía general y la variedad de ingredientes.",
-      "inicio": "2026-11-03T09:30:00",
-      "fin": "2026-11-03T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-03T10:00:00",
-      "fin": "2026-11-03T10:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "My Street Piano",
-      "descripcion": "Repetición ║ Los pianos se colocan en aeropuertos, estaciones y esquinas de todo el mundo para que cualquiera pueda tocarlos. El programa propone conocer las historias de vida de cada pianista.",
-      "inicio": "2026-11-03T10:10:00",
-      "fin": "2026-11-03T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mystreetpiano.jpg"
-    },
-    {
-      "titulo": "Document 72 Hours",
-      "descripcion": "Tres días en la vida de... Quédese en un lugar durante 72 horas, y vislumbre la vida de distintas personas mientras se abren y comparten sus historias.",
-      "inicio": "2026-11-03T10:30:00",
-      "fin": "2026-11-03T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/document72hours.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-03T11:00:00",
-      "fin": "2026-11-03T11:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Herbal Symphony • Otoño",
-      "descripcion": "Repetición ║ Otoño | Se presenta el Otoño, en el jardín privado de hierbas medicinales más antiguo de Japón, situado en Uda, prefectura de Nara. A medida que las plantas dan fruto, los guardianes del jardín protegen las semillas, asegurando su supervivencia para las futuras generaciones.",
-      "inicio": "2026-11-03T11:10:00",
-      "fin": "2026-11-03T11:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ukiyoe Edo-Life • Mt. Fuji's Faces",
-      "descripcion": "Repetición ║ Mt. Fuji's Faces | Observamos el monte Fuji rojo y el Fuji negro, dos vistas dramáticamente diferentes de la montaña más famosa de Japón, capturadas por el artista Hokusai. ¿Qué significó el monte Fuji para la gente de Edo?",
-      "inicio": "2026-11-03T11:20:00",
-      "fin": "2026-11-03T11:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ukiyoeedolife.jpg"
-    },
-    {
-      "titulo": "The Masterpieces of Tsutaju",
-      "descripcion": "Repetición ║ Esta producción presenta en forma didáctica y amena las obras maestras de Tsutaju, un brillante productor de ukiyo-e del período Edo.",
-      "inicio": "2026-11-03T11:25:00",
-      "fin": "2026-11-03T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Science View",
-      "descripcion": "Edición en la cual inminentes catedráticos japoneses ahondan en los fascinantes mundos de la tecnología de vanguardia y las ciencias naturales, dando a conocer sus principales descubrimientos y proyectos en el área.",
-      "inicio": "2026-11-03T11:30:00",
-      "fin": "2026-11-03T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "NHK Newsline",
-      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
-      "inicio": "2026-11-03T12:00:00",
-      "fin": "2026-11-03T12:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cinematic Journey",
-      "descripcion": "Repetición ║ Documental en el que diversos exploradores invitan a la audiencia en su búsqueda de la belleza cinematográfica de Japón. Kyle Card recorre el largo sendero recientemente designado alrededor del majestuoso Monte Fuji y comparte sus secretos.",
-      "inicio": "2026-11-03T12:10:00",
-      "fin": "2026-11-03T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Journeys in Japan",
       "descripcion": "En cada edición, diversos visitantes angloparlantes visitan la maravillosa isla que conforma Japón para recorrer sus confines, explorando la cultura local, mostrando sus paisajes y conociendo a nuevas personas, además de ofrecer consejos que raramente encontrarás en guías turísticas.",
@@ -671,6 +27,545 @@
       "inicio": "2026-11-03T13:00:00",
       "fin": "2026-11-03T13:10:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Time-Lapse Journey",
+      "descripcion": "Repetición ║ Embárcate en un viaje en lapso de tiempo que te llevará a lugares famosos de todo Japón. Redescubre la belleza de Japón a medida que se desarrollan las escenas a través de la fotografía de lapso de tiempo. Desde las maravillas de la naturaleza en constante cambio hasta la tranquilidad de un templo histórico, hemos seleccionado las mejores vistas que Japón tiene para ofrecer.",
+      "inicio": "2026-11-03T13:10:00",
+      "fin": "2026-11-03T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/timelapsejourney.jpg"
+    },
+    {
+      "titulo": "Activate Your Japanese",
+      "descripcion": "Aprende a aprovechar al máximo tus habilidades japonesas. Mira nuestros dramas que presentan útiles estrategias de comunicación, nuestros videos rápidos sobre onomatopeyas y nuestros documentales sobre 'senpai' en Japón.",
+      "inicio": "2026-11-03T13:30:00",
+      "fin": "2026-11-03T13:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dig More Japan!",
+      "descripcion": "Adéntrate en las profundidades de la cultura japonesa: sus costumbres, tradiciones, modas y gastronomía.",
+      "inicio": "2026-11-03T13:45:00",
+      "fin": "2026-11-03T13:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/digmorejapan.jpg"
+    },
+    {
+      "titulo": "Dining with the Chef Mini",
+      "descripcion": "Programa que presenta la mirada del mundo y la atracción de la comida japonesa que se preocupa por la harmonía general y la variedad de ingredientes.",
+      "inicio": "2026-11-03T13:55:00",
+      "fin": "2026-11-03T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-03T14:00:00",
+      "fin": "2026-11-03T14:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The World Heritage Sites in Japan",
+      "descripcion": "Repetición ║ Desde paisajes naturales hasta arquitectura histórica que representan siglos de desarrollo cultural, los sitios del Patrimonio Mundial de Japón ofrecen una amplia gama de vislumbres de la historia y la belleza de la naturaleza.",
+      "inicio": "2026-11-03T14:10:00",
+      "fin": "2026-11-03T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/theworldheritagesitesinjapan.jpg"
+    },
+    {
+      "titulo": "Dining with the Chef",
+      "descripcion": "Programa que presenta la mirada del mundo y la atracción de la comida japonesa que se preocupa por la harmonía general y la variedad de ingredientes.",
+      "inicio": "2026-11-03T14:30:00",
+      "fin": "2026-11-03T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-03T15:00:00",
+      "fin": "2026-11-03T15:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "MATSURI: The Heartbeat of Japan",
+      "descripcion": "Repetición ║ Los festivales tradicionales llamados Matsuri se encuentran en todo Japón.",
+      "inicio": "2026-11-03T15:10:00",
+      "fin": "2026-11-03T15:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matsuritheheartbeatofjapan.jpg"
+    },
+    {
+      "titulo": "On the Wings",
+      "descripcion": "Repetición ║ Los viajes aéreos desde Tokio a los aeropuertos regionales de todo Japón brindan vistas espectaculares desde la ventana del avión y muestran la habilidad de los pilotos experimentados.",
+      "inicio": "2026-11-03T15:20:00",
+      "fin": "2026-11-03T15:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/onthewings.jpg"
+    },
+    {
+      "titulo": "The Masterpieces of Tsutaju",
+      "descripcion": "Repetición ║ Esta producción presenta en forma didáctica y amena las obras maestras de Tsutaju, un brillante productor de ukiyo-e del período Edo.",
+      "inicio": "2026-11-03T15:25:00",
+      "fin": "2026-11-03T15:28:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Direct Talk",
+      "descripcion": "Repetición ║ Espacio de entrevistas a profundidad con personas influyentes y líderes de negocios que comparten sus conocimientos, información y análisis.",
+      "inicio": "2026-11-03T15:28:00",
+      "fin": "2026-11-03T15:43:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Japan From Above: Up Close",
+      "descripcion": "Un viaje aéreo por el Japón del siglo XXI. Disfruta de la vista panorámica de paisajes únicos, así como de retratos íntimos de las personas que habitan el archipiélago.",
+      "inicio": "2026-11-03T15:43:00",
+      "fin": "2026-11-03T15:48:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "1/1000: Lay Judges",
+      "descripcion": "Uno de cada mil japoneses tiene experiencia como juez lego en casos judiciales. Asistimos a un evento de networking para exjueces legos, donde comparten experiencias únicas.",
+      "inicio": "2026-11-03T15:48:00",
+      "fin": "2026-11-03T15:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ukiyoe Edo-Life • On a Snowy Night",
+      "descripcion": "On a Snowy Night | Encontramos un paisaje urbano de Edo, que es bastante pacifico y está cubierto de nieve. Pero hay algo más en el aire, el aroma de los alimentos dulces y salados, que ayudan a los habitantes de la ciudad a mantenerse calientes durante el invierno.",
+      "inicio": "2026-11-03T15:55:00",
+      "fin": "2026-11-03T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ukiyoeedolife.jpg"
+    },
+    {
+      "titulo": "Japan in Focus",
+      "descripcion": "Una producción que se sumerge en el panorama social actual de Japón a través de una amplia gama de temas, incluias iniciativas que abordan desafíos globales, numerosos problemas nacionales así como oportunidades y tendencias emergentes.",
+      "inicio": "2026-11-03T16:00:00",
+      "fin": "2026-11-03T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Document 72 Hours",
+      "descripcion": "Tres días en la vida de... Quédese en un lugar durante 72 horas, y vislumbre la vida de distintas personas mientras se abren y comparten sus historias.",
+      "inicio": "2026-11-03T16:30:00",
+      "fin": "2026-11-03T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/document72hours.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-03T17:00:00",
+      "fin": "2026-11-03T17:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ukiyoe Edo-Life • On a Snowy Night",
+      "descripcion": "Repetición ║ On a Snowy Night | Encontramos un paisaje urbano de Edo, que es bastante pacifico y está cubierto de nieve. Pero hay algo más en el aire, el aroma de los alimentos dulces y salados, que ayudan a los habitantes de la ciudad a mantenerse calientes durante el invierno.",
+      "inicio": "2026-11-03T17:15:00",
+      "fin": "2026-11-03T17:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ukiyoeedolife.jpg"
+    },
+    {
+      "titulo": "On the Wings",
+      "descripcion": "Repetición ║ Los viajes aéreos desde Tokio a los aeropuertos regionales de todo Japón brindan vistas espectaculares desde la ventana del avión y muestran la habilidad de los pilotos experimentados.",
+      "inicio": "2026-11-03T17:20:00",
+      "fin": "2026-11-03T17:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/onthewings.jpg"
+    },
+    {
+      "titulo": "Nun's Cookbook",
+      "descripcion": "Repetición ║ Las monjas del Templo Otowasan Kannonji cocinan a lo grande y nos muestran cómo preparar las delicias de su recetario de temporada.",
+      "inicio": "2026-11-03T17:25:00",
+      "fin": "2026-11-03T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Science View",
+      "descripcion": "Repetición ║ Edición en la cual inminentes catedráticos japoneses ahondan en los fascinantes mundos de la tecnología de vanguardia y las ciencias naturales, dando a conocer sus principales descubrimientos y proyectos en el área.",
+      "inicio": "2026-11-03T17:30:00",
+      "fin": "2026-11-03T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-03T18:00:00",
+      "fin": "2026-11-03T18:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Herbal Symphony • Invierno",
+      "descripcion": "Repetición ║ Invierno | Invierno en el jardín de hierbas privadas más antiguo de Japón, en Uda, ubicado en la prefectura de Nara. Mientras las hojas caídas y la hierba marchita cubren el suelo, comienza la búsqueda de tesoros ocultos bajo la tierra helada.",
+      "inicio": "2026-11-03T18:15:00",
+      "fin": "2026-11-03T18:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Masterpieces of Tsutaju",
+      "descripcion": "Repetición ║ Esta producción presenta en forma didáctica y amena las obras maestras de Tsutaju, un brillante productor de ukiyo-e del período Edo.",
+      "inicio": "2026-11-03T18:25:00",
+      "fin": "2026-11-03T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Journeys in Japan",
+      "descripcion": "En cada edición, diversos visitantes angloparlantes visitan la maravillosa isla que conforma Japón para recorrer sus confines, explorando la cultura local, mostrando sus paisajes y conociendo a nuevas personas, además de ofrecer consejos que raramente encontrarás en guías turísticas.",
+      "inicio": "2026-11-03T18:30:00",
+      "fin": "2026-11-03T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/journeysinjapan.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-03T19:00:00",
+      "fin": "2026-11-03T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "MATSURI: The Heartbeat of Japan",
+      "descripcion": "Repetición ║ Los festivales tradicionales llamados Matsuri se encuentran en todo Japón.",
+      "inicio": "2026-11-03T19:15:00",
+      "fin": "2026-11-03T19:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matsuritheheartbeatofjapan.jpg"
+    },
+    {
+      "titulo": "Nun's Cookbook",
+      "descripcion": "Repetición ║ Las monjas del Templo Otowasan Kannonji cocinan a lo grande y nos muestran cómo preparar las delicias de su recetario de temporada.",
+      "inicio": "2026-11-03T19:25:00",
+      "fin": "2026-11-03T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dining with the Chef",
+      "descripcion": "Programa que presenta la mirada del mundo y la atracción de la comida japonesa que se preocupa por la harmonía general y la variedad de ingredientes.",
+      "inicio": "2026-11-03T19:30:00",
+      "fin": "2026-11-03T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-03T20:00:00",
+      "fin": "2026-11-03T20:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The World Heritage Sites in Japan",
+      "descripcion": "Repetición ║ Desde paisajes naturales hasta arquitectura histórica que representan siglos de desarrollo cultural, los sitios del Patrimonio Mundial de Japón ofrecen una amplia gama de vislumbres de la historia y la belleza de la naturaleza.",
+      "inicio": "2026-11-03T20:15:00",
+      "fin": "2026-11-03T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/theworldheritagesitesinjapan.jpg"
+    },
+    {
+      "titulo": "Activate Your Japanese",
+      "descripcion": "Aprende a aprovechar al máximo tus habilidades japonesas. Mira nuestros dramas que presentan útiles estrategias de comunicación, nuestros videos rápidos sobre onomatopeyas y nuestros documentales sobre 'senpai' en Japón.",
+      "inicio": "2026-11-03T20:30:00",
+      "fin": "2026-11-03T20:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dig More Japan!",
+      "descripcion": "Adéntrate en las profundidades de la cultura japonesa: sus costumbres, tradiciones, modas y gastronomía.",
+      "inicio": "2026-11-03T20:45:00",
+      "fin": "2026-11-03T20:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/digmorejapan.jpg"
+    },
+    {
+      "titulo": "Dining with the Chef Mini",
+      "descripcion": "Programa que presenta la mirada del mundo y la atracción de la comida japonesa que se preocupa por la harmonía general y la variedad de ingredientes.",
+      "inicio": "2026-11-03T20:55:00",
+      "fin": "2026-11-03T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-03T21:00:00",
+      "fin": "2026-11-03T21:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "MATSURI: The Heartbeat of Japan",
+      "descripcion": "Repetición ║ Los festivales tradicionales llamados Matsuri se encuentran en todo Japón.",
+      "inicio": "2026-11-03T21:15:00",
+      "fin": "2026-11-03T21:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matsuritheheartbeatofjapan.jpg"
+    },
+    {
+      "titulo": "Nun's Cookbook",
+      "descripcion": "Repetición ║ Las monjas del Templo Otowasan Kannonji cocinan a lo grande y nos muestran cómo preparar las delicias de su recetario de temporada.",
+      "inicio": "2026-11-03T21:25:00",
+      "fin": "2026-11-03T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dive in Tokyo",
+      "descripcion": "Únase a nosotros en un viaje para descubrir el verdadero Tokio mientras nos adentramos en sus ciudades históricas y encontramos muchas sorpresas divertidas en el camino.",
+      "inicio": "2026-11-03T21:30:00",
+      "fin": "2026-11-03T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/diveintokyo.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-03T22:00:00",
+      "fin": "2026-11-03T22:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cinematic Journey",
+      "descripcion": "Documental en el que diversos exploradores invitan a la audiencia en su búsqueda de la belleza cinematográfica de Japón. Kyle Card recorre el largo sendero recientemente designado alrededor del majestuoso Monte Fuji y comparte sus secretos.",
+      "inicio": "2026-11-03T22:15:00",
+      "fin": "2026-11-03T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Direct Talk",
+      "descripcion": "Espacio de entrevistas a profundidad con personas influyentes y líderes de negocios que comparten sus conocimientos, información y análisis.",
+      "inicio": "2026-11-03T22:30:00",
+      "fin": "2026-11-03T22:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Japan's Top Inventions",
+      "descripcion": "¡Hecho en Japón! Las fascinantes historias y secretos ocultos detrás de la creación de los inventos más amados e intrigantes de Japón.",
+      "inicio": "2026-11-03T22:45:00",
+      "fin": "2026-11-03T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/japanstopinventions.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-03T23:00:00",
+      "fin": "2026-11-03T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Frontrunners",
+      "descripcion": "Se destaca a los profesionales a la vanguardia de su campo. Mostramos su increíble trabajo, descubrimos sus motivaciones y aprendemos sobre los desafíos que enfrentarán en el futuro.",
+      "inicio": "2026-11-03T23:30:00",
+      "fin": "2026-11-04T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/frontrunners.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-04T00:00:00",
+      "fin": "2026-11-04T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Science View",
+      "descripcion": "Repetición ║ Edición en la cual inminentes catedráticos japoneses ahondan en los fascinantes mundos de la tecnología de vanguardia y las ciencias naturales, dando a conocer sus principales descubrimientos y proyectos en el área.",
+      "inicio": "2026-11-04T00:30:00",
+      "fin": "2026-11-04T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-04T01:00:00",
+      "fin": "2026-11-04T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Across the Divide",
+      "descripcion": "Una directora de la NHK explora el distanciamiento con su propio padre, cuyas opiniones sobre las minorías han cambiado. A través del diálogo, busca comprender cómo y por qué es posible salvar la brecha que separa a los seres queridos.",
+      "inicio": "2026-11-04T01:30:00",
+      "fin": "2026-11-04T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-04T02:00:00",
+      "fin": "2026-11-04T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dive in Tokyo",
+      "descripcion": "Únase a nosotros en un viaje para descubrir el verdadero Tokio mientras nos adentramos en sus ciudades históricas y encontramos muchas sorpresas divertidas en el camino.",
+      "inicio": "2026-11-04T02:30:00",
+      "fin": "2026-11-04T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/diveintokyo.jpg"
+    },
+    {
+      "titulo": "Newsline Asia 24",
+      "descripcion": "Este programa de noticias diarias recoge las principales noticias de las últimas 24 horas de Japón y de toda Asia.",
+      "inicio": "2026-11-04T03:00:00",
+      "fin": "2026-11-04T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Direct Talk",
+      "descripcion": "Espacio de entrevistas a profundidad con personas influyentes y líderes de negocios que comparten sus conocimientos, información y análisis.",
+      "inicio": "2026-11-04T03:30:00",
+      "fin": "2026-11-04T03:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Japan's Top Inventions",
+      "descripcion": "Repetición ║ ¡Hecho en Japón! Las fascinantes historias y secretos ocultos detrás de la creación de los inventos más amados e intrigantes de Japón.",
+      "inicio": "2026-11-04T03:45:00",
+      "fin": "2026-11-04T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/japanstopinventions.jpg"
+    },
+    {
+      "titulo": "Newsline Asia 24",
+      "descripcion": "Este programa de noticias diarias recoge las principales noticias de las últimas 24 horas de Japón y de toda Asia.",
+      "inicio": "2026-11-04T04:00:00",
+      "fin": "2026-11-04T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Frontrunners",
+      "descripcion": "Repetición ║ Se destaca a los profesionales a la vanguardia de su campo. Mostramos su increíble trabajo, descubrimos sus motivaciones y aprendemos sobre los desafíos que enfrentarán en el futuro.",
+      "inicio": "2026-11-04T04:30:00",
+      "fin": "2026-11-04T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/frontrunners.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-04T05:00:00",
+      "fin": "2026-11-04T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Across the Divide",
+      "descripcion": "Repetición ║ Una directora de la NHK explora el distanciamiento con su propio padre, cuyas opiniones sobre las minorías han cambiado. A través del diálogo, busca comprender cómo y por qué es posible salvar la brecha que separa a los seres queridos.",
+      "inicio": "2026-11-04T05:30:00",
+      "fin": "2026-11-04T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-04T06:00:00",
+      "fin": "2026-11-04T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Science View",
+      "descripcion": "Repetición ║ Edición en la cual inminentes catedráticos japoneses ahondan en los fascinantes mundos de la tecnología de vanguardia y las ciencias naturales, dando a conocer sus principales descubrimientos y proyectos en el área.",
+      "inicio": "2026-11-04T06:30:00",
+      "fin": "2026-11-04T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NHK News 7",
+      "descripcion": "Espacio que brinda informes sobre las últimas historias del día en Japón y fuera de sus fronteras. Este compacto también incluye datos deportivos y reportes meteorológicos.",
+      "inicio": "2026-11-04T07:00:00",
+      "fin": "2026-11-04T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "BOSAI",
+      "descripcion": "Japón tiene una larga historia de desastres naturales. Aquí se explora cómo superarlos y salvar vidas con el poder de la ciencia.",
+      "inicio": "2026-11-04T07:30:00",
+      "fin": "2026-11-04T07:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Why Is Hay Fever Getting Worse",
+      "descripcion": "El número de personas que padecen fiebre del heno, que afecta gravemente la vida cotidiana, está aumentando en todo el mundo. Esta tendencia se debe a un cambio en los patrones de dispersión del polen, influenciado por el cambio climático.",
+      "inicio": "2026-11-04T07:45:00",
+      "fin": "2026-11-04T07:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Time-Lapse Japan • Izumo: Steelmaking",
+      "descripcion": "Izumo: Steelmaking | Oku-Izumo es el hogar de una antigua técnica para fabricar el acero, que siempre fue utilizado en las espadas japonesas. Conocemos a un herrero que ha heredado la tradición y disfrutamos del paisaje local, presentado en imágenes time-lapse.",
+      "inicio": "2026-11-04T07:55:00",
+      "fin": "2026-11-04T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Newsroom Tokyo",
+      "descripcion": "La más amplia cobertura de los acontecimientos en Japón y Asia en general, así como también la evolución del día y los acontecimientos más resaltantes.",
+      "inicio": "2026-11-04T08:00:00",
+      "fin": "2026-11-04T08:28:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Direct Talk",
+      "descripcion": "Espacio de entrevistas a profundidad con personas influyentes y líderes de negocios que comparten sus conocimientos, información y análisis.",
+      "inicio": "2026-11-04T08:28:00",
+      "fin": "2026-11-04T08:43:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Nun's Seasonal Calendar",
+      "descripcion": "Repetición ║ En lo profundo de las montañas de la prefectura japonesa de Nara, se encuentra el templo Otowasan Kannonji, en donde las monjas se preparan para los eventos estacionales basados en el calendario solar.",
+      "inicio": "2026-11-04T08:43:00",
+      "fin": "2026-11-04T08:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ukiyoe Edo-Life • On a Snowy Night",
+      "descripcion": "Repetición ║ On a Snowy Night | Encontramos un paisaje urbano de Edo, que es bastante pacifico y está cubierto de nieve. Pero hay algo más en el aire, el aroma de los alimentos dulces y salados, que ayudan a los habitantes de la ciudad a mantenerse calientes durante el invierno.",
+      "inicio": "2026-11-04T08:55:00",
+      "fin": "2026-11-04T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ukiyoeedolife.jpg"
+    },
+    {
+      "titulo": "Newsroom Tokyo",
+      "descripcion": "La más amplia cobertura de los acontecimientos en Japón y Asia en general, así como también la evolución del día y los acontecimientos más resaltantes.",
+      "inicio": "2026-11-04T09:00:00",
+      "fin": "2026-11-04T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Direct Talk",
+      "descripcion": "Espacio de entrevistas a profundidad con personas influyentes y líderes de negocios que comparten sus conocimientos, información y análisis.",
+      "inicio": "2026-11-04T09:30:00",
+      "fin": "2026-11-04T09:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Japan's Top Inventions",
+      "descripcion": "Repetición ║ ¡Hecho en Japón! Las fascinantes historias y secretos ocultos detrás de la creación de los inventos más amados e intrigantes de Japón.",
+      "inicio": "2026-11-04T09:45:00",
+      "fin": "2026-11-04T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/japanstopinventions.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-04T10:00:00",
+      "fin": "2026-11-04T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Frontrunners",
+      "descripcion": "Repetición ║ Se destaca a los profesionales a la vanguardia de su campo. Mostramos su increíble trabajo, descubrimos sus motivaciones y aprendemos sobre los desafíos que enfrentarán en el futuro.",
+      "inicio": "2026-11-04T10:30:00",
+      "fin": "2026-11-04T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/frontrunners.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-04T11:00:00",
+      "fin": "2026-11-04T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Trails to Oishii Tokyo",
+      "descripcion": "Eche un vistazo en profundidad a la comida japonesa disponible en el emblemático mercado de Tokio, donde se recolecta todo tipo de alimentos frescos, desde mariscos hasta productos, de todo el país. El programa rastrea alimentos japoneses únicos del mercado hasta su fuente original.",
+      "inicio": "2026-11-04T11:30:00",
+      "fin": "2026-11-04T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/trailstooishiitokyo.jpg"
+    },
+    {
+      "titulo": "NHK Newsline",
+      "descripcion": "Todos los días, la actualidad detallada con foco en Japón y otros países de Asia. También el pronóstico global del tiempo y una cobertura especial del mundo de los negocios.",
+      "inicio": "2026-11-04T12:00:00",
+      "fin": "2026-11-04T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dive in Tokyo",
+      "descripcion": "Únase a nosotros en un viaje para descubrir el verdadero Tokio mientras nos adentramos en sus ciudades históricas y encontramos muchas sorpresas divertidas en el camino.",
+      "inicio": "2026-11-04T12:30:00",
+      "fin": "2026-11-04T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/diveintokyo.jpg"
     }
   ]
 }

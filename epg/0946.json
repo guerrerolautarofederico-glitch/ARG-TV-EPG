@@ -1,88 +1,158 @@
 {
   "actual": {
-    "titulo": "Trece animado",
-    "descripcion": "Un espacio con programas infantiles para que los niños se diviertan y a al vez aprendan desde casa. Junto a una gran variedad de personajes y aventuras, los más pequeños se reirán, cantarán y jugarán a la vez que aprenden sobre la vida.",
-    "inicio": "2026-11-02T09:00:00",
-    "fin": "2026-11-03T02:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-  },
-  "siguiente": {
     "titulo": "Playlist",
     "descripcion": "100% de música, 100% de vídeoclipes.",
-    "inicio": "2026-11-03T02:00:00",
-    "fin": "2026-11-03T03:00:00",
+    "inicio": "2026-11-03T09:00:00",
+    "fin": "2026-11-03T22:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/playlist.jpg"
+  },
+  "siguiente": {
+    "titulo": "Salió el sol",
+    "descripcion": "Un magazine matutino que le da los buenos días a los televidentes de las regiones y provincias de Colombia. Presenta secciones de cocina, mascotas, fitness y mucho más.",
+    "inicio": "2026-11-03T22:30:00",
+    "fin": "2026-11-04T00:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Trece animado",
-      "descripcion": "Un espacio con programas infantiles para que los niños se diviertan y a al vez aprendan desde casa. Junto a una gran variedad de personajes y aventuras, los más pequeños se reirán, cantarán y jugarán a la vez que aprenden sobre la vida.",
-      "inicio": "2026-11-02T09:00:00",
-      "fin": "2026-11-03T02:00:00",
+      "titulo": "Playlist",
+      "descripcion": "100% de música, 100% de vídeoclipes.",
+      "inicio": "2026-11-03T09:00:00",
+      "fin": "2026-11-03T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/playlist.jpg"
+    },
+    {
+      "titulo": "Salió el sol",
+      "descripcion": "Un magazine matutino que le da los buenos días a los televidentes de las regiones y provincias de Colombia. Presenta secciones de cocina, mascotas, fitness y mucho más.",
+      "inicio": "2026-11-03T22:30:00",
+      "fin": "2026-11-04T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rally Steam",
+      "descripcion": "RALLY STEAM, combina ciencia, tecnología y aventura. En cada episodio, equipos de diferentes departamentos enfrentarán retos que pondrán a prueba su creatividad, habilidades y conocimiento.",
+      "inicio": "2026-11-04T00:00:00",
+      "fin": "2026-11-04T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "A la carta",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-04T01:00:00",
+      "fin": "2026-11-04T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Colombia es sabor",
+      "descripcion": "El programa te invita a un recorrido por las tradiciones culinarias más auténticas de Colombia. Descubre los aromas, sabores y secretos que hacen única a nuestra cultura. ¡Únete a esta experiencia llena de historia, identidad y mucho sabor!",
+      "inicio": "2026-11-04T01:30:00",
+      "fin": "2026-11-04T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Playlist",
       "descripcion": "100% de música, 100% de vídeoclipes.",
-      "inicio": "2026-11-03T02:00:00",
-      "fin": "2026-11-03T03:00:00",
+      "inicio": "2026-11-04T02:00:00",
+      "fin": "2026-11-04T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/playlist.jpg"
     },
     {
-      "titulo": "El Podcast",
-      "descripcion": "Una joven periodista desesperada recurre al podcasting para salvar su carrera, pero su prisa por aparecer en los titulares la lleva a una conspiración alienígena.",
-      "inicio": "2026-11-03T03:00:00",
-      "fin": "2026-11-03T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elpodcast.jpg"
+      "titulo": "Fuerza latina",
+      "descripcion": "Las periodistas Natalia Orozco y Yoani Sánchez conversan cada semana con mujeres extraordinarias de América Latina, quienes nos acercan sus fascinantes historias y nos muestran el entorno en el que viven y trabajan. Son mujeres que, con tenacidad y perseverancia, se proponen cambiar la sociedad y alzan su voz para reclamar derechos y denunciar injusticias.",
+      "inicio": "2026-11-04T02:00:00",
+      "fin": "2026-11-04T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatina.jpg"
     },
     {
-      "titulo": "Escenario • Bosque encantado",
-      "descripcion": "Bosque encantado | El mejor teatro español contemporáneo llega a la pantalla convertido en una excitante nueva forma de ficción audiovisual. Seis prestigiosas, variadas y exitosas obras enriquecidas con el talento de un grupo de cineastas de primera categoría.",
-      "inicio": "2026-11-03T04:00:00",
-      "fin": "2026-11-03T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/escenario.jpg"
+      "titulo": "Cultura.21",
+      "descripcion": "Descubrir ideas nuevas y describir fenómenos culturales, que marcan nuestra historia, nuestro presente y nuestro futuro. Cultura.21 se mete de lleno en el panorama creativo. ¿Quiénes son sus protagonistas y cuáles sus obras?",
+      "inicio": "2026-11-04T02:30:00",
+      "fin": "2026-11-04T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cultura21.jpg"
+    },
+    {
+      "titulo": "Capacidades diversas",
+      "descripcion": "Un recorrido por las historias de diez personas que han enfrentado distintos tipos de discapacidad, transformando sus vidas y las de quienes los rodean.",
+      "inicio": "2026-11-04T03:00:00",
+      "fin": "2026-11-04T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Magnifica Región Trece",
+      "descripcion": "Espacio que explora la diversidad cultural y natural de la región.",
+      "inicio": "2026-11-04T03:30:00",
+      "fin": "2026-11-04T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ruta musical",
+      "descripcion": "Realizamos una selección de los mejores grupos y solistas quienes con sus diversos ritmos y estilos alegran el alma, fortalecen el espíritu y motivan a vivir cada día con renovado entusiasmo.",
+      "inicio": "2026-11-04T04:00:00",
+      "fin": "2026-11-04T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hobbies extraordinarios",
+      "descripcion": "Conocemos hobbies extraordinarios a través de sus representantes: un coleccionista que usa sus figuras para crear una obra maestra, un grafittero que realiza increíbles murales con aerosol y muchos personajes más.",
+      "inicio": "2026-11-04T04:30:00",
+      "fin": "2026-11-04T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Playlist",
       "descripcion": "100% de música, 100% de vídeoclipes.",
-      "inicio": "2026-11-03T05:30:00",
-      "fin": "2026-11-03T07:00:00",
+      "inicio": "2026-11-04T05:00:00",
+      "fin": "2026-11-04T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/playlist.jpg"
     },
     {
-      "titulo": "Music for Life: Resonantes",
-      "descripcion": "Un espacio dedicado a la escena underground que presenta un dialogo con la música en vivo y las experiencias de los artistas a través de entrevistas poco convencionales y de alto impacto para las pantallas.",
-      "inicio": "2026-11-03T07:00:00",
-      "fin": "2026-11-03T08:00:00",
+      "titulo": "Honores policiales",
+      "descripcion": "Sigue la vida y el trabajo de los oficiales de la comisaría de Balihe. Con la ayuda de los ancianos de la comisaría, aprenderán a gestionar su vida y su trabajo y, con el tiempo, se convertirán en policías destacados.",
+      "inicio": "2026-11-04T06:00:00",
+      "fin": "2026-11-04T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Patrulla salva perros",
+      "descripcion": "Una serie en formato docu-reality que sigue a diversos rescatistas. A través de historias reales, se muestra el trabajo de los equipos que atienden a perros, gatos y otras mascotas en condiciones de vulnerabilidad.",
+      "inicio": "2026-11-04T07:00:00",
+      "fin": "2026-11-04T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Playlist esperanzador",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-03T08:00:00",
-      "fin": "2026-11-03T08:00:00",
+      "inicio": "2026-11-04T08:00:00",
+      "fin": "2026-11-04T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Music for Life",
       "descripcion": "Variedad de contenidos de actualidad, música en vivo de bandas emergentes, videos musicales y entrevistas a celebridades que comparten una misma pasión: las regiones, la vida y la música.",
-      "inicio": "2026-11-03T08:00:00",
-      "fin": "2026-11-03T09:00:00",
+      "inicio": "2026-11-04T08:00:00",
+      "fin": "2026-11-04T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Playlist",
       "descripcion": "100% de música, 100% de vídeoclipes.",
-      "inicio": "2026-11-03T09:00:00",
-      "fin": "2026-11-03T09:00:00",
+      "inicio": "2026-11-04T09:00:00",
+      "fin": "2026-11-04T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/playlist.jpg"
     },
     {
-      "titulo": "Cuando una carcajada se convierte en tos",
-      "descripcion": "Cuatro veteranos del teatro, más allá de los años y los desafíos de la vida, se reencuentran para perseguir su pasión. Entre risas, obstáculos y secretos del pasado, demostrarán que nunca es tarde para soñar, amar y subir al escenario.",
-      "inicio": "2026-11-03T09:00:00",
-      "fin": "2026-11-03T22:30:00",
+      "titulo": "Cámara",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-04T09:00:00",
+      "fin": "2026-11-04T09:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Contragolpe",
+      "descripcion": "Un programa que aborda lo más destacado de la agenda del fútbol a nivel nacional. Los presentadores analizan los partidos, comentan las jugadas clave y hacen sus predicciones para la siguiente fecha.",
+      "inicio": "2026-11-04T09:30:00",
+      "fin": "2026-11-04T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/contragolpe.jpg"
     }
   ]
 }

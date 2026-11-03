@@ -1,109 +1,95 @@
 {
   "actual": {
-    "titulo": "La Maravilla",
-    "descripcion": "Papi y Yiyo heredan un edificio antiguo, sin saber que los inquilinos esconden un secreto complicado.",
-    "inicio": "2026-11-02T09:50:00",
-    "fin": "2026-11-02T23:15:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamaravilla.jpg"
+    "titulo": "Sinvergüenzas",
+    "descripcion": "Programa de TV de cámaras ocultas capitaneado por Santi Millán y Javi Sancho donde un montón de sinvergüenzas prometen liarla muy a lo bestia.",
+    "inicio": "2026-11-03T09:00:00",
+    "fin": "2026-11-03T22:35:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinvergenzas.jpg"
   },
   "siguiente": {
-    "titulo": "Perfidia",
-    "descripcion": "Un grupo de traficantes de armas planea robar a una viuda rica y suceden una serie de acontecimientos reales y fantasiosos.",
-    "inicio": "2026-11-02T23:15:00",
-    "fin": "2026-11-03T00:45:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Vico C: la vida del filósofo",
+    "descripcion": "Película biográfica basada en la historia del cantante Vico C, compositor y pionero de la música urbana en español. Desde sus humildes comienzos hasta su salto a la fama internacional. Las duras experiencias de un guerrero de la vida que cambió la perspectiva musical en el mundo.",
+    "inicio": "2026-11-03T22:35:00",
+    "fin": "2026-11-04T00:35:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vicoclavidadelfilosofo.jpg"
   },
   "lista": [
-    {
-      "titulo": "La Maravilla",
-      "descripcion": "Papi y Yiyo heredan un edificio antiguo, sin saber que los inquilinos esconden un secreto complicado.",
-      "inicio": "2026-11-02T09:50:00",
-      "fin": "2026-11-02T23:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamaravilla.jpg"
-    },
-    {
-      "titulo": "Perfidia",
-      "descripcion": "Un grupo de traficantes de armas planea robar a una viuda rica y suceden una serie de acontecimientos reales y fantasiosos.",
-      "inicio": "2026-11-02T23:15:00",
-      "fin": "2026-11-03T00:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La leyenda de la Nahuala",
-      "descripcion": "Leo San Juan, un niño inseguro de nueve años de edad, vive eternamente asustado por las historias de terror que Nando le cuenta a su hermano mayor. Dentro de estas historias es \"La leyenda de Nahuala\", según la cual, una vieja casona abandonada es poseída por el alcohol de una bruja malvada conocida como el Nahuala.",
-      "inicio": "2026-11-03T00:45:00",
-      "fin": "2026-11-03T01:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laleyendadelanahuala.jpg"
-    },
-    {
-      "titulo": "El muerto al pozo y el vivo al gozo",
-      "descripcion": "Un hombre muy adinerado se casa con una interesada mujer. Una noche fallece repentinamente, sus hijos no están dispuestos a compartir la herencia con su bella madrastra y harán de todo para impedirlo.",
-      "inicio": "2026-11-03T01:55:00",
-      "fin": "2026-11-03T02:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La llorona",
-      "descripcion": "La Llorona es una aparición tenebrosa, atrapada entre el Cielo y el Infierno, con un destino terrible sellado por su propia mano. La mera mención de su nombre ha causado terror en todo el mundo durante generaciones. En vida, ahogó a sus hijos en una rabia de celos, arrojándose en el río tras ver como mató a sus hijos violentamente. Ahora sus lágrimas son eternas, letales, y aquellos que escuchan su llamada de muerte en la noche están condenados. Se arrastra en las sombras y ataca a los niños, desesperada por reemplazar a los suyos. A medida que los siglos han pasado, su deseo se ha vuelto más voraz y sus métodos más terroríficos.",
-      "inicio": "2026-11-03T02:15:00",
-      "fin": "2026-11-03T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lallorona.jpg"
-    },
-    {
-      "titulo": "Mi último deseo",
-      "descripcion": "Es la historia de Juan Pablo Aguilar, muchacho joven y fiestero, enamorado de la aventura y el buen vivir a toda velocidad pero, a causa de un accidente mortal, se deberá enfrentar a un peligroso capo.",
-      "inicio": "2026-11-03T03:30:00",
-      "fin": "2026-11-03T03:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La Llorona 2",
-      "descripcion": "Una leyenda dice que el mal habita el río en donde una mujer ahogó a sus hijos por el amor de un hombre. Ahora ella se encuentra atrapada en las oscuras regiones, poseída y condenada. La gente cuenta que vaga en la oscuridad, gritando y lamentado la perdida de sus hijos. Dicen que si la ves... corre.",
-      "inicio": "2026-11-03T03:45:00",
-      "fin": "2026-11-03T05:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dominación femenina",
-      "descripcion": "Un embajador de México en Sudafrica, corrupto y atraído en secreto por las prácticas sadomasoquistas, es encontrado muerto en extrañas condiciones y su familia contrata a un detective para resolver el asesinato.",
-      "inicio": "2026-11-03T05:05:00",
-      "fin": "2026-11-03T05:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La llorona 3",
-      "descripcion": "Daniel y Alice llevan a sus dos hijos a la casa de la madre de Alice después de la trágica y misteriosa muerte de su padre. Una vez allí, Daniel aprenderá sobre algunos asesinatos sin resolver y casos de personas desaparecidas.",
-      "inicio": "2026-11-03T05:15:00",
-      "fin": "2026-11-03T06:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos para solitarios",
-      "descripcion": "Una serie de relatos fantásticos presentados como cuentos cortos unitarios de diversos géneros. Realizada en espectaculares escenarios. Reúne a un selecto grupo de escritores de cine y televisión.",
-      "inicio": "2026-11-03T06:50:00",
-      "fin": "2026-11-03T06:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El hombre de negro",
-      "descripcion": "Después de que su familia es asesinada por bandidos, un joven recluta a un vaquero errante para enseñarle a disparar.",
-      "inicio": "2026-11-03T06:50:00",
-      "fin": "2026-11-03T08:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elhombredenegro.jpg"
-    },
-    {
-      "titulo": "Linea de tiempo",
-      "descripcion": "Joaquín recibe una serie de misteriosos mensajes de texto, exigiéndole que publique oscuros secretos de determinadas personas. Si no cumple, Nina, su ex-novia, será asesinada.",
-      "inicio": "2026-11-03T08:35:00",
-      "fin": "2026-11-03T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lineadetiempo.jpg"
-    },
     {
       "titulo": "Sinvergüenzas",
       "descripcion": "Programa de TV de cámaras ocultas capitaneado por Santi Millán y Javi Sancho donde un montón de sinvergüenzas prometen liarla muy a lo bestia.",
       "inicio": "2026-11-03T09:00:00",
-      "fin": "2026-11-03T22:25:00",
+      "fin": "2026-11-03T22:35:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinvergenzas.jpg"
+    },
+    {
+      "titulo": "Vico C: la vida del filósofo",
+      "descripcion": "Película biográfica basada en la historia del cantante Vico C, compositor y pionero de la música urbana en español. Desde sus humildes comienzos hasta su salto a la fama internacional. Las duras experiencias de un guerrero de la vida que cambió la perspectiva musical en el mundo.",
+      "inicio": "2026-11-03T22:35:00",
+      "fin": "2026-11-04T00:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vicoclavidadelfilosofo.jpg"
+    },
+    {
+      "titulo": "El dormilón",
+      "descripcion": "Quiso la buena fortuna que Baldomero ganara el premio mayor de una rifa. Pero la mala suerte lo hizo perder el boleto, el cual pasará por distintas manos, dejando a su paso confusión y malos momentos.",
+      "inicio": "2026-11-04T00:35:00",
+      "fin": "2026-11-04T02:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los lunes a las 9",
+      "descripcion": "La historia del exitoso programa \"No te duermas\", que cambió para siempre la televisión portorriqueña. Un emotivo registro con artistas invitados, documentos históricos y todos los personajes populares entre el público.",
+      "inicio": "2026-11-04T02:10:00",
+      "fin": "2026-11-04T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loslunesalas9.jpg"
+    },
+    {
+      "titulo": "Prisión de por vida",
+      "descripcion": "Al conseguir libertad condicional, Tony trata de cambiar su vida y convertirse en un mejor padre. Lo que nunca imaginó es que la pandilla a la que él pertenecía se encargaría de recordarle que de esa vida, nadie escapa.",
+      "inicio": "2026-11-04T03:00:00",
+      "fin": "2026-11-04T04:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dos compadres y una yola",
+      "descripcion": "Dos taxistas dominicanos planean viajar ilegalmente a Puerto Rico en busca de dos mujeres de clase alta que conocieron y de las que se enamoraron.",
+      "inicio": "2026-11-04T04:05:00",
+      "fin": "2026-11-04T05:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Negocios son negocios",
+      "descripcion": "Un joven con ciertas limitaciones para asumir riesgos, repentinamente se ve como gerente de una importante empresa bancaria. A partir de este momento, producto de una ingenua confusión, su vida va a cambiar con el disfrute de las facilidades de su nuevo cargo, pero sin imaginar que más adelante le llegarán los problemas.",
+      "inicio": "2026-11-04T05:45:00",
+      "fin": "2026-11-04T07:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "12 segundos",
+      "descripcion": "Tras la extraña desaparición de su jefe en una cabaña de descanso, Selma, una joven asistente ejecutiva, independiente y dedicada por sobre manera a su trabajo, se ve comprometida a buscarlo. Por lo que tiene que viajar a la montaña, en donde descubre un asesinato atroz. Un ermitaño montañés en compañía de su peligroso perro carroñero, son los principales sospechosos. El destino lleva a Selma a enfrentarse con su miedo más enfermizo, a sufrir una extenuante persecución acompañada de un joven que practicaba el rapel por la zona y a descubrir una traición y un asesinato por pasión. Al final, Selma aprende que solo bastan unos segundos para plantarse frente a sus miedos y decidir superarlos, para así quizá, salvar su vida.",
+      "inicio": "2026-11-04T07:25:00",
+      "fin": "2026-11-04T07:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/12segundos.jpg"
+    },
+    {
+      "titulo": "Hoy",
+      "descripcion": "Eva es una anciana que enfrenta la soledad y el encierro. Su única compañía es un lagarto que también vive confinado en una pecera. Hoy, Eva decide obligar a su nieta a llevársela de paseo en el coche.",
+      "inicio": "2026-11-04T07:45:00",
+      "fin": "2026-11-04T08:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoy.jpg"
+    },
+    {
+      "titulo": "¿Cómo le digo?",
+      "descripcion": "Dos grandes amigos se quieren como hermanos y trabajan para un poderoso mafioso siempre jugándose la vida, hasta que un día aparece una bella mujer que se involucra sentimentalmente con ambos y pone a prueba su inquebrantable amistad.",
+      "inicio": "2026-11-04T08:55:00",
+      "fin": "2026-11-04T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Café con sabor a mi tierra",
+      "descripcion": "Una familia productora de café ve amenazada su cosecha por una terrible plaga y los bajos precios.",
+      "inicio": "2026-11-04T09:00:00",
+      "fin": "2026-11-04T22:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cafeconsaboramitierra.jpg"
     }
   ]
 }
