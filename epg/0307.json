@@ -1,374 +1,430 @@
 {
   "actual": {
-    "titulo": "Pistas de Blue y tú • ¡Agradecidos con Blue!",
-    "descripcion": "¡Agradecidos con Blue! | Josh confecciona un libro de agradecimiento y descubre por qué Blue se siente agradecido. Se aprende sobre la paciencia y la gratitud.",
-    "inicio": "2026-11-03T12:35:00",
-    "fin": "2026-11-03T12:55:00",
+    "titulo": "Pistas de Blue y tú • La gran banda de Blue",
+    "descripcion": "La gran banda de Blue | Josh y Blue forman una banda. Los espectadores siguen las pistas de Blue para descubrir qué instrumentos tocará, formar una banda en casa, aprender ritmos, identificar los ritmos y cantar.",
+    "inicio": "2026-11-04T12:35:00",
+    "fin": "2026-11-04T12:55:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pistasdeblueytu.jpg"
   },
   "siguiente": {
-    "titulo": "Barbapapá: ¡Una gran familia! • Los títeres; Glup glup ah-ah",
-    "descripcion": "Los títeres; Glup glup ah-ah | Los niños deciden darlo todo en el escenario. Barbalib quiere hacer la mejor limonada del mundo.",
-    "inicio": "2026-11-03T12:55:00",
-    "fin": "2026-11-03T13:15:00",
+    "titulo": "Barbapapá: ¡Una gran familia! • Torneo de cuentos; El mundo de los Barbabebés",
+    "descripcion": "Torneo de cuentos; El mundo de los Barbabebés | Barbalib, Barbalala y Barbabelle se turnan como narradores para contar una historia. La familia Barbapapa pasa un día en la playa.",
+    "inicio": "2026-11-04T12:55:00",
+    "fin": "2026-11-04T13:15:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Pistas de Blue y tú • ¡Agradecidos con Blue!",
-      "descripcion": "¡Agradecidos con Blue! | Josh confecciona un libro de agradecimiento y descubre por qué Blue se siente agradecido. Se aprende sobre la paciencia y la gratitud.",
-      "inicio": "2026-11-03T12:35:00",
-      "fin": "2026-11-03T12:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pistasdeblueytu.jpg"
-    },
-    {
-      "titulo": "Barbapapá: ¡Una gran familia! • Los títeres; Glup glup ah-ah",
-      "descripcion": "Los títeres; Glup glup ah-ah | Los niños deciden darlo todo en el escenario. Barbalib quiere hacer la mejor limonada del mundo.",
-      "inicio": "2026-11-03T12:55:00",
-      "fin": "2026-11-03T13:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Barbapapá: ¡Una gran familia! • El Louvre; El día de los contrarios",
-      "descripcion": "El Louvre; El día de los contrarios | En un viaje a París, la familia Barbapapa descubre el museo más increíble. Barbalala ha decidido respetar todas las reglas del Día Antagónico.",
-      "inicio": "2026-11-03T13:15:00",
-      "fin": "2026-11-03T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sr. Cocodrilo",
-      "descripcion": "El señor Cocodrilo y Daisy, una niña que vive entre las casas de sus padres divorciados, comparten divertidas aventuras en su comunidad de caravanas. Con su peculiar lógica de cocodrilo, él convierte lo cotidiano en situaciones inesperadas, haciendo que cada momento sea especial y lleno de humor.",
-      "inicio": "2026-11-03T14:00:00",
-      "fin": "2026-11-03T14:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/srcocodrilo.jpg"
-    },
-    {
-      "titulo": "Misterios animales • El mamut perdido: Un misterio navideño",
-      "descripcion": "El mamut perdido: Un misterio navideño | Todo el mundo está ayudando con las decoraciones navideñas. Sin embargo, Sam y Kit retroceden en el tiempo a la Edad de Hielo, en donde conocen a unos nuevos amigos.",
-      "inicio": "2026-11-03T14:25:00",
-      "fin": "2026-11-03T14:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Rubble & Crew • El equipo construye una escuela; El equipo construye un canal de agua",
-      "descripcion": "El equipo construye una escuela; El equipo construye un canal de agua | Es el primer día de clase en Caleta Constructor... ¡Si Rubble y equipo consiguen terminar la construcción a tiempo! ¡Los cachorros necesitan una solución para salvar los vegetales de la granjera Zoe y evitar que Crunchy, el castor, se lleve el agua!",
-      "inicio": "2026-11-03T14:45:00",
-      "fin": "2026-11-03T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
-    },
-    {
-      "titulo": "PAW Patrol: Patrulla de cachorros • Salvemos a las tortugas; Un enorme bebé",
-      "descripcion": "Salvemos a las tortugas; Un enorme bebé | Ryder, Chase y Rubble piensan ayudar a las crías de tortugas marinas a cruzar la carretera de forma segura; PAW Patrol debe trabajar para salvar a una bebé ballena encallada.",
-      "inicio": "2026-11-03T15:30:00",
-      "fin": "2026-11-03T16:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
-    },
-    {
-      "titulo": "Barbapapá: ¡Una gran familia! • El Louvre; El día de los contrarios",
-      "descripcion": "El Louvre; El día de los contrarios | En un viaje a París, la familia Barbapapa descubre el museo más increíble. Barbalala ha decidido respetar todas las reglas del Día Antagónico.",
-      "inicio": "2026-11-03T16:20:00",
-      "fin": "2026-11-03T17:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Santiago de los mares • La maldición del Halcón Dorado; La isla de las Cosas Perdidas",
-      "descripcion": "La maldición del Halcón Dorado; La isla de las Cosas Perdidas | Santiago y su tripulación salen en búsqueda del Halcón Dorado. La espada mágica de Santiago es transportada a la isla de las Cosas Perdidas.",
-      "inicio": "2026-11-03T17:25:00",
-      "fin": "2026-11-03T18:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagodelosmares.jpg"
-    },
-    {
-      "titulo": "Pistas de Blue y tú • La gran banda de Blue",
-      "descripcion": "La gran banda de Blue | Josh y Blue forman una banda. Los espectadores siguen las pistas de Blue para descubrir qué instrumentos tocará, formar una banda en casa, aprender ritmos, identificar los ritmos y cantar.",
-      "inicio": "2026-11-03T18:15:00",
-      "fin": "2026-11-03T18:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pistasdeblueytu.jpg"
-    },
-    {
-      "titulo": "PAW Patrol: Patrulla de cachorros • Los cachorros salvan la aventura; Los cachorros reciben una sorpresa",
-      "descripcion": "Los cachorros salvan la aventura; Los cachorros reciben una sorpresa | La PAW Patrol se une a Alex y el Sr. Porter, en su campamento y les enseña a construir con seguridad y extinguir un fuego de campamento; mientras rescata a Chickaletta desde la cima de City Hall, los cachorros han sido adornados para una gran fiesta.",
-      "inicio": "2026-11-03T18:40:00",
-      "fin": "2026-11-03T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
-    },
-    {
-      "titulo": "DORA • Super Little Dog; Benny y las mascotas",
-      "descripcion": "Super Little Dog; Benny y las mascotas | Dora, una niña de siete años, se embarca en aventuras mágicas en la selva tropical con su amigo Botas y con una variedad de divertidas herramientas.",
-      "inicio": "2026-11-03T19:30:00",
-      "fin": "2026-11-03T19:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dora.jpg"
-    },
-    {
-      "titulo": "DORA • Alebrije; A comer paleta",
-      "descripcion": "Alebrije; A comer paleta | Dora ayuda a un alebrije a recuperar el agua del arcoíris necesaria para un árbol especial. En un día caluroso en la selva tropical, Dora tiene que rescatar el camión de paletas de Val y conseguir helados para todos.",
-      "inicio": "2026-11-03T19:50:00",
-      "fin": "2026-11-03T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dora.jpg"
-    },
-    {
-      "titulo": "Sr. Cocodrilo",
-      "descripcion": "El señor Cocodrilo y Daisy, una niña que vive entre las casas de sus padres divorciados, comparten divertidas aventuras en su comunidad de caravanas. Con su peculiar lógica de cocodrilo, él convierte lo cotidiano en situaciones inesperadas, haciendo que cada momento sea especial y lleno de humor.",
-      "inicio": "2026-11-03T20:00:00",
-      "fin": "2026-11-03T20:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/srcocodrilo.jpg"
-    },
-    {
-      "titulo": "Barbapapá: ¡Una gran familia! • Torneo de cuentos; El mundo de los Barbabebés",
-      "descripcion": "Torneo de cuentos; El mundo de los Barbabebés | Barbalib, Barbalala y Barbabelle se turnan como narradores para contar una historia. La familia Barbapapa pasa un día en la playa.",
-      "inicio": "2026-11-03T20:25:00",
-      "fin": "2026-11-03T20:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Barbapapá: ¡Una gran familia! • El Louvre; El día de los contrarios",
-      "descripcion": "El Louvre; El día de los contrarios | En un viaje a París, la familia Barbapapa descubre el museo más increíble. Barbalala ha decidido respetar todas las reglas del Día Antagónico.",
-      "inicio": "2026-11-03T20:45:00",
-      "fin": "2026-11-03T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Rubble & Crew • ¡El equipo construye un gimnasio!; ¡El equipo organiza un espectáculo de construcción!",
-      "descripcion": "¡El equipo construye un gimnasio!; ¡El equipo organiza un espectáculo de construcción! | La entrenadora Karima le pide a Rubble y al equipo que construyan un gimnasio y los cachorros arreglan una viga que es demasiado alta para Lily. Rubble y el equipo organizan un espectáculo.",
-      "inicio": "2026-11-03T21:00:00",
-      "fin": "2026-11-03T21:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
-    },
-    {
-      "titulo": "Rubble & Crew",
-      "descripcion": "Rubble se embarca en aventuras con toda una nueva pandilla de cachorros; los cachorros utilizan increíbles vehículos de construcción para construir y reparar cosas en la ciudad.",
-      "inicio": "2026-11-03T21:20:00",
-      "fin": "2026-11-03T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
-    },
-    {
-      "titulo": "PAW Patrol: Patrulla de cachorros • Salvemos a las tortugas; Un enorme bebé",
-      "descripcion": "Salvemos a las tortugas; Un enorme bebé | Ryder, Chase y Rubble piensan ayudar a las crías de tortugas marinas a cruzar la carretera de forma segura; PAW Patrol debe trabajar para salvar a una bebé ballena encallada.",
-      "inicio": "2026-11-03T21:30:00",
-      "fin": "2026-11-03T21:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
-    },
-    {
-      "titulo": "PAW Patrol: Patrulla de cachorros • Los cachorros y la ballenita",
-      "descripcion": "Los cachorros y la ballenita | Everest y Jake llaman a la Patrulla de Cachorros para pedir ayuda después de encontrar una ballena bebé atrapada bajo el hielo en una expedición de avistamiento de ballenas con el Capitán Turbot.",
-      "inicio": "2026-11-03T21:50:00",
-      "fin": "2026-11-03T22:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
-    },
-    {
-      "titulo": "Santiago de los mares • La maldición del Halcón Dorado; La isla de las Cosas Perdidas",
-      "descripcion": "La maldición del Halcón Dorado; La isla de las Cosas Perdidas | Santiago y su tripulación salen en búsqueda del Halcón Dorado. La espada mágica de Santiago es transportada a la isla de las Cosas Perdidas.",
-      "inicio": "2026-11-03T22:05:00",
-      "fin": "2026-11-03T22:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagodelosmares.jpg"
-    },
-    {
-      "titulo": "Barbapapá: ¡Una gran familia! • Torneo de cuentos; El mundo de los Barbabebés",
-      "descripcion": "Torneo de cuentos; El mundo de los Barbabebés | Barbalib, Barbalala y Barbabelle se turnan como narradores para contar una historia. La familia Barbapapa pasa un día en la playa.",
-      "inicio": "2026-11-03T22:25:00",
-      "fin": "2026-11-03T22:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Barbapapá: ¡Una gran familia! • El Louvre; El día de los contrarios",
-      "descripcion": "El Louvre; El día de los contrarios | En un viaje a París, la familia Barbapapa descubre el museo más increíble. Barbalala ha decidido respetar todas las reglas del Día Antagónico.",
-      "inicio": "2026-11-03T22:45:00",
-      "fin": "2026-11-03T23:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Barbapapá: ¡Una gran familia! • Pequeños monstruos",
-      "descripcion": "Pequeños monstruos | Los Barbabebés hacen una pijamada en la sala. Temerosos de los monstruos del armario, tienden trampas alocadas para capturarlos.",
-      "inicio": "2026-11-03T23:05:00",
-      "fin": "2026-11-03T23:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "PAW Patrol: Patrulla de cachorros • Los cachorros tienen una máquina buscadora de oro; Los cachorros ayudan a la Alcalde Humdinger",
-      "descripcion": "Los cachorros tienen una máquina buscadora de oro; Los cachorros ayudan a la Alcalde Humdinger | Paw Patrol entra en acción cuando una máquina excavadora construida por Digi y Tal se descontrola y lleva al tío Otis a un paseo salvaje. Digi y Tal intentan ayudar al alcalde Humdinger, pero terminan dejándolo cubierto de mermelada.",
-      "inicio": "2026-11-03T23:20:00",
-      "fin": "2026-11-03T23:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
-    },
-    {
-      "titulo": "PAW Patrol: Patrulla de cachorros • Los cachorros salvan un dino documental; Los cachorros salvan a un gruño-saurio",
-      "descripcion": "Los cachorros salvan un dino documental; Los cachorros salvan a un gruño-saurio | Un grupo de seis perritos de rescate dirigidos por un chico experto en tecnología llamado Ryder, tienen muchas aventuras con la patrulla de cachorros, ningún trabajo es demasiado grande y ningún cachorro muy pequeño para proteger a la comunidad.",
-      "inicio": "2026-11-03T23:40:00",
-      "fin": "2026-11-03T23:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
-    },
-    {
-      "titulo": "Rubble & Crew • El equipo contruye un estadio de béisbol; El equipo construye un puente de surf",
-      "descripcion": "El equipo contruye un estadio de béisbol; El equipo construye un puente de surf | Los cachorros construyen un estadio para que el beisbolista Aaron Judge participe en un derbi de jonrones. Rubble y su equipo deben construir un puente para ayudar a los surfistas a cruzar la playa y evitar la arena caliente.",
-      "inicio": "2026-11-03T23:55:00",
-      "fin": "2026-11-04T00:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
-    },
-    {
-      "titulo": "Rubble & Crew • ¡El equipo construye un túnel gigante!",
-      "descripcion": "¡El equipo construye un túnel gigante! | La guardabosques Rose y su equipo descubren un meteorito en las afueras de Builder Cove. Speed Meister y Mega Meister intentan llevárselo, pero los cachorros usan sus vehículos para salvar el pueblo y llevar el meteorito al Centro de Ciencias.",
-      "inicio": "2026-11-04T00:15:00",
-      "fin": "2026-11-04T00:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
-    },
-    {
-      "titulo": "DORA • Unicornosaurio; Los juegos gruñones",
-      "descripcion": "Unicornosaurio; Los juegos gruñones | Dora debe ayudar a Uni, el Unicornasaurio, a recuperar un pincel mágico para poder reunirse con su mascota Bunnicorn. Dora se une a Hearty para competir en los Grumple Games.",
-      "inicio": "2026-11-04T00:40:00",
-      "fin": "2026-11-04T01:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dora.jpg"
-    },
-    {
-      "titulo": "Barbapapá: ¡Una gran familia! • El Louvre; El día de los contrarios",
-      "descripcion": "El Louvre; El día de los contrarios | En un viaje a París, la familia Barbapapa descubre el museo más increíble. Barbalala ha decidido respetar todas las reglas del Día Antagónico.",
-      "inicio": "2026-11-04T01:25:00",
-      "fin": "2026-11-04T03:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Rubble & Crew • El equipo construye una escuela; El equipo construye un canal de agua",
-      "descripcion": "El equipo construye una escuela; El equipo construye un canal de agua | Es el primer día de clase en Caleta Constructor... ¡Si Rubble y equipo consiguen terminar la construcción a tiempo! ¡Los cachorros necesitan una solución para salvar los vegetales de la granjera Zoe y evitar que Crunchy, el castor, se lleve el agua!",
-      "inicio": "2026-11-04T03:15:00",
-      "fin": "2026-11-04T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
-    },
-    {
-      "titulo": "PAW Patrol: Patrulla de cachorros • ¡Los cachorros salvan al capitán corte ondulado!; ¡Los cachorros salvan la gran luz nocturna!",
-      "descripcion": "¡Los cachorros salvan al capitán corte ondulado!; ¡Los cachorros salvan la gran luz nocturna! | Una mascota de papas fritas necesita ayuda tras ser arrastrada por una bandada de gaviotas hambrientas. El alcalde Humdinger intenta robar el faro de Bahía Aventura.",
-      "inicio": "2026-11-04T04:00:00",
-      "fin": "2026-11-04T04:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
-    },
-    {
-      "titulo": "Deer Squad • Fuera del hielo parte 1 y 2",
-      "descripcion": "Fuera del hielo parte 1 y 2 | El equipo libera al malvado Barón Bite y a sus secuaces de su prisión de hielo. Steel y el escuadrón luchan contra él con ayuda del Profesor Scratch, pero ¿quién saldrá victorioso?",
-      "inicio": "2026-11-04T04:50:00",
-      "fin": "2026-11-04T05:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deersquad.jpg"
-    },
-    {
-      "titulo": "Pistas de Blue y tú • La gran banda de Blue",
-      "descripcion": "La gran banda de Blue | Josh y Blue forman una banda. Los espectadores siguen las pistas de Blue para descubrir qué instrumentos tocará, formar una banda en casa, aprender ritmos, identificar los ritmos y cantar.",
-      "inicio": "2026-11-04T05:10:00",
-      "fin": "2026-11-04T05:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pistasdeblueytu.jpg"
-    },
-    {
-      "titulo": "Tim Rex en el espacio • La vaquita lunar; El nebulizador; El bicho espacial",
-      "descripcion": "La vaquita lunar; El nebulizador; El bicho espacial | Tim, Tommy y Tía encuentran un juguete perdido y prometen devolverlo. Kai está muy emocionado por viajar en el Nebulizador. Tim y Kai intentan fotografiar al escurridizo SpaceBug.",
-      "inicio": "2026-11-04T05:35:00",
-      "fin": "2026-11-04T05:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/timrexenelespacio.jpg"
-    },
-    {
-      "titulo": "Rubble & Crew • El equipo construye una casa gigante de tortuga; El equipo construye un volcán gigante",
-      "descripcion": "El equipo construye una casa gigante de tortuga; El equipo construye un volcán gigante | El regalo de Speed Meister para el Señor Tortuga sale mal, y tiene que llamar a Rubble y su equipo para que le ayuden. Rubble ayuda a Lucas a construir el volcán para la Feria de Ciencias.",
-      "inicio": "2026-11-04T05:55:00",
-      "fin": "2026-11-04T06:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
-    },
-    {
-      "titulo": "Santiago de los mares • La maldición del Halcón Dorado; La isla de las Cosas Perdidas",
-      "descripcion": "La maldición del Halcón Dorado; La isla de las Cosas Perdidas | Santiago y su tripulación salen en búsqueda del Halcón Dorado. La espada mágica de Santiago es transportada a la isla de las Cosas Perdidas.",
-      "inicio": "2026-11-04T06:20:00",
-      "fin": "2026-11-04T06:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagodelosmares.jpg"
-    },
-    {
-      "titulo": "DORA • Alebrije; A comer paleta",
-      "descripcion": "Alebrije; A comer paleta | Dora ayuda a un alebrije a recuperar el agua del arcoíris necesaria para un árbol especial. En un día caluroso en la selva tropical, Dora tiene que rescatar el camión de paletas de Val y conseguir helados para todos.",
-      "inicio": "2026-11-04T06:40:00",
-      "fin": "2026-11-04T07:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dora.jpg"
-    },
-    {
-      "titulo": "Pistas de Blue y tú • ¡Muéstranos tus pasos de baile!",
-      "descripcion": "¡Muéstranos tus pasos de baile! | Josh y Blue juegan y bailan, y tratan de averiguar cuál es el baile favorito de Blue. Bunny Jo aprende un baile nuevo.",
-      "inicio": "2026-11-04T07:05:00",
-      "fin": "2026-11-04T07:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pistasdeblueytu.jpg"
-    },
-    {
-      "titulo": "Sr. Cocodrilo • Zumbón; La casa de los sueños",
-      "descripcion": "Zumbón; La casa de los sueños | Al señor Cocodrilo le preocupa quedar atrapado entre su viejo mejor amigo, Buzzy, y su nueva mejor amiga, Daisy. La sencilla casa del árbol de Daisy y el señor Cocodrilo se complica cuando intentan añadir espacio para todos sus amigos.",
-      "inicio": "2026-11-04T07:25:00",
-      "fin": "2026-11-04T07:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/srcocodrilo.jpg"
-    },
-    {
-      "titulo": "Barbapapá: ¡Una gran familia! • El Louvre; El día de los contrarios",
-      "descripcion": "El Louvre; El día de los contrarios | En un viaje a París, la familia Barbapapa descubre el museo más increíble. Barbalala ha decidido respetar todas las reglas del Día Antagónico.",
-      "inicio": "2026-11-04T07:50:00",
-      "fin": "2026-11-04T08:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tim Rex en el espacio • La vaquita lunar; El nebulizador; El bicho espacial",
-      "descripcion": "La vaquita lunar; El nebulizador; El bicho espacial | Tim, Tommy y Tía encuentran un juguete perdido y prometen devolverlo. Kai está muy emocionado por viajar en el Nebulizador. Tim y Kai intentan fotografiar al escurridizo SpaceBug.",
-      "inicio": "2026-11-04T08:35:00",
-      "fin": "2026-11-04T09:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/timrexenelespacio.jpg"
-    },
-    {
-      "titulo": "Rubble & Crew • El equipo celebra el Día de Gracias de Caleta Constructor; El equipo construye un juego de cohetes",
-      "descripcion": "El equipo celebra el Día de Gracias de Caleta Constructor; El equipo construye un juego de cohetes | Speed Meister sabotea el Día de la Familia, los Amigos y la Diversión, y depende de los cachorros salvar la fiesta para todos en Builder Cove. Mix sueña con darle a la luna un cambio de imagen estilo Mix.",
-      "inicio": "2026-11-04T09:45:00",
-      "fin": "2026-11-04T10:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
-    },
-    {
-      "titulo": "Rubble & Crew • El equipo contruye un estadio de béisbol; El equipo construye un puente de surf",
-      "descripcion": "El equipo contruye un estadio de béisbol; El equipo construye un puente de surf | Los cachorros construyen un estadio para que el beisbolista Aaron Judge participe en un derbi de jonrones. Rubble y su equipo deben construir un puente para ayudar a los surfistas a cruzar la playa y evitar la arena caliente.",
-      "inicio": "2026-11-04T10:10:00",
-      "fin": "2026-11-04T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
-    },
-    {
-      "titulo": "PAW Patrol: Patrulla de cachorros • Los cachorros y el traje de seguridad de Digi y Tal; Los cachorros ponen a un ratón en movimiento",
-      "descripcion": "Los cachorros y el traje de seguridad de Digi y Tal; Los cachorros ponen a un ratón en movimiento | Un grupo de seis perritos de rescate dirigidos por un chico experto en tecnología llamado Ryder, tienen muchas aventuras con la patrulla de cachorros, ningún trabajo es demasiado grande y ningún cachorro muy pequeño para proteger a la comunidad.",
-      "inicio": "2026-11-04T10:30:00",
-      "fin": "2026-11-04T10:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
-    },
-    {
-      "titulo": "Deer Squad • Fuera del hielo parte 1 y 2",
-      "descripcion": "Fuera del hielo parte 1 y 2 | El equipo libera al malvado Barón Bite y a sus secuaces de su prisión de hielo. Steel y el escuadrón luchan contra él con ayuda del Profesor Scratch, pero ¿quién saldrá victorioso?",
-      "inicio": "2026-11-04T10:55:00",
-      "fin": "2026-11-04T11:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deersquad.jpg"
-    },
-    {
-      "titulo": "DORA • El amuleto de Backpack",
-      "descripcion": "El amuleto de Backpack | ¡Dora y Botas ayudan a Mochila a encontrar su amuleto de la amistad!, el cual se encuentra perdido. ¡Y lo hacen muy bien!",
-      "inicio": "2026-11-04T11:15:00",
-      "fin": "2026-11-04T11:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dora.jpg"
-    },
-    {
-      "titulo": "Santiago de los mares • La maldición del Halcón Dorado; La isla de las Cosas Perdidas",
-      "descripcion": "La maldición del Halcón Dorado; La isla de las Cosas Perdidas | Santiago y su tripulación salen en búsqueda del Halcón Dorado. La espada mágica de Santiago es transportada a la isla de las Cosas Perdidas.",
-      "inicio": "2026-11-04T11:40:00",
-      "fin": "2026-11-04T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagodelosmares.jpg"
-    },
-    {
-      "titulo": "Tim Rex en el espacio • La vaquita lunar; El nebulizador; El bicho espacial",
-      "descripcion": "La vaquita lunar; El nebulizador; El bicho espacial | Tim, Tommy y Tía encuentran un juguete perdido y prometen devolverlo. Kai está muy emocionado por viajar en el Nebulizador. Tim y Kai intentan fotografiar al escurridizo SpaceBug.",
-      "inicio": "2026-11-04T12:00:00",
-      "fin": "2026-11-04T12:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/timrexenelespacio.jpg"
-    },
-    {
-      "titulo": "Tim Rex en el espacio • Surf",
-      "descripcion": "Surf | Tim y Kai practican surf en cráteres espaciales e intentan un nuevo truco que sorprenderá a todos por igual.",
-      "inicio": "2026-11-04T12:25:00",
-      "fin": "2026-11-04T12:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/timrexenelespacio.jpg"
-    },
     {
       "titulo": "Pistas de Blue y tú • La gran banda de Blue",
       "descripcion": "La gran banda de Blue | Josh y Blue forman una banda. Los espectadores siguen las pistas de Blue para descubrir qué instrumentos tocará, formar una banda en casa, aprender ritmos, identificar los ritmos y cantar.",
       "inicio": "2026-11-04T12:35:00",
       "fin": "2026-11-04T12:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pistasdeblueytu.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • Torneo de cuentos; El mundo de los Barbabebés",
+      "descripcion": "Torneo de cuentos; El mundo de los Barbabebés | Barbalib, Barbalala y Barbabelle se turnan como narradores para contar una historia. La familia Barbapapa pasa un día en la playa.",
+      "inicio": "2026-11-04T12:55:00",
+      "fin": "2026-11-04T13:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • Convivencia; Hoyito, el muñeco de nieve",
+      "descripcion": "Convivencia; Hoyito, el muñeco de nieve | Los barbabebés viajarán en tren y dormirán en un hotel. Barbabello hace un muñeco de nieve increíble al que llaman Agujerín.",
+      "inicio": "2026-11-04T13:15:00",
+      "fin": "2026-11-04T13:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • El Louvre; El día de los contrarios",
+      "descripcion": "El Louvre; El día de los contrarios | En un viaje a París, la familia Barbapapa descubre el museo más increíble. Barbalala ha decidido respetar todas las reglas del Día Antagónico.",
+      "inicio": "2026-11-04T13:40:00",
+      "fin": "2026-11-04T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sr. Cocodrilo • Zumbón; La casa de los sueños",
+      "descripcion": "Zumbón; La casa de los sueños | Al señor Cocodrilo le preocupa quedar atrapado entre su viejo mejor amigo, Buzzy, y su nueva mejor amiga, Daisy. La sencilla casa del árbol de Daisy y el señor Cocodrilo se complica cuando intentan añadir espacio para todos sus amigos.",
+      "inicio": "2026-11-04T14:00:00",
+      "fin": "2026-11-04T14:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/srcocodrilo.jpg"
+    },
+    {
+      "titulo": "Sr. Cocodrilo",
+      "descripcion": "El señor Cocodrilo y Daisy, una niña que vive entre las casas de sus padres divorciados, comparten divertidas aventuras en su comunidad de caravanas. Con su peculiar lógica de cocodrilo, él convierte lo cotidiano en situaciones inesperadas, haciendo que cada momento sea especial y lleno de humor.",
+      "inicio": "2026-11-04T14:10:00",
+      "fin": "2026-11-04T14:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/srcocodrilo.jpg"
+    },
+    {
+      "titulo": "Misterios animales • La telaraña robada; El misterio del laberinto de nieve",
+      "descripcion": "La telaraña robada; El misterio del laberinto de nieve | Con sus habilidades de detectives, hechos científicos y artilugios geniales, los agentes especiales Sam y Kit recorren el mundo para resolver los misterios del reino animal.",
+      "inicio": "2026-11-04T14:25:00",
+      "fin": "2026-11-04T14:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rubble & Crew • El equipo construye una escuela; El equipo construye un canal de agua",
+      "descripcion": "El equipo construye una escuela; El equipo construye un canal de agua | Es el primer día de clase en Caleta Constructor... ¡Si Rubble y equipo consiguen terminar la construcción a tiempo! ¡Los cachorros necesitan una solución para salvar los vegetales de la granjera Zoe y evitar que Crunchy, el castor, se lleve el agua!",
+      "inicio": "2026-11-04T14:45:00",
+      "fin": "2026-11-04T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
+    },
+    {
+      "titulo": "PAW Patrol: Patrulla de cachorros • Salvemos a las tortugas; Un enorme bebé",
+      "descripcion": "Salvemos a las tortugas; Un enorme bebé | Ryder, Chase y Rubble piensan ayudar a las crías de tortugas marinas a cruzar la carretera de forma segura; PAW Patrol debe trabajar para salvar a una bebé ballena encallada.",
+      "inicio": "2026-11-04T15:30:00",
+      "fin": "2026-11-04T16:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • El Louvre; El día de los contrarios",
+      "descripcion": "El Louvre; El día de los contrarios | En un viaje a París, la familia Barbapapa descubre el museo más increíble. Barbalala ha decidido respetar todas las reglas del Día Antagónico.",
+      "inicio": "2026-11-04T16:20:00",
+      "fin": "2026-11-04T17:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Santiago de los mares • La maldición del Halcón Dorado; La isla de las Cosas Perdidas",
+      "descripcion": "La maldición del Halcón Dorado; La isla de las Cosas Perdidas | Santiago y su tripulación salen en búsqueda del Halcón Dorado. La espada mágica de Santiago es transportada a la isla de las Cosas Perdidas.",
+      "inicio": "2026-11-04T17:25:00",
+      "fin": "2026-11-04T18:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagodelosmares.jpg"
+    },
+    {
+      "titulo": "Pistas de Blue y tú • La gran banda de Blue",
+      "descripcion": "La gran banda de Blue | Josh y Blue forman una banda. Los espectadores siguen las pistas de Blue para descubrir qué instrumentos tocará, formar una banda en casa, aprender ritmos, identificar los ritmos y cantar.",
+      "inicio": "2026-11-04T18:15:00",
+      "fin": "2026-11-04T18:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pistasdeblueytu.jpg"
+    },
+    {
+      "titulo": "PAW Patrol: Patrulla de cachorros • Los cachorros salvan el concierto de rock; Los cachorros salvan al águila",
+      "descripcion": "Los cachorros salvan el concierto de rock; Los cachorros salvan al águila | Cuando una tormenta azota a través de la ciudad justo antes de un concierto, los cachorros deben trabajar juntos para limpiar el desorden; la mochila del alcalde Goodway se desliza por un acantilado con Chickaletta en ella.",
+      "inicio": "2026-11-04T18:40:00",
+      "fin": "2026-11-04T19:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
+    },
+    {
+      "titulo": "PAW Patrol: Patrulla de cachorros • Los cachorros salvan a la planta gigante; Los cachorros se atascan",
+      "descripcion": "Los cachorros salvan a la planta gigante; Los cachorros se atascan | Una planta comienza a crecer de forma descontrolada porque fue plantada en un lugar incorrecto; el camión de bomberos de Marshall se ha convertido misteriosamente en un imán.",
+      "inicio": "2026-11-04T19:05:00",
+      "fin": "2026-11-04T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
+    },
+    {
+      "titulo": "DORA • Alebrije; A comer paleta",
+      "descripcion": "Alebrije; A comer paleta | Dora ayuda a un alebrije a recuperar el agua del arcoíris necesaria para un árbol especial. En un día caluroso en la selva tropical, Dora tiene que rescatar el camión de paletas de Val y conseguir helados para todos.",
+      "inicio": "2026-11-04T19:30:00",
+      "fin": "2026-11-04T19:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dora.jpg"
+    },
+    {
+      "titulo": "DORA • El ratoncito Pérez",
+      "descripcion": "El ratoncito Pérez | Dora y Botas están a punto de irse a dormir, cuando Dora nota un hueco en su boca: ¡perdió un diente! Es entonces cuando llega el ratoncito Pérez con su varita mágica de cepillo de dientes, listo para darle a Dora un regalo a cambio de su diente.",
+      "inicio": "2026-11-04T19:50:00",
+      "fin": "2026-11-04T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dora.jpg"
+    },
+    {
+      "titulo": "Sr. Cocodrilo • Zumbón; La casa de los sueños",
+      "descripcion": "Zumbón; La casa de los sueños | Al señor Cocodrilo le preocupa quedar atrapado entre su viejo mejor amigo, Buzzy, y su nueva mejor amiga, Daisy. La sencilla casa del árbol de Daisy y el señor Cocodrilo se complica cuando intentan añadir espacio para todos sus amigos.",
+      "inicio": "2026-11-04T20:00:00",
+      "fin": "2026-11-04T20:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/srcocodrilo.jpg"
+    },
+    {
+      "titulo": "Sr. Cocodrilo",
+      "descripcion": "El señor Cocodrilo y Daisy, una niña que vive entre las casas de sus padres divorciados, comparten divertidas aventuras en su comunidad de caravanas. Con su peculiar lógica de cocodrilo, él convierte lo cotidiano en situaciones inesperadas, haciendo que cada momento sea especial y lleno de humor.",
+      "inicio": "2026-11-04T20:15:00",
+      "fin": "2026-11-04T20:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/srcocodrilo.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • Torneo de cuentos; El mundo de los Barbabebés",
+      "descripcion": "Torneo de cuentos; El mundo de los Barbabebés | Barbalib, Barbalala y Barbabelle se turnan como narradores para contar una historia. La familia Barbapapa pasa un día en la playa.",
+      "inicio": "2026-11-04T20:25:00",
+      "fin": "2026-11-04T20:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • El nacimiento",
+      "descripcion": "El nacimiento | El joven François sale a regar las flores en una hermosa mañana, sin saber que será testigo del nacimiento de Barbapapa.",
+      "inicio": "2026-11-04T20:45:00",
+      "fin": "2026-11-04T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rubble & Crew • El equipo contruye un estadio de béisbol; El equipo construye un puente de surf",
+      "descripcion": "El equipo contruye un estadio de béisbol; El equipo construye un puente de surf | Los cachorros construyen un estadio para que el beisbolista Aaron Judge participe en un derbi de jonrones. Rubble y su equipo deben construir un puente para ayudar a los surfistas a cruzar la playa y evitar la arena caliente.",
+      "inicio": "2026-11-04T21:00:00",
+      "fin": "2026-11-04T21:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
+    },
+    {
+      "titulo": "Rubble & Crew",
+      "descripcion": "Rubble se embarca en aventuras con toda una nueva pandilla de cachorros; los cachorros utilizan increíbles vehículos de construcción para construir y reparar cosas en la ciudad.",
+      "inicio": "2026-11-04T21:20:00",
+      "fin": "2026-11-04T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
+    },
+    {
+      "titulo": "PAW Patrol: Patrulla de cachorros • Los cachorros salvan la piscina; Cachorros de circo",
+      "descripcion": "Los cachorros salvan la piscina; Cachorros de circo | Digger y Rocky ayudan a Ryder a llenar la piscina con agua. La Patrulla PAW interviene para ayudar cuando los animales llegan tarde al circo.",
+      "inicio": "2026-11-04T21:30:00",
+      "fin": "2026-11-04T21:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
+    },
+    {
+      "titulo": "PAW Patrol: Patrulla de cachorros • Los cachorros salvan a la planta gigante; Los cachorros se atascan",
+      "descripcion": "Los cachorros salvan a la planta gigante; Los cachorros se atascan | Una planta comienza a crecer de forma descontrolada porque fue plantada en un lugar incorrecto; el camión de bomberos de Marshall se ha convertido misteriosamente en un imán.",
+      "inicio": "2026-11-04T21:50:00",
+      "fin": "2026-11-04T22:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
+    },
+    {
+      "titulo": "Santiago de los mares • La maldición del Halcón Dorado; La isla de las Cosas Perdidas",
+      "descripcion": "La maldición del Halcón Dorado; La isla de las Cosas Perdidas | Santiago y su tripulación salen en búsqueda del Halcón Dorado. La espada mágica de Santiago es transportada a la isla de las Cosas Perdidas.",
+      "inicio": "2026-11-04T22:05:00",
+      "fin": "2026-11-04T22:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagodelosmares.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • Torneo de cuentos; El mundo de los Barbabebés",
+      "descripcion": "Torneo de cuentos; El mundo de los Barbabebés | Barbalib, Barbalala y Barbabelle se turnan como narradores para contar una historia. La familia Barbapapa pasa un día en la playa.",
+      "inicio": "2026-11-04T22:25:00",
+      "fin": "2026-11-04T22:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • El Louvre; El día de los contrarios",
+      "descripcion": "El Louvre; El día de los contrarios | En un viaje a París, la familia Barbapapa descubre el museo más increíble. Barbalala ha decidido respetar todas las reglas del Día Antagónico.",
+      "inicio": "2026-11-04T22:45:00",
+      "fin": "2026-11-04T23:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • El premio de la competencia",
+      "descripcion": "El premio de la competencia | Los Barbabebés ganan una tableta. Pero ahora todos quieren usarla y se la quitan unos a otros.",
+      "inicio": "2026-11-04T23:05:00",
+      "fin": "2026-11-04T23:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "PAW Patrol: Patrulla de cachorros • Los cachorros tienen una máquina buscadora de oro; Los cachorros ayudan a la Alcalde Humdinger",
+      "descripcion": "Los cachorros tienen una máquina buscadora de oro; Los cachorros ayudan a la Alcalde Humdinger | Paw Patrol entra en acción cuando una máquina excavadora construida por Digi y Tal se descontrola y lleva al tío Otis a un paseo salvaje. Digi y Tal intentan ayudar al alcalde Humdinger, pero terminan dejándolo cubierto de mermelada.",
+      "inicio": "2026-11-04T23:20:00",
+      "fin": "2026-11-04T23:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
+    },
+    {
+      "titulo": "PAW Patrol: Patrulla de cachorros • Los cachorros salvan un dino documental; Los cachorros salvan a un gruño-saurio",
+      "descripcion": "Los cachorros salvan un dino documental; Los cachorros salvan a un gruño-saurio | Un grupo de seis perritos de rescate dirigidos por un chico experto en tecnología llamado Ryder, tienen muchas aventuras con la patrulla de cachorros, ningún trabajo es demasiado grande y ningún cachorro muy pequeño para proteger a la comunidad.",
+      "inicio": "2026-11-04T23:40:00",
+      "fin": "2026-11-04T23:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
+    },
+    {
+      "titulo": "Rubble & Crew • El equipo construye una mega rampa para acrobacias; El equipo construye una granja solar gigante",
+      "descripcion": "El equipo construye una mega rampa para acrobacias; El equipo construye una granja solar gigante | El equipo construye rampas acrobáticas, y Mega Meister reta a la alcaldesa Greatway a una competencia de acrobacias. Problemas de energía interrumpen el espectáculo de Sierra Chispas, pero los cachorros usan sus vehículos para restablecer la energía.",
+      "inicio": "2026-11-04T23:55:00",
+      "fin": "2026-11-05T00:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
+    },
+    {
+      "titulo": "Rubble & Crew • El equipo construye una casa flotante; El equipo construye un spa",
+      "descripcion": "El equipo construye una casa flotante; El equipo construye un spa | Los cachorros transforman la casa de Omar, Juniper, Lucas y Lily en una casa flotante. Rubble y su equipo quieren consentir a la tía Crane con un día especial de spa por su arduo trabajo hasta que Speed Meister se interpone en su camino.",
+      "inicio": "2026-11-05T00:15:00",
+      "fin": "2026-11-05T00:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
+    },
+    {
+      "titulo": "DORA • Unicornosaurio; Los juegos gruñones",
+      "descripcion": "Unicornosaurio; Los juegos gruñones | Dora debe ayudar a Uni, el Unicornasaurio, a recuperar un pincel mágico para poder reunirse con su mascota Bunnicorn. Dora se une a Hearty para competir en los Grumple Games.",
+      "inicio": "2026-11-05T00:40:00",
+      "fin": "2026-11-05T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dora.jpg"
+    },
+    {
+      "titulo": "DORA • Cantando en la tina; Muestra y comparte",
+      "descripcion": "Cantando en la tina; Muestra y comparte | Dora y Botas deben ayudar a Benny a ganar confianza para cantar en el espectáculo \"Canta conmigo\". Dora busca algo especial para que Botas lo presente en \"Show and Share\".",
+      "inicio": "2026-11-05T01:00:00",
+      "fin": "2026-11-05T01:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dora.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • El Louvre; El día de los contrarios",
+      "descripcion": "El Louvre; El día de los contrarios | En un viaje a París, la familia Barbapapa descubre el museo más increíble. Barbalala ha decidido respetar todas las reglas del Día Antagónico.",
+      "inicio": "2026-11-05T01:25:00",
+      "fin": "2026-11-05T01:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • Los Barbabebés tienen talento; Triple cambio",
+      "descripcion": "Los Barbabebés tienen talento; Triple cambio | Es el gran concurso de talentos organizado por Barbalala. Todo Barbabebé está invitado a hacer una demostración de su talento, pero Barbalala será muy severa. Los videojuegos son divertidos, pero también hay que disfrutar del buen clima.",
+      "inicio": "2026-11-05T01:45:00",
+      "fin": "2026-11-05T02:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • El Louvre; El día de los contrarios",
+      "descripcion": "El Louvre; El día de los contrarios | En un viaje a París, la familia Barbapapa descubre el museo más increíble. Barbalala ha decidido respetar todas las reglas del Día Antagónico.",
+      "inicio": "2026-11-05T02:10:00",
+      "fin": "2026-11-05T03:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rubble & Crew • El equipo construye una escuela; El equipo construye un canal de agua",
+      "descripcion": "El equipo construye una escuela; El equipo construye un canal de agua | Es el primer día de clase en Caleta Constructor... ¡Si Rubble y equipo consiguen terminar la construcción a tiempo! ¡Los cachorros necesitan una solución para salvar los vegetales de la granjera Zoe y evitar que Crunchy, el castor, se lleve el agua!",
+      "inicio": "2026-11-05T03:15:00",
+      "fin": "2026-11-05T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
+    },
+    {
+      "titulo": "PAW Patrol: Patrulla de cachorros • ¡Los cachorros salvan al capitán corte ondulado!; ¡Los cachorros salvan la gran luz nocturna!",
+      "descripcion": "¡Los cachorros salvan al capitán corte ondulado!; ¡Los cachorros salvan la gran luz nocturna! | Una mascota de papas fritas necesita ayuda tras ser arrastrada por una bandada de gaviotas hambrientas. El alcalde Humdinger intenta robar el faro de Bahía Aventura.",
+      "inicio": "2026-11-05T04:00:00",
+      "fin": "2026-11-05T04:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
+    },
+    {
+      "titulo": "PAW Patrol: Patrulla de cachorros • Los cachorros salvan a una estrella pop; Los cachorros salvan la cúpula de la meditación",
+      "descripcion": "Los cachorros salvan a una estrella pop; Los cachorros salvan la cúpula de la meditación | Skye, Liberty, Everest y la guardabosques Aspen asisten a un concierto de su estrella del pop favorita, Sierra Sparkle. ¡Hay una nueva cúpula de meditación en Bahía Aventura, y Priya impartirá su primera clase!",
+      "inicio": "2026-11-05T04:25:00",
+      "fin": "2026-11-05T04:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
+    },
+    {
+      "titulo": "Deer Squad • Fuera del hielo parte 1 y 2",
+      "descripcion": "Fuera del hielo parte 1 y 2 | El equipo libera al malvado Barón Bite y a sus secuaces de su prisión de hielo. Steel y el escuadrón luchan contra él con ayuda del Profesor Scratch, pero ¿quién saldrá victorioso?",
+      "inicio": "2026-11-05T04:50:00",
+      "fin": "2026-11-05T05:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deersquad.jpg"
+    },
+    {
+      "titulo": "Pistas de Blue y tú • ¡Muéstranos tus pasos de baile!",
+      "descripcion": "¡Muéstranos tus pasos de baile! | Josh y Blue juegan y bailan, y tratan de averiguar cuál es el baile favorito de Blue. Bunny Jo aprende un baile nuevo.",
+      "inicio": "2026-11-05T05:10:00",
+      "fin": "2026-11-05T05:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pistasdeblueytu.jpg"
+    },
+    {
+      "titulo": "Tim Rex en el espacio • La vaquita lunar; El nebulizador; El bicho espacial",
+      "descripcion": "La vaquita lunar; El nebulizador; El bicho espacial | Tim, Tommy y Tía encuentran un juguete perdido y prometen devolverlo. Kai está muy emocionado por viajar en el Nebulizador. Tim y Kai intentan fotografiar al escurridizo SpaceBug.",
+      "inicio": "2026-11-05T05:35:00",
+      "fin": "2026-11-05T05:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/timrexenelespacio.jpg"
+    },
+    {
+      "titulo": "Rubble & Crew • El equipo contruye un estadio de béisbol; El equipo construye un puente de surf",
+      "descripcion": "El equipo contruye un estadio de béisbol; El equipo construye un puente de surf | Los cachorros construyen un estadio para que el beisbolista Aaron Judge participe en un derbi de jonrones. Rubble y su equipo deben construir un puente para ayudar a los surfistas a cruzar la playa y evitar la arena caliente.",
+      "inicio": "2026-11-05T05:55:00",
+      "fin": "2026-11-05T06:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
+    },
+    {
+      "titulo": "Santiago de los mares • La maldición del Halcón Dorado; La isla de las Cosas Perdidas",
+      "descripcion": "La maldición del Halcón Dorado; La isla de las Cosas Perdidas | Santiago y su tripulación salen en búsqueda del Halcón Dorado. La espada mágica de Santiago es transportada a la isla de las Cosas Perdidas.",
+      "inicio": "2026-11-05T06:20:00",
+      "fin": "2026-11-05T06:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagodelosmares.jpg"
+    },
+    {
+      "titulo": "DORA • Fiesta real en el jardín de Isa; La sorpresa de Sammy",
+      "descripcion": "Fiesta real en el jardín de Isa; La sorpresa de Sammy | Dora ayuda a Isa a prepararse para la visita de la Reina. Dora ayuda a Sammy el Perezoso a llegar al campamento.",
+      "inicio": "2026-11-05T06:40:00",
+      "fin": "2026-11-05T07:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dora.jpg"
+    },
+    {
+      "titulo": "Pistas de Blue y tú • La gran banda de Blue",
+      "descripcion": "La gran banda de Blue | Josh y Blue forman una banda. Los espectadores siguen las pistas de Blue para descubrir qué instrumentos tocará, formar una banda en casa, aprender ritmos, identificar los ritmos y cantar.",
+      "inicio": "2026-11-05T07:05:00",
+      "fin": "2026-11-05T07:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pistasdeblueytu.jpg"
+    },
+    {
+      "titulo": "Sr. Cocodrilo • No pícnic: El misterio del gnomo",
+      "descripcion": "No pícnic: El misterio del gnomo | Daisy y el Sr. Cocodrilo organizan un pícnic comunitario para ayudar a sus vecinos a hacerse amigos. Daisy y el Sr. Cocodrilo investigan quién ha roto el gnomo del jardín de Martin.",
+      "inicio": "2026-11-05T07:25:00",
+      "fin": "2026-11-05T07:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/srcocodrilo.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • El Louvre; El día de los contrarios",
+      "descripcion": "El Louvre; El día de los contrarios | En un viaje a París, la familia Barbapapa descubre el museo más increíble. Barbalala ha decidido respetar todas las reglas del Día Antagónico.",
+      "inicio": "2026-11-05T07:50:00",
+      "fin": "2026-11-05T08:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Barbapapá: ¡Una gran familia! • Los títeres; Glup glup ah-ah",
+      "descripcion": "Los títeres; Glup glup ah-ah | Los niños deciden darlo todo en el escenario. Barbalib quiere hacer la mejor limonada del mundo.",
+      "inicio": "2026-11-05T08:15:00",
+      "fin": "2026-11-05T08:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tim Rex en el espacio • La vaquita lunar; El nebulizador; El bicho espacial",
+      "descripcion": "La vaquita lunar; El nebulizador; El bicho espacial | Tim, Tommy y Tía encuentran un juguete perdido y prometen devolverlo. Kai está muy emocionado por viajar en el Nebulizador. Tim y Kai intentan fotografiar al escurridizo SpaceBug.",
+      "inicio": "2026-11-05T08:35:00",
+      "fin": "2026-11-05T09:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/timrexenelespacio.jpg"
+    },
+    {
+      "titulo": "Rubble & Crew • El equipo contruye un estadio de béisbol; El equipo construye un puente de surf",
+      "descripcion": "El equipo contruye un estadio de béisbol; El equipo construye un puente de surf | Los cachorros construyen un estadio para que el beisbolista Aaron Judge participe en un derbi de jonrones. Rubble y su equipo deben construir un puente para ayudar a los surfistas a cruzar la playa y evitar la arena caliente.",
+      "inicio": "2026-11-05T09:45:00",
+      "fin": "2026-11-05T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rubblecrew.jpg"
+    },
+    {
+      "titulo": "PAW Patrol: Patrulla de cachorros • Los cachorros salvan un dino documental; Los cachorros salvan a un gruño-saurio",
+      "descripcion": "Los cachorros salvan un dino documental; Los cachorros salvan a un gruño-saurio | Un grupo de seis perritos de rescate dirigidos por un chico experto en tecnología llamado Ryder, tienen muchas aventuras con la patrulla de cachorros, ningún trabajo es demasiado grande y ningún cachorro muy pequeño para proteger a la comunidad.",
+      "inicio": "2026-11-05T10:30:00",
+      "fin": "2026-11-05T10:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pawpatrolpatrulladecachorros.jpg"
+    },
+    {
+      "titulo": "Deer Squad • Fuera del hielo parte 1 y 2",
+      "descripcion": "Fuera del hielo parte 1 y 2 | El equipo libera al malvado Barón Bite y a sus secuaces de su prisión de hielo. Steel y el escuadrón luchan contra él con ayuda del Profesor Scratch, pero ¿quién saldrá victorioso?",
+      "inicio": "2026-11-05T10:55:00",
+      "fin": "2026-11-05T11:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deersquad.jpg"
+    },
+    {
+      "titulo": "DORA • El amuleto de Backpack",
+      "descripcion": "El amuleto de Backpack | ¡Dora y Botas ayudan a Mochila a encontrar su amuleto de la amistad!, el cual se encuentra perdido. ¡Y lo hacen muy bien!",
+      "inicio": "2026-11-05T11:15:00",
+      "fin": "2026-11-05T11:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dora.jpg"
+    },
+    {
+      "titulo": "Santiago de los mares • La maldición del Halcón Dorado; La isla de las Cosas Perdidas",
+      "descripcion": "La maldición del Halcón Dorado; La isla de las Cosas Perdidas | Santiago y su tripulación salen en búsqueda del Halcón Dorado. La espada mágica de Santiago es transportada a la isla de las Cosas Perdidas.",
+      "inicio": "2026-11-05T11:40:00",
+      "fin": "2026-11-05T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santiagodelosmares.jpg"
+    },
+    {
+      "titulo": "Tim Rex en el espacio • La vaquita lunar; El nebulizador; El bicho espacial",
+      "descripcion": "La vaquita lunar; El nebulizador; El bicho espacial | Tim, Tommy y Tía encuentran un juguete perdido y prometen devolverlo. Kai está muy emocionado por viajar en el Nebulizador. Tim y Kai intentan fotografiar al escurridizo SpaceBug.",
+      "inicio": "2026-11-05T12:00:00",
+      "fin": "2026-11-05T12:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/timrexenelespacio.jpg"
+    },
+    {
+      "titulo": "Tim Rex en el espacio • Nave espacial",
+      "descripcion": "Nave espacial | ¡Tim Rex resuelve problemas infantiles con soluciones de tamaño dinosaurio en el espacio! Tim y Kai intentan reconstruir la nave espacial de la infancia de papá.",
+      "inicio": "2026-11-05T12:25:00",
+      "fin": "2026-11-05T12:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/timrexenelespacio.jpg"
+    },
+    {
+      "titulo": "Pistas de Blue y tú • La gran banda de Blue",
+      "descripcion": "La gran banda de Blue | Josh y Blue forman una banda. Los espectadores siguen las pistas de Blue para descubrir qué instrumentos tocará, formar una banda en casa, aprender ritmos, identificar los ritmos y cantar.",
+      "inicio": "2026-11-05T12:35:00",
+      "fin": "2026-11-05T12:55:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pistasdeblueytu.jpg"
     }
   ]

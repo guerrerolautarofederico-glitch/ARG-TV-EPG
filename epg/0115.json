@@ -1,67 +1,186 @@
 {
   "actual": {
-    "titulo": "UChile TV",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-11-03T12:00:00",
-    "fin": "2026-11-03T16:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
+    "titulo": "La fuente",
+    "descripcion": "Espacio misceláneo y de contingencia, enfocado en ciencia, tecnología, cultura, deporte, entretención, efemérides y carteleras.",
+    "inicio": "2026-11-04T12:00:00",
+    "fin": "2026-11-04T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lafuente.jpg"
   },
   "siguiente": {
-    "titulo": "UChile TV",
-    "descripcion": "La informacion de este programa no se encuentra disponible.",
-    "inicio": "2026-11-03T16:00:00",
-    "fin": "2026-11-03T20:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
+    "titulo": "Radio análisis",
+    "descripcion": "Las noticias más relevantes ocurridas durante el día.",
+    "inicio": "2026-11-04T13:00:00",
+    "fin": "2026-11-04T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radioanalisis.jpg"
   },
   "lista": [
     {
-      "titulo": "UChile TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-11-03T12:00:00",
-      "fin": "2026-11-03T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
-    },
-    {
-      "titulo": "UChile TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-11-03T16:00:00",
-      "fin": "2026-11-03T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
-    },
-    {
-      "titulo": "UChile TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-11-03T20:00:00",
-      "fin": "2026-11-04T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
-    },
-    {
-      "titulo": "UChile TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-11-04T00:00:00",
-      "fin": "2026-11-04T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
-    },
-    {
-      "titulo": "UChile TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-11-04T04:00:00",
-      "fin": "2026-11-04T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
-    },
-    {
-      "titulo": "UChile TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
-      "inicio": "2026-11-04T08:00:00",
-      "fin": "2026-11-04T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
-    },
-    {
-      "titulo": "UChile TV",
-      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "titulo": "La fuente",
+      "descripcion": "Espacio misceláneo y de contingencia, enfocado en ciencia, tecnología, cultura, deporte, entretención, efemérides y carteleras.",
       "inicio": "2026-11-04T12:00:00",
-      "fin": "2026-11-04T16:00:00",
+      "fin": "2026-11-04T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lafuente.jpg"
+    },
+    {
+      "titulo": "Radio análisis",
+      "descripcion": "Las noticias más relevantes ocurridas durante el día.",
+      "inicio": "2026-11-04T13:00:00",
+      "fin": "2026-11-04T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radioanalisis.jpg"
+    },
+    {
+      "titulo": "Factos",
+      "descripcion": "Programa de análisis contingente, que junto a diferentes invitados, analizan las noticias y el debate político que marcan la pauta en Chile y el mundo.",
+      "inicio": "2026-11-04T14:00:00",
+      "fin": "2026-11-04T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/factos.jpg"
+    },
+    {
+      "titulo": "La Vitrola",
+      "descripcion": "La Vitrola.cl es un galardonado sitio chileno dedicado a la documentación y difusión de videoclips en vivo y unplugged.",
+      "inicio": "2026-11-04T14:30:00",
+      "fin": "2026-11-04T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lavitrola.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
+      "inicio": "2026-11-04T15:30:00",
+      "fin": "2026-11-04T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Alonso y Cachudito",
+      "descripcion": "Las aventuras de Alonso y Cachudito nos enseñan a jugar en nuestros patios y con la naturaleza.",
+      "inicio": "2026-11-04T16:30:00",
+      "fin": "2026-11-04T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alonsoycachudito.jpg"
+    },
+    {
+      "titulo": "Caleidoscopio",
+      "descripcion": "Un veterano ladrón y su banda montan un golpe épico para ganar 7000 millones de dólares. Pero la traición, la avaricia y otras amenazas frustran sus planes.",
+      "inicio": "2026-11-04T17:00:00",
+      "fin": "2026-11-04T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/caleidoscopio.jpg"
+    },
+    {
+      "titulo": "Repertorio CL: Solo videoclips",
+      "descripcion": "En su versión más elemental, mostramos los videoclips de la música chilena contemporánea.",
+      "inicio": "2026-11-04T18:00:00",
+      "fin": "2026-11-04T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/repertorioclsolovideoclips.jpg"
+    },
+    {
+      "titulo": "Mujeres de overol",
+      "descripcion": "Serie que muestra oficios y profesiones son liderados por grandes mujeres.",
+      "inicio": "2026-11-04T18:30:00",
+      "fin": "2026-11-04T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mujeresdeoverol.jpg"
+    },
+    {
+      "titulo": "Biblioteca de mujeres",
+      "descripcion": "Académicas reflexionan sobre literatura, narrativa y libros icónicos escritos por mujeres.",
+      "inicio": "2026-11-04T19:00:00",
+      "fin": "2026-11-04T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bibliotecademujeres.jpg"
+    },
+    {
+      "titulo": "Mujeres de letras",
+      "descripcion": "Serie documental que recorre la obra, los contextos y las temáticas de destacadas autoras chilenas de fines del siglo XIX y del XX, relevando su aporte a la cultura nacional.",
+      "inicio": "2026-11-04T19:30:00",
+      "fin": "2026-11-04T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mujeresdeletras.jpg"
+    },
+    {
+      "titulo": "Vecinos del volcán",
+      "descripcion": "El 2 de mayo de 2008 un volcán arrasó un pueblo en el sur de Chile. Sus 7 mil habitantes sobrevivieron, pero debieron abandonar su paraíso.",
+      "inicio": "2026-11-04T20:00:00",
+      "fin": "2026-11-04T20:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
+    },
+    {
+      "titulo": "Sacrificio Chileno",
+      "descripcion": "Serie documental que examina salmoneras, forestales, inmobiliarias y minería, mostrando sus beneficios y perjuicios en comunidades locales y la paradoja del progreso en Chile.",
+      "inicio": "2026-11-04T20:30:00",
+      "fin": "2026-11-04T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sacrificiochileno.jpg"
+    },
+    {
+      "titulo": "Democracy Now!",
+      "descripcion": "Los destacados periodistas Amy Goodman y Juan González te informan diariamente sobre el acontecer global desde Nueva York.",
+      "inicio": "2026-11-04T21:00:00",
+      "fin": "2026-11-04T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/democracynow.jpg"
+    },
+    {
+      "titulo": "Descabelladas",
+      "descripcion": "Programa de debate, actualidad y contingencia.",
+      "inicio": "2026-11-04T22:00:00",
+      "fin": "2026-11-04T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/descabelladas.jpg"
+    },
+    {
+      "titulo": "Un caleidoscopio para el cine chileno",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-04T23:00:00",
+      "fin": "2026-11-04T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
+    },
+    {
+      "titulo": "Golpe a la Chile • Ana Lobos",
+      "descripcion": "Ana Lobos | Serie documental que cuenta diferentes historias de dictadura en la Universidad de Chile.",
+      "inicio": "2026-11-04T23:30:00",
+      "fin": "2026-11-05T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
+    },
+    {
+      "titulo": "Dominio público • Servidumbre Humana",
+      "descripcion": "Servidumbre Humana | Exhibición de películas de bajo presupuesto, cine de género y obras de culto liberadas de derechos de exhibición, todas presentadas y analizadas por Felipe Blanco.",
+      "inicio": "2026-11-05T00:00:00",
+      "fin": "2026-11-05T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dominiopublico.jpg"
+    },
+    {
+      "titulo": "Imágenes paganas",
+      "descripcion": "Aún hoy existe una cierta resistencia a reconocer la revolución estética causada por Virus a principios de los años ochenta. La audacia de Federico Moura al frente de la banda de La Plata superó los límites del rock y sigue siendo una fuente de conocimiento del art-pop. Imágenes Paganas explora esa tensión y ese rechazo en tiempos de dictadura, un flagelo que la familia Moura pagó con la desaparición del hermano mayor de Federico. El documental de Costantino inaugura un tiempo de reparación histórica con Federico Moura como guerrero de la modernidad.",
+      "inicio": "2026-11-05T01:30:00",
+      "fin": "2026-11-05T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/imagenespaganas.jpg"
+    },
+    {
+      "titulo": "Cierre de transmisiones",
+      "descripcion": "Fin de emisión diaria del canal.",
+      "inicio": "2026-11-05T02:00:00",
+      "fin": "2026-11-05T06:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
+    },
+    {
+      "titulo": "Perrito galáctico",
+      "descripcion": "El quiltro chileno que viaja al espacio con sus amigos y vive aventuras singulares con extraterrestres y más.",
+      "inicio": "2026-11-05T06:35:00",
+      "fin": "2026-11-05T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/perritogalactico.jpg"
+    },
+    {
+      "titulo": "Radio análisis",
+      "descripcion": "Las noticias más relevantes ocurridas durante el día.",
+      "inicio": "2026-11-05T07:00:00",
+      "fin": "2026-11-05T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radioanalisis.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
+      "inicio": "2026-11-05T10:00:00",
+      "fin": "2026-11-05T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "La fuente",
+      "descripcion": "Espacio misceláneo y de contingencia, enfocado en ciencia, tecnología, cultura, deporte, entretención, efemérides y carteleras.",
+      "inicio": "2026-11-05T12:00:00",
+      "fin": "2026-11-05T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lafuente.jpg"
     }
   ]
 }

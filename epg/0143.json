@@ -2,108 +2,80 @@
   "actual": {
     "titulo": "[En vivo] Sesión de sala",
     "descripcion": "En vivo ║ Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.",
-    "inicio": "2026-11-03T10:00:00",
-    "fin": "2026-11-03T15:00:00",
+    "inicio": "2026-11-04T10:00:00",
+    "fin": "2026-11-04T15:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondesala.jpg"
   },
   "siguiente": {
-    "titulo": "Comisión de agricultura",
-    "descripcion": "Emisión institucional en la cual se aborda la situación actual del ámbito agrario en Chile a través del análisis en contexto de las problemáticas actuales y la presentación de posibles soluciones para afianzar este sector económico.",
-    "inicio": "2026-11-03T15:00:00",
-    "fin": "2026-11-03T17:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisiondeagricultura.jpg"
+    "titulo": "[En vivo] Comisión de derechos humanos",
+    "descripcion": "En vivo ║ Transmisión de las sesiones realizadas en materia de derechos humanos, donde se busca asegurar el cumplimiento de los mismos en la sociedad, en situaciones tales como la identidad de género, el respeto y protección de la vida, la infancia, entre muchos otros.",
+    "inicio": "2026-11-04T15:00:00",
+    "fin": "2026-11-04T17:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "[En vivo] Sesión de sala",
-      "descripcion": "En vivo ║ Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.",
-      "inicio": "2026-11-03T10:00:00",
-      "fin": "2026-11-03T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondesala.jpg"
-    },
-    {
-      "titulo": "Comisión de agricultura",
-      "descripcion": "Emisión institucional en la cual se aborda la situación actual del ámbito agrario en Chile a través del análisis en contexto de las problemáticas actuales y la presentación de posibles soluciones para afianzar este sector económico.",
-      "inicio": "2026-11-03T15:00:00",
-      "fin": "2026-11-03T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisiondeagricultura.jpg"
-    },
-    {
-      "titulo": "[En vivo] Comisión de trabajo",
-      "descripcion": "En vivo ║ Presentamos una serie de sesiones de debate auspiciadas por las comisiones de trabajo del parlamento chileno, en las cuales se argumenta en base a la situación laboral que atraviesa el país actualmente.",
-      "inicio": "2026-11-03T17:30:00",
-      "fin": "2026-11-03T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisiondetrabajo.jpg"
-    },
-    {
-      "titulo": "UESTV",
-      "descripcion": "Red de noticias de las universidades estatales de Chile, genereando noticias de carácter universitario educativo y cultural.",
-      "inicio": "2026-11-03T20:00:00",
-      "fin": "2026-11-03T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/uestv.jpg"
-    },
-    {
-      "titulo": "Puntos de vista",
-      "descripcion": "Segmento en el cual el periodista Guillermo Navarro conversa sobre actualidad y política, con diferentes parlamentarios chilenos, quienes exponen su opinión y apreciaciones sobre los acontecimientos tanto nacionales como internacionales.",
-      "inicio": "2026-11-03T21:00:00",
-      "fin": "2026-11-03T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puntosdevista.jpg"
-    },
-    {
-      "titulo": "La cámara en la radio",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-03T21:30:00",
-      "fin": "2026-11-03T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacamaraenlaradio.jpg"
-    },
-    {
-      "titulo": "CDTV",
-      "descripcion": "Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.",
-      "inicio": "2026-11-03T22:00:00",
-      "fin": "2026-11-04T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cierre",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-04T00:00:00",
-      "fin": "2026-11-04T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cierre",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-04T01:00:00",
-      "fin": "2026-11-04T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "CNTV infantil",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-      "inicio": "2026-11-04T06:30:00",
-      "fin": "2026-11-04T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "CDTV",
-      "descripcion": "Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.",
-      "inicio": "2026-11-04T08:30:00",
-      "fin": "2026-11-04T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] Antesala",
-      "descripcion": "En vivo ║ Alfredo descubrirá, de la peor manera, que todas las acciones que realizamos en este mundo tienen consecuencias y que nadie se escapa de la cosecha de lo sembrado.",
-      "inicio": "2026-11-04T09:30:00",
-      "fin": "2026-11-04T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/antesala.jpg"
-    },
     {
       "titulo": "[En vivo] Sesión de sala",
       "descripcion": "En vivo ║ Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.",
       "inicio": "2026-11-04T10:00:00",
       "fin": "2026-11-04T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondesala.jpg"
+    },
+    {
+      "titulo": "[En vivo] Comisión de derechos humanos",
+      "descripcion": "En vivo ║ Transmisión de las sesiones realizadas en materia de derechos humanos, donde se busca asegurar el cumplimiento de los mismos en la sociedad, en situaciones tales como la identidad de género, el respeto y protección de la vida, la infancia, entre muchos otros.",
+      "inicio": "2026-11-04T15:00:00",
+      "fin": "2026-11-04T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "CDTV",
+      "descripcion": "Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.",
+      "inicio": "2026-11-04T17:30:00",
+      "fin": "2026-11-04T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "UESTV",
+      "descripcion": "Red de noticias de las universidades estatales de Chile, genereando noticias de carácter universitario educativo y cultural.",
+      "inicio": "2026-11-04T20:00:00",
+      "fin": "2026-11-04T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/uestv.jpg"
+    },
+    {
+      "titulo": "Puntos de vista",
+      "descripcion": "Segmento en el cual el periodista Guillermo Navarro conversa sobre actualidad y política, con diferentes parlamentarios chilenos, quienes exponen su opinión y apreciaciones sobre los acontecimientos tanto nacionales como internacionales.",
+      "inicio": "2026-11-04T21:00:00",
+      "fin": "2026-11-04T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puntosdevista.jpg"
+    },
+    {
+      "titulo": "CDTV",
+      "descripcion": "Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.",
+      "inicio": "2026-11-04T21:30:00",
+      "fin": "2026-11-05T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cierre",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-05T00:30:00",
+      "fin": "2026-11-05T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
+      "inicio": "2026-11-05T07:00:00",
+      "fin": "2026-11-05T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "CDTV",
+      "descripcion": "Sigue muy de cerca la gestión de los legisladores de Chile, a través de este espacio que da una amplia cobertura a las sesiones de la cámara de diputados en las que los parlamentarios debaten y llegan a acuerdos en cuanto a muchos temas de actualidad que aquejan al ciudadano.",
+      "inicio": "2026-11-05T09:00:00",
+      "fin": "2026-11-05T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
