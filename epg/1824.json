@@ -1,130 +1,123 @@
 {
   "actual": {
-    "titulo": "Milagro en la celda 7",
-    "descripcion": "Un hombre con discapacidad intelectual es injustamente encarcelado por la muerte de una niña, y debe demostrar su inocencia para poder estar de nuevo con su hija.",
-    "inicio": "2026-11-04T11:01:00",
-    "fin": "2026-11-04T13:15:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/milagroenlacelda7.jpg"
-  },
-  "siguiente": {
-    "titulo": "Un milagro inesperado",
-    "descripcion": "Samantha es una fotógrafa a la que un fatídico accidente dejó en silla de ruedas. Un día, sus hijos le traen a casa una urraca herida y, aunque ella se muestra reticente, acepta cuidarla. Este gesto cambiará irreversiblemente su vida.",
-    "inicio": "2026-11-04T13:15:00",
-    "fin": "2026-11-04T14:52:00",
+    "titulo": "El gran pequeño",
+    "descripcion": "La historia se centra en un niño de 7 años que está dispuesto a hacer cualquier cosa para terminar con la Segunda Guerra Mundial para llevar a su padre a casa.",
+    "inicio": "2026-11-05T12:21:00",
+    "fin": "2026-11-05T14:10:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
+  "siguiente": {
+    "titulo": "Jobs: El hombre que revolucionó al mundo",
+    "descripcion": "En 1976, Steve Jobs, que había dejado de estudiar, pone en marcha un nuevo proyecto junto a su colega Steve Wozniak. Desde el garaje de los padres de Jobs, ambos revolucionarán el mundo con la invención de la computadora Apple.",
+    "inicio": "2026-11-05T14:10:00",
+    "fin": "2026-11-05T16:20:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/jobselhombrequerevolucionoalmundo.jpg"
+  },
   "lista": [
-    {
-      "titulo": "Milagro en la celda 7",
-      "descripcion": "Un hombre con discapacidad intelectual es injustamente encarcelado por la muerte de una niña, y debe demostrar su inocencia para poder estar de nuevo con su hija.",
-      "inicio": "2026-11-04T11:01:00",
-      "fin": "2026-11-04T13:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/milagroenlacelda7.jpg"
-    },
-    {
-      "titulo": "Un milagro inesperado",
-      "descripcion": "Samantha es una fotógrafa a la que un fatídico accidente dejó en silla de ruedas. Un día, sus hijos le traen a casa una urraca herida y, aunque ella se muestra reticente, acepta cuidarla. Este gesto cambiará irreversiblemente su vida.",
-      "inicio": "2026-11-04T13:15:00",
-      "fin": "2026-11-04T14:52:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Serena",
-      "descripcion": "Años 20. George y Serena son un apasionado matrimonio de recién casados que se trasladan de Boston a las montañas del norte de Carolina para montar un negocio maderero. George ya está acostumbrado a vivir en el campo, pero para Serena se trata de un hábitat completamente nuevo. A pesar de ello, pronto demuestra que está a la altura de las circunstancias. Pero la vida de la pareja comienza a resquebrajarse cuando Serena se entera de que nunca podrá tener hijos.",
-      "inicio": "2026-11-04T14:52:00",
-      "fin": "2026-11-04T16:44:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/serena.jpg"
-    },
-    {
-      "titulo": "The Huntsman: Winter's War",
-      "descripcion": "Mucho antes de ser apuñalada y vencida por Blancanieves, la malvada reina Ravenna fue testigo de cómo su hermana Freya sufría una desgarradora traición y huía del reino. Freya vive desde entonces en un lejano palacio invernal, donde ha creado una legión de cazadores, pero descubre que Eric y la guerrera Sara han incumplido la única regla impuesta a los soldados: desterrar el amor eternamente de sus corazones.",
-      "inicio": "2026-11-04T16:44:00",
-      "fin": "2026-11-04T18:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El defensor",
-      "descripcion": "Un hombre de negocios corrupto comete un asesinato y el único testigo es la novia de otro hombre de negocios con conexiones cercanas con el gobierno chino, por lo que se envía un guardaespaldas de Beijing para ayudar a dos policías de Hong Kong a proteger al testigo.",
-      "inicio": "2026-11-04T18:29:00",
-      "fin": "2026-11-04T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eldefensor.jpg"
-    },
-    {
-      "titulo": "Soberano",
-      "descripcion": "Un padre y su hijo pertenecientes a un grupo de extremistas antigubernamentales conocido como Ciudadanos Soberanos se ven envueltos en un conflicto policial que los obliga a replantearse los límites de la libertad.",
-      "inicio": "2026-11-04T20:30:00",
-      "fin": "2026-11-04T22:13:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Mauritanian",
-      "descripcion": "Capturado por el gobierno de los Estados Unidos, Mohamedou Ould Slahi sobrevive en la prisión de Guantánamo donde lleva más de una década sin cargos ni juicio. Tras haber perdido toda esperanza, Slahi encuentra aliados en la abogada defensora Nancy Hollander y su asociada Teri Duncan. Juntos se enfrentan a innumerables obstáculos en una búsqueda desesperada de justicia.",
-      "inicio": "2026-11-04T22:13:00",
-      "fin": "2026-11-05T00:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/themauritanian.jpg"
-    },
-    {
-      "titulo": "La piscina",
-      "descripcion": "Jean-Paul y Marianne disfrutan de unas tranquilas vacaciones en una villa cercana a St-Tropez. Todo marcha a la perfección hasta que Marianne invita a su ex amante Harry y a su hija Penélope, a pasar unos días en la casa. Pronto la tensión empezará a crecer entre los cuatro y, bajo una aparente cordialidad, se creará un clima de celos y sospechas.",
-      "inicio": "2026-11-05T00:25:00",
-      "fin": "2026-11-05T01:57:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapiscina.jpg"
-    },
-    {
-      "titulo": "Reliquias oscuras • Cara o cruz",
-      "descripcion": "Cara o cruz | Una historia intrigante sobre una moneda antigua que tiene el poder de alterar el destino de quienes la poseen, ya sea para bien o para mal, hasta que deben decidir si seguir usándola o deshacerse de ella antes de que sea demasiado tarde.",
-      "inicio": "2026-11-05T01:57:00",
-      "fin": "2026-11-05T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Reliquias oscuras • Voces del más allá",
-      "descripcion": "Voces del más allá | Una familia encuentra un antiguo radio en una venta de garaje que tiene la capacidad de captar voces del más allá y lo lleva a casa, sin saber que está maldito.",
-      "inicio": "2026-11-05T03:00:00",
-      "fin": "2026-11-05T04:03:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Madres e hijastros vol. 3",
-      "descripcion": "Estas mujeres maduras están listas para complacer a sus parejas y mostrarles cómo una mujer real puede lograr el clímax.",
-      "inicio": "2026-11-05T04:03:00",
-      "fin": "2026-11-05T05:31:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Vértigo",
-      "descripcion": "Scottie Fergusson es un detective de la policía de San Francisco que padece de vértigo. Cuando un compañero cae al vacío desde una cornisa mientras persiguen a un delincuente, Scottie decide retirarse. Gavin Elster, un viejo amigo del colegio, lo contrata para que vigile a su esposa Madeleine, una bella mujer que está obsesionada con su pasado.",
-      "inicio": "2026-11-05T05:31:00",
-      "fin": "2026-11-05T07:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vertigo.jpg"
-    },
-    {
-      "titulo": "KM31: Kilómetro 31",
-      "descripcion": "Catalina y Ágata son hermanas gemelas, que desde niñas han tenido una conexión casi telepática. Una noche, Ágata se encuentra con un extraño niño en el kilómetro 31 de la carretera, por el cual sufre un accidente que la deja atrapada entre el mundo de los vivos y el mundo de los muertos. Junto con Nuño, su gran amigo y Omar, el novio de su hermana, Catalina tendrá que resolver el misterio que envuelve el trágico accidente... Un filme de terror que obtuvo un enorme éxito de taquilla en México. (FILMAFFINITY)",
-      "inicio": "2026-11-05T07:20:00",
-      "fin": "2026-11-05T09:07:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/km31kilometro31.jpg"
-    },
-    {
-      "titulo": "Posesión diabólica",
-      "descripcion": "Alex y Lisa son una pareja que emprende un largo viaje por carretera para volver al pueblo de sus raíces familiares, ya en su antigua casa, Alex es gradualmente poseído por una entidad maligna, que poco a poco comienza a sustituir su identidad.",
-      "inicio": "2026-11-05T09:07:00",
-      "fin": "2026-11-05T10:47:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/posesiondiabolica.jpg"
-    },
-    {
-      "titulo": "Papá o mamá",
-      "descripcion": "Florencia y Vicente se están divorciando. Cuando ambos sean ascendidos en sus trabajos, harán cualquier cosa para no quedarse con la custodia de sus hijos.",
-      "inicio": "2026-11-05T10:47:00",
-      "fin": "2026-11-05T12:21:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/papaomama.jpg"
-    },
     {
       "titulo": "El gran pequeño",
       "descripcion": "La historia se centra en un niño de 7 años que está dispuesto a hacer cualquier cosa para terminar con la Segunda Guerra Mundial para llevar a su padre a casa.",
       "inicio": "2026-11-05T12:21:00",
       "fin": "2026-11-05T14:10:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jobs: El hombre que revolucionó al mundo",
+      "descripcion": "En 1976, Steve Jobs, que había dejado de estudiar, pone en marcha un nuevo proyecto junto a su colega Steve Wozniak. Desde el garaje de los padres de Jobs, ambos revolucionarán el mundo con la invención de la computadora Apple.",
+      "inicio": "2026-11-05T14:10:00",
+      "fin": "2026-11-05T16:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/jobselhombrequerevolucionoalmundo.jpg"
+    },
+    {
+      "titulo": "Danny Collins",
+      "descripcion": "Danny Collins es un anciano cantante de los 70 que no puede dejar su vida de excesos. Su manager descubre una carta que le envió John Lennon hace 40 años y, después de este acontecimiento, Danny decide emprender un viaje para redescubrir su vida.",
+      "inicio": "2026-11-05T16:20:00",
+      "fin": "2026-11-05T18:09:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mi hijo y yo",
+      "descripcion": "Jo Canavaro, una estrella del rugby, nieto e hijo de dos ídolos del mismo deporte, vive con su hijo Tom, de trece años, en un pueblo francés. Para su disgusto, Tom es muy malo jugando al rugby, pero eso para un Canavaro es algo inaceptable: la leyenda debe continuar.",
+      "inicio": "2026-11-05T18:09:00",
+      "fin": "2026-11-05T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mihijoyyo.jpg"
+    },
+    {
+      "titulo": "Primera llegada",
+      "descripcion": "Una joven tiene un encuentro con misteriosas luces que aparecen sobre su pueblo y desarrolla poderes extraordinarios, pero peligrosos.",
+      "inicio": "2026-11-05T19:45:00",
+      "fin": "2026-11-05T21:18:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Peligrosa ambición",
+      "descripcion": "Un joven asesor político se mete en un problema cuando se acuesta con la esposa de un candidato a la presidencia. A partir de ese desliz, su vida entra en una espiral de corrupciones y chantajes que podrían costarle algo más valioso que la carrera.",
+      "inicio": "2026-11-05T21:18:00",
+      "fin": "2026-11-05T22:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/peligrosaambicion.jpg"
+    },
+    {
+      "titulo": "Amityville: el despertar",
+      "descripcion": "Belle y su familia se mudan a una nueva casa, con el fin de ahorrar dinero para ayudar a pagar el costoso tratamiento de su hermano gemelo que se encuentra en coma. Pero cuando fenómenos extraños empiezan a ocurrir en la casa, incluyendo la recuperación milagrosa de su hermano y pesadillas cada vez más espeluznantes, Belle comienza a sospechar que su madre no le está contando toda la verdad y pronto se da cuenta de que acaban de mudarse a la terrorífica casa de Amityville.",
+      "inicio": "2026-11-05T22:57:00",
+      "fin": "2026-11-06T00:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/amityvilleeldespertar.jpg"
+    },
+    {
+      "titulo": "Un cuento tenebroso",
+      "descripcion": "Dos sobrevivientes del accidente de un autobús despiertan en una ciudad abandonada y ellos intentan descubrir qué les sucedió y a la gente del lugar.",
+      "inicio": "2026-11-06T00:25:00",
+      "fin": "2026-11-06T01:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Reliquias oscuras • Voces del más allá",
+      "descripcion": "Voces del más allá | Reliquias oscuras se desarrolla en torno al concepto de que a lo largo de la historia han existido diversos objetos que esconden oscuras energías espirituales, maldiciones o demonios. Algunos de los cuales han pasado de generación en generación, sin que sus dueños conozcan los terribles poderes que ocultan y sólo esperan el momento para escapar y provocar tragedia y horror a todo aquel que ose perturbarlos.",
+      "inicio": "2026-11-06T01:57:00",
+      "fin": "2026-11-06T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Reliquias oscuras • Juego de niños",
+      "descripcion": "Juego de niños | Reliquias oscuras se desarrolla en torno al concepto de que a lo largo de la historia han existido diversos objetos que esconden oscuras energías espirituales, maldiciones o demonios. Algunos de los cuales han pasado de generación en generación, sin que sus dueños conozcan los terribles poderes que ocultan y sólo esperan el momento para escapar y provocar tragedia y horror a todo aquel que ose perturbarlos.",
+      "inicio": "2026-11-06T03:00:00",
+      "fin": "2026-11-06T03:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Niñeras traviesas",
+      "descripcion": "Hombres calientes meten sus grandes miembros en las chicas.",
+      "inicio": "2026-11-06T03:55:00",
+      "fin": "2026-11-06T05:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Mauritanian",
+      "descripcion": "Capturado por el gobierno de los Estados Unidos, Mohamedou Ould Slahi sobrevive en la prisión de Guantánamo donde lleva más de una década sin cargos ni juicio. Tras haber perdido toda esperanza, Slahi encuentra aliados en la abogada defensora Nancy Hollander y su asociada Teri Duncan. Juntos se enfrentan a innumerables obstáculos en una búsqueda desesperada de justicia.",
+      "inicio": "2026-11-06T05:53:00",
+      "fin": "2026-11-06T08:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/themauritanian.jpg"
+    },
+    {
+      "titulo": "La luz del fin del mundo",
+      "descripcion": "En el Cabo de Hornos, en 1865, unos piratas a las órdenes de Konge (Yul Brynner) asaltan un faro situado en una isla rocosa y matan a todos los hombres, excepto a Will Denton (Kirk Douglas), que logra escapar. El plan de los piratas consiste en apagar la luz del faro para que los barcos se estrellen contra los arrecifes y poder adueñarse después del botín. Denton intenta impedirlo. Arabella (Samantha Eggar), la única superviviente de un naufragio provocado por los piratas, está también dispuesta a colaborar para acabar con ellos.",
+      "inicio": "2026-11-06T08:05:00",
+      "fin": "2026-11-06T10:07:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laluzdelfindelmundo.jpg"
+    },
+    {
+      "titulo": "El expreso del miedo",
+      "descripcion": "En 2031, una nueva era glacial ha hecho que la Tierra sea prácticamente inhabitable. El último bastión de la humanidad es un tren de alta tecnología que no se detiene nunca. Si el motor se detiene, la humanidad morirá congelada. Los más ricos viven en los vagones delanteros, mientras que los más pobres llevan una vida miserable en los de atrás y la rebelión está a punto de estallar.",
+      "inicio": "2026-11-06T10:07:00",
+      "fin": "2026-11-06T12:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Viudas",
+      "descripcion": "Adaptación cinematográfica de 'Las viudas', miniserie británica de 1983, aquí ambientada en Chicago en la actualidad, sobre cuatro mujeres con nada en común excepto una deuda heredada por las actividades criminales de sus difuntos maridos. Verónica, Alice, Linda y Belle, deciden tomar las riendas de su destino y conspiran para forjarse un futuro con sus propias reglas.",
+      "inicio": "2026-11-06T12:15:00",
+      "fin": "2026-11-06T14:27:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viudas.jpg"
     }
   ]
 }

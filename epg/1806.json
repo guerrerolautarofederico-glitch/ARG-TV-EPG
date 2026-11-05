@@ -1,158 +1,102 @@
 {
   "actual": {
-    "titulo": "Operación Regalo",
-    "descripcion": "Arthur Claus, el hijo torpe de Papá Noel, descubre que una niña no ha recibido su regalo por una falla técnica. En respuesta, se embarca en una misión para salvar su navidad, acompañado de su abuelo, un elfo y ocho renos mágicos.",
-    "inicio": "2026-11-04T12:40:00",
-    "fin": "2026-11-04T14:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "¡Shazam!",
+    "descripcion": "Todos llevamos un superhéroe dentro, solo se necesita un poco de magia para sacarlo a la luz. Cuando Billy Batson, un niño de acogida de 14 años que ha crecido en las calles, grita la palabra 'SHAZAM!' se convierte en el Superhéroe adulto Shazam, por cortesía de un antiguo mago. Dentro de un cuerpo musculoso y divino, Shazam esconde un corazón de niño. Pero lo mejor es que en esta versión de adulto consigue realizar todo lo que le gustaría hacer a cualquier adolescente con superpoderes: ¡divertirse con ellos! ¿Volar? ¿Tener visión de rayos X? ¿Disparar un rayo con las manos? ¿Saltarse el examen de sociales? Shazam va a poner a prueba los límites de sus habilidades con la inconsciencia propia de un niño. Pero necesitará dominar rápidamente esos poderes para luchar contra las letales fuerzas del mal que controla el Dr. Thaddeus Sivana.",
+    "inicio": "2026-11-05T12:45:00",
+    "fin": "2026-11-05T15:15:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/shazam.jpg"
   },
   "siguiente": {
-    "titulo": "Casado con hijos • Cultura y calentura",
-    "descripcion": "Cultura y calentura | Paola consigue trabajar como ayudante de Marley en un programa de cultura, pero su personalidad cambia cuando es elegida como la estrella del programa.",
-    "inicio": "2026-11-04T14:30:00",
-    "fin": "2026-11-04T15:10:00",
+    "titulo": "Casado con hijos • Hay alien ahí?",
+    "descripcion": "Hay alien ahí? | La vida de la caótica familia Olivares de clase media que vive en el corazón del barrio de Villa Coapa, en la Ciudad de México.",
+    "inicio": "2026-11-05T15:15:00",
+    "fin": "2026-11-05T15:55:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casadoconhijos.jpg"
   },
   "lista": [
-    {
-      "titulo": "Operación Regalo",
-      "descripcion": "Arthur Claus, el hijo torpe de Papá Noel, descubre que una niña no ha recibido su regalo por una falla técnica. En respuesta, se embarca en una misión para salvar su navidad, acompañado de su abuelo, un elfo y ocho renos mágicos.",
-      "inicio": "2026-11-04T12:40:00",
-      "fin": "2026-11-04T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Casado con hijos • Cultura y calentura",
-      "descripcion": "Cultura y calentura | Paola consigue trabajar como ayudante de Marley en un programa de cultura, pero su personalidad cambia cuando es elegida como la estrella del programa.",
-      "inicio": "2026-11-04T14:30:00",
-      "fin": "2026-11-04T15:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casadoconhijos.jpg"
-    },
-    {
-      "titulo": "Casado con hijos • Los de afuera tiran palos",
-      "descripcion": "Los de afuera tiran palos | Pepe y Moni cumplen 17 años desde su primera cita, así que Pepe lleva a la familia al boliche, para que él puede batir un gran récord, pero no cuenta con que Moni le puede ganar.",
-      "inicio": "2026-11-04T15:10:00",
-      "fin": "2026-11-04T15:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casadoconhijos.jpg"
-    },
-    {
-      "titulo": "Casado con hijos • El adiós de Dardo - Parte 1",
-      "descripcion": "El adiós de Dardo - Parte 1 | Cuando Dardo la abandona, María Elena recurre a los Argento en busca de consuelo. Mientras Coqui despliega sus armas de seducción, Moni se lleva a la vecina a Mar del Plata.",
-      "inicio": "2026-11-04T15:45:00",
-      "fin": "2026-11-04T16:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casadoconhijos.jpg"
-    },
-    {
-      "titulo": "Jack y Jill",
-      "descripcion": "Jack es un padre de familia que tiene que afrontar un arduo problema: la llegada por Navidad de su odiada hermana Jill. Como si fuera poco, la visita de pocos días se alarga más de lo previsto, y los hermanos intentarán limar asperezas.",
-      "inicio": "2026-11-04T16:20:00",
-      "fin": "2026-11-04T18:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "De Ladron A Policia",
-      "descripcion": "Miles es un ladrón que intenta recuperar un diamante. Sin embargo, tras pasar dos años en la cárcel, descubre que el lugar donde lo escondió es ahora una estación policial. En su intento por recuperar la piedra, se hará pasar por detective.",
-      "inicio": "2026-11-04T18:10:00",
-      "fin": "2026-11-04T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deladronapolicia.jpg"
-    },
-    {
-      "titulo": "Luna de miel en familia",
-      "descripcion": "Por problemas económicos, una pareja de recién casados no tiene más remedio que ir a vivirse temporalmente con los padres de él. Y claro, la luna de miel en casa de padres y suegros se prolonga demasiado.",
-      "inicio": "2026-11-04T20:00:00",
-      "fin": "2026-11-04T22:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lunademielenfamilia.jpg"
-    },
-    {
-      "titulo": "Una esposa de mentira",
-      "descripcion": "Danny desea conquistar a Palmer, una chica mucho más joven que él. Para despertar su interés, contrata a su asistente, Katherine, para demostrarle que su amor por ella es tal que está a punto de divorciarse de su mujer.",
-      "inicio": "2026-11-04T22:15:00",
-      "fin": "2026-11-05T00:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¿Qué pasó ayer? - Parte III",
-      "descripcion": "Tras la inesperada muerte de su padre, Alan es llevado por sus amigos Phil, Stu y Doug a un centro especializado para que mejore. Esta vez no hay boda ni fiesta de despedida ¿Qué puede ir mal?",
-      "inicio": "2026-11-05T00:25:00",
-      "fin": "2026-11-05T03:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Casado con hijos • Cultura y calentura",
-      "descripcion": "Cultura y calentura | Paola consigue trabajar como ayudante de Marley en un programa de cultura, pero su personalidad cambia cuando es elegida como la estrella del programa.",
-      "inicio": "2026-11-05T03:05:00",
-      "fin": "2026-11-05T03:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casadoconhijos.jpg"
-    },
-    {
-      "titulo": "Casado con hijos • Los de afuera tiran palos",
-      "descripcion": "Los de afuera tiran palos | Pepe y Moni cumplen 17 años desde su primera cita, así que Pepe lleva a la familia al boliche, para que él puede batir un gran récord, pero no cuenta con que Moni le puede ganar.",
-      "inicio": "2026-11-05T03:45:00",
-      "fin": "2026-11-05T04:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casadoconhijos.jpg"
-    },
-    {
-      "titulo": "The Good Doctor • Monte Rushmore",
-      "descripcion": "Monte Rushmore | Cuando los prejuicios sobre su autismo obligan a Shaun a quedarse al margen en St. Bonaventure, un colega no duda en reclamar crédito por sus ideas. Mientras tanto, el Dr. Murphy es implacable en salvar la vida de una niña.",
-      "inicio": "2026-11-05T04:20:00",
-      "fin": "2026-11-05T05:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thegooddoctor.jpg"
-    },
-    {
-      "titulo": "Bettys Diagnose • Unerwartet",
-      "descripcion": "Unerwartet | Tan pronto como se convierte en el médico jefe, el Dr. comete un error. Su tono es severo: Betty espera una disculpa de su parte. Para reconciliarse, quiere pasar la velada con ella. Pero entonces Betty se sienta sola.",
-      "inicio": "2026-11-05T05:10:00",
-      "fin": "2026-11-05T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bettysdiagnose.jpg"
-    },
-    {
-      "titulo": "The Good Doctor • Tuberías",
-      "descripcion": "Tuberías | El Dr. Neil Meléndez y el equipo tienen que atravesar las aguas legales cuando un esposo y una esposa tienen que tomar una decisión que cambia la vida de su hijo por nacer.",
-      "inicio": "2026-11-05T06:00:00",
-      "fin": "2026-11-05T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thegooddoctor.jpg"
-    },
-    {
-      "titulo": "The Good Doctor • Oliver",
-      "descripcion": "Oliver | Claire está aprendiendo a comunicarse con Shaun mientras corren al hospital con un órgano donado y realizan una cirugía en el órgano mientras se encuentran en una rampa de la autopista.",
-      "inicio": "2026-11-05T07:00:00",
-      "fin": "2026-11-05T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thegooddoctor.jpg"
-    },
-    {
-      "titulo": "Anatomía según Grey • Don't You (Forget About Me)",
-      "descripcion": "Don't You (Forget About Me) | Amelia y Simone intentan realizar una operación cerebral pionera y de alto riesgo; Teddy y Bailey asisten a un congreso médico donde se encuentran con la Dra. Cass Beckman; Jo lidia con su irritación hacia una ginecóloga.",
-      "inicio": "2026-11-05T08:00:00",
-      "fin": "2026-11-05T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/anatomiasegungrey.jpg"
-    },
-    {
-      "titulo": "Anatomía según Grey • Love in the Ice Age",
-      "descripcion": "Love in the Ice Age | Bailey da la bienvenida a un cirujano que admira para que colabore en un caso complicado. Mientras tanto, Teddy, Owen, Jules y Ben unen sus fuerzas para salvar la vida de un paciente que ha sido atravesado por un piolet.",
-      "inicio": "2026-11-05T09:00:00",
-      "fin": "2026-11-05T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/anatomiasegungrey.jpg"
-    },
-    {
-      "titulo": "La niñera • Mi bella niñera",
-      "descripcion": "Mi bella niñera | Fran organiza un té social para la debutante Maggie.",
-      "inicio": "2026-11-05T10:00:00",
-      "fin": "2026-11-05T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laninera.jpg"
-    },
-    {
-      "titulo": "La niñera • Episodio de Navidad",
-      "descripcion": "Episodio de Navidad | Fran pasa su primera navidad con los Sheffield.",
-      "inicio": "2026-11-05T10:30:00",
-      "fin": "2026-11-05T12:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laninera.jpg"
-    },
     {
       "titulo": "¡Shazam!",
       "descripcion": "Todos llevamos un superhéroe dentro, solo se necesita un poco de magia para sacarlo a la luz. Cuando Billy Batson, un niño de acogida de 14 años que ha crecido en las calles, grita la palabra 'SHAZAM!' se convierte en el Superhéroe adulto Shazam, por cortesía de un antiguo mago. Dentro de un cuerpo musculoso y divino, Shazam esconde un corazón de niño. Pero lo mejor es que en esta versión de adulto consigue realizar todo lo que le gustaría hacer a cualquier adolescente con superpoderes: ¡divertirse con ellos! ¿Volar? ¿Tener visión de rayos X? ¿Disparar un rayo con las manos? ¿Saltarse el examen de sociales? Shazam va a poner a prueba los límites de sus habilidades con la inconsciencia propia de un niño. Pero necesitará dominar rápidamente esos poderes para luchar contra las letales fuerzas del mal que controla el Dr. Thaddeus Sivana.",
       "inicio": "2026-11-05T12:45:00",
       "fin": "2026-11-05T15:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/shazam.jpg"
+    },
+    {
+      "titulo": "Casado con hijos • Hay alien ahí?",
+      "descripcion": "Hay alien ahí? | La vida de la caótica familia Olivares de clase media que vive en el corazón del barrio de Villa Coapa, en la Ciudad de México.",
+      "inicio": "2026-11-05T15:15:00",
+      "fin": "2026-11-05T15:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casadoconhijos.jpg"
+    },
+    {
+      "titulo": "De Ladron A Policia",
+      "descripcion": "Miles es un ladrón que intenta recuperar un diamante. Sin embargo, tras pasar dos años en la cárcel, descubre que el lugar donde lo escondió es ahora una estación policial. En su intento por recuperar la piedra, se hará pasar por detective.",
+      "inicio": "2026-11-05T15:55:00",
+      "fin": "2026-11-05T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deladronapolicia.jpg"
+    },
+    {
+      "titulo": "Luna de miel en familia",
+      "descripcion": "Por problemas económicos, una pareja de recién casados no tiene más remedio que ir a vivirse temporalmente con los padres de él. Y claro, la luna de miel en casa de padres y suegros se prolonga demasiado.",
+      "inicio": "2026-11-05T17:45:00",
+      "fin": "2026-11-05T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lunademielenfamilia.jpg"
+    },
+    {
+      "titulo": "M3GAN",
+      "descripcion": "M3GAN es una maravilla de la inteligencia artificial, una muñeca realista programada para ser la mejor compañera de los niños y la mayor aliada de los padres. Diseñada por Gemma, M3GAN es capaz de escuchar, observar y aprender mientras se convierte en amiga, profesora, compañera de juegos y protectora del niño al que se vincule. Cuando, inesperadamente, Gemma se convierte en la tutora legal de Cady, su sobrina huérfana de 9 años, no sabe muy bien qué hacer ni se siente preparada para ejercer de madre. Sometida a un intenso estrés laboral, Gemma decide vincular su prototipo de M3GAN a Cady en un intento de resolver ambos problemas, pero no tardará en descubrir las inimaginables consecuencias de su decisión.",
+      "inicio": "2026-11-05T20:00:00",
+      "fin": "2026-11-05T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/m3gan.jpg"
+    },
+    {
+      "titulo": "¡Huye!",
+      "descripcion": "Chris, un joven afroamericano, visita a los padres de su novia blanca, un matrimonio adinerado que vive en medio del campo. Su comportamiento complaciente poco a poco irá mutando hasta revelar una verdad inquietante.",
+      "inicio": "2026-11-05T22:00:00",
+      "fin": "2026-11-06T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/huye.jpg"
+    },
+    {
+      "titulo": "Arrástrame al Infierno",
+      "descripcion": "La joven Christine Brown, ambiciosa apoderada de un banco de Los Ángeles, sale con un hombre encantador, el profesor Clay Dalton. El trabajo de Christine consiste en conceder préstamos hipotecarios. Un día la señora Ganush, una misteriosa anciana, va al banco para pedirle una moratoria, pero Christine se la niega y la señora Ganush pierde su casa. La anciana decide entonces vengarse lanzándole una maldición que convierte su vida en un infierno. Ante la incomprensión de su escéptico novio, Christine busca la ayuda de un vidente para salvar su alma de una condenación eterna. Intentando ayudarla a recobrar una vida normal, el vidente la guía en una frenética carrera para conjurar el hechizo. Pero las fuerzas del mal se acercan y Christine debe enfrentarse a algo impensable.",
+      "inicio": "2026-11-06T00:00:00",
+      "fin": "2026-11-06T02:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/arrastramealinfierno.jpg"
+    },
+    {
+      "titulo": "Casado con hijos • Hay alien ahí?",
+      "descripcion": "Hay alien ahí? | La vida de la caótica familia Olivares de clase media que vive en el corazón del barrio de Villa Coapa, en la Ciudad de México.",
+      "inicio": "2026-11-06T02:40:00",
+      "fin": "2026-11-06T03:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casadoconhijos.jpg"
+    },
+    {
+      "titulo": "Sony Channel",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-11-06T03:40:00",
+      "fin": "2026-11-06T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sony Channel",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-11-06T04:00:00",
+      "fin": "2026-11-06T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sony Channel",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-11-06T08:00:00",
+      "fin": "2026-11-06T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sony Channel",
+      "descripcion": "La informacion de este programa no se encuentra disponible.",
+      "inicio": "2026-11-06T12:00:00",
+      "fin": "2026-11-06T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

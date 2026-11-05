@@ -1,158 +1,165 @@
 {
   "actual": {
-    "titulo": "Alfa",
-    "descripcion": "Un joven resulta herido durante una cacería y sus compañeros se marchan, dándolo por muerto. El joven despierta y encuentra a un lobo que fue abandonado por su manada. Ahora, hombre y lobo intentarán sobrevivir juntos.",
-    "inicio": "2026-11-04T11:30:00",
-    "fin": "2026-11-04T13:05:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alfa.jpg"
+    "titulo": "Chappie",
+    "descripcion": "En un futuro cercano, la policía mecanizada controla el crimen. Cuando un droide de la policía, Chappie, es robado y se le da una nueva programación, se convierte en el primer robot con la capacidad de pensar y sentir por sí mismo.",
+    "inicio": "2026-11-05T11:30:00",
+    "fin": "2026-11-05T13:40:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chappie.jpg"
   },
   "siguiente": {
-    "titulo": "Contrarreloj",
-    "descripcion": "Un ejecutivo de un banco recibe, mientras conduce a sus hijos a la escuela, una amenaza de bomba dentro de su auto, el cual explotará si se detienen o salen del vehículo antes de conseguir una elevada suma de dinero.",
-    "inicio": "2026-11-04T13:05:00",
-    "fin": "2026-11-04T14:40:00",
+    "titulo": "Operación Valquiria",
+    "descripcion": "El coronel Claus Von Stauffenberg vuelve de África para unirse a la resistencia alemana, y organizar la Operación Valkiria. Él deberá liderar el golpe, tomar el control del gobierno de su país y matar al propio Hitler.",
+    "inicio": "2026-11-05T13:40:00",
+    "fin": "2026-11-05T15:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Alfa",
-      "descripcion": "Un joven resulta herido durante una cacería y sus compañeros se marchan, dándolo por muerto. El joven despierta y encuentra a un lobo que fue abandonado por su manada. Ahora, hombre y lobo intentarán sobrevivir juntos.",
-      "inicio": "2026-11-04T11:30:00",
-      "fin": "2026-11-04T13:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alfa.jpg"
-    },
-    {
-      "titulo": "Contrarreloj",
-      "descripcion": "Un ejecutivo de un banco recibe, mientras conduce a sus hijos a la escuela, una amenaza de bomba dentro de su auto, el cual explotará si se detienen o salen del vehículo antes de conseguir una elevada suma de dinero.",
-      "inicio": "2026-11-04T13:05:00",
-      "fin": "2026-11-04T14:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Rápidos y furiosos 9",
-      "descripcion": "Dom Toretto lleva una vida tranquila fuera de alcance con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha en su tranquilo horizonte.",
-      "inicio": "2026-11-04T14:40:00",
-      "fin": "2026-11-04T17:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tomb Raider: Las aventuras de Lara Croft",
-      "descripcion": "En contra de los deseos de su padre, Lara Croft deja todo atrás para buscar su último destino: una tumba en una mítica isla. Si sobrevive, podría ganarse el nombre de Tomb Raider.",
-      "inicio": "2026-11-04T17:15:00",
-      "fin": "2026-11-04T19:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tombraiderlasaventurasdelaracroft.jpg"
-    },
-    {
-      "titulo": "Rápidos y furiosos 9",
-      "descripcion": "Dom Toretto lleva una vida tranquila fuera de alcance con Letty y su hijo, el pequeño Brian, pero saben que el peligro siempre acecha en su tranquilo horizonte.",
-      "inicio": "2026-11-04T19:25:00",
-      "fin": "2026-11-04T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ad Astra: hacia las estrellas",
-      "descripcion": "El astronauta Roy McBride emprende una misión a través de un implacable sistema solar, para descubrir la verdad sobre su desaparecido padre y su condenada expedición que ahora, 30 años después, amenaza el universo.",
-      "inicio": "2026-11-04T22:00:00",
-      "fin": "2026-11-05T00:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/adastrahacialasestrellas.jpg"
-    },
-    {
-      "titulo": "Chappie",
-      "descripcion": "En un futuro cercano, la policía mecanizada controla el crimen. Cuando un droide de la policía, Chappie, es robado y se le da una nueva programación, se convierte en el primer robot con la capacidad de pensar y sentir por sí mismo.",
-      "inicio": "2026-11-05T00:15:00",
-      "fin": "2026-11-05T02:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chappie.jpg"
-    },
-    {
-      "titulo": "Crank, muerte anunciada",
-      "descripcion": "Un asesino a sueldo recibe la llamada de su rival anunciando que sólo le queda una hora de vida, ya que ha sido envenenado. La única oportunidad que tiene de sobrevivir es mantenerse en movimiento.",
-      "inicio": "2026-11-05T02:25:00",
-      "fin": "2026-11-05T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Erin Brockovich, una mujer audaz",
-      "descripcion": "Mientras trabaja de oficinista en una pequeña firma de abogados, Erin descubre por casualidad un complot para encubrir un escándalo. Enfurecida con el engaño, ella convence a su jefe que le permita investigar.",
-      "inicio": "2026-11-05T04:00:00",
-      "fin": "2026-11-05T06:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Planet Action • T1 E312",
-      "descripcion": "T1 E312 | Vive el detrás de escena de las mejores películas de acción. Desde tiroteos de vaqueros hasta coches en explosión, acrobacias, peleas en el espacio y monstruos rugientes. Conoce todos los secretos de tus héroes de acción favoritos.",
-      "inicio": "2026-11-05T06:25:00",
-      "fin": "2026-11-05T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planetaction.jpg"
-    },
-    {
-      "titulo": "Infomerciales",
-      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
-      "inicio": "2026-11-05T07:00:00",
-      "fin": "2026-11-05T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Infomerciales",
-      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
-      "inicio": "2026-11-05T07:30:00",
-      "fin": "2026-11-05T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Infomerciales",
-      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
-      "inicio": "2026-11-05T08:00:00",
-      "fin": "2026-11-05T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Infomerciales",
-      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
-      "inicio": "2026-11-05T08:30:00",
-      "fin": "2026-11-05T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Infomerciales",
-      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
-      "inicio": "2026-11-05T09:00:00",
-      "fin": "2026-11-05T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Infomerciales",
-      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
-      "inicio": "2026-11-05T09:30:00",
-      "fin": "2026-11-05T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Infomerciales",
-      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
-      "inicio": "2026-11-05T10:00:00",
-      "fin": "2026-11-05T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Infomerciales",
-      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
-      "inicio": "2026-11-05T10:30:00",
-      "fin": "2026-11-05T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Planet Action • T1 E321",
-      "descripcion": "T1 E321 | Vive el detrás de escena de las mejores películas de acción. Desde tiroteos de vaqueros hasta coches en explosión, acrobacias, peleas en el espacio y monstruos rugientes. Conoce todos los secretos de tus héroes de acción favoritos.",
-      "inicio": "2026-11-05T11:00:00",
-      "fin": "2026-11-05T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planetaction.jpg"
-    },
     {
       "titulo": "Chappie",
       "descripcion": "En un futuro cercano, la policía mecanizada controla el crimen. Cuando un droide de la policía, Chappie, es robado y se le da una nueva programación, se convierte en el primer robot con la capacidad de pensar y sentir por sí mismo.",
       "inicio": "2026-11-05T11:30:00",
       "fin": "2026-11-05T13:40:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chappie.jpg"
+    },
+    {
+      "titulo": "Operación Valquiria",
+      "descripcion": "El coronel Claus Von Stauffenberg vuelve de África para unirse a la resistencia alemana, y organizar la Operación Valkiria. Él deberá liderar el golpe, tomar el control del gobierno de su país y matar al propio Hitler.",
+      "inicio": "2026-11-05T13:40:00",
+      "fin": "2026-11-05T15:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los siete magníficos",
+      "descripcion": "Siete forajidos son contratados por los desesperados habitantes del pueblo de Rose Creek para que les defiendan de la amenaza de un despiadado extorsionador llamado Bartholomew Bogue. Mientras preparan el pueblo para la violenta confrontación que saben se avecina inevitablemente, estos siete mercenarios se encontrarán luchando por algo más que el simple dinero.",
+      "inicio": "2026-11-05T15:45:00",
+      "fin": "2026-11-05T18:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lossietemagnificos.jpg"
+    },
+    {
+      "titulo": "El peso del talento",
+      "descripcion": "Frustrado creativamente y abocado a la ruina, Cage, interpretándose a sí mismo, debe aceptar una oferta de un millón de dólares por asistir al cumpleaños de un peligroso admirador.",
+      "inicio": "2026-11-05T18:10:00",
+      "fin": "2026-11-05T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El maestro luchador",
+      "descripcion": "Scott es profesor de un colegio con problemas económicos. Pero cuando la crisis amenaza con la eliminación de las clases extracurriculares, se convertirá en un luchador de artes marciales mixtas para recaudar fondos.",
+      "inicio": "2026-11-05T20:00:00",
+      "fin": "2026-11-05T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Revenant: el renacido",
+      "descripcion": "En 1820, un hombre que vive en las montañas resulta herido de gravedad por el ataque de un oso. Viendo que nada pueden hacer por él, sus compañeros lo abandonan en el bosque. Sin embargo, se apuraron en darlo por muerto.",
+      "inicio": "2026-11-05T22:00:00",
+      "fin": "2026-11-06T00:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/revenantelrenacido.jpg"
+    },
+    {
+      "titulo": "El juego del miedo 2",
+      "descripcion": "El asesino del rompecabezas ha regresado. El detective Eric se embarca en una investigación exhaustiva que le permite atrapar al criminal sin esfuerzo. Sin embargo, para Jigsaw la detención no es más que otra parte de su plan.",
+      "inicio": "2026-11-06T00:50:00",
+      "fin": "2026-11-06T02:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El juego del miedo 3",
+      "descripcion": "Jigsaw, el hombre que mueve los hilos de los espantosos juegos que han aterrorizado a la comunidad y desconcertado a la policía, una vez más ha conseguido escapar, esta vez con la ayuda de su nuevo aprendiz Amanda.",
+      "inicio": "2026-11-06T02:35:00",
+      "fin": "2026-11-06T04:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El juego del miedo IV",
+      "descripcion": "Luego de hacerse público el asesinato de la detective Kerry, dos agentes del FBI llegan a la aterrorizada comunidad. Allí ayudarán al detective Hoffman a examinar los restos de Jigsaw, y así resolverán el rompecabezas.",
+      "inicio": "2026-11-06T04:35:00",
+      "fin": "2026-11-06T06:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Planet Action • T1 E319",
+      "descripcion": "T1 E319 | Vive el detrás de escena de las mejores películas de acción. Desde tiroteos de vaqueros hasta coches en explosión, acrobacias, peleas en el espacio y monstruos rugientes. Conoce todos los secretos de tus héroes de acción favoritos.",
+      "inicio": "2026-11-06T06:10:00",
+      "fin": "2026-11-06T06:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planetaction.jpg"
+    },
+    {
+      "titulo": "Planet Action • T1 E320",
+      "descripcion": "T1 E320 | Vive el detrás de escena de las mejores películas de acción. Desde tiroteos de vaqueros hasta coches en explosión, acrobacias, peleas en el espacio y monstruos rugientes. Conoce todos los secretos de tus héroes de acción favoritos.",
+      "inicio": "2026-11-06T06:35:00",
+      "fin": "2026-11-06T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planetaction.jpg"
+    },
+    {
+      "titulo": "Infomerciales",
+      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
+      "inicio": "2026-11-06T07:00:00",
+      "fin": "2026-11-06T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Infomerciales",
+      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
+      "inicio": "2026-11-06T07:30:00",
+      "fin": "2026-11-06T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Infomerciales",
+      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
+      "inicio": "2026-11-06T08:00:00",
+      "fin": "2026-11-06T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Infomerciales",
+      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
+      "inicio": "2026-11-06T08:30:00",
+      "fin": "2026-11-06T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Infomerciales",
+      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
+      "inicio": "2026-11-06T09:00:00",
+      "fin": "2026-11-06T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Infomerciales",
+      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
+      "inicio": "2026-11-06T09:30:00",
+      "fin": "2026-11-06T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Infomerciales",
+      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
+      "inicio": "2026-11-06T10:00:00",
+      "fin": "2026-11-06T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Infomerciales",
+      "descripcion": "Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.",
+      "inicio": "2026-11-06T10:30:00",
+      "fin": "2026-11-06T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Contrarreloj",
+      "descripcion": "Un ejecutivo de un banco recibe, mientras conduce a sus hijos a la escuela, una amenaza de bomba dentro de su auto, el cual explotará si se detienen o salen del vehículo antes de conseguir una elevada suma de dinero.",
+      "inicio": "2026-11-06T11:00:00",
+      "fin": "2026-11-06T12:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Monster Hunter: la cacería comienza",
+      "descripcion": "La teniente Artemis y sus leales soldados son transportados de nuestro mundo a un mundo de monstruos peligrosos y poderosos que gobiernan sus dominios con una ferocidad mortal.",
+      "inicio": "2026-11-06T12:40:00",
+      "fin": "2026-11-06T14:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
