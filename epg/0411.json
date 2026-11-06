@@ -1,95 +1,123 @@
 {
   "actual": {
-    "titulo": "[En vivo] SportsCenter",
-    "descripcion": "En vivo ║ SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
-    "inicio": "2026-11-05T11:00:00",
-    "fin": "2026-11-05T14:30:00",
+    "titulo": "SportsCenter",
+    "descripcion": "Grabado ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
+    "inicio": "2026-11-06T09:00:00",
+    "fin": "2026-11-06T14:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
   },
   "siguiente": {
-    "titulo": "[En vivo] UEFA Europa League • Milan (Ita) vs Ferencvaros (Hun), Fecha Fase de Liga, San Siro/Giuseppe Meazza",
-    "descripcion": "En vivo ║ Milan (Ita) vs Ferencvaros (Hun), Fecha Fase de Liga, San Siro/Giuseppe Meazza | Vive los partidos de la 56º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón.",
-    "inicio": "2026-11-05T14:30:00",
-    "fin": "2026-11-05T16:40:00",
+    "titulo": "Compacto - UEFA Champions League • Barcelona (Esp) vs Aston Villa (Ing), Fecha 4, Spotify Camp Nou",
+    "descripcion": "Grabado ║ Barcelona (Esp) vs Aston Villa (Ing), Fecha 4, Spotify Camp Nou | Revive los mejores momentos de los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.",
+    "inicio": "2026-11-06T14:00:00",
+    "fin": "2026-11-06T15:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "[En vivo] SportsCenter",
-      "descripcion": "En vivo ║ SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
-      "inicio": "2026-11-05T11:00:00",
-      "fin": "2026-11-05T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "[En vivo] UEFA Europa League • Milan (Ita) vs Ferencvaros (Hun), Fecha Fase de Liga, San Siro/Giuseppe Meazza",
-      "descripcion": "En vivo ║ Milan (Ita) vs Ferencvaros (Hun), Fecha Fase de Liga, San Siro/Giuseppe Meazza | Vive los partidos de la 56º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón.",
-      "inicio": "2026-11-05T14:30:00",
-      "fin": "2026-11-05T16:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] UEFA Europa League • AZ (Ned) vs Juventus (Ita), Fecha Fase de Liga, AFAS Stadion(Alkmaar)",
-      "descripcion": "En vivo ║ AZ (Ned) vs Juventus (Ita), Fecha Fase de Liga, AFAS Stadion(Alkmaar) | Vive los partidos de la 56º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón.",
-      "inicio": "2026-11-05T16:40:00",
-      "fin": "2026-11-05T18:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] ESPN F360",
-      "descripcion": "En vivo ║ La Champions League, las grandes ligas europeas, la Copa Libertadores y las estrellas del fútbol mundial brillan en ESPN Fútbol 360. Una vuelta por el planeta fútbol con el análisis a fondo y el debate de nuestro panel de expertos, que desmenuza la actualidad de la élite del deporte rey.",
-      "inicio": "2026-11-05T18:55:00",
-      "fin": "2026-11-05T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] SportsCenter",
-      "descripcion": "En vivo ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
-      "inicio": "2026-11-05T20:00:00",
-      "fin": "2026-11-05T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "[En vivo] ESPN F90",
-      "descripcion": "En vivo ║ Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
-      "inicio": "2026-11-05T21:00:00",
-      "fin": "2026-11-05T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] ESPN F Show",
-      "descripcion": "En vivo ║ El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.",
-      "inicio": "2026-11-05T22:30:00",
-      "fin": "2026-11-06T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Diferido ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
-      "inicio": "2026-11-06T00:00:00",
-      "fin": "2026-11-06T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "ESPN F Show",
-      "descripcion": "Grabado ║ El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.",
-      "inicio": "2026-11-06T06:00:00",
-      "fin": "2026-11-06T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN F90",
-      "descripcion": "Grabado ║ Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
-      "inicio": "2026-11-06T07:30:00",
-      "fin": "2026-11-06T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "SportsCenter",
       "descripcion": "Grabado ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
       "inicio": "2026-11-06T09:00:00",
       "fin": "2026-11-06T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Compacto - UEFA Champions League • Barcelona (Esp) vs Aston Villa (Ing), Fecha 4, Spotify Camp Nou",
+      "descripcion": "Grabado ║ Barcelona (Esp) vs Aston Villa (Ing), Fecha 4, Spotify Camp Nou | Revive los mejores momentos de los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.",
+      "inicio": "2026-11-06T14:00:00",
+      "fin": "2026-11-06T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "UEFA Europa League Highlights",
+      "descripcion": "Grabado ║ Revive los mejores momentos de los partidos de la 56º edición de la UEFA Europa League, la segunda competición más importante de fútbol en la región que otorga un lugar en la UEFA Champions League al campeón.",
+      "inicio": "2026-11-06T15:00:00",
+      "fin": "2026-11-06T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/uefaeuropaleaguehighlights.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Grabado ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
+      "inicio": "2026-11-06T16:00:00",
+      "fin": "2026-11-06T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "[En vivo] ESPN F360",
+      "descripcion": "En vivo ║ La Champions League, las grandes ligas europeas, la Copa Libertadores y las estrellas del fútbol mundial brillan en ESPN Fútbol 360. Una vuelta por el planeta fútbol con el análisis a fondo y el debate de nuestro panel de expertos, que desmenuza la actualidad de la élite del deporte rey.",
+      "inicio": "2026-11-06T18:00:00",
+      "fin": "2026-11-06T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] SportsCenter",
+      "descripcion": "En vivo ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
+      "inicio": "2026-11-06T20:00:00",
+      "fin": "2026-11-06T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "[En vivo] ESPN F90",
+      "descripcion": "En vivo ║ Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
+      "inicio": "2026-11-06T21:00:00",
+      "fin": "2026-11-06T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] ESPN F Show",
+      "descripcion": "En vivo ║ El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.",
+      "inicio": "2026-11-06T22:30:00",
+      "fin": "2026-11-07T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] SportsCenter",
+      "descripcion": "En vivo ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
+      "inicio": "2026-11-07T00:00:00",
+      "fin": "2026-11-07T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Grabado ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
+      "inicio": "2026-11-07T06:00:00",
+      "fin": "2026-11-07T07:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Premier League Preview Show",
+      "descripcion": "Grabado ║ Antesala a los encuentros de la liga de fútbol de Inglaterra. Además, se presentan novedades e información sobre los equipos y jugadores que conforman la Premier League.",
+      "inicio": "2026-11-07T07:50:00",
+      "fin": "2026-11-07T08:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/premierleaguepreviewshow.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Grabado ║ SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.",
+      "inicio": "2026-11-07T08:20:00",
+      "fin": "2026-11-07T09:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "[En vivo] Premier League • Leeds Utd. vs Tottenham Hotspur, Fecha 10, Elland Road",
+      "descripcion": "En vivo ║ Leeds Utd. vs Tottenham Hotspur, Fecha 10, Elland Road | Vive los partidos de la 35º edición de la Premier League, la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.",
+      "inicio": "2026-11-07T09:20:00",
+      "fin": "2026-11-07T11:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] SportsCenter",
+      "descripcion": "En vivo ║ SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.",
+      "inicio": "2026-11-07T11:25:00",
+      "fin": "2026-11-07T11:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "[En vivo] Premier League • Arsenal vs Hull City, Fecha 10, Emirates Stadium",
+      "descripcion": "En vivo ║ Arsenal vs Hull City, Fecha 10, Emirates Stadium | Vive los partidos de la 35º edición de la Premier League, la máxima competición profesional de fútbol en Inglaterra con un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.",
+      "inicio": "2026-11-07T11:50:00",
+      "fin": "2026-11-07T13:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
