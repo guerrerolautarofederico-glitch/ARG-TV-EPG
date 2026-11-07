@@ -1,144 +1,102 @@
 {
   "actual": {
-    "titulo": "Ariel en su salsa",
-    "descripcion": "Un espacio con el talento y la espontaneidad de Ariel, invitados con mucho condimento, un salteado de sabrosas secciones y grandes pizcas de humor. Además, nuevas recetas y platos tradicionales.",
-    "inicio": "2026-11-06T11:45:00",
-    "fin": "2026-11-06T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Los Simpson",
+    "descripcion": "Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel.",
+    "inicio": "2026-11-07T11:00:00",
+    "fin": "2026-11-07T17:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lossimpson.jpg"
   },
   "siguiente": {
-    "titulo": "El noticiero de la gente",
-    "descripcion": "Todas las noticias de la actualidad de Argentina y el mundo, con información en vivo y móviles en los lugares más trascendentes de la jornada.",
-    "inicio": "2026-11-06T13:00:00",
-    "fin": "2026-11-06T14:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "El hijo de la novia",
+    "descripcion": "A los 42, Rafael Belvedere está pasando una crisis. Vive a la sombra de su padre, se siente culpable porque rara vez visita a su anciana madre, su ex esposa dice que no pasa suficiente tiempo con su hija y aún tiene que adquirir un compromiso con su novia. En su punto más bajo, un pequeño ataque cardiaco lo reúne con Juan Carlos, un amigo de la infancia que le ayuda a reconstruir su pasado.",
+    "inicio": "2026-11-07T17:00:00",
+    "fin": "2026-11-07T18:45:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elhijodelanovia.jpg"
   },
   "lista": [
-    {
-      "titulo": "Ariel en su salsa",
-      "descripcion": "Un espacio con el talento y la espontaneidad de Ariel, invitados con mucho condimento, un salteado de sabrosas secciones y grandes pizcas de humor. Además, nuevas recetas y platos tradicionales.",
-      "inicio": "2026-11-06T11:45:00",
-      "fin": "2026-11-06T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El noticiero de la gente",
-      "descripcion": "Todas las noticias de la actualidad de Argentina y el mundo, con información en vivo y móviles en los lugares más trascendentes de la jornada.",
-      "inicio": "2026-11-06T13:00:00",
-      "fin": "2026-11-06T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cortá por Lozano",
-      "descripcion": "Se analizan los temas del día junto a un panel de reconocidos especialistas. Entrevistas, divertidos sketches, servicios y una sección de terapia con famosos.",
-      "inicio": "2026-11-06T14:30:00",
-      "fin": "2026-11-06T16:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bahar, ¿Estás lista para despertar?",
-      "descripcion": "Una inesperada sacudida impulsa a Bahar a retomar su carrera. Pero volver al hospital no será fácil, porque al trabajar con su esposo Timur descubre oscuros secretos que dan otro giro a su vida.",
-      "inicio": "2026-11-06T16:45:00",
-      "fin": "2026-11-06T17:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Doctor Milagro",
-      "descripcion": "El joven Ali Vefa, abandonado de niño por su padre, logra convertirse en médico y se une al equipo de cirugía de un hospital. Pero sus relaciones interpersonales y profesionales se ven afectadas por el síndrome del sabio.",
-      "inicio": "2026-11-06T17:15:00",
-      "fin": "2026-11-06T17:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Historias de corazón • Avenida Brasil",
-      "descripcion": "Avenida Brasil | Las historias más emotivas y reflexivas generalmente basadas en la vida real son presentadas en este ciclo, los televidentes podrán sentirse identificados con las historias y sentir una conexión con los personajes.",
-      "inicio": "2026-11-06T17:45:00",
-      "fin": "2026-11-06T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Telefe noticias",
-      "descripcion": "Un sello de compromiso periodístico con mucha más información, más investigación y logrando una mirada global de cada hecho.",
-      "inicio": "2026-11-06T20:00:00",
-      "fin": "2026-11-06T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "MasterChef Junior",
-      "descripcion": "Una serie de competencias culinarias para chicos con talento, entre los 8 y 12 años, que aman la cocina, que concursan para transformarse en el campeón de los chefs.",
-      "inicio": "2026-11-06T21:30:00",
-      "fin": "2026-11-06T22:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/masterchefjunior.jpg"
-    },
-    {
-      "titulo": "Pasapalabra",
-      "descripcion": "Un programa de entretenimiento en el que los participantes deben responder palabras asociadas a las letras del abecedario y a las definiciones del diccionario. Un divertido desafío para jugar y aprender con la presencia de reconocidos invitados.",
-      "inicio": "2026-11-06T22:45:00",
-      "fin": "2026-11-06T23:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasapalabra.jpg"
-    },
-    {
-      "titulo": "Staff",
-      "descripcion": "Una propuesta ágil y divertida para ir a dormir informado, con una sonrisa y acompañado de buena música.",
-      "inicio": "2026-11-06T23:45:00",
-      "fin": "2026-11-07T00:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El valor de tus joyas",
-      "descripcion": "Un programa de tasación de joyas.",
-      "inicio": "2026-11-07T00:45:00",
-      "fin": "2026-11-07T01:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elvalordetusjoyas.jpg"
-    },
-    {
-      "titulo": "Cortá por Lozano",
-      "descripcion": "Se analizan los temas del día junto a un panel de reconocidos especialistas. Entrevistas, divertidos sketches, servicios y una sección de terapia con famosos.",
-      "inicio": "2026-11-07T01:15:00",
-      "fin": "2026-11-07T02:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ariel en su salsa",
-      "descripcion": "Un espacio con el talento y la espontaneidad de Ariel, invitados con mucho condimento, un salteado de sabrosas secciones y grandes pizcas de humor. Además, nuevas recetas y platos tradicionales.",
-      "inicio": "2026-11-07T02:45:00",
-      "fin": "2026-11-07T03:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A la Barbarossa",
-      "descripcion": "Un magacín que aborda los temas de actualidad con un espacio para el humor y la cocina. Los temas más importantes del día junto a móviles en el lugar de los hechos. Un lugar para comenzar la mañana de la mejor manera.",
-      "inicio": "2026-11-07T03:45:00",
-      "fin": "2026-11-07T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Disney Junior",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T06:00:00",
-      "fin": "2026-11-07T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/disneyjunior.jpg"
-    },
-    {
-      "titulo": "El Chavo y Chapulín",
-      "descripcion": "Las memorables series creadas por Roberto Gómez Bolaños regresan a la pantalla, con su humor característico y personajes inolvidables. La oportunidad perfecta para disfrutar en familia de estas comedias, que siguen vigentes con el paso del tiempo.",
-      "inicio": "2026-11-07T07:30:00",
-      "fin": "2026-11-07T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Película",
-      "descripcion": "Construir vínculos, experimentar nuevos lugares, reflexionar desde el amor, abrazar el dolor, seducir los cuerpos, de-construir las miradas, abandonar la culpa, crear identidades, habitar los huecos, potenciar la conciencia, encontrarse a sí mismo, soltar vínculos.  Creating bonds, experimenting new places, reflecting from love, embracing the pain, seducing the bodies, deconstructing the looks, giving up guilt, creating identities, inhabiting the empty places, strengthening the conscience, finding yourself, letting the bonds go.",
-      "inicio": "2026-11-07T09:30:00",
-      "fin": "2026-11-07T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pelicula.jpg"
-    },
     {
       "titulo": "Los Simpson",
       "descripcion": "Narra las vivencias de una peculiar familia de la localidad norteamericana de Springfield, conformada por Homero, el padre, quien es un desastroso inspector de seguridad de una central nuclear, y su esposa Marge, la madre, una ama de casa acostumbrada a soportar a cada miembro de su hogar. Por otro lado está Bart, de diez años, un niño que intenta divertirse con travesuras de todo tipo; junto a él se encuentran Lisa, la más inteligente de la familia; y Maggie, un bebé que todavía no habla, pero que juega un importante papel.",
       "inicio": "2026-11-07T11:00:00",
       "fin": "2026-11-07T17:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lossimpson.jpg"
+    },
+    {
+      "titulo": "El hijo de la novia",
+      "descripcion": "A los 42, Rafael Belvedere está pasando una crisis. Vive a la sombra de su padre, se siente culpable porque rara vez visita a su anciana madre, su ex esposa dice que no pasa suficiente tiempo con su hija y aún tiene que adquirir un compromiso con su novia. En su punto más bajo, un pequeño ataque cardiaco lo reúne con Juan Carlos, un amigo de la infancia que le ayuda a reconstruir su pasado.",
+      "inicio": "2026-11-07T17:00:00",
+      "fin": "2026-11-07T18:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elhijodelanovia.jpg"
+    },
+    {
+      "titulo": "El muro infernal",
+      "descripcion": "Dos equipos de tres participantes deberán poner a prueba su astucia, su rapidez mental y, sobre todo, su flexibilidad corporal para adoptar las insólitas posturas que exige El Muro Infernal, atravesarlo justo a tiempo y evitar un chapuzón.",
+      "inicio": "2026-11-07T18:45:00",
+      "fin": "2026-11-07T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pasapalabra",
+      "descripcion": "En cada emisión, se enfrentan 2 equipos en diferentes juegos cuyo objetivo es la suma de segundos para el desafío final, llamado 'el rosco'. Figuras muy conocidas y queridas, se sumarán en cada programa y lo dejarán todo para ser los mejores.",
+      "inicio": "2026-11-07T20:00:00",
+      "fin": "2026-11-07T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasapalabra.jpg"
+    },
+    {
+      "titulo": "PH: Podemos hablar",
+      "descripcion": "Seis reconocidos invitados, con diferentes personalidades y profesiones, se encuentran un sábado a la noche y comparten una cena y charlas sobre temas variados de la actualidad y de cada uno de ellos.",
+      "inicio": "2026-11-07T21:30:00",
+      "fin": "2026-11-07T23:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/phpodemoshablar.jpg"
+    },
+    {
+      "titulo": "Tierras",
+      "descripcion": "El chef Germán Martitegui cuenta su recorrido por el país para conocer a quienes producen los alimentos que utiliza en su exclusiva cocina. Un viaje que combina el amor por la tierra, el trabajo de pequeños y grandes productores.",
+      "inicio": "2026-11-07T23:45:00",
+      "fin": "2026-11-08T00:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Verdades sumergidas",
+      "descripcion": "Un grupo de amigos pasa un fin de semana en el mar, pero la más joven del grupo aparece muerta en la playa.",
+      "inicio": "2026-11-08T00:15:00",
+      "fin": "2026-11-08T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/verdadessumergidas.jpg"
+    },
+    {
+      "titulo": "PH: Podemos hablar",
+      "descripcion": "Seis reconocidos invitados, con diferentes personalidades y profesiones, se encuentran un sábado a la noche y comparten una cena y charlas sobre temas variados de la actualidad y de cada uno de ellos.",
+      "inicio": "2026-11-08T01:00:00",
+      "fin": "2026-11-08T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/phpodemoshablar.jpg"
+    },
+    {
+      "titulo": "Tierras",
+      "descripcion": "El chef Germán Martitegui cuenta su recorrido por el país para conocer a quienes producen los alimentos que utiliza en su exclusiva cocina. Un viaje que combina el amor por la tierra, el trabajo de pequeños y grandes productores.",
+      "inicio": "2026-11-08T03:00:00",
+      "fin": "2026-11-08T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Chavo y Chapulín",
+      "descripcion": "Las memorables series creadas por Roberto Gómez Bolaños regresan a la pantalla, con su humor característico y personajes inolvidables. La oportunidad perfecta para disfrutar en familia de estas comedias, que siguen vigentes con el paso del tiempo.",
+      "inicio": "2026-11-08T03:30:00",
+      "fin": "2026-11-08T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Disney Junior",
+      "descripcion": "Un espacio que presenta los mejores contenidos de Disney Jr. para que disfruten los más pequeños.",
+      "inicio": "2026-11-08T06:00:00",
+      "fin": "2026-11-08T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/disneyjunior.jpg"
+    },
+    {
+      "titulo": "El Chavo y Chapulín",
+      "descripcion": "Las memorables series creadas por Roberto Gómez Bolaños regresan a la pantalla, con su humor característico y personajes inolvidables. La oportunidad perfecta para disfrutar en familia de estas comedias, que siguen vigentes con el paso del tiempo.",
+      "inicio": "2026-11-08T07:30:00",
+      "fin": "2026-11-08T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

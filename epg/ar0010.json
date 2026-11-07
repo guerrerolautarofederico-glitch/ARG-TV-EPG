@@ -1,495 +1,19 @@
 {
   "actual": {
-    "titulo": "Muchas manos en el plato",
-    "descripcion": "Serie documental que muestra, de manera entretenida y dinámica, diferentes costumbres y culturas a través de la elaboración de platos tradicionales de distintas regiones de nuestro país.",
-    "inicio": "2026-11-06T12:30:00",
-    "fin": "2026-11-06T12:45:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "La orquestita",
+    "descripcion": "La serie cuenta las aventuras de Toto, Vale y Julen, tres amigos que aman la música tanto como meterse en problemas. Junto al abuelo Juan Barbas, un legendario ex roadie que aún conserva su viejo camión, la banda visitará a extraños personajes para intentar revelar los secretos de la música. O al menos tener una gran aventura.",
+    "inicio": "2026-11-07T11:30:00",
+    "fin": "2026-11-07T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laorquestita.jpg"
   },
   "siguiente": {
-    "titulo": "Cazadores de sonidos",
-    "descripcion": "Chicas y chicos de distintas regiones tienen una misión concreta: atrapar sonidos, ritmos y melodías de toda Argentina.",
-    "inicio": "2026-11-06T12:45:00",
-    "fin": "2026-11-06T13:15:00",
+    "titulo": "Pili y el guardián enmascarado",
+    "descripcion": "Pili, una niña muy curiosa, utiliza toda su inteligencia para ayudar al Guardián Enmascarado, un superhéroe muy singular, para derrotar al malvado D.",
+    "inicio": "2026-11-07T12:00:00",
+    "fin": "2026-11-07T12:15:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Muchas manos en el plato",
-      "descripcion": "Serie documental que muestra, de manera entretenida y dinámica, diferentes costumbres y culturas a través de la elaboración de platos tradicionales de distintas regiones de nuestro país.",
-      "inicio": "2026-11-06T12:30:00",
-      "fin": "2026-11-06T12:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cazadores de sonidos",
-      "descripcion": "Chicas y chicos de distintas regiones tienen una misión concreta: atrapar sonidos, ritmos y melodías de toda Argentina.",
-      "inicio": "2026-11-06T12:45:00",
-      "fin": "2026-11-06T13:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El mapa de mi mundo",
-      "descripcion": "T1 E1 | Desde los rincones más extraños del mundo, chicos y chicas cuentan sus miedos, sueños, aspiraciones y conflictos a través de sus dibujos.",
-      "inicio": "2026-11-06T13:15:00",
-      "fin": "2026-11-06T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Polinópolis",
-      "descripcion": "Es un pueblo muy particular donde conviven todo tipo de seres fantásticos y donde una pandilla de niños afrontará la aventura de crecer y de vivir por primera vez experiencias y desafíos.",
-      "inicio": "2026-11-06T13:30:00",
-      "fin": "2026-11-06T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/polinopolis.jpg"
-    },
-    {
-      "titulo": "Familia Pampa",
-      "descripcion": "Los Pampas son una familia muy adelantada a su tiempo, que cada día se propone un nuevo objetivo.",
-      "inicio": "2026-11-06T14:00:00",
-      "fin": "2026-11-06T14:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Medialuna y los reinos de las piedras mágicas",
-      "descripcion": "Medialuna vive nuevas aventuras acompañada de Yunuén, con quien conocerá a cuatro amigos con piedras mágicas: Koy, Wayra, Amaru y Jauke.",
-      "inicio": "2026-11-06T14:15:00",
-      "fin": "2026-11-06T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Petit",
-      "descripcion": "Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras, Laura, Gregorio, Román y su perro Tadeo, lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas propias de la infancia. En cada capítulo, Petit se enfrentará a un hecho del mundo cotidiano que lo llevará a sacar imaginativas conclusiones y resolverá los conflictos de manera inesperada.",
-      "inicio": "2026-11-06T14:30:00",
-      "fin": "2026-11-06T14:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/petit.jpg"
-    },
-    {
-      "titulo": "Ciencia intergaláctica",
-      "descripcion": "Los curiosos niños Valentina y Leo encuentran a Trapi, un extraterrestre perdido, y se embarcan en aventuras juntos para regresar a Trapi a su hogar en la estrella TRAPPIST-1, mientras aprenden sobre ciencia, tecnología y la historia de la astronomía.",
-      "inicio": "2026-11-06T14:45:00",
-      "fin": "2026-11-06T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Puerto papel",
-      "descripcion": "Matilde tiene 12 años y un don muy especial: cada día despierta con un nuevo, insólito y absurdo poder mágico que no puede controlar ni elegir. Sólo Carlos, su mejor amigo, sabe su secreto. Juntos vivirán increíbles aventuras y alocados malentendidos en un pueblo llamado Puerto Papel.",
-      "inicio": "2026-11-06T15:00:00",
-      "fin": "2026-11-06T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puertopapel.jpg"
-    },
-    {
-      "titulo": "Ciencia Zapata",
-      "descripcion": "Narra las aventuras de dos chicos, Sofía una joven científica y su pequeño hermano Zapata, que se dedican a resolver problemas que provoca su archirrival, el señor No. Ambos comparten su interés por los misterios y desafíos que los rodean en su vida cotidiana. Aunque a diferencia de ella, el jovencito siempre se inclina por lo sobrenatural, la vida extraterrestre y los fenómenos paranormales, conforman un equipo entrenado para hacer frente a toda clase de problemas, ya sea en el campo científico como en el más prosaico de las vicisitudes cotidianas.",
-      "inicio": "2026-11-06T15:30:00",
-      "fin": "2026-11-06T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Vuelta por el universo",
-      "descripcion": "Gaby, Manu y Leo ponen en funcionamiento un cohete que los lleva al espacio y, en sus intentos por regresar a la Tierra, llegan a diferentes planetas y mundos.",
-      "inicio": "2026-11-06T16:00:00",
-      "fin": "2026-11-06T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vueltaporeluniverso.jpg"
-    },
-    {
-      "titulo": "Siesta Z • La vorágine",
-      "descripcion": "La vorágine | Siesta, Arturo Cova y su novia Alicia deben cruzar la espesa selva. Escapan para poder estar juntos, ya que la familia de Alicia quiere casarla con otro hombre.",
-      "inicio": "2026-11-06T16:30:00",
-      "fin": "2026-11-06T16:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siestaz.jpg"
-    },
-    {
-      "titulo": "Monstruos de la guarda",
-      "descripcion": "Una mudanza, una escuela nueva, y un mundo por descubrir. A los ocho años, la vida de Nacho es de todo menos aburrida. Y la habitación de su nueva casa esconde el secreto de Los Guardianes.",
-      "inicio": "2026-11-06T16:45:00",
-      "fin": "2026-11-06T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ideas rompecráneos",
-      "descripcion": "En un teatro mágico, el Barón Munchhausen tiene un show que cada noche transita una increíble aventura sobre los descubrimientos que cambiaron el rumbo de la historia.",
-      "inicio": "2026-11-06T17:00:00",
-      "fin": "2026-11-06T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ideasrompecraneos.jpg"
-    },
-    {
-      "titulo": "Misterios submarinos",
-      "descripcion": "Misterios submarinos se sumerge en las regiones más oscuras del océano para desentrañar cuatro enigmas distintos en cada episodio: criaturas imposibles, estructuras inquietantes y fenómenos que desafían toda explicación.",
-      "inicio": "2026-11-06T17:30:00",
-      "fin": "2026-11-06T17:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/misteriossubmarinos.jpg"
-    },
-    {
-      "titulo": "Inteligencia animal • Trucos para sobrevivir",
-      "descripcion": "Trucos para sobrevivir | Una serie narrada por Hilda Lizarazu que invita a los chicos y las chicas a descubrir la fauna de Latinoamérica y a conocer sus secretos desde la fascinación, la sorpresa, el humor y el amor por la naturaleza.",
-      "inicio": "2026-11-06T17:45:00",
-      "fin": "2026-11-06T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/inteligenciaanimal.jpg"
-    },
-    {
-      "titulo": "El mapa de mi mundo",
-      "descripcion": "Desde los rincones más extraños del mundo, chicos y chicas cuentan sus miedos, sueños, aspiraciones y conflictos a través de sus dibujos.",
-      "inicio": "2026-11-06T18:00:00",
-      "fin": "2026-11-06T18:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Superinsectos",
-      "descripcion": "Zak es un joven de doce años quien, durante sus vacaciones, se queda con su abuelo Mac, un aspirante a inventor. Cierta vez, él crea un aparato que hace que cualquier cosa pueda encogerse. Al probar el invento en ellos, hace efecto. Sin embargo, el artefacto se avería sin que ellos vuelvan a la normalidad. Ahora, se cruzarán con muchos amigos del jardín quienes los ayudarán con su propia tecnología.",
-      "inicio": "2026-11-06T18:15:00",
-      "fin": "2026-11-06T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El capitán Nariz de lata",
-      "descripcion": "En un tiempo remoto y en exóticos mares, navega el Cangrejo Rojo y su peculiar tripulación liderada por el capitán Nariz de Lata. Este ingenioso capitán, provisto de una llamativa nariz, dice tener mucha suerte para encontrar tesoros.",
-      "inicio": "2026-11-06T18:30:00",
-      "fin": "2026-11-06T18:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcapitannarizdelata.jpg"
-    },
-    {
-      "titulo": "Puerto papel",
-      "descripcion": "Matilde tiene 12 años y un don muy especial: cada día despierta con un nuevo, insólito y absurdo poder mágico que no puede controlar ni elegir. Sólo Carlos, su mejor amigo, sabe su secreto. Juntos vivirán increíbles aventuras y alocados malentendidos en un pueblo llamado Puerto Papel.",
-      "inicio": "2026-11-06T18:45:00",
-      "fin": "2026-11-06T19:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puertopapel.jpg"
-    },
-    {
-      "titulo": "La orquestita",
-      "descripcion": "La serie cuenta las aventuras de Toto, Vale y Julen, tres amigos que aman la música tanto como meterse en problemas. Junto al abuelo Juan Barbas, un legendario ex roadie que aún conserva su viejo camión, la banda visitará a extraños personajes para intentar revelar los secretos de la música. O al menos tener una gran aventura.",
-      "inicio": "2026-11-06T19:15:00",
-      "fin": "2026-11-06T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laorquestita.jpg"
-    },
-    {
-      "titulo": "Siesta Z",
-      "descripcion": "Una pequeña niña que sufre narcolepsia sueña con historias fantásticas basadas en obras de la literatura extranjera y nacional.",
-      "inicio": "2026-11-06T19:30:00",
-      "fin": "2026-11-06T19:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siestaz.jpg"
-    },
-    {
-      "titulo": "Familia Pampa",
-      "descripcion": "Los Pampas son una familia muy adelantada a su tiempo, que cada día se propone un nuevo objetivo.",
-      "inicio": "2026-11-06T19:45:00",
-      "fin": "2026-11-06T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Polinópolis",
-      "descripcion": "Es un pueblo muy particular donde conviven todo tipo de seres fantásticos y donde una pandilla de niños afrontará la aventura de crecer y de vivir por primera vez experiencias y desafíos.",
-      "inicio": "2026-11-06T20:00:00",
-      "fin": "2026-11-06T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/polinopolis.jpg"
-    },
-    {
-      "titulo": "Vuelta por el universo",
-      "descripcion": "Gaby, Manu y Leo ponen en funcionamiento un cohete que los lleva al espacio y, en sus intentos por regresar a la Tierra, llegan a diferentes planetas y mundos.",
-      "inicio": "2026-11-06T20:30:00",
-      "fin": "2026-11-06T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vueltaporeluniverso.jpg"
-    },
-    {
-      "titulo": "Muchas manos en el plato",
-      "descripcion": "Serie documental que muestra, de manera entretenida y dinámica, diferentes costumbres y culturas a través de la elaboración de platos tradicionales de distintas regiones de nuestro país.",
-      "inicio": "2026-11-06T21:00:00",
-      "fin": "2026-11-06T21:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Misterios submarinos",
-      "descripcion": "Misterios submarinos se sumerge en las regiones más oscuras del océano para desentrañar cuatro enigmas distintos en cada episodio: criaturas imposibles, estructuras inquietantes y fenómenos que desafían toda explicación.",
-      "inicio": "2026-11-06T21:15:00",
-      "fin": "2026-11-06T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/misteriossubmarinos.jpg"
-    },
-    {
-      "titulo": "Entre Tumbas",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T21:30:00",
-      "fin": "2026-11-06T21:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ciro Todorov • El gallo vampiro",
-      "descripcion": "El gallo vampiro | Ciro Todorov es un niño huraño y lúgubre que vive rodeado de fantasmas y criaturas en aquella gran casa de la colina, al lado del cementerio. Los niños del pueblo le temen, aunque a él eso no le molesta demasiado. Lo que más le gusta en el mundo es estar solo para poder hacer sus experimentos en el laboratorio del sótano.",
-      "inicio": "2026-11-06T21:45:00",
-      "fin": "2026-11-06T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "De terror",
-      "descripcion": "La youtuber y escritora Sol Canessa relata historias de terror y suspenso clásicas.",
-      "inicio": "2026-11-06T22:00:00",
-      "fin": "2026-11-06T22:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Inteligencia animal",
-      "descripcion": "Una serie narrada por Hilda Lizarazu que invita a los chicos y las chicas a descubrir la fauna de Latinoamérica y a conocer sus secretos desde la fascinación, la sorpresa, el humor y el amor por la naturaleza.",
-      "inicio": "2026-11-06T22:15:00",
-      "fin": "2026-11-06T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/inteligenciaanimal.jpg"
-    },
-    {
-      "titulo": "Ideas rompecráneos",
-      "descripcion": "En un teatro mágico, el Barón Munchhausen tiene un show que cada noche transita una increíble aventura sobre los descubrimientos que cambiaron el rumbo de la historia.",
-      "inicio": "2026-11-06T22:30:00",
-      "fin": "2026-11-06T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ideasrompecraneos.jpg"
-    },
-    {
-      "titulo": "Siesta Z",
-      "descripcion": "Una pequeña niña que sufre narcolepsia sueña con historias fantásticas basadas en obras de la literatura extranjera y nacional.",
-      "inicio": "2026-11-06T23:00:00",
-      "fin": "2026-11-06T23:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siestaz.jpg"
-    },
-    {
-      "titulo": "Medialuna y los reinos de las piedras mágicas",
-      "descripcion": "Medialuna vive nuevas aventuras acompañada de Yunuén, con quien conocerá a cuatro amigos con piedras mágicas: Koy, Wayra, Amaru y Jauke.",
-      "inicio": "2026-11-06T23:15:00",
-      "fin": "2026-11-06T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Petit",
-      "descripcion": "Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras, Laura, Gregorio, Román y su perro Tadeo, lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas propias de la infancia. En cada capítulo, Petit se enfrentará a un hecho del mundo cotidiano que lo llevará a sacar imaginativas conclusiones y resolverá los conflictos de manera inesperada.",
-      "inicio": "2026-11-06T23:30:00",
-      "fin": "2026-11-06T23:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/petit.jpg"
-    },
-    {
-      "titulo": "Minimalitos",
-      "descripcion": "Los Minimalitos van al jardín de infantes a jugar, cantar, aprender cosas nuevas y a divertirse. También, exploran cotidianamente las relaciones que se dan entre ellos, con su maestra y sus padres.minim",
-      "inicio": "2026-11-06T23:45:00",
-      "fin": "2026-11-07T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/minimalitos.jpg"
-    },
-    {
-      "titulo": "Los Motorjón",
-      "descripcion": "Una familia de conejos recorre el mundo en una casa rodante muy especial.",
-      "inicio": "2026-11-07T00:00:00",
-      "fin": "2026-11-07T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Amigos",
-      "descripcion": "Santiago y Elbiz Cocho son grandes amigos y compañeros íntimos, siempre en la misma sintonía, preparados para ayudarse y estar con el otro. Mientras pasa el tiempo, Santi va creciendo y descubriendo el mundo, apoyándose plenamente en su gran y confiable amigo Elbiz. Sin embargo, él es consciente de que cuanto más crece Santi, más se acerca el día en que dejará de creer en amigos invisibles, y por lo tanto, en que dejarán de ser amigos. Por esta razón, Elbiz de vez en cuando intenta que Santi no se dé cuenta que está creciendo, y así ver si puede estirar un poco más esa bella amistad que tienen.",
-      "inicio": "2026-11-07T00:30:00",
-      "fin": "2026-11-07T00:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/amigos.jpg"
-    },
-    {
-      "titulo": "Superinsectos",
-      "descripcion": "Zak es un joven de doce años quien, durante sus vacaciones, se queda con su abuelo Mac, un aspirante a inventor. Cierta vez, él crea un aparato que hace que cualquier cosa pueda encogerse. Al probar el invento en ellos, hace efecto. Sin embargo, el artefacto se avería sin que ellos vuelvan a la normalidad. Ahora, se cruzarán con muchos amigos del jardín quienes los ayudarán con su propia tecnología.",
-      "inicio": "2026-11-07T00:45:00",
-      "fin": "2026-11-07T01:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Chikuchis",
-      "descripcion": "Es una serie de títeres que trata temas de la cotidianeidad propios de los vínculos, la convivencia y relaciones entre niños. Pretende abordar la vida grupal como eje central y como ámbito de desarrollo de rasgos y potencialidades de cada sujeto.",
-      "inicio": "2026-11-07T01:15:00",
-      "fin": "2026-11-07T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos de había una vez",
-      "descripcion": "Dina es una abuela que tiene una biblioteca en un pueblo de la Costa Atlántica argentina. Todas las tardes recibe a Fede, Nati y Ciro, un grupo de chicos que, con mucho entusiasmo, van a escuchar los cuentos clásicos que ella tiene para contar.",
-      "inicio": "2026-11-07T01:30:00",
-      "fin": "2026-11-07T01:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cuentosdehabiaunavez.jpg"
-    },
-    {
-      "titulo": "Petit",
-      "descripcion": "Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras, Laura, Gregorio, Román y su perro Tadeo, lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas propias de la infancia. En cada capítulo, Petit se enfrentará a un hecho del mundo cotidiano que lo llevará a sacar imaginativas conclusiones y resolverá los conflictos de manera inesperada.",
-      "inicio": "2026-11-07T01:45:00",
-      "fin": "2026-11-07T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/petit.jpg"
-    },
-    {
-      "titulo": "Puerto papel",
-      "descripcion": "Matilde tiene 12 años y un don muy especial: cada día despierta con un nuevo, insólito y absurdo poder mágico que no puede controlar ni elegir. Sólo Carlos, su mejor amigo, sabe su secreto. Juntos vivirán increíbles aventuras y alocados malentendidos en un pueblo llamado Puerto Papel.",
-      "inicio": "2026-11-07T02:00:00",
-      "fin": "2026-11-07T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puertopapel.jpg"
-    },
-    {
-      "titulo": "Ciencia intergaláctica",
-      "descripcion": "Los curiosos niños Valentina y Leo encuentran a Trapi, un extraterrestre perdido, y se embarcan en aventuras juntos para regresar a Trapi a su hogar en la estrella TRAPPIST-1, mientras aprenden sobre ciencia, tecnología y la historia de la astronomía.",
-      "inicio": "2026-11-07T02:30:00",
-      "fin": "2026-11-07T02:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Medialuna y los reinos de las piedras mágicas",
-      "descripcion": "Medialuna vive nuevas aventuras acompañada de Yunuén, con quien conocerá a cuatro amigos con piedras mágicas: Koy, Wayra, Amaru y Jauke.",
-      "inicio": "2026-11-07T02:45:00",
-      "fin": "2026-11-07T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Familia Pampa",
-      "descripcion": "Los Pampas son una familia muy adelantada a su tiempo, que cada día se propone un nuevo objetivo.",
-      "inicio": "2026-11-07T03:00:00",
-      "fin": "2026-11-07T03:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El capitán Nariz de lata",
-      "descripcion": "En un tiempo remoto y en exóticos mares, navega el Cangrejo Rojo y su peculiar tripulación liderada por el capitán Nariz de Lata. Este ingenioso capitán, provisto de una llamativa nariz, dice tener mucha suerte para encontrar tesoros.",
-      "inicio": "2026-11-07T03:15:00",
-      "fin": "2026-11-07T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcapitannarizdelata.jpg"
-    },
-    {
-      "titulo": "Ciencia Zapata",
-      "descripcion": "Narra las aventuras de dos chicos, Sofía una joven científica y su pequeño hermano Zapata, que se dedican a resolver problemas que provoca su archirrival, el señor No. Ambos comparten su interés por los misterios y desafíos que los rodean en su vida cotidiana. Aunque a diferencia de ella, el jovencito siempre se inclina por lo sobrenatural, la vida extraterrestre y los fenómenos paranormales, conforman un equipo entrenado para hacer frente a toda clase de problemas, ya sea en el campo científico como en el más prosaico de las vicisitudes cotidianas.",
-      "inicio": "2026-11-07T03:30:00",
-      "fin": "2026-11-07T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La orquestita",
-      "descripcion": "La serie cuenta las aventuras de Toto, Vale y Julen, tres amigos que aman la música tanto como meterse en problemas. Junto al abuelo Juan Barbas, un legendario ex roadie que aún conserva su viejo camión, la banda visitará a extraños personajes para intentar revelar los secretos de la música. O al menos tener una gran aventura.",
-      "inicio": "2026-11-07T04:00:00",
-      "fin": "2026-11-07T04:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laorquestita.jpg"
-    },
-    {
-      "titulo": "Pili y el guardián enmascarado",
-      "descripcion": "Pili, una niña muy curiosa, usa toda su inteligencia para ayudar al Guardián Enmascarado, un superhéroe poco convencional, a librarse del malvado D.Sastre y así salvar al planeta Tierra.",
-      "inicio": "2026-11-07T04:15:00",
-      "fin": "2026-11-07T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Muchas manos en el plato",
-      "descripcion": "Serie documental que muestra, de manera entretenida y dinámica, diferentes costumbres y culturas a través de la elaboración de platos tradicionales de distintas regiones de nuestro país.",
-      "inicio": "2026-11-07T04:30:00",
-      "fin": "2026-11-07T04:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cazadores de sonidos",
-      "descripcion": "Chicas y chicos de distintas regiones tienen una misión concreta: atrapar sonidos, ritmos y melodías de toda Argentina.",
-      "inicio": "2026-11-07T04:45:00",
-      "fin": "2026-11-07T05:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El mapa de mi mundo",
-      "descripcion": "Desde los rincones más extraños del mundo, chicos y chicas cuentan sus miedos, sueños, aspiraciones y conflictos a través de sus dibujos.",
-      "inicio": "2026-11-07T05:15:00",
-      "fin": "2026-11-07T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Polinópolis",
-      "descripcion": "Es un pueblo muy particular donde conviven todo tipo de seres fantásticos y donde una pandilla de niños afrontará la aventura de crecer y de vivir por primera vez experiencias y desafíos.",
-      "inicio": "2026-11-07T05:30:00",
-      "fin": "2026-11-07T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/polinopolis.jpg"
-    },
-    {
-      "titulo": "Familia Pampa",
-      "descripcion": "Los Pampas son una familia muy adelantada a su tiempo, que cada día se propone un nuevo objetivo.",
-      "inicio": "2026-11-07T06:00:00",
-      "fin": "2026-11-07T06:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Medialuna y los reinos de las piedras mágicas",
-      "descripcion": "Medialuna vive nuevas aventuras acompañada de Yunuén, con quien conocerá a cuatro amigos con piedras mágicas: Koy, Wayra, Amaru y Jauke.",
-      "inicio": "2026-11-07T06:15:00",
-      "fin": "2026-11-07T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Petit",
-      "descripcion": "Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras, Laura, Gregorio, Román y su perro Tadeo, lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas propias de la infancia. En cada capítulo, Petit se enfrentará a un hecho del mundo cotidiano que lo llevará a sacar imaginativas conclusiones y resolverá los conflictos de manera inesperada.",
-      "inicio": "2026-11-07T06:30:00",
-      "fin": "2026-11-07T06:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/petit.jpg"
-    },
-    {
-      "titulo": "Ciencia intergaláctica",
-      "descripcion": "Los curiosos niños Valentina y Leo encuentran a Trapi, un extraterrestre perdido, y se embarcan en aventuras juntos para regresar a Trapi a su hogar en la estrella TRAPPIST-1, mientras aprenden sobre ciencia, tecnología y la historia de la astronomía.",
-      "inicio": "2026-11-07T06:45:00",
-      "fin": "2026-11-07T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Puerto papel",
-      "descripcion": "Matilde tiene 12 años y un don muy especial: cada día despierta con un nuevo, insólito y absurdo poder mágico que no puede controlar ni elegir. Sólo Carlos, su mejor amigo, sabe su secreto. Juntos vivirán increíbles aventuras y alocados malentendidos en un pueblo llamado Puerto Papel.",
-      "inicio": "2026-11-07T07:00:00",
-      "fin": "2026-11-07T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puertopapel.jpg"
-    },
-    {
-      "titulo": "Superinsectos",
-      "descripcion": "Zak es un joven de doce años quien, durante sus vacaciones, se queda con su abuelo Mac, un aspirante a inventor. Cierta vez, él crea un aparato que hace que cualquier cosa pueda encogerse. Al probar el invento en ellos, hace efecto. Sin embargo, el artefacto se avería sin que ellos vuelvan a la normalidad. Ahora, se cruzarán con muchos amigos del jardín quienes los ayudarán con su propia tecnología.",
-      "inicio": "2026-11-07T07:30:00",
-      "fin": "2026-11-07T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Motorjón",
-      "descripcion": "Una familia de conejos recorre el mundo en una casa rodante muy especial.",
-      "inicio": "2026-11-07T08:00:00",
-      "fin": "2026-11-07T08:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos de había una vez",
-      "descripcion": "Dina es una abuela que tiene una biblioteca en un pueblo de la Costa Atlántica argentina. Todas las tardes recibe a Fede, Nati y Ciro, un grupo de chicos que, con mucho entusiasmo, van a escuchar los cuentos clásicos que ella tiene para contar.",
-      "inicio": "2026-11-07T08:15:00",
-      "fin": "2026-11-07T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cuentosdehabiaunavez.jpg"
-    },
-    {
-      "titulo": "Chikuchis",
-      "descripcion": "Es una serie de títeres que trata temas de la cotidianeidad propios de los vínculos, la convivencia y relaciones entre niños. Pretende abordar la vida grupal como eje central y como ámbito de desarrollo de rasgos y potencialidades de cada sujeto.",
-      "inicio": "2026-11-07T08:30:00",
-      "fin": "2026-11-07T08:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Amigos",
-      "descripcion": "Santiago y Elbiz Cocho son grandes amigos y compañeros íntimos, siempre en la misma sintonía, preparados para ayudarse y estar con el otro. Mientras pasa el tiempo, Santi va creciendo y descubriendo el mundo, apoyándose plenamente en su gran y confiable amigo Elbiz. Sin embargo, él es consciente de que cuanto más crece Santi, más se acerca el día en que dejará de creer en amigos invisibles, y por lo tanto, en que dejarán de ser amigos. Por esta razón, Elbiz de vez en cuando intenta que Santi no se dé cuenta que está creciendo, y así ver si puede estirar un poco más esa bella amistad que tienen.",
-      "inicio": "2026-11-07T08:45:00",
-      "fin": "2026-11-07T09:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/amigos.jpg"
-    },
-    {
-      "titulo": "Petit",
-      "descripcion": "Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras, Laura, Gregorio, Román y su perro Tadeo, lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas propias de la infancia. En cada capítulo, Petit se enfrentará a un hecho del mundo cotidiano que lo llevará a sacar imaginativas conclusiones y resolverá los conflictos de manera inesperada.",
-      "inicio": "2026-11-07T09:15:00",
-      "fin": "2026-11-07T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/petit.jpg"
-    },
-    {
-      "titulo": "Familia Pampa",
-      "descripcion": "Los Pampas son una familia muy adelantada a su tiempo, que cada día se propone un nuevo objetivo.",
-      "inicio": "2026-11-07T09:30:00",
-      "fin": "2026-11-07T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Medialuna y los reinos de las piedras mágicas",
-      "descripcion": "Medialuna vive nuevas aventuras acompañada de Yunuén, con quien conocerá a cuatro amigos con piedras mágicas: Koy, Wayra, Amaru y Jauke.",
-      "inicio": "2026-11-07T10:00:00",
-      "fin": "2026-11-07T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Puerto papel",
-      "descripcion": "Matilde tiene 12 años y un don muy especial: cada día despierta con un nuevo, insólito y absurdo poder mágico que no puede controlar ni elegir. Sólo Carlos, su mejor amigo, sabe su secreto. Juntos vivirán increíbles aventuras y alocados malentendidos en un pueblo llamado Puerto Papel.",
-      "inicio": "2026-11-07T10:30:00",
-      "fin": "2026-11-07T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puertopapel.jpg"
-    },
     {
       "titulo": "La orquestita",
       "descripcion": "La serie cuenta las aventuras de Toto, Vale y Julen, tres amigos que aman la música tanto como meterse en problemas. Junto al abuelo Juan Barbas, un legendario ex roadie que aún conserva su viejo camión, la banda visitará a extraños personajes para intentar revelar los secretos de la música. O al menos tener una gran aventura.",
@@ -499,7 +23,7 @@
     },
     {
       "titulo": "Pili y el guardián enmascarado",
-      "descripcion": "Pili, una niña muy curiosa, usa toda su inteligencia para ayudar al Guardián Enmascarado, un superhéroe poco convencional, a librarse del malvado D.Sastre y así salvar al planeta Tierra.",
+      "descripcion": "Pili, una niña muy curiosa, utiliza toda su inteligencia para ayudar al Guardián Enmascarado, un superhéroe muy singular, para derrotar al malvado D.",
       "inicio": "2026-11-07T12:00:00",
       "fin": "2026-11-07T12:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
@@ -510,6 +34,468 @@
       "inicio": "2026-11-07T12:15:00",
       "fin": "2026-11-07T12:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cazadores de sonidos",
+      "descripcion": "Chicas y chicos de distintas regiones de la Argentina tienen la misión de atrapar sonidos, ritmos y melodías que representen su lugar, su entorno y sus tradiciones. En equipo con Cami y Ale, crean nuevos paisajes sonoros que dan como resultado una canción original en cada capítulo.",
+      "inicio": "2026-11-07T12:45:00",
+      "fin": "2026-11-07T13:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El mapa de mi mundo",
+      "descripcion": "Desde los rincones más extraños del mundo, chicos y chicas cuentan sus miedos, sueños, aspiraciones y conflictos a través de sus dibujos.",
+      "inicio": "2026-11-07T13:15:00",
+      "fin": "2026-11-07T13:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ciencia Zapata",
+      "descripcion": "Narra las aventuras de dos chicos, Sofía una joven científica y su pequeño hermano Zapata, que se dedican a resolver problemas que provoca su archirrival, el señor No. Ambos comparten su interés por los misterios y desafíos que los rodean en su vida cotidiana. Aunque a diferencia de ella, el jovencito siempre se inclina por lo sobrenatural, la vida extraterrestre y los fenómenos paranormales, conforman un equipo entrenado para hacer frente a toda clase de problemas, ya sea en el campo científico como en el más prosaico de las vicisitudes cotidianas.",
+      "inicio": "2026-11-07T13:45:00",
+      "fin": "2026-11-07T14:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El capitán Nariz de lata",
+      "descripcion": "En un tiempo remoto y en exóticos mares, navega el Cangrejo Rojo y su peculiar tripulación liderada por el capitán Nariz de Lata. Este ingenioso capitán, provisto de una llamativa nariz, dice tener mucha suerte para encontrar tesoros.",
+      "inicio": "2026-11-07T14:15:00",
+      "fin": "2026-11-07T14:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcapitannarizdelata.jpg"
+    },
+    {
+      "titulo": "Familia Pampa",
+      "descripcion": "Los Pampas son una familia muy adelantada a su tiempo, que cada día se propone un nuevo objetivo.",
+      "inicio": "2026-11-07T14:45:00",
+      "fin": "2026-11-07T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Polinópolis",
+      "descripcion": "Es un pueblo muy particular donde conviven todo tipo de seres fantásticos y donde una pandilla de niños afrontará la aventura de crecer y de vivir por primera vez experiencias y desafíos.",
+      "inicio": "2026-11-07T15:00:00",
+      "fin": "2026-11-07T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/polinopolis.jpg"
+    },
+    {
+      "titulo": "Vuelta por el universo",
+      "descripcion": "Gabriela, Manuel y Leonardo ponen en funcionamiento un cohete que los lleva al espacio y después deben encontrar el camino de regreso a casa. Durante su odisea, los tres amigos visitan planetas y mundos extraños.",
+      "inicio": "2026-11-07T15:30:00",
+      "fin": "2026-11-07T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vueltaporeluniverso.jpg"
+    },
+    {
+      "titulo": "Misterios submarinos",
+      "descripcion": "Lola y un equipo de buzos deben buscar especies en las aguas del canal Beagle. Los niños pueden aprender sobre biología marina y la biodiversidad del canal.",
+      "inicio": "2026-11-07T16:00:00",
+      "fin": "2026-11-07T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/misteriossubmarinos.jpg"
+    },
+    {
+      "titulo": "Inteligencia animal",
+      "descripcion": "Un viaje al mundo de los animales de Latinoamérica lleno de preguntas, trivias e historias sorprendentes.",
+      "inicio": "2026-11-07T16:30:00",
+      "fin": "2026-11-07T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/inteligenciaanimal.jpg"
+    },
+    {
+      "titulo": "Cazadores de sonidos",
+      "descripcion": "Chicas y chicos de distintas regiones de la Argentina tienen la misión de atrapar sonidos, ritmos y melodías que representen su lugar, su entorno y sus tradiciones. En equipo con Cami y Ale, crean nuevos paisajes sonoros que dan como resultado una canción original en cada capítulo.",
+      "inicio": "2026-11-07T17:00:00",
+      "fin": "2026-11-07T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El mapa de mi mundo",
+      "descripcion": "Desde los rincones más extraños del mundo, chicos y chicas cuentan sus miedos, sueños, aspiraciones y conflictos a través de sus dibujos.",
+      "inicio": "2026-11-07T17:30:00",
+      "fin": "2026-11-07T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Medialuna y los reinos de las piedras mágicas",
+      "descripcion": "Medialuna vive nuevas aventuras acompañada de Yunuén, con quien conocerá a cuatro amigos con piedras mágicas: Koy, Wayra, Amaru y Jauke.",
+      "inicio": "2026-11-07T17:45:00",
+      "fin": "2026-11-07T18:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Petit",
+      "descripcion": "Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras, Laura, Gregorio, Román y su perro Tadeo, lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas propias de la infancia. En cada capítulo, Petit se enfrentará a un hecho del mundo cotidiano que lo llevará a sacar imaginativas conclusiones y resolverá los conflictos de manera inesperada.",
+      "inicio": "2026-11-07T18:15:00",
+      "fin": "2026-11-07T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/petit.jpg"
+    },
+    {
+      "titulo": "Familia Pampa",
+      "descripcion": "Los Pampas son una familia muy adelantada a su tiempo, que cada día se propone un nuevo objetivo.",
+      "inicio": "2026-11-07T18:30:00",
+      "fin": "2026-11-07T18:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Siesta Z",
+      "descripcion": "Una pequeña niña que sufre narcolepsia sueña con historias fantásticas basadas en obras de la literatura extranjera y nacional.",
+      "inicio": "2026-11-07T18:45:00",
+      "fin": "2026-11-07T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siestaz.jpg"
+    },
+    {
+      "titulo": "Pili y el guardián enmascarado",
+      "descripcion": "Pili, una niña muy curiosa, utiliza toda su inteligencia para ayudar al Guardián Enmascarado, un superhéroe muy singular, para derrotar al malvado D.",
+      "inicio": "2026-11-07T19:00:00",
+      "fin": "2026-11-07T19:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ideas rompecráneos",
+      "descripcion": "En un teatro mágico, el Barón Munchhausen tiene un show que cada noche transita una increíble aventura sobre los descubrimientos que cambiaron el rumbo de la historia.",
+      "inicio": "2026-11-07T19:15:00",
+      "fin": "2026-11-07T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ideasrompecraneos.jpg"
+    },
+    {
+      "titulo": "Polinópolis",
+      "descripcion": "Es un pueblo muy particular donde conviven todo tipo de seres fantásticos y donde una pandilla de niños afrontará la aventura de crecer y de vivir por primera vez experiencias y desafíos.",
+      "inicio": "2026-11-07T19:45:00",
+      "fin": "2026-11-07T20:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/polinopolis.jpg"
+    },
+    {
+      "titulo": "La orquestita",
+      "descripcion": "La serie cuenta las aventuras de Toto, Vale y Julen, tres amigos que aman la música tanto como meterse en problemas. Junto al abuelo Juan Barbas, un legendario ex roadie que aún conserva su viejo camión, la banda visitará a extraños personajes para intentar revelar los secretos de la música. O al menos tener una gran aventura.",
+      "inicio": "2026-11-07T20:15:00",
+      "fin": "2026-11-07T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laorquestita.jpg"
+    },
+    {
+      "titulo": "Vuelta por el universo",
+      "descripcion": "Gabriela, Manuel y Leonardo ponen en funcionamiento un cohete que los lleva al espacio y después deben encontrar el camino de regreso a casa. Durante su odisea, los tres amigos visitan planetas y mundos extraños.",
+      "inicio": "2026-11-07T20:30:00",
+      "fin": "2026-11-07T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vueltaporeluniverso.jpg"
+    },
+    {
+      "titulo": "Muchas manos en el plato",
+      "descripcion": "Serie documental que muestra, de manera entretenida y dinámica, diferentes costumbres y culturas a través de la elaboración de platos tradicionales de distintas regiones de nuestro país.",
+      "inicio": "2026-11-07T21:00:00",
+      "fin": "2026-11-07T21:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Misterios submarinos",
+      "descripcion": "Lola y un equipo de buzos deben buscar especies en las aguas del canal Beagle. Los niños pueden aprender sobre biología marina y la biodiversidad del canal.",
+      "inicio": "2026-11-07T21:15:00",
+      "fin": "2026-11-07T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/misteriossubmarinos.jpg"
+    },
+    {
+      "titulo": "Entre Tumbas",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-07T21:30:00",
+      "fin": "2026-11-07T21:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ciro Todorov",
+      "descripcion": "Ciro Torodov es un niño bastante lúgubre. Duerme de día y vive de noche. El gallo que canta a la mañana es su principal problema.",
+      "inicio": "2026-11-07T21:45:00",
+      "fin": "2026-11-07T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "De terror",
+      "descripcion": "La youtuber y escritora Sol Canessa relata historias de terror y suspenso clásicas.",
+      "inicio": "2026-11-07T22:00:00",
+      "fin": "2026-11-07T22:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Inteligencia animal",
+      "descripcion": "Un viaje al mundo de los animales de Latinoamérica lleno de preguntas, trivias e historias sorprendentes.",
+      "inicio": "2026-11-07T22:15:00",
+      "fin": "2026-11-07T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/inteligenciaanimal.jpg"
+    },
+    {
+      "titulo": "Ideas rompecráneos",
+      "descripcion": "En un teatro mágico, el Barón Munchhausen tiene un show que cada noche transita una increíble aventura sobre los descubrimientos que cambiaron el rumbo de la historia.",
+      "inicio": "2026-11-07T22:30:00",
+      "fin": "2026-11-07T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ideasrompecraneos.jpg"
+    },
+    {
+      "titulo": "Siesta Z",
+      "descripcion": "Una pequeña niña que sufre narcolepsia sueña con historias fantásticas basadas en obras de la literatura extranjera y nacional.",
+      "inicio": "2026-11-07T23:00:00",
+      "fin": "2026-11-07T23:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siestaz.jpg"
+    },
+    {
+      "titulo": "Medialuna y los reinos de las piedras mágicas",
+      "descripcion": "Medialuna vive nuevas aventuras acompañada de Yunuén, con quien conocerá a cuatro amigos con piedras mágicas: Koy, Wayra, Amaru y Jauke.",
+      "inicio": "2026-11-07T23:15:00",
+      "fin": "2026-11-07T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Petit",
+      "descripcion": "Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras, Laura, Gregorio, Román y su perro Tadeo, lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas propias de la infancia. En cada capítulo, Petit se enfrentará a un hecho del mundo cotidiano que lo llevará a sacar imaginativas conclusiones y resolverá los conflictos de manera inesperada.",
+      "inicio": "2026-11-07T23:30:00",
+      "fin": "2026-11-07T23:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/petit.jpg"
+    },
+    {
+      "titulo": "Minimalitos",
+      "descripcion": "Una colección de historias animadas protagonizadas por un grupo de animales pequeños que comparten juegos, canciones y aprendizajes en el jardín de niños.",
+      "inicio": "2026-11-07T23:45:00",
+      "fin": "2026-11-08T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/minimalitos.jpg"
+    },
+    {
+      "titulo": "Los Motorjón",
+      "descripcion": "Una familia de conejos recorre el mundo en una casa rodante muy especial.",
+      "inicio": "2026-11-08T00:00:00",
+      "fin": "2026-11-08T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Amigos",
+      "descripcion": "Dos grandes amigos llamados Santi y Elbiz viven muchas aventuras en una pequeña ciudad del interior de Argentina a lo largo de un año.",
+      "inicio": "2026-11-08T00:30:00",
+      "fin": "2026-11-08T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/amigos.jpg"
+    },
+    {
+      "titulo": "Superinsectos",
+      "descripcion": "Conformado por Titania, 88, Irupé y Mosquito Mosconi, entre otros, Superinsectos es un grupo de animales que ayuda a otros que tienen problemas en la Mesopotamia argentina.",
+      "inicio": "2026-11-08T00:45:00",
+      "fin": "2026-11-08T01:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Chikuchis",
+      "descripcion": "Los chikuchis son un grupo muy singular de títeres. Como los chicos, cada uno tiene su personalidad, gustos, maneras de divertirse, forma de hablar y de ser. Aunque son todos distintos, ellos se parecen en algo: son muy buenos amigos.",
+      "inicio": "2026-11-08T01:15:00",
+      "fin": "2026-11-08T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cuentos de había una vez",
+      "descripcion": "Dina es una abuela que tiene una biblioteca en un pueblo de la Costa Atlántica argentina. Todas las tardes recibe a Fede, Nati y Ciro, un grupo de chicos que, con mucho entusiasmo, van a escuchar los cuentos clásicos que ella tiene para contar.",
+      "inicio": "2026-11-08T01:30:00",
+      "fin": "2026-11-08T01:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cuentosdehabiaunavez.jpg"
+    },
+    {
+      "titulo": "Petit",
+      "descripcion": "Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras, Laura, Gregorio, Román y su perro Tadeo, lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas propias de la infancia. En cada capítulo, Petit se enfrentará a un hecho del mundo cotidiano que lo llevará a sacar imaginativas conclusiones y resolverá los conflictos de manera inesperada.",
+      "inicio": "2026-11-08T01:45:00",
+      "fin": "2026-11-08T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/petit.jpg"
+    },
+    {
+      "titulo": "Puerto papel",
+      "descripcion": "Matilde, una niña de 12 años, llega a un pueblo de la costa de Puerto Papel a la casa de su abuelo Barba Crespa, en donde pasará las vacaciones. Tras un accidente, adquiere un poder cada día que no puede controlar.",
+      "inicio": "2026-11-08T02:00:00",
+      "fin": "2026-11-08T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puertopapel.jpg"
+    },
+    {
+      "titulo": "Ciencia intergaláctica",
+      "descripcion": "Los curiosos niños Valentina y Leo encuentran a Trapi, un extraterrestre perdido, y se embarcan en aventuras juntos para regresar a Trapi a su hogar en la estrella TRAPPIST-1, mientras aprenden sobre ciencia, tecnología y la historia de la astronomía.",
+      "inicio": "2026-11-08T02:30:00",
+      "fin": "2026-11-08T02:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Medialuna y las noches mágicas • El dragón hambriento",
+      "descripcion": "El dragón hambriento | El dragón Ferucho quiere hacer un guiso de princesa, así que Chacabuco y Petunia entran en acción para ayudar a Medialuna.",
+      "inicio": "2026-11-08T02:45:00",
+      "fin": "2026-11-08T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Familia Pampa • Llegaron los vecinos",
+      "descripcion": "Llegaron los vecinos | Llega el día del retiro masculino de la tribu, un viejo ritual en el que los hombres se van a meditar. Mientras, las mujeres quedan solas.",
+      "inicio": "2026-11-08T03:00:00",
+      "fin": "2026-11-08T03:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El capitán Nariz de lata • Barbanegra",
+      "descripcion": "Barbanegra | El capitán Nariz de Lata asusta a su tripulación con una historia de miedo sobre el día que conoció al pirata Barbanegra.",
+      "inicio": "2026-11-08T03:15:00",
+      "fin": "2026-11-08T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcapitannarizdelata.jpg"
+    },
+    {
+      "titulo": "Ciencia Zapata",
+      "descripcion": "Narra las aventuras de dos chicos, Sofía una joven científica y su pequeño hermano Zapata, que se dedican a resolver problemas que provoca su archirrival, el señor No. Ambos comparten su interés por los misterios y desafíos que los rodean en su vida cotidiana. Aunque a diferencia de ella, el jovencito siempre se inclina por lo sobrenatural, la vida extraterrestre y los fenómenos paranormales, conforman un equipo entrenado para hacer frente a toda clase de problemas, ya sea en el campo científico como en el más prosaico de las vicisitudes cotidianas.",
+      "inicio": "2026-11-08T03:30:00",
+      "fin": "2026-11-08T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La orquestita",
+      "descripcion": "La serie cuenta las aventuras de Toto, Vale y Julen, tres amigos que aman la música tanto como meterse en problemas. Junto al abuelo Juan Barbas, un legendario ex roadie que aún conserva su viejo camión, la banda visitará a extraños personajes para intentar revelar los secretos de la música. O al menos tener una gran aventura.",
+      "inicio": "2026-11-08T04:00:00",
+      "fin": "2026-11-08T04:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laorquestita.jpg"
+    },
+    {
+      "titulo": "Pili y el guardián enmascarado • Un regalo inesperado",
+      "descripcion": "Un regalo inesperado | El malvado villano Desastre se mete dentro de una estatua para así llegar a la casa donde vive Pili y el guardia enmascarado, logrando entrar a la casa. Es ahí donde comienza el caos.",
+      "inicio": "2026-11-08T04:15:00",
+      "fin": "2026-11-08T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Muchas manos en el plato",
+      "descripcion": "Serie documental que muestra, de manera entretenida y dinámica, diferentes costumbres y culturas a través de la elaboración de platos tradicionales de distintas regiones de nuestro país.",
+      "inicio": "2026-11-08T04:30:00",
+      "fin": "2026-11-08T04:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cazadores de misterios",
+      "descripcion": "Vera y Lucio viven muchas aventuras al investigar la desaparición de una momia del Museo de Ciencias Naturales.",
+      "inicio": "2026-11-08T04:45:00",
+      "fin": "2026-11-08T05:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El mapa de mi mundo",
+      "descripcion": "Desde los rincones más extraños del mundo, chicos y chicas cuentan sus miedos, sueños, aspiraciones y conflictos a través de sus dibujos.",
+      "inicio": "2026-11-08T05:15:00",
+      "fin": "2026-11-08T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Polinópolis",
+      "descripcion": "Es un pueblo muy particular donde conviven todo tipo de seres fantásticos y donde una pandilla de niños afrontará la aventura de crecer y de vivir por primera vez experiencias y desafíos.",
+      "inicio": "2026-11-08T05:30:00",
+      "fin": "2026-11-08T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/polinopolis.jpg"
+    },
+    {
+      "titulo": "Familia Pampa • Las Olimpampas",
+      "descripcion": "Las Olimpampas | El joven Pampa sufre por no tener destrezas deportivas. Durante las Olimpampas, los hermanos de la familia crean el primer videojuego de la historia.",
+      "inicio": "2026-11-08T06:00:00",
+      "fin": "2026-11-08T06:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Medialuna y las noches mágicas • Las brujas quieren bailar",
+      "descripcion": "Las brujas quieren bailar | La bruja Gualichu observa en su bola mágica que Medialuna y el sapo bailan divertidos y ella quiere aprender a bailar.",
+      "inicio": "2026-11-08T06:15:00",
+      "fin": "2026-11-08T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Petit",
+      "descripcion": "Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras, Laura, Gregorio, Román y su perro Tadeo, lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas propias de la infancia. En cada capítulo, Petit se enfrentará a un hecho del mundo cotidiano que lo llevará a sacar imaginativas conclusiones y resolverá los conflictos de manera inesperada.",
+      "inicio": "2026-11-08T06:30:00",
+      "fin": "2026-11-08T06:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/petit.jpg"
+    },
+    {
+      "titulo": "Ciencia intergaláctica",
+      "descripcion": "Los curiosos niños Valentina y Leo encuentran a Trapi, un extraterrestre perdido, y se embarcan en aventuras juntos para regresar a Trapi a su hogar en la estrella TRAPPIST-1, mientras aprenden sobre ciencia, tecnología y la historia de la astronomía.",
+      "inicio": "2026-11-08T06:45:00",
+      "fin": "2026-11-08T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Puerto papel",
+      "descripcion": "Matilde, una niña de 12 años, llega a un pueblo de la costa de Puerto Papel a la casa de su abuelo Barba Crespa, en donde pasará las vacaciones. Tras un accidente, adquiere un poder cada día que no puede controlar.",
+      "inicio": "2026-11-08T07:00:00",
+      "fin": "2026-11-08T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puertopapel.jpg"
+    },
+    {
+      "titulo": "Superinsectos",
+      "descripcion": "Conformado por Titania, 88, Irupé y Mosquito Mosconi, entre otros, Superinsectos es un grupo de animales que ayuda a otros que tienen problemas en la Mesopotamia argentina.",
+      "inicio": "2026-11-08T07:30:00",
+      "fin": "2026-11-08T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Amigos • Felpudo",
+      "descripcion": "Felpudo | Santi va a dormir a la casa de un amigo y es su primera vez fuera de casa. Elbiz inventa una historia de miedo para asustarlo.",
+      "inicio": "2026-11-08T08:00:00",
+      "fin": "2026-11-08T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/amigos.jpg"
+    },
+    {
+      "titulo": "Petit",
+      "descripcion": "Un niño curioso cuyas preguntas abren mundos posibles y alternativas que nadie había imaginado antes. Sus compañeros de aventuras, Laura, Gregorio, Román y su perro Tadeo, lo acompañan en sus ocurrencias y travesuras, que surgen de compartir juegos y vivencias cotidianas propias de la infancia. En cada capítulo, Petit se enfrentará a un hecho del mundo cotidiano que lo llevará a sacar imaginativas conclusiones y resolverá los conflictos de manera inesperada.",
+      "inicio": "2026-11-08T08:30:00",
+      "fin": "2026-11-08T08:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/petit.jpg"
+    },
+    {
+      "titulo": "Cuentos de había una vez • El adivino",
+      "descripcion": "El adivino | Dina es una abuela que tiene una biblioteca en un pueblo de la Costa Atlántica argentina. Todas las tardes recibe a Fede, Nati y Ciro, un grupo de chicos que, con mucho entusiasmo, van a escuchar los cuentos clásicos que ella tiene para contar.",
+      "inicio": "2026-11-08T08:45:00",
+      "fin": "2026-11-08T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cuentosdehabiaunavez.jpg"
+    },
+    {
+      "titulo": "Los Motorjón",
+      "descripcion": "Una familia de conejos recorre el mundo en una casa rodante muy especial.",
+      "inicio": "2026-11-08T09:00:00",
+      "fin": "2026-11-08T09:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Chikuchis",
+      "descripcion": "Los chikuchis son un grupo muy singular de títeres. Como los chicos, cada uno tiene su personalidad, gustos, maneras de divertirse, forma de hablar y de ser. Aunque son todos distintos, ellos se parecen en algo: son muy buenos amigos.",
+      "inicio": "2026-11-08T09:15:00",
+      "fin": "2026-11-08T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ciencia intergaláctica",
+      "descripcion": "Los curiosos niños Valentina y Leo encuentran a Trapi, un extraterrestre perdido, y se embarcan en aventuras juntos para regresar a Trapi a su hogar en la estrella TRAPPIST-1, mientras aprenden sobre ciencia, tecnología y la historia de la astronomía.",
+      "inicio": "2026-11-08T09:30:00",
+      "fin": "2026-11-08T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Medialuna y las noches mágicas • El eclipse",
+      "descripcion": "El eclipse | La bruja Gualichu insiste en llevar a cabo su malvado hechizo para detener un eclipse y así evitar que Medialuna despierte durante el día.",
+      "inicio": "2026-11-08T10:00:00",
+      "fin": "2026-11-08T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Familia Pampa • Los mejores inventos",
+      "descripcion": "Los mejores inventos | La familia Pampa siempre estuvo adelantada a los tiempos en los que viven. El ranking de sus cinco mejores inventos.",
+      "inicio": "2026-11-08T10:30:00",
+      "fin": "2026-11-08T10:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El capitán Nariz de lata • El Roc",
+      "descripcion": "El Roc | La tripulación del Cangrejo Rojo quiere abandonar el barco para ir en busca de comida. Sin embargo, el capitán Nariz de Lata les cuenta una historia sobre cómo conoció a un pájaro gigante que lo atrapó para servirlo como alimento.",
+      "inicio": "2026-11-08T10:45:00",
+      "fin": "2026-11-08T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcapitannarizdelata.jpg"
+    },
+    {
+      "titulo": "El capitán Nariz de lata",
+      "descripcion": "En un tiempo remoto y en exóticos mares, navega el Cangrejo Rojo y su peculiar tripulación liderada por el capitán Nariz de Lata. Este ingenioso capitán, provisto de una llamativa nariz, dice tener mucha suerte para encontrar tesoros.",
+      "inicio": "2026-11-08T11:00:00",
+      "fin": "2026-11-08T11:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcapitannarizdelata.jpg"
+    },
+    {
+      "titulo": "La orquestita",
+      "descripcion": "La serie cuenta las aventuras de Toto, Vale y Julen, tres amigos que aman la música tanto como meterse en problemas. Junto al abuelo Juan Barbas, un legendario ex roadie que aún conserva su viejo camión, la banda visitará a extraños personajes para intentar revelar los secretos de la música. O al menos tener una gran aventura.",
+      "inicio": "2026-11-08T11:15:00",
+      "fin": "2026-11-08T11:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laorquestita.jpg"
     }
   ]
 }

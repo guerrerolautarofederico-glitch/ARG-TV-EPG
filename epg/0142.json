@@ -1,122 +1,31 @@
 {
   "actual": {
-    "titulo": "Sesión de sala",
-    "descripcion": "Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.",
-    "inicio": "2026-11-06T12:30:00",
-    "fin": "2026-11-06T15:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondesala.jpg"
+    "titulo": "Senado TV",
+    "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
+    "inicio": "2026-11-07T07:40:00",
+    "fin": "2026-11-07T19:40:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Profundidad de campos • Senador Sebastián Keitel",
-    "descripcion": "Senador Sebastián Keitel | Sergio Campos Ulloa conversa con los legisladores sobre agenda legislativa y actualidad.",
-    "inicio": "2026-11-06T15:30:00",
-    "fin": "2026-11-06T16:15:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/profundidaddecampos.jpg"
+    "titulo": "Senado TV",
+    "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
+    "inicio": "2026-11-07T19:40:00",
+    "fin": "2026-11-08T19:40:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Sesión de sala",
-      "descripcion": "Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.",
-      "inicio": "2026-11-06T12:30:00",
-      "fin": "2026-11-06T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondesala.jpg"
-    },
-    {
-      "titulo": "Profundidad de campos • Senador Sebastián Keitel",
-      "descripcion": "Senador Sebastián Keitel | Sergio Campos Ulloa conversa con los legisladores sobre agenda legislativa y actualidad.",
-      "inicio": "2026-11-06T15:30:00",
-      "fin": "2026-11-06T16:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/profundidaddecampos.jpg"
-    },
-    {
-      "titulo": "Sesión de comisión",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T16:15:00",
-      "fin": "2026-11-06T19:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondecomision.jpg"
-    },
-    {
-      "titulo": "Speakers CF 2026",
-      "descripcion": "Sigue uno de los eventos más destacados de ciencia, tecnología y pensamiento celebrados en Chile: la edición número 15 del Congreso Futuro (CF) que presenta charlas de expertos internacionales y nacionales sobre desafíos globales.",
-      "inicio": "2026-11-06T19:05:00",
-      "fin": "2026-11-06T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Resumen legislativo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T21:00:00",
-      "fin": "2026-11-06T21:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/resumenlegislativo.jpg"
-    },
-    {
-      "titulo": "Futuro en presente • Desde la eficiencia hasta la innovación - Parte 2",
-      "descripcion": "Desde la eficiencia hasta la innovación - Parte 2 | Un espacio para reflexionar sobre los desafíos y oportunidades que marcarán el mundo que viene. A través de conversaciones con destacadas personalidades, este podcast abre el diálogo sobre temas clave para construir el Chile del futuro.",
-      "inicio": "2026-11-06T21:15:00",
-      "fin": "2026-11-06T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futuroenpresente.jpg"
-    },
-    {
-      "titulo": "Humanidad, ¿Hacia dónde vamos? • Invitada: Vinayaka Prasad",
-      "descripcion": "Invitada: Vinayaka Prasad | Un espacio de diálogo, ciencia, educación y pensamiento crítico en torno al futuro de la humanidad. En el marco del Congreso Futuro, se presentan charlas con expertos y académicos para reflexionar sobre los grandes desafíos contemporáneos.",
-      "inicio": "2026-11-06T22:30:00",
-      "fin": "2026-11-06T23:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/humanidadhaciadondevamos.jpg"
-    },
-    {
-      "titulo": "Voto femenino 2026 • Diputada Ximena Ossandón",
-      "descripcion": "Diputada Ximena Ossandón | Conoce el podcast del Congreso Nacional que conmemora los 74 años del sufragio femenino en Chile. Durante cuatro episodios, senadoras y diputadas abordan temas claves como la ley de cuotas y el liderazgo femenino y la violencia digital.",
-      "inicio": "2026-11-06T23:10:00",
-      "fin": "2026-11-06T23:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sesión de comisión",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T23:55:00",
-      "fin": "2026-11-07T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondecomision.jpg"
-    },
-    {
-      "titulo": "Resumen legislativo",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T01:00:00",
-      "fin": "2026-11-07T01:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/resumenlegislativo.jpg"
-    },
-    {
-      "titulo": "Futuro en presente • Desde la eficiencia hasta la innovación - Parte 2",
-      "descripcion": "Desde la eficiencia hasta la innovación - Parte 2 | Un espacio para reflexionar sobre los desafíos y oportunidades que marcarán el mundo que viene. A través de conversaciones con destacadas personalidades, este podcast abre el diálogo sobre temas clave para construir el Chile del futuro.",
-      "inicio": "2026-11-07T01:10:00",
-      "fin": "2026-11-07T02:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futuroenpresente.jpg"
-    },
-    {
-      "titulo": "La historia sumergida",
-      "descripcion": "Historiadores, pescadores y buzos reconstruyen la importante memoria de la navegación del sur austral de Chile. Conoce la historia desde el naufragio del vapor Colonia en el lago Llanquihue hasta historias del Estrecho de Magallanes.",
-      "inicio": "2026-11-07T02:25:00",
-      "fin": "2026-11-07T04:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahistoriasumergida.jpg"
-    },
-    {
-      "titulo": "Cierre de transmisiones",
-      "descripcion": "Fin de emisión diaria del canal.",
-      "inicio": "2026-11-07T04:55:00",
-      "fin": "2026-11-07T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
-    },
-    {
-      "titulo": "Inicio de programación",
-      "descripcion": "Comienzo de emisión diaria del canal.",
-      "inicio": "2026-11-07T07:00:00",
-      "fin": "2026-11-07T07:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Senado TV",
       "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
       "inicio": "2026-11-07T07:40:00",
       "fin": "2026-11-07T19:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Senado TV",
+      "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
+      "inicio": "2026-11-07T19:40:00",
+      "fin": "2026-11-08T19:40:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

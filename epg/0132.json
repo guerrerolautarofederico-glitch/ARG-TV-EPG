@@ -1,295 +1,29 @@
 {
   "actual": {
-    "titulo": "ITV Noticias",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-11-06T12:30:00",
-    "fin": "2026-11-06T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/itvnoticias.jpg"
+    "titulo": "RPM",
+    "descripcion": "Programa sobre el automóvil y la movilidad.",
+    "inicio": "2026-11-07T11:30:00",
+    "fin": "2026-11-07T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rpm.jpg"
   },
   "siguiente": {
-    "titulo": "Artesanos kamishibai videoclips",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-11-06T13:00:00",
-    "fin": "2026-11-06T13:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Enlaces",
+    "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
+    "inicio": "2026-11-07T12:00:00",
+    "fin": "2026-11-07T12:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlaces.jpg"
   },
   "lista": [
     {
-      "titulo": "ITV Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T12:30:00",
-      "fin": "2026-11-06T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/itvnoticias.jpg"
-    },
-    {
-      "titulo": "Artesanos kamishibai videoclips",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T13:00:00",
-      "fin": "2026-11-06T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El bastidor",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T13:30:00",
-      "fin": "2026-11-06T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Doctor en casa",
-      "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
-      "inicio": "2026-11-06T14:00:00",
-      "fin": "2026-11-06T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/doctorencasa.jpg"
-    },
-    {
-      "titulo": "Por la razón y la ciencia",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T15:00:00",
-      "fin": "2026-11-06T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/porlarazonylaciencia.jpg"
-    },
-    {
-      "titulo": "Historia del Norte",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T15:30:00",
-      "fin": "2026-11-06T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DW Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T16:00:00",
-      "fin": "2026-11-06T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "RT noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T16:30:00",
-      "fin": "2026-11-06T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Aires de Chile",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T17:00:00",
-      "fin": "2026-11-06T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/airesdechile.jpg"
-    },
-    {
-      "titulo": "En palco",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T17:30:00",
-      "fin": "2026-11-06T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "IquiqueTV Noticias central",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T18:00:00",
-      "fin": "2026-11-06T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Portavoz noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T18:30:00",
-      "fin": "2026-11-06T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "RT Cowork digital",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T19:00:00",
-      "fin": "2026-11-06T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "IquiqueTV Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T20:00:00",
-      "fin": "2026-11-06T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Portavoz noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T20:30:00",
-      "fin": "2026-11-06T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "Zona D Juegos",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T21:00:00",
-      "fin": "2026-11-06T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ITV Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T22:00:00",
-      "fin": "2026-11-06T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/itvnoticias.jpg"
-    },
-    {
-      "titulo": "Escenarios y videoclips",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T22:30:00",
-      "fin": "2026-11-06T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ITV Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T23:30:00",
-      "fin": "2026-11-07T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/itvnoticias.jpg"
-    },
-    {
-      "titulo": "En palco",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T00:00:00",
-      "fin": "2026-11-07T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El bastidor",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T00:30:00",
-      "fin": "2026-11-07T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "IquiqueTV Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T01:00:00",
-      "fin": "2026-11-07T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Portavoz noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T01:30:00",
-      "fin": "2026-11-07T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "Doctor en casa",
-      "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
-      "inicio": "2026-11-07T02:00:00",
-      "fin": "2026-11-07T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/doctorencasa.jpg"
-    },
-    {
-      "titulo": "ITV Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T03:00:00",
-      "fin": "2026-11-07T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/itvnoticias.jpg"
-    },
-    {
-      "titulo": "RT Cowork digital",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T03:30:00",
-      "fin": "2026-11-07T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "IquiqueTV Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T04:30:00",
-      "fin": "2026-11-07T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Patria científica",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T05:00:00",
-      "fin": "2026-11-07T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Historia del Norte",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T05:30:00",
-      "fin": "2026-11-07T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En palco",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T06:00:00",
-      "fin": "2026-11-07T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El bastidor",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T06:30:00",
-      "fin": "2026-11-07T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Documentales DW",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T07:00:00",
-      "fin": "2026-11-07T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentalesdw.jpg"
-    },
-    {
-      "titulo": "Pasión a la mexicana",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T07:30:00",
-      "fin": "2026-11-07T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasionalamexicana.jpg"
-    },
-    {
-      "titulo": "Portavoz noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T08:30:00",
-      "fin": "2026-11-07T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "ITV Noticias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T09:00:00",
-      "fin": "2026-11-07T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/itvnoticias.jpg"
-    },
-    {
-      "titulo": "Doctor en casa",
-      "descripcion": "Espacio de salud y bienestar donde especialistas abordan diversas temáticas médicas y entregan consejos para mejorar la calidad de vida.",
-      "inicio": "2026-11-07T09:30:00",
-      "fin": "2026-11-07T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/doctorencasa.jpg"
-    },
-    {
-      "titulo": "Nuestro patrimonio",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T10:30:00",
-      "fin": "2026-11-07T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Aires de Chile",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T11:00:00",
-      "fin": "2026-11-07T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/airesdechile.jpg"
-    },
-    {
       "titulo": "RPM",
-      "descripcion": "La información de este programa no se encuentra disponible.",
+      "descripcion": "Programa sobre el automóvil y la movilidad.",
       "inicio": "2026-11-07T11:30:00",
       "fin": "2026-11-07T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rpm.jpg"
     },
     {
       "titulo": "Enlaces",
-      "descripcion": "La información de este programa no se encuentra disponible.",
+      "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
       "inicio": "2026-11-07T12:00:00",
       "fin": "2026-11-07T12:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlaces.jpg"
@@ -300,6 +34,258 @@
       "inicio": "2026-11-07T12:30:00",
       "fin": "2026-11-07T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/itvnoticias.jpg"
+    },
+    {
+      "titulo": "El bastidor",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-07T13:00:00",
+      "fin": "2026-11-07T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En palco",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-07T13:30:00",
+      "fin": "2026-11-07T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "RT Cowork digital",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-07T14:00:00",
+      "fin": "2026-11-07T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Zona D Juegos",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-07T15:00:00",
+      "fin": "2026-11-07T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DW Noticias",
+      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
+      "inicio": "2026-11-07T16:00:00",
+      "fin": "2026-11-07T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "RT noticias",
+      "descripcion": "Informativo internacional con el análisis de los principales hechos del mundo.",
+      "inicio": "2026-11-07T16:30:00",
+      "fin": "2026-11-07T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pasión a la mexicana",
+      "descripcion": "Telenovela que narra una historia de amor, traición y lucha por el poder en el corazón de México, con personajes inolvidables y giros inesperados.",
+      "inicio": "2026-11-07T17:00:00",
+      "fin": "2026-11-07T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasionalamexicana.jpg"
+    },
+    {
+      "titulo": "IquiqueTV Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-07T18:00:00",
+      "fin": "2026-11-07T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias",
+      "descripcion": "Un noticiero nacional accesible, hecho para todas las regiones.",
+      "inicio": "2026-11-07T18:30:00",
+      "fin": "2026-11-07T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Aires de Chile",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-07T19:00:00",
+      "fin": "2026-11-07T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/airesdechile.jpg"
+    },
+    {
+      "titulo": "En palco",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-07T19:30:00",
+      "fin": "2026-11-07T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Zona D Juegos",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-07T20:00:00",
+      "fin": "2026-11-07T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Series + animé",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-07T21:00:00",
+      "fin": "2026-11-07T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ITV Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-07T22:00:00",
+      "fin": "2026-11-07T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/itvnoticias.jpg"
+    },
+    {
+      "titulo": "Escenarios y videoclips",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-07T22:30:00",
+      "fin": "2026-11-07T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ITV Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-07T23:30:00",
+      "fin": "2026-11-08T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/itvnoticias.jpg"
+    },
+    {
+      "titulo": "El bastidor",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T00:00:00",
+      "fin": "2026-11-08T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Artesanos kamishibai trazos",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T00:30:00",
+      "fin": "2026-11-08T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "IquiqueTV Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T01:00:00",
+      "fin": "2026-11-08T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias",
+      "descripcion": "Un noticiero nacional accesible, hecho para todas las regiones.",
+      "inicio": "2026-11-08T01:30:00",
+      "fin": "2026-11-08T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Doctor en casa",
+      "descripcion": "Un programa dedicado a la salud física y mental, con un lenguaje sencillo para todas las edades, que enseña a reconocer síntomas y prevenir enfermedades.",
+      "inicio": "2026-11-08T02:00:00",
+      "fin": "2026-11-08T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/doctorencasa.jpg"
+    },
+    {
+      "titulo": "ITV Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T03:00:00",
+      "fin": "2026-11-08T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/itvnoticias.jpg"
+    },
+    {
+      "titulo": "Hablemos de Basquet",
+      "descripcion": "Un espacio para hablar de básquetbol desde la perspectiva de los que saben, con invitados de primera línea y mostrando el momento que vive el baloncesto nacional.",
+      "inicio": "2026-11-08T03:30:00",
+      "fin": "2026-11-08T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ITV Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T04:30:00",
+      "fin": "2026-11-08T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/itvnoticias.jpg"
+    },
+    {
+      "titulo": "Por la razón y la ciencia",
+      "descripcion": "Programa que busca acercar variados temas científicos a los televidentes.",
+      "inicio": "2026-11-08T05:00:00",
+      "fin": "2026-11-08T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/porlarazonylaciencia.jpg"
+    },
+    {
+      "titulo": "Cultura Viva",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T05:30:00",
+      "fin": "2026-11-08T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El bastidor",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T06:00:00",
+      "fin": "2026-11-08T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Nuestro patrimonio",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T06:30:00",
+      "fin": "2026-11-08T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cortos y videos musicales",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T07:00:00",
+      "fin": "2026-11-08T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "RT Cowork digital",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T07:30:00",
+      "fin": "2026-11-08T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias",
+      "descripcion": "Un noticiero nacional accesible, hecho para todas las regiones.",
+      "inicio": "2026-11-08T08:30:00",
+      "fin": "2026-11-08T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "IquiqueTV Noticias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T09:00:00",
+      "fin": "2026-11-08T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hablemos de Basquet",
+      "descripcion": "Un espacio para hablar de básquetbol desde la perspectiva de los que saben, con invitados de primera línea y mostrando el momento que vive el baloncesto nacional.",
+      "inicio": "2026-11-08T09:30:00",
+      "fin": "2026-11-08T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En palco",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T10:30:00",
+      "fin": "2026-11-08T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El bastidor",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T11:00:00",
+      "fin": "2026-11-08T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¡Escápate!",
+      "descripcion": "Escápate inicia una nueva andadura de la mano de Lukas Stege, Diana Piñeros y Nicole Geisse. Descubra destinos de ensueño, monumentos emblemáticos y sorprendentes parajes.\n\nEscápate los lleva por rutas desconocidas y les muestra la otra cara de los lugares más visitados.  En esta nueva etapa  les traemos un programa híbrido que acude también a lo que sucede en redes, con informaciones prácticas y unos reporteros que se atreven a todo.",
+      "inicio": "2026-11-08T11:30:00",
+      "fin": "2026-11-08T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/escapate.jpg"
     }
   ]
 }

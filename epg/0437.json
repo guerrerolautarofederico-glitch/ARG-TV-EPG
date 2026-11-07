@@ -1,152 +1,19 @@
 {
   "actual": {
-    "titulo": "Central Fox",
-    "descripcion": "Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
-    "inicio": "2026-11-06T12:00:00",
-    "fin": "2026-11-06T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
+    "titulo": "FOX Fit",
+    "descripcion": "Ejercicios y rutinas de trabajo para obtener un cuerpo perfecto de forma sencilla y amena. Todo ello de la mano de expertas consagradas en el mundo del fitness.",
+    "inicio": "2026-11-07T11:00:00",
+    "fin": "2026-11-07T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxfit.jpg"
   },
   "siguiente": {
-    "titulo": "La última palabra",
-    "descripcion": "Una joven visita a su abuela, a quien no ha visto en años. Pero lo que encuentra no es exactamente lo que esperaba.",
-    "inicio": "2026-11-06T13:00:00",
-    "fin": "2026-11-06T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
+    "titulo": "Central Fox",
+    "descripcion": "Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
+    "inicio": "2026-11-07T12:00:00",
+    "fin": "2026-11-07T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
   },
   "lista": [
-    {
-      "titulo": "Central Fox",
-      "descripcion": "Noticiero de deportes con las últimas novedades del acontecer deportivo a nivel mundial.",
-      "inicio": "2026-11-06T12:00:00",
-      "fin": "2026-11-06T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
-    },
-    {
-      "titulo": "La última palabra",
-      "descripcion": "Una joven visita a su abuela, a quien no ha visto en años. Pero lo que encuentra no es exactamente lo que esperaba.",
-      "inicio": "2026-11-06T13:00:00",
-      "fin": "2026-11-06T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
-    },
-    {
-      "titulo": "Fox Gol México",
-      "descripcion": "Noticias, análisis, comentarios, goles y las jugadas más destacadas de la Liga mexicana de fútbol.",
-      "inicio": "2026-11-06T14:00:00",
-      "fin": "2026-11-06T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxgolmexico.jpg"
-    },
-    {
-      "titulo": "Auto Racing • Carrrera Panamericana 2026",
-      "descripcion": "Carrrera Panamericana 2026 | Se presentan los mejores momentos de la Carrera Panamericana 2026 con un recorrido de Chiapas hasta Zacatecas. Disputado del 16 al 22 de octubre de 2026.",
-      "inicio": "2026-11-06T15:00:00",
-      "fin": "2026-11-06T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Baloncesto Mexicano LNBP • Fuerza Regia de Monterrey vs Astros de Jalisco",
-      "descripcion": "Fuerza Regia de Monterrey vs Astros de Jalisco | Juego 5 de las finales de Zona.",
-      "inicio": "2026-11-06T16:00:00",
-      "fin": "2026-11-06T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "AEW Collision",
-      "descripcion": "Los populares luchadores profesionales del roster (plantilla) de 🤼 [AEW] AEW compiten entre sí en luchas cada sábado para ganar el título de campeón.",
-      "inicio": "2026-11-06T18:30:00",
-      "fin": "2026-11-06T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aewcollision.jpg"
-    },
-    {
-      "titulo": "Ka Ying Rising",
-      "descripcion": "Descubre el mundo de la equitación, donde jinetes y caballos combinan técnica, disciplina y destreza para superar retos y vivir la pasión del deporte.",
-      "inicio": "2026-11-06T20:30:00",
-      "fin": "2026-11-06T20:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Fifth Quarter • Ronda 6",
-      "descripcion": "Ronda 6 | Revive lo mejor de la jornada de la Liga ACB con análisis, grandes jugadas, puntos clave y toda la emoción del básquetbol español.",
-      "inicio": "2026-11-06T20:45:00",
-      "fin": "2026-11-06T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Regata • The Ocean Race Atlantic",
-      "descripcion": "The Ocean Race Atlantic | La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-06T21:00:00",
-      "fin": "2026-11-06T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lucha Libre CMLL • Retro",
-      "descripcion": "Retro | Viaja a la época dorada de la lucha libre mexicana con combates legendarios, grandes rivalidades y los momentos que hicieron grande al CMLL.",
-      "inicio": "2026-11-06T22:00:00",
-      "fin": "2026-11-06T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/luchalibrecmll.jpg"
-    },
-    {
-      "titulo": "Lucha Libre CMLL • Viernes espectacular",
-      "descripcion": "Estreno ║ Viernes espectacular | Viernes donde la intensidad domina el ring con rivalidades, máscaras, castigos y vuelos espectaculares que no te puedes perder.",
-      "inicio": "2026-11-06T23:00:00",
-      "fin": "2026-11-07T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/luchalibrecmll.jpg"
-    },
-    {
-      "titulo": "Icarus Sports • Women's Football Weekly",
-      "descripcion": "Women's Football Weekly | Recopilación de los mejores momentos de la semana del fútbol femenino.",
-      "inicio": "2026-11-07T02:00:00",
-      "fin": "2026-11-07T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Regata • The Ocean Race Atlantic",
-      "descripcion": "The Ocean Race Atlantic | La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T02:30:00",
-      "fin": "2026-11-07T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Icarus Sports • The Outdoor Sports Show",
-      "descripcion": "The Outdoor Sports Show | Exploramos el mundo a través de hazañas únicas, donde la aventura, la naturaleza y el esfuerzo se viven al máximo.",
-      "inicio": "2026-11-07T03:00:00",
-      "fin": "2026-11-07T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol Rápido MASL • St. Louis Ambush vs Baltimore Blast",
-      "descripcion": "St. Louis Ambush vs Baltimore Blast | Temporada 2025-26 de la MASL. St. Louis Ambush se enfrenta a Baltimore Blast. Desde The Family Arena, en St. Charles, Misuri.",
-      "inicio": "2026-11-07T03:30:00",
-      "fin": "2026-11-07T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Baloncesto Mexicano LNBP • Fuerza Regia de Monterrey vs Astros de Jalisco",
-      "descripcion": "Fuerza Regia de Monterrey vs Astros de Jalisco | Juego 5 de las finales de Zona.",
-      "inicio": "2026-11-07T06:00:00",
-      "fin": "2026-11-07T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Icarus Sports • The Outdoor Sports Show",
-      "descripcion": "The Outdoor Sports Show | Exploramos el mundo a través de hazañas únicas, donde la aventura, la naturaleza y el esfuerzo se viven al máximo.",
-      "inicio": "2026-11-07T08:30:00",
-      "fin": "2026-11-07T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "+90",
-      "descripcion": "Se analiza todo lo que sucede en las ligas más relevantes del fútbol internacional más allá de los 90 minutos de juego. Sin dejar de lado el fútbol mexicano.",
-      "inicio": "2026-11-07T09:00:00",
-      "fin": "2026-11-07T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/90.jpg"
-    },
-    {
-      "titulo": "La última palabra",
-      "descripcion": "Una joven visita a su abuela, a quien no ha visto en años. Pero lo que encuentra no es exactamente lo que esperaba.",
-      "inicio": "2026-11-07T10:00:00",
-      "fin": "2026-11-07T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
-    },
     {
       "titulo": "FOX Fit",
       "descripcion": "Ejercicios y rutinas de trabajo para obtener un cuerpo perfecto de forma sencilla y amena. Todo ello de la mano de expertas consagradas en el mundo del fitness.",
@@ -160,6 +27,146 @@
       "inicio": "2026-11-07T12:00:00",
       "fin": "2026-11-07T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/centralfox.jpg"
+    },
+    {
+      "titulo": "La última palabra",
+      "descripcion": "Programa de debate y polémica sobre el fútbol.",
+      "inicio": "2026-11-07T13:00:00",
+      "fin": "2026-11-07T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
+    },
+    {
+      "titulo": "Lucha Libre CMLL • Retro",
+      "descripcion": "Retro | Viaja a la época dorada de la lucha libre mexicana con combates legendarios, grandes rivalidades y los momentos que hicieron grande al CMLL.",
+      "inicio": "2026-11-07T14:00:00",
+      "fin": "2026-11-07T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/luchalibrecmll.jpg"
+    },
+    {
+      "titulo": "Icarus Sports • Gearing Up",
+      "descripcion": "Gearing Up | Un recorrido por la Brasil Stock Car Pro Series, el GT3 Gulf 12 Hours en Abu Dabi y el Monster Jam \"ThunderROARus\".",
+      "inicio": "2026-11-07T15:00:00",
+      "fin": "2026-11-07T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Icarus Sports • Women's Football Weekly",
+      "descripcion": "Women's Football Weekly | Recopilación de los mejores momentos de la semana del fútbol femenino.",
+      "inicio": "2026-11-07T15:30:00",
+      "fin": "2026-11-07T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fox Fight Club",
+      "descripcion": "Estreno ║ Una mirada al costado íntimo de los hombres que se juegan todo cuando suena la campana.",
+      "inicio": "2026-11-07T16:00:00",
+      "fin": "2026-11-07T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxfightclub.jpg"
+    },
+    {
+      "titulo": "Money Line Show",
+      "descripcion": "Estreno ║ El primer programa de apuestas en la televisión deportiva en México.",
+      "inicio": "2026-11-07T16:30:00",
+      "fin": "2026-11-07T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/moneylineshow.jpg"
+    },
+    {
+      "titulo": "Automovilismo • Súper Copa: Monterrey",
+      "descripcion": "Súper Copa: Monterrey | Cobertura de la octava fecha de la Súper Copa 2026. Desde el Autódromo de Monterrey, en Apodaca, Nuevo Léon.",
+      "inicio": "2026-11-07T17:00:00",
+      "fin": "2026-11-07T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "All Elite Wrestling: Dynamite",
+      "descripcion": "La lucha más intensa llega con 🤼 [AEW] AEW Dynamite: combates espectaculares, rivalidades al límite y estrellas que lo dejan todo en el ring.",
+      "inicio": "2026-11-07T19:00:00",
+      "fin": "2026-11-07T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/allelitewrestlingdynamite.jpg"
+    },
+    {
+      "titulo": "Icarus Sports • The Outdoor Sports Show",
+      "descripcion": "The Outdoor Sports Show | Exploramos el mundo a través de hazañas únicas, donde la aventura, la naturaleza y el esfuerzo se viven al máximo.",
+      "inicio": "2026-11-07T22:00:00",
+      "fin": "2026-11-07T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fox Fight Club",
+      "descripcion": "Una mirada al costado íntimo de los hombres que se juegan todo cuando suena la campana.",
+      "inicio": "2026-11-07T22:30:00",
+      "fin": "2026-11-07T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxfightclub.jpg"
+    },
+    {
+      "titulo": "Baloncesto Liga ACB • Lleida vs Baskonia",
+      "descripcion": "Lleida vs Baskonia | Jornada 7 de la Liga ACB temporada 2026-27. Baskonia ganó tres de los últimos cuatro enfrentamientos a Lleida. Desde el Pabellón Barris Nord, en Lleida.",
+      "inicio": "2026-11-07T23:00:00",
+      "fin": "2026-11-08T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/baloncestoligaacb.jpg"
+    },
+    {
+      "titulo": "FIBA Highlights",
+      "descripcion": "Una recopilación con los mejores momentos de los partidos de la Federación Internacional de Baloncesto.",
+      "inicio": "2026-11-08T01:30:00",
+      "fin": "2026-11-08T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fibahighlights.jpg"
+    },
+    {
+      "titulo": "Lucha Libre CMLL • Retro",
+      "descripcion": "Retro | Viaja a la época dorada de la lucha libre mexicana con combates legendarios, grandes rivalidades y los momentos que hicieron grande al CMLL.",
+      "inicio": "2026-11-08T02:00:00",
+      "fin": "2026-11-08T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/luchalibrecmll.jpg"
+    },
+    {
+      "titulo": "Icarus Sports • Gearing Up",
+      "descripcion": "Gearing Up | Un recorrido por la Brasil Stock Car Pro Series, el GT3 Gulf 12 Hours en Abu Dabi y el Monster Jam \"ThunderROARus\".",
+      "inicio": "2026-11-08T03:00:00",
+      "fin": "2026-11-08T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol Rápido MASL • Baltimore Blast vs Utica City FC",
+      "descripcion": "Baltimore Blast vs Utica City FC | Cobertura de la temporada regular de la MASL 2025-26. Utica City FC visita a Baltimore Blast. Desde el TU Arena, en Towson, Maryland.",
+      "inicio": "2026-11-08T03:30:00",
+      "fin": "2026-11-08T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Baloncesto Liga ACB • Manresa vs Monbus Obradoiro",
+      "descripcion": "Manresa vs Monbus Obradoiro | Manresa recibe al Obradoiro en la jornada 7 de la Liga ACB temporada 2026-27. Los de casa quieren su primera victoria del torneo, mientras que la visita tiene dos juegos sin ganar. Desde el Pavelló Nou Congost, en Manresa.",
+      "inicio": "2026-11-08T06:00:00",
+      "fin": "2026-11-08T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/baloncestoligaacb.jpg"
+    },
+    {
+      "titulo": "Icarus Sports • Gearing Up",
+      "descripcion": "Gearing Up | Un recorrido por la Brasil Stock Car Pro Series, el GT3 Gulf 12 Hours en Abu Dabi y el Monster Jam \"ThunderROARus\".",
+      "inicio": "2026-11-08T08:30:00",
+      "fin": "2026-11-08T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lucha Libre CMLL • Retro",
+      "descripcion": "Retro | Viaja a la época dorada de la lucha libre mexicana con combates legendarios, grandes rivalidades y los momentos que hicieron grande al CMLL.",
+      "inicio": "2026-11-08T09:00:00",
+      "fin": "2026-11-08T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/luchalibrecmll.jpg"
+    },
+    {
+      "titulo": "La última palabra",
+      "descripcion": "Programa de debate y polémica sobre el fútbol.",
+      "inicio": "2026-11-08T10:00:00",
+      "fin": "2026-11-08T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
+    },
+    {
+      "titulo": "FOX Fit",
+      "descripcion": "Ejercicios y rutinas de trabajo para obtener un cuerpo perfecto de forma sencilla y amena. Todo ello de la mano de expertas consagradas en el mundo del fitness.",
+      "inicio": "2026-11-08T11:00:00",
+      "fin": "2026-11-08T11:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/foxfit.jpg"
     }
   ]
 }
