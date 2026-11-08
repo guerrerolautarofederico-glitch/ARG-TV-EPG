@@ -1,115 +1,129 @@
 {
   "actual": {
-    "titulo": "Hechos Sábado",
-    "descripcion": "Un programa que brinda las noticias más relevantes de México y el mundo.",
-    "inicio": "2026-11-07T11:00:00",
-    "fin": "2026-11-07T12:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechossabado.jpg"
+    "titulo": "Hechos Domingo",
+    "descripcion": "Un programa que aborda la información más relevante del fin de semana.",
+    "inicio": "2026-11-08T11:00:00",
+    "fin": "2026-11-08T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
     "titulo": "Venga la alegría",
     "descripcion": "Un programa de entretenimiento que aborda temas de interés personal como cocina, belleza, sexualidad, reflexiones, consejos y otros.",
-    "inicio": "2026-11-07T12:00:00",
-    "fin": "2026-11-07T14:00:00",
+    "inicio": "2026-11-08T12:00:00",
+    "fin": "2026-11-08T14:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vengalaalegria.jpg"
   },
   "lista": [
-    {
-      "titulo": "Hechos Sábado",
-      "descripcion": "Un programa que brinda las noticias más relevantes de México y el mundo.",
-      "inicio": "2026-11-07T11:00:00",
-      "fin": "2026-11-07T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechossabado.jpg"
-    },
-    {
-      "titulo": "Venga la alegría",
-      "descripcion": "Un programa de entretenimiento que aborda temas de interés personal como cocina, belleza, sexualidad, reflexiones, consejos y otros.",
-      "inicio": "2026-11-07T12:00:00",
-      "fin": "2026-11-07T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vengalaalegria.jpg"
-    },
-    {
-      "titulo": "Venga la alegría",
-      "descripcion": "Un programa de entretenimiento que aborda temas de interés personal como cocina, belleza, sexualidad, reflexiones, consejos y otros.",
-      "inicio": "2026-11-07T14:00:00",
-      "fin": "2026-11-07T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vengalaalegria.jpg"
-    },
-    {
-      "titulo": "Sábado al extremo",
-      "descripcion": "Un programa periodístico que compila varios segmentos de noticias, las cuales tienen una cosa en común, estas son impactantes y asombrosas, algunas de estas noticias que se presentan son controversiales y algunas algo amarillistas. Una serie entretenida que dejará con la boca abierta a más de uno de sus espectadores, las noticias que se incluyen son sobre temas criminales, de salud, religiosos en el que se incluyen milagros y notas curiosas que son de interés público, entre otras, también se informa al público sobre los famosos que están haciendo noticia e información interesante sobre el mundo del entretenimiento.",
-      "inicio": "2026-11-07T16:00:00",
-      "fin": "2026-11-07T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sabadoalextremo.jpg"
-    },
-    {
-      "titulo": "Mujeres rompiendo el silencio",
-      "descripcion": "Una serie que aborda temas relacionados con la situación de la mujer en la sociedad actual a través de testimonios y ofreciendo orientación.",
-      "inicio": "2026-11-07T18:00:00",
-      "fin": "2026-11-07T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lo que callamos las mujeres",
-      "descripcion": "Hechos reales que plantean situaciones difíciles que muchas niñas y mujeres enfrentan a diario, generalmente en silencio. Buscar alternativas y poner fin a la discriminación es el objetivo.",
-      "inicio": "2026-11-07T21:00:00",
-      "fin": "2026-11-08T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loquecallamoslasmujeres.jpg"
-    },
-    {
-      "titulo": "Lo que la gente cuenta",
-      "descripcion": "Leyendas populares y escalofriantes que aterrorizan hasta los más valientes. Historias aterradoras desde las localidades donde han sucedido.",
-      "inicio": "2026-11-08T00:00:00",
-      "fin": "2026-11-08T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loquelagentecuenta.jpg"
-    },
-    {
-      "titulo": "La Resolana",
-      "descripcion": "Programa conducido por Carlos El Capi Pérez, trata sobre lo más controversial de La Isla de forma divertida. Es una forma diferente de ver lo que ocurre durante la semana en este Reality.",
-      "inicio": "2026-11-08T02:00:00",
-      "fin": "2026-11-08T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laresolana.jpg"
-    },
-    {
-      "titulo": "Rutas de la vida",
-      "descripcion": "La serie cuenta, en cada capítulo, una historia diferente con personajes nuevos. El eje central de las historias es el transporte público, ya que todas ellas suceden dentro de alguno de los medios de traslado del país.",
-      "inicio": "2026-11-08T03:00:00",
-      "fin": "2026-11-08T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rutasdelavida.jpg"
-    },
-    {
-      "titulo": "Mujeres rompiendo el silencio",
-      "descripcion": "Una serie que aborda temas relacionados con la situación de la mujer en la sociedad actual a través de testimonios y ofreciendo orientación.",
-      "inicio": "2026-11-08T05:00:00",
-      "fin": "2026-11-08T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Acércate a Rocío al límite",
-      "descripcion": "Un espacio en el que se tocan temas controversiales, de forma abierta y sin censura como sexo, infidelidad, identidad de género, salud mental, conductas delictivas, o fractura familiar.",
-      "inicio": "2026-11-08T06:00:00",
-      "fin": "2026-11-08T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/acercatearocioallimite.jpg"
-    },
-    {
-      "titulo": "AQC",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-08T08:30:00",
-      "fin": "2026-11-08T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Movie • Músico, poeta y loco",
-      "descripcion": "Músico, poeta y loco | Un hombre se enamora de una rica heredera y la ayuda a pelear contra su tío que quiere quedarse con su fortuna.",
-      "inicio": "2026-11-08T09:00:00",
-      "fin": "2026-11-08T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Hechos Domingo",
       "descripcion": "Un programa que aborda la información más relevante del fin de semana.",
       "inicio": "2026-11-08T11:00:00",
       "fin": "2026-11-08T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Venga la alegría",
+      "descripcion": "Un programa de entretenimiento que aborda temas de interés personal como cocina, belleza, sexualidad, reflexiones, consejos y otros.",
+      "inicio": "2026-11-08T12:00:00",
+      "fin": "2026-11-08T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vengalaalegria.jpg"
+    },
+    {
+      "titulo": "Venga la alegría",
+      "descripcion": "Un programa de entretenimiento que aborda temas de interés personal como cocina, belleza, sexualidad, reflexiones, consejos y otros.",
+      "inicio": "2026-11-08T14:00:00",
+      "fin": "2026-11-08T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vengalaalegria.jpg"
+    },
+    {
+      "titulo": "Domingo al extremo",
+      "descripcion": "Un programa periodístico que compila varios segmentos de noticias, las cuales tienen una cosa en común, estas son impactantes y asombrosas, algunas de estas noticias que se presentan son controversiales y algunas algo amarillistas. Una serie entretenida que dejará con la boca abierta a más de uno de sus espectadores, las noticias que se incluyen son sobre temas criminales, de salud, religiosos en el que se incluyen milagros y notas curiosas que son de interés público, entre otras, también se informa al público sobre los famosos que están haciendo noticia e información interesante sobre el mundo del entretenimiento.",
+      "inicio": "2026-11-08T16:00:00",
+      "fin": "2026-11-08T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/domingoalextremo.jpg"
+    },
+    {
+      "titulo": "Rutas de la vida",
+      "descripcion": "La serie cuenta, en cada capítulo, una historia diferente con personajes nuevos. El eje central de las historias es el transporte público, ya que todas ellas suceden dentro de alguno de los medios de traslado del país.",
+      "inicio": "2026-11-08T18:00:00",
+      "fin": "2026-11-08T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rutasdelavida.jpg"
+    },
+    {
+      "titulo": "Mujeres rompiendo el silencio",
+      "descripcion": "Una serie que aborda temas relacionados con la situación de la mujer en la sociedad actual a través de testimonios y ofreciendo orientación.",
+      "inicio": "2026-11-08T20:00:00",
+      "fin": "2026-11-08T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Nada personal",
+      "descripcion": "Tres personas de diferentes grupos poblacionales se encuentran alrededor de una mesa. Sobre la mesa hay un par de dados y un juego de cartas. Los participantes lanzan los dados, y el que saque menor puntaje responde a las preguntas en las cartas.",
+      "inicio": "2026-11-08T22:00:00",
+      "fin": "2026-11-09T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nadapersonal.jpg"
+    },
+    {
+      "titulo": "Noticiero Hechos",
+      "descripcion": "Las noticias de El Salvador al momento. La realidad social, política y económica en sus diferentes emisiones.",
+      "inicio": "2026-11-09T00:30:00",
+      "fin": "2026-11-09T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lo que la gente cuenta",
+      "descripcion": "Leyendas populares y escalofriantes que aterrorizan hasta los más valientes. Historias aterradoras desde las localidades donde han sucedido.",
+      "inicio": "2026-11-09T02:30:00",
+      "fin": "2026-11-09T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loquelagentecuenta.jpg"
+    },
+    {
+      "titulo": "Mujeres rompiendo el silencio",
+      "descripcion": "Una serie que aborda temas relacionados con la situación de la mujer en la sociedad actual a través de testimonios y ofreciendo orientación.",
+      "inicio": "2026-11-09T04:00:00",
+      "fin": "2026-11-09T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rutas de la vida",
+      "descripcion": "La serie cuenta, en cada capítulo, una historia diferente con personajes nuevos. El eje central de las historias es el transporte público, ya que todas ellas suceden dentro de alguno de los medios de traslado del país.",
+      "inicio": "2026-11-09T05:00:00",
+      "fin": "2026-11-09T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rutasdelavida.jpg"
+    },
+    {
+      "titulo": "Mujeres rompiendo el silencio",
+      "descripcion": "Una serie que aborda temas relacionados con la situación de la mujer en la sociedad actual a través de testimonios y ofreciendo orientación.",
+      "inicio": "2026-11-09T06:00:00",
+      "fin": "2026-11-09T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lo que la gente cuenta",
+      "descripcion": "Leyendas populares y escalofriantes que aterrorizan hasta los más valientes. Historias aterradoras desde las localidades donde han sucedido.",
+      "inicio": "2026-11-09T07:00:00",
+      "fin": "2026-11-09T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loquelagentecuenta.jpg"
+    },
+    {
+      "titulo": "Mujeres rompiendo el silencio",
+      "descripcion": "Una serie que aborda temas relacionados con la situación de la mujer en la sociedad actual a través de testimonios y ofreciendo orientación.",
+      "inicio": "2026-11-09T09:00:00",
+      "fin": "2026-11-09T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hechos AM",
+      "descripcion": "Las noticias más destacadas y la mejor información con entrevistas sobre temas de interés general.",
+      "inicio": "2026-11-09T10:00:00",
+      "fin": "2026-11-09T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hechosam.jpg"
+    },
+    {
+      "titulo": "Nosotros, ustedes y hechos con los Ruiz Lara",
+      "descripcion": "Lo más relevante de las noticias actuales.",
+      "inicio": "2026-11-09T11:00:00",
+      "fin": "2026-11-09T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

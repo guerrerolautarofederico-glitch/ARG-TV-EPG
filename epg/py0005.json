@@ -1,102 +1,130 @@
 {
   "actual": {
-    "titulo": "Desayuno americano",
-    "descripcion": "Un magacín con todo el entretenimiento que se necesita. Todo lo referente al espectáculo, deportes y más.",
-    "inicio": "2026-11-07T10:30:00",
-    "fin": "2026-11-07T14:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/desayunoamericano.jpg"
+    "titulo": "Sálvese quien pueda",
+    "descripcion": "El propietario de una empresa de diseño y venta de yates decide echar a su diseñador más famoso. En seguida se da cuenta de que ha tomado la decisión de manera precipitada pues comprende que lo necesita para cerrar un importante trato con unos italianos. No le queda más remedio que tragarse su orgullo e ir en su busca, para lo que tendrá que dirigirse a un pueblo de la Francia profunda, donde las cosas no harán más que empeorar.",
+    "inicio": "2026-11-08T11:00:00",
+    "fin": "2026-11-08T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/salvesequienpueda.jpg"
   },
   "siguiente": {
-    "titulo": "Swiss nature labs",
-    "descripcion": "Espacio de contenido infomercial.",
-    "inicio": "2026-11-07T14:30:00",
-    "fin": "2026-11-07T18:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/swissnaturelabs.jpg"
+    "titulo": "Destinos y sabores",
+    "descripcion": "Con Rodrigo Cascón, Sebastián Coria",
+    "inicio": "2026-11-08T13:00:00",
+    "fin": "2026-11-08T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destinosysabores.jpg"
   },
   "lista": [
-    {
-      "titulo": "Desayuno americano",
-      "descripcion": "Un magacín con todo el entretenimiento que se necesita. Todo lo referente al espectáculo, deportes y más.",
-      "inicio": "2026-11-07T10:30:00",
-      "fin": "2026-11-07T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/desayunoamericano.jpg"
-    },
-    {
-      "titulo": "Swiss nature labs",
-      "descripcion": "Espacio de contenido infomercial.",
-      "inicio": "2026-11-07T14:30:00",
-      "fin": "2026-11-07T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/swissnaturelabs.jpg"
-    },
-    {
-      "titulo": "Tecno tendencias",
-      "descripcion": "Las últimas noticias y las tendencias en el mundo de los juegos y las aplicaciones.",
-      "inicio": "2026-11-07T18:00:00",
-      "fin": "2026-11-07T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tecnotendencias.jpg"
-    },
-    {
-      "titulo": "Agenda de viajes",
-      "descripcion": "Una producción dedicada a recorrer las distintas ofertas turísticas de la República Argentina. Un programa en el que todos tienen su espacio, que invita a conformar su propia Agenda de viajes.",
-      "inicio": "2026-11-07T19:00:00",
-      "fin": "2026-11-07T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/agendadeviajes.jpg"
-    },
-    {
-      "titulo": "Destinos y sabores",
-      "descripcion": "Con Rodrigo Cascón, Sebastián Coria",
-      "inicio": "2026-11-07T20:00:00",
-      "fin": "2026-11-07T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destinosysabores.jpg"
-    },
-    {
-      "titulo": "Chef en camino",
-      "descripcion": "Con Luis Abdo",
-      "inicio": "2026-11-07T21:00:00",
-      "fin": "2026-11-07T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pedalearg",
-      "descripcion": "Con Khaled Hallar",
-      "inicio": "2026-11-07T22:00:00",
-      "fin": "2026-11-07T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pedalearg.jpg"
-    },
-    {
-      "titulo": "Modo Foodie",
-      "descripcion": "Con Agustín Neglia",
-      "inicio": "2026-11-07T23:00:00",
-      "fin": "2026-11-08T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pasión de sábado",
-      "descripcion": "Presentación de los mejores grupos de la movida tropical.",
-      "inicio": "2026-11-08T00:00:00",
-      "fin": "2026-11-08T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasiondesabado.jpg"
-    },
-    {
-      "titulo": "Animérica",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-08T06:00:00",
-      "fin": "2026-11-08T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/animerica.jpg"
-    },
-    {
-      "titulo": "Swiss nature labs",
-      "descripcion": "Espacio de contenido infomercial.",
-      "inicio": "2026-11-08T07:00:00",
-      "fin": "2026-11-08T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/swissnaturelabs.jpg"
-    },
     {
       "titulo": "Sálvese quien pueda",
       "descripcion": "El propietario de una empresa de diseño y venta de yates decide echar a su diseñador más famoso. En seguida se da cuenta de que ha tomado la decisión de manera precipitada pues comprende que lo necesita para cerrar un importante trato con unos italianos. No le queda más remedio que tragarse su orgullo e ir en su busca, para lo que tendrá que dirigirse a un pueblo de la Francia profunda, donde las cosas no harán más que empeorar.",
       "inicio": "2026-11-08T11:00:00",
       "fin": "2026-11-08T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/salvesequienpueda.jpg"
+    },
+    {
+      "titulo": "Destinos y sabores",
+      "descripcion": "Con Rodrigo Cascón, Sebastián Coria",
+      "inicio": "2026-11-08T13:00:00",
+      "fin": "2026-11-08T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destinosysabores.jpg"
+    },
+    {
+      "titulo": "Agenda de viajes",
+      "descripcion": "Una producción dedicada a recorrer las distintas ofertas turísticas de la República Argentina. Un programa en el que todos tienen su espacio, que invita a conformar su propia Agenda de viajes.",
+      "inicio": "2026-11-08T14:00:00",
+      "fin": "2026-11-08T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/agendadeviajes.jpg"
+    },
+    {
+      "titulo": "Secretos verdaderos",
+      "descripcion": "Las biografías no autorizadas de los artistas más importantes del mundo del espectáculo, la política, el deporte y el jet set internacional.",
+      "inicio": "2026-11-08T15:00:00",
+      "fin": "2026-11-08T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/secretosverdaderos.jpg"
+    },
+    {
+      "titulo": "Modo Foodie",
+      "descripcion": "Con Agustín Neglia",
+      "inicio": "2026-11-08T17:00:00",
+      "fin": "2026-11-08T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Infama",
+      "descripcion": "Con Marcela Tauro",
+      "inicio": "2026-11-08T17:30:00",
+      "fin": "2026-11-08T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/infama.jpg"
+    },
+    {
+      "titulo": "En blanco y negro",
+      "descripcion": "Con Beto Rodriguez",
+      "inicio": "2026-11-08T20:00:00",
+      "fin": "2026-11-08T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enblancoynegro.jpg"
+    },
+    {
+      "titulo": "Chef en camino",
+      "descripcion": "Con Luis Abdo",
+      "inicio": "2026-11-08T21:00:00",
+      "fin": "2026-11-08T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Modo Chure",
+      "descripcion": "Con Freddy Vera",
+      "inicio": "2026-11-08T22:00:00",
+      "fin": "2026-11-08T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Modo Foodie",
+      "descripcion": "Con Agustín Neglia",
+      "inicio": "2026-11-08T23:00:00",
+      "fin": "2026-11-09T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pedalearg",
+      "descripcion": "Con Khaled Hallar",
+      "inicio": "2026-11-09T04:00:00",
+      "fin": "2026-11-09T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pedalearg.jpg"
+    },
+    {
+      "titulo": "Animérica",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-09T05:00:00",
+      "fin": "2026-11-09T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/animerica.jpg"
+    },
+    {
+      "titulo": "Agenda de viajes",
+      "descripcion": "Una producción dedicada a recorrer las distintas ofertas turísticas de la República Argentina. Un programa en el que todos tienen su espacio, que invita a conformar su propia Agenda de viajes.",
+      "inicio": "2026-11-09T06:00:00",
+      "fin": "2026-11-09T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/agendadeviajes.jpg"
+    },
+    {
+      "titulo": "América Noticias 1ra edición",
+      "descripcion": "Con Diego Martinez, Ingrid Noguera, Walter Estigarribia",
+      "inicio": "2026-11-09T07:00:00",
+      "fin": "2026-11-09T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Buenos Días América",
+      "descripcion": "Con Claudia Melgarejo, Jotita Bernabé, Euclides Acevedo, Lisel Recalde",
+      "inicio": "2026-11-09T08:30:00",
+      "fin": "2026-11-09T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las Chicas del Ring",
+      "descripcion": "Con Yulieth Muller, Estefanía Mendoza, Gabriela Ovelar",
+      "inicio": "2026-11-09T10:30:00",
+      "fin": "2026-11-09T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

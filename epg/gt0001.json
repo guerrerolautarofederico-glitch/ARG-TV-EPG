@@ -1,80 +1,73 @@
 {
   "actual": {
-    "titulo": "La guerra de los sexos",
-    "descripcion": "En esta batalla de géneros habrá diferentes secciones de juegos o yincanas, en las cuales se medirán las habilidades y destrezas de los equipos femenino y masculino, en una competencia dinámica y alegre.",
-    "inicio": "2026-11-07T09:00:00",
-    "fin": "2026-11-07T11:35:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-  },
-  "siguiente": {
     "titulo": "Por confirmar",
     "descripcion": "Programación pendiente de confirmación.",
-    "inicio": "2026-11-07T11:35:00",
-    "fin": "2026-11-07T21:45:00",
+    "inicio": "2026-11-08T11:35:00",
+    "fin": "2026-11-08T21:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/porconfirmar.jpg"
+  },
+  "siguiente": {
+    "titulo": "Telediario",
+    "descripcion": "Telediario es el programa informativo de referencia de Televisión Española. Con tres ediciones diarias entre semana y cuatro ediciones en el fin de semana, informa de las noticias más relevantes en los ámbitos nacional, internacional, social, deportivo y meteorológico.",
+    "inicio": "2026-11-08T21:45:00",
+    "fin": "2026-11-08T23:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario.jpg"
   },
   "lista": [
     {
-      "titulo": "La guerra de los sexos",
-      "descripcion": "En esta batalla de géneros habrá diferentes secciones de juegos o yincanas, en las cuales se medirán las habilidades y destrezas de los equipos femenino y masculino, en una competencia dinámica y alegre.",
-      "inicio": "2026-11-07T09:00:00",
-      "fin": "2026-11-07T11:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
       "titulo": "Por confirmar",
       "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-11-07T11:35:00",
-      "fin": "2026-11-07T21:45:00",
+      "inicio": "2026-11-08T11:35:00",
+      "fin": "2026-11-08T21:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/porconfirmar.jpg"
     },
     {
       "titulo": "Telediario",
       "descripcion": "Telediario es el programa informativo de referencia de Televisión Española. Con tres ediciones diarias entre semana y cuatro ediciones en el fin de semana, informa de las noticias más relevantes en los ámbitos nacional, internacional, social, deportivo y meteorológico.",
-      "inicio": "2026-11-07T21:45:00",
-      "fin": "2026-11-07T23:00:00",
+      "inicio": "2026-11-08T21:45:00",
+      "fin": "2026-11-08T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario.jpg"
     },
     {
-      "titulo": "Como dice el dicho",
-      "descripcion": "Dramatización de situaciones de la vida real y las historias que se relacionan con dichos populares, por Don Tomas.",
-      "inicio": "2026-11-07T23:00:00",
-      "fin": "2026-11-08T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comodiceeldicho.jpg"
+      "titulo": "Expedientes",
+      "descripcion": "Expediente X es una serie de televisión estadounidense de ciencia ficción y misterio, que emitió la cadena FOX y fue creada por Chris Carter, centrada en los casos que investigan dos agentes del FBI, clasificados como \"Expedientes X\": fenómenos paranormales, avistamiento de ovnis, criaturas extrañas, etc.\n\nLa serie ha sido uno de los mayores éxitos de la cadena FOX. Sus personajes y frases se han convertido en iconos de la cultura popular al explotar e inspirar una gran cantidad de teorías sobre conspiraciones y existencia de vida extraterrestre.",
+      "inicio": "2026-11-08T23:00:00",
+      "fin": "2026-11-09T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/expedientes.jpg"
     },
     {
-      "titulo": "La rosa de Guadalupe",
-      "descripcion": "La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros. Una rosa blanca aparecerá como símbolo de las peticiones, que el personaje o protagonista invocará, siempre ante la imagen de ella.",
-      "inicio": "2026-11-08T00:00:00",
-      "fin": "2026-11-08T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larosadeguadalupe.jpg"
-    },
-    {
-      "titulo": "Al sur de la frontera",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-08T01:00:00",
-      "fin": "2026-11-08T02:00:00",
+      "titulo": "Vikingos",
+      "descripcion": "Ragnar Lothbrok, un joven granjero y hombre de familia, cuestiona la política conservadora del jefe de su tribu. Posee una gran ambición por descubrir civilizaciones hacia el oeste, que lo lleva a construir una nueva generación de barcos.",
+      "inicio": "2026-11-09T00:00:00",
+      "fin": "2026-11-09T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las aventuras del capitán Alatriste",
+      "descripcion": "En una sociedad, la orgullosa y soberbia España del Siglo de Oro, que cabalga ciega hacia el fin del imperio y en la que el honor y la lealtad lo son todo, un soldado español que ha recorrido media Europa luchando bajo la bandera del Tercio Viejo de Cartagena, sobrevive en el Madrid de los Austrias como mercenario, espadachín a sueldo a cuatro maravedís el encargo. Hombre valiente, honesto y leal, Diego Alatriste y Tenorio se verá envuelto en intrigas palaciegas y conspiraciones de diversa índole que le obligarán a hacer buen uso de su acero.",
+      "inicio": "2026-11-09T01:00:00",
+      "fin": "2026-11-09T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lasaventurasdelcapitanalatriste.jpg"
     },
     {
       "titulo": "Criminal Minds",
       "descripcion": "La UAC es una sección del FBI donde trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías locales en la búsqueda y captura de los asesinos en serie.",
-      "inicio": "2026-11-08T02:00:00",
-      "fin": "2026-11-08T03:00:00",
+      "inicio": "2026-11-09T02:00:00",
+      "fin": "2026-11-09T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/criminalminds.jpg"
     },
     {
       "titulo": "Cierre de transmisiones",
       "descripcion": "Fin de emisión diaria del canal.",
-      "inicio": "2026-11-08T03:00:00",
-      "fin": "2026-11-08T09:00:00",
+      "inicio": "2026-11-09T03:00:00",
+      "fin": "2026-11-09T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
     },
     {
-      "titulo": "La guerra de los sexos",
-      "descripcion": "En esta batalla de géneros habrá diferentes secciones de juegos o yincanas, en las cuales se medirán las habilidades y destrezas de los equipos femenino y masculino, en una competencia dinámica y alegre.",
-      "inicio": "2026-11-08T09:00:00",
-      "fin": "2026-11-08T11:35:00",
+      "titulo": "Telediario matutino",
+      "descripcion": "Un espacio periodístico que brinda información sobre los acontecimientos más relevantes a nivel regional, nacional e internacional.",
+      "inicio": "2026-11-09T09:00:00",
+      "fin": "2026-11-09T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

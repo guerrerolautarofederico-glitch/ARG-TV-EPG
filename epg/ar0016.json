@@ -1,171 +1,101 @@
 {
   "actual": {
-    "titulo": "Vivo el sábado x A24",
-    "descripcion": "Actualidad, información, móviles en vivo, corresponsales en todo el país y en el mundo desde el lugar de los hechos.",
-    "inicio": "2026-11-07T07:00:00",
-    "fin": "2026-11-07T13:00:00",
+    "titulo": "Vivo el domingo",
+    "descripcion": "Programa informativo que lleva a los espectadores las noticias de los eventos más importantes de Argentina y del mundo.",
+    "inicio": "2026-11-08T09:00:00",
+    "fin": "2026-11-08T14:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Lo justo y necesario",
-    "descripcion": "Información precisa para los jubilados, con novedades en el área de previsión, días de cobro, servicios y los temas que más interesan en materia de seguridad social de Argentina.",
-    "inicio": "2026-11-07T13:00:00",
-    "fin": "2026-11-07T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Mundo visual",
+    "descripcion": "Recorrida por los destinos turísticos más importantes de Argentina y el mundo, con información práctica de un viajero experimentado.",
+    "inicio": "2026-11-08T14:00:00",
+    "fin": "2026-11-08T15:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundovisual.jpg"
   },
   "lista": [
-    {
-      "titulo": "Vivo el sábado x A24",
-      "descripcion": "Actualidad, información, móviles en vivo, corresponsales en todo el país y en el mundo desde el lugar de los hechos.",
-      "inicio": "2026-11-07T07:00:00",
-      "fin": "2026-11-07T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lo justo y necesario",
-      "descripcion": "Información precisa para los jubilados, con novedades en el área de previsión, días de cobro, servicios y los temas que más interesan en materia de seguridad social de Argentina.",
-      "inicio": "2026-11-07T13:00:00",
-      "fin": "2026-11-07T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Todo en uno",
-      "descripcion": "Un programa periodístico que brinda información acerca de las noticias de la actualidad, junto con entrevistas y móviles en vivo.",
-      "inicio": "2026-11-07T14:00:00",
-      "fin": "2026-11-07T16:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El secreto mejor guardado",
-      "descripcion": "Programa médico que se adentra en el misterioso y cambiante mundo de la belleza desde una perspectiva médica y de salud. El cirujano plástico Fernando Felice se embarca en un viaje para descubrir el verdadero significado de la belleza.",
-      "inicio": "2026-11-07T16:15:00",
-      "fin": "2026-11-07T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "América noticias central",
-      "descripcion": "Experiencia y calidad, el noticiero estelar de mayor credibilidad.",
-      "inicio": "2026-11-07T17:00:00",
-      "fin": "2026-11-07T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/americanoticiascentral.jpg"
-    },
-    {
-      "titulo": "Transición 2030: Hacia un país de energías limpias",
-      "descripcion": "Argentina, así como el resto de Latinoamérica, tienen un enorme potencial en cuanto a la implementación de energías renovables se refiere.",
-      "inicio": "2026-11-07T20:00:00",
-      "fin": "2026-11-07T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mundo visual",
-      "descripcion": "Recorrida por los destinos turísticos más importantes de Argentina y el mundo, con información práctica de un viajero experimentado.",
-      "inicio": "2026-11-07T21:00:00",
-      "fin": "2026-11-07T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundovisual.jpg"
-    },
-    {
-      "titulo": "¿Qué hacemos con los pesos?",
-      "descripcion": "Un programa de economía y finanzas que, junto con un panel de reconocidos invitados, intenta buscar soluciones para las personas y los empresarios.",
-      "inicio": "2026-11-07T22:00:00",
-      "fin": "2026-11-07T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Especiales A24",
-      "descripcion": "Especial que recuenta las noticias e historias memorables durante el pasado año.",
-      "inicio": "2026-11-07T23:00:00",
-      "fin": "2026-11-08T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tecno tendencias",
-      "descripcion": "Las últimas noticias y las tendencias en el mundo de los juegos y las aplicaciones.",
-      "inicio": "2026-11-08T00:00:00",
-      "fin": "2026-11-08T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tecnotendencias.jpg"
-    },
-    {
-      "titulo": "LP Moda",
-      "descripcion": "Leo Paparella muestra, a través de cambios de look, cómo para cada tipo de rostro hay un corte de cabello adecuado y para cada tono de piel hay una coloración que marca el verdadero estilo y personalidad de la mujer o el hombre moderno. El famoso estilista intenta orientar a los televidentes a través de diferentes secciones informativas, lo cual hace de este un excelente magazine de moda y servicios.",
-      "inicio": "2026-11-08T00:30:00",
-      "fin": "2026-11-08T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Transición 2030: Hacia un país de energías limpias",
-      "descripcion": "Argentina, así como el resto de Latinoamérica, tienen un enorme potencial en cuanto a la implementación de energías renovables se refiere.",
-      "inicio": "2026-11-08T01:00:00",
-      "fin": "2026-11-08T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TeveCompras",
-      "descripcion": "Compras por TV donde encuentra los últimos productos del mercado.",
-      "inicio": "2026-11-08T02:00:00",
-      "fin": "2026-11-08T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tevecompras.jpg"
-    },
-    {
-      "titulo": "El secreto mejor guardado",
-      "descripcion": "Programa médico que se adentra en el misterioso y cambiante mundo de la belleza desde una perspectiva médica y de salud. El cirujano plástico Fernando Felice se embarca en un viaje para descubrir el verdadero significado de la belleza.",
-      "inicio": "2026-11-08T03:00:00",
-      "fin": "2026-11-08T03:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tecno tendencias",
-      "descripcion": "Las últimas noticias y las tendencias en el mundo de los juegos y las aplicaciones.",
-      "inicio": "2026-11-08T03:45:00",
-      "fin": "2026-11-08T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tecnotendencias.jpg"
-    },
-    {
-      "titulo": "Ambiente y medio",
-      "descripcion": "Un programa de periodismo aplicado a la ecología. Un espacio amplio que abarca desde la explicación de los procesos que conducen a problemas ambientales hasta las formas de enfrentarlos.",
-      "inicio": "2026-11-08T04:00:00",
-      "fin": "2026-11-08T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ambienteymedio.jpg"
-    },
-    {
-      "titulo": "Especiales A24",
-      "descripcion": "Especial que recuenta las noticias e historias memorables durante el pasado año.",
-      "inicio": "2026-11-08T05:00:00",
-      "fin": "2026-11-08T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tecno tendencias",
-      "descripcion": "Las últimas noticias y las tendencias en el mundo de los juegos y las aplicaciones.",
-      "inicio": "2026-11-08T06:00:00",
-      "fin": "2026-11-08T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tecnotendencias.jpg"
-    },
-    {
-      "titulo": "Boca es Boca",
-      "descripcion": "Información y actualidad de todo lo que acontece en el mundo Boca. Notas, sorteos, la opinión de la gente y un poquito de humor.",
-      "inicio": "2026-11-08T06:30:00",
-      "fin": "2026-11-08T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lo justo y necesario",
-      "descripcion": "Información precisa para los jubilados, con novedades en el área de previsión, días de cobro, servicios y los temas que más interesan en materia de seguridad social de Argentina.",
-      "inicio": "2026-11-08T07:00:00",
-      "fin": "2026-11-08T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mundo visual",
-      "descripcion": "Recorrida por los destinos turísticos más importantes de Argentina y el mundo, con información práctica de un viajero experimentado.",
-      "inicio": "2026-11-08T08:00:00",
-      "fin": "2026-11-08T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundovisual.jpg"
-    },
     {
       "titulo": "Vivo el domingo",
       "descripcion": "Programa informativo que lleva a los espectadores las noticias de los eventos más importantes de Argentina y del mundo.",
       "inicio": "2026-11-08T09:00:00",
       "fin": "2026-11-08T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mundo visual",
+      "descripcion": "Recorrida por los destinos turísticos más importantes de Argentina y el mundo, con información práctica de un viajero experimentado.",
+      "inicio": "2026-11-08T14:00:00",
+      "fin": "2026-11-08T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundovisual.jpg"
+    },
+    {
+      "titulo": "América noticias central",
+      "descripcion": "Experiencia y calidad, el noticiero estelar de mayor credibilidad.",
+      "inicio": "2026-11-08T15:00:00",
+      "fin": "2026-11-08T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/americanoticiascentral.jpg"
+    },
+    {
+      "titulo": "América noticias edición especial",
+      "descripcion": "Una edición especial del noticiero estelar de mayor credibilidad.",
+      "inicio": "2026-11-08T19:00:00",
+      "fin": "2026-11-08T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "GPS",
+      "descripcion": "Investigaciones sobre diversos temas políticos, policiales y de interés general, con entrevistas a expertos en el tema.",
+      "inicio": "2026-11-08T20:00:00",
+      "fin": "2026-11-08T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/gps.jpg"
+    },
+    {
+      "titulo": "Tecno tendencias",
+      "descripcion": "Las últimas noticias y las tendencias en el mundo de los juegos y las aplicaciones.",
+      "inicio": "2026-11-08T23:00:00",
+      "fin": "2026-11-09T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tecnotendencias.jpg"
+    },
+    {
+      "titulo": "Lo mejor de A24",
+      "descripcion": "Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.",
+      "inicio": "2026-11-09T00:00:00",
+      "fin": "2026-11-09T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lo mejor de A24",
+      "descripcion": "Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.",
+      "inicio": "2026-11-09T01:00:00",
+      "fin": "2026-11-09T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TeveCompras",
+      "descripcion": "Compras por TV donde encuentra los últimos productos del mercado.",
+      "inicio": "2026-11-09T02:00:00",
+      "fin": "2026-11-09T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tevecompras.jpg"
+    },
+    {
+      "titulo": "Lo mejor de A24",
+      "descripcion": "Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.",
+      "inicio": "2026-11-09T03:00:00",
+      "fin": "2026-11-09T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Otra mañana",
+      "descripcion": "Un espacio que ofrece al público todos los detalles y noticias exclusivas sobre la realidad social y política argentina. A través de los informes y las entrevistas, el público podrá formar su opinión sobre los acontecimientos de relevancia.",
+      "inicio": "2026-11-09T05:00:00",
+      "fin": "2026-11-09T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Buen día A24",
+      "descripcion": "El análisis de las noticias más importantes de la jornada.",
+      "inicio": "2026-11-09T10:00:00",
+      "fin": "2026-11-09T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

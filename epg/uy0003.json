@@ -1,150 +1,164 @@
 {
   "actual": {
-    "titulo": "Comisario Rex",
-    "descripcion": "Espacio que narra las aventuras de un perro de raza pastor alemán llamado Rex. A las órdenes del Inspector Moser y dos comisarios de la brigada Anticrimen de Viena, este canino tratará de interceptar a los criminales más buscados del país para obligarles a cumplir la ley.",
-    "inicio": "2026-11-07T11:30:00",
-    "fin": "2026-11-07T12:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisariorex.jpg"
+    "titulo": "Telemundo especial: Visita Papa Léon XIV",
+    "descripcion": "Cobertura especial de la visita histórica del Papa León XIV a Uruguay.",
+    "inicio": "2026-11-08T09:45:00",
+    "fin": "2026-11-08T12:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "La ley de los audaces",
-    "descripcion": "Mike Ross, un joven con una mente brillante pero lleno de conflictos, se topa por error con la entrevista de trabajo de Harvey Specter, un trabajador en ascenso que busca un abogado joven para contratar.",
-    "inicio": "2026-11-07T12:30:00",
-    "fin": "2026-11-07T14:00:00",
+    "titulo": "Polideportivo",
+    "descripcion": "Vuelve el clásico de los domingos con los especialistas en cada deporte. Todo el fútbol local e internacional, información, mesa de debate, móviles en vivo y entrevistas a los protagonistas.",
+    "inicio": "2026-11-08T12:30:00",
+    "fin": "2026-11-08T15:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Comisario Rex",
-      "descripcion": "Espacio que narra las aventuras de un perro de raza pastor alemán llamado Rex. A las órdenes del Inspector Moser y dos comisarios de la brigada Anticrimen de Viena, este canino tratará de interceptar a los criminales más buscados del país para obligarles a cumplir la ley.",
-      "inicio": "2026-11-07T11:30:00",
-      "fin": "2026-11-07T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisariorex.jpg"
-    },
-    {
-      "titulo": "La ley de los audaces",
-      "descripcion": "Mike Ross, un joven con una mente brillante pero lleno de conflictos, se topa por error con la entrevista de trabajo de Harvey Specter, un trabajador en ascenso que busca un abogado joven para contratar.",
-      "inicio": "2026-11-07T12:30:00",
-      "fin": "2026-11-07T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Chicago Med",
-      "descripcion": "Un viaje emocional a través del caos del día a día del hospital más explosivo de la ciudad y el equipo que lo mantiene unido. Los médicos y enfermeros deben enfrentar desafíos a diario al tratar a sus pacientes, mientras lidian con sus propios problemas.",
-      "inicio": "2026-11-07T14:00:00",
-      "fin": "2026-11-07T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chicagomed.jpg"
-    },
-    {
-      "titulo": "Chicago Fire",
-      "descripcion": "No hay trabajo más estresante, peligroso o emocionante que el de los rescatistas y paramédicos del Destacamento de Bomberos de Chicago. Estos valientes hombres y mujeres se lanzan de cabeza al peligro cuando todos los demás corren en dirección contraria. Pero las enormes responsabilidades que implica el trabajo también tienen su precio.",
-      "inicio": "2026-11-07T15:00:00",
-      "fin": "2026-11-07T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chicagofire.jpg"
-    },
-    {
-      "titulo": "Chicago P.D",
-      "descripcion": "Sigue a los hombres y mujeres del departamento de la delegación de Chicago que lo ponen todo en la línea de fuego para servir y proteger su comunidad. Compuesto por dos grupos muy diferentes: los oficiales uniformados que patrullan y capturan a los criminales de la calle y la Unidad de Inteligencia que combate los principales delitos, el narcotráfico y asesinatos de alto perfil.",
-      "inicio": "2026-11-07T16:00:00",
-      "fin": "2026-11-07T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chicagopd.jpg"
-    },
-    {
-      "titulo": "Por confirmar",
-      "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-11-07T17:00:00",
-      "fin": "2026-11-07T18:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/porconfirmar.jpg"
-    },
-    {
-      "titulo": "Telemundo sábado",
-      "descripcion": "La noticia como nunca la viste en Telemundo. Histórico noticiero uruguayo el cual es transmitido desde el 10 de junio de 1968 por Teledoce. En la actualidad cuenta con tres ediciones diarias de lunes a viernes y una edición diaria los fines de semana.",
-      "inicio": "2026-11-07T18:55:00",
-      "fin": "2026-11-07T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Por confirmar",
-      "descripcion": "Programación pendiente de confirmación.",
-      "inicio": "2026-11-07T20:30:00",
-      "fin": "2026-11-07T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/porconfirmar.jpg"
-    },
-    {
-      "titulo": "PH: Podemos hablar",
-      "descripcion": "Seis reconocidos invitados, con diferentes personalidades y profesiones, se encuentran un sábado a la noche y comparten una cena y charlas sobre temas variados de la actualidad y de cada uno de ellos.",
-      "inicio": "2026-11-07T22:30:00",
-      "fin": "2026-11-08T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/phpodemoshablar.jpg"
-    },
-    {
-      "titulo": "Telemundo sábado",
-      "descripcion": "Repetición ║ La noticia como nunca la viste en Telemundo. Histórico noticiero uruguayo el cual es transmitido desde el 10 de junio de 1968 por Teledoce. En la actualidad cuenta con tres ediciones diarias de lunes a viernes y una edición diaria los fines de semana.",
-      "inicio": "2026-11-08T00:30:00",
-      "fin": "2026-11-08T01:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Algo que decir",
-      "descripcion": "Repetición ║ Un espacio que invita a combinar actualidad, humor, música, desafíos y sorpresas, de una forma lúdica y divertida. Pablo Fabregat recibe a cuatro invitados que se animan a compartir sus anécdotas más íntimas y mucho más.",
-      "inicio": "2026-11-08T01:45:00",
-      "fin": "2026-11-08T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Verdaderos culpables",
-      "descripcion": "Repetición ║ Comediantes, invitados, música y sketches transforman la actualidad y la vida cotidiana en risas, con ritmo ágil, tribuna y participación del público.",
-      "inicio": "2026-11-08T03:00:00",
-      "fin": "2026-11-08T03:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Vértigo",
-      "descripcion": "Repetición ║ Scottie Fergusson es un detective de la policía de San Francisco que padece de vértigo. Cuando un compañero cae al vacío desde una cornisa mientras persiguen a un delincuente, Scottie decide retirarse. Gavin Elster, un viejo amigo del colegio, lo contrata para que vigile a su esposa Madeleine, una bella mujer que está obsesionada con su pasado.",
-      "inicio": "2026-11-08T03:45:00",
-      "fin": "2026-11-08T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vertigo.jpg"
-    },
-    {
-      "titulo": "La receta",
-      "descripcion": "Repetición ║ Catalina Palleja nos acerca increíbles recetas, buenos consejos y nuevos tips para que disfrutes de tu cocina.",
-      "inicio": "2026-11-08T04:30:00",
-      "fin": "2026-11-08T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lareceta.jpg"
-    },
-    {
-      "titulo": "Run Fit",
-      "descripcion": "Repetición ║ Pasión, adrenalina, velocidad, competencia, objetivos, aventura y mucho más en este espacio dedicado a cubrir toda la movida del running, atletismo y triatlón en Uruguay.",
-      "inicio": "2026-11-08T06:00:00",
-      "fin": "2026-11-08T06:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A todo o nada",
-      "descripcion": "Repetición ║ Diversos participantes compiten a lo largo de espectaculares desafíos para alcanzar grandes premios. Un espacio divertido, pensado para ver y disfrutar en familia.",
-      "inicio": "2026-11-08T06:45:00",
-      "fin": "2026-11-08T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/atodoonada.jpg"
-    },
-    {
-      "titulo": "Agronegocios TV",
-      "descripcion": "Un espacio que ofrece una mirada desde el norte del Agro Nacional, recogiendo testimonios, recorriendo los campos del país y buscando la palabra de los protagonistas del principal aparato productivo del Uruguay. Informacion confiable, que le sirva a los productores a la hora de la toma de decisiones, tocando todos los sectores de los Agronegocios.",
-      "inicio": "2026-11-08T08:00:00",
-      "fin": "2026-11-08T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Americando",
-      "descripcion": "Tomando la historia como un relato vivo de la identidad uruguaya, esta propuesta defiende un modelo cultural que nos pone de frente con el sentir nacional y la tradición de los gurises, usando el estilo propio de Juan Carlos López. Desde el afilador de cuchillos del barrio hasta un jugador de fútbol reconocido, todas son historias sumamente valiosas que este segmento te va a compartir.",
-      "inicio": "2026-11-08T08:30:00",
-      "fin": "2026-11-08T10:00:00",
+      "titulo": "Telemundo especial: Visita Papa Léon XIV",
+      "descripcion": "Cobertura especial de la visita histórica del Papa León XIV a Uruguay.",
+      "inicio": "2026-11-08T09:45:00",
+      "fin": "2026-11-08T12:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Polideportivo",
       "descripcion": "Vuelve el clásico de los domingos con los especialistas en cada deporte. Todo el fútbol local e internacional, información, mesa de debate, móviles en vivo y entrevistas a los protagonistas.",
-      "inicio": "2026-11-08T10:00:00",
-      "fin": "2026-11-08T14:00:00",
+      "inicio": "2026-11-08T12:30:00",
+      "fin": "2026-11-08T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telemundo especial: Visita Papa Léon XIV",
+      "descripcion": "Cobertura especial de la visita histórica del Papa León XIV a Uruguay.",
+      "inicio": "2026-11-08T15:00:00",
+      "fin": "2026-11-08T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hudson & Rex • Perdido en los Barrens",
+      "descripcion": "Perdido en los Barrens | Cuando una joven desaparece en The Barrens, las sospechas se dirigen al novio de la mujer y le corresponde al equipo descubrir la verdad detrás de su desaparición.",
+      "inicio": "2026-11-08T16:00:00",
+      "fin": "2026-11-08T16:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hudsonrex.jpg"
+    },
+    {
+      "titulo": "Hudson & Rex • El club de las vidas perdidas",
+      "descripcion": "El club de las vidas perdidas | Después de que un popular fisioterapeuta es asesinado, el equipo debe investigar a las víctimas de sus presuntas agresiones sexuales para localizar al asesino antes de que vuelva a atacar.",
+      "inicio": "2026-11-08T16:40:00",
+      "fin": "2026-11-08T17:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hudsonrex.jpg"
+    },
+    {
+      "titulo": "Hudson & Rex",
+      "descripcion": "El detective Charlie Hudson del Departamento de Policía de St. John forma equipo con Rex, un pastor alemán K9. Con el hábil trabajo detectivesco de Charlie y los agudos sentidos caninos de Rex, esta pareja sale a luchar contra el crimen.",
+      "inicio": "2026-11-08T17:20:00",
+      "fin": "2026-11-08T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hudsonrex.jpg"
+    },
+    {
+      "titulo": "NCIS: Sydney • The Truth Is Outback",
+      "descripcion": "The Truth Is Outback | Cuando un piloto de la Marina de los EE. UU. desaparece en un punto crítico de ovnis, el equipo debe descubrir si la verdad está realmente 'ahí afuera'.",
+      "inicio": "2026-11-08T18:00:00",
+      "fin": "2026-11-08T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telemundo dominical",
+      "descripcion": "Un análisis profundo y detallado sobre la devaluación de la moneda, inflación y mucho más, junto a los principales titulares de economía. Telemundo dominical se instala como el informativo central más visto.",
+      "inicio": "2026-11-08T19:00:00",
+      "fin": "2026-11-08T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Caraduras",
+      "descripcion": "Leonardo Pacella y Germán Medina, dos conocidos caraduras, recorren Uruguay en busca historias, personajes y eventos imperdibles. El humor espontáneo de la gente y la complicidad de nuestros viajeros los lleva a vivir experiencias únicas.",
+      "inicio": "2026-11-08T20:30:00",
+      "fin": "2026-11-08T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sorteo del 5 de oro",
+      "descripcion": "Lotería en la que se anuncian los números ganadores del par millonario, triples y terminales, para que pruebes tu suerte y ganes al instante.",
+      "inicio": "2026-11-08T22:00:00",
+      "fin": "2026-11-08T22:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Doble vía",
+      "descripcion": "Leonardo Haberkorn y Juanchi Hounie entrevistan en profundidad a una personalidad de la cultura, la política, el arte, las ciencias y el deporte. Una apuesta a la palabra, a tomarse el tiempo para escuchar y descubrir.",
+      "inicio": "2026-11-08T22:05:00",
+      "fin": "2026-11-08T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Verdaderos culpables",
+      "descripcion": "Comediantes, invitados, música y sketches transforman la actualidad y la vida cotidiana en risas, con ritmo ágil, tribuna y participación del público.",
+      "inicio": "2026-11-08T23:00:00",
+      "fin": "2026-11-09T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Terapia alternativa • Cómo hacer que tu vida no sea tan mierda",
+      "descripcion": "Cómo hacer que tu vida no sea tan mierda | Separar a sus nuevos pacientes se vuelve un desafío personal para Selva, quien está dispuesta a cruzar todo límite profesional. Mientras tanto, Elías y Malena obtienen polémicos resultados en su desafío.",
+      "inicio": "2026-11-09T00:00:00",
+      "fin": "2026-11-09T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/terapiaalternativa.jpg"
+    },
+    {
+      "titulo": "Telemundo dominical",
+      "descripcion": "Repetición ║ Un análisis profundo y detallado sobre la devaluación de la moneda, inflación y mucho más, junto a los principales titulares de economía. Telemundo dominical se instala como el informativo central más visto.",
+      "inicio": "2026-11-09T00:45:00",
+      "fin": "2026-11-09T02:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Americando",
+      "descripcion": "Repetición ║ Tomando la historia como un relato vivo de la identidad uruguaya, esta propuesta defiende un modelo cultural que nos pone de frente con el sentir nacional y la tradición de los gurises, usando el estilo propio de Juan Carlos López. Desde el afilador de cuchillos del barrio hasta un jugador de fútbol reconocido, todas son historias sumamente valiosas que este segmento te va a compartir.",
+      "inicio": "2026-11-09T02:15:00",
+      "fin": "2026-11-09T03:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Verdaderos culpables",
+      "descripcion": "Repetición ║ Comediantes, invitados, música y sketches transforman la actualidad y la vida cotidiana en risas, con ritmo ágil, tribuna y participación del público.",
+      "inicio": "2026-11-09T03:15:00",
+      "fin": "2026-11-09T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La receta",
+      "descripcion": "Repetición ║ Catalina Palleja nos acerca increíbles recetas, buenos consejos y nuevos tips para que disfrutes de tu cocina.",
+      "inicio": "2026-11-09T04:00:00",
+      "fin": "2026-11-09T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lareceta.jpg"
+    },
+    {
+      "titulo": "Caraduras",
+      "descripcion": "Repetición ║ Leonardo Pacella y Germán Medina, dos conocidos caraduras, recorren Uruguay en busca historias, personajes y eventos imperdibles. El humor espontáneo de la gente y la complicidad de nuestros viajeros los lleva a vivir experiencias únicas.",
+      "inicio": "2026-11-09T05:30:00",
+      "fin": "2026-11-09T06:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telemundo de mañana",
+      "descripcion": "Conozca los titulares que encabezan los principales medios nacionales e internacionales en el ámbito político, económico, social, cultural y deportivo, con datos de interés, reportajes y entrevistas exclusivas. La información de la calle, el clima y mucho más.",
+      "inicio": "2026-11-09T06:55:00",
+      "fin": "2026-11-09T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Desayunos informales - Primera mañana",
+      "descripcion": "Tu mañana se renueva con los divertidos desayunos informales. Disfruta de una propuesta diferente, diseñada especialmente para ti, y arranca el día de la mejor manera.",
+      "inicio": "2026-11-09T08:00:00",
+      "fin": "2026-11-09T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Desayunos informales - Segunda mañana",
+      "descripcion": "Victoria Zangaro y Jorge 'Coco' Echagüe, junto a Lucia Brocal, Marcel Keoroglian, Martín Angolini y Camila Rajchman, se encargarán de sumar alegría a las mañanas.",
+      "inicio": "2026-11-09T10:00:00",
+      "fin": "2026-11-09T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

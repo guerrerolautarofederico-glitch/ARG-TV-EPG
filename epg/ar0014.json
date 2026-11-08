@@ -1,115 +1,108 @@
 {
   "actual": {
-    "titulo": "El diario del sábado",
-    "descripcion": "Un programa que informa de manera ágil, divertida y amena.",
-    "inicio": "2026-11-07T10:00:00",
-    "fin": "2026-11-07T13:00:00",
+    "titulo": "El diario del domingo",
+    "descripcion": "Un programa noticioso con móviles en vivo e invitados especiales.",
+    "inicio": "2026-11-08T10:00:00",
+    "fin": "2026-11-08T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Turismo y hospitalidad",
-    "descripcion": "Lo mejor del turismo nacional e internacional. Además, los secretos de la hospitalidad.",
-    "inicio": "2026-11-07T13:00:00",
-    "fin": "2026-11-07T14:00:00",
+    "titulo": "Las imágenes más espectaculares",
+    "descripcion": "Espacio en el que se presentan imágenes donde se evidencian escenas de experimentos, lugares, personas y hechos insólitos para sorprender, entretener y divertir al espectador, con un toque irónico y de humor.",
+    "inicio": "2026-11-08T13:00:00",
+    "fin": "2026-11-08T15:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "El diario del sábado",
-      "descripcion": "Un programa que informa de manera ágil, divertida y amena.",
-      "inicio": "2026-11-07T10:00:00",
-      "fin": "2026-11-07T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Turismo y hospitalidad",
-      "descripcion": "Lo mejor del turismo nacional e internacional. Además, los secretos de la hospitalidad.",
-      "inicio": "2026-11-07T13:00:00",
-      "fin": "2026-11-07T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Resumen 26",
-      "descripcion": "Las noticias más trascendentes de la jornada, juntas en un programa.",
-      "inicio": "2026-11-07T14:00:00",
-      "fin": "2026-11-07T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La tarde del finde",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T16:30:00",
-      "fin": "2026-11-07T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "26 Historia",
-      "descripcion": "Un viaje a través del tiempo para observar sucesos y personajes históricos que son relacionados con la coyuntura y la actualidad.",
-      "inicio": "2026-11-07T19:00:00",
-      "fin": "2026-11-07T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Resumen 26",
-      "descripcion": "Las noticias más trascendentes de la jornada, juntas en un programa.",
-      "inicio": "2026-11-07T19:30:00",
-      "fin": "2026-11-07T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "26 global",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-07T20:00:00",
-      "fin": "2026-11-07T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Informe Klipphan",
-      "descripcion": "Un programa de investigación que aborda los temas más interesantes de la actualidad.",
-      "inicio": "2026-11-07T20:30:00",
-      "fin": "2026-11-07T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Las imágenes más espectaculares",
-      "descripcion": "Espacio en el que se presentan imágenes donde se evidencian escenas de experimentos, lugares, personas y hechos insólitos para sorprender, entretener y divertir al espectador, con un toque irónico y de humor.",
-      "inicio": "2026-11-07T21:00:00",
-      "fin": "2026-11-07T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Realidades del mundo",
-      "descripcion": "Ciclo grabado íntegramente en exteriores que recorre Europa y otros continentes con el objetivo de dar a conocer formas de vida, problemáticas de distintos países y ciudades, costumbres y entrevistas con los protagonistas de estas historias.",
-      "inicio": "2026-11-07T23:00:00",
-      "fin": "2026-11-07T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Resumen 26",
-      "descripcion": "Las noticias más trascendentes de la jornada, juntas en un programa.",
-      "inicio": "2026-11-07T23:30:00",
-      "fin": "2026-11-08T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Resumen 26",
-      "descripcion": "Las noticias más trascendentes de la jornada, juntas en un programa.",
-      "inicio": "2026-11-08T06:00:00",
-      "fin": "2026-11-08T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fin de semana",
-      "descripcion": "Se repasan los temas más relevantes y se anticipan los hechos que marcarán la agenda.",
-      "inicio": "2026-11-08T08:00:00",
-      "fin": "2026-11-08T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "El diario del domingo",
       "descripcion": "Un programa noticioso con móviles en vivo e invitados especiales.",
       "inicio": "2026-11-08T10:00:00",
       "fin": "2026-11-08T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las imágenes más espectaculares",
+      "descripcion": "Espacio en el que se presentan imágenes donde se evidencian escenas de experimentos, lugares, personas y hechos insólitos para sorprender, entretener y divertir al espectador, con un toque irónico y de humor.",
+      "inicio": "2026-11-08T13:00:00",
+      "fin": "2026-11-08T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Resumen 26",
+      "descripcion": "Las noticias más trascendentes de la jornada, juntas en un programa.",
+      "inicio": "2026-11-08T15:00:00",
+      "fin": "2026-11-08T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Informe Klipphan",
+      "descripcion": "Un programa de investigación que aborda los temas más interesantes de la actualidad.",
+      "inicio": "2026-11-08T17:30:00",
+      "fin": "2026-11-08T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fin de semana",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-08T18:00:00",
+      "fin": "2026-11-08T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La mirada",
+      "descripcion": "Un programa político y económico con la conducción de un experto.",
+      "inicio": "2026-11-08T21:00:00",
+      "fin": "2026-11-08T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamirada.jpg"
+    },
+    {
+      "titulo": "Reporte 26",
+      "descripcion": "Las noticias más relevantes de la jornada.",
+      "inicio": "2026-11-08T22:00:00",
+      "fin": "2026-11-08T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Resumen 26",
+      "descripcion": "Las noticias más trascendentes de la jornada, juntas en un programa.",
+      "inicio": "2026-11-08T23:00:00",
+      "fin": "2026-11-09T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Turismo y hospitalidad",
+      "descripcion": "Lo mejor del turismo nacional e internacional. Además, los secretos de la hospitalidad.",
+      "inicio": "2026-11-09T00:00:00",
+      "fin": "2026-11-09T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Resumen 26",
+      "descripcion": "Las noticias más trascendentes de la jornada, juntas en un programa.",
+      "inicio": "2026-11-09T01:00:00",
+      "fin": "2026-11-09T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El pulso",
+      "descripcion": "Ofrece una mirada distinta sobre los temas de mayor relevancia y que son de sumo interés para el ciudadano que busca informarse.",
+      "inicio": "2026-11-09T06:00:00",
+      "fin": "2026-11-09T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "8 AM",
+      "descripcion": "La información más importante para comenzar el día.",
+      "inicio": "2026-11-09T08:00:00",
+      "fin": "2026-11-09T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "26 News",
+      "descripcion": "Un programa noticioso con la información más destacada ocurrida a nivel nacional e internacional.",
+      "inicio": "2026-11-09T10:00:00",
+      "fin": "2026-11-09T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

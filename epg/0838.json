@@ -1,116 +1,109 @@
 {
   "actual": {
-    "titulo": "La leyenda del Caballero Negro",
-    "descripcion": "Después de un desastroso intento de robar el carruaje del conde de Pembroke, el famoso salteador de caminos Dick Turpin se encuentra huyendo en la campiña inglesa con lo único de valor que pudo robar: la enérgica hija del conde, Elizabeth.",
-    "inicio": "2026-11-07T11:20:00",
-    "fin": "2026-11-07T12:55:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laleyendadelcaballeronegro.jpg"
+    "titulo": "La lucha de un guerrero",
+    "descripcion": "Om, un oficial de comando de las fuerzas especiales, pierde la memoria mientras lucha contra enemigos. Después de recuperarse de la amnesia, Om tiene la misión de salvar a la nación de los terroristas.",
+    "inicio": "2026-11-08T10:40:00",
+    "fin": "2026-11-08T12:55:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "El libro del amor",
-    "descripcion": "Después de morir su esposa en un accidente de coche, Henry, un arquitecto introvertido, decide ayudar a Millie, una adolescente sin hogar, a construir una balsa para navegar por el Atlántico.",
-    "inicio": "2026-11-07T12:55:00",
-    "fin": "2026-11-07T14:50:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ellibrodelamor.jpg"
+    "titulo": "Una vida casi normal",
+    "descripcion": "Meeri tiene algunos problemas. Está enamorada del hombre equivocado y su padre es un empresario de pompas fúnebres en busca de una nueva esposa. Pero tiene un talento especial: puede volar cuando está enamorada.",
+    "inicio": "2026-11-08T12:55:00",
+    "fin": "2026-11-08T14:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "La leyenda del Caballero Negro",
-      "descripcion": "Después de un desastroso intento de robar el carruaje del conde de Pembroke, el famoso salteador de caminos Dick Turpin se encuentra huyendo en la campiña inglesa con lo único de valor que pudo robar: la enérgica hija del conde, Elizabeth.",
-      "inicio": "2026-11-07T11:20:00",
-      "fin": "2026-11-07T12:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laleyendadelcaballeronegro.jpg"
-    },
-    {
-      "titulo": "El libro del amor",
-      "descripcion": "Después de morir su esposa en un accidente de coche, Henry, un arquitecto introvertido, decide ayudar a Millie, una adolescente sin hogar, a construir una balsa para navegar por el Atlántico.",
-      "inicio": "2026-11-07T12:55:00",
-      "fin": "2026-11-07T14:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ellibrodelamor.jpg"
-    },
-    {
-      "titulo": "Excluidos",
-      "descripcion": "Cuando una enfermedad desconocida acaba con la mayor parte de la población mundial, se aísla a un hombre con una sangre única para su estudio. Sin embargo, él decide escapar, adentrándose en un mundo invadido por infectados y una agencia sombría.",
-      "inicio": "2026-11-07T14:50:00",
-      "fin": "2026-11-07T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un camino de fe",
-      "descripcion": "Cuando un entrenador de béisbol de un pueblo pequeño recibe la oferta de su vida de una escuela secundaria más grande, deja a su familia y abandona el único hogar que ha conocido. Pero como hombre de fe, pronto se enfrenta a una oposición extrema a sus métodos de entrenamiento por parte del superior de la escuela.",
-      "inicio": "2026-11-07T16:30:00",
-      "fin": "2026-11-07T18:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/uncaminodefe.jpg"
-    },
-    {
-      "titulo": "La leyenda del Caballero Negro",
-      "descripcion": "Después de un desastroso intento de robar el carruaje del conde de Pembroke, el famoso salteador de caminos Dick Turpin se encuentra huyendo en la campiña inglesa con lo único de valor que pudo robar: la enérgica hija del conde, Elizabeth.",
-      "inicio": "2026-11-07T18:45:00",
-      "fin": "2026-11-07T20:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laleyendadelcaballeronegro.jpg"
-    },
-    {
-      "titulo": "El libro del amor",
-      "descripcion": "Después de morir su esposa en un accidente de coche, Henry, un arquitecto introvertido, decide ayudar a Millie, una adolescente sin hogar, a construir una balsa para navegar por el Atlántico.",
-      "inicio": "2026-11-07T20:20:00",
-      "fin": "2026-11-07T22:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ellibrodelamor.jpg"
-    },
-    {
-      "titulo": "Excluidos",
-      "descripcion": "Cuando una enfermedad desconocida acaba con la mayor parte de la población mundial, se aísla a un hombre con una sangre única para su estudio. Sin embargo, él decide escapar, adentrándose en un mundo invadido por infectados y una agencia sombría.",
-      "inicio": "2026-11-07T22:20:00",
-      "fin": "2026-11-08T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ojos grandes",
-      "descripcion": "Un cuento basado en la escandalosa historia real de uno de los fraudes más grandes de la historia del arte. En los años 50, la pintora Margaret Keane creaba cuadros de niños con grandes ojos, los cuales eran luego apropiados por su esposo, quien fue catapultado inmerecidamente a la fama.",
-      "inicio": "2026-11-08T00:00:00",
-      "fin": "2026-11-08T01:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El lado luminoso de la vida",
-      "descripcion": "Tras pasar ocho meses en una institución mental por agredir al amante de su mujer, Pat vuelve a vivir en casa de sus padres. Determinado a tener una actitud positiva y recuperar a su ex-mujer, su mundo se pone del revés cuando conoce a Tiffany, una chica con ciertos problemas y no muy buena fama en el barrio. A pesar de su mutua desconfianza inicial, entre ellos pronto se desarrollará un vínculo muy especial que les ayudará a encontrar en sus vidas el lado bueno de las cosas.",
-      "inicio": "2026-11-08T01:55:00",
-      "fin": "2026-11-08T04:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La banda",
-      "descripcion": "Víctor le confía sus intenciones de dejar la empresa a Rafael y muere repentinamente. Andy, su hijo, reclama la herencia y está decidido a vender la fábrica. Rafael y Marcela se ven obligados a crear una banda inusual para recuperar la empresa.",
-      "inicio": "2026-11-08T04:10:00",
-      "fin": "2026-11-08T05:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/labanda.jpg"
-    },
-    {
-      "titulo": "La leyenda del Caballero Negro",
-      "descripcion": "Después de un desastroso intento de robar el carruaje del conde de Pembroke, el famoso salteador de caminos Dick Turpin se encuentra huyendo en la campiña inglesa con lo único de valor que pudo robar: la enérgica hija del conde, Elizabeth.",
-      "inicio": "2026-11-08T05:25:00",
-      "fin": "2026-11-08T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laleyendadelcaballeronegro.jpg"
-    },
-    {
-      "titulo": "El libro del amor",
-      "descripcion": "Después de morir su esposa en un accidente de coche, Henry, un arquitecto introvertido, decide ayudar a Millie, una adolescente sin hogar, a construir una balsa para navegar por el Atlántico.",
-      "inicio": "2026-11-08T07:00:00",
-      "fin": "2026-11-08T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ellibrodelamor.jpg"
-    },
-    {
-      "titulo": "Jack y Jill, pasos de amor",
-      "descripcion": "En una noche estrellada, Jack y Jill se encuentran por separado con una gitana que les dice que conocerán al amor de su vida antes de la medianoche de fin de año, para lo que solo faltan cinco días. Comienza la cuenta regresiva, y tanto Jack como Jill tienen una serie de citas horribles e hilarantes, cada una peor que la anterior.",
-      "inicio": "2026-11-08T09:00:00",
-      "fin": "2026-11-08T10:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "La lucha de un guerrero",
       "descripcion": "Om, un oficial de comando de las fuerzas especiales, pierde la memoria mientras lucha contra enemigos. Después de recuperarse de la amnesia, Om tiene la misión de salvar a la nación de los terroristas.",
       "inicio": "2026-11-08T10:40:00",
       "fin": "2026-11-08T12:55:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Una vida casi normal",
+      "descripcion": "Meeri tiene algunos problemas. Está enamorada del hombre equivocado y su padre es un empresario de pompas fúnebres en busca de una nueva esposa. Pero tiene un talento especial: puede volar cuando está enamorada.",
+      "inicio": "2026-11-08T12:55:00",
+      "fin": "2026-11-08T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Entre nubes y recuerdos",
+      "descripcion": "Paul, Julia y Lilly son una familia feliz, hasta que Julia muere inesperadamente. Por el bien de su hija, Paul quiere seguir adelante y reprimir su dolor. Sin embargo, Lilly sigue desafiándolo con su imaginación y su propia visión de la muerte de su mamá.",
+      "inicio": "2026-11-08T14:30:00",
+      "fin": "2026-11-08T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jack y Jill, pasos de amor",
+      "descripcion": "En una noche estrellada, Jack y Jill se encuentran por separado con una gitana que les dice que conocerán al amor de su vida antes de la medianoche de fin de año, para lo que solo faltan cinco días. Comienza la cuenta regresiva, y tanto Jack como Jill tienen una serie de citas horribles e hilarantes, cada una peor que la anterior.",
+      "inicio": "2026-11-08T16:30:00",
+      "fin": "2026-11-08T18:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La lucha de un guerrero",
+      "descripcion": "Om, un oficial de comando de las fuerzas especiales, pierde la memoria mientras lucha contra enemigos. Después de recuperarse de la amnesia, Om tiene la misión de salvar a la nación de los terroristas.",
+      "inicio": "2026-11-08T18:10:00",
+      "fin": "2026-11-08T20:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Una vida casi normal",
+      "descripcion": "Meeri tiene algunos problemas. Está enamorada del hombre equivocado y su padre es un empresario de pompas fúnebres en busca de una nueva esposa. Pero tiene un talento especial: puede volar cuando está enamorada.",
+      "inicio": "2026-11-08T20:25:00",
+      "fin": "2026-11-08T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Entre nubes y recuerdos",
+      "descripcion": "Paul, Julia y Lilly son una familia feliz, hasta que Julia muere inesperadamente. Por el bien de su hija, Paul quiere seguir adelante y reprimir su dolor. Sin embargo, Lilly sigue desafiándolo con su imaginación y su propia visión de la muerte de su mamá.",
+      "inicio": "2026-11-08T22:00:00",
+      "fin": "2026-11-09T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ella Es Un Monstruo",
+      "descripcion": "Gloria decide dejar Nueva York y regresar a su ciudad natal tras haber perdido su trabajo y su novio. Pero cuando en las noticias informan que un monstruo gigantesco está destruyendo gran parte de Seúl, ella se va dando cuenta de que, a través de su mente, está conectada de forma extraña con estos acontecimientos. Para evitar que la destrucción vaya a más, tendrá que averiguar el papel de su insignificante existencia en un evento colosal que podría cambiar el destino del mundo.",
+      "inicio": "2026-11-09T00:00:00",
+      "fin": "2026-11-09T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Engañada",
+      "descripcion": "Robby y Vanessa rompieron, pero decidieron seguir siendo amigos. Todo iba de maravilla hasta que Vanessa conoció a un chico nuevo y Robby descubrió que seguía enamorado de ella.",
+      "inicio": "2026-11-09T04:00:00",
+      "fin": "2026-11-09T05:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enganada.jpg"
+    },
+    {
+      "titulo": "Entre nubes y recuerdos",
+      "descripcion": "Paul, Julia y Lilly son una familia feliz, hasta que Julia muere inesperadamente. Por el bien de su hija, Paul quiere seguir adelante y reprimir su dolor. Sin embargo, Lilly sigue desafiándolo con su imaginación y su propia visión de la muerte de su mamá.",
+      "inicio": "2026-11-09T05:20:00",
+      "fin": "2026-11-09T07:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jack y Jill, pasos de amor",
+      "descripcion": "En una noche estrellada, Jack y Jill se encuentran por separado con una gitana que les dice que conocerán al amor de su vida antes de la medianoche de fin de año, para lo que solo faltan cinco días. Comienza la cuenta regresiva, y tanto Jack como Jill tienen una serie de citas horribles e hilarantes, cada una peor que la anterior.",
+      "inicio": "2026-11-09T07:20:00",
+      "fin": "2026-11-09T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Doble identidad",
+      "descripcion": "Un médico estadounidense, que se encuentra en Chechenia por motivos laborales, es testigo de un asalto y ayuda a la joven víctima, una misteriosa mujer, a huir. Desde ese momento, su vida está en peligro y deberá buscarse la vida para sobrevivir en un país en el que no puede acudir a nadie en busca de su ayuda.",
+      "inicio": "2026-11-09T09:00:00",
+      "fin": "2026-11-09T10:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dobleidentidad.jpg"
+    },
+    {
+      "titulo": "El amor más allá del tiempo",
+      "descripcion": "En un futuro cercano, un político recién salido de una derrota electoral se escapa a la casa de verano de su familia en el lago. Sus vacaciones se ven interrumpidas por la aparición de su primer amor, que acaba de regresar de un viaje espacial de 20 años y no ha envejecido ni un día.",
+      "inicio": "2026-11-09T10:40:00",
+      "fin": "2026-11-09T12:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elamormasalladeltiempo.jpg"
     }
   ]
 }
