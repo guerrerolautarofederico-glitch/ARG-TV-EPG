@@ -1,116 +1,137 @@
 {
   "actual": {
-    "titulo": "Trece animado",
-    "descripcion": "Un espacio con programas infantiles para que los niños se diviertan y a al vez aprendan desde casa. Junto a una gran variedad de personajes y aventuras, los más pequeños se reirán, cantarán y jugarán a la vez que aprenden sobre la vida.",
-    "inicio": "2026-11-08T09:30:00",
-    "fin": "2026-11-08T23:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Playlist",
+    "descripcion": "100% de música, 100% de vídeoclipes.",
+    "inicio": "2026-11-09T09:00:00",
+    "fin": "2026-11-09T22:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/playlist.jpg"
   },
   "siguiente": {
-    "titulo": "Culto dominical",
-    "descripcion": "Se muestra un culto dominical, donde se transmite la palabra de Dios y la fe a todo el público. La audiencia podrá tomarse un momento para relajarse y reflexionar sobre las sagradas escrituras y el sermón del pastor.",
-    "inicio": "2026-11-08T23:30:00",
-    "fin": "2026-11-09T01:00:00",
+    "titulo": "Salió el sol",
+    "descripcion": "Un magazine matutino que le da los buenos días a los televidentes de las regiones y provincias de Colombia. Presenta secciones de cocina, mascotas, fitness y mucho más.",
+    "inicio": "2026-11-09T22:30:00",
+    "fin": "2026-11-10T01:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Trece animado",
-      "descripcion": "Un espacio con programas infantiles para que los niños se diviertan y a al vez aprendan desde casa. Junto a una gran variedad de personajes y aventuras, los más pequeños se reirán, cantarán y jugarán a la vez que aprenden sobre la vida.",
-      "inicio": "2026-11-08T09:30:00",
-      "fin": "2026-11-08T23:30:00",
+      "titulo": "Playlist",
+      "descripcion": "100% de música, 100% de vídeoclipes.",
+      "inicio": "2026-11-09T09:00:00",
+      "fin": "2026-11-09T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/playlist.jpg"
+    },
+    {
+      "titulo": "Salió el sol",
+      "descripcion": "Un magazine matutino que le da los buenos días a los televidentes de las regiones y provincias de Colombia. Presenta secciones de cocina, mascotas, fitness y mucho más.",
+      "inicio": "2026-11-09T22:30:00",
+      "fin": "2026-11-10T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Culto dominical",
-      "descripcion": "Se muestra un culto dominical, donde se transmite la palabra de Dios y la fe a todo el público. La audiencia podrá tomarse un momento para relajarse y reflexionar sobre las sagradas escrituras y el sermón del pastor.",
-      "inicio": "2026-11-08T23:30:00",
-      "fin": "2026-11-09T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Trece animado",
-      "descripcion": "Un espacio con programas infantiles para que los niños se diviertan y a al vez aprendan desde casa. Junto a una gran variedad de personajes y aventuras, los más pequeños se reirán, cantarán y jugarán a la vez que aprenden sobre la vida.",
-      "inicio": "2026-11-09T01:00:00",
-      "fin": "2026-11-09T02:00:00",
+      "titulo": "El legado del sabor",
+      "descripcion": "Un espacio con los mejores ingredientes, mucho sabor y el mejor aroma.",
+      "inicio": "2026-11-10T01:00:00",
+      "fin": "2026-11-10T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Playlist",
       "descripcion": "100% de música, 100% de vídeoclipes.",
-      "inicio": "2026-11-09T02:00:00",
-      "fin": "2026-11-09T03:00:00",
+      "inicio": "2026-11-10T02:00:00",
+      "fin": "2026-11-10T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/playlist.jpg"
     },
     {
-      "titulo": "Toma el control",
-      "descripcion": "Espacio en el que la defensora de la audiencia, Adriana Álvarez, vincula distintas regiones mediante debates y temas de interés, con invitados importantes. Junto a ella se encuentra Christian Briceño, primer presentador colombiano sordo.",
-      "inicio": "2026-11-09T03:00:00",
-      "fin": "2026-11-09T03:30:00",
+      "titulo": "Fuerza latina",
+      "descripcion": "Revista para mujeres que aborda temas relevantes para la región, con presentadoras de Colombia, Venezuela y Bolivia.",
+      "inicio": "2026-11-10T02:00:00",
+      "fin": "2026-11-10T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatina.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "Programación pendiente de confirmación.",
+      "inicio": "2026-11-10T02:30:00",
+      "fin": "2026-11-10T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/porconfirmar.jpg"
+    },
+    {
+      "titulo": "DW Noticias",
+      "descripcion": "Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.",
+      "inicio": "2026-11-10T03:00:00",
+      "fin": "2026-11-10T03:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Con olor a región",
-      "descripcion": "Documental institucional que presenta el impacto de los proyectos académicos de estudiantes y egresados de la UNAD en el desarrollo de las regiones de Colombia. Con historias que plantean la forma en que los protagonistas viven su región.",
-      "inicio": "2026-11-09T03:30:00",
-      "fin": "2026-11-09T04:00:00",
+      "titulo": "Enlace Trece",
+      "descripcion": "Periodismo a profundidad en las regiones, llega con canal exclusivo en YouTube para que no te pierdas ninguna noticia.",
+      "inicio": "2026-11-10T03:30:00",
+      "fin": "2026-11-10T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Magnifica Región Trece",
-      "descripcion": "Espacio que explora la diversidad cultural y natural de la región.",
-      "inicio": "2026-11-09T04:00:00",
-      "fin": "2026-11-09T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Por confirmar",
+      "descripcion": "Programación pendiente de confirmación.",
+      "inicio": "2026-11-10T04:00:00",
+      "fin": "2026-11-10T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/porconfirmar.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "Programación pendiente de confirmación.",
+      "inicio": "2026-11-10T04:30:00",
+      "fin": "2026-11-10T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/porconfirmar.jpg"
+    },
+    {
+      "titulo": "Por confirmar",
+      "descripcion": "Programación pendiente de confirmación.",
+      "inicio": "2026-11-10T05:00:00",
+      "fin": "2026-11-10T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/porconfirmar.jpg"
     },
     {
       "titulo": "Playlist",
       "descripcion": "100% de música, 100% de vídeoclipes.",
-      "inicio": "2026-11-09T05:30:00",
-      "fin": "2026-11-09T07:00:00",
+      "inicio": "2026-11-10T05:30:00",
+      "fin": "2026-11-10T07:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/playlist.jpg"
     },
     {
-      "titulo": "Los botones",
-      "descripcion": "Una serie sobre la amistad y las relaciones interpersonales llenas de comedia. Un grupo de amigos de barrio se inventan un torneo de fútbol que juegan en playstation pero que empiezan a los 13 años y lo continúan hasta los 30.",
-      "inicio": "2026-11-09T07:00:00",
-      "fin": "2026-11-09T08:00:00",
+      "titulo": "Music for Life: Resonantes",
+      "descripcion": "Un espacio dedicado a la escena underground que presenta un dialogo con la música en vivo y las experiencias de los artistas a través de entrevistas poco convencionales y de alto impacto para las pantallas.",
+      "inicio": "2026-11-10T07:00:00",
+      "fin": "2026-11-10T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Playlist esperanzador",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-09T08:00:00",
-      "fin": "2026-11-09T08:00:00",
+      "inicio": "2026-11-10T08:00:00",
+      "fin": "2026-11-10T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Las mujeres de mi tierra",
-      "descripcion": "Un programa de entrevistas a las mujeres más influyentes del entretenimiento en Colombia con la conducción de Adolfo Sanjuanello.",
-      "inicio": "2026-11-09T08:00:00",
-      "fin": "2026-11-09T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ministerio TIC",
-      "descripcion": "Espacio del Ministerio de Tecnologías de la Información y Comunicaciones de Colombia.",
-      "inicio": "2026-11-09T08:30:00",
-      "fin": "2026-11-09T09:00:00",
+      "titulo": "Ruta por Colombia",
+      "descripcion": "Un programa que permite ver el encuentro de territorios y personas en torno al turismo sostenible y al amor por Colombia.",
+      "inicio": "2026-11-10T08:00:00",
+      "fin": "2026-11-10T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Playlist",
       "descripcion": "100% de música, 100% de vídeoclipes.",
-      "inicio": "2026-11-09T09:00:00",
-      "fin": "2026-11-09T09:00:00",
+      "inicio": "2026-11-10T09:00:00",
+      "fin": "2026-11-10T09:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/playlist.jpg"
     },
     {
-      "titulo": "Faunícolas",
-      "descripcion": "En cada capítulo, dos amantes de la naturaleza compiten en pruebas de conocimiento sobre una especie particular. El ganador tendrá la oportunidad de visitar un ecosistema donde habita su animal favorito, acompañado de un experto y un guía.",
-      "inicio": "2026-11-09T09:00:00",
-      "fin": "2026-11-09T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Contragolpe",
+      "descripcion": "Un programa que aborda lo más destacado de la agenda del fútbol a nivel nacional. Los presentadores analizan los partidos, comentan las jugadas clave y hacen sus predicciones para la siguiente fecha.",
+      "inicio": "2026-11-10T09:30:00",
+      "fin": "2026-11-10T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/contragolpe.jpg"
     }
   ]
 }

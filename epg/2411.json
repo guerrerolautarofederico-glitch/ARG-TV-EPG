@@ -1,94 +1,108 @@
 {
   "actual": {
-    "titulo": "Fútbol Premier League • Sunderland vs Chelsea",
-    "descripcion": "Sunderland vs Chelsea | Jornada 10 de la temporada 2026-27 de la Premier League. Desde el Stadium of Light. El Sunderland confía en el impulso que le han dado sus dos victorias consecutivas. El Chelsea cuenta con el buen momento que le ha dado sus tres victorias.",
-    "inicio": "2026-11-08T10:50:00",
-    "fin": "2026-11-08T12:55:00",
+    "titulo": "ESPN F90",
+    "descripcion": "Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
+    "inicio": "2026-11-09T13:00:00",
+    "fin": "2026-11-09T15:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "SportsCenter",
-    "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
-    "inicio": "2026-11-08T12:55:00",
-    "fin": "2026-11-08T13:20:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    "titulo": "Espn F3",
+    "descripcion": "Programación deportiva dedicada a la agenda futbolística, resúmenes, análisis y seguimientos que dan de qué hablar.",
+    "inicio": "2026-11-09T15:00:00",
+    "fin": "2026-11-09T16:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Fútbol Premier League • Sunderland vs Chelsea",
-      "descripcion": "Sunderland vs Chelsea | Jornada 10 de la temporada 2026-27 de la Premier League. Desde el Stadium of Light. El Sunderland confía en el impulso que le han dado sus dos victorias consecutivas. El Chelsea cuenta con el buen momento que le ha dado sus tres victorias.",
-      "inicio": "2026-11-08T10:50:00",
-      "fin": "2026-11-08T12:55:00",
+      "titulo": "ESPN F90",
+      "descripcion": "Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
+      "inicio": "2026-11-09T13:00:00",
+      "fin": "2026-11-09T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Espn F3",
+      "descripcion": "Programación deportiva dedicada a la agenda futbolística, resúmenes, análisis y seguimientos que dan de qué hablar.",
+      "inicio": "2026-11-09T15:00:00",
+      "fin": "2026-11-09T16:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "SportsCenter",
-      "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
-      "inicio": "2026-11-08T12:55:00",
-      "fin": "2026-11-08T13:20:00",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-11-09T16:30:00",
+      "fin": "2026-11-09T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
     },
     {
-      "titulo": "Fútbol Premier League • Manchester United vs Aston Villa",
-      "descripcion": "Manchester United vs Aston Villa | Jornada 10 de la temporada 2026-27 de la Premier League. Desde el estadio Old Trafford. El United busca recuperarse en su propio campo tras cuatro partidos, mientras que el Aston Villa confía en su buen momento reciente.",
-      "inicio": "2026-11-08T13:20:00",
-      "fin": "2026-11-08T15:25:00",
+      "titulo": "ESPN F360",
+      "descripcion": "Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.",
+      "inicio": "2026-11-09T18:00:00",
+      "fin": "2026-11-09T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Equipo F",
+      "descripcion": "El debate de cada fecha llega a la pantalla. El mejor equipo para analizar todo lo que pasó el fin de semana.",
+      "inicio": "2026-11-09T19:00:00",
+      "fin": "2026-11-09T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/equipof.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-11-09T20:30:00",
+      "fin": "2026-11-09T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-11-09T22:00:00",
+      "fin": "2026-11-09T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Espn F10",
+      "descripcion": "No hay mejor manera que terminar el día bien informado con el repaso de todo lo sucedido en materia fútbol. Sumate al equipo liderado por Martín Souto para encenderte con los debates de un gran panel de especialistas.",
+      "inicio": "2026-11-09T23:00:00",
+      "fin": "2026-11-10T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "SportsCenter",
-      "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
-      "inicio": "2026-11-08T15:25:00",
-      "fin": "2026-11-08T16:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Fútbol LaLiga • Atlético de Madrid vs Barcelona",
-      "descripcion": "Atlético de Madrid vs Barcelona | Jornada 12 de la temporada 2026-27 de LaLiga. Desde el Estadio Metropolitano. El Atlético de Madrid viene de imponerse 2-1 a domicilio frente al Levante, mientras que el Barcelona llega tras vencer con autoridad 2-0 en casa al Deportivo Alavés.",
-      "inicio": "2026-11-08T16:50:00",
-      "fin": "2026-11-08T18:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbollaliga.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
       "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-11-08T18:55:00",
-      "fin": "2026-11-08T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "ESPN Fútbol 1",
-      "descripcion": "Todo lo que sucedió al término de cada fecha del campeonato de fútbol argentino. Las jugadas más destacadas, los goles, las polémicas y análisis del juego, todo ello aderezado con imágenes y sonidos captados por cámaras exclusivas.",
-      "inicio": "2026-11-08T22:00:00",
-      "fin": "2026-11-09T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espnfutbol1.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-11-09T00:00:00",
-      "fin": "2026-11-09T06:00:00",
+      "inicio": "2026-11-10T00:00:00",
+      "fin": "2026-11-10T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
     },
     {
       "titulo": "SportsCenter",
       "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-11-09T06:00:00",
-      "fin": "2026-11-09T09:00:00",
+      "inicio": "2026-11-10T06:00:00",
+      "fin": "2026-11-10T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
     },
     {
       "titulo": "Buen día ESPN",
       "descripcion": "Cobertura de la actualidad deportiva con entrevistas, protagonistas y la mejor onda.",
-      "inicio": "2026-11-09T09:00:00",
-      "fin": "2026-11-09T11:00:00",
+      "inicio": "2026-11-10T09:00:00",
+      "fin": "2026-11-10T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Espn F12",
       "descripcion": "Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.",
-      "inicio": "2026-11-09T11:00:00",
-      "fin": "2026-11-09T13:00:00",
+      "inicio": "2026-11-10T11:00:00",
+      "fin": "2026-11-10T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ESPN F90",
+      "descripcion": "Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
+      "inicio": "2026-11-10T13:00:00",
+      "fin": "2026-11-10T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

@@ -1,332 +1,206 @@
 {
   "actual": {
-    "titulo": "Al día con el agro",
-    "descripcion": "Un magazine dedicado a la actualidad del agro en Colombia con todo lo que tenés que saber del campo y la agricultura.",
-    "inicio": "2026-11-08T11:30:00",
-    "fin": "2026-11-08T12:00:00",
+    "titulo": "CableNoticias: En la Mañana",
+    "descripcion": "Informativo que resume la actualidad nacional e internacional. El registro de los hechos más importantes y llevados en el momento que se producen. Las noticias en desarrollo, los personajes y el análisis de los sucesos impactantes.",
+    "inicio": "2026-11-09T12:00:00",
+    "fin": "2026-11-09T14:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "En Forma",
-    "descripcion": "En Forma es un programa de televisión de la cadena alemana DW (Deutsche Welle) enfocado en la salud, el bienestar, la actividad física, la nutrición y un estilo de vida saludable. Presenta reportajes, consejos prácticos de ejercicio y bienestar integral desde una perspectiva dinámica y moderna.",
-    "inicio": "2026-11-08T12:00:00",
-    "fin": "2026-11-08T12:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enforma.jpg"
+    "titulo": "Cablenoticias: Edición Central",
+    "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
+    "inicio": "2026-11-09T14:00:00",
+    "fin": "2026-11-09T15:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
   },
   "lista": [
     {
-      "titulo": "Al día con el agro",
-      "descripcion": "Un magazine dedicado a la actualidad del agro en Colombia con todo lo que tenés que saber del campo y la agricultura.",
-      "inicio": "2026-11-08T11:30:00",
-      "fin": "2026-11-08T12:00:00",
+      "titulo": "CableNoticias: En la Mañana",
+      "descripcion": "Informativo que resume la actualidad nacional e internacional. El registro de los hechos más importantes y llevados en el momento que se producen. Las noticias en desarrollo, los personajes y el análisis de los sucesos impactantes.",
+      "inicio": "2026-11-09T12:00:00",
+      "fin": "2026-11-09T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cablenoticias: Edición Central",
+      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
+      "inicio": "2026-11-09T14:00:00",
+      "fin": "2026-11-09T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
     },
     {
       "titulo": "En Forma",
       "descripcion": "En Forma es un programa de televisión de la cadena alemana DW (Deutsche Welle) enfocado en la salud, el bienestar, la actividad física, la nutrición y un estilo de vida saludable. Presenta reportajes, consejos prácticos de ejercicio y bienestar integral desde una perspectiva dinámica y moderna.",
-      "inicio": "2026-11-08T12:00:00",
-      "fin": "2026-11-08T12:30:00",
+      "inicio": "2026-11-09T15:30:00",
+      "fin": "2026-11-09T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enforma.jpg"
+    },
+    {
+      "titulo": "Usted lo Vio",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-09T16:00:00",
+      "fin": "2026-11-09T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Actualidad en análisis",
+      "descripcion": "Programa informativo y de análisis internacional de DW (Deutsche Welle) que examina en profundidad los acontecimientos políticos, económicos y sociales más relevantes de la actualidad global, con especial enfoque en sus repercusiones para América Latina y el mundo.",
+      "inicio": "2026-11-09T16:30:00",
+      "fin": "2026-11-09T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/actualidadenanalisis.jpg"
+    },
+    {
+      "titulo": "Cablenoticias a las 3",
+      "descripcion": "Actualización de las noticias y lo último del acontecer nacional e internacional sobre política, economía y sociedad a las 3 de la tarde.",
+      "inicio": "2026-11-09T17:00:00",
+      "fin": "2026-11-09T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Franja de especiales",
+      "descripcion": "Programas de salud y de cuidado personal.",
+      "inicio": "2026-11-09T18:00:00",
+      "fin": "2026-11-09T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La otra cara de la moneda",
+      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
+      "inicio": "2026-11-09T19:00:00",
+      "fin": "2026-11-09T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cablenoticias: Edición Central",
+      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
+      "inicio": "2026-11-09T20:00:00",
+      "fin": "2026-11-09T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
+    },
+    {
+      "titulo": "Hoy en el mundo",
+      "descripcion": "Toda la información de las noticias internacionales.",
+      "inicio": "2026-11-09T21:00:00",
+      "fin": "2026-11-09T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
+    },
+    {
+      "titulo": "La otra cara de la moneda",
+      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
+      "inicio": "2026-11-09T22:00:00",
+      "fin": "2026-11-09T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cablenoticias: Edición Central",
+      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
+      "inicio": "2026-11-09T23:00:00",
+      "fin": "2026-11-10T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
+    },
+    {
+      "titulo": "Testigo directo",
+      "descripcion": "Un programa periodístico moderno, con reporteros y periodistas arriesgados que cubren sucesos y casos impactantes de la vida real.",
+      "inicio": "2026-11-10T00:00:00",
+      "fin": "2026-11-10T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La otra cara de la moneda",
+      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
+      "inicio": "2026-11-10T00:30:00",
+      "fin": "2026-11-10T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cablenoticias: Edición Central",
+      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
+      "inicio": "2026-11-10T01:30:00",
+      "fin": "2026-11-10T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
+    },
+    {
+      "titulo": "Testigo directo",
+      "descripcion": "Un programa periodístico moderno, con reporteros y periodistas arriesgados que cubren sucesos y casos impactantes de la vida real.",
+      "inicio": "2026-11-10T02:30:00",
+      "fin": "2026-11-10T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hoy en el mundo",
+      "descripcion": "Toda la información de las noticias internacionales.",
+      "inicio": "2026-11-10T03:00:00",
+      "fin": "2026-11-10T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
+    },
+    {
+      "titulo": "Cablenoticias: Edición Central",
+      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
+      "inicio": "2026-11-10T04:00:00",
+      "fin": "2026-11-10T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
+    },
+    {
+      "titulo": "La otra cara de la moneda",
+      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
+      "inicio": "2026-11-10T05:00:00",
+      "fin": "2026-11-10T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hoy en el mundo",
+      "descripcion": "Toda la información de las noticias internacionales.",
+      "inicio": "2026-11-10T06:00:00",
+      "fin": "2026-11-10T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
+    },
+    {
+      "titulo": "Cablenoticias: Edición Central",
+      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
+      "inicio": "2026-11-10T07:00:00",
+      "fin": "2026-11-10T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
+    },
+    {
+      "titulo": "Hoy en el mundo",
+      "descripcion": "Toda la información de las noticias internacionales.",
+      "inicio": "2026-11-10T08:00:00",
+      "fin": "2026-11-10T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
+    },
+    {
+      "titulo": "La otra cara de la moneda",
+      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
+      "inicio": "2026-11-10T09:00:00",
+      "fin": "2026-11-10T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Euromaxx",
       "descripcion": "Espacio que nos muestra las nuevas facetas del viejo continente. Conozca la impresionante diversidad de la vida y cultura en Europa: moda, gastronomía, arquitectura, arte y espectáculos en un solo formato.",
-      "inicio": "2026-11-08T12:30:00",
-      "fin": "2026-11-08T13:00:00",
+      "inicio": "2026-11-10T10:00:00",
+      "fin": "2026-11-10T10:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/euromaxx.jpg"
     },
     {
-      "titulo": "Bloque económico",
-      "descripcion": "El más completo análisis de los mercados bursátiles a nivel mundial, desde su apertura hasta su cierre.",
-      "inicio": "2026-11-08T13:00:00",
-      "fin": "2026-11-08T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
       "titulo": "Especial Salud",
       "descripcion": "Sección dedicada a informar sobre lo más destacado en el área de la salud en Colombia y el mundo, los avances, los problemas, las soluciones, las políticas, con entrevistas a los expertos.",
-      "inicio": "2026-11-08T13:30:00",
-      "fin": "2026-11-08T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cablenoticias fin de semana",
-      "descripcion": "Las noticias más importantes de la actualidad nacional e internacional.",
-      "inicio": "2026-11-08T14:00:00",
-      "fin": "2026-11-08T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Enfoque",
-      "descripcion": "En un mundo agitado por los conflictos, la política, la violencia y el cambio climático, y que genera noticia las 24 horas del día, se necesita conocer los hechos más importantes junto a las opiniones de los protagonista, analistas y expertos.",
-      "inicio": "2026-11-08T14:30:00",
-      "fin": "2026-11-08T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Economía al Día",
-      "descripcion": "Conociendo las principales noticias sobre la economía nacional e internacional, así como los sucesos y eventos del sector.",
-      "inicio": "2026-11-08T15:00:00",
-      "fin": "2026-11-08T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fuerza latina",
-      "descripcion": "Revista para mujeres que aborda temas relevantes para la región, con presentadoras de Colombia, Venezuela y Bolivia.",
-      "inicio": "2026-11-08T15:30:00",
-      "fin": "2026-11-08T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatina.jpg"
-    },
-    {
-      "titulo": "La otra cara de la moneda",
-      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
-      "inicio": "2026-11-08T16:00:00",
-      "fin": "2026-11-08T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias internacionales",
-      "descripcion": "Un resumen con las principales noticias del mundo.",
-      "inicio": "2026-11-08T17:00:00",
-      "fin": "2026-11-08T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bloque económico",
-      "descripcion": "El más completo análisis de los mercados bursátiles a nivel mundial, desde su apertura hasta su cierre.",
-      "inicio": "2026-11-08T17:30:00",
-      "fin": "2026-11-08T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Deportes Cable Noticias",
-      "descripcion": "Lo mejor de todos los deportes nacionales e internacionales. Fútbol, tenis, ciclismo, carreras automovilísticas y mucho más.",
-      "inicio": "2026-11-08T18:00:00",
-      "fin": "2026-11-08T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Primer plano",
-      "descripcion": "La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad. No nos limitamos a narrar acontecimientos, ahondamos en las causas y la evolución.\n\nPrimer plano: interesante, impactante, informativo.",
-      "inicio": "2026-11-08T18:30:00",
-      "fin": "2026-11-08T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerplano.jpg"
-    },
-    {
-      "titulo": "La otra cara de la moneda",
-      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
-      "inicio": "2026-11-08T19:00:00",
-      "fin": "2026-11-08T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fuerza latina",
-      "descripcion": "Revista para mujeres que aborda temas relevantes para la región, con presentadoras de Colombia, Venezuela y Bolivia.",
-      "inicio": "2026-11-08T20:00:00",
-      "fin": "2026-11-08T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatina.jpg"
-    },
-    {
-      "titulo": "Economía al Día",
-      "descripcion": "Conociendo las principales noticias sobre la economía nacional e internacional, así como los sucesos y eventos del sector.",
-      "inicio": "2026-11-08T20:30:00",
-      "fin": "2026-11-08T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "360 Grados",
-      "descripcion": "Los temas de actualidad de Colombia y el mundo son discutidos con debates y entrevistas.",
-      "inicio": "2026-11-08T21:00:00",
-      "fin": "2026-11-08T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Testigo directo",
-      "descripcion": "Un programa periodístico moderno, con reporteros y periodistas arriesgados que cubren sucesos y casos impactantes de la vida real.",
-      "inicio": "2026-11-08T21:30:00",
-      "fin": "2026-11-08T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias Uno",
-      "descripcion": "Las noticias a nivel nacional e internacional de la mano de los mejores periodistas.",
-      "inicio": "2026-11-08T22:00:00",
-      "fin": "2026-11-08T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fuerza latina",
-      "descripcion": "Revista para mujeres que aborda temas relevantes para la región, con presentadoras de Colombia, Venezuela y Bolivia.",
-      "inicio": "2026-11-08T22:30:00",
-      "fin": "2026-11-08T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fuerzalatina.jpg"
-    },
-    {
-      "titulo": "Al derecho",
-      "descripcion": "Se presentan consejos sobre temas legislativos, económicos y financieros.",
-      "inicio": "2026-11-08T23:00:00",
-      "fin": "2026-11-08T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Primer plano",
-      "descripcion": "La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad. No nos limitamos a narrar acontecimientos, ahondamos en las causas y la evolución.\n\nPrimer plano: interesante, impactante, informativo.",
-      "inicio": "2026-11-08T23:30:00",
-      "fin": "2026-11-09T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerplano.jpg"
-    },
-    {
-      "titulo": "360 Grados",
-      "descripcion": "Los temas de actualidad de Colombia y el mundo son discutidos con debates y entrevistas.",
-      "inicio": "2026-11-09T00:00:00",
-      "fin": "2026-11-09T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bloque económico",
-      "descripcion": "El más completo análisis de los mercados bursátiles a nivel mundial, desde su apertura hasta su cierre.",
-      "inicio": "2026-11-09T00:30:00",
-      "fin": "2026-11-09T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DW: Global",
-      "descripcion": "Se ofrece lo mejor de la televisión.",
-      "inicio": "2026-11-09T01:00:00",
-      "fin": "2026-11-09T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Deportes Cable Noticias",
-      "descripcion": "Lo mejor de todos los deportes nacionales e internacionales. Fútbol, tenis, ciclismo, carreras automovilísticas y mucho más.",
-      "inicio": "2026-11-09T01:30:00",
-      "fin": "2026-11-09T02:00:00",
+      "inicio": "2026-11-10T10:30:00",
+      "fin": "2026-11-10T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "La otra cara de la moneda",
       "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
-      "inicio": "2026-11-09T02:00:00",
-      "fin": "2026-11-09T03:00:00",
+      "inicio": "2026-11-10T11:00:00",
+      "fin": "2026-11-10T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Testigo directo",
-      "descripcion": "Un programa periodístico moderno, con reporteros y periodistas arriesgados que cubren sucesos y casos impactantes de la vida real.",
-      "inicio": "2026-11-09T03:00:00",
-      "fin": "2026-11-09T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Primer plano",
-      "descripcion": "La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad. No nos limitamos a narrar acontecimientos, ahondamos en las causas y la evolución.\n\nPrimer plano: interesante, impactante, informativo.",
-      "inicio": "2026-11-09T03:30:00",
-      "fin": "2026-11-09T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerplano.jpg"
-    },
-    {
-      "titulo": "Al derecho",
-      "descripcion": "Se presentan consejos sobre temas legislativos, económicos y financieros.",
-      "inicio": "2026-11-09T04:00:00",
-      "fin": "2026-11-09T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TV Agro",
-      "descripcion": "Difusión de temas del sector agropecuario dentro de un contexto didáctico e informativo.",
-      "inicio": "2026-11-09T04:30:00",
-      "fin": "2026-11-09T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Testigo directo",
-      "descripcion": "Un programa periodístico moderno, con reporteros y periodistas arriesgados que cubren sucesos y casos impactantes de la vida real.",
-      "inicio": "2026-11-09T05:00:00",
-      "fin": "2026-11-09T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bloque económico",
-      "descripcion": "El más completo análisis de los mercados bursátiles a nivel mundial, desde su apertura hasta su cierre.",
-      "inicio": "2026-11-09T05:30:00",
-      "fin": "2026-11-09T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "CCTV China",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-09T06:00:00",
-      "fin": "2026-11-09T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Deportes Cable Noticias",
-      "descripcion": "Lo mejor de todos los deportes nacionales e internacionales. Fútbol, tenis, ciclismo, carreras automovilísticas y mucho más.",
-      "inicio": "2026-11-09T06:30:00",
-      "fin": "2026-11-09T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Noticias Uno",
-      "descripcion": "Las noticias a nivel nacional e internacional de la mano de los mejores periodistas.",
-      "inicio": "2026-11-09T07:00:00",
-      "fin": "2026-11-09T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Al día con el agro",
-      "descripcion": "Un magazine dedicado a la actualidad del agro en Colombia con todo lo que tenés que saber del campo y la agricultura.",
-      "inicio": "2026-11-09T07:30:00",
-      "fin": "2026-11-09T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Testigo directo",
-      "descripcion": "Un programa periodístico moderno, con reporteros y periodistas arriesgados que cubren sucesos y casos impactantes de la vida real.",
-      "inicio": "2026-11-09T08:00:00",
-      "fin": "2026-11-09T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "TV Agro",
-      "descripcion": "Difusión de temas del sector agropecuario dentro de un contexto didáctico e informativo.",
-      "inicio": "2026-11-09T08:30:00",
-      "fin": "2026-11-09T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¿Cómo te afecta?",
-      "descripcion": "El programa para los jóvenes de América Latina\n\nLas nuevas generaciones consumen noticias, sobre todo, en redes sociales. ¿Cómo te afecta? quiere llegar a jóvenes y adolescentes de América Latina con temas de actualidad que les preocupan y afectan.\n\nEl lenguaje visual de ¿Cómo te afecta? es fresco, dinámico, basado en el estilo que impera en YouTube y al que están acostumbrados los jóvenes de hoy en día, alejados de los programas tradicionales de televisión.\n\nErnesto Andrés Fuenmayor y Tamara Rivera Castro serán los YouTubers que analicen y pongan en contexto temas y noticias de actualidad con voces de  jóvenes afectados por estos problemas, pero también de expertos que ayuden a pensar en soluciones ofreciendo, de este modo, un periodismo constructivo.",
-      "inicio": "2026-11-09T09:00:00",
-      "fin": "2026-11-09T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comoteafecta.jpg"
-    },
-    {
-      "titulo": "Al derecho",
-      "descripcion": "Se presentan consejos sobre temas legislativos, económicos y financieros.",
-      "inicio": "2026-11-09T09:30:00",
-      "fin": "2026-11-09T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En Forma",
-      "descripcion": "En Forma es un programa de televisión de la cadena alemana DW (Deutsche Welle) enfocado en la salud, el bienestar, la actividad física, la nutrición y un estilo de vida saludable. Presenta reportajes, consejos prácticos de ejercicio y bienestar integral desde una perspectiva dinámica y moderna.",
-      "inicio": "2026-11-09T10:00:00",
-      "fin": "2026-11-09T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enforma.jpg"
-    },
-    {
-      "titulo": "Especial Salud",
-      "descripcion": "Sección dedicada a informar sobre lo más destacado en el área de la salud en Colombia y el mundo, los avances, los problemas, las soluciones, las políticas, con entrevistas a los expertos.",
-      "inicio": "2026-11-09T10:30:00",
-      "fin": "2026-11-09T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La otra cara de la moneda",
-      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
-      "inicio": "2026-11-09T11:00:00",
-      "fin": "2026-11-09T12:00:00",
+      "titulo": "CableNoticias: En la Mañana",
+      "descripcion": "Informativo que resume la actualidad nacional e internacional. El registro de los hechos más importantes y llevados en el momento que se producen. Las noticias en desarrollo, los personajes y el análisis de los sucesos impactantes.",
+      "inicio": "2026-11-10T12:00:00",
+      "fin": "2026-11-10T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

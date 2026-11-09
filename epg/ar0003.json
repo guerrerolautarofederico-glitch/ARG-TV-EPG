@@ -1,73 +1,108 @@
 {
   "actual": {
-    "titulo": "La familia Ingalls",
-    "descripcion": "Una familia de pioneros lucha por sobrevivir en Minnesota alrededor del año 1870.",
-    "inicio": "2026-11-08T11:00:00",
-    "fin": "2026-11-08T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lafamiliaingalls.jpg"
+    "titulo": "Mediodía noticias",
+    "descripcion": "Toda la información sobre la actualidad nacional e internacional, y diversos temas de interés del público.",
+    "inicio": "2026-11-09T13:00:00",
+    "fin": "2026-11-09T14:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "El papa en la Argentina",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-11-08T14:00:00",
-    "fin": "2026-11-08T20:00:00",
+    "titulo": "La cocina rebelde",
+    "descripcion": "Con humor, recetas fáciles, consejos de nutrición e invitados especiales, el programa promete romper con el formato tradicional de cocina.",
+    "inicio": "2026-11-09T14:30:00",
+    "fin": "2026-11-09T16:15:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "La familia Ingalls",
-      "descripcion": "Una familia de pioneros lucha por sobrevivir en Minnesota alrededor del año 1870.",
-      "inicio": "2026-11-08T11:00:00",
-      "fin": "2026-11-08T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lafamiliaingalls.jpg"
-    },
-    {
-      "titulo": "El papa en la Argentina",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-08T14:00:00",
-      "fin": "2026-11-08T20:00:00",
+      "titulo": "Mediodía noticias",
+      "descripcion": "Toda la información sobre la actualidad nacional e internacional, y diversos temas de interés del público.",
+      "inicio": "2026-11-09T13:00:00",
+      "fin": "2026-11-09T14:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "CODA: Señales del corazón",
-      "descripcion": "Ruby es el único miembro con audición de una familia de sordos. Cada mañana, antes de ir a clases, trabaja con sus padres y su hermano tratando de mantener a flote su negocio. En el coro de la escuela, Ruby descubre su pasión por la música.",
-      "inicio": "2026-11-08T20:00:00",
-      "fin": "2026-11-08T22:00:00",
+      "titulo": "La cocina rebelde",
+      "descripcion": "Con humor, recetas fáciles, consejos de nutrición e invitados especiales, el programa promete romper con el formato tradicional de cocina.",
+      "inicio": "2026-11-09T14:30:00",
+      "fin": "2026-11-09T16:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Desafiantes",
-      "descripcion": "Tashi, entrenadora de tenis, ha convertido a Art, su esposo, en una de las grandes estrellas del circuito. Art, quien atraviesa una mala época, acepta jugar un torneo sin importancia, donde se enfrenta al exnovio de Tashi, su antiguo mejor amigo.",
-      "inicio": "2026-11-08T22:00:00",
-      "fin": "2026-11-09T00:30:00",
+      "titulo": "Cuestión de peso",
+      "descripcion": "Personas con sobrepeso reciben ayuda para mejorar su calidad de vida.",
+      "inicio": "2026-11-09T16:15:00",
+      "fin": "2026-11-09T18:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "¡Ahora caigo!",
+      "descripcion": "Un concurso de agilidad mental, conocimientos de cultura general y rapidez en dónde los concursantes competirán para convertirse en el líder y conseguir el gran premio final.",
+      "inicio": "2026-11-09T18:15:00",
+      "fin": "2026-11-09T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahoracaigo.jpg"
+    },
+    {
+      "titulo": "Telenoche",
+      "descripcion": "El mejor equipo de profesionales, primero estás vos.",
+      "inicio": "2026-11-09T20:00:00",
+      "fin": "2026-11-09T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telenoche.jpg"
+    },
+    {
+      "titulo": "Es mi sueño",
+      "descripcion": "En busca de la nueva estrella que brille en todo el país y que, con su talento e historia, conmueva a todos los argentinos. El objetivo es descubrir esa voz, esa presencia, ese artista capaz de trascender la pantalla y conquistar corazones.",
+      "inicio": "2026-11-09T21:00:00",
+      "fin": "2026-11-09T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Otro día perdido",
+      "descripcion": "Un espacio para romper con lo establecido, cuestionar la actualidad desde una mirada ácida y divertida, y ofrecer un diálogo con el espectador.",
+      "inicio": "2026-11-09T22:30:00",
+      "fin": "2026-11-10T00:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/otrodiaperdido.jpg"
+    },
+    {
+      "titulo": "Síntesis",
+      "descripcion": "Programa semanal en el que se abordarán los acontecimientos sociales, políticos y económicos más importantes en América Latina.",
+      "inicio": "2026-11-10T00:15:00",
+      "fin": "2026-11-10T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Cucinare",
       "descripcion": "Un programa compuesto de videos breves que explican el paso a paso para realizar las mejores y más sencillas recetas de cocina.",
-      "inicio": "2026-11-09T00:30:00",
-      "fin": "2026-11-09T01:00:00",
+      "inicio": "2026-11-10T01:00:00",
+      "fin": "2026-11-10T01:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Cierre de transmisiones",
       "descripcion": "Fin de emisión diaria del canal.",
-      "inicio": "2026-11-09T01:00:00",
-      "fin": "2026-11-09T06:30:00",
+      "inicio": "2026-11-10T01:15:00",
+      "fin": "2026-11-10T06:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
     },
     {
       "titulo": "Arriba argentinos",
       "descripcion": "La mejor información actualizada para empezar el día, con todo lo que se necesita saber antes de salir de casa. El estado y pronóstico del tiempo, el del tránsito, el funcionamiento de los servicios públicos y mucho más.",
-      "inicio": "2026-11-09T06:30:00",
-      "fin": "2026-11-09T09:00:00",
+      "inicio": "2026-11-10T06:30:00",
+      "fin": "2026-11-10T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "El papa en la Argentina",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-09T09:00:00",
-      "fin": "2026-11-09T13:00:00",
+      "inicio": "2026-11-10T09:00:00",
+      "fin": "2026-11-10T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mediodía noticias",
+      "descripcion": "Toda la información sobre la actualidad nacional e internacional, y diversos temas de interés del público.",
+      "inicio": "2026-11-10T13:00:00",
+      "fin": "2026-11-10T14:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

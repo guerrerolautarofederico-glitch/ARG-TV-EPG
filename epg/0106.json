@@ -1,116 +1,158 @@
 {
   "actual": {
-    "titulo": "CHV Noticias AM",
-    "descripcion": "Matilde Burgos hace un repaso con todas las informaciones de la semana, de manera entretenida y con información en vivo.",
-    "inicio": "2026-11-08T08:30:00",
-    "fin": "2026-11-08T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasam.jpg"
-  },
-  "siguiente": {
     "titulo": "CHV noticias tarde",
     "descripcion": "La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.",
-    "inicio": "2026-11-08T13:00:00",
-    "fin": "2026-11-08T14:45:00",
+    "inicio": "2026-11-09T13:00:00",
+    "fin": "2026-11-09T14:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiastarde.jpg"
+  },
+  "siguiente": {
+    "titulo": "CHV",
+    "descripcion": "La información de este programa no se encuentra disponible.",
+    "inicio": "2026-11-09T14:00:00",
+    "fin": "2026-11-09T15:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0106_fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "CHV Noticias AM",
-      "descripcion": "Matilde Burgos hace un repaso con todas las informaciones de la semana, de manera entretenida y con información en vivo.",
-      "inicio": "2026-11-08T08:30:00",
-      "fin": "2026-11-08T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasam.jpg"
-    },
-    {
       "titulo": "CHV noticias tarde",
       "descripcion": "La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.",
-      "inicio": "2026-11-08T13:00:00",
-      "fin": "2026-11-08T14:45:00",
+      "inicio": "2026-11-09T13:00:00",
+      "fin": "2026-11-09T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiastarde.jpg"
     },
     {
-      "titulo": "JJOO de la Juventud",
+      "titulo": "CHV",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-08T14:45:00",
-      "fin": "2026-11-08T16:00:00",
+      "inicio": "2026-11-09T14:00:00",
+      "fin": "2026-11-09T15:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0106_fallback.jpg"
     },
     {
-      "titulo": "Sabingo",
-      "descripcion": "Te acompañamos cada sábado y domingo con historias humanas, notas de viajes y sobre todo mucha entretención.",
-      "inicio": "2026-11-08T16:00:00",
-      "fin": "2026-11-08T20:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sabingo.jpg"
+      "titulo": "Contigo en directo",
+      "descripcion": "Análisis de la contingencia, con una amplia cobertura de los temas más relevantes del día a día.",
+      "inicio": "2026-11-09T15:30:00",
+      "fin": "2026-11-09T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/contigoendirecto.jpg"
+    },
+    {
+      "titulo": "Plan perfecto",
+      "descripcion": "Un programa donde la entretención y el espectáculo son protagonistas.",
+      "inicio": "2026-11-09T17:30:00",
+      "fin": "2026-11-09T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planperfecto.jpg"
+    },
+    {
+      "titulo": "CHV",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-09T18:00:00",
+      "fin": "2026-11-09T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0106_fallback.jpg"
     },
     {
       "titulo": "CHV noticias central",
       "descripcion": "Todas las noticias de Chile y el mundo tratadas con seriedad, rigurosidad, profundidad y objetividad, con los temas que de verdad le interesan a la gente y un punto de vista crítico e independiente.",
-      "inicio": "2026-11-08T20:20:00",
-      "fin": "2026-11-08T22:30:00",
+      "inicio": "2026-11-09T20:00:00",
+      "fin": "2026-11-09T21:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiascentral.jpg"
+    },
+    {
+      "titulo": "CHV",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-09T21:00:00",
+      "fin": "2026-11-09T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0106_fallback.jpg"
     },
     {
       "titulo": "El tiempo CHV",
       "descripcion": "Conoce los detalles del tiempo a lo largo de todo el territorio nacional, con el informe metorológico completo junto a Chilevisión.",
-      "inicio": "2026-11-08T22:30:00",
-      "fin": "2026-11-08T22:35:00",
+      "inicio": "2026-11-09T22:30:00",
+      "fin": "2026-11-09T22:35:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempochv.jpg"
     },
     {
       "titulo": "Fiebre de canto",
       "descripcion": "Famosos compiten poniendo a prueba todo su talento, evaluados por un estricto jurado.",
-      "inicio": "2026-11-08T22:35:00",
-      "fin": "2026-11-09T00:45:00",
+      "inicio": "2026-11-09T22:35:00",
+      "fin": "2026-11-10T00:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fiebredecanto.jpg"
     },
     {
-      "titulo": "El VAR de Fiebre de Canto - Lo mejor",
+      "titulo": "El VAR de Fiebre de canto",
       "descripcion": "Espacio de conversación y análisis tras cada capítulo del reality Fiebre de canto.",
-      "inicio": "2026-11-09T00:45:00",
-      "fin": "2026-11-09T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elvardefiebredecantolomejor.jpg"
+      "inicio": "2026-11-10T00:45:00",
+      "fin": "2026-11-10T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elvardefiebredecanto.jpg"
     },
     {
-      "titulo": "Traicionada - Lo mejor",
-      "descripcion": "La vida perfecta de Asya se desmorona cuando, impulsada por una sospecha, desnuda una red de mentiras y confirma que Volkan, su esposo y padre de su hijo, vive una relación extramatrimonial.",
-      "inicio": "2026-11-09T01:30:00",
-      "fin": "2026-11-09T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/traicionadalomejor.jpg"
+      "titulo": "Traicionada",
+      "descripcion": "Jamie Taylor (Melissa George) parece tener una vida perfecta junto a su familia: vive con un marido encantador y un hijo adorable en una bonita casa de los suburbios. Pero un día tras un accidente de coche se despierta para descubrir que ha sido secuestrada por un captor con una máscara, que le dice que su marido es un asesino...",
+      "inicio": "2026-11-10T01:30:00",
+      "fin": "2026-11-10T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/traicionada.jpg"
+    },
+    {
+      "titulo": "CHV",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-10T02:00:00",
+      "fin": "2026-11-10T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0106_fallback.jpg"
     },
     {
       "titulo": "Fiebre de canto",
       "descripcion": "Famosos compiten poniendo a prueba todo su talento, evaluados por un estricto jurado.",
-      "inicio": "2026-11-09T03:00:00",
-      "fin": "2026-11-09T05:00:00",
+      "inicio": "2026-11-10T02:30:00",
+      "fin": "2026-11-10T04:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fiebredecanto.jpg"
+    },
+    {
+      "titulo": "Contigo en directo",
+      "descripcion": "Análisis de la contingencia, con una amplia cobertura de los temas más relevantes del día a día.",
+      "inicio": "2026-11-10T04:30:00",
+      "fin": "2026-11-10T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/contigoendirecto.jpg"
     },
     {
       "titulo": "El Lado B de las Noticias",
       "descripcion": "Una revisión de las noticias sobre espectáculos, cine, tecnología y virales para despertar de buen ánimo.",
-      "inicio": "2026-11-09T05:00:00",
-      "fin": "2026-11-09T05:30:00",
+      "inicio": "2026-11-10T05:00:00",
+      "fin": "2026-11-10T05:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elladobdelasnoticias.jpg"
     },
     {
       "titulo": "Primera página",
       "descripcion": "Las noticias más destacadas de la jornada de Chile y el mundo.",
-      "inicio": "2026-11-09T05:30:00",
-      "fin": "2026-11-09T06:00:00",
+      "inicio": "2026-11-10T05:30:00",
+      "fin": "2026-11-10T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerapagina.jpg"
     },
     {
-      "titulo": "CHV",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-09T06:00:00",
-      "fin": "2026-11-09T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0106_fallback.jpg"
+      "titulo": "Contigo CHV noticias AM",
+      "descripcion": "Es un noticiero cuyo principal objetivo es convertirse en la mejor compañía de aquellos que comienzan a levantarse y que necesitan salir informados de sus hogares.",
+      "inicio": "2026-11-10T06:00:00",
+      "fin": "2026-11-10T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/contigochvnoticiasam.jpg"
+    },
+    {
+      "titulo": "Contigo en la mañana",
+      "descripcion": "Información y entretención para mantenerse al día sobre los temas que mueven la vida.",
+      "inicio": "2026-11-10T08:00:00",
+      "fin": "2026-11-10T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/contigoenlamanana.jpg"
     },
     {
       "titulo": "CHV",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-09T10:00:00",
-      "fin": "2026-11-09T14:00:00",
+      "inicio": "2026-11-10T10:00:00",
+      "fin": "2026-11-10T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0106_fallback.jpg"
+    },
+    {
+      "titulo": "CHV noticias tarde",
+      "descripcion": "La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.",
+      "inicio": "2026-11-10T13:00:00",
+      "fin": "2026-11-10T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiastarde.jpg"
     }
   ]
 }
