@@ -1,67 +1,179 @@
 {
   "actual": {
-    "titulo": "UChile TV",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-11-09T10:00:00",
-    "fin": "2026-11-09T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
+    "titulo": "Radio análisis",
+    "descripcion": "Las noticias más relevantes ocurridas durante el día.",
+    "inicio": "2026-11-10T13:00:00",
+    "fin": "2026-11-10T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radioanalisis.jpg"
   },
   "siguiente": {
-    "titulo": "UChile TV",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-11-09T14:00:00",
-    "fin": "2026-11-09T18:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
+    "titulo": "Factos",
+    "descripcion": "Programa de análisis contingente, que junto a diferentes invitados, analizan las noticias y el debate político que marcan la pauta en Chile y el mundo.",
+    "inicio": "2026-11-10T14:00:00",
+    "fin": "2026-11-10T14:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/factos.jpg"
   },
   "lista": [
     {
-      "titulo": "UChile TV",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-09T10:00:00",
-      "fin": "2026-11-09T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
-    },
-    {
-      "titulo": "UChile TV",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-09T14:00:00",
-      "fin": "2026-11-09T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
-    },
-    {
-      "titulo": "UChile TV",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-09T18:00:00",
-      "fin": "2026-11-09T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
-    },
-    {
-      "titulo": "UChile TV",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-09T21:00:00",
-      "fin": "2026-11-10T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
-    },
-    {
-      "titulo": "UChile TV",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-10T02:00:00",
-      "fin": "2026-11-10T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
-    },
-    {
-      "titulo": "UChile TV",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-10T06:00:00",
-      "fin": "2026-11-10T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
-    },
-    {
-      "titulo": "UChile TV",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-10T10:00:00",
+      "titulo": "Radio análisis",
+      "descripcion": "Las noticias más relevantes ocurridas durante el día.",
+      "inicio": "2026-11-10T13:00:00",
       "fin": "2026-11-10T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radioanalisis.jpg"
+    },
+    {
+      "titulo": "Factos",
+      "descripcion": "Programa de análisis contingente, que junto a diferentes invitados, analizan las noticias y el debate político que marcan la pauta en Chile y el mundo.",
+      "inicio": "2026-11-10T14:00:00",
+      "fin": "2026-11-10T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/factos.jpg"
+    },
+    {
+      "titulo": "La Vitrola",
+      "descripcion": "La Vitrola.cl es un galardonado sitio chileno dedicado a la documentación y difusión de videoclips en vivo y unplugged.",
+      "inicio": "2026-11-10T14:30:00",
+      "fin": "2026-11-10T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lavitrola.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
+      "inicio": "2026-11-10T15:30:00",
+      "fin": "2026-11-10T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Alonso y Cachudito",
+      "descripcion": "Las aventuras de Alonso y Cachudito nos enseñan a jugar en nuestros patios y con la naturaleza.",
+      "inicio": "2026-11-10T16:30:00",
+      "fin": "2026-11-10T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alonsoycachudito.jpg"
+    },
+    {
+      "titulo": "Caleidoscopio",
+      "descripcion": "Programa que ofrece una mirada amplia y diversa sobre el estado de las artes, la cultura, los patrimonios y los territorios en Chile, a través de los mejores documentales y reportajes.",
+      "inicio": "2026-11-10T17:00:00",
+      "fin": "2026-11-10T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/caleidoscopio.jpg"
+    },
+    {
+      "titulo": "Repertorio CL: Solo videoclips",
+      "descripcion": "En su versión más elemental, mostramos los videoclips de la música chilena contemporánea.",
+      "inicio": "2026-11-10T18:00:00",
+      "fin": "2026-11-10T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/repertorioclsolovideoclips.jpg"
+    },
+    {
+      "titulo": "Qué pasó con mi curso",
+      "descripcion": "Serie documental que relata las historias de distintos cursos de enseñanza básica y/o media, que se vuelven a encontrar años después de haber egresado.",
+      "inicio": "2026-11-10T18:30:00",
+      "fin": "2026-11-10T19:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
+    },
+    {
+      "titulo": "Espíritus de barro",
+      "descripcion": "Viajamos con Dani, estudiante de cerámica, desde Chiloé en busca del espíritu ancestral de trabajar la tierra, un impulso universal presente en todas las civilizaciones.",
+      "inicio": "2026-11-10T19:30:00",
+      "fin": "2026-11-10T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
+    },
+    {
+      "titulo": "En la ruta del libro",
+      "descripcion": "A través de diversas obras literarias y personajes de la sociedad, conocemos las regiones del país y sus contextos.",
+      "inicio": "2026-11-10T20:00:00",
+      "fin": "2026-11-10T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlarutadellibro.jpg"
+    },
+    {
+      "titulo": "Democracy Now!",
+      "descripcion": "Los destacados periodistas Amy Goodman y Juan González te informan diariamente sobre el acontecer global desde Nueva York.",
+      "inicio": "2026-11-10T21:00:00",
+      "fin": "2026-11-10T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/democracynow.jpg"
+    },
+    {
+      "titulo": "Había una vez un circo",
+      "descripcion": "Memorias del circo chileno: sus protagonistas, tradiciones, oficios y vida trashumante.",
+      "inicio": "2026-11-10T22:00:00",
+      "fin": "2026-11-10T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/habiaunavezuncirco.jpg"
+    },
+    {
+      "titulo": "Oficios extraordinarios",
+      "descripcion": "Programa de entrevista a diferentes personas que tienen oficios fuera de lo común.",
+      "inicio": "2026-11-10T22:30:00",
+      "fin": "2026-11-10T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/oficiosextraordinarios.jpg"
+    },
+    {
+      "titulo": "Ciclo de documentales Miradas Latinas",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-10T23:00:00",
+      "fin": "2026-11-10T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
+    },
+    {
+      "titulo": "Dominio público • El inquilino",
+      "descripcion": "El inquilino | Exhibición de películas de bajo presupuesto, cine de género y obras de culto liberadas de derechos de exhibición, todas presentadas y analizadas por Felipe Blanco.",
+      "inicio": "2026-11-10T23:30:00",
+      "fin": "2026-11-11T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dominiopublico.jpg"
+    },
+    {
+      "titulo": "Imágenes paganas",
+      "descripcion": "Video arte y otras narraciones de la imagen en movimiento. Experiencias visuales sin censura.",
+      "inicio": "2026-11-11T01:00:00",
+      "fin": "2026-11-11T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/imagenespaganas.jpg"
+    },
+    {
+      "titulo": "Cierre de transmisiones",
+      "descripcion": "Fin de emisión diaria del canal.",
+      "inicio": "2026-11-11T02:00:00",
+      "fin": "2026-11-11T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
+    },
+    {
+      "titulo": "UChile TV",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-11T03:00:00",
+      "fin": "2026-11-11T06:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0115_fallback.jpg"
+    },
+    {
+      "titulo": "Perrito galáctico",
+      "descripcion": "El quiltro chileno que viaja al espacio con sus amigos y vive aventuras singulares con extraterrestres y más.",
+      "inicio": "2026-11-11T06:35:00",
+      "fin": "2026-11-11T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/perritogalactico.jpg"
+    },
+    {
+      "titulo": "Radio análisis",
+      "descripcion": "Las noticias más relevantes ocurridas durante el día.",
+      "inicio": "2026-11-11T07:00:00",
+      "fin": "2026-11-11T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radioanalisis.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
+      "inicio": "2026-11-11T10:00:00",
+      "fin": "2026-11-11T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "La fuente",
+      "descripcion": "Espacio misceláneo y de contingencia, enfocado en ciencia, tecnología, cultura, deporte, entretención, efemérides y carteleras.",
+      "inicio": "2026-11-11T12:00:00",
+      "fin": "2026-11-11T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lafuente.jpg"
+    },
+    {
+      "titulo": "Radio análisis",
+      "descripcion": "Las noticias más relevantes ocurridas durante el día.",
+      "inicio": "2026-11-11T13:00:00",
+      "fin": "2026-11-11T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/radioanalisis.jpg"
     }
   ]
 }

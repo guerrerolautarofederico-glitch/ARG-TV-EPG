@@ -1,80 +1,101 @@
 {
   "actual": {
-    "titulo": "Senado TV",
-    "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
-    "inicio": "2026-11-08T19:40:00",
-    "fin": "2026-11-09T19:40:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Sesión de comisión",
+    "descripcion": "La información de este programa no se encuentra disponible.",
+    "inicio": "2026-11-10T09:30:00",
+    "fin": "2026-11-10T16:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondecomision.jpg"
   },
   "siguiente": {
-    "titulo": "Senado TV",
-    "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
-    "inicio": "2026-11-09T19:40:00",
-    "fin": "2026-11-09T22:10:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Sesión de sala",
+    "descripcion": "Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.",
+    "inicio": "2026-11-10T16:00:00",
+    "fin": "2026-11-10T20:10:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondesala.jpg"
   },
   "lista": [
-    {
-      "titulo": "Senado TV",
-      "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
-      "inicio": "2026-11-08T19:40:00",
-      "fin": "2026-11-09T19:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Senado TV",
-      "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
-      "inicio": "2026-11-09T19:40:00",
-      "fin": "2026-11-09T22:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Senado TV",
-      "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
-      "inicio": "2026-11-09T22:10:00",
-      "fin": "2026-11-10T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Inicio de programación",
-      "descripcion": "Comienzo de emisión diaria del canal.",
-      "inicio": "2026-11-10T07:00:00",
-      "fin": "2026-11-10T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Inicio de programación",
-      "descripcion": "Comienzo de emisión diaria del canal.",
-      "inicio": "2026-11-10T07:00:00",
-      "fin": "2026-11-10T07:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Speakers CF 2026",
-      "descripcion": "Sigue uno de los eventos más destacados de ciencia, tecnología y pensamiento celebrados en Chile: la edición número 15 del Congreso Futuro (CF) que presenta charlas de expertos internacionales y nacionales sobre desafíos globales.",
-      "inicio": "2026-11-10T07:05:00",
-      "fin": "2026-11-10T07:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sesión de comisión",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-10T07:35:00",
-      "fin": "2026-11-10T07:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondecomision.jpg"
-    },
-    {
-      "titulo": "Senado TV",
-      "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
-      "inicio": "2026-11-10T07:55:00",
-      "fin": "2026-11-10T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Sesión de comisión",
       "descripcion": "La información de este programa no se encuentra disponible.",
       "inicio": "2026-11-10T09:30:00",
       "fin": "2026-11-10T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondecomision.jpg"
+    },
+    {
+      "titulo": "Sesión de sala",
+      "descripcion": "Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.",
+      "inicio": "2026-11-10T16:00:00",
+      "fin": "2026-11-10T20:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondesala.jpg"
+    },
+    {
+      "titulo": "Futuro en presente",
+      "descripcion": "Un espacio para reflexionar sobre los desafíos y oportunidades que marcarán el mundo que viene. A través de conversaciones con destacadas personalidades, este podcast abre el diálogo sobre temas clave para construir el Chile del futuro.",
+      "inicio": "2026-11-10T20:10:00",
+      "fin": "2026-11-10T21:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futuroenpresente.jpg"
+    },
+    {
+      "titulo": "Senado TV",
+      "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
+      "inicio": "2026-11-10T21:15:00",
+      "fin": "2026-11-10T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Profundidad de campos",
+      "descripcion": "Sergio Campos Ulloa conversa con los legisladores sobre agenda legislativa y actualidad.",
+      "inicio": "2026-11-10T22:00:00",
+      "fin": "2026-11-10T22:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/profundidaddecampos.jpg"
+    },
+    {
+      "titulo": "Voto femenino 2026",
+      "descripcion": "Conoce el podcast del Congreso Nacional que conmemora los 74 años del sufragio femenino en Chile. Durante cuatro episodios, senadoras y diputadas abordan temas claves como la ley de cuotas y el liderazgo femenino y la violencia digital.",
+      "inicio": "2026-11-10T22:50:00",
+      "fin": "2026-11-10T23:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sesión de comisión",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-10T23:25:00",
+      "fin": "2026-11-11T00:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondecomision.jpg"
+    },
+    {
+      "titulo": "Senado TV",
+      "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
+      "inicio": "2026-11-11T00:35:00",
+      "fin": "2026-11-11T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Inicio de programación",
+      "descripcion": "Comienzo de emisión diaria del canal.",
+      "inicio": "2026-11-11T07:00:00",
+      "fin": "2026-11-11T07:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Speakers CF 2026",
+      "descripcion": "Sigue uno de los eventos más destacados de ciencia, tecnología y pensamiento celebrados en Chile: la edición número 15 del Congreso Futuro (CF) que presenta charlas de expertos internacionales y nacionales sobre desafíos globales.",
+      "inicio": "2026-11-11T07:10:00",
+      "fin": "2026-11-11T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sesión de comisión",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-11T08:00:00",
+      "fin": "2026-11-11T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondecomision.jpg"
+    },
+    {
+      "titulo": "Sesión de comisión",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-11T09:30:00",
+      "fin": "2026-11-11T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondecomision.jpg"
     }
   ]
