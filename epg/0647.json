@@ -1,131 +1,19 @@
 {
   "actual": {
-    "titulo": "Alexandra a las 12",
-    "descripcion": "La presentadora Alexandra Fuentes te trae en vivo la combinación perfecta entre entretenimiento y análisis noticioso con invitados y entrevistas amenas.",
-    "inicio": "2026-11-10T12:30:00",
-    "fin": "2026-11-10T14:00:00",
+    "titulo": "Telenoticias",
+    "descripcion": "Noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama en Puerto Rico y el mundo.",
+    "inicio": "2026-11-11T12:00:00",
+    "fin": "2026-11-11T12:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Día a día",
-    "descripcion": "Un espacio periodístico que presenta un resumen de las noticias más importantes del día, una proyección de los temas que serán noticia en la jornada que se inicia.",
-    "inicio": "2026-11-10T14:00:00",
-    "fin": "2026-11-10T17:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/diaadia.jpg"
+    "titulo": "Alexandra a las 12",
+    "descripcion": "La presentadora Alexandra Fuentes te trae en vivo la combinación perfecta entre entretenimiento y análisis noticioso con invitados y entrevistas amenas.",
+    "inicio": "2026-11-11T12:30:00",
+    "fin": "2026-11-11T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Alexandra a las 12",
-      "descripcion": "La presentadora Alexandra Fuentes te trae en vivo la combinación perfecta entre entretenimiento y análisis noticioso con invitados y entrevistas amenas.",
-      "inicio": "2026-11-10T12:30:00",
-      "fin": "2026-11-10T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Día a día",
-      "descripcion": "Un espacio periodístico que presenta un resumen de las noticias más importantes del día, una proyección de los temas que serán noticia en la jornada que se inicia.",
-      "inicio": "2026-11-10T14:00:00",
-      "fin": "2026-11-10T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/diaadia.jpg"
-    },
-    {
-      "titulo": "Telenoticias",
-      "descripcion": "Noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama en Puerto Rico y el mundo.",
-      "inicio": "2026-11-10T17:00:00",
-      "fin": "2026-11-10T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Primera pregunta",
-      "descripcion": "Lo último en análisis político y de actualidad, con espacio para opinión, entrevistas e información exclusiva.",
-      "inicio": "2026-11-10T18:30:00",
-      "fin": "2026-11-10T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Juego de villanos",
-      "descripcion": "Sigue a famosas personalidades de reality shows que viven bajo un mismo techo mientras navegan por alianzas cambiantes y compiten en desafíos para hacerse con el título de supervillano",
-      "inicio": "2026-11-10T19:00:00",
-      "fin": "2026-11-10T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/juegodevillanos.jpg"
-    },
-    {
-      "titulo": "Raymond y sus amigos",
-      "descripcion": "El comediante se reúne con sus amigos para un programa de comedia y variedad.",
-      "inicio": "2026-11-10T21:00:00",
-      "fin": "2026-11-10T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Rayos X",
-      "descripcion": "Susan Jeremy es una chica que es perseguida por un antiguo novio psicópata a lo largo y ancho del hospital al que ha ido a hacerse una revisión. El psicópata matará a todo aquel que se interponga en su camino.",
-      "inicio": "2026-11-10T23:00:00",
-      "fin": "2026-11-11T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rayosx.jpg"
-    },
-    {
-      "titulo": "El señor de los cielos",
-      "descripcion": "La serie narra la historia de Aurelio Casillas, uno de los narcotraficante más importantes de México en los años 90. La única ambición de Aurelio era convertirse en el narco más poderoso de todo México, sin importarle ser cauteloso y mucho menos llamativo. Logró tener fortuna, mujeres, casas, edificios y mansiones sin mucho esfuerzo.",
-      "inicio": "2026-11-11T00:30:00",
-      "fin": "2026-11-11T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elsenordeloscielos.jpg"
-    },
-    {
-      "titulo": "En casa con Telemundo",
-      "descripcion": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
-      "inicio": "2026-11-11T01:30:00",
-      "fin": "2026-11-11T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pasión De Gavilanes",
-      "descripcion": "Los hermanos Reyes buscan vengar la muerte de su hermana, lo que les lleva a instalarse como trabajadores en la mansión de la familia Elizondo. El profundo odio comienza a cambiar cuando los hermanos Reyes se integran en la vida de la familia. Con lo que no cuenta Juan es con que su vida y las de sus dos hermanos se cruzará con la de las tres hermanas Elizondo, corriendo el riesgo de caer presos de su propia venganza...",
-      "inicio": "2026-11-11T02:30:00",
-      "fin": "2026-11-11T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasiondegavilanes.jpg"
-    },
-    {
-      "titulo": "Alexandra a las 12",
-      "descripcion": "La presentadora Alexandra Fuentes te trae en vivo la combinación perfecta entre entretenimiento y análisis noticioso con invitados y entrevistas amenas.",
-      "inicio": "2026-11-11T03:30:00",
-      "fin": "2026-11-11T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Caso cerrado",
-      "descripcion": "La doctora Ana María Polo interviene en batallas legales que afectan a los latinos. Como en una corte, las partes presentan testigos y evidencias para que ella emita su decisión. Además, expertos contribuyen con sus conocimientos.",
-      "inicio": "2026-11-11T05:00:00",
-      "fin": "2026-11-11T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casocerrado.jpg"
-    },
-    {
-      "titulo": "Historias de la Virgen Morena",
-      "descripcion": "Serie dramática con capítulos independientes que resaltan casos inspirados en hechos reales, en los cuales los personajes atraviesan grandes dificultades y acuden a Nuestra Señora de Guadalupe, conocida en México como 'La Virgen Morena', para que les dé una resolución milagrosa a sus problemas.",
-      "inicio": "2026-11-11T06:00:00",
-      "fin": "2026-11-11T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/historiasdelavirgenmorena.jpg"
-    },
-    {
-      "titulo": "Pegao's en la mañana",
-      "descripcion": "Un espacio ágil, incisivo y conectado con la realidad para ofrecer periodismo relevante, rico en contexto y perspectiva.",
-      "inicio": "2026-11-11T07:00:00",
-      "fin": "2026-11-11T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hoy día Puerto Rico",
-      "descripcion": "Un espacio en el que se comparten noticias de actualidad y temas importantes sobre salud, entretenimiento, tecnología y mucho más, para comenzar el día de forma amena y bien informado.",
-      "inicio": "2026-11-11T09:00:00",
-      "fin": "2026-11-11T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Silvana sin lana",
-      "descripcion": "Silvana, mejor conocida como Chivis, es una mujer rica que pierde todos sus bienes materiales debido a una estafa de su marido, quien huye del país para evitar ser arrestado. De la noche a la mañana tendrá que mudarse a una casa duplex en Hialeah donde conocerá a Manuel, su vecino, quien trabaja en un terminal pesquero de la ciudad. Ella se sentirá atraída por sus encantos pero evitará enamorarse a toda costa de un 'naco' que vende pescados para vivir. Por su parte, Manuel quien lleva ocho años siendo viudo no ha vuelto a enamorarse, pero esta dama de sociedad llegará para romper todos sus prejuicios de la forma más divertida. Entregarse al amor sería la incoherencia más grande de sus vidas, pero será muy difícil resistirse.",
-      "inicio": "2026-11-11T11:00:00",
-      "fin": "2026-11-11T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/silvanasinlana.jpg"
-    },
     {
       "titulo": "Telenoticias",
       "descripcion": "Noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama en Puerto Rico y el mundo.",
@@ -138,6 +26,125 @@
       "descripcion": "La presentadora Alexandra Fuentes te trae en vivo la combinación perfecta entre entretenimiento y análisis noticioso con invitados y entrevistas amenas.",
       "inicio": "2026-11-11T12:30:00",
       "fin": "2026-11-11T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Día a día",
+      "descripcion": "Un espacio periodístico que presenta un resumen de las noticias más importantes del día, una proyección de los temas que serán noticia en la jornada que se inicia.",
+      "inicio": "2026-11-11T14:00:00",
+      "fin": "2026-11-11T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/diaadia.jpg"
+    },
+    {
+      "titulo": "Telenoticias",
+      "descripcion": "Noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama en Puerto Rico y el mundo.",
+      "inicio": "2026-11-11T17:00:00",
+      "fin": "2026-11-11T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Primera pregunta",
+      "descripcion": "Lo último en análisis político y de actualidad, con espacio para opinión, entrevistas e información exclusiva.",
+      "inicio": "2026-11-11T19:00:00",
+      "fin": "2026-11-11T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Puerto Rico gana",
+      "descripcion": "Programa de entretenimiento para toda la familia con mucho humor, juegos y grandes premios.",
+      "inicio": "2026-11-11T20:00:00",
+      "fin": "2026-11-11T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Juego de villanos",
+      "descripcion": "Sigue a famosas personalidades de reality shows que viven bajo un mismo techo mientras navegan por alianzas cambiantes y compiten en desafíos para hacerse con el título de supervillano",
+      "inicio": "2026-11-11T21:00:00",
+      "fin": "2026-11-11T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/juegodevillanos.jpg"
+    },
+    {
+      "titulo": "Telenoticias",
+      "descripcion": "Noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama en Puerto Rico y el mundo.",
+      "inicio": "2026-11-11T23:00:00",
+      "fin": "2026-11-11T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "En casa con Telemundo",
+      "descripcion": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+      "inicio": "2026-11-11T23:30:00",
+      "fin": "2026-11-12T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El señor de los cielos",
+      "descripcion": "La serie narra la historia de Aurelio Casillas, uno de los narcotraficante más importantes de México en los años 90. La única ambición de Aurelio era convertirse en el narco más poderoso de todo México, sin importarle ser cauteloso y mucho menos llamativo. Logró tener fortuna, mujeres, casas, edificios y mansiones sin mucho esfuerzo.",
+      "inicio": "2026-11-12T00:30:00",
+      "fin": "2026-11-12T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elsenordeloscielos.jpg"
+    },
+    {
+      "titulo": "En casa con Telemundo",
+      "descripcion": "Una oferta ligera, de formato accesible y familiar que incluye entrevistas con estrellas y buenas noticias.",
+      "inicio": "2026-11-12T01:30:00",
+      "fin": "2026-11-12T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pasión De Gavilanes",
+      "descripcion": "Los hermanos Reyes buscan vengar la muerte de su hermana, lo que les lleva a instalarse como trabajadores en la mansión de la familia Elizondo. El profundo odio comienza a cambiar cuando los hermanos Reyes se integran en la vida de la familia. Con lo que no cuenta Juan es con que su vida y las de sus dos hermanos se cruzará con la de las tres hermanas Elizondo, corriendo el riesgo de caer presos de su propia venganza...",
+      "inicio": "2026-11-12T02:30:00",
+      "fin": "2026-11-12T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasiondegavilanes.jpg"
+    },
+    {
+      "titulo": "Alexandra a las 12",
+      "descripcion": "La presentadora Alexandra Fuentes te trae en vivo la combinación perfecta entre entretenimiento y análisis noticioso con invitados y entrevistas amenas.",
+      "inicio": "2026-11-12T03:30:00",
+      "fin": "2026-11-12T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Caso cerrado",
+      "descripcion": "La doctora Ana María Polo interviene en batallas legales que afectan a los latinos. Como en una corte, las partes presentan testigos y evidencias para que ella emita su decisión. Además, expertos contribuyen con sus conocimientos.",
+      "inicio": "2026-11-12T05:00:00",
+      "fin": "2026-11-12T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casocerrado.jpg"
+    },
+    {
+      "titulo": "Historias de la Virgen Morena",
+      "descripcion": "Serie dramática con capítulos independientes que resaltan casos inspirados en hechos reales, en los cuales los personajes atraviesan grandes dificultades y acuden a Nuestra Señora de Guadalupe, conocida en México como 'La Virgen Morena', para que les dé una resolución milagrosa a sus problemas.",
+      "inicio": "2026-11-12T06:00:00",
+      "fin": "2026-11-12T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/historiasdelavirgenmorena.jpg"
+    },
+    {
+      "titulo": "Pegao's en la mañana",
+      "descripcion": "Un espacio ágil, incisivo y conectado con la realidad para ofrecer periodismo relevante, rico en contexto y perspectiva.",
+      "inicio": "2026-11-12T07:00:00",
+      "fin": "2026-11-12T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hoy día Puerto Rico",
+      "descripcion": "Un espacio en el que se comparten noticias de actualidad y temas importantes sobre salud, entretenimiento, tecnología y mucho más, para comenzar el día de forma amena y bien informado.",
+      "inicio": "2026-11-12T09:00:00",
+      "fin": "2026-11-12T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Silvana sin lana",
+      "descripcion": "Silvana, mejor conocida como Chivis, es una mujer rica que pierde todos sus bienes materiales debido a una estafa de su marido, quien huye del país para evitar ser arrestado. De la noche a la mañana tendrá que mudarse a una casa duplex en Hialeah donde conocerá a Manuel, su vecino, quien trabaja en un terminal pesquero de la ciudad. Ella se sentirá atraída por sus encantos pero evitará enamorarse a toda costa de un 'naco' que vende pescados para vivir. Por su parte, Manuel quien lleva ocho años siendo viudo no ha vuelto a enamorarse, pero esta dama de sociedad llegará para romper todos sus prejuicios de la forma más divertida. Entregarse al amor sería la incoherencia más grande de sus vidas, pero será muy difícil resistirse.",
+      "inicio": "2026-11-12T11:00:00",
+      "fin": "2026-11-12T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/silvanasinlana.jpg"
+    },
+    {
+      "titulo": "Telenoticias",
+      "descripcion": "Noticias al instante con lo último sobre deportes, política, finanzas, tecnología, clima y fama en Puerto Rico y el mundo.",
+      "inicio": "2026-11-12T12:00:00",
+      "fin": "2026-11-12T12:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

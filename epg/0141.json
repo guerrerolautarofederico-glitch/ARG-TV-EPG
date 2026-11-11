@@ -1,103 +1,19 @@
 {
   "actual": {
-    "titulo": "Menú Patagonia",
-    "descripcion": "Programa de cocina con recetas locales y secretos culinarios de la Patagonia.",
-    "inicio": "2026-11-10T13:00:00",
-    "fin": "2026-11-10T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/menupatagonia.jpg"
+    "titulo": "Sonido VIP",
+    "descripcion": "Espacio dedicado a la música electrónica y sus exponentes más destacados.",
+    "inicio": "2026-11-11T12:00:00",
+    "fin": "2026-11-11T12:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sonidovip.jpg"
   },
   "siguiente": {
-    "titulo": "Hashtag",
-    "descripcion": "Programa juvenil con tendencias, redes sociales, música y cultura pop.",
-    "inicio": "2026-11-10T15:00:00",
-    "fin": "2026-11-10T17:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hashtag.jpg"
+    "titulo": "Viva Chile",
+    "descripcion": "La información de este programa no se encuentra disponible.",
+    "inicio": "2026-11-11T12:30:00",
+    "fin": "2026-11-11T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vivachile.jpg"
   },
   "lista": [
-    {
-      "titulo": "Menú Patagonia",
-      "descripcion": "Programa de cocina con recetas locales y secretos culinarios de la Patagonia.",
-      "inicio": "2026-11-10T13:00:00",
-      "fin": "2026-11-10T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/menupatagonia.jpg"
-    },
-    {
-      "titulo": "Hashtag",
-      "descripcion": "Programa juvenil con tendencias, redes sociales, música y cultura pop.",
-      "inicio": "2026-11-10T15:00:00",
-      "fin": "2026-11-10T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hashtag.jpg"
-    },
-    {
-      "titulo": "Ingobernables",
-      "descripcion": "La actualidad chilena con un enfoque fresco y entretenido. Desentrañamos lo que está pasando en Chile y el mundo, ofreciendo un análisis único y provocador además de entrevistas provocadoras en profundidad y divertidos mano a mano.",
-      "inicio": "2026-11-10T17:00:00",
-      "fin": "2026-11-10T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ingobernables.jpg"
-    },
-    {
-      "titulo": "Viva Chile",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-10T18:00:00",
-      "fin": "2026-11-10T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vivachile.jpg"
-    },
-    {
-      "titulo": "Superhits Patagonia PM",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-10T19:30:00",
-      "fin": "2026-11-10T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagoniapm.jpg"
-    },
-    {
-      "titulo": "Sin Filtros",
-      "descripcion": "Programa de debate político y de actualidad nacional, donde se discuten los temas más relevantes sin censura.",
-      "inicio": "2026-11-10T20:00:00",
-      "fin": "2026-11-10T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinfiltros.jpg"
-    },
-    {
-      "titulo": "Patagonia Radio Classics",
-      "descripcion": "Un viaje por los clásicos de la música que han marcado generaciones.",
-      "inicio": "2026-11-10T22:00:00",
-      "fin": "2026-11-11T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/patagoniaradioclassics.jpg"
-    },
-    {
-      "titulo": "Superhits Patagonia AM",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-11T04:00:00",
-      "fin": "2026-11-11T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagoniaam.jpg"
-    },
-    {
-      "titulo": "Viva Chile",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-11T06:00:00",
-      "fin": "2026-11-11T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vivachile.jpg"
-    },
-    {
-      "titulo": "Servicio de noticias AM",
-      "descripcion": "Espacio informativo con las primeras noticias de la mañana para mantenerte actualizado.",
-      "inicio": "2026-11-11T07:00:00",
-      "fin": "2026-11-11T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/serviciodenoticiasam.jpg"
-    },
-    {
-      "titulo": "El transbordador",
-      "descripcion": "Magazine matutino con entrevistas, datos y buena música para acompañar la jornada.",
-      "inicio": "2026-11-11T08:00:00",
-      "fin": "2026-11-11T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltransbordador.jpg"
-    },
-    {
-      "titulo": "Superhits Patagonia",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-11T11:00:00",
-      "fin": "2026-11-11T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagonia.jpg"
-    },
     {
       "titulo": "Sonido VIP",
       "descripcion": "Espacio dedicado a la música electrónica y sus exponentes más destacados.",
@@ -118,6 +34,90 @@
       "inicio": "2026-11-11T13:00:00",
       "fin": "2026-11-11T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/menupatagonia.jpg"
+    },
+    {
+      "titulo": "Hashtag",
+      "descripcion": "Programa juvenil con tendencias, redes sociales, música y cultura pop.",
+      "inicio": "2026-11-11T15:00:00",
+      "fin": "2026-11-11T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hashtag.jpg"
+    },
+    {
+      "titulo": "Ingobernables",
+      "descripcion": "La actualidad chilena con un enfoque fresco y entretenido. Desentrañamos lo que está pasando en Chile y el mundo, ofreciendo un análisis único y provocador además de entrevistas provocadoras en profundidad y divertidos mano a mano.",
+      "inicio": "2026-11-11T17:00:00",
+      "fin": "2026-11-11T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ingobernables.jpg"
+    },
+    {
+      "titulo": "Viva Chile",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-11T18:00:00",
+      "fin": "2026-11-11T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vivachile.jpg"
+    },
+    {
+      "titulo": "Superhits Patagonia PM",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-11T19:30:00",
+      "fin": "2026-11-11T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagoniapm.jpg"
+    },
+    {
+      "titulo": "Sin Filtros",
+      "descripcion": "Programa de debate político y de actualidad nacional, donde se discuten los temas más relevantes sin censura.",
+      "inicio": "2026-11-11T20:00:00",
+      "fin": "2026-11-11T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinfiltros.jpg"
+    },
+    {
+      "titulo": "Patagonia Radio Classics",
+      "descripcion": "Un viaje por los clásicos de la música que han marcado generaciones.",
+      "inicio": "2026-11-11T22:00:00",
+      "fin": "2026-11-12T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/patagoniaradioclassics.jpg"
+    },
+    {
+      "titulo": "Superhits Patagonia AM",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-12T04:00:00",
+      "fin": "2026-11-12T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagoniaam.jpg"
+    },
+    {
+      "titulo": "Viva Chile",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-12T06:00:00",
+      "fin": "2026-11-12T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vivachile.jpg"
+    },
+    {
+      "titulo": "Servicio de noticias AM",
+      "descripcion": "Espacio informativo con las primeras noticias de la mañana para mantenerte actualizado.",
+      "inicio": "2026-11-12T07:00:00",
+      "fin": "2026-11-12T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/serviciodenoticiasam.jpg"
+    },
+    {
+      "titulo": "El transbordador",
+      "descripcion": "Magazine matutino con entrevistas, datos y buena música para acompañar la jornada.",
+      "inicio": "2026-11-12T08:00:00",
+      "fin": "2026-11-12T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltransbordador.jpg"
+    },
+    {
+      "titulo": "Superhits Patagonia",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-12T11:00:00",
+      "fin": "2026-11-12T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superhitspatagonia.jpg"
+    },
+    {
+      "titulo": "Sonido VIP",
+      "descripcion": "Espacio dedicado a la música electrónica y sus exponentes más destacados.",
+      "inicio": "2026-11-12T12:00:00",
+      "fin": "2026-11-12T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sonidovip.jpg"
     }
   ]
 }

@@ -1,187 +1,19 @@
 {
   "actual": {
-    "titulo": "Cultura.21",
-    "descripcion": "Descubrir ideas nuevas y describir fenómenos culturales, que marcan nuestra historia, nuestro presente y nuestro futuro. Cultura.21 se mete de lleno en el panorama creativo. ¿Quiénes son sus protagonistas y cuáles sus obras?",
-    "inicio": "2026-11-10T13:15:00",
-    "fin": "2026-11-10T13:45:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cultura21.jpg"
-  },
-  "siguiente": {
-    "titulo": "Noticias Mediodía",
-    "descripcion": "Noticias de la región y el país con el respaldo de radio Bío Bío.",
-    "inicio": "2026-11-10T13:45:00",
-    "fin": "2026-11-10T14:30:00",
+    "titulo": "Nuestra casa",
+    "descripcion": "El matinal de la región del Bío Bío con interesantes invitados y los temas que te importan y entretienen.",
+    "inicio": "2026-11-11T08:15:00",
+    "fin": "2026-11-11T12:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
   },
+  "siguiente": {
+    "titulo": "Más de ti",
+    "descripcion": "Acompaña a Jesenia Urzúa en este espacio de conversación único. Junto a invitados del mundo de la música y el espectáculo nacional, descubre las historias y novedades de tus artistas favoritos.",
+    "inicio": "2026-11-11T12:30:00",
+    "fin": "2026-11-11T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/masdeti.jpg"
+  },
   "lista": [
-    {
-      "titulo": "Cultura.21",
-      "descripcion": "Descubrir ideas nuevas y describir fenómenos culturales, que marcan nuestra historia, nuestro presente y nuestro futuro. Cultura.21 se mete de lleno en el panorama creativo. ¿Quiénes son sus protagonistas y cuáles sus obras?",
-      "inicio": "2026-11-10T13:15:00",
-      "fin": "2026-11-10T13:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cultura21.jpg"
-    },
-    {
-      "titulo": "Noticias Mediodía",
-      "descripcion": "Noticias de la región y el país con el respaldo de radio Bío Bío.",
-      "inicio": "2026-11-10T13:45:00",
-      "fin": "2026-11-10T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Deportistas con historia",
-      "descripcion": "Deportistas con Historia | Un espacio para descubrir las trayectorias de los máximos referentes nacionales. Entrevistas íntimas que revelan el esfuerzo, los triunfos y el legado de los y las grandes cracks de Chile.",
-      "inicio": "2026-11-10T14:30:00",
-      "fin": "2026-11-10T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportistasconhistoria.jpg"
-    },
-    {
-      "titulo": "D película • Especial",
-      "descripcion": "Especial | Un espacio que repasa las películas má destacadas en la historia del séptimo arte. La audiencia podrá disfrutar de las producciones más emocionantes, divertidas, fantásticas y populares de los ultimos años.",
-      "inicio": "2026-11-10T15:30:00",
-      "fin": "2026-11-10T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dpelicula.jpg"
-    },
-    {
-      "titulo": "Enlaces",
-      "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
-      "inicio": "2026-11-10T16:00:00",
-      "fin": "2026-11-10T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlaces.jpg"
-    },
-    {
-      "titulo": "CNTV infantil",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-      "inicio": "2026-11-10T16:30:00",
-      "fin": "2026-11-10T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "Nuestra casa - Lo mejor de la semana",
-      "descripcion": "Un resumen con lo mejor de este ciclo matinal preocupado de informar y entretener con temas de contingencia e interés público.",
-      "inicio": "2026-11-10T18:00:00",
-      "fin": "2026-11-10T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Frente Regional",
-      "descripcion": "Diálogo franco y directo con personajes que aportan a la región y el país.",
-      "inicio": "2026-11-10T19:00:00",
-      "fin": "2026-11-10T19:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Efemérides / Cápsulas varias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-10T19:45:00",
-      "fin": "2026-11-10T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Noticias Central Internacional",
-      "descripcion": "Un espacio de noticias internacionales donde el público puede mantenerse actualizado sobre lo que ocurre en el mundo. A través de informes de diversos periodistas, se ofrece una cobertura completa de los acontecimientos globales.",
-      "inicio": "2026-11-10T20:00:00",
-      "fin": "2026-11-10T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Tema del día",
-      "descripcion": "¿Qué pasó hoy y por qué importa? El Tema del Día desentraña la noticia principal con sus propios protagonistas. Entrevistas directas para que formes tu propia opinión sobre la actualidad del país.",
-      "inicio": "2026-11-10T20:30:00",
-      "fin": "2026-11-10T20:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/temadeldia.jpg"
-    },
-    {
-      "titulo": "Noticias - Edición central",
-      "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios en Chile y el mundo para que el público se informe de la forma más completa.",
-      "inicio": "2026-11-10T20:45:00",
-      "fin": "2026-11-10T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Hay harto paño que cortar",
-      "descripcion": "Un espacio de conversación.",
-      "inicio": "2026-11-10T21:30:00",
-      "fin": "2026-11-10T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hayhartopanoquecortar.jpg"
-    },
-    {
-      "titulo": "La última palabra",
-      "descripcion": "Una joven visita a su abuela, a quien no ha visto en años. Pero lo que encuentra no es exactamente lo que esperaba.",
-      "inicio": "2026-11-10T22:00:00",
-      "fin": "2026-11-10T22:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laultimapalabra.jpg"
-    },
-    {
-      "titulo": "Efemérides / Cápsulas varias",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-10T22:50:00",
-      "fin": "2026-11-10T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Noticias - Edición noche",
-      "descripcion": "Manténgase informado de todo el acontecer local e internacional.",
-      "inicio": "2026-11-10T23:00:00",
-      "fin": "2026-11-10T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Tema del día",
-      "descripcion": "¿Qué pasó hoy y por qué importa? El Tema del Día desentraña la noticia principal con sus propios protagonistas. Entrevistas directas para que formes tu propia opinión sobre la actualidad del país.",
-      "inicio": "2026-11-10T23:30:00",
-      "fin": "2026-11-10T23:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/temadeldia.jpg"
-    },
-    {
-      "titulo": "Iglesia Universal",
-      "descripcion": "La Iglesia Universal del Reino de Dios presenta palabras de fe e historias de personas que, a través de la fe, lograron vencer enfermedades, vicios, problemas familiares, económicos y espirituales, por medio de la palabra de Dios y su amor incondicional.",
-      "inicio": "2026-11-10T23:50:00",
-      "fin": "2026-11-11T00:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/iglesiauniversal.jpg"
-    },
-    {
-      "titulo": "Infomercial Seul",
-      "descripcion": "Cápsula Infomercial de ofertas comerciales de Cliente SEUL.",
-      "inicio": "2026-11-11T00:20:00",
-      "fin": "2026-11-11T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Unidad evangélica",
-      "descripcion": "Programa religioso de corte Evangélico.",
-      "inicio": "2026-11-11T00:30:00",
-      "fin": "2026-11-11T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/unidadevangelica.jpg"
-    },
-    {
-      "titulo": "Cartones publicitarios",
-      "descripcion": "Espacio publicitario nocturno.",
-      "inicio": "2026-11-11T01:00:00",
-      "fin": "2026-11-11T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Infórmate primero",
-      "descripcion": "Noticias de la región del Bío Bío y los mejores videoclips para comenzar el día.",
-      "inicio": "2026-11-11T06:30:00",
-      "fin": "2026-11-11T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "CNTV infantil",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-      "inicio": "2026-11-11T07:00:00",
-      "fin": "2026-11-11T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "Noticias - Edición matinal",
-      "descripcion": "Primera edición de Noticiero de Canal 9. Noticias ámbito regional y nacional. De lunes a viernes 07.30 a 08.15 hrs.",
-      "inicio": "2026-11-11T07:30:00",
-      "fin": "2026-11-11T08:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
     {
       "titulo": "Nuestra casa",
       "descripcion": "El matinal de la región del Bío Bío con interesantes invitados y los temas que te importan y entretienen.",
@@ -209,6 +41,174 @@
       "inicio": "2026-11-11T13:15:00",
       "fin": "2026-11-11T13:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comoteafecta.jpg"
+    },
+    {
+      "titulo": "Noticias Mediodía",
+      "descripcion": "Noticias de la región y el país con el respaldo de radio Bío Bío.",
+      "inicio": "2026-11-11T13:45:00",
+      "fin": "2026-11-11T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Tertulias",
+      "descripcion": "Un espacio en el que los conductores Daniel Emilio Pacheco y Julio Cesar Hernández se encargan de indagar en las diversas costumbres y tradiciones mexicanas, a través de reportajes, entrevistas exclusivas y algo más.",
+      "inicio": "2026-11-11T14:30:00",
+      "fin": "2026-11-11T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Retro pop",
+      "descripcion": "Programa dedicado a los amantes de la cultura pop, patrimonio y música de los 70s, 80s y 90s.",
+      "inicio": "2026-11-11T15:00:00",
+      "fin": "2026-11-11T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/retropop.jpg"
+    },
+    {
+      "titulo": "Ecolatinoamérica",
+      "descripcion": "Un magacín con todas las noticias sobre el medio ambiente.",
+      "inicio": "2026-11-11T16:00:00",
+      "fin": "2026-11-11T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ecolatinoamerica.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
+      "inicio": "2026-11-11T16:30:00",
+      "fin": "2026-11-11T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Nuestra casa - Lo mejor de la semana",
+      "descripcion": "Un resumen con lo mejor de este ciclo matinal preocupado de informar y entretener con temas de contingencia e interés público.",
+      "inicio": "2026-11-11T18:00:00",
+      "fin": "2026-11-11T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Te invito a tomar once",
+      "descripcion": "Un espacio cálido para conversar sobre cultura y vida en torno a la tradicional once chilena.",
+      "inicio": "2026-11-11T19:00:00",
+      "fin": "2026-11-11T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teinvitoatomaronce.jpg"
+    },
+    {
+      "titulo": "Efemérides / Cápsulas varias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-11T19:45:00",
+      "fin": "2026-11-11T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Noticias Central Internacional",
+      "descripcion": "Un espacio de noticias internacionales donde el público puede mantenerse actualizado sobre lo que ocurre en el mundo. A través de informes de diversos periodistas, se ofrece una cobertura completa de los acontecimientos globales.",
+      "inicio": "2026-11-11T20:00:00",
+      "fin": "2026-11-11T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Tema del día",
+      "descripcion": "¿Qué pasó hoy y por qué importa? El Tema del Día desentraña la noticia principal con sus propios protagonistas. Entrevistas directas para que formes tu propia opinión sobre la actualidad del país.",
+      "inicio": "2026-11-11T20:30:00",
+      "fin": "2026-11-11T20:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/temadeldia.jpg"
+    },
+    {
+      "titulo": "Noticias - Edición central",
+      "descripcion": "Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios en Chile y el mundo para que el público se informe de la forma más completa.",
+      "inicio": "2026-11-11T20:45:00",
+      "fin": "2026-11-11T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Tú mereces ser feliz",
+      "descripcion": "Acompaña al periodista y coach Joaquín Pincheira cada fin de semana, historias de inspiración, buenas noticias y el esfuerzo de pymes nacionales que te motivarán.",
+      "inicio": "2026-11-11T21:30:00",
+      "fin": "2026-11-11T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tumerecesserfeliz.jpg"
+    },
+    {
+      "titulo": "Lo que está en juego",
+      "descripcion": "Con la participación de Priscila Muñoz, Lucas Serrano, Lesley Briceño y Francisco Gatica, este podcast ofrece una mirada amplia y profunda a los temas clave del país y la región, en un año marcado especialmente por las elecciones.",
+      "inicio": "2026-11-11T22:00:00",
+      "fin": "2026-11-11T22:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "La voz de las sombras",
+      "descripcion": "Una joven de clase trabajadora puede heredar un patrimonio si ella y su novio se atienen a una serie de extrañas estipulaciones.",
+      "inicio": "2026-11-11T22:50:00",
+      "fin": "2026-11-11T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lavozdelassombras.jpg"
+    },
+    {
+      "titulo": "Noticias - Edición noche",
+      "descripcion": "Manténgase informado de todo el acontecer local e internacional.",
+      "inicio": "2026-11-11T23:00:00",
+      "fin": "2026-11-11T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Tema del día",
+      "descripcion": "¿Qué pasó hoy y por qué importa? El Tema del Día desentraña la noticia principal con sus propios protagonistas. Entrevistas directas para que formes tu propia opinión sobre la actualidad del país.",
+      "inicio": "2026-11-11T23:30:00",
+      "fin": "2026-11-11T23:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/temadeldia.jpg"
+    },
+    {
+      "titulo": "Iglesia Universal",
+      "descripcion": "La Iglesia Universal del Reino de Dios presenta palabras de fe e historias de personas que, a través de la fe, lograron vencer enfermedades, vicios, problemas familiares, económicos y espirituales, por medio de la palabra de Dios y su amor incondicional.",
+      "inicio": "2026-11-11T23:50:00",
+      "fin": "2026-11-12T00:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/iglesiauniversal.jpg"
+    },
+    {
+      "titulo": "Infomercial Seul",
+      "descripcion": "Cápsula Infomercial de ofertas comerciales de Cliente SEUL.",
+      "inicio": "2026-11-12T00:20:00",
+      "fin": "2026-11-12T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Unidad evangélica",
+      "descripcion": "Programa religioso de corte Evangélico.",
+      "inicio": "2026-11-12T00:30:00",
+      "fin": "2026-11-12T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/unidadevangelica.jpg"
+    },
+    {
+      "titulo": "Cartones publicitarios",
+      "descripcion": "Espacio publicitario nocturno.",
+      "inicio": "2026-11-12T01:00:00",
+      "fin": "2026-11-12T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Infórmate primero",
+      "descripcion": "Noticias de la región del Bío Bío y los mejores videoclips para comenzar el día.",
+      "inicio": "2026-11-12T06:30:00",
+      "fin": "2026-11-12T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
+      "inicio": "2026-11-12T07:00:00",
+      "fin": "2026-11-12T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Noticias - Edición matinal",
+      "descripcion": "Primera edición de Noticiero de Canal 9. Noticias ámbito regional y nacional. De lunes a viernes 07.30 a 08.15 hrs.",
+      "inicio": "2026-11-12T07:30:00",
+      "fin": "2026-11-12T08:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Nuestra casa",
+      "descripcion": "El matinal de la región del Bío Bío con interesantes invitados y los temas que te importan y entretienen.",
+      "inicio": "2026-11-12T08:15:00",
+      "fin": "2026-11-12T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
     }
   ]
 }

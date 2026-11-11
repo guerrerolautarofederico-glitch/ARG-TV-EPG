@@ -1,82 +1,19 @@
 {
   "actual": {
-    "titulo": "De una",
-    "descripcion": "Con foco en la actualidad, las noticias más importantes de interés general, deportes y espectáculos.",
-    "inicio": "2026-11-10T13:00:00",
-    "fin": "2026-11-10T16:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "La mañana",
+    "descripcion": "Programa matinal de NTN24 que presenta las noticias más relevantes con las que amanece América Latina y el mundo.\n\nPresenta:\n\nAndrés Gil",
+    "inicio": "2026-11-11T10:00:00",
+    "fin": "2026-11-11T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamanana.jpg"
   },
   "siguiente": {
-    "titulo": "Argenzuela",
-    "descripcion": "Un análisis de los temas más relevantes del panorama actual, con el sello característico de Jorge Rial.",
-    "inicio": "2026-11-10T16:00:00",
-    "fin": "2026-11-10T18:00:00",
+    "titulo": "De una",
+    "descripcion": "Con foco en la actualidad, las noticias más importantes de interés general, deportes y espectáculos.",
+    "inicio": "2026-11-11T13:00:00",
+    "fin": "2026-11-11T16:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "De una",
-      "descripcion": "Con foco en la actualidad, las noticias más importantes de interés general, deportes y espectáculos.",
-      "inicio": "2026-11-10T13:00:00",
-      "fin": "2026-11-10T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Argenzuela",
-      "descripcion": "Un análisis de los temas más relevantes del panorama actual, con el sello característico de Jorge Rial.",
-      "inicio": "2026-11-10T16:00:00",
-      "fin": "2026-11-10T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El diario",
-      "descripcion": "Las últimas noticias nacionales e internacionales, con un variado equipo de columnistas.",
-      "inicio": "2026-11-10T18:00:00",
-      "fin": "2026-11-10T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eldiario.jpg"
-    },
-    {
-      "titulo": "Minuto uno",
-      "descripcion": "Un programa con las noticias más importantes y el análisis a profundidad, además de entrevistas y reportajes de interés público.",
-      "inicio": "2026-11-10T20:00:00",
-      "fin": "2026-11-10T21:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Periodistas",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-10T21:40:00",
-      "fin": "2026-11-10T22:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/periodistas.jpg"
-    },
-    {
-      "titulo": "Duro de domar",
-      "descripcion": "Una de las novedades de este año es el regreso de 'Duro de domar' luego de ocho años de ausencia. El clásico de las noches aportará una mirada ácida de la realidad.",
-      "inicio": "2026-11-10T22:10:00",
-      "fin": "2026-11-11T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Especial visita del papa León XIV",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-11T00:00:00",
-      "fin": "2026-11-11T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bien temprano",
-      "descripcion": "Magazine informativo con todo lo que tenes que saber para comenzar el día de la mejor manera",
-      "inicio": "2026-11-11T05:00:00",
-      "fin": "2026-11-11T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mañanas argentinas",
-      "descripcion": "Todo lo que ocurre en Argentina y el mundo. Para estar informado desde la mañana.",
-      "inicio": "2026-11-11T06:30:00",
-      "fin": "2026-11-11T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "La mañana",
       "descripcion": "Programa matinal de NTN24 que presenta las noticias más relevantes con las que amanece América Latina y el mundo.\n\nPresenta:\n\nAndrés Gil",
@@ -90,6 +27,83 @@
       "inicio": "2026-11-11T13:00:00",
       "fin": "2026-11-11T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Argenzuela",
+      "descripcion": "Un análisis de los temas más relevantes del panorama actual, con el sello característico de Jorge Rial.",
+      "inicio": "2026-11-11T16:00:00",
+      "fin": "2026-11-11T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El diario",
+      "descripcion": "Las últimas noticias nacionales e internacionales, con un variado equipo de columnistas.",
+      "inicio": "2026-11-11T18:00:00",
+      "fin": "2026-11-11T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eldiario.jpg"
+    },
+    {
+      "titulo": "Minuto uno",
+      "descripcion": "Un programa con las noticias más importantes y el análisis a profundidad, además de entrevistas y reportajes de interés público.",
+      "inicio": "2026-11-11T20:00:00",
+      "fin": "2026-11-11T21:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Periodistas",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-11T21:40:00",
+      "fin": "2026-11-11T22:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/periodistas.jpg"
+    },
+    {
+      "titulo": "Duro de domar",
+      "descripcion": "Una de las novedades de este año es el regreso de 'Duro de domar' luego de ocho años de ausencia. El clásico de las noches aportará una mirada ácida de la realidad.",
+      "inicio": "2026-11-11T22:10:00",
+      "fin": "2026-11-12T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Minuto uno",
+      "descripcion": "Un programa con las noticias más importantes y el análisis a profundidad, además de entrevistas y reportajes de interés público.",
+      "inicio": "2026-11-12T00:00:00",
+      "fin": "2026-11-12T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El expediente",
+      "descripcion": "Un programa que explora los casos judiciales y policiales más importantes.",
+      "inicio": "2026-11-12T02:00:00",
+      "fin": "2026-11-12T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Argenzuela",
+      "descripcion": "Un análisis de los temas más relevantes del panorama actual, con el sello característico de Jorge Rial.",
+      "inicio": "2026-11-12T03:00:00",
+      "fin": "2026-11-12T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bien temprano",
+      "descripcion": "Magazine informativo con todo lo que tenes que saber para comenzar el día de la mejor manera",
+      "inicio": "2026-11-12T05:00:00",
+      "fin": "2026-11-12T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mañanas argentinas",
+      "descripcion": "Todo lo que ocurre en Argentina y el mundo. Para estar informado desde la mañana.",
+      "inicio": "2026-11-12T06:30:00",
+      "fin": "2026-11-12T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La mañana",
+      "descripcion": "Programa matinal de NTN24 que presenta las noticias más relevantes con las que amanece América Latina y el mundo.\n\nPresenta:\n\nAndrés Gil",
+      "inicio": "2026-11-12T10:00:00",
+      "fin": "2026-11-12T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamanana.jpg"
     }
   ]
 }
