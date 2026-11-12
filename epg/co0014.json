@@ -1,298 +1,291 @@
 {
   "actual": {
-    "titulo": "Las poderosas",
-    "descripcion": "Un manual de iniciación para todos aquellos que quizás han escuchado hablar sobre conceptos relacionados con los feminismos, pero que realmente no entienden de qué se está hablando y terminan, a veces, opinando desde la intuición o el prejuicio.",
-    "inicio": "2026-11-11T12:00:00",
-    "fin": "2026-11-11T13:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laspoderosas.jpg"
-  },
-  "siguiente": {
     "titulo": "Aqua",
     "descripcion": "Una mirada a los tres ríos más importantes de Colombia que nacen de tierras antioqueñas y conectan culturas y regiones.",
-    "inicio": "2026-11-11T13:30:00",
-    "fin": "2026-11-11T14:00:00",
+    "inicio": "2026-11-12T13:30:00",
+    "fin": "2026-11-12T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+  },
+  "siguiente": {
+    "titulo": "Latidos del campo",
+    "descripcion": "Una docuserie que recorre las historias, los saberes y las transformaciones del campo colombiano. Descubre el trabajo de nuestros campesinos, las prácticas tradicionales, las innovaciones sostenibles y las nuevas generaciones.",
+    "inicio": "2026-11-12T14:00:00",
+    "fin": "2026-11-12T14:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Las poderosas",
-      "descripcion": "Un manual de iniciación para todos aquellos que quizás han escuchado hablar sobre conceptos relacionados con los feminismos, pero que realmente no entienden de qué se está hablando y terminan, a veces, opinando desde la intuición o el prejuicio.",
-      "inicio": "2026-11-11T12:00:00",
-      "fin": "2026-11-11T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laspoderosas.jpg"
-    },
-    {
       "titulo": "Aqua",
       "descripcion": "Una mirada a los tres ríos más importantes de Colombia que nacen de tierras antioqueñas y conectan culturas y regiones.",
-      "inicio": "2026-11-11T13:30:00",
-      "fin": "2026-11-11T14:00:00",
+      "inicio": "2026-11-12T13:30:00",
+      "fin": "2026-11-12T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Latidos del campo",
       "descripcion": "Una docuserie que recorre las historias, los saberes y las transformaciones del campo colombiano. Descubre el trabajo de nuestros campesinos, las prácticas tradicionales, las innovaciones sostenibles y las nuevas generaciones.",
-      "inicio": "2026-11-11T14:00:00",
-      "fin": "2026-11-11T14:30:00",
+      "inicio": "2026-11-12T14:00:00",
+      "fin": "2026-11-12T14:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Estilo de vida planeta",
       "descripcion": "Se muestran acciones cotidianas que pueden servir de aliadas en la lucha contra la crisis ambiental.",
-      "inicio": "2026-11-11T14:30:00",
-      "fin": "2026-11-11T15:00:00",
+      "inicio": "2026-11-12T14:30:00",
+      "fin": "2026-11-12T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "TVA noticias",
       "descripcion": "Un espacio informativo que tiene como objetivo mantener al televidente actualizado con los principales sucesos del momento de Colombia y el mundo. En cada emisión se brinda de manera puntual y oportuna el acontecer del Triángulo del Café.",
-      "inicio": "2026-11-11T15:00:00",
-      "fin": "2026-11-11T16:00:00",
+      "inicio": "2026-11-12T15:00:00",
+      "fin": "2026-11-12T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Salud para todos",
       "descripcion": "Un espacio que busca soluciones para lograr una mejor calidad de vida para toda la familia por medio de métodos saludables.",
-      "inicio": "2026-11-11T16:00:00",
-      "fin": "2026-11-11T16:30:00",
+      "inicio": "2026-11-12T16:00:00",
+      "fin": "2026-11-12T16:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Todo deporte",
-      "descripcion": "Programa de televisión dedicado a la actualidad deportiva, análisis de partidos, cobertura de disciplinas nacionales e internacionales, entrevistas y los acontecimientos más relevantes del mundo del deporte.",
-      "inicio": "2026-11-11T16:30:00",
-      "fin": "2026-11-11T16:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tododeporte.jpg"
-    },
-    {
-      "titulo": "Inteligencia animal",
-      "descripcion": "Una serie narrada por Hilda Lizarazu que invita a los chicos y las chicas a descubrir la fauna de Latinoamérica y a conocer sus secretos desde la fascinación, la sorpresa, el humor y el amor por la naturaleza.",
-      "inicio": "2026-11-11T16:45:00",
-      "fin": "2026-11-11T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/inteligenciaanimal.jpg"
+      "titulo": "Más allá de la idea: sueños que prosperan",
+      "descripcion": "Se presentan relatos auténticos de emprendedores que, a través de la creatividad, la disciplina y la perseverancia, han construido camino en distintos sectores, desde iniciativas tecnológicas hasta negocios tradicionales.",
+      "inicio": "2026-11-12T16:30:00",
+      "fin": "2026-11-12T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Maruja y el Barranquero",
       "descripcion": "Recorre los pueblos, paisajes, tradiciones, la gastronomía típica y la cultura del Eje Cafetero colombiano .",
-      "inicio": "2026-11-11T17:00:00",
-      "fin": "2026-11-11T17:30:00",
+      "inicio": "2026-11-12T17:00:00",
+      "fin": "2026-11-12T17:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "A tope en dos ruedas",
       "descripcion": "Recorrido del Eje Cafetero al ritmo del motociclismo.",
-      "inicio": "2026-11-11T17:30:00",
-      "fin": "2026-11-11T18:00:00",
+      "inicio": "2026-11-12T17:30:00",
+      "fin": "2026-11-12T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Descubriendo Telecafé",
       "descripcion": "Esta iniciativa busca acercar a las nuevas generaciones al mundo de la comunicación audiovisual y fomentar el interés por la televisión pública como herramienta de información, educación y entretenimiento.",
-      "inicio": "2026-11-11T18:00:00",
-      "fin": "2026-11-11T18:30:00",
+      "inicio": "2026-11-12T18:00:00",
+      "fin": "2026-11-12T18:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Historias de mentes",
       "descripcion": "Serie que retrata de manera documental a varios de los científicos más ilustres de la región Pacífico colombiana, basándose en los pasos del método científico como hilo conductor. Cada capítulo de la serie hace énfasis en la manera diferencial de hacer ciencia en la región, tomando como referencia las tradiciones, saberes populares y conocimientos ancestrales que los han influenciado.",
-      "inicio": "2026-11-11T18:30:00",
-      "fin": "2026-11-11T19:00:00",
+      "inicio": "2026-11-12T18:30:00",
+      "fin": "2026-11-12T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Voces y saberes",
       "descripcion": "Un viaje íntimo al corazón de la cultura cafetera contado por quienes la viven, poniendo en primer plano a los verdaderos protagonistas del territorio: caficultores, artesanos y guardianes de tradición.",
-      "inicio": "2026-11-11T19:00:00",
-      "fin": "2026-11-11T19:30:00",
+      "inicio": "2026-11-12T19:00:00",
+      "fin": "2026-11-12T19:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Origen Colombia",
-      "descripcion": "Divulgación científica que invita a hacer un recorrido por las historias de éxito en ciencia, tecnología e innovación, mientras se muestran los proyectos e ideas que están teniendo un impacto positivo en Colombia.",
-      "inicio": "2026-11-11T19:30:00",
-      "fin": "2026-11-11T20:00:00",
+      "titulo": "Ecos de la tierra",
+      "descripcion": "La importancia del respeto que debe existir entre la producción agrícola, ganadera, forestal y cinegética con el medio ambiente y generar oportunidades para un crecimiento acorde a esta nueva era.",
+      "inicio": "2026-11-12T19:30:00",
+      "fin": "2026-11-12T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Conexión vital",
       "descripcion": "Espacio dedicado a la salud en el que especialistas tratan diversos contenidos y recomiendan tratamientos y productos naturales, a través de sus conocimientos y experiencias.",
-      "inicio": "2026-11-11T20:00:00",
-      "fin": "2026-11-11T21:00:00",
+      "inicio": "2026-11-12T20:00:00",
+      "fin": "2026-11-12T21:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Telecafé noticias",
       "descripcion": "Un informativo regional de carácter público, el único en Colombia que se emite simultáneamente en vivo desde las tres ciudades capitales del eje cafetero (Armenia, Manizales y Pereira) y que comunica a los televidentes el acontecer diario.",
-      "inicio": "2026-11-11T21:00:00",
-      "fin": "2026-11-11T22:00:00",
+      "inicio": "2026-11-12T21:00:00",
+      "fin": "2026-11-12T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Arte en el paisaje",
-      "descripcion": "Disfrute del arte y los paisajes colombianos.",
-      "inicio": "2026-11-11T22:00:00",
-      "fin": "2026-11-11T22:30:00",
+      "titulo": "Semillas del tiempo",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-12T22:00:00",
+      "fin": "2026-11-12T22:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Un gol al arcoíris",
       "descripcion": "Serie documental donde se recorren ámbitos futbolísticos donde aprenden a jugar los niños y las niñas, se relacionan con adultos y forman parte de un deporte colectivo.",
-      "inicio": "2026-11-11T22:30:00",
-      "fin": "2026-11-11T23:00:00",
+      "inicio": "2026-11-12T22:30:00",
+      "fin": "2026-11-12T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Paz electoral PGN",
       "descripcion": "Espacio sobre la iniciativa Paz Electoral de la Procuraduría General de la Nación, que promueve la participación ciudadana, la transparencia de las elecciones y el respeto por los resultados en Colombia.",
-      "inicio": "2026-11-11T23:00:00",
-      "fin": "2026-11-11T23:30:00",
+      "inicio": "2026-11-12T23:00:00",
+      "fin": "2026-11-12T23:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Camino de campeones",
       "descripcion": "Las historias de Leidy, Juan, Julieth, David y Esteban, jóvenes promesas del deporte del Eje Cafetero, que sueñan llegar lejos a través de disciplina y esfuerzo.",
-      "inicio": "2026-11-11T23:30:00",
-      "fin": "2026-11-12T00:00:00",
+      "inicio": "2026-11-12T23:30:00",
+      "fin": "2026-11-13T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Donde florece el fuego",
       "descripcion": "Un pasado que duele, secretos sin resolver y un nuevo comienzo en el Eje Cafetero. Una historia donde las heridas invisibles, los recuerdos y los encuentros inesperados marcarán el rumbo de una vida que busca volver a empezar.",
-      "inicio": "2026-11-12T00:00:00",
-      "fin": "2026-11-12T00:30:00",
+      "inicio": "2026-11-13T00:00:00",
+      "fin": "2026-11-13T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lotería del Quindío",
+      "descripcion": "Sorteo de la Lotería del Quindío.",
+      "inicio": "2026-11-13T00:30:00",
+      "fin": "2026-11-13T00:40:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Por encima de la mesa",
       "descripcion": "Las historias, tradiciones y contrastes que hacen única a la región del eje cafetalero en Colombia, todo a través de la gastronomía y de quienes la mantienen viva.",
-      "inicio": "2026-11-12T00:30:00",
-      "fin": "2026-11-12T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Lotería de Manizales",
-      "descripcion": "Sorteo de la Lotería de Manizales.",
-      "inicio": "2026-11-12T01:00:00",
-      "fin": "2026-11-12T01:15:00",
+      "inicio": "2026-11-13T00:40:00",
+      "fin": "2026-11-13T01:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Sobrevivientes",
       "descripcion": "Una serie que retrata la historia de personas que sostienen oficios tradicionales, con esfuerzo, orgullo y pasión, a pesar del tiempo y la tecnología.",
-      "inicio": "2026-11-12T01:15:00",
-      "fin": "2026-11-12T01:30:00",
+      "inicio": "2026-11-13T01:15:00",
+      "fin": "2026-11-13T01:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Telecafé noticias",
       "descripcion": "Un informativo regional de carácter público, el único en Colombia que se emite simultáneamente en vivo desde las tres ciudades capitales del eje cafetero (Armenia, Manizales y Pereira) y que comunica a los televidentes el acontecer diario.",
-      "inicio": "2026-11-12T01:30:00",
-      "fin": "2026-11-12T02:30:00",
+      "inicio": "2026-11-13T01:30:00",
+      "fin": "2026-11-13T02:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Camino de campeones",
       "descripcion": "Las historias de Leidy, Juan, Julieth, David y Esteban, jóvenes promesas del deporte del Eje Cafetero, que sueñan llegar lejos a través de disciplina y esfuerzo.",
-      "inicio": "2026-11-12T02:30:00",
-      "fin": "2026-11-12T03:00:00",
+      "inicio": "2026-11-13T02:30:00",
+      "fin": "2026-11-13T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Donde florece el fuego",
       "descripcion": "Un pasado que duele, secretos sin resolver y un nuevo comienzo en el Eje Cafetero. Una historia donde las heridas invisibles, los recuerdos y los encuentros inesperados marcarán el rumbo de una vida que busca volver a empezar.",
-      "inicio": "2026-11-12T03:00:00",
-      "fin": "2026-11-12T03:30:00",
+      "inicio": "2026-11-13T03:00:00",
+      "fin": "2026-11-13T03:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Los más capaces",
-      "descripcion": "Un espacio donde se entrevistan a personas con discapacidades que cuentan sus historias, su desarrollo personal y profesional y sus relatos personales.",
-      "inicio": "2026-11-12T03:30:00",
-      "fin": "2026-11-12T04:00:00",
+      "titulo": "Ecos de la tierra",
+      "descripcion": "La importancia del respeto que debe existir entre la producción agrícola, ganadera, forestal y cinegética con el medio ambiente y generar oportunidades para un crecimiento acorde a esta nueva era.",
+      "inicio": "2026-11-13T03:30:00",
+      "fin": "2026-11-13T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Latidos del campo",
       "descripcion": "Una docuserie que recorre las historias, los saberes y las transformaciones del campo colombiano. Descubre el trabajo de nuestros campesinos, las prácticas tradicionales, las innovaciones sostenibles y las nuevas generaciones.",
-      "inicio": "2026-11-12T04:00:00",
-      "fin": "2026-11-12T04:30:00",
+      "inicio": "2026-11-13T04:00:00",
+      "fin": "2026-11-13T04:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Por encima de la mesa",
       "descripcion": "Las historias, tradiciones y contrastes que hacen única a la región del eje cafetalero en Colombia, todo a través de la gastronomía y de quienes la mantienen viva.",
-      "inicio": "2026-11-12T04:30:00",
-      "fin": "2026-11-12T05:00:00",
+      "inicio": "2026-11-13T04:30:00",
+      "fin": "2026-11-13T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Arte en el paisaje",
-      "descripcion": "Disfrute del arte y los paisajes colombianos.",
-      "inicio": "2026-11-12T05:00:00",
-      "fin": "2026-11-12T05:30:00",
+      "titulo": "Camino de campeones",
+      "descripcion": "Las historias de Leidy, Juan, Julieth, David y Esteban, jóvenes promesas del deporte del Eje Cafetero, que sueñan llegar lejos a través de disciplina y esfuerzo.",
+      "inicio": "2026-11-13T05:00:00",
+      "fin": "2026-11-13T05:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Maruja y el Barranquero",
       "descripcion": "Recorre los pueblos, paisajes, tradiciones, la gastronomía típica y la cultura del Eje Cafetero colombiano .",
-      "inicio": "2026-11-12T05:30:00",
-      "fin": "2026-11-12T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los más capaces",
-      "descripcion": "Un espacio donde se entrevistan a personas con discapacidades que cuentan sus historias, su desarrollo personal y profesional y sus relatos personales.",
-      "inicio": "2026-11-12T06:00:00",
-      "fin": "2026-11-12T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Conexión vital",
-      "descripcion": "Espacio dedicado a la salud en el que especialistas tratan diversos contenidos y recomiendan tratamientos y productos naturales, a través de sus conocimientos y experiencias.",
-      "inicio": "2026-11-12T06:30:00",
-      "fin": "2026-11-12T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Santo Rosario",
-      "descripcion": "Meditación sobre los misterios del Santo Rosario.",
-      "inicio": "2026-11-12T07:30:00",
-      "fin": "2026-11-12T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santorosario.jpg"
-    },
-    {
-      "titulo": "Una app en mi cabeza",
-      "descripcion": "Se explora el impacto de la innovación tecnológica y el emprendimiento digital en América Latina. Una combinación de historias personales con el desarrollo de aplicaciones y proyectos que buscan transformar la sociedad.",
-      "inicio": "2026-11-12T08:00:00",
-      "fin": "2026-11-12T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Primera hora",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-12T09:00:00",
-      "fin": "2026-11-12T10:00:00",
+      "inicio": "2026-11-13T05:30:00",
+      "fin": "2026-11-13T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Hecho a mano",
       "descripcion": "En un mundo donde persiste una constante revolución tecnológica que ha transformado la sociedad y la producción industrial, aún sobreviven algunos héroes que realizan trabajos con sus propias manos dotándolos de personalidad.",
-      "inicio": "2026-11-12T10:00:00",
-      "fin": "2026-11-12T10:30:00",
+      "inicio": "2026-11-13T06:00:00",
+      "fin": "2026-11-13T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Conexión vital",
+      "descripcion": "Espacio dedicado a la salud en el que especialistas tratan diversos contenidos y recomiendan tratamientos y productos naturales, a través de sus conocimientos y experiencias.",
+      "inicio": "2026-11-13T06:30:00",
+      "fin": "2026-11-13T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Santo Rosario",
+      "descripcion": "Meditación sobre los misterios del Santo Rosario.",
+      "inicio": "2026-11-13T07:30:00",
+      "fin": "2026-11-13T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santorosario.jpg"
+    },
+    {
+      "titulo": "Una app en mi cabeza",
+      "descripcion": "Se explora el impacto de la innovación tecnológica y el emprendimiento digital en América Latina. Una combinación de historias personales con el desarrollo de aplicaciones y proyectos que buscan transformar la sociedad.",
+      "inicio": "2026-11-13T08:00:00",
+      "fin": "2026-11-13T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Primera hora",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-13T09:00:00",
+      "fin": "2026-11-13T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Parques naturales",
+      "descripcion": "El programa explica y presenta los diferentes parques naturales a través de Colombia, áreas de incalculable belleza que debido a su diversidad natural tienen la necesidad de ser conservadas y protegidas.",
+      "inicio": "2026-11-13T10:00:00",
+      "fin": "2026-11-13T10:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Mañana y café",
       "descripcion": "Mañana y Café será la mejor compañía para empezar el día con información fresca, entretenimiento y ese toque especial que nos hace únicos.",
-      "inicio": "2026-11-12T10:30:00",
-      "fin": "2026-11-12T12:00:00",
+      "inicio": "2026-11-13T10:30:00",
+      "fin": "2026-11-13T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Las poderosas",
       "descripcion": "Un manual de iniciación para todos aquellos que quizás han escuchado hablar sobre conceptos relacionados con los feminismos, pero que realmente no entienden de qué se está hablando y terminan, a veces, opinando desde la intuición o el prejuicio.",
-      "inicio": "2026-11-12T12:00:00",
-      "fin": "2026-11-12T13:30:00",
+      "inicio": "2026-11-13T12:00:00",
+      "fin": "2026-11-13T13:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laspoderosas.jpg"
+    },
+    {
+      "titulo": "Aqua",
+      "descripcion": "Una mirada a los tres ríos más importantes de Colombia que nacen de tierras antioqueñas y conectan culturas y regiones.",
+      "inicio": "2026-11-13T13:30:00",
+      "fin": "2026-11-13T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

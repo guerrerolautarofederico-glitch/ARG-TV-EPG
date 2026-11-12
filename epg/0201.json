@@ -1,193 +1,179 @@
 {
   "actual": {
-    "titulo": "La mañana informativa",
-    "descripcion": "Espacio informativo en el que se abordan los acontecimientos más relevantes de la actualidad, datos de servicios como el tiempo y el tráfico vehicular.",
-    "inicio": "2026-11-11T11:00:00",
-    "fin": "2026-11-11T12:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananainformativa.jpg"
+    "titulo": "24 horas al día",
+    "descripcion": "Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial, donde te presentamos un resumen con informaciones referidas a la política, la economía, los deportes, entre otros ámbitos.",
+    "inicio": "2026-11-12T13:00:00",
+    "fin": "2026-11-12T15:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasaldia.jpg"
   },
   "siguiente": {
-    "titulo": "Vía pública",
-    "descripcion": "Repetición ║ Espacio para discutir, entre otros, sobre seguridad ciudadana, urbanismo, educación, salud y transporte. Todos estos temas de gran relevancia en los municipios. Los distintos bloques de la emisión tendrán notas introductorias y presentación de los invitados.",
-    "inicio": "2026-11-11T12:30:00",
-    "fin": "2026-11-11T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viapublica.jpg"
+    "titulo": "Más motor",
+    "descripcion": "Repetición ║ Conoce las novedades de la industria automotriz y actualízate con la información de los principales eventos motorsport.",
+    "inicio": "2026-11-12T15:00:00",
+    "fin": "2026-11-12T15:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/masmotor.jpg"
   },
   "lista": [
     {
-      "titulo": "La mañana informativa",
-      "descripcion": "Espacio informativo en el que se abordan los acontecimientos más relevantes de la actualidad, datos de servicios como el tiempo y el tráfico vehicular.",
-      "inicio": "2026-11-11T11:00:00",
-      "fin": "2026-11-11T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananainformativa.jpg"
-    },
-    {
-      "titulo": "Vía pública",
-      "descripcion": "Repetición ║ Espacio para discutir, entre otros, sobre seguridad ciudadana, urbanismo, educación, salud y transporte. Todos estos temas de gran relevancia en los municipios. Los distintos bloques de la emisión tendrán notas introductorias y presentación de los invitados.",
-      "inicio": "2026-11-11T12:30:00",
-      "fin": "2026-11-11T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viapublica.jpg"
-    },
-    {
       "titulo": "24 horas al día",
       "descripcion": "Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial, donde te presentamos un resumen con informaciones referidas a la política, la economía, los deportes, entre otros ámbitos.",
-      "inicio": "2026-11-11T13:00:00",
-      "fin": "2026-11-11T15:00:00",
+      "inicio": "2026-11-12T13:00:00",
+      "fin": "2026-11-12T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasaldia.jpg"
     },
     {
-      "titulo": "Entrevistas 24",
-      "descripcion": "Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.",
-      "inicio": "2026-11-11T15:00:00",
-      "fin": "2026-11-11T15:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas24.jpg"
+      "titulo": "Más motor",
+      "descripcion": "Repetición ║ Conoce las novedades de la industria automotriz y actualízate con la información de los principales eventos motorsport.",
+      "inicio": "2026-11-12T15:00:00",
+      "fin": "2026-11-12T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/masmotor.jpg"
     },
     {
-      "titulo": "Página 24",
-      "descripcion": "Andrés Vial y Valentina Reyes nos invitan a sumergirnos en el mundo de los libros con conversaciones íntimas, reflexivas y apasionadas sobre literatura. Cada episodio abre una nueva página, la 'Página 24': con entrevistas a autores nacionales e internacionales, análisis de novedades, recomendaciones lectoras y diálogos que cruzan la literatura con la actualidad, la memoria y las emociones.",
-      "inicio": "2026-11-11T15:15:00",
-      "fin": "2026-11-11T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pagina24.jpg"
-    },
-    {
-      "titulo": "Exploradores",
-      "descripcion": "Ben Crandall es un niño consumidor compulsivo de películas de monstruos de serie B y cómics de ciencia-ficción que vive obsesionado con los viajes espaciales y la existencia de extraterrestres. Una noche, vislumbra en sueños los planos de un circuito electrónico y decide dibujarlo para construirlo junto a sus amigos Wolfgang y Darren. El primero es un pequeño genio capaz de traducir el sueño de Ben en un complejo programa de ordenador que funciona de verdad. El paso siguiente es crear una nave espacial casera. Los tres amigos están listos para embarcarse en una aventura inimaginable en la que viajarán hasta otra galaxia, donde tendrán contacto con una cultura alienígena que quizás no termine de ser exactamente como Ben había soñado y cuyo principal representante sólo conoce la Tierra a través de lo representado en series de televisión de los 60.",
-      "inicio": "2026-11-11T15:30:00",
-      "fin": "2026-11-11T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/exploradores.jpg"
+      "titulo": "Chile al día",
+      "descripcion": "Espacio informativo en el que te presentamos una amplia variedad de reportajes de actualidad, además de las reseñas de los principales acontecimientos ocurridos en el país.",
+      "inicio": "2026-11-12T15:30:00",
+      "fin": "2026-11-12T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chilealdia.jpg"
     },
     {
       "titulo": "Noticias 24",
       "descripcion": "Resumen noticioso nacional e internacional.",
-      "inicio": "2026-11-11T16:00:00",
-      "fin": "2026-11-11T20:00:00",
+      "inicio": "2026-11-12T16:00:00",
+      "fin": "2026-11-12T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24.jpg"
     },
     {
       "titulo": "24 Horas deportes",
       "descripcion": "Lo más destacado del día en diferentes disciplinas. Sigue la actualidad deportiva nacional e internacional a través de TVN.",
-      "inicio": "2026-11-11T20:00:00",
-      "fin": "2026-11-11T21:00:00",
+      "inicio": "2026-11-12T20:00:00",
+      "fin": "2026-11-12T21:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasdeportes.jpg"
     },
     {
       "titulo": "24 horas central",
       "descripcion": "Revisa las noticias más relevantes de la jornada.",
-      "inicio": "2026-11-11T21:00:00",
-      "fin": "2026-11-11T22:30:00",
+      "inicio": "2026-11-12T21:00:00",
+      "fin": "2026-11-12T22:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horascentral.jpg"
     },
     {
-      "titulo": "Página 24",
-      "descripcion": "Andrés Vial y Valentina Reyes nos invitan a sumergirnos en el mundo de los libros con conversaciones íntimas, reflexivas y apasionadas sobre literatura. Cada episodio abre una nueva página, la 'Página 24': con entrevistas a autores nacionales e internacionales, análisis de novedades, recomendaciones lectoras y diálogos que cruzan la literatura con la actualidad, la memoria y las emociones.",
-      "inicio": "2026-11-11T22:30:00",
-      "fin": "2026-11-11T22:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pagina24.jpg"
+      "titulo": "Ventana al mundo",
+      "descripcion": "Un programa sobre evangelismo, ayuda comunitaria y reflexiones sobre las enseñanzas de Dios. El público podrá informarse sobre las necesidades de la comunidad y disfrutar de un espacio de introspección espiritual.",
+      "inicio": "2026-11-12T22:30:00",
+      "fin": "2026-11-12T22:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0201_fallback.jpg"
     },
     {
       "titulo": "Entrevistas 24",
       "descripcion": "Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.",
-      "inicio": "2026-11-11T22:45:00",
-      "fin": "2026-11-11T23:00:00",
+      "inicio": "2026-11-12T22:45:00",
+      "fin": "2026-11-12T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas24.jpg"
     },
     {
       "titulo": "Vía pública",
       "descripcion": "Espacio para discutir, entre otros, sobre seguridad ciudadana, urbanismo, educación, salud y transporte. Todos estos temas de gran relevancia en los municipios. Los distintos bloques de la emisión tendrán notas introductorias y presentación de los invitados.",
-      "inicio": "2026-11-11T23:00:00",
-      "fin": "2026-11-12T00:00:00",
+      "inicio": "2026-11-12T23:00:00",
+      "fin": "2026-11-13T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viapublica.jpg"
     },
     {
       "titulo": "24 horas a la hora",
       "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-11-12T00:00:00",
-      "fin": "2026-11-12T00:30:00",
+      "inicio": "2026-11-13T00:00:00",
+      "fin": "2026-11-13T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
-    },
-    {
-      "titulo": "24 Horas deportes",
-      "descripcion": "Repetición ║ Lo más destacado del día en diferentes disciplinas. Sigue la actualidad deportiva nacional e internacional a través de TVN.",
-      "inicio": "2026-11-12T00:30:00",
-      "fin": "2026-11-12T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasdeportes.jpg"
     },
     {
       "titulo": "24 Horas - Al cierre",
       "descripcion": "Cerramos el día analizando lo de hoy y mirando lo que se viene hacia adelante.",
-      "inicio": "2026-11-12T01:00:00",
-      "fin": "2026-11-12T01:45:00",
+      "inicio": "2026-11-13T01:00:00",
+      "fin": "2026-11-13T01:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalcierre.jpg"
     },
     {
       "titulo": "Entrevistas 24",
       "descripcion": "Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.",
-      "inicio": "2026-11-12T01:45:00",
-      "fin": "2026-11-12T02:00:00",
+      "inicio": "2026-11-13T01:45:00",
+      "fin": "2026-11-13T02:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas24.jpg"
     },
     {
       "titulo": "24 horas a la hora",
       "descripcion": "Noticiero, con despachos en directo y corresponsalías en todo el mundo.",
-      "inicio": "2026-11-12T02:00:00",
-      "fin": "2026-11-12T04:30:00",
+      "inicio": "2026-11-13T02:00:00",
+      "fin": "2026-11-13T04:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasalahora.jpg"
     },
     {
       "titulo": "24 Horas deportes",
       "descripcion": "Lo más destacado del día en diferentes disciplinas. Sigue la actualidad deportiva nacional e internacional a través de TVN.",
-      "inicio": "2026-11-12T04:30:00",
-      "fin": "2026-11-12T05:00:00",
+      "inicio": "2026-11-13T04:30:00",
+      "fin": "2026-11-13T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasdeportes.jpg"
     },
     {
       "titulo": "Hora 24",
       "descripcion": "Actualidad e información.",
-      "inicio": "2026-11-12T05:00:00",
-      "fin": "2026-11-12T05:30:00",
+      "inicio": "2026-11-13T05:00:00",
+      "fin": "2026-11-13T05:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hora24.jpg"
     },
     {
       "titulo": "Previa 24",
       "descripcion": "Espacio matutino de noticias, con toda la información de la jornada.",
-      "inicio": "2026-11-12T05:30:00",
-      "fin": "2026-11-12T06:00:00",
+      "inicio": "2026-11-13T05:30:00",
+      "fin": "2026-11-13T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/previa24.jpg"
     },
     {
       "titulo": "24 horas: Tu mañana",
       "descripcion": "Revisa las principales noticias de la jornada junto a 24 Horas - Tu mañana.",
-      "inicio": "2026-11-12T06:00:00",
-      "fin": "2026-11-12T08:00:00",
+      "inicio": "2026-11-13T06:00:00",
+      "fin": "2026-11-13T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horastumanana.jpg"
     },
     {
-      "titulo": "Reporte agrícola",
-      "descripcion": "Repetición ║ Espacio conducido por el periodista Jose Ignacio Atenas, que busca explorar cómo los campos chilenos enfrentan los desafíos climáticos que cambian día a día. Análisis, entrevistas con expertos, infomración y noticias actualizada para todos.",
-      "inicio": "2026-11-12T08:00:00",
-      "fin": "2026-11-12T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reporteagricola.jpg"
+      "titulo": "Exploradores",
+      "descripcion": "Repetición ║ Ben Crandall es un niño consumidor compulsivo de películas de monstruos de serie B y cómics de ciencia-ficción que vive obsesionado con los viajes espaciales y la existencia de extraterrestres. Una noche, vislumbra en sueños los planos de un circuito electrónico y decide dibujarlo para construirlo junto a sus amigos Wolfgang y Darren. El primero es un pequeño genio capaz de traducir el sueño de Ben en un complejo programa de ordenador que funciona de verdad. El paso siguiente es crear una nave espacial casera. Los tres amigos están listos para embarcarse en una aventura inimaginable en la que viajarán hasta otra galaxia, donde tendrán contacto con una cultura alienígena que quizás no termine de ser exactamente como Ben había soñado y cuyo principal representante sólo conoce la Tierra a través de lo representado en series de televisión de los 60.",
+      "inicio": "2026-11-13T08:00:00",
+      "fin": "2026-11-13T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/exploradores.jpg"
     },
     {
       "titulo": "La mañana informativa",
       "descripcion": "Espacio informativo en el que se abordan los acontecimientos más relevantes de la actualidad, datos de servicios como el tiempo y el tráfico vehicular.",
-      "inicio": "2026-11-12T08:30:00",
-      "fin": "2026-11-12T10:45:00",
+      "inicio": "2026-11-13T08:30:00",
+      "fin": "2026-11-13T10:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananainformativa.jpg"
     },
     {
-      "titulo": "Página 24",
-      "descripcion": "Andrés Vial y Valentina Reyes nos invitan a sumergirnos en el mundo de los libros con conversaciones íntimas, reflexivas y apasionadas sobre literatura. Cada episodio abre una nueva página, la 'Página 24': con entrevistas a autores nacionales e internacionales, análisis de novedades, recomendaciones lectoras y diálogos que cruzan la literatura con la actualidad, la memoria y las emociones.",
-      "inicio": "2026-11-12T10:45:00",
-      "fin": "2026-11-12T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pagina24.jpg"
+      "titulo": "Entrevistas 24",
+      "descripcion": "Espacio en el que conversamos con un invitado especial quien nos habla de la situación política, social, económica de Chile, o de tan variados temas de interés general para el ciudadano común.",
+      "inicio": "2026-11-13T10:45:00",
+      "fin": "2026-11-13T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas24.jpg"
     },
     {
       "titulo": "La mañana informativa",
       "descripcion": "Espacio informativo en el que se abordan los acontecimientos más relevantes de la actualidad, datos de servicios como el tiempo y el tráfico vehicular.",
-      "inicio": "2026-11-12T11:00:00",
-      "fin": "2026-11-12T12:30:00",
+      "inicio": "2026-11-13T11:00:00",
+      "fin": "2026-11-13T12:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananainformativa.jpg"
+    },
+    {
+      "titulo": "Vía pública",
+      "descripcion": "Repetición ║ Espacio para discutir, entre otros, sobre seguridad ciudadana, urbanismo, educación, salud y transporte. Todos estos temas de gran relevancia en los municipios. Los distintos bloques de la emisión tendrán notas introductorias y presentación de los invitados.",
+      "inicio": "2026-11-13T12:30:00",
+      "fin": "2026-11-13T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viapublica.jpg"
+    },
+    {
+      "titulo": "24 horas al día",
+      "descripcion": "Conoce los detalles más resaltantes sobre los últimos acontecimientos ocurridos en Chile, América Latina y el mundo, en este segmento especial, donde te presentamos un resumen con informaciones referidas a la política, la economía, los deportes, entre otros ámbitos.",
+      "inicio": "2026-11-13T13:00:00",
+      "fin": "2026-11-13T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/24horasaldia.jpg"
     }
   ]
 }

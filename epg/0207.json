@@ -1,158 +1,144 @@
 {
   "actual": {
-    "titulo": "CHV Noticias AM",
-    "descripcion": "Matilde Burgos hace un repaso con todas las informaciones de la semana, de manera entretenida y con información en vivo.",
-    "inicio": "2026-11-11T09:30:00",
-    "fin": "2026-11-11T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasam.jpg"
-  },
-  "siguiente": {
     "titulo": "CHV noticias tarde",
     "descripcion": "La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.",
-    "inicio": "2026-11-11T13:00:00",
-    "fin": "2026-11-11T15:30:00",
+    "inicio": "2026-11-12T13:00:00",
+    "fin": "2026-11-12T15:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiastarde.jpg"
+  },
+  "siguiente": {
+    "titulo": "Reportajes CHV Noticias",
+    "descripcion": "Un espacio para reportajes sobre diversos temas de interés social.",
+    "inicio": "2026-11-12T15:30:00",
+    "fin": "2026-11-12T17:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reportajeschvnoticias.jpg"
   },
   "lista": [
     {
-      "titulo": "CHV Noticias AM",
-      "descripcion": "Matilde Burgos hace un repaso con todas las informaciones de la semana, de manera entretenida y con información en vivo.",
-      "inicio": "2026-11-11T09:30:00",
-      "fin": "2026-11-11T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasam.jpg"
-    },
-    {
       "titulo": "CHV noticias tarde",
       "descripcion": "La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.",
-      "inicio": "2026-11-11T13:00:00",
-      "fin": "2026-11-11T15:30:00",
+      "inicio": "2026-11-12T13:00:00",
+      "fin": "2026-11-12T15:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiastarde.jpg"
-    },
-    {
-      "titulo": "Bolsillo CHV",
-      "descripcion": "Resumen económico para entender cómo gastar y en qué gastar. Notas de consumo y consejos prácticos para ayudar con las finanzas del hogar.",
-      "inicio": "2026-11-11T15:30:00",
-      "fin": "2026-11-11T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
     },
     {
       "titulo": "Reportajes CHV Noticias",
       "descripcion": "Un espacio para reportajes sobre diversos temas de interés social.",
-      "inicio": "2026-11-11T16:30:00",
-      "fin": "2026-11-11T17:00:00",
+      "inicio": "2026-11-12T15:30:00",
+      "fin": "2026-11-12T17:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reportajeschvnoticias.jpg"
     },
     {
       "titulo": "Hoy en el mundo",
       "descripcion": "Toda la información de las noticias internacionales.",
-      "inicio": "2026-11-11T17:00:00",
-      "fin": "2026-11-11T17:30:00",
+      "inicio": "2026-11-12T17:00:00",
+      "fin": "2026-11-12T17:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
     },
     {
       "titulo": "Avance - CHV noticias PM",
       "descripcion": "Actualización de las noticias ocurridas hasta el momento que han marcado la jornada.",
-      "inicio": "2026-11-11T17:30:00",
-      "fin": "2026-11-11T18:00:00",
+      "inicio": "2026-11-12T17:30:00",
+      "fin": "2026-11-12T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/avancechvnoticiaspm.jpg"
     },
     {
       "titulo": "Deportes en CHV Noticias",
       "descripcion": "Todas las novedades e información deportiva del día.",
-      "inicio": "2026-11-11T18:00:00",
-      "fin": "2026-11-11T18:30:00",
+      "inicio": "2026-11-12T18:00:00",
+      "fin": "2026-11-12T18:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportesenchvnoticias.jpg"
     },
     {
       "titulo": "CHV Noticias PM",
       "descripcion": "Actualización de las noticias que han marcado la jornada.",
-      "inicio": "2026-11-11T18:30:00",
-      "fin": "2026-11-11T20:00:00",
+      "inicio": "2026-11-12T18:30:00",
+      "fin": "2026-11-12T20:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiaspm.jpg"
     },
     {
       "titulo": "Chilevisión noticias central",
       "descripcion": "La actualidad nacional e internacional presentada por los mejores profesionales del periodismo actual.",
-      "inicio": "2026-11-11T20:00:00",
-      "fin": "2026-11-11T22:30:00",
+      "inicio": "2026-11-12T20:00:00",
+      "fin": "2026-11-12T22:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
     },
     {
-      "titulo": "Hoy en el mundo",
-      "descripcion": "Toda la información de las noticias internacionales.",
-      "inicio": "2026-11-11T22:30:00",
-      "fin": "2026-11-11T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
+      "titulo": "CHV Noticias te ayuda",
+      "descripcion": "Pablo Torres junto a un experto responde tus preguntas sobre los temas que importan.",
+      "inicio": "2026-11-12T22:30:00",
+      "fin": "2026-11-12T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasteayuda.jpg"
     },
     {
       "titulo": "Chilevisión noticias informa",
       "descripcion": "Resumen completo de los acontecimientos que marcaron el día.",
-      "inicio": "2026-11-11T23:00:00",
-      "fin": "2026-11-12T00:30:00",
+      "inicio": "2026-11-12T23:00:00",
+      "fin": "2026-11-13T00:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
     },
     {
       "titulo": "Deportes en CHV Noticias",
       "descripcion": "Todas las novedades e información deportiva del día.",
-      "inicio": "2026-11-12T00:30:00",
-      "fin": "2026-11-12T01:00:00",
+      "inicio": "2026-11-13T00:30:00",
+      "fin": "2026-11-13T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportesenchvnoticias.jpg"
     },
     {
       "titulo": "Hoy en el mundo",
       "descripcion": "Toda la información de las noticias internacionales.",
-      "inicio": "2026-11-12T01:00:00",
-      "fin": "2026-11-12T01:30:00",
+      "inicio": "2026-11-13T01:00:00",
+      "fin": "2026-11-13T01:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
-    },
-    {
-      "titulo": "Bolsillo CHV",
-      "descripcion": "Resumen económico para entender cómo gastar y en qué gastar. Notas de consumo y consejos prácticos para ayudar con las finanzas del hogar.",
-      "inicio": "2026-11-12T01:30:00",
-      "fin": "2026-11-12T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
     },
     {
       "titulo": "Reportajes CHV Noticias",
       "descripcion": "Un espacio para reportajes sobre diversos temas de interés social.",
-      "inicio": "2026-11-12T02:30:00",
-      "fin": "2026-11-12T03:00:00",
+      "inicio": "2026-11-13T01:30:00",
+      "fin": "2026-11-13T03:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reportajeschvnoticias.jpg"
     },
     {
       "titulo": "Chilevisión noticias central",
       "descripcion": "La actualidad nacional e internacional presentada por los mejores profesionales del periodismo actual.",
-      "inicio": "2026-11-12T03:00:00",
-      "fin": "2026-11-12T05:30:00",
+      "inicio": "2026-11-13T03:00:00",
+      "fin": "2026-11-13T05:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0207_fallback.jpg"
     },
     {
       "titulo": "Primera página",
       "descripcion": "Las noticias más destacadas de la jornada de Chile y el mundo.",
-      "inicio": "2026-11-12T05:30:00",
-      "fin": "2026-11-12T06:30:00",
+      "inicio": "2026-11-13T05:30:00",
+      "fin": "2026-11-13T06:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerapagina.jpg"
     },
     {
       "titulo": "CHV Noticias AM",
       "descripcion": "Matilde Burgos hace un repaso con todas las informaciones de la semana, de manera entretenida y con información en vivo.",
-      "inicio": "2026-11-12T06:30:00",
-      "fin": "2026-11-12T08:00:00",
+      "inicio": "2026-11-13T06:30:00",
+      "fin": "2026-11-13T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasam.jpg"
     },
     {
       "titulo": "CHV Noticias en la mañana",
       "descripcion": "Un programa informativo con reporteros que recorren las calles mostrando todo lo que pasa en la ciudad.",
-      "inicio": "2026-11-12T08:00:00",
-      "fin": "2026-11-12T09:30:00",
+      "inicio": "2026-11-13T08:00:00",
+      "fin": "2026-11-13T09:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasenlamanana.jpg"
     },
     {
       "titulo": "CHV Noticias AM",
       "descripcion": "Matilde Burgos hace un repaso con todas las informaciones de la semana, de manera entretenida y con información en vivo.",
-      "inicio": "2026-11-12T09:30:00",
-      "fin": "2026-11-12T13:00:00",
+      "inicio": "2026-11-13T09:30:00",
+      "fin": "2026-11-13T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiasam.jpg"
+    },
+    {
+      "titulo": "CHV noticias tarde",
+      "descripcion": "La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.",
+      "inicio": "2026-11-13T13:00:00",
+      "fin": "2026-11-13T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chvnoticiastarde.jpg"
     }
   ]
 }

@@ -1,158 +1,151 @@
 {
   "actual": {
-    "titulo": "La receta",
-    "descripcion": "Catalina Palleja nos acerca increíbles recetas, buenos consejos y nuevos tips para que disfrutes de tu cocina.",
-    "inicio": "2026-11-11T12:00:00",
-    "fin": "2026-11-11T12:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lareceta.jpg"
-  },
-  "siguiente": {
     "titulo": "Telemundo mediodía",
     "descripcion": "Resumen informativo de las noticias del día.",
-    "inicio": "2026-11-11T12:30:00",
-    "fin": "2026-11-11T14:30:00",
+    "inicio": "2026-11-12T12:30:00",
+    "fin": "2026-11-12T14:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+  },
+  "siguiente": {
+    "titulo": "Esta boca es mía",
+    "descripcion": "Victoria Rodríguez vuelve con el exitoso talk show de la tarde, totalmente renovado, para hablar y debatir sobre lo que nos interesa a todos. Cuenta con un panel conformado por Silvia Novarese, Beatriz Argimón, Julio Toyos, Lilián Abracinskas, Karina Tucuna, Damián Coalla y Daniel Lucas. Ellos analizarán y confrontarán opiniones acerca de pequeños grandes temas de la vida cotidiana. Entre ellos: la infidelidad, aborto, drogas, sexualidad y otros.",
+    "inicio": "2026-11-12T14:30:00",
+    "fin": "2026-11-12T16:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "La receta",
-      "descripcion": "Catalina Palleja nos acerca increíbles recetas, buenos consejos y nuevos tips para que disfrutes de tu cocina.",
-      "inicio": "2026-11-11T12:00:00",
-      "fin": "2026-11-11T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lareceta.jpg"
-    },
-    {
       "titulo": "Telemundo mediodía",
       "descripcion": "Resumen informativo de las noticias del día.",
-      "inicio": "2026-11-11T12:30:00",
-      "fin": "2026-11-11T14:30:00",
+      "inicio": "2026-11-12T12:30:00",
+      "fin": "2026-11-12T14:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Esta boca es mía",
       "descripcion": "Victoria Rodríguez vuelve con el exitoso talk show de la tarde, totalmente renovado, para hablar y debatir sobre lo que nos interesa a todos. Cuenta con un panel conformado por Silvia Novarese, Beatriz Argimón, Julio Toyos, Lilián Abracinskas, Karina Tucuna, Damián Coalla y Daniel Lucas. Ellos analizarán y confrontarán opiniones acerca de pequeños grandes temas de la vida cotidiana. Entre ellos: la infidelidad, aborto, drogas, sexualidad y otros.",
-      "inicio": "2026-11-11T14:30:00",
-      "fin": "2026-11-11T16:00:00",
+      "inicio": "2026-11-12T14:30:00",
+      "fin": "2026-11-12T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Chicago Fire • Feliz Navidad, etc",
-      "descripcion": "Feliz Navidad, etc | Después de apagar un incendio en la cocina de una casa lujosa, acusan a Casey, Herrmann, Mouch, Cruz, Otis y Mills de haber robado un collar de diamantes de cincuenta mil dólares de la casa, lo que genera una investigación interna.",
-      "inicio": "2026-11-11T16:00:00",
-      "fin": "2026-11-11T17:27:00",
+      "titulo": "Chicago Fire • Bajo el cuchillo",
+      "descripcion": "Bajo el cuchillo | Severide finalmente habla con el Jefe Boden de su lesión y toma decisiones personales importantes para su futuro.",
+      "inicio": "2026-11-12T16:00:00",
+      "fin": "2026-11-12T16:52:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chicagofire.jpg"
     },
     {
-      "titulo": "Chicago Fire • Dios ha hablado",
-      "descripcion": "Dios ha hablado | Carcomido por la culpa de la muerte de Flaco en el incendio, Cruz va a ver a Casey para confesar.",
-      "inicio": "2026-11-11T17:27:00",
-      "fin": "2026-11-11T18:55:00",
+      "titulo": "Chicago Fire • Tibio y muerto",
+      "descripcion": "Tibio y muerto | El destacamento 51 es sacudido por acontecimientos que conducen a una muerte que sorprende a todos.",
+      "inicio": "2026-11-12T16:52:00",
+      "fin": "2026-11-12T17:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/chicagofire.jpg"
+    },
+    {
+      "titulo": "Puesta a punto",
+      "descripcion": "Un programa con el análisis de la actualidad junto a un gran equipo de periodistas trabajando en las calles, en tu barrio y en tu ciudad.",
+      "inicio": "2026-11-12T17:45:00",
+      "fin": "2026-11-12T18:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Telemundo - Edición central",
       "descripcion": "Un análisis profundo y detallado sobre el ámbito financiero mostrado a través del debate y la información acerca de la devaluación de la moneda, inflación, entre otros. Además, junto a los principales titulares en economía, podrás forjarte tu propia opinión y conocer mucho más acerca del mundo de las finanzas.",
-      "inicio": "2026-11-11T18:55:00",
-      "fin": "2026-11-11T21:15:00",
+      "inicio": "2026-11-12T18:55:00",
+      "fin": "2026-11-12T21:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Poné Play",
-      "descripcion": "La música revoluciona la pantalla de La Tele con el programa de entretenimiento que desafía los conocimientos musicales de participantes y famosos.",
-      "inicio": "2026-11-11T21:15:00",
-      "fin": "2026-11-11T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sorteo del 5 de oro",
-      "descripcion": "Lotería en la que se anuncian los números ganadores del par millonario, triples y terminales, para que pruebes tu suerte y ganes al instante.",
-      "inicio": "2026-11-11T22:00:00",
-      "fin": "2026-11-11T22:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Poné Play",
-      "descripcion": "La música revoluciona la pantalla de La Tele con el programa de entretenimiento que desafía los conocimientos musicales de participantes y famosos.",
-      "inicio": "2026-11-11T22:05:00",
-      "fin": "2026-11-11T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "A todo o nada",
+      "descripcion": "Diversos participantes compiten a lo largo de espectaculares desafíos para alcanzar grandes premios. Un espacio divertido, pensado para ver y disfrutar en familia.",
+      "inicio": "2026-11-12T21:15:00",
+      "fin": "2026-11-12T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/atodoonada.jpg"
     },
     {
       "titulo": "Tres Gracias",
       "descripcion": "En San Pablo, una madre e hija se enfrentan a la corrupción que afecta a su comunidad y A su familia. Mientras fuerzas malignas amenazan a innumerables enfermos con fines lucrativos, ellas se debaten entre opciones morales mientras lucha por sobrevivir.",
-      "inicio": "2026-11-11T22:30:00",
-      "fin": "2026-11-11T23:30:00",
+      "inicio": "2026-11-12T22:30:00",
+      "fin": "2026-11-12T23:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tresgracias.jpg"
     },
     {
       "titulo": "Primeras citas",
       "descripcion": "Henry Roth (Adam Sandler) es un veterinario marino que vive en Hawái y sale con muchas mujeres. Un día conoce a Lucy Whitmore (Drew Barrymore), una artista que tiene amnesia y no recuerda nada al día siguiente. Henry se enamora de ella y trata de hacer que se enamore de él cada día, inventando nuevas formas de llamar su atención. Pero tendrá que enfrentarse a varios obstáculos, como el ex novio de Lucy, el padre de ella y el olvido de la chica.",
-      "inicio": "2026-11-11T23:30:00",
-      "fin": "2026-11-12T00:30:00",
+      "inicio": "2026-11-12T23:30:00",
+      "fin": "2026-11-13T00:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerascitas.jpg"
     },
     {
       "titulo": "Telemundo - Edición central",
       "descripcion": "Repetición ║ Un análisis profundo y detallado sobre el ámbito financiero mostrado a través del debate y la información acerca de la devaluación de la moneda, inflación, entre otros. Además, junto a los principales titulares en economía, podrás forjarte tu propia opinión y conocer mucho más acerca del mundo de las finanzas.",
-      "inicio": "2026-11-12T00:30:00",
-      "fin": "2026-11-12T02:45:00",
+      "inicio": "2026-11-13T00:30:00",
+      "fin": "2026-11-13T02:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Desayunos informales - Segunda mañana",
       "descripcion": "Repetición ║ Victoria Zangaro y Jorge 'Coco' Echagüe, junto a Lucia Brocal, Marcel Keoroglian, Martín Angolini y Camila Rajchman, se encargarán de sumar alegría a las mañanas.",
-      "inicio": "2026-11-12T02:45:00",
-      "fin": "2026-11-12T04:15:00",
+      "inicio": "2026-11-13T02:45:00",
+      "fin": "2026-11-13T04:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "La receta",
       "descripcion": "Repetición ║ Catalina Palleja nos acerca increíbles recetas, buenos consejos y nuevos tips para que disfrutes de tu cocina.",
-      "inicio": "2026-11-12T04:15:00",
-      "fin": "2026-11-12T04:45:00",
+      "inicio": "2026-11-13T04:15:00",
+      "fin": "2026-11-13T04:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lareceta.jpg"
     },
     {
       "titulo": "Puesta a punto",
       "descripcion": "Repetición ║ Un programa con el análisis de la actualidad junto a un gran equipo de periodistas trabajando en las calles, en tu barrio y en tu ciudad.",
-      "inicio": "2026-11-12T04:45:00",
-      "fin": "2026-11-12T05:30:00",
+      "inicio": "2026-11-13T04:45:00",
+      "fin": "2026-11-13T05:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Esta boca es mía",
       "descripcion": "Repetición ║ Victoria Rodríguez vuelve con el exitoso talk show de la tarde, totalmente renovado, para hablar y debatir sobre lo que nos interesa a todos. Cuenta con un panel conformado por Silvia Novarese, Beatriz Argimón, Julio Toyos, Lilián Abracinskas, Karina Tucuna, Damián Coalla y Daniel Lucas. Ellos analizarán y confrontarán opiniones acerca de pequeños grandes temas de la vida cotidiana. Entre ellos: la infidelidad, aborto, drogas, sexualidad y otros.",
-      "inicio": "2026-11-12T05:30:00",
-      "fin": "2026-11-12T06:55:00",
+      "inicio": "2026-11-13T05:30:00",
+      "fin": "2026-11-13T06:55:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Telemundo de mañana",
       "descripcion": "Conozca los titulares que encabezan los principales medios nacionales e internacionales en el ámbito político, económico, social, cultural y deportivo, con datos de interés, reportajes y entrevistas exclusivas. La información de la calle, el clima y mucho más.",
-      "inicio": "2026-11-12T06:55:00",
-      "fin": "2026-11-12T08:00:00",
+      "inicio": "2026-11-13T06:55:00",
+      "fin": "2026-11-13T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Desayunos informales - Primera mañana",
       "descripcion": "Tu mañana se renueva con los divertidos desayunos informales. Disfruta de una propuesta diferente, diseñada especialmente para ti, y arranca el día de la mejor manera.",
-      "inicio": "2026-11-12T08:00:00",
-      "fin": "2026-11-12T10:00:00",
+      "inicio": "2026-11-13T08:00:00",
+      "fin": "2026-11-13T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Desayunos informales - Segunda mañana",
       "descripcion": "Victoria Zangaro y Jorge 'Coco' Echagüe, junto a Lucia Brocal, Marcel Keoroglian, Martín Angolini y Camila Rajchman, se encargarán de sumar alegría a las mañanas.",
-      "inicio": "2026-11-12T10:00:00",
-      "fin": "2026-11-12T12:00:00",
+      "inicio": "2026-11-13T10:00:00",
+      "fin": "2026-11-13T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "La receta",
       "descripcion": "Catalina Palleja nos acerca increíbles recetas, buenos consejos y nuevos tips para que disfrutes de tu cocina.",
-      "inicio": "2026-11-12T12:00:00",
-      "fin": "2026-11-12T12:30:00",
+      "inicio": "2026-11-13T12:00:00",
+      "fin": "2026-11-13T12:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lareceta.jpg"
+    },
+    {
+      "titulo": "Telemundo mediodía",
+      "descripcion": "Resumen informativo de las noticias del día.",
+      "inicio": "2026-11-13T12:30:00",
+      "fin": "2026-11-13T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

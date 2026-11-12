@@ -1,109 +1,116 @@
 {
   "actual": {
-    "titulo": "Modo Fontevecchia",
-    "descripcion": "Periodismo y análisis de la realidad política, económica y social, conducido por Jorge Fontevecchia.",
-    "inicio": "2026-11-11T10:00:00",
-    "fin": "2026-11-11T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/modofontevecchia.jpg"
-  },
-  "siguiente": {
     "titulo": "Ronda de Investigación",
     "descripcion": "Investigaciones periodísticas y análisis profundo con la conducción de Natalia Volosin.",
-    "inicio": "2026-11-11T13:00:00",
-    "fin": "2026-11-11T14:30:00",
+    "inicio": "2026-11-12T13:00:00",
+    "fin": "2026-11-12T14:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+  },
+  "siguiente": {
+    "titulo": "Ronda de Corresponsales",
+    "descripcion": "La visión global y las novedades internacionales de la mano de Jorge Elías y su red de corresponsales.",
+    "inicio": "2026-11-12T14:30:00",
+    "fin": "2026-11-12T16:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Modo Fontevecchia",
-      "descripcion": "Periodismo y análisis de la realidad política, económica y social, conducido por Jorge Fontevecchia.",
-      "inicio": "2026-11-11T10:00:00",
-      "fin": "2026-11-11T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/modofontevecchia.jpg"
-    },
-    {
       "titulo": "Ronda de Investigación",
       "descripcion": "Investigaciones periodísticas y análisis profundo con la conducción de Natalia Volosin.",
-      "inicio": "2026-11-11T13:00:00",
-      "fin": "2026-11-11T14:30:00",
+      "inicio": "2026-11-12T13:00:00",
+      "fin": "2026-11-12T14:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Ronda de Corresponsales",
       "descripcion": "La visión global y las novedades internacionales de la mano de Jorge Elías y su red de corresponsales.",
-      "inicio": "2026-11-11T14:30:00",
-      "fin": "2026-11-11T16:30:00",
+      "inicio": "2026-11-12T14:30:00",
+      "fin": "2026-11-12T16:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Ronda de Economistas",
       "descripcion": "El panorama financiero, los mercados y las variables económicas analizados por Fernando Meaños.",
-      "inicio": "2026-11-11T16:30:00",
-      "fin": "2026-11-11T18:00:00",
+      "inicio": "2026-11-12T16:30:00",
+      "fin": "2026-11-12T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Ronda de Escritores",
       "descripcion": "Un espacio para la literatura, los libros y el pensamiento cultural conducido por Osvaldo Quiroga.",
-      "inicio": "2026-11-11T18:00:00",
-      "fin": "2026-11-11T19:30:00",
+      "inicio": "2026-11-12T18:00:00",
+      "fin": "2026-11-12T19:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Ronda de Editores",
       "descripcion": "Las primicias, enfoques y debates periodísticos con los principales editores de Editorial Perfil.",
-      "inicio": "2026-11-11T19:30:00",
-      "fin": "2026-11-11T21:00:00",
+      "inicio": "2026-11-12T19:30:00",
+      "fin": "2026-11-12T21:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "QR!",
       "descripcion": "Actualidad, política y debate en la noche del canal con la conducción de Pablo Caruso.",
-      "inicio": "2026-11-11T21:00:00",
-      "fin": "2026-11-11T23:00:00",
+      "inicio": "2026-11-12T21:00:00",
+      "fin": "2026-11-12T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Rebord",
-      "descripcion": "Espacio de entrevistas e impresiones conducido por Tomás Rebord.",
-      "inicio": "2026-11-11T23:00:00",
-      "fin": "2026-11-11T23:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "¿Y ahora qué?",
+      "descripcion": "Cierre de la jornada con debate y análisis de la agenda informativa.",
+      "inicio": "2026-11-12T23:00:00",
+      "fin": "2026-11-12T23:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yahoraque.jpg"
     },
     {
       "titulo": "Cierre de Emisión",
       "descripcion": "Programación en pausa o transición.",
-      "inicio": "2026-11-11T23:59:00",
-      "fin": "2026-11-12T00:00:00",
+      "inicio": "2026-11-12T23:59:00",
+      "fin": "2026-11-13T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Programación trasnoche",
       "descripcion": "Selección y repetición de los mejores contenidos del canal.",
-      "inicio": "2026-11-12T00:00:00",
-      "fin": "2026-11-12T05:00:00",
+      "inicio": "2026-11-13T00:00:00",
+      "fin": "2026-11-13T05:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "La mañana informativa",
       "descripcion": "Espacio informativo en el que se abordan los acontecimientos más relevantes de la actualidad, datos de servicios como el tiempo y el tráfico vehicular.",
-      "inicio": "2026-11-12T05:00:00",
-      "fin": "2026-11-12T08:00:00",
+      "inicio": "2026-11-13T05:00:00",
+      "fin": "2026-11-13T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananainformativa.jpg"
     },
     {
       "titulo": "Longobardi",
       "descripcion": "Noticias, análisis y entrevistas con la conducción de Marcelo Longobardi.",
-      "inicio": "2026-11-12T08:00:00",
-      "fin": "2026-11-12T10:00:00",
+      "inicio": "2026-11-13T08:00:00",
+      "fin": "2026-11-13T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Modo Fontevecchia",
       "descripcion": "Periodismo y análisis de la realidad política, económica y social, conducido por Jorge Fontevecchia.",
-      "inicio": "2026-11-12T10:00:00",
-      "fin": "2026-11-12T13:00:00",
+      "inicio": "2026-11-13T10:00:00",
+      "fin": "2026-11-13T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/modofontevecchia.jpg"
+    },
+    {
+      "titulo": "Perfil Brasil",
+      "descripcion": "La actualidad política, económica y social del gigante sudamericano.",
+      "inicio": "2026-11-13T13:00:00",
+      "fin": "2026-11-13T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ronda de Investigación",
+      "descripcion": "Investigaciones periodísticas y análisis profundo con la conducción de Natalia Volosin.",
+      "inicio": "2026-11-13T13:30:00",
+      "fin": "2026-11-13T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
