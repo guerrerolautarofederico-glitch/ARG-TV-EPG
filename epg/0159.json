@@ -1,103 +1,19 @@
 {
   "actual": {
-    "titulo": "Hora de noticias",
-    "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
-    "inicio": "2026-11-12T13:00:00",
-    "fin": "2026-11-12T17:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/horadenoticias.jpg"
-  },
-  "siguiente": {
     "titulo": "Conexión Puranoticia",
     "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
-    "inicio": "2026-11-12T17:00:00",
-    "fin": "2026-11-12T18:00:00",
+    "inicio": "2026-11-13T12:00:00",
+    "fin": "2026-11-13T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexionpuranoticia.jpg"
   },
+  "siguiente": {
+    "titulo": "Hora de noticias",
+    "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
+    "inicio": "2026-11-13T13:00:00",
+    "fin": "2026-11-13T17:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/horadenoticias.jpg"
+  },
   "lista": [
-    {
-      "titulo": "Hora de noticias",
-      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
-      "inicio": "2026-11-12T13:00:00",
-      "fin": "2026-11-12T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/horadenoticias.jpg"
-    },
-    {
-      "titulo": "Conexión Puranoticia",
-      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
-      "inicio": "2026-11-12T17:00:00",
-      "fin": "2026-11-12T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexionpuranoticia.jpg"
-    },
-    {
-      "titulo": "Puranoticia PM",
-      "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
-      "inicio": "2026-11-12T18:00:00",
-      "fin": "2026-11-12T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiapm.jpg"
-    },
-    {
-      "titulo": "Puranoticia PM",
-      "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
-      "inicio": "2026-11-12T20:00:00",
-      "fin": "2026-11-12T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiapm.jpg"
-    },
-    {
-      "titulo": "Puranoticia Matinal",
-      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
-      "inicio": "2026-11-12T22:00:00",
-      "fin": "2026-11-13T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiamatinal.jpg"
-    },
-    {
-      "titulo": "Conexión Puranoticia",
-      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
-      "inicio": "2026-11-13T00:00:00",
-      "fin": "2026-11-13T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexionpuranoticia.jpg"
-    },
-    {
-      "titulo": "Hora de noticias",
-      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
-      "inicio": "2026-11-13T01:00:00",
-      "fin": "2026-11-13T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/horadenoticias.jpg"
-    },
-    {
-      "titulo": "Conexión Puranoticia",
-      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
-      "inicio": "2026-11-13T03:00:00",
-      "fin": "2026-11-13T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexionpuranoticia.jpg"
-    },
-    {
-      "titulo": "Puranoticia Matinal",
-      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
-      "inicio": "2026-11-13T04:00:00",
-      "fin": "2026-11-13T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiamatinal.jpg"
-    },
-    {
-      "titulo": "Puranoticia PM",
-      "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
-      "inicio": "2026-11-13T06:00:00",
-      "fin": "2026-11-13T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiapm.jpg"
-    },
-    {
-      "titulo": "Puranoticia Matinal",
-      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
-      "inicio": "2026-11-13T08:00:00",
-      "fin": "2026-11-13T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiamatinal.jpg"
-    },
-    {
-      "titulo": "Puranoticia Matinal",
-      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
-      "inicio": "2026-11-13T10:00:00",
-      "fin": "2026-11-13T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiamatinal.jpg"
-    },
     {
       "titulo": "Conexión Puranoticia",
       "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
@@ -111,6 +27,76 @@
       "inicio": "2026-11-13T13:00:00",
       "fin": "2026-11-13T17:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/horadenoticias.jpg"
+    },
+    {
+      "titulo": "Conexión Puranoticia",
+      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
+      "inicio": "2026-11-13T17:00:00",
+      "fin": "2026-11-13T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexionpuranoticia.jpg"
+    },
+    {
+      "titulo": "Puranoticia PM",
+      "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-11-13T18:00:00",
+      "fin": "2026-11-13T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiapm.jpg"
+    },
+    {
+      "titulo": "Puranoticia PM",
+      "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-11-13T20:00:00",
+      "fin": "2026-11-13T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiapm.jpg"
+    },
+    {
+      "titulo": "Puranoticia Matinal",
+      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-11-13T22:00:00",
+      "fin": "2026-11-14T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiamatinal.jpg"
+    },
+    {
+      "titulo": "Conexión Puranoticia",
+      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
+      "inicio": "2026-11-14T00:00:00",
+      "fin": "2026-11-14T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexionpuranoticia.jpg"
+    },
+    {
+      "titulo": "Hora de noticias",
+      "descripcion": "Resumen informativo con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo.",
+      "inicio": "2026-11-14T01:00:00",
+      "fin": "2026-11-14T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/horadenoticias.jpg"
+    },
+    {
+      "titulo": "Puranoticia Matinal",
+      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-11-14T03:00:00",
+      "fin": "2026-11-14T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiamatinal.jpg"
+    },
+    {
+      "titulo": "Puranoticia Matinal",
+      "descripcion": "Primer informativo Matinal con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-11-14T04:00:00",
+      "fin": "2026-11-14T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiamatinal.jpg"
+    },
+    {
+      "titulo": "Puranoticia PM",
+      "descripcion": "Resumen informativo PM con las principales noticias sucedidas en las últimas horas en la región, Chile y el mundo en Puranoticia.cl",
+      "inicio": "2026-11-14T06:00:00",
+      "fin": "2026-11-14T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puranoticiapm.jpg"
+    },
+    {
+      "titulo": "Conexión Puranoticia",
+      "descripcion": "Resumen de las conexiones que hemos tenido con diferentes invitados en Puranoticia.cl",
+      "inicio": "2026-11-14T08:00:00",
+      "fin": "2026-11-14T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/conexionpuranoticia.jpg"
     }
   ]
 }

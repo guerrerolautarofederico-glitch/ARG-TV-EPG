@@ -1,334 +1,19 @@
 {
   "actual": {
-    "titulo": "Mapa de los sabores de México • Tortitas de camarón; Chuleta de cerdo en salsa",
-    "descripcion": "Tortitas de camarón; Chuleta de cerdo en salsa | El chef trae hoy dos platos típicos del noreste mexicano: tortitas de camarón con nopales y una chuleta de cerdo en salsa borracha, ¡puro sabor norteño!",
-    "inicio": "2026-11-12T13:30:00",
-    "fin": "2026-11-12T14:00:00",
+    "titulo": "Menú para todos los días • Mojarra frita y molcajete de cecina",
+    "descripcion": "Mojarra frita y molcajete de cecina | Se prepara mojarra frita y molcajete de cecina.",
+    "inicio": "2026-11-13T12:30:00",
+    "fin": "2026-11-13T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Maestros del alfajor • Clásicos regionales",
-    "descripcion": "Clásicos regionales | El alfajor es parte de la cultura argentina: cada región tiene su variante. En Mar del Plata está la fábrica de Balcarce. En Santa Fe, en La Sin Bombo, el clásico santafecino, y, desde las sierras, en La Petit Patisserie, el alfajor cordobés.",
-    "inicio": "2026-11-12T14:00:00",
-    "fin": "2026-11-12T14:30:00",
+    "titulo": "Hermana Verónica • Torta frita",
+    "descripcion": "Torta frita | La Hermana Verónica abre la cocina del convento para compartir las recetas que aprendió en todos los años de su vida en comunidad. Recetas sencillas de distintos orígenes, deliciosas e ideales para una mesa compartida.",
+    "inicio": "2026-11-13T13:00:00",
+    "fin": "2026-11-13T13:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Mapa de los sabores de México • Tortitas de camarón; Chuleta de cerdo en salsa",
-      "descripcion": "Tortitas de camarón; Chuleta de cerdo en salsa | El chef trae hoy dos platos típicos del noreste mexicano: tortitas de camarón con nopales y una chuleta de cerdo en salsa borracha, ¡puro sabor norteño!",
-      "inicio": "2026-11-12T13:30:00",
-      "fin": "2026-11-12T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Maestros del alfajor • Clásicos regionales",
-      "descripcion": "Clásicos regionales | El alfajor es parte de la cultura argentina: cada región tiene su variante. En Mar del Plata está la fábrica de Balcarce. En Santa Fe, en La Sin Bombo, el clásico santafecino, y, desde las sierras, en La Petit Patisserie, el alfajor cordobés.",
-      "inicio": "2026-11-12T14:00:00",
-      "fin": "2026-11-12T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La cocina de los recuerdos • Mole negro con pollo y arroz; Rollitos de cecina",
-      "descripcion": "Mole negro con pollo y arroz; Rollitos de cecina | El mole negro es un platillo de fiesta que reúne a la familia en México. En esta oportunidad, Sergio Camacho enseña los trucos para prepararlo y comparte la receta de unos prácticos rollitos de cecina, puro sabor y recuerdos.",
-      "inicio": "2026-11-12T14:30:00",
-      "fin": "2026-11-12T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Todo sobre la carne • Entraña y arañita",
-      "descripcion": "Entraña y arañita | Felicitas Pizarro muestra todo acerca de la entraña y arañita. Los dos cortes clásicos con un sabor único.",
-      "inicio": "2026-11-12T15:00:00",
-      "fin": "2026-11-12T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/todosobrelacarne.jpg"
-    },
-    {
-      "titulo": "Sonia en su huerta • Huevos ahogados y terrina de betabel",
-      "descripcion": "Huevos ahogados y terrina de betabel | Las cosechas de hoja santa, chile serrano, remolacha y menta llegan a la cocina para convertirse en dos deliciosos platos.",
-      "inicio": "2026-11-12T15:30:00",
-      "fin": "2026-11-12T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los fogones tradicionales: España • Patatas a la importancia, conejo campero, rabo de toro",
-      "descripcion": "Patatas a la importancia, conejo campero, rabo de toro | De visita en dos pueblos de la comarca de La Moraña, en tierras de Ávila: Gotarrendura, donde Yolanda cocina las típicas patatas a la importancia, y en Fontiveros, Ifi, Belén y Marisa preparan un rico conejo campero y el sabroso rabo de toro.",
-      "inicio": "2026-11-12T16:00:00",
-      "fin": "2026-11-12T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los imperdibles: Ciudad de México",
-      "descripcion": "T1 E4 | Frijoles refritos hechos al carbón en la mítica Fonda Margarita. Después, una receta tapatía: la carne en su jugo, un guisado que transporta a las comidas familiares. Desde el País Vasco a la CDMX, llega la sopa verde de mariscos de Danubio.",
-      "inicio": "2026-11-12T16:30:00",
-      "fin": "2026-11-12T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losimperdiblesciudaddemexico.jpg"
-    },
-    {
-      "titulo": "Los Petersen pastas y pizzas • Canelones de pollo; tagliatelle con salsa de queso azul",
-      "descripcion": "Canelones de pollo; tagliatelle con salsa de queso azul | Dos recetas de pasta imperdibles: canelones de pollo y tagliatelle con salsa de queso azul.",
-      "inicio": "2026-11-12T17:00:00",
-      "fin": "2026-11-12T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Simplemente Pía • Cocina contemporánea mediterránea",
-      "descripcion": "Cocina contemporánea mediterránea | La chef Pía fusiona técnicas de la cuenca del Mediterráneo. Prepara unas coles de Bruselas con salsa de tamarindo, un taquito de rib eye con salsa verde con aguacate y un escabeche de pescado ahumado.",
-      "inicio": "2026-11-12T17:30:00",
-      "fin": "2026-11-12T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/simplementepia.jpg"
-    },
-    {
-      "titulo": "Guardianes de tradición Argentina",
-      "descripcion": "T3 E2 | En esta ocasión, se visita Casa Sauer. Fundado en 1895 por Carlos Sauer en Colonia Yeruá, departamento Concordia, en la provincia de Entre Ríos, este viejo almacén de ramos generales ofrece comidas caseras danesas como Frikadellen con papas, bocadillos daneses y Risalamande.",
-      "inicio": "2026-11-12T18:00:00",
-      "fin": "2026-11-12T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Estefi dulce • Torta colibrí",
-      "descripcion": "Torta colibrí | La torta Colibrí, las tetitas de monja y las cookies sándwich de selva negra son las protagonistas. Tres recetas que combinan frutas, cremas y chocolate para disfrutar de una pastelería llena de sabor.",
-      "inicio": "2026-11-12T18:30:00",
-      "fin": "2026-11-12T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pueblos para comérselos: México",
-      "descripcion": "T2 E2 | Edgard Antonio Morales, guía de Chiapa de Corzo, comparte curiosidades del pueblo. Además, un vistazo a la elaboración del tazajo con pepita, el pozol de cacao, el cochito horneado y los dulces tradicionales.",
-      "inicio": "2026-11-12T19:00:00",
-      "fin": "2026-11-12T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Don Juliote de la Mancha • Del teatro a los fogones",
-      "descripcion": "Del teatro a los fogones | Los intrépidos hidalgos probarán el somallao, un plato con bacalao que se hace sobre las brasas. Luego, una mirada a las famosas berenjenas de Almagro.",
-      "inicio": "2026-11-12T19:30:00",
-      "fin": "2026-11-12T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Maestros del mole",
-      "descripcion": "T1 E4 | El estado de Veracruz también es conocido por sus moles, y Alex Ruiz visita Xico, donde la maestra Olga Lidia Caballero prepara el tradicional mole de Xico. También, la maestra Deyanira Aquino comparte la receta para preparar el delicioso mole.",
-      "inicio": "2026-11-12T20:00:00",
-      "fin": "2026-11-12T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/maestrosdelmole.jpg"
-    },
-    {
-      "titulo": "Me voy a comer el mundo",
-      "descripcion": "T5 E2 | Se conoce a fondo la cocina de veintidós grandes ciudades de todo el mundo, en las que la periodista visitará sus mercados y restaurantes en su afán por investigar las costumbres de cada destino.",
-      "inicio": "2026-11-12T20:30:00",
-      "fin": "2026-11-12T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Las mejores recetas de Zahie • Consomé de ravioles; Costilla de cerdo en chile macho",
-      "descripcion": "Consomé de ravioles; Costilla de cerdo en chile macho | Zahie Téllez nunca se guarda sus secretos gastronómicos más preciados, por eso, hoy comparte su receta de unos ravioles caldosos y unas costillas de cerdo en adobo para chuparse los dedos.",
-      "inicio": "2026-11-12T21:30:00",
-      "fin": "2026-11-12T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Petersen en el litoral • Cítricos y cordero",
-      "descripcion": "Cítricos y cordero | Los Petersen llegan a Entre Ríos y muestran los secretos de las plantaciones de arándanos y cítricos de la región. En la provincia de Corrientes, enseñan cómo es la cría del cordero mesopotámico para luego preparar cordero a la estaca.",
-      "inicio": "2026-11-12T22:00:00",
-      "fin": "2026-11-12T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sonia en su huerta • Huevos ahogados y terrina de betabel",
-      "descripcion": "Huevos ahogados y terrina de betabel | Las cosechas de hoja santa, chile serrano, remolacha y menta llegan a la cocina para convertirse en dos deliciosos platos.",
-      "inicio": "2026-11-12T22:30:00",
-      "fin": "2026-11-12T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Todo sobre la carne • Entraña y arañita",
-      "descripcion": "Entraña y arañita | Felicitas Pizarro muestra todo acerca de la entraña y arañita. Los dos cortes clásicos con un sabor único.",
-      "inicio": "2026-11-12T23:00:00",
-      "fin": "2026-11-12T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/todosobrelacarne.jpg"
-    },
-    {
-      "titulo": "Simplemente Pía • Cocina contemporánea mediterránea",
-      "descripcion": "Cocina contemporánea mediterránea | La chef Pía fusiona técnicas de la cuenca del Mediterráneo. Prepara unas coles de Bruselas con salsa de tamarindo, un taquito de rib eye con salsa verde con aguacate y un escabeche de pescado ahumado.",
-      "inicio": "2026-11-12T23:30:00",
-      "fin": "2026-11-13T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/simplementepia.jpg"
-    },
-    {
-      "titulo": "Los fogones tradicionales: España • Patatas a la importancia, conejo campero, rabo de toro",
-      "descripcion": "Patatas a la importancia, conejo campero, rabo de toro | De visita en dos pueblos de la comarca de La Moraña, en tierras de Ávila: Gotarrendura, donde Yolanda cocina las típicas patatas a la importancia, y en Fontiveros, Ifi, Belén y Marisa preparan un rico conejo campero y el sabroso rabo de toro.",
-      "inicio": "2026-11-13T00:00:00",
-      "fin": "2026-11-13T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La ruta de los insectos",
-      "descripcion": "T1 E4 | En Tequisquiapan, Querétaro, Quique visita a Georgina López, que da a conocer su proyecto de una granja casera de larvas de tenebrio. Carlos Arroyo cocina una pasta casera con harina de tenebrio con ragú. En San Mateo Atenco, Estado de México, Yair Santana comparte la fabricación de paletas de caramelo con insectos. En Ecatepec, Estado de México, Quique visita a Vanessa Fuentes, que hace fondue de cucaracha de Madagascar y barras de chocolates con insectos varios.",
-      "inicio": "2026-11-13T00:30:00",
-      "fin": "2026-11-13T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Maestros del mole",
-      "descripcion": "T1 E4 | El estado de Veracruz también es conocido por sus moles, y Alex Ruiz visita Xico, donde la maestra Olga Lidia Caballero prepara el tradicional mole de Xico. También, la maestra Deyanira Aquino comparte la receta para preparar el delicioso mole.",
-      "inicio": "2026-11-13T01:00:00",
-      "fin": "2026-11-13T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/maestrosdelmole.jpg"
-    },
-    {
-      "titulo": "Pueblos para comérselos: México",
-      "descripcion": "T2 E2 | Edgard Antonio Morales, guía de Chiapa de Corzo, comparte curiosidades del pueblo. Además, un vistazo a la elaboración del tazajo con pepita, el pozol de cacao, el cochito horneado y los dulces tradicionales.",
-      "inicio": "2026-11-13T01:30:00",
-      "fin": "2026-11-13T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los favoritos de Margarita Bernal en Cartagena • Restaurante Harry's Sasson",
-      "descripcion": "Restaurante Harry's Sasson | La cocinera colombiana Margarita Bernal visita la histórica ciudad de Cartagena para mostrar sus sitios gastronómicos favoritos. Invita a visitar restaurantes exclusivos, cafeterías, bares típicos y a probar la cocina callejera.",
-      "inicio": "2026-11-13T02:00:00",
-      "fin": "2026-11-13T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los imperdibles: Ciudad de México",
-      "descripcion": "T1 E4 | Frijoles refritos hechos al carbón en la mítica Fonda Margarita. Después, una receta tapatía: la carne en su jugo, un guisado que transporta a las comidas familiares. Desde el País Vasco a la CDMX, llega la sopa verde de mariscos de Danubio.",
-      "inicio": "2026-11-13T02:30:00",
-      "fin": "2026-11-13T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losimperdiblesciudaddemexico.jpg"
-    },
-    {
-      "titulo": "Los Petersen en México • Izamal, Zizal, Chocholá",
-      "descripcion": "Izamal, Zizal, Chocholá | Los Petersen van a Kinich, un restaurante de comida tradicional maya en Izamal, Yucatán. En Zizal visitan la palapa El Zurdo en donde comen recado rojo con limón y sal.",
-      "inicio": "2026-11-13T03:00:00",
-      "fin": "2026-11-13T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los fogones tradicionales: España",
-      "descripcion": "T6 E6 | Se recupera el proceso de elaboración de diversos platos de la cocina popular, elaborados por personas que han conservado las viejas recetas heredadas de sus antepasados.",
-      "inicio": "2026-11-13T03:30:00",
-      "fin": "2026-11-13T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Productos de mi tierra, México • Nopal",
-      "descripcion": "Nopal | Enrique visita a Marcos Juárez, productor de nopal, en Tlanepantla, Morelos. Allí, Reina González cocina penca rellena.",
-      "inicio": "2026-11-13T04:00:00",
-      "fin": "2026-11-13T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tapeo español",
-      "descripcion": "T1 E6 | La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-13T04:30:00",
-      "fin": "2026-11-13T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Productos artesanos: México • Pan grande o conchas de Cholula; chocolate de cacao",
-      "descripcion": "Pan grande o conchas de Cholula; chocolate de cacao | Se observa el proceso de elaboración del pan grande tradicional que se cocina con masa madre. Además, en la región de Tabasco se cultiva el cacao más antiguo con el que se elabora uno de los chocolates más puros y deliciosos de México.",
-      "inicio": "2026-11-13T05:00:00",
-      "fin": "2026-11-13T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La panadería dulce de Juan Manuel • Tiramisú con levadura; Palos de Jacob",
-      "descripcion": "Tiramisú con levadura; Palos de Jacob | Desde los clásicos de la panadería dulce hasta las delicias más innovadoras, Juan Manuel Herrera comparte todas las recetas. En esta ocasión: un imperdible tiramisú con levadura y unos deliciosos palos de Jacob.",
-      "inicio": "2026-11-13T05:30:00",
-      "fin": "2026-11-13T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sonia en su huerta • Barbacoa de res estilo norteño con salsa tequera",
-      "descripcion": "Barbacoa de res estilo norteño con salsa tequera | En su casa de Valle de Bravo, Sonia prepara una barbacoa de res al estilo norteño con una salsa taquera. La cosecha de papaya verde y tomates cherry le recuerda al sudeste asiático con una ensalada thai.",
-      "inicio": "2026-11-13T06:00:00",
-      "fin": "2026-11-13T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Petersen pastas y pizzas • Pizza de chancho; Chicago pizza",
-      "descripcion": "Pizza de chancho; Chicago pizza | Roberto y Christian preparan pizza de chancho y Chicago pizza.",
-      "inicio": "2026-11-13T06:30:00",
-      "fin": "2026-11-13T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Devuélveme los tapers México • Juan Carlos; Aída",
-      "descripcion": "Juan Carlos; Aída | Zahie conoce a Juan Carlos Soto, que le cocinará una pasta al morrón y salmón a la mantequilla a su papá. Además, visita a Aída Lira Ortiz, que le preparará un lomo relleno a su vecina, Hortensia.",
-      "inicio": "2026-11-13T07:00:00",
-      "fin": "2026-11-13T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fiestas con sabor mexicano • Chiles en nogada",
-      "descripcion": "Chiles en nogada | Benito Taibo visita la feria del chile en nogada en San Andrés Calpan, Puebla. Benito degusta el famoso chile de doña Cuca y cuenta la historia del platillo. También prueba especialidades como tamales, pulque curado, gelatina y helado de nogada.",
-      "inicio": "2026-11-13T07:30:00",
-      "fin": "2026-11-13T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Productos de mi tierra, México • Nopal",
-      "descripcion": "Nopal | Enrique visita a Marcos Juárez, productor de nopal, en Tlanepantla, Morelos. Allí, Reina González cocina penca rellena.",
-      "inicio": "2026-11-13T08:00:00",
-      "fin": "2026-11-13T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tapeo español",
-      "descripcion": "T1 E6 | La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-13T08:30:00",
-      "fin": "2026-11-13T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Menú para todos los días • Mojarra frita y molcajete de cecina",
-      "descripcion": "Mojarra frita y molcajete de cecina | Se prepara mojarra frita y molcajete de cecina.",
-      "inicio": "2026-11-13T09:00:00",
-      "fin": "2026-11-13T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los imperdibles. Buenos Aires",
-      "descripcion": "T1 E4 | Un verdadero festival de aromas y sabores. En primer lugar, la degustación de una deliciosa copa Melba. Luego, una carne al horno avalada por todas las abuelas argentinas, y unos deliciosos churros con chocolate.",
-      "inicio": "2026-11-13T09:30:00",
-      "fin": "2026-11-13T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mapa de los sabores de México • Conejo al pulque; Frijoles charros",
-      "descripcion": "Conejo al pulque; Frijoles charros | El pulque es una bebida tradicional y ancestral de México. Este es el ingrediente que le da el sabor a un conejo que prepara el chef, junto con unos frijoles charros. Programa dedicado al noreste de México.",
-      "inicio": "2026-11-13T10:00:00",
-      "fin": "2026-11-13T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Un paseo por Oaxaca • Tesoros de Oaxaca",
-      "descripcion": "Tesoros de Oaxaca | Una mirada a Oaxaca desde sus tesoros, con la compañía de Margarita Carrillo. Una visita al Mercado 20 de Noviembre y el Museo de Arte Textil. Además, entrevistas a diferentes artesanas.",
-      "inicio": "2026-11-13T10:30:00",
-      "fin": "2026-11-13T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Devuélveme los tapers México • Juan Carlos; Aída",
-      "descripcion": "Juan Carlos; Aída | Zahie conoce a Juan Carlos Soto, que le cocinará una pasta al morrón y salmón a la mantequilla a su papá. Además, visita a Aída Lira Ortiz, que le preparará un lomo relleno a su vecina, Hortensia.",
-      "inicio": "2026-11-13T11:00:00",
-      "fin": "2026-11-13T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Productos artesanos: México • Pan grande o conchas de Cholula; chocolate de cacao",
-      "descripcion": "Pan grande o conchas de Cholula; chocolate de cacao | Se observa el proceso de elaboración del pan grande tradicional que se cocina con masa madre. Además, en la región de Tabasco se cultiva el cacao más antiguo con el que se elabora uno de los chocolates más puros y deliciosos de México.",
-      "inicio": "2026-11-13T11:30:00",
-      "fin": "2026-11-13T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fiesta en casa. Al aire libre • Carpaccio de vieiras a los cítricos",
-      "descripcion": "Carpaccio de vieiras a los cítricos | Carmen López del Hierro elabora tres recetas: carpaccio de vieiras a los cítricos, arepas reina pepiada y crema fría de chocolate con frutos rojos.",
-      "inicio": "2026-11-13T12:00:00",
-      "fin": "2026-11-13T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Menú para todos los días • Mojarra frita y molcajete de cecina",
       "descripcion": "Mojarra frita y molcajete de cecina | Se prepara mojarra frita y molcajete de cecina.",
@@ -348,6 +33,321 @@
       "descripcion": "Ximbó; Habas a la mexicana; Salsa molcajeteada | En el centro del país se prepara un tesoro gastronómico, el cual el chef enseña a cocinar: el ximbó es una mezcla de carnes y nopales el cual va acompañado por una fresca ensalada de habas con su toque de salsa picante.",
       "inicio": "2026-11-13T13:30:00",
       "fin": "2026-11-13T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La panadería dulce de Juan Manuel • Variedad de mini facturas, lenguas de gato",
+      "descripcion": "Variedad de mini facturas, lenguas de gato | Se aprende el paso a paso de dos panes para disfrutar y celebrar. Juan Manuel presenta unos ricos baos orientales y también un leikaj con mucha miel.",
+      "inicio": "2026-11-13T14:00:00",
+      "fin": "2026-11-13T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La cocina de los recuerdos • Agua chile con leche de tigre; Cazuela de mariscos",
+      "descripcion": "Agua chile con leche de tigre; Cazuela de mariscos | En esta ocasión, Sergio Camacho comparte una reinterpretación del tradicional aguachile, así como una cazuela de mariscos. ¡Puro sabor a mar!",
+      "inicio": "2026-11-13T14:30:00",
+      "fin": "2026-11-13T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Asado gaucho",
+      "descripcion": "T1 E2 | Una familia de gauchos restaura y conserva un antiguo rancho heredado de sus antepasados. Entre historias y tradiciones, Germán Bruno y Tupac preparan unos pollos al asador y un budín de pan.",
+      "inicio": "2026-11-13T15:00:00",
+      "fin": "2026-11-13T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonia en su huerta • Barbacoa de res estilo norteño con salsa tequera",
+      "descripcion": "Barbacoa de res estilo norteño con salsa tequera | En su casa de Valle de Bravo, Sonia prepara una barbacoa de res al estilo norteño con una salsa taquera. La cosecha de papaya verde y tomates cherry le recuerda al sudeste asiático con una ensalada thai.",
+      "inicio": "2026-11-13T15:30:00",
+      "fin": "2026-11-13T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los fogones tradicionales: España",
+      "descripcion": "T6 E6 | Se recupera el proceso de elaboración de diversos platos de la cocina popular, elaborados por personas que han conservado las viejas recetas heredadas de sus antepasados.",
+      "inicio": "2026-11-13T16:00:00",
+      "fin": "2026-11-13T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los imperdibles. Buenos Aires",
+      "descripcion": "T1 E4 | Un verdadero festival de aromas y sabores. En primer lugar, la degustación de una deliciosa copa Melba. Luego, una carne al horno avalada por todas las abuelas argentinas, y unos deliciosos churros con chocolate.",
+      "inicio": "2026-11-13T16:30:00",
+      "fin": "2026-11-13T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Petersen pastas y pizzas • Pizza de chancho; Chicago pizza",
+      "descripcion": "Pizza de chancho; Chicago pizza | Roberto y Christian preparan pizza de chancho y Chicago pizza.",
+      "inicio": "2026-11-13T17:00:00",
+      "fin": "2026-11-13T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Simplemente Pía • Vegetariano",
+      "descripcion": "Vegetariano | Para Pía las verduras pueden ser las protagonistas. Prepara zanahorias rostizadas con ras el hanout, jocoque y aderezo agridulce, una coliflor entera con chips de chiles, y ensalada de camote, pepitas de calabaza y hierbas frescas.",
+      "inicio": "2026-11-13T17:30:00",
+      "fin": "2026-11-13T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/simplementepia.jpg"
+    },
+    {
+      "titulo": "Abuelita linda • Guadalajara",
+      "descripcion": "Guadalajara | En la capital de Jalisco la protagonista es la abuelita Pilar. Ella será la encargada de enseñar a Verónica cómo preparar el famoso pozole rojo, uno de los símbolos de la gastronomía del estado. Es el plato preferido de la familia de Pilar.",
+      "inicio": "2026-11-13T18:00:00",
+      "fin": "2026-11-13T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Estefi dulce • Muffins de pastel de zanahoria",
+      "descripcion": "Muffins de pastel de zanahoria | Los muffins de zanahoria y las medialunas de café son la base de unas deliciosas brookies, una receta muy especial que Estefi prepara junto a sus hijas.",
+      "inicio": "2026-11-13T18:30:00",
+      "fin": "2026-11-13T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fiestas con sabor mexicano • Chiles en nogada",
+      "descripcion": "Chiles en nogada | Benito Taibo visita la feria del chile en nogada en San Andrés Calpan, Puebla. Benito degusta el famoso chile de doña Cuca y cuenta la historia del platillo. También prueba especialidades como tamales, pulque curado, gelatina y helado de nogada.",
+      "inicio": "2026-11-13T19:00:00",
+      "fin": "2026-11-13T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tapeo español",
+      "descripcion": "T1 E6 | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-13T19:30:00",
+      "fin": "2026-11-13T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Maestros del taco • Providencia",
+      "descripcion": "Providencia | Poncho Cadena recorre Michoacán y conoce la taquería El Churro. Además, en Jalisco, visita la taquería Providencia.",
+      "inicio": "2026-11-13T20:00:00",
+      "fin": "2026-11-13T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Me voy a comer el mundo • París (Francia)",
+      "descripcion": "París (Francia) | En París se visita un restaurante histórico, el Passage des Panoramas, donde se prueba el pato y el champán. También se degustan los quesos más típicos.",
+      "inicio": "2026-11-13T20:30:00",
+      "fin": "2026-11-13T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las mejores recetas de Zahie • Pavo relleno; Ensalada de Navidad; Puré de papa con vino y romero",
+      "descripcion": "Pavo relleno; Ensalada de Navidad; Puré de papa con vino y romero | En esta ocasión, Zahie prepara tres clásicos para las fiestas de fin de año: pavo relleno, ensalada de Navidad y un delicioso puré de papa con un toque de romero.",
+      "inicio": "2026-11-13T21:30:00",
+      "fin": "2026-11-13T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Petersen en México • Izamal, Zizal, Chocholá",
+      "descripcion": "Izamal, Zizal, Chocholá | Los Petersen van a Kinich, un restaurante de comida tradicional maya en Izamal, Yucatán. En Zizal visitan la palapa El Zurdo en donde comen recado rojo con limón y sal.",
+      "inicio": "2026-11-13T22:00:00",
+      "fin": "2026-11-13T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonia en su huerta • Barbacoa de res estilo norteño con salsa tequera",
+      "descripcion": "Barbacoa de res estilo norteño con salsa tequera | En su casa de Valle de Bravo, Sonia prepara una barbacoa de res al estilo norteño con una salsa taquera. La cosecha de papaya verde y tomates cherry le recuerda al sudeste asiático con una ensalada thai.",
+      "inicio": "2026-11-13T22:30:00",
+      "fin": "2026-11-13T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Asado gaucho",
+      "descripcion": "T1 E2 | Una familia de gauchos restaura y conserva un antiguo rancho heredado de sus antepasados. Entre historias y tradiciones, Germán Bruno y Tupac preparan unos pollos al asador y un budín de pan.",
+      "inicio": "2026-11-13T23:00:00",
+      "fin": "2026-11-13T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Simplemente Pía • Vegetariano",
+      "descripcion": "Vegetariano | Para Pía las verduras pueden ser las protagonistas. Prepara zanahorias rostizadas con ras el hanout, jocoque y aderezo agridulce, una coliflor entera con chips de chiles, y ensalada de camote, pepitas de calabaza y hierbas frescas.",
+      "inicio": "2026-11-13T23:30:00",
+      "fin": "2026-11-14T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/simplementepia.jpg"
+    },
+    {
+      "titulo": "Los fogones tradicionales: España",
+      "descripcion": "T6 E6 | Se recupera el proceso de elaboración de diversos platos de la cocina popular, elaborados por personas que han conservado las viejas recetas heredadas de sus antepasados.",
+      "inicio": "2026-11-14T00:00:00",
+      "fin": "2026-11-14T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Productos de mi tierra, México • Nopal",
+      "descripcion": "Nopal | Enrique visita a Marcos Juárez, productor de nopal, en Tlanepantla, Morelos. Allí, Reina González cocina penca rellena.",
+      "inicio": "2026-11-14T00:30:00",
+      "fin": "2026-11-14T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Maestros de la pasta",
+      "descripcion": "T1 E4 | Julieta conoce a un auténtico artesano de la pasta y, luego, los secretos del mejor raviol. De regreso a Italia, visita en Calabria a otra nonna con una receta imperdible, y finaliza con una de las pastas más vistosas: los culurgiones.",
+      "inicio": "2026-11-14T01:00:00",
+      "fin": "2026-11-14T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fiestas con sabor mexicano • Chiles en nogada",
+      "descripcion": "Chiles en nogada | Benito Taibo visita la feria del chile en nogada en San Andrés Calpan, Puebla. Benito degusta el famoso chile de doña Cuca y cuenta la historia del platillo. También prueba especialidades como tamales, pulque curado, gelatina y helado de nogada.",
+      "inicio": "2026-11-14T01:30:00",
+      "fin": "2026-11-14T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los favoritos de Osuna en Querétaro",
+      "descripcion": "T1 E2 | Osuna visita Barbacoa de Don Lole donde descubre los secretos de la preparación. En Distribuidora de carnes García prueba los deliciosos tacos de carnitas recién elaboradas. También visita el restaurante Barra Coyuca que se especializa en ceviches, aguachiles, cocteles y cocina tradicional de las costas mexicanas. En Elea, un restaurante 100% griego, Osuna prueba los platos más tradicionales. Por último, en Fiume 37 degusta deliciosos platillos italianos.",
+      "inicio": "2026-11-14T02:00:00",
+      "fin": "2026-11-14T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los imperdibles. Buenos Aires",
+      "descripcion": "T1 E4 | Un verdadero festival de aromas y sabores. En primer lugar, la degustación de una deliciosa copa Melba. Luego, una carne al horno avalada por todas las abuelas argentinas, y unos deliciosos churros con chocolate.",
+      "inicio": "2026-11-14T02:30:00",
+      "fin": "2026-11-14T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fiestas con sabor mexicano • Barbacoa",
+      "descripcion": "Barbacoa | En Actopan, Hidalgo, Benito visita la feria de la barbacoa. Allí prueba la barbacoa del Güero García y agua de garambullo. Elías comparte paso a paso cómo se prepara la barbacoa. Además, en el concurso de la barbacoa, Benito es jurado.",
+      "inicio": "2026-11-14T03:00:00",
+      "fin": "2026-11-14T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Asado gaucho",
+      "descripcion": "T1 E1 | Un encuentro con David Cabral donde se prepara la tradicional carneada de cerdo en su histórica pulpería. Chorizos, morcillas, salazones, carne al fuego y torta de 80 goles, forman parte de una jornada llena de tradición.",
+      "inicio": "2026-11-14T03:30:00",
+      "fin": "2026-11-14T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tapeo español",
+      "descripcion": "T1 E3 | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-14T04:00:00",
+      "fin": "2026-11-14T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Amigos a la mesa • Carpaccio de alcachofa y pesto, pescado con relleno de milpa",
+      "descripcion": "Carpaccio de alcachofa y pesto, pescado con relleno de milpa | Dos grandes cocineros y amigos se reúnen para preparar sus platos favoritos, platos típicos de la gastronomía mexicana y recetas ideales para compartir con familia y seres queridos.",
+      "inicio": "2026-11-14T04:30:00",
+      "fin": "2026-11-14T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Productos de mi tierra, México • Frijol",
+      "descripcion": "Frijol | Enrique Cervantes visita Los Capulines, Morelos. Allí, lo recibe Michel Villegas, quien le habla sobre la producción de frijol. En la cocina, Regula Altamirano prepara frijoles de olla y tamales de frijol.",
+      "inicio": "2026-11-14T05:00:00",
+      "fin": "2026-11-14T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Maestros del sushi",
+      "descripcion": "T1 E3 | Iwao investiga la historia del innovador sushi californiano. En Japón, recorre el famoso mercado de pescado Tsukiji y termina participando en una fiesta sushi en la casa de una típica familia.",
+      "inicio": "2026-11-14T05:30:00",
+      "fin": "2026-11-14T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Un paseo por Oaxaca • Aromas de Oaxaca",
+      "descripcion": "Aromas de Oaxaca | Margarita Carrillo da un recorrido por la gastronomía mexicana a través de los aromas y sabores de Oaxaca.",
+      "inicio": "2026-11-14T06:00:00",
+      "fin": "2026-11-14T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Con pocos ingredientes • Empanadas caseras, puff de batata, torta banoffee",
+      "descripcion": "Empanadas caseras, puff de batata, torta banoffee | Recetas novedosas con pocos ingredientes: empanadas caseras, puff de batata y torta Banoffee.",
+      "inicio": "2026-11-14T06:30:00",
+      "fin": "2026-11-14T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los imperdibles: Ciudad de México",
+      "descripcion": "T1 E3 | Los tacos de pulpo de la Picha Mariscos, puro sabor del mar en cada mordida. Después, el mole de olla, una receta de 80 años que sigue uniendo generaciones. Y el rol de guayaba de Roseta, que ha cruzado fronteras.",
+      "inicio": "2026-11-14T07:00:00",
+      "fin": "2026-11-14T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losimperdiblesciudaddemexico.jpg"
+    },
+    {
+      "titulo": "Amigos con mucho gusto • Cofradía El Mantel, los nabos, del hojaldre de Torrelavega",
+      "descripcion": "Cofradía El Mantel, los nabos, del hojaldre de Torrelavega | En Canarias, la Cofradía de El Mantel, en Tenerife, deja claro su amor por la cocina. Con estos decididos cocineros se prueban algunos de los platos más típicos del archipiélago sur.",
+      "inicio": "2026-11-14T07:30:00",
+      "fin": "2026-11-14T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Maestros de la medialuna",
+      "descripcion": "T1 E2 | Juan Manuel se dirige hacia Mar del Plata para probar sus clásicas medialunas. Allí, visita SAO Medialunas, Tío Curzio, La Font D'Oro, Saint Jeanne y Fuerza Madre. Se conoce a Blas, un panadero que cuenta el secreto de las medialunas de la costa.",
+      "inicio": "2026-11-14T08:00:00",
+      "fin": "2026-11-14T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Menú para todos los días • Frijoles con puerco y fideo seco",
+      "descripcion": "Frijoles con puerco y fideo seco | Se comparten dos propuestas: frijoles con puerco y pulpo y fideo seco con chicharrón.",
+      "inicio": "2026-11-14T08:30:00",
+      "fin": "2026-11-14T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fiestas con sabor mexicano",
+      "descripcion": "T3 E4 | Benito Taibo viaja al corazón de Taxco para vivir la tradicional Fiesta de Santa Prisca, una celebración donde la fe, el color, la comida, y la tradición lo envuelven todo.",
+      "inicio": "2026-11-14T09:00:00",
+      "fin": "2026-11-14T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pueblos para comérselos: México",
+      "descripcion": "T1 E4 | Se conocen los platillos y los paisajes de Jalpan de Serra, Querétaro. Allí preparan michecaña, nieves de guayabillo y cecina ahumada de manera artesanal. También se conoce la zona arqueológica de Tancama y el mirador Los Chacos.",
+      "inicio": "2026-11-14T09:30:00",
+      "fin": "2026-11-14T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sonia en su huerta • Camarones al hinojo y spagheti con pesto",
+      "descripcion": "Camarones al hinojo y spagheti con pesto | Sonia comparte dos recetas con productos de su huerta y cosecha hinojo, kale, albahaca y ajo.",
+      "inicio": "2026-11-14T10:00:00",
+      "fin": "2026-11-14T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Destino México • Puebla 2",
+      "descripcion": "Puebla 2 | Conoce los secretos de los chiles en nogada, el platillo emblemático de las cocineras tradicionales de Puebla. Recorre el corazón de la ciudad, descubre sus calles y tesoros arquitectónicos y deléitate en el Mercado de Sabores.",
+      "inicio": "2026-11-14T10:30:00",
+      "fin": "2026-11-14T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fiesta en casa. Al aire libre • Ensalada mimosa, magret de pato",
+      "descripcion": "Ensalada mimosa, magret de pato | Carmen López del Hierro elabora dos recetas: ensalada mimosa y Magret de pato con salsa de grosellas y cebollitas agridulces.",
+      "inicio": "2026-11-14T11:00:00",
+      "fin": "2026-11-14T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Amigos a la mesa • Ensalada del huerto, lomo de cerdo relleno de farsa de hongos",
+      "descripcion": "Ensalada del huerto, lomo de cerdo relleno de farsa de hongos | Se prepara una fresca ensalada con un toque cítrico, así como un lomo de cerdo con notas agridulces.",
+      "inicio": "2026-11-14T11:30:00",
+      "fin": "2026-11-14T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Maestros de la medialuna",
+      "descripcion": "T1 E2 | Juan Manuel se dirige hacia Mar del Plata para probar sus clásicas medialunas. Allí, visita SAO Medialunas, Tío Curzio, La Font D'Oro, Saint Jeanne y Fuerza Madre. Se conoce a Blas, un panadero que cuenta el secreto de las medialunas de la costa.",
+      "inicio": "2026-11-14T12:00:00",
+      "fin": "2026-11-14T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "México en 44 platos • Ciudad de México",
+      "descripcion": "Ciudad de México | En la ciudad capital de México confluyen y están a mano todas las cocinas de la República; su cultura de comida callejera es una caravana de delicias. Eduardo presenta dos clásicos totales: tacos al pastor y guajolotas de tamal.",
+      "inicio": "2026-11-14T12:30:00",
+      "fin": "2026-11-14T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
