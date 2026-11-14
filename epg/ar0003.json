@@ -1,129 +1,101 @@
 {
   "actual": {
-    "titulo": "El Zorro",
-    "descripcion": "El héroe enmascarado que de día es el aristócrata Diego de la Vega y de noche un espadachín justiciero en la California española.",
-    "inicio": "2026-11-13T12:30:00",
-    "fin": "2026-11-13T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elzorro.jpg"
+    "titulo": "La familia Ingalls",
+    "descripcion": "Una familia de pioneros lucha por sobrevivir en Minnesota alrededor del año 1870.",
+    "inicio": "2026-11-14T11:00:00",
+    "fin": "2026-11-14T18:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lafamiliaingalls.jpg"
   },
   "siguiente": {
-    "titulo": "Mediodía noticias",
-    "descripcion": "Toda la información sobre la actualidad nacional e internacional, y diversos temas de interés del público.",
-    "inicio": "2026-11-13T13:00:00",
-    "fin": "2026-11-13T14:30:00",
+    "titulo": "Días perrunos",
+    "descripcion": "Unos adorables perros comienzan a influir en las carreras, las amistades y los romances de una presentadora, un paseador, un empresario y otras personas de Los Ángeles.",
+    "inicio": "2026-11-14T18:00:00",
+    "fin": "2026-11-14T19:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "El Zorro",
-      "descripcion": "El héroe enmascarado que de día es el aristócrata Diego de la Vega y de noche un espadachín justiciero en la California española.",
-      "inicio": "2026-11-13T12:30:00",
-      "fin": "2026-11-13T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elzorro.jpg"
+      "titulo": "La familia Ingalls",
+      "descripcion": "Una familia de pioneros lucha por sobrevivir en Minnesota alrededor del año 1870.",
+      "inicio": "2026-11-14T11:00:00",
+      "fin": "2026-11-14T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lafamiliaingalls.jpg"
     },
     {
-      "titulo": "Mediodía noticias",
-      "descripcion": "Toda la información sobre la actualidad nacional e internacional, y diversos temas de interés del público.",
-      "inicio": "2026-11-13T13:00:00",
-      "fin": "2026-11-13T14:30:00",
+      "titulo": "Días perrunos",
+      "descripcion": "Unos adorables perros comienzan a influir en las carreras, las amistades y los romances de una presentadora, un paseador, un empresario y otras personas de Los Ángeles.",
+      "inicio": "2026-11-14T18:00:00",
+      "fin": "2026-11-14T19:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "La cocina rebelde",
-      "descripcion": "Con humor, recetas fáciles, consejos de nutrición e invitados especiales, el programa promete romper con el formato tradicional de cocina.",
-      "inicio": "2026-11-13T14:30:00",
-      "fin": "2026-11-13T16:15:00",
+      "titulo": "Fuera de la ley",
+      "descripcion": "Billy Carter vive junto a sus padres criando ganado en un rancho de la localidad de Colver, pero pronto sus intereses chocarán con los de los ganaderos, partidarios de los espacios libres, comandados por Price. En el asalto a su rancho por los hombres de Price, mientras él estaba fuera, su padre es asesinado y Billy jurará vengarse de quien le mató e incendió el rancho. (FILMAFFINITY)",
+      "inicio": "2026-11-14T19:45:00",
+      "fin": "2026-11-14T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fueradelaley.jpg"
+    },
+    {
+      "titulo": "Todo sigue igual • Araceli González",
+      "descripcion": "Araceli González | Espacio que combina actualidad, análisis y humor para repasar los acontecimientos que marcaron la semana con un invitado especial en cada edición.",
+      "inicio": "2026-11-14T21:30:00",
+      "fin": "2026-11-14T22:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Cuestión de peso",
-      "descripcion": "Personas con sobrepeso reciben ayuda para mejorar su calidad de vida.",
-      "inicio": "2026-11-13T16:15:00",
-      "fin": "2026-11-13T18:15:00",
+      "titulo": "La noche de Mirtha • Hugo Alconada, Santiago Bulat, Nacho Girón, Laurita Fernández",
+      "descripcion": "Hugo Alconada, Santiago Bulat, Nacho Girón, Laurita Fernández | Una cena entre la conductora y prestigiosas figuras de todos los campos, en una charla amena sobre la actualidad del mundo y de los invitados.",
+      "inicio": "2026-11-14T22:30:00",
+      "fin": "2026-11-15T00:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "¡Ahora caigo!",
-      "descripcion": "Un concurso de agilidad mental, conocimientos de cultura general y rapidez en dónde los concursantes competirán para convertirse en el líder y conseguir el gran premio final.",
-      "inicio": "2026-11-13T18:15:00",
-      "fin": "2026-11-13T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahoracaigo.jpg"
-    },
-    {
-      "titulo": "Telenoche",
-      "descripcion": "El mejor equipo de profesionales, primero estás vos.",
-      "inicio": "2026-11-13T20:00:00",
-      "fin": "2026-11-13T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telenoche.jpg"
-    },
-    {
-      "titulo": "Es mi sueño",
-      "descripcion": "En busca de la nueva estrella que brille en todo el país y que, con su talento e historia, conmueva a todos los argentinos. El objetivo es descubrir esa voz, esa presencia, ese artista capaz de trascender la pantalla y conquistar corazones.",
-      "inicio": "2026-11-13T21:00:00",
-      "fin": "2026-11-13T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Otro día perdido",
-      "descripcion": "Un espacio para romper con lo establecido, cuestionar la actualidad desde una mirada ácida y divertida, y ofrecer un diálogo con el espectador.",
-      "inicio": "2026-11-13T22:30:00",
-      "fin": "2026-11-14T00:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/otrodiaperdido.jpg"
-    },
-    {
-      "titulo": "Síntesis",
-      "descripcion": "Programa semanal en el que se abordarán los acontecimientos sociales, políticos y económicos más importantes en América Latina.",
-      "inicio": "2026-11-14T00:15:00",
-      "fin": "2026-11-14T01:00:00",
+      "titulo": "Resto del mundo",
+      "descripcion": "Un recorrido por los lugares más alucinantes del mundo.",
+      "inicio": "2026-11-15T00:15:00",
+      "fin": "2026-11-15T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Cucinare",
       "descripcion": "Un programa compuesto de videos breves que explican el paso a paso para realizar las mejores y más sencillas recetas de cocina.",
-      "inicio": "2026-11-14T01:00:00",
-      "fin": "2026-11-14T01:15:00",
+      "inicio": "2026-11-15T01:00:00",
+      "fin": "2026-11-15T01:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Cierre de transmisiones",
       "descripcion": "Fin de emisión diaria del canal.",
-      "inicio": "2026-11-14T01:15:00",
-      "fin": "2026-11-14T07:30:00",
+      "inicio": "2026-11-15T01:15:00",
+      "fin": "2026-11-15T08:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
     },
     {
       "titulo": "Apertura TX",
       "descripcion": "Inicio de la transmisión.",
-      "inicio": "2026-11-14T07:30:00",
-      "fin": "2026-11-14T07:35:00",
+      "inicio": "2026-11-15T08:30:00",
+      "fin": "2026-11-15T08:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "El ratón Pérez",
-      "descripcion": "Una niña ha perdido un diente y sus considerados padres le dicen que por la noche el Ratón Pérez pasará a recogerlo y dejará una moneda en su lugar.",
-      "inicio": "2026-11-14T07:35:00",
-      "fin": "2026-11-14T09:00:00",
+      "titulo": "El Garage TV",
+      "descripcion": "Como hace más de 25 años, El Garage sigue descubriendo y mostrando las 'joyitas' clásicas y actuales del mundo automotor, que dan vida a la inexplicable pasión argentina por los motores.",
+      "inicio": "2026-11-15T08:45:00",
+      "fin": "2026-11-15T09:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Agro TV",
-      "descripcion": "Espacio que te acerca toda la tecnología agropecuaria, exhibiendo las experiencias más exitosas y rentables de los productores de punta. Con la opinión de los trabajadores y los agentes del cambio del agro argentino. Información al servicio del productor.",
-      "inicio": "2026-11-14T09:00:00",
-      "fin": "2026-11-14T10:00:00",
+      "titulo": "El peso del talento",
+      "descripcion": "Frustrado creativamente y abocado a la ruina, Cage, interpretándose a sí mismo, debe aceptar una oferta de un millón de dólares por asistir al cumpleaños de un peligroso admirador.",
+      "inicio": "2026-11-15T09:30:00",
+      "fin": "2026-11-15T11:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Tres Chiflados",
-      "descripcion": "Serie de TV (1930-1970). 26 temporadas. 190 episodios. Serie cómica que alcanzó un reconocimiento mundial. El conjunto conoció varias formaciones, y sus integrantes más festejados son mejor conocidos por sus apodos que por sus nombres.",
-      "inicio": "2026-11-14T10:00:00",
-      "fin": "2026-11-14T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lostreschiflados.jpg"
     },
     {
       "titulo": "La familia Ingalls",
       "descripcion": "Una familia de pioneros lucha por sobrevivir en Minnesota alrededor del año 1870.",
-      "inicio": "2026-11-14T11:00:00",
-      "fin": "2026-11-14T17:50:00",
+      "inicio": "2026-11-15T11:00:00",
+      "fin": "2026-11-15T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lafamiliaingalls.jpg"
     }
   ]

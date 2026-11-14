@@ -1,271 +1,19 @@
 {
   "actual": {
-    "titulo": "Newshour",
-    "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
-    "inicio": "2026-11-13T12:00:00",
-    "fin": "2026-11-13T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
+    "titulo": "101 East",
+    "descripcion": "Un programa de actualidad que se centra en los grandes problemas que afectan a Asia, sus distintas culturas y diferentes políticas.",
+    "inicio": "2026-11-14T11:30:00",
+    "fin": "2026-11-14T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/101east.jpg"
   },
   "siguiente": {
-    "titulo": "News",
-    "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-    "inicio": "2026-11-13T13:00:00",
-    "fin": "2026-11-13T13:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    "titulo": "Newshour",
+    "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
+    "inicio": "2026-11-14T12:00:00",
+    "fin": "2026-11-14T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
   },
   "lista": [
-    {
-      "titulo": "Newshour",
-      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
-      "inicio": "2026-11-13T12:00:00",
-      "fin": "2026-11-13T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
-    },
-    {
-      "titulo": "News",
-      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-      "inicio": "2026-11-13T13:00:00",
-      "fin": "2026-11-13T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
-    },
-    {
-      "titulo": "Making Peace",
-      "descripcion": "Exsoldados colombianos confiesan haber participado en ejecuciones extrajudiciales para inflar las cifras de enemigos abatidos. Las familias de las víctimas comparten su sufrimiento y su angustia.",
-      "inicio": "2026-11-13T13:30:00",
-      "fin": "2026-11-13T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "News",
-      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-      "inicio": "2026-11-13T14:00:00",
-      "fin": "2026-11-13T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
-    },
-    {
-      "titulo": "Inside Story",
-      "descripcion": "Más allá de los titulares, directo al corazón de la noticia del día. Al Jazeera conversa con algunas de las personalidades más brillantes de Oriente Próximo acerca de asuntos de gran relevancia.",
-      "inicio": "2026-11-13T14:30:00",
-      "fin": "2026-11-13T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/insidestory.jpg"
-    },
-    {
-      "titulo": "Newshour",
-      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
-      "inicio": "2026-11-13T15:00:00",
-      "fin": "2026-11-13T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
-    },
-    {
-      "titulo": "News",
-      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-      "inicio": "2026-11-13T16:00:00",
-      "fin": "2026-11-13T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
-    },
-    {
-      "titulo": "Counting the Cost",
-      "descripcion": "Información sobre las historias económicas que dan forma al mundo e impactan en las vidas de las personas corrientes.",
-      "inicio": "2026-11-13T16:30:00",
-      "fin": "2026-11-13T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/countingthecost.jpg"
-    },
-    {
-      "titulo": "Let's Focus",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-13T17:00:00",
-      "fin": "2026-11-13T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/letsfocus.jpg"
-    },
-    {
-      "titulo": "Newshour",
-      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
-      "inicio": "2026-11-13T18:00:00",
-      "fin": "2026-11-13T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
-    },
-    {
-      "titulo": "News",
-      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-      "inicio": "2026-11-13T19:00:00",
-      "fin": "2026-11-13T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
-    },
-    {
-      "titulo": "Up Front",
-      "descripcion": "Mehdi Hasan analiza los titulares para llegar, en compañía de sus invitados, hasta la esencia de la noticia.",
-      "inicio": "2026-11-13T19:30:00",
-      "fin": "2026-11-13T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/upfront.jpg"
-    },
-    {
-      "titulo": "News",
-      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-      "inicio": "2026-11-13T20:00:00",
-      "fin": "2026-11-13T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
-    },
-    {
-      "titulo": "Inside Story",
-      "descripcion": "Más allá de los titulares, directo al corazón de la noticia del día. Al Jazeera conversa con algunas de las personalidades más brillantes de Oriente Próximo acerca de asuntos de gran relevancia.",
-      "inicio": "2026-11-13T20:30:00",
-      "fin": "2026-11-13T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/insidestory.jpg"
-    },
-    {
-      "titulo": "Newshour",
-      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
-      "inicio": "2026-11-13T21:00:00",
-      "fin": "2026-11-13T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
-    },
-    {
-      "titulo": "La campaña contra el cambio climático",
-      "descripcion": "En 1988 el mundo estaba preparado para accionar contra el cambio climático. Pero algo paralizó la acción que condujo a la alarmante situación climática.",
-      "inicio": "2026-11-13T22:00:00",
-      "fin": "2026-11-13T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Newshour",
-      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
-      "inicio": "2026-11-13T23:00:00",
-      "fin": "2026-11-14T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
-    },
-    {
-      "titulo": "News",
-      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-      "inicio": "2026-11-14T00:00:00",
-      "fin": "2026-11-14T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
-    },
-    {
-      "titulo": "101 East",
-      "descripcion": "Un programa de actualidad que se centra en los grandes problemas que afectan a Asia, sus distintas culturas y diferentes políticas.",
-      "inicio": "2026-11-14T00:30:00",
-      "fin": "2026-11-14T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/101east.jpg"
-    },
-    {
-      "titulo": "News",
-      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-      "inicio": "2026-11-14T01:00:00",
-      "fin": "2026-11-14T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
-    },
-    {
-      "titulo": "Witness • Afghanistan's Ghost Towns",
-      "descripcion": "Afghanistan's Ghost Towns | Aclamados documentales de todo el mundo que ponen de relieve los problemas mundiales a través de historias personales.",
-      "inicio": "2026-11-14T01:30:00",
-      "fin": "2026-11-14T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/witness.jpg"
-    },
-    {
-      "titulo": "News",
-      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-      "inicio": "2026-11-14T02:00:00",
-      "fin": "2026-11-14T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
-    },
-    {
-      "titulo": "Inside Story",
-      "descripcion": "Más allá de los titulares, directo al corazón de la noticia del día. Al Jazeera conversa con algunas de las personalidades más brillantes de Oriente Próximo acerca de asuntos de gran relevancia.",
-      "inicio": "2026-11-14T02:30:00",
-      "fin": "2026-11-14T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/insidestory.jpg"
-    },
-    {
-      "titulo": "News",
-      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-      "inicio": "2026-11-14T03:00:00",
-      "fin": "2026-11-14T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
-    },
-    {
-      "titulo": "Making Peace",
-      "descripcion": "Exsoldados colombianos confiesan haber participado en ejecuciones extrajudiciales para inflar las cifras de enemigos abatidos. Las familias de las víctimas comparten su sufrimiento y su angustia.",
-      "inicio": "2026-11-14T03:30:00",
-      "fin": "2026-11-14T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Newshour",
-      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
-      "inicio": "2026-11-14T04:00:00",
-      "fin": "2026-11-14T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
-    },
-    {
-      "titulo": "News",
-      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-      "inicio": "2026-11-14T05:00:00",
-      "fin": "2026-11-14T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
-    },
-    {
-      "titulo": "Counting the Cost",
-      "descripcion": "Información sobre las historias económicas que dan forma al mundo e impactan en las vidas de las personas corrientes.",
-      "inicio": "2026-11-14T05:30:00",
-      "fin": "2026-11-14T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/countingthecost.jpg"
-    },
-    {
-      "titulo": "News",
-      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-      "inicio": "2026-11-14T06:00:00",
-      "fin": "2026-11-14T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
-    },
-    {
-      "titulo": "Up Front",
-      "descripcion": "Mehdi Hasan analiza los titulares para llegar, en compañía de sus invitados, hasta la esencia de la noticia.",
-      "inicio": "2026-11-14T06:30:00",
-      "fin": "2026-11-14T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/upfront.jpg"
-    },
-    {
-      "titulo": "Newshour",
-      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
-      "inicio": "2026-11-14T07:00:00",
-      "fin": "2026-11-14T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
-    },
-    {
-      "titulo": "News",
-      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-      "inicio": "2026-11-14T08:00:00",
-      "fin": "2026-11-14T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
-    },
-    {
-      "titulo": "Inside Story",
-      "descripcion": "Más allá de los titulares, directo al corazón de la noticia del día. Al Jazeera conversa con algunas de las personalidades más brillantes de Oriente Próximo acerca de asuntos de gran relevancia.",
-      "inicio": "2026-11-14T08:30:00",
-      "fin": "2026-11-14T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/insidestory.jpg"
-    },
-    {
-      "titulo": "Al Jazeera World • Gaza Grad",
-      "descripcion": "Gaza Grad | Las películas de toda la cadena Al Jazeera.",
-      "inicio": "2026-11-14T09:00:00",
-      "fin": "2026-11-14T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Newshour",
-      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
-      "inicio": "2026-11-14T10:00:00",
-      "fin": "2026-11-14T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
-    },
-    {
-      "titulo": "News",
-      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
-      "inicio": "2026-11-14T11:00:00",
-      "fin": "2026-11-14T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
-    },
     {
       "titulo": "101 East",
       "descripcion": "Un programa de actualidad que se centra en los grandes problemas que afectan a Asia, sus distintas culturas y diferentes políticas.",
@@ -279,6 +27,258 @@
       "inicio": "2026-11-14T12:00:00",
       "fin": "2026-11-14T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-14T13:00:00",
+      "fin": "2026-11-14T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "Fault Lines • Killing at Sea",
+      "descripcion": "Killing at Sea | Reporteros investigan el papel de EE. UU. en el mundo y la gente, desde el corazón de la noticia.",
+      "inicio": "2026-11-14T13:30:00",
+      "fin": "2026-11-14T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-14T14:00:00",
+      "fin": "2026-11-14T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "Inside Story",
+      "descripcion": "Más allá de los titulares, directo al corazón de la noticia del día. Al Jazeera conversa con algunas de las personalidades más brillantes de Oriente Próximo acerca de asuntos de gran relevancia.",
+      "inicio": "2026-11-14T14:30:00",
+      "fin": "2026-11-14T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/insidestory.jpg"
+    },
+    {
+      "titulo": "Newshour",
+      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
+      "inicio": "2026-11-14T15:00:00",
+      "fin": "2026-11-14T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-14T16:00:00",
+      "fin": "2026-11-14T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "The Listening Post",
+      "descripcion": "Se proporcionan noticias e información claves para comprender eventos globales cada vez más complejos, a través de un análisis en profundidad.",
+      "inicio": "2026-11-14T16:30:00",
+      "fin": "2026-11-14T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thelisteningpost.jpg"
+    },
+    {
+      "titulo": "Witness • Control Zone - Siberia's Wildfires",
+      "descripcion": "Control Zone - Siberia's Wildfires | Las comunidades locales se unen para combatir los intensos incendios forestales sin ayuda externa en las remotas regiones de Siberia.",
+      "inicio": "2026-11-14T17:00:00",
+      "fin": "2026-11-14T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/witness.jpg"
+    },
+    {
+      "titulo": "Newshour",
+      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
+      "inicio": "2026-11-14T18:00:00",
+      "fin": "2026-11-14T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-14T19:00:00",
+      "fin": "2026-11-14T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "The Bottom Line",
+      "descripcion": "Se abordan los temas más polémicos del mundo empresarial y político, además de los asuntos cotidianos que preocupan a los estadounidenses.",
+      "inicio": "2026-11-14T19:30:00",
+      "fin": "2026-11-14T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thebottomline.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-14T20:00:00",
+      "fin": "2026-11-14T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "Inside Story",
+      "descripcion": "Más allá de los titulares, directo al corazón de la noticia del día. Al Jazeera conversa con algunas de las personalidades más brillantes de Oriente Próximo acerca de asuntos de gran relevancia.",
+      "inicio": "2026-11-14T20:30:00",
+      "fin": "2026-11-14T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/insidestory.jpg"
+    },
+    {
+      "titulo": "Newshour",
+      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
+      "inicio": "2026-11-14T21:00:00",
+      "fin": "2026-11-14T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
+    },
+    {
+      "titulo": "Al Jazeera World • Gaza Grad",
+      "descripcion": "Gaza Grad | Las películas de toda la cadena Al Jazeera.",
+      "inicio": "2026-11-14T22:00:00",
+      "fin": "2026-11-14T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Newshour",
+      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
+      "inicio": "2026-11-14T23:00:00",
+      "fin": "2026-11-15T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-15T00:00:00",
+      "fin": "2026-11-15T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "Up Front",
+      "descripcion": "Marc Lamont Hill analiza la conexión entre los movimientos para los derechos laborales en todo el mundo.",
+      "inicio": "2026-11-15T00:30:00",
+      "fin": "2026-11-15T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/upfront.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-15T01:00:00",
+      "fin": "2026-11-15T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "Counting the Cost",
+      "descripcion": "Información sobre las historias económicas que dan forma al mundo e impactan en las vidas de las personas corrientes.",
+      "inicio": "2026-11-15T01:30:00",
+      "fin": "2026-11-15T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/countingthecost.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-15T02:00:00",
+      "fin": "2026-11-15T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "Inside Story",
+      "descripcion": "Más allá de los titulares, directo al corazón de la noticia del día. Al Jazeera conversa con algunas de las personalidades más brillantes de Oriente Próximo acerca de asuntos de gran relevancia.",
+      "inicio": "2026-11-15T02:30:00",
+      "fin": "2026-11-15T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/insidestory.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-15T03:00:00",
+      "fin": "2026-11-15T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "Fault Lines • Killing at Sea",
+      "descripcion": "Killing at Sea | Reporteros investigan el papel de EE. UU. en el mundo y la gente, desde el corazón de la noticia.",
+      "inicio": "2026-11-15T03:30:00",
+      "fin": "2026-11-15T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Newshour",
+      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
+      "inicio": "2026-11-15T04:00:00",
+      "fin": "2026-11-15T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-15T05:00:00",
+      "fin": "2026-11-15T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "The Listening Post",
+      "descripcion": "Se proporcionan noticias e información claves para comprender eventos globales cada vez más complejos, a través de un análisis en profundidad.",
+      "inicio": "2026-11-15T05:30:00",
+      "fin": "2026-11-15T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thelisteningpost.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-15T06:00:00",
+      "fin": "2026-11-15T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "The Bottom Line",
+      "descripcion": "Se abordan los temas más polémicos del mundo empresarial y político, además de los asuntos cotidianos que preocupan a los estadounidenses.",
+      "inicio": "2026-11-15T06:30:00",
+      "fin": "2026-11-15T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thebottomline.jpg"
+    },
+    {
+      "titulo": "Newshour",
+      "descripcion": "Una mirada a las noticias, eventos, actualidad e historias exclusivas de todo el mundo.",
+      "inicio": "2026-11-15T07:00:00",
+      "fin": "2026-11-15T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newshour.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-15T08:00:00",
+      "fin": "2026-11-15T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "Inside Story",
+      "descripcion": "Más allá de los titulares, directo al corazón de la noticia del día. Al Jazeera conversa con algunas de las personalidades más brillantes de Oriente Próximo acerca de asuntos de gran relevancia.",
+      "inicio": "2026-11-15T08:30:00",
+      "fin": "2026-11-15T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/insidestory.jpg"
+    },
+    {
+      "titulo": "Al Jazeera English: The Counter Narrative",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-15T09:00:00",
+      "fin": "2026-11-15T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NEWSHOUR: The World Now",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-15T10:00:00",
+      "fin": "2026-11-15T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "Estreno ║ The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-15T11:00:00",
+      "fin": "2026-11-15T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "Making Peace",
+      "descripcion": "Exsoldados colombianos confiesan haber participado en ejecuciones extrajudiciales para inflar las cifras de enemigos abatidos. Las familias de las víctimas comparten su sufrimiento y su angustia.",
+      "inicio": "2026-11-15T11:30:00",
+      "fin": "2026-11-15T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

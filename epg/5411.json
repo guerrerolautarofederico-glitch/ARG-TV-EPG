@@ -2,150 +2,129 @@
   "actual": {
     "titulo": "SportsCenter",
     "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-    "inicio": "2026-11-13T11:00:00",
-    "fin": "2026-11-13T13:00:00",
+    "inicio": "2026-11-14T11:00:00",
+    "fin": "2026-11-14T13:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
   },
   "siguiente": {
-    "titulo": "Fútbol Mexicano Liga Expansión • Club Atlético Morelia vs Leones Negros UdeG",
-    "descripcion": "Club Atlético Morelia vs Leones Negros UdeG | Semifinal, partido de ida del Torneo Apertura 2026. Desde el estadio Morelos. Atlético Morelia finalizó ambos partidos con un marcador de 2-1 ante Mérida. Leones Negros logró remontar a los Alacranes después de una derrota en el partido de ida.",
-    "inicio": "2026-11-13T13:00:00",
-    "fin": "2026-11-13T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Fútbol picante",
+    "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+    "inicio": "2026-11-14T13:00:00",
+    "fin": "2026-11-14T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
   },
   "lista": [
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-11-13T11:00:00",
-      "fin": "2026-11-13T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Fútbol Mexicano Liga Expansión • Club Atlético Morelia vs Leones Negros UdeG",
-      "descripcion": "Club Atlético Morelia vs Leones Negros UdeG | Semifinal, partido de ida del Torneo Apertura 2026. Desde el estadio Morelos. Atlético Morelia finalizó ambos partidos con un marcador de 2-1 ante Mérida. Leones Negros logró remontar a los Alacranes después de una derrota en el partido de ida.",
-      "inicio": "2026-11-13T13:00:00",
-      "fin": "2026-11-13T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter AM",
-      "descripcion": "Estreno ║ La edición matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-11-13T15:00:00",
-      "fin": "2026-11-13T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenteram.jpg"
-    },
-    {
-      "titulo": "Fútbol picante",
-      "descripcion": "Estreno ║ La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
-      "inicio": "2026-11-13T16:00:00",
-      "fin": "2026-11-13T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
-    },
-    {
-      "titulo": "Equipo F",
-      "descripcion": "Estreno ║ El debate de cada fecha llega a la pantalla. El mejor equipo para analizar todo lo que pasó el fin de semana.",
-      "inicio": "2026-11-13T17:00:00",
-      "fin": "2026-11-13T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/equipof.jpg"
-    },
-    {
-      "titulo": "Enfocados",
-      "descripcion": "Estreno ║ Se ofrece una visión global de múltiples deportes, con la conducción de expertos reconocidos que combinan respeto y experiencia.",
-      "inicio": "2026-11-13T18:00:00",
-      "fin": "2026-11-13T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enfocados.jpg"
-    },
-    {
-      "titulo": "Generación F",
-      "descripcion": "Estreno ║ Se mezcla el debate e irreverencia con rigor periodístico, creando una atmósfera única.",
-      "inicio": "2026-11-13T19:00:00",
-      "fin": "2026-11-13T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/generacionf.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-11-13T20:00:00",
-      "fin": "2026-11-13T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Fútbol Mexicano Liga Expansión • Piratas FC vs Atlético La Paz",
-      "descripcion": "Piratas FC vs Atlético La Paz | Semifinal, partido de ida del Torneo Apertura 2026. Desde el estadio Luis Pirata Fuente. Los Piratas llegan tras un empate 2-2 global en los cuartos de final ante Cancún, mientras que La Paz venció a Tlaxcala con un marcador final de 4-3.",
-      "inicio": "2026-11-13T22:00:00",
-      "fin": "2026-11-14T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-11-14T00:00:00",
-      "fin": "2026-11-14T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Fútbol picante",
-      "descripcion": "Estreno ║ La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
-      "inicio": "2026-11-14T02:00:00",
-      "fin": "2026-11-14T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-11-14T03:00:00",
-      "fin": "2026-11-14T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "ESPN KnockOut",
-      "descripcion": "Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN.",
-      "inicio": "2026-11-14T04:00:00",
-      "fin": "2026-11-14T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espnknockout.jpg"
-    },
-    {
-      "titulo": "Fútbol picante",
-      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
-      "inicio": "2026-11-14T05:00:00",
-      "fin": "2026-11-14T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-11-14T06:00:00",
-      "fin": "2026-11-14T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Enfocados",
-      "descripcion": "Se ofrece una visión global de múltiples deportes, con la conducción de expertos reconocidos que combinan respeto y experiencia.",
-      "inicio": "2026-11-14T07:00:00",
-      "fin": "2026-11-14T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enfocados.jpg"
-    },
-    {
-      "titulo": "Generación F",
-      "descripcion": "Se mezcla el debate e irreverencia con rigor periodístico, creando una atmósfera única.",
-      "inicio": "2026-11-14T08:00:00",
-      "fin": "2026-11-14T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/generacionf.jpg"
-    },
-    {
-      "titulo": "Fútbol picante",
-      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
-      "inicio": "2026-11-14T09:00:00",
-      "fin": "2026-11-14T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
-    },
     {
       "titulo": "SportsCenter",
       "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
       "inicio": "2026-11-14T11:00:00",
       "fin": "2026-11-14T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol picante",
+      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-11-14T13:00:00",
+      "fin": "2026-11-14T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-11-14T14:00:00",
+      "fin": "2026-11-14T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Baloncesto NBA G League • Capitanes CDMX vs Laketown Squadron",
+      "descripcion": "Capitanes CDMX vs Laketown Squadron | Toda la acción del Tip-Off Tournament 2026 de la NBA G League. Capitanes CDMX se enfrenta a Laketown Squadron. Desde el Pontchartrain Center, en Kenner, Louisiana, Estados Unidos.",
+      "inicio": "2026-11-14T18:00:00",
+      "fin": "2026-11-14T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "ESPN Tenis • Previa: Paris Masters",
+      "descripcion": "Estreno ║ Previa: Paris Masters | Análisis previo del Rolex Paris Masters 2026, parte del ATP Masters 1000. Desde el Paris La Défense Arena, en Nanterre.",
+      "inicio": "2026-11-14T20:00:00",
+      "fin": "2026-11-14T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol picante",
+      "descripcion": "Estreno ║ La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-11-14T21:00:00",
+      "fin": "2026-11-14T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "Rolex Paris Masters 2026 • Final",
+      "descripcion": "Final | Desde la Paris La Défense Arena, en Nanterre, París.",
+      "inicio": "2026-11-14T22:00:00",
+      "fin": "2026-11-15T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol picante",
+      "descripcion": "Estreno ║ La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-11-15T00:00:00",
+      "fin": "2026-11-15T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-11-15T01:00:00",
+      "fin": "2026-11-15T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol picante",
+      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-11-15T02:00:00",
+      "fin": "2026-11-15T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-11-15T03:00:00",
+      "fin": "2026-11-15T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol picante",
+      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-11-15T05:00:00",
+      "fin": "2026-11-15T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-11-15T06:00:00",
+      "fin": "2026-11-15T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol picante",
+      "descripcion": "La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.",
+      "inicio": "2026-11-15T09:00:00",
+      "fin": "2026-11-15T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolpicante.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-11-15T11:00:00",
+      "fin": "2026-11-15T11:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol Americano NFL • New England Patriots vs Detroit Lions",
+      "descripcion": "Estreno ║ New England Patriots vs Detroit Lions | Semana 10 de la temporada regular 2026 de la NFL. Desde el Allianz Arena, en Múnich. Alemania recibe por sexta ocasión un partido de la temporada regular de la NFL. New England 🏈 [NFL] Patriots lidera la serie histórica por 8-5.",
+      "inicio": "2026-11-15T11:15:00",
+      "fin": "2026-11-15T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

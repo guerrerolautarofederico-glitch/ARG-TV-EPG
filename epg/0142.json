@@ -1,67 +1,158 @@
 {
   "actual": {
-    "titulo": "Senado TV",
-    "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
-    "inicio": "2026-11-13T07:40:00",
-    "fin": "2026-11-13T16:15:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Especiales del Senado",
+    "descripcion": "Asuntos que interpelan al Senado de Chile.",
+    "inicio": "2026-11-14T11:30:00",
+    "fin": "2026-11-14T14:50:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/especialesdelsenado.jpg"
   },
   "siguiente": {
-    "titulo": "Sesión de comisión",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-11-13T16:15:00",
-    "fin": "2026-11-13T19:05:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondecomision.jpg"
+    "titulo": "Sobre libros",
+    "descripcion": "Se abordan diversos períodos de la historia chilena y mundial desde la perspectiva de la literatura, a través de sus exponentes más importantes. De este modo, se analiza la creación de paradigmas culturales relacionados con temas trascendentales.",
+    "inicio": "2026-11-14T14:50:00",
+    "fin": "2026-11-14T15:35:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sobrelibros.jpg"
   },
   "lista": [
     {
-      "titulo": "Senado TV",
-      "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
-      "inicio": "2026-11-13T07:40:00",
-      "fin": "2026-11-13T16:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Especiales del Senado",
+      "descripcion": "Asuntos que interpelan al Senado de Chile.",
+      "inicio": "2026-11-14T11:30:00",
+      "fin": "2026-11-14T14:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/especialesdelsenado.jpg"
     },
     {
-      "titulo": "Sesión de comisión",
+      "titulo": "Sobre libros",
+      "descripcion": "Se abordan diversos períodos de la historia chilena y mundial desde la perspectiva de la literatura, a través de sus exponentes más importantes. De este modo, se analiza la creación de paradigmas culturales relacionados con temas trascendentales.",
+      "inicio": "2026-11-14T14:50:00",
+      "fin": "2026-11-14T15:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sobrelibros.jpg"
+    },
+    {
+      "titulo": "Humanidad, ¿Hacia dónde vamos?",
       "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-13T16:15:00",
-      "fin": "2026-11-13T19:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondecomision.jpg"
+      "inicio": "2026-11-14T15:35:00",
+      "fin": "2026-11-14T17:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/humanidadhaciadondevamos.jpg"
     },
     {
-      "titulo": "Senado TV",
-      "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
-      "inicio": "2026-11-13T19:05:00",
-      "fin": "2026-11-13T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Voto femenino: Nuestra voz cuenta",
+      "descripcion": "Senadoras y diputadas abordan temas sobre el liderazgo femenino, la ley de cuotas, desafíos en cuanto a la violencia digital y al equilibrio entre la vida laboral y familiar.",
+      "inicio": "2026-11-14T17:20:00",
+      "fin": "2026-11-14T17:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/votofemeninonuestravozcuenta.jpg"
+    },
+    {
+      "titulo": "La historia sumergida",
+      "descripcion": "Historiadores, pescadores y buzos reconstruyen la importante memoria de la navegación del sur austral de Chile. Conoce la historia desde el naufragio del vapor Colonia en el lago Llanquihue hasta historias del Estrecho de Magallanes.",
+      "inicio": "2026-11-14T17:50:00",
+      "fin": "2026-11-14T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahistoriasumergida.jpg"
+    },
+    {
+      "titulo": "Futuro Presente",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-14T19:45:00",
+      "fin": "2026-11-14T21:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futuropresente.jpg"
+    },
+    {
+      "titulo": "El 18 de los García",
+      "descripcion": "Una pareja se traslada del campo a la ciudad en busca de mejores oportunidades. Al llegar a Santiago, el hombre arriesga todo por darles a su mujer, hijos y vecinos la alegría que les son negados a diario por la dureza de sus condiciones de vida.",
+      "inicio": "2026-11-14T21:10:00",
+      "fin": "2026-11-14T22:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/el18delosgarcia.jpg"
     },
     {
       "titulo": "Resumen legislativo",
-      "descripcion": "Todos los detalles sobre el trabajo que realizan los diputados salteños en sus sesiones. Leyes, normativas y toda la actualidad en 30 minutos.",
-      "inicio": "2026-11-13T21:00:00",
-      "fin": "2026-11-13T21:25:00",
+      "descripcion": "Resumen legislativo del Senado de Chile.",
+      "inicio": "2026-11-14T22:55:00",
+      "fin": "2026-11-14T23:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/resumenlegislativo.jpg"
     },
     {
-      "titulo": "Senado TV",
-      "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
-      "inicio": "2026-11-13T21:25:00",
-      "fin": "2026-11-14T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Profundidad de campos",
+      "descripcion": "Sergio Campos Ulloa conversa con los legisladores sobre agenda legislativa y actualidad.",
+      "inicio": "2026-11-14T23:15:00",
+      "fin": "2026-11-15T00:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/profundidaddecampos.jpg"
     },
     {
-      "titulo": "Inicio de programación",
-      "descripcion": "Comienzo de emisión diaria del canal.",
-      "inicio": "2026-11-14T07:00:00",
-      "fin": "2026-11-14T07:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Sobre libros",
+      "descripcion": "Se abordan diversos períodos de la historia chilena y mundial desde la perspectiva de la literatura, a través de sus exponentes más importantes. De este modo, se analiza la creación de paradigmas culturales relacionados con temas trascendentales.",
+      "inicio": "2026-11-15T00:05:00",
+      "fin": "2026-11-15T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sobrelibros.jpg"
     },
     {
-      "titulo": "Senado TV",
-      "descripcion": "Transmisión de las sesiones, congresos, comisiones y reuniones ordinarias y extraordinarias realizadas en el Senado de la República Chilena, presentando las informaciones y decisiones más recientes.",
-      "inicio": "2026-11-14T07:40:00",
-      "fin": "2026-11-14T19:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Humanidad, ¿Hacia dónde vamos?",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-15T00:45:00",
+      "fin": "2026-11-15T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/humanidadhaciadondevamos.jpg"
+    },
+    {
+      "titulo": "Voto femenino: Nuestra voz cuenta",
+      "descripcion": "Senadoras y diputadas abordan temas sobre el liderazgo femenino, la ley de cuotas, desafíos en cuanto a la violencia digital y al equilibrio entre la vida laboral y familiar.",
+      "inicio": "2026-11-15T02:00:00",
+      "fin": "2026-11-15T02:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/votofemeninonuestravozcuenta.jpg"
+    },
+    {
+      "titulo": "Futuro Presente",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-15T02:25:00",
+      "fin": "2026-11-15T03:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futuropresente.jpg"
+    },
+    {
+      "titulo": "Cierre TX",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-15T03:55:00",
+      "fin": "2026-11-15T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierretx.jpg"
+    },
+    {
+      "titulo": "Inicio TX",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-15T07:00:00",
+      "fin": "2026-11-15T07:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/iniciotx.jpg"
+    },
+    {
+      "titulo": "Lunes 1, domingo 7",
+      "descripcion": "La historia de amor entre una joven estudiante de Arte y un estudiante de Medicina comienza un lunes, termina un viernes y renace un domingo.",
+      "inicio": "2026-11-15T07:10:00",
+      "fin": "2026-11-15T08:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lunes1domingo7.jpg"
+    },
+    {
+      "titulo": "Congreso futuro",
+      "descripcion": "Un debate respecto a la urgente necesidad de que en Chile se cuente con más y mejor ciencia y tecnología.",
+      "inicio": "2026-11-15T08:40:00",
+      "fin": "2026-11-15T10:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/congresofuturo.jpg"
+    },
+    {
+      "titulo": "Profundidad de campos",
+      "descripcion": "Sergio Campos Ulloa conversa con los legisladores sobre agenda legislativa y actualidad.",
+      "inicio": "2026-11-15T10:15:00",
+      "fin": "2026-11-15T11:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/profundidaddecampos.jpg"
+    },
+    {
+      "titulo": "Sobre libros",
+      "descripcion": "Se abordan diversos períodos de la historia chilena y mundial desde la perspectiva de la literatura, a través de sus exponentes más importantes. De este modo, se analiza la creación de paradigmas culturales relacionados con temas trascendentales.",
+      "inicio": "2026-11-15T11:15:00",
+      "fin": "2026-11-15T11:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sobrelibros.jpg"
+    },
+    {
+      "titulo": "Voto femenino: Nuestra voz cuenta",
+      "descripcion": "Senadoras y diputadas abordan temas sobre el liderazgo femenino, la ley de cuotas, desafíos en cuanto a la violencia digital y al equilibrio entre la vida laboral y familiar.",
+      "inicio": "2026-11-15T11:45:00",
+      "fin": "2026-11-15T12:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/votofemeninonuestravozcuenta.jpg"
     }
   ]
 }

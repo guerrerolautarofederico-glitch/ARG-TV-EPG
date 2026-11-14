@@ -1,201 +1,19 @@
 {
   "actual": {
-    "titulo": "PonteOnline",
-    "descripcion": "Un programa que mezcla radio y redes sociales, con un formato similar a un programa de televisión, enfocado en la comunicación y el emprendimiento.",
-    "inicio": "2026-11-13T12:00:00",
-    "fin": "2026-11-13T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ponteonline.jpg"
+    "titulo": "Deportevisión",
+    "descripcion": "Un espacio informativo y de actualidad sobre todas las novedades del mundo deportivo, abarcando tanto las disciplinas profesionales como amateur a nivel nacional y local, con la conducción de José Luis Verdejo y un gran equpo de profesionales e invitados.",
+    "inicio": "2026-11-14T11:00:00",
+    "fin": "2026-11-14T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportevision.jpg"
   },
   "siguiente": {
-    "titulo": "Sonrisa de adulto mayor",
-    "descripcion": "El programa Sonrisa de Adulto Mayor es una iniciativa ontológica que permite a nuestros adultos mayores volver a sonreir.",
-    "inicio": "2026-11-13T14:00:00",
-    "fin": "2026-11-13T14:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sonrisadeadultomayor.jpg"
+    "titulo": "Pitch talk tech",
+    "descripcion": "Un programa para explorar el inmenso mundo de la tecnología y sus impactos en la vida diaria.",
+    "inicio": "2026-11-14T12:00:00",
+    "fin": "2026-11-14T12:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pitchtalktech.jpg"
   },
   "lista": [
-    {
-      "titulo": "PonteOnline",
-      "descripcion": "Un programa que mezcla radio y redes sociales, con un formato similar a un programa de televisión, enfocado en la comunicación y el emprendimiento.",
-      "inicio": "2026-11-13T12:00:00",
-      "fin": "2026-11-13T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ponteonline.jpg"
-    },
-    {
-      "titulo": "Sonrisa de adulto mayor",
-      "descripcion": "El programa Sonrisa de Adulto Mayor es una iniciativa ontológica que permite a nuestros adultos mayores volver a sonreir.",
-      "inicio": "2026-11-13T14:00:00",
-      "fin": "2026-11-13T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sonrisadeadultomayor.jpg"
-    },
-    {
-      "titulo": "Agenda de viajes",
-      "descripcion": "Una producción dedicada a recorrer las distintas ofertas turísticas de la República Argentina. Un programa en el que todos tienen su espacio, que invita a conformar su propia Agenda de viajes.",
-      "inicio": "2026-11-13T14:30:00",
-      "fin": "2026-11-13T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/agendadeviajes.jpg"
-    },
-    {
-      "titulo": "Clickciber",
-      "descripcion": "Espacio dedicado a la difusión de información sobre ciberseguridad, inteligencia artificial y tecnología.",
-      "inicio": "2026-11-13T15:00:00",
-      "fin": "2026-11-13T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clickciber.jpg"
-    },
-    {
-      "titulo": "Pitch talk tech",
-      "descripcion": "Un programa para explorar el inmenso mundo de la tecnología y sus impactos en la vida diaria.",
-      "inicio": "2026-11-13T16:00:00",
-      "fin": "2026-11-13T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pitchtalktech.jpg"
-    },
-    {
-      "titulo": "Al ritmo del recuerdo",
-      "descripcion": "Programa musical y de entrevistas con grandes figuras de la escena musical chilena y reconocidos artistas que nunca pasan de moda. Estarán presentes los éxitos de la Nueva Ola Chilena, nostalgia, humor, entretenimiento y notas memorables.",
-      "inicio": "2026-11-13T16:30:00",
-      "fin": "2026-11-13T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alritmodelrecuerdo.jpg"
-    },
-    {
-      "titulo": "La fascinación del saber",
-      "descripcion": "Acompaña a científicos, investigadores y técnicos en su esfuerzo por incrementar el conocimiento de la humanidad y la fascinación del saber.",
-      "inicio": "2026-11-13T17:30:00",
-      "fin": "2026-11-13T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lafascinaciondelsaber.jpg"
-    },
-    {
-      "titulo": "Gente",
-      "descripcion": "Programa de turismo, gastronomía, hotelería, cultura, salud, belleza, diseño, arquitectura, temas empresariales y reportajes.",
-      "inicio": "2026-11-13T18:00:00",
-      "fin": "2026-11-13T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/gente.jpg"
-    },
-    {
-      "titulo": "Estilo chic",
-      "descripcion": "Dedicado a la moda, belleza y vida sana.",
-      "inicio": "2026-11-13T19:00:00",
-      "fin": "2026-11-13T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/estilochic.jpg"
-    },
-    {
-      "titulo": "El Superagente 86",
-      "descripcion": "Maxwell Smart trabaja para la agencia de contrainteligencia CONTROL como el Agente 86, un individuo totalmente inepto que se las arregla junto con sus compañeros para frustrar las operaciones de la organizacion criminal KAOS.",
-      "inicio": "2026-11-13T20:00:00",
-      "fin": "2026-11-13T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elsuperagente86.jpg"
-    },
-    {
-      "titulo": "Grandes documentales",
-      "descripcion": "Serie de documentales de temas como ecología, historia, ciencia y tecnología.",
-      "inicio": "2026-11-13T21:00:00",
-      "fin": "2026-11-13T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/grandesdocumentales.jpg"
-    },
-    {
-      "titulo": "CSI Miami",
-      "descripcion": "Un equipo de investigadores forenses de la policía, utiliza métodos de tecnología de punta y trabajo policiaco tradicional para resolver crímenes. Horatio Caine, un ex detective de homicidios dirige al grupo de investigadores que trabajan en los crímenes en medio de sus alrededores tropicales húmedos y las diferencias culturales en Miami.",
-      "inicio": "2026-11-13T22:00:00",
-      "fin": "2026-11-14T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/csimiami.jpg"
-    },
-    {
-      "titulo": "Al ritmo del recuerdo",
-      "descripcion": "Programa musical y de entrevistas con grandes figuras de la escena musical chilena y reconocidos artistas que nunca pasan de moda. Estarán presentes los éxitos de la Nueva Ola Chilena, nostalgia, humor, entretenimiento y notas memorables.",
-      "inicio": "2026-11-14T00:00:00",
-      "fin": "2026-11-14T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alritmodelrecuerdo.jpg"
-    },
-    {
-      "titulo": "Mundos vibrantes",
-      "descripcion": "Un programa que se caracteriza por vibrar alto de forma positiva discutiendo sobre diversas temáticas: salud, tecnología, medios y toda la información actual con invitados de lujo.",
-      "inicio": "2026-11-14T01:00:00",
-      "fin": "2026-11-14T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundosvibrantes.jpg"
-    },
-    {
-      "titulo": "Rockit Estudio",
-      "descripcion": "Programa dedicada a las bandas emergentes y consagradas.",
-      "inicio": "2026-11-14T01:30:00",
-      "fin": "2026-11-14T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0108_fallback.jpg"
-    },
-    {
-      "titulo": "El Superagente 86",
-      "descripcion": "Maxwell Smart trabaja para la agencia de contrainteligencia CONTROL como el Agente 86, un individuo totalmente inepto que se las arregla junto con sus compañeros para frustrar las operaciones de la organizacion criminal KAOS.",
-      "inicio": "2026-11-14T02:00:00",
-      "fin": "2026-11-14T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elsuperagente86.jpg"
-    },
-    {
-      "titulo": "Clickciber",
-      "descripcion": "Espacio dedicado a la difusión de información sobre ciberseguridad, inteligencia artificial y tecnología.",
-      "inicio": "2026-11-14T03:00:00",
-      "fin": "2026-11-14T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clickciber.jpg"
-    },
-    {
-      "titulo": "De igual a igual",
-      "descripcion": "Espacio de entrevistas donde recibe a diferentes personalidad de la política, el espectáculo, el deporte y también a personas con opinión ciudadana. Con Alfredo Ureta.",
-      "inicio": "2026-11-14T04:00:00",
-      "fin": "2026-11-14T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deigualaigual.jpg"
-    },
-    {
-      "titulo": "Documentales católicos",
-      "descripcion": "Conoce la historia de la iglesia católica, desde sus orígenes un tanto oscuros tras la muerte y resurrección de Jesús hasta nuestros días, así como también un sinfín de situaciones y problemas visto desde una óptica cristina.",
-      "inicio": "2026-11-14T05:00:00",
-      "fin": "2026-11-14T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/documentalescatolicos.jpg"
-    },
-    {
-      "titulo": "Los caminos de la Iglesia",
-      "descripcion": "Espacio de conversación sobre la doctrina del catolicismo aplicada al mundo de hoy, reflejo de una Iglesia acogedora, comprensiva y actual.",
-      "inicio": "2026-11-14T06:00:00",
-      "fin": "2026-11-14T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loscaminosdelaiglesia.jpg"
-    },
-    {
-      "titulo": "Agenda de viajes",
-      "descripcion": "Una producción dedicada a recorrer las distintas ofertas turísticas de la República Argentina. Un programa en el que todos tienen su espacio, que invita a conformar su propia Agenda de viajes.",
-      "inicio": "2026-11-14T07:00:00",
-      "fin": "2026-11-14T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/agendadeviajes.jpg"
-    },
-    {
-      "titulo": "Reportajes MG",
-      "descripcion": "Reportajes que dan a conocer diferentes lugares del territorio chileno y del mundo.",
-      "inicio": "2026-11-14T07:30:00",
-      "fin": "2026-11-14T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reportajesmg.jpg"
-    },
-    {
-      "titulo": "Antena 3 Directo",
-      "descripcion": "Segmento de televenta que ofrece una amplia y exclusiva gama de productos para el cuidado del hogar, belleza, salud y bienestar personal.",
-      "inicio": "2026-11-14T08:00:00",
-      "fin": "2026-11-14T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/antena3directo.jpg"
-    },
-    {
-      "titulo": "Aquí se piensa Chile",
-      "descripcion": "Diálogos con los líderes y expertos que están forjando un país más justo, inclusivo y sostenible desde las regiones. Una serie de conversaciones profundas que abordan los temas clave para el desarrollo de Chile.",
-      "inicio": "2026-11-14T09:00:00",
-      "fin": "2026-11-14T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquisepiensachile.jpg"
-    },
-    {
-      "titulo": "Sonrisa de adulto mayor",
-      "descripcion": "El programa Sonrisa de Adulto Mayor es una iniciativa ontológica que permite a nuestros adultos mayores volver a sonreir.",
-      "inicio": "2026-11-14T10:00:00",
-      "fin": "2026-11-14T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sonrisadeadultomayor.jpg"
-    },
-    {
-      "titulo": "Mundos vibrantes",
-      "descripcion": "Un programa que se caracteriza por vibrar alto de forma positiva discutiendo sobre diversas temáticas: salud, tecnología, medios y toda la información actual con invitados de lujo.",
-      "inicio": "2026-11-14T10:30:00",
-      "fin": "2026-11-14T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundosvibrantes.jpg"
-    },
     {
       "titulo": "Deportevisión",
       "descripcion": "Un espacio informativo y de actualidad sobre todas las novedades del mundo deportivo, abarcando tanto las disciplinas profesionales como amateur a nivel nacional y local, con la conducción de José Luis Verdejo y un gran equpo de profesionales e invitados.",
@@ -216,6 +34,188 @@
       "inicio": "2026-11-14T12:30:00",
       "fin": "2026-11-14T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rutasdeunmagallanico.jpg"
+    },
+    {
+      "titulo": "Antena 3 Directo",
+      "descripcion": "Segmento de televenta que ofrece una amplia y exclusiva gama de productos para el cuidado del hogar, belleza, salud y bienestar personal.",
+      "inicio": "2026-11-14T13:00:00",
+      "fin": "2026-11-14T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/antena3directo.jpg"
+    },
+    {
+      "titulo": "Perfiles",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-14T14:00:00",
+      "fin": "2026-11-14T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0108_fallback.jpg"
+    },
+    {
+      "titulo": "De frente es mejor",
+      "descripcion": "Un programa de conversación agradable sobre temas de actualidad.",
+      "inicio": "2026-11-14T15:00:00",
+      "fin": "2026-11-14T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0108_fallback.jpg"
+    },
+    {
+      "titulo": "El Superagente 86",
+      "descripcion": "Maxwell Smart trabaja para la agencia de contrainteligencia CONTROL como el Agente 86, un individuo totalmente inepto que se las arregla junto con sus compañeros para frustrar las operaciones de la organizacion criminal KAOS.",
+      "inicio": "2026-11-14T16:00:00",
+      "fin": "2026-11-14T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elsuperagente86.jpg"
+    },
+    {
+      "titulo": "Aventura 4x4",
+      "descripcion": "Programa 100% chileno, donde recorremos todo Chile y parte de sur América en un 4x4 para llegar a lugares extremos.",
+      "inicio": "2026-11-14T17:00:00",
+      "fin": "2026-11-14T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aventura4x4.jpg"
+    },
+    {
+      "titulo": "El mejor país de Chile",
+      "descripcion": "Te invitamos a un viaje semanal por las calles de Santiago, donde, con el estilo cercano y entretenido, desenterraremos las historias ocultas, los relatos perdidos y los personajes entrañables que dan vida a cada rincón de esta vibrante ciudad.",
+      "inicio": "2026-11-14T17:30:00",
+      "fin": "2026-11-14T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmejorpaisdechile.jpg"
+    },
+    {
+      "titulo": "Gente",
+      "descripcion": "Programa de turismo, gastronomía, hotelería, cultura, salud, belleza, diseño, arquitectura, temas empresariales y reportajes.",
+      "inicio": "2026-11-14T18:00:00",
+      "fin": "2026-11-14T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/gente.jpg"
+    },
+    {
+      "titulo": "Retro pop",
+      "descripcion": "Programa dedicado a los amantes de la cultura pop, patrimonio y música de los 70s, 80s y 90s.",
+      "inicio": "2026-11-14T19:00:00",
+      "fin": "2026-11-14T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/retropop.jpg"
+    },
+    {
+      "titulo": "Mundo radio",
+      "descripcion": "Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones.",
+      "inicio": "2026-11-14T20:00:00",
+      "fin": "2026-11-14T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundoradio.jpg"
+    },
+    {
+      "titulo": "Al ritmo del recuerdo",
+      "descripcion": "Programa musical y de entrevistas con grandes figuras de la escena musical chilena y reconocidos artistas que nunca pasan de moda. Estarán presentes los éxitos de la Nueva Ola Chilena, nostalgia, humor, entretenimiento y notas memorables.",
+      "inicio": "2026-11-14T20:30:00",
+      "fin": "2026-11-14T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alritmodelrecuerdo.jpg"
+    },
+    {
+      "titulo": "Cine Plus",
+      "descripcion": "Todo lo que acontece en el mundo del cine con la mirada experta de Juan Carlos Berner. Estrenos, análisis, curiosidades y mucho más… ¡Tu cita cinéfila de la semana está aquí!",
+      "inicio": "2026-11-14T21:30:00",
+      "fin": "2026-11-14T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cineplus.jpg"
+    },
+    {
+      "titulo": "Café cortado",
+      "descripcion": "Un programa que tiene como protagonista a la conversación con un café cortado como compañía. Aquí se discuten y debaten diversas temáticas vinculadas con la historia de Chile con invitados expertos que brindan sus puntos de vista.",
+      "inicio": "2026-11-14T22:00:00",
+      "fin": "2026-11-14T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cafecortado.jpg"
+    },
+    {
+      "titulo": "En íntimo con Cheché",
+      "descripcion": "Un espacio divertido y distendido en el que se dan conversaciones íntimas para conocer a diferentes personalidades del mundo del espectáculo.",
+      "inicio": "2026-11-14T23:30:00",
+      "fin": "2026-11-15T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0108_fallback.jpg"
+    },
+    {
+      "titulo": "El Superagente 86",
+      "descripcion": "Maxwell Smart trabaja para la agencia de contrainteligencia CONTROL como el Agente 86, un individuo totalmente inepto que se las arregla junto con sus compañeros para frustrar las operaciones de la organizacion criminal KAOS.",
+      "inicio": "2026-11-15T00:00:00",
+      "fin": "2026-11-15T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elsuperagente86.jpg"
+    },
+    {
+      "titulo": "Co-work",
+      "descripcion": "Un espacio de encuentro donde las personas se unen para compartir sus historias, experiencias y conocimientos proporcionando herramientas y estrategias para el éxito en el mundo que desarrollen su actividad.",
+      "inicio": "2026-11-15T01:00:00",
+      "fin": "2026-11-15T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cowork.jpg"
+    },
+    {
+      "titulo": "Pitch talk tech",
+      "descripcion": "Un programa para explorar el inmenso mundo de la tecnología y sus impactos en la vida diaria.",
+      "inicio": "2026-11-15T02:00:00",
+      "fin": "2026-11-15T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pitchtalktech.jpg"
+    },
+    {
+      "titulo": "Matinee, Vermouth y Noche",
+      "descripcion": "Ciclo especial sobre los clásicos del séptimo arte chileno con un repaso de las producciones infaltables en la cinemateca de cada espectador. Comedia, drama, acción, terror, suspenso, todos los géneros en un mismo espacio para despertar a la memoria.",
+      "inicio": "2026-11-15T02:30:00",
+      "fin": "2026-11-15T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matineevermouthynoche.jpg"
+    },
+    {
+      "titulo": "Ballet y ópera",
+      "descripcion": "Un espacio que prioriza la cultura chilena desplegando clásicos que todos desean volver a escuchar: clásicos como el ballet y la magestuosidad y elegancia de la ópera. Estos géneros se logran imponer y ganar presencia cuando aparecen los músicos en escena.",
+      "inicio": "2026-11-15T04:00:00",
+      "fin": "2026-11-15T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/balletyopera.jpg"
+    },
+    {
+      "titulo": "Los caminos de la Iglesia",
+      "descripcion": "Espacio de conversación sobre la doctrina del catolicismo aplicada al mundo de hoy, reflejo de una Iglesia acogedora, comprensiva y actual.",
+      "inicio": "2026-11-15T06:00:00",
+      "fin": "2026-11-15T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loscaminosdelaiglesia.jpg"
+    },
+    {
+      "titulo": "Café cortado",
+      "descripcion": "Un programa que tiene como protagonista a la conversación con un café cortado como compañía. Aquí se discuten y debaten diversas temáticas vinculadas con la historia de Chile con invitados expertos que brindan sus puntos de vista.",
+      "inicio": "2026-11-15T07:00:00",
+      "fin": "2026-11-15T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cafecortado.jpg"
+    },
+    {
+      "titulo": "Antena 3 Directo",
+      "descripcion": "Segmento de televenta que ofrece una amplia y exclusiva gama de productos para el cuidado del hogar, belleza, salud y bienestar personal.",
+      "inicio": "2026-11-15T08:00:00",
+      "fin": "2026-11-15T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/antena3directo.jpg"
+    },
+    {
+      "titulo": "De igual a igual",
+      "descripcion": "Espacio de entrevistas donde recibe a diferentes personalidad de la política, el espectáculo, el deporte y también a personas con opinión ciudadana. Con Alfredo Ureta.",
+      "inicio": "2026-11-15T09:00:00",
+      "fin": "2026-11-15T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deigualaigual.jpg"
+    },
+    {
+      "titulo": "Terra santa news",
+      "descripcion": "Segmento informativo que te lleva lo más relevante de la actividad del Papa, la vida del Vaticano y los debates de actualidad sobre temas sociales, culturales o religiosos que son de interés general.",
+      "inicio": "2026-11-15T10:00:00",
+      "fin": "2026-11-15T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/terrasantanews.jpg"
+    },
+    {
+      "titulo": "El mejor país de Chile",
+      "descripcion": "Te invitamos a un viaje semanal por las calles de Santiago, donde, con el estilo cercano y entretenido, desenterraremos las historias ocultas, los relatos perdidos y los personajes entrañables que dan vida a cada rincón de esta vibrante ciudad.",
+      "inicio": "2026-11-15T10:30:00",
+      "fin": "2026-11-15T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmejorpaisdechile.jpg"
+    },
+    {
+      "titulo": "Aires de Chile",
+      "descripcion": "Una celebración y exploración de la rica cultura y tradiciones de Chile, con una combinación única de historia, música y entrevistas con personajes culturales.",
+      "inicio": "2026-11-15T11:00:00",
+      "fin": "2026-11-15T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/airesdechile.jpg"
+    },
+    {
+      "titulo": "Mundo radio",
+      "descripcion": "Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones.",
+      "inicio": "2026-11-15T11:30:00",
+      "fin": "2026-11-15T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundoradio.jpg"
     }
   ]
 }

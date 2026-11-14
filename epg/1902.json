@@ -1,138 +1,19 @@
 {
   "actual": {
-    "titulo": "Día a día",
-    "descripcion": "Un espacio periodístico que presenta un resumen de las noticias más importantes del día, una proyección de los temas que serán noticia en la jornada que se inicia.",
-    "inicio": "2026-11-13T11:00:00",
-    "fin": "2026-11-13T13:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/diaadia.jpg"
+    "titulo": "Monster Trucks",
+    "descripcion": "Buscando una forma de evadirse de la vida y la ciudad en la que vive, el joven Tripp (Lucas Till), un estudiante de instituto, construye un 'Monster Truck' con piezas de desguace. Pero entonces Creech, un monstruo procedente de un pantano y adicto a la velocidad, viene a visitarle... Basada en la línea de juguetes de Hasbro, esta adaptación ha sido descrita como un cruce entre \"Los Goonies\" y \"Transformers\".",
+    "inicio": "2026-11-14T10:30:00",
+    "fin": "2026-11-14T12:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/monstertrucks.jpg"
   },
   "siguiente": {
-    "titulo": "Rosalinda",
-    "descripcion": "Sigue la historia de Rosalinda, una joven que trabaja en una florería, donde conoce a Fernando José, el amor de su vida. Sin embargo, su madrastra hará todo lo posible para separarlos.",
-    "inicio": "2026-11-13T13:30:00",
-    "fin": "2026-11-13T14:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rosalinda.jpg"
+    "titulo": "A Cinderella Story: If the Shoe Fits",
+    "descripcion": "La talentosa Tessa es la sirvienta de su desagradecida madrastra y sus dos hermanastras, pero cuando se abren las audiciones para un musical de La Cenicienta, Tessa tendrá la oportunidad de cambiar su vida para siempre y convertirse en una estrella.",
+    "inicio": "2026-11-14T12:30:00",
+    "fin": "2026-11-14T14:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Día a día",
-      "descripcion": "Un espacio periodístico que presenta un resumen de las noticias más importantes del día, una proyección de los temas que serán noticia en la jornada que se inicia.",
-      "inicio": "2026-11-13T11:00:00",
-      "fin": "2026-11-13T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/diaadia.jpg"
-    },
-    {
-      "titulo": "Rosalinda",
-      "descripcion": "Sigue la historia de Rosalinda, una joven que trabaja en una florería, donde conoce a Fernando José, el amor de su vida. Sin embargo, su madrastra hará todo lo posible para separarlos.",
-      "inicio": "2026-11-13T13:30:00",
-      "fin": "2026-11-13T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rosalinda.jpg"
-    },
-    {
-      "titulo": "Noticias 12:30 Caracol",
-      "descripcion": "Espacio de carácter periodístico que muestra los acontecimientos en desarrollo, con reportes en vivo. Los presentadores interactúan con varias informaciones al mismo tiempo. Además, presenta una sección con lo más comentado en las redes sociales y de salud, así como detalles deportivos y de entretenimiento.",
-      "inicio": "2026-11-13T14:30:00",
-      "fin": "2026-11-13T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Ciudad lejana",
-      "descripcion": "Alya Albora llega a Mardin para asistir al funeral de su difunto esposo junto a su hijo de cinco años. Sin embargo, esta llegada marca un punto de no retorno: el jefe de la tribu, Cihan, se niega a permitir que se lleve a su hijo y se marche. Enfrentando la oscuridad del pasado, los secretos ocultos y las duras realidades de la región, Alya se ve atrapada en una feroz lucha con la familia de su difunto esposo.",
-      "inicio": "2026-11-13T17:30:00",
-      "fin": "2026-11-13T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Alas rotas",
-      "descripcion": "Zeynep, Emre, Cemre y su hermana menor Aysun se quedan solos en la pobreza después de la muerte repentina de su padre. Su única motivación en la vida es su madre Nefise, la única persona que hará cualquier cosa por su bienestar y su felicidad. De todas maneras, la familia pasará por momentos difíciles que deberán afrontar todos juntos.",
-      "inicio": "2026-11-13T18:30:00",
-      "fin": "2026-11-13T19:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alasrotas.jpg"
-    },
-    {
-      "titulo": "Destinos cruzados",
-      "descripcion": "Hace diez años, un secreto destrozó a su familia cuando Laura dio a su primer hijo en adopción. Ella vuelve a casa después de todos los incidentes que acompañaron aquel suceso y descubre que el pasado aún persigue a cada uno de sus integrantes.",
-      "inicio": "2026-11-13T19:45:00",
-      "fin": "2026-11-13T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destinoscruzados.jpg"
-    },
-    {
-      "titulo": "Gol Caracol Preparatorios • Colombia vs Chile",
-      "descripcion": "Colombia vs Chile | Disfruta de la conversación previa a un emocionante encuentro amistoso de fútbol internacional, donde los especialistas del balompié te darán un amplio resumen de estadísticas y apropiados análisis sobre el encuentro que está por disputarse. Además, te traemos las posibles alineaciones acompañadas de los pronósticos más acertados.",
-      "inicio": "2026-11-13T20:30:00",
-      "fin": "2026-11-13T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Yo me llamo",
-      "descripcion": "Un conjunto de participantes deberán inscribirse, participar y convencer tanto al público como al jurado de que cantan igual que sus ídolos, a la vez que demuestran sus habilidades de baile y actuación.",
-      "inicio": "2026-11-13T23:00:00",
-      "fin": "2026-11-14T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yomellamo.jpg"
-    },
-    {
-      "titulo": "Rafael Orozco",
-      "descripcion": "Rafa, como lo llamaban en confianza, estaba destinado a ser de esas personas que nunca se olvidan. Desde muy joven tuvo un talento especial para la música vallenata, pero además poseía un encanto que lo hacía irresistible a las mujeres. Pero Clara Cabello era diferente a todas las demás, por eso, desde el primer día en que la conoció, quedó hechizado con su sonrisa, sus palabras y su mirada. Y aunque muchos se iban a interponer en el camino para poder conquistar su corazón, él sabía que ese amor haría inmortales sus canciones, por lo que no tenía la menor duda de que ella estaría por siempre a su lado en su camino al éxito. Pero la noche del 11 de junio de 1992, su romántica voz fue silenciada para siempre. Nueve balazos fueron necesarios para terminar con la vida de ese hombre que emocionó al mundo a través de sus inolvidables canciones. ¿Por qué lo mataron?, ¿quién lo mató? Esta es la pregunta que todos se hacen.",
-      "inicio": "2026-11-14T00:30:00",
-      "fin": "2026-11-14T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Última edición",
-      "descripcion": "Conoce a los personajes que hicieron la crónica del día, además de los temas más importantes de la jornada acompañados de un análisis que te ayudará a entender mejor la conversación nacional.",
-      "inicio": "2026-11-14T01:30:00",
-      "fin": "2026-11-14T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Corazón guerrero",
-      "descripcion": "Tras morir su padre, Jesús y sus hermanos son separados y entregados en adopción a distintas familias. Tiempo después, logran reencontrarse.",
-      "inicio": "2026-11-14T02:00:00",
-      "fin": "2026-11-14T02:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/corazonguerrero.jpg"
-    },
-    {
-      "titulo": "El diario de Diana",
-      "descripcion": "Presenta diferentes secciones y entrevistas enfocadas al bienestar del ser, crecimiento personal, buen vivir, reflexiones y felicidad.",
-      "inicio": "2026-11-14T02:45:00",
-      "fin": "2026-11-14T03:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "También caerás",
-      "descripcion": "Es un programa de humor que lleva a las cámaras escondidas a otro nivel, poniendo a la gente común y corriente en situaciones extremadamente divertidas, mientras se graban sus reacciones espontáneas e impredecibles secretamente.",
-      "inicio": "2026-11-14T03:15:00",
-      "fin": "2026-11-14T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La finca de hoy",
-      "descripcion": "La Finca de Hoy se ha convertido en el informativo número uno del sector agropecuario de Colombia. Un programa, que de forma clara y precisa busca despertar en el televidente interes y amor por el campo, sus costumbres, industrias y tradiciones. Diariamente en el Canal Caracol, los televidentes se desplazarán, de la mano del equipo de producción, a un destino diferente de la geografía colombiana. Un espacio para la gente interesada en la investigación, tecnología y producción agropecuaria.",
-      "inicio": "2026-11-14T07:00:00",
-      "fin": "2026-11-14T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos de los hermanos Grimm",
-      "descripcion": "Serie animada que recoge cada uno de los cuentos y fábulas clásicas creadas por los famosos hermanos Grimm, entre ellos, Blancanieves, Rumpelstiltskin, Hansel y Gretel y Caperucita Roja, y muchos otros.",
-      "inicio": "2026-11-14T08:00:00",
-      "fin": "2026-11-14T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cuentosdeloshermanosgrimm.jpg"
-    },
-    {
-      "titulo": "Doble vía",
-      "descripcion": "Leonardo Haberkorn y Juanchi Hounie entrevistan en profundidad a una personalidad de la cultura, la política, el arte, las ciencias y el deporte. Una apuesta a la palabra, a tomarse el tiempo para escuchar y descubrir.",
-      "inicio": "2026-11-14T09:00:00",
-      "fin": "2026-11-14T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuentos de los hermanos Grimm",
-      "descripcion": "Serie animada que recoge cada uno de los cuentos y fábulas clásicas creadas por los famosos hermanos Grimm, entre ellos, Blancanieves, Rumpelstiltskin, Hansel y Gretel y Caperucita Roja, y muchos otros.",
-      "inicio": "2026-11-14T09:30:00",
-      "fin": "2026-11-14T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cuentosdeloshermanosgrimm.jpg"
-    },
     {
       "titulo": "Monster Trucks",
       "descripcion": "Buscando una forma de evadirse de la vida y la ciudad en la que vive, el joven Tripp (Lucas Till), un estudiante de instituto, construye un 'Monster Truck' con piezas de desguace. Pero entonces Creech, un monstruo procedente de un pantano y adicto a la velocidad, viene a visitarle... Basada en la línea de juguetes de Hasbro, esta adaptación ha sido descrita como un cruce entre \"Los Goonies\" y \"Transformers\".",
@@ -146,6 +27,90 @@
       "inicio": "2026-11-14T12:30:00",
       "fin": "2026-11-14T14:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias 12:30 Caracol",
+      "descripcion": "Espacio de carácter periodístico que muestra los acontecimientos en desarrollo, con reportes en vivo. Los presentadores interactúan con varias informaciones al mismo tiempo. Además, presenta una sección con lo más comentado en las redes sociales y de salud, así como detalles deportivos y de entretenimiento.",
+      "inicio": "2026-11-14T14:30:00",
+      "fin": "2026-11-14T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La Red",
+      "descripcion": "Un espacio que brinda información sobre los acontecimientos y los detalles más importantes en el mundo del entretenimiento. Los presentadores hablan sin tapujos sobre los protagonistas de la farándula y todo el ambiente del espectáculo.",
+      "inicio": "2026-11-14T17:00:00",
+      "fin": "2026-11-14T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lared.jpg"
+    },
+    {
+      "titulo": "Se dice de mí",
+      "descripcion": "Segmento que abordará la vida y trayectoria de los personajes más representativos del país. Cantantes, deportistas, presentadores y actores contarán su verdad sobre los aspectos positivos y negativos de su vida.",
+      "inicio": "2026-11-14T20:00:00",
+      "fin": "2026-11-14T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias 19:00 Caracol",
+      "descripcion": "Servicio informativo con los acontecimientos más relevantes de Colombia y el mundo.",
+      "inicio": "2026-11-14T21:00:00",
+      "fin": "2026-11-14T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sábados felices",
+      "descripcion": "Una emisión en el que la risa es el principal ingrediente. Las parodias, los chistes y las caracterizaciones hacen que sea el espacio más exitoso de la televisión colombiana.",
+      "inicio": "2026-11-14T22:00:00",
+      "fin": "2026-11-15T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Entre ojos",
+      "descripcion": "Una serie documental que tiene como objetivo descubrir hechos reales y hacerlos públicos, a través de reportajes, informes, notas de interés y producciones audiovisuales.",
+      "inicio": "2026-11-15T01:00:00",
+      "fin": "2026-11-15T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El diario de Diana",
+      "descripcion": "Presenta diferentes secciones y entrevistas enfocadas al bienestar del ser, crecimiento personal, buen vivir, reflexiones y felicidad.",
+      "inicio": "2026-11-15T02:00:00",
+      "fin": "2026-11-15T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "También caerás",
+      "descripcion": "Es un programa de humor que lleva a las cámaras escondidas a otro nivel, poniendo a la gente común y corriente en situaciones extremadamente divertidas, mientras se graban sus reacciones espontáneas e impredecibles secretamente.",
+      "inicio": "2026-11-15T02:30:00",
+      "fin": "2026-11-15T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La finca de hoy",
+      "descripcion": "La Finca de Hoy se ha convertido en el informativo número uno del sector agropecuario de Colombia. Un programa, que de forma clara y precisa busca despertar en el televidente interes y amor por el campo, sus costumbres, industrias y tradiciones. Diariamente en el Canal Caracol, los televidentes se desplazarán, de la mano del equipo de producción, a un destino diferente de la geografía colombiana. Un espacio para la gente interesada en la investigación, tecnología y producción agropecuaria.",
+      "inicio": "2026-11-15T07:00:00",
+      "fin": "2026-11-15T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cuentos de los hermanos Grimm",
+      "descripcion": "Serie animada que recoge cada uno de los cuentos y fábulas clásicas creadas por los famosos hermanos Grimm, entre ellos, Blancanieves, Rumpelstiltskin, Hansel y Gretel y Caperucita Roja, y muchos otros.",
+      "inicio": "2026-11-15T08:00:00",
+      "fin": "2026-11-15T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cuentosdeloshermanosgrimm.jpg"
+    },
+    {
+      "titulo": "Santa misa",
+      "descripcion": "La celebración de la santa misa desde la Capilla San Juan Pablo II desde Chatsworth, California. Los días 12 de cada mes es transmitida desde la Basílica de Nuestra Señora de Guadalupe en México.",
+      "inicio": "2026-11-15T10:00:00",
+      "fin": "2026-11-15T10:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
+    },
+    {
+      "titulo": "Cuentos de los hermanos Grimm",
+      "descripcion": "Serie animada que recoge cada uno de los cuentos y fábulas clásicas creadas por los famosos hermanos Grimm, entre ellos, Blancanieves, Rumpelstiltskin, Hansel y Gretel y Caperucita Roja, y muchos otros.",
+      "inicio": "2026-11-15T10:45:00",
+      "fin": "2026-11-15T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cuentosdeloshermanosgrimm.jpg"
     }
   ]
 }

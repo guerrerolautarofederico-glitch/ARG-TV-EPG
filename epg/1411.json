@@ -1,102 +1,81 @@
 {
   "actual": {
-    "titulo": "Espn F12",
-    "descripcion": "Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.",
-    "inicio": "2026-11-13T11:00:00",
-    "fin": "2026-11-13T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "SportsCenter",
+    "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
+    "inicio": "2026-11-14T10:45:00",
+    "fin": "2026-11-14T13:45:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
   },
   "siguiente": {
-    "titulo": "ESPN F90",
-    "descripcion": "Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
-    "inicio": "2026-11-13T13:00:00",
-    "fin": "2026-11-13T15:00:00",
+    "titulo": "Fútbol UEFA Nations League • Noruega vs Gales",
+    "descripcion": "Noruega vs Gales | Acción del partido del Grupo 4 de la Liga A de la UEFA Nations League 2026-27. Desde el Ullevaal Stadion.",
+    "inicio": "2026-11-14T13:45:00",
+    "fin": "2026-11-14T15:55:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Espn F12",
-      "descripcion": "Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.",
-      "inicio": "2026-11-13T11:00:00",
-      "fin": "2026-11-13T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN F90",
-      "descripcion": "Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.",
-      "inicio": "2026-11-13T13:00:00",
-      "fin": "2026-11-13T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Espn F3",
-      "descripcion": "Programación deportiva dedicada a la agenda futbolística, resúmenes, análisis y seguimientos que dan de qué hablar.",
-      "inicio": "2026-11-13T15:00:00",
-      "fin": "2026-11-13T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Fútbol UEFA Nations League • Serbia vs Alemania",
-      "descripcion": "Serbia vs Alemania | Acción del partido del Grupo 2 de la Liga A de la UEFA Nations League 2026-27. Desde el Stadion Rajko Mitic.",
-      "inicio": "2026-11-13T16:30:00",
-      "fin": "2026-11-13T18:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Equipo F",
-      "descripcion": "El debate de cada fecha llega a la pantalla. El mejor equipo para analizar todo lo que pasó el fin de semana.",
-      "inicio": "2026-11-13T18:40:00",
-      "fin": "2026-11-13T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/equipof.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-11-13T20:30:00",
-      "fin": "2026-11-13T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-11-13T22:00:00",
-      "fin": "2026-11-13T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Espn F10",
-      "descripcion": "No hay mejor manera que terminar el día bien informado con el repaso de todo lo sucedido en materia fútbol. Sumate al equipo liderado por Martín Souto para encenderte con los debates de un gran panel de especialistas.",
-      "inicio": "2026-11-13T23:00:00",
-      "fin": "2026-11-14T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-11-14T00:00:00",
-      "fin": "2026-11-14T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
-      "inicio": "2026-11-14T06:00:00",
-      "fin": "2026-11-14T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Nations Championship 2026 • Italia vs Argentina",
-      "descripcion": "Italia vs Argentina | El Azurri se enfrenta a Los Pumas en la quinta ronda de la Serie Norte del Nations Championship 2026. Desde el estadio Luigi Ferraris, en Génova. Italia.",
-      "inicio": "2026-11-14T08:00:00",
-      "fin": "2026-11-14T10:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "SportsCenter",
       "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
       "inicio": "2026-11-14T10:45:00",
       "fin": "2026-11-14T13:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol UEFA Nations League • Noruega vs Gales",
+      "descripcion": "Noruega vs Gales | Acción del partido del Grupo 4 de la Liga A de la UEFA Nations League 2026-27. Desde el Ullevaal Stadion.",
+      "inicio": "2026-11-14T13:45:00",
+      "fin": "2026-11-14T15:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
+      "inicio": "2026-11-14T15:55:00",
+      "fin": "2026-11-14T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol UEFA Nations League • Portugal vs Dinamarca",
+      "descripcion": "Portugal vs Dinamarca | Acción del partido del Grupo 4 de la Liga A de la UEFA Nations League 2026-27. Desde el Estádio Municipal de Braga.",
+      "inicio": "2026-11-14T16:30:00",
+      "fin": "2026-11-14T18:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-11-14T18:40:00",
+      "fin": "2026-11-15T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-11-15T00:00:00",
+      "fin": "2026-11-15T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.",
+      "inicio": "2026-11-15T06:00:00",
+      "fin": "2026-11-15T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Programación exclusiva del noticiero deportivo más visto en el mundo.",
+      "inicio": "2026-11-15T09:00:00",
+      "fin": "2026-11-15T10:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Fútbol UEFA Nations League • Chipre vs Montenegro",
+      "descripcion": "Chipre vs Montenegro | Acción del partido del Grupo 2 de la Liga C de la UEFA Nations League 2026-27. Desde el Alphamega Stadium.",
+      "inicio": "2026-11-15T10:45:00",
+      "fin": "2026-11-15T12:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

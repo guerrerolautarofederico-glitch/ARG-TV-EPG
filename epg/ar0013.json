@@ -1,151 +1,130 @@
 {
   "actual": {
-    "titulo": "Siempre noticias",
-    "descripcion": "El análisis de los principales temas e invitados de la actualidad.",
-    "inicio": "2026-11-13T12:00:00",
-    "fin": "2026-11-13T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "El defensor",
+    "descripcion": "Un hombre de negocios corrupto comete un asesinato y el único testigo es la novia de otro hombre de negocios con conexiones cercanas con el gobierno chino, por lo que se envía un guardaespaldas de Beijing para ayudar a dos policías de Hong Kong a proteger al testigo.",
+    "inicio": "2026-11-14T11:00:00",
+    "fin": "2026-11-14T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eldefensor.jpg"
   },
   "siguiente": {
-    "titulo": "Imbatibles",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-11-13T14:00:00",
-    "fin": "2026-11-13T16:00:00",
+    "titulo": "Crónica al mediodía",
+    "descripcion": "Programa periodístico con la agenda del día, las primicias, el análisis y todo el despliegue de cobertura de los móviles.",
+    "inicio": "2026-11-14T13:00:00",
+    "fin": "2026-11-14T16:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Siempre noticias",
-      "descripcion": "El análisis de los principales temas e invitados de la actualidad.",
-      "inicio": "2026-11-13T12:00:00",
-      "fin": "2026-11-13T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Imbatibles",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-13T14:00:00",
-      "fin": "2026-11-13T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Último momento",
-      "descripcion": "Se presentan las últimas noticias más relevantes del panorama nacional e internacional.",
-      "inicio": "2026-11-13T16:00:00",
-      "fin": "2026-11-13T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Crónica central",
-      "descripcion": "Las noticias más destacadas de la jornada.",
-      "inicio": "2026-11-13T17:30:00",
-      "fin": "2026-11-13T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Duro de callar",
-      "descripcion": "Un espacio de pasión y compromiso con la información más importante del panorama actual.",
-      "inicio": "2026-11-13T19:00:00",
-      "fin": "2026-11-13T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tierra de nadie",
-      "descripcion": "Un programa de análisis profundo y opinión de los temas más relevantes del día.",
-      "inicio": "2026-11-13T21:00:00",
-      "fin": "2026-11-13T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tierradenadie.jpg"
-    },
-    {
-      "titulo": "Antes de medianoche",
-      "descripcion": "Toda la información y las noticias sobre lo que pasó y va a pasar.",
-      "inicio": "2026-11-13T23:00:00",
-      "fin": "2026-11-14T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/antesdemedianoche.jpg"
-    },
-    {
-      "titulo": "El valor de tus joyas",
-      "descripcion": "Programa que presenta casos típicos de compra y venta de joyas y alhajas.",
-      "inicio": "2026-11-14T00:00:00",
-      "fin": "2026-11-14T00:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elvalordetusjoyas.jpg"
-    },
-    {
-      "titulo": "Iglesia de la ciudad",
-      "descripcion": "Desde Resistencia, José Luis Cinalli comparte experiencias que enriquecerán tu vida familiar.",
-      "inicio": "2026-11-14T00:15:00",
-      "fin": "2026-11-14T00:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cielos abiertos",
-      "descripcion": "Inspiración y motivación son las marca características. La dirección para iniciar la semana con expectativas renovadas, desde la ciudad de Resistencia, en Chaco, con la conducción de Jorge Ledesma.",
-      "inicio": "2026-11-14T00:45:00",
-      "fin": "2026-11-14T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El valor de tus joyas",
-      "descripcion": "Programa que presenta casos típicos de compra y venta de joyas y alhajas.",
-      "inicio": "2026-11-14T01:00:00",
-      "fin": "2026-11-14T01:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elvalordetusjoyas.jpg"
-    },
-    {
-      "titulo": "Iglesia de la ciudad",
-      "descripcion": "Desde Resistencia, José Luis Cinalli comparte experiencias que enriquecerán tu vida familiar.",
-      "inicio": "2026-11-14T01:15:00",
-      "fin": "2026-11-14T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El valor de tus joyas",
-      "descripcion": "Programa que presenta casos típicos de compra y venta de joyas y alhajas.",
-      "inicio": "2026-11-14T02:30:00",
-      "fin": "2026-11-14T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elvalordetusjoyas.jpg"
-    },
-    {
-      "titulo": "Paranormal",
-      "descripcion": "Un programa que se centra en historias de fantasmas, ovnis o situaciones misteriosas o paranormales de Argentina.",
-      "inicio": "2026-11-14T03:30:00",
-      "fin": "2026-11-14T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/paranormal.jpg"
-    },
-    {
-      "titulo": "Crónica Noticias: el resumen",
-      "descripcion": "Resumen de noticias con toda la información de actualidad de Argentina y el mundo.",
-      "inicio": "2026-11-14T04:00:00",
-      "fin": "2026-11-14T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mate de por medio",
-      "descripcion": "Una fusión de la calidez del mate con el vibrante mundo del entretenimiento. En cada episodio, entrevistas reveladoras, momentos de magazine llenos de energía, chismes jugosos y actuaciones en vivo de talentosos cantantes.",
-      "inicio": "2026-11-14T05:30:00",
-      "fin": "2026-11-14T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Crónica a la mañana",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-14T06:00:00",
-      "fin": "2026-11-14T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hoy es mejor",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-14T08:00:00",
-      "fin": "2026-11-14T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "El defensor",
       "descripcion": "Un hombre de negocios corrupto comete un asesinato y el único testigo es la novia de otro hombre de negocios con conexiones cercanas con el gobierno chino, por lo que se envía un guardaespaldas de Beijing para ayudar a dos policías de Hong Kong a proteger al testigo.",
       "inicio": "2026-11-14T11:00:00",
       "fin": "2026-11-14T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eldefensor.jpg"
+    },
+    {
+      "titulo": "Crónica al mediodía",
+      "descripcion": "Programa periodístico con la agenda del día, las primicias, el análisis y todo el despliegue de cobertura de los móviles.",
+      "inicio": "2026-11-14T13:00:00",
+      "fin": "2026-11-14T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El run run del espectáculo",
+      "descripcion": "Toda la información del mundo del espectáculo sin filtros. Además, se cuenta con entrevistas exclusivas.",
+      "inicio": "2026-11-14T16:00:00",
+      "fin": "2026-11-14T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Siempre noticias sábado",
+      "descripcion": "El análisis de los principales temas e invitados de la actualidad.",
+      "inicio": "2026-11-14T18:00:00",
+      "fin": "2026-11-14T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Intensos con Tomás Dente",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-14T20:00:00",
+      "fin": "2026-11-14T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las nuevas tragedias de los famosos",
+      "descripcion": "Se investigan los casos más trágicos de los famosos.",
+      "inicio": "2026-11-14T22:00:00",
+      "fin": "2026-11-14T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Paranormal",
+      "descripcion": "Un programa que se centra en historias de fantasmas, ovnis o situaciones misteriosas o paranormales de Argentina.",
+      "inicio": "2026-11-14T23:00:00",
+      "fin": "2026-11-15T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/paranormal.jpg"
+    },
+    {
+      "titulo": "Programa pagado",
+      "descripcion": "Programa que muestra diversos productos para la venta.",
+      "inicio": "2026-11-15T00:00:00",
+      "fin": "2026-11-15T00:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/programapagado.jpg"
+    },
+    {
+      "titulo": "Iglesia de la ciudad",
+      "descripcion": "Desde Resistencia, José Luis Cinalli comparte experiencias que enriquecerán tu vida familiar.",
+      "inicio": "2026-11-15T00:15:00",
+      "fin": "2026-11-15T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cielos abiertos",
+      "descripcion": "Inspiración y motivación son las marca características. La dirección para iniciar la semana con expectativas renovadas, desde la ciudad de Resistencia, en Chaco, con la conducción de Jorge Ledesma.",
+      "inicio": "2026-11-15T00:45:00",
+      "fin": "2026-11-15T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El valor de tus joyas",
+      "descripcion": "Programa que presenta casos típicos de compra y venta de joyas y alhajas.",
+      "inicio": "2026-11-15T01:00:00",
+      "fin": "2026-11-15T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elvalordetusjoyas.jpg"
+    },
+    {
+      "titulo": "Iglesia de la ciudad",
+      "descripcion": "Desde Resistencia, José Luis Cinalli comparte experiencias que enriquecerán tu vida familiar.",
+      "inicio": "2026-11-15T01:30:00",
+      "fin": "2026-11-15T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El valor de tus joyas",
+      "descripcion": "Programa que presenta casos típicos de compra y venta de joyas y alhajas.",
+      "inicio": "2026-11-15T02:30:00",
+      "fin": "2026-11-15T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elvalordetusjoyas.jpg"
+    },
+    {
+      "titulo": "Crónica Noticias: el resumen",
+      "descripcion": "Resumen de noticias con toda la información de actualidad de Argentina y el mundo.",
+      "inicio": "2026-11-15T03:30:00",
+      "fin": "2026-11-15T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Crónica a la mañana",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-15T06:00:00",
+      "fin": "2026-11-15T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hoy es mejor",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-15T09:00:00",
+      "fin": "2026-11-15T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

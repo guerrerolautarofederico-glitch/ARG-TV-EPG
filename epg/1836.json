@@ -1,94 +1,101 @@
 {
   "actual": {
-    "titulo": "Planet Action",
-    "descripcion": "Un espacio único que reúne los detrás de cámaras de las películas de acción más relevantes de Hollywood.",
-    "inicio": "2026-11-13T08:40:00",
-    "fin": "2026-11-13T14:25:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planetaction.jpg"
+    "titulo": "Making the Movies",
+    "descripcion": "Una mirada tras bastidores a cómo se crean algunas de las películas más taquilleras.",
+    "inicio": "2026-11-14T09:25:00",
+    "fin": "2026-11-14T13:25:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/makingthemovies.jpg"
   },
   "siguiente": {
-    "titulo": "Gold",
-    "descripcion": "Cuando dos hombres que viajan por el desierto descubren el pedrusco de oro más grande que han visto en su vida, empiezan a soñar con la riqueza que les traerá, pero la avaricia toma las riendas. Tienen que extraer el oro de la tierra y para ello trazan un plan en el que uno de ellos tiene que ir a por el equipo necesario y el otro se tiene que quedar allí solo a su suerte.",
-    "inicio": "2026-11-13T14:25:00",
-    "fin": "2026-11-13T16:10:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/gold.jpg"
+    "titulo": "Rocky V",
+    "descripcion": "Rocky, arruinado y retirado del boxeo, se ve obligado a volver a su barrio de siempre. Allí conoce a un joven con aptitudes para boxear y decide entrenarle.",
+    "inicio": "2026-11-14T13:25:00",
+    "fin": "2026-11-14T15:15:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rockyv.jpg"
   },
   "lista": [
-    {
-      "titulo": "Planet Action",
-      "descripcion": "Un espacio único que reúne los detrás de cámaras de las películas de acción más relevantes de Hollywood.",
-      "inicio": "2026-11-13T08:40:00",
-      "fin": "2026-11-13T14:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planetaction.jpg"
-    },
-    {
-      "titulo": "Gold",
-      "descripcion": "Cuando dos hombres que viajan por el desierto descubren el pedrusco de oro más grande que han visto en su vida, empiezan a soñar con la riqueza que les traerá, pero la avaricia toma las riendas. Tienen que extraer el oro de la tierra y para ello trazan un plan en el que uno de ellos tiene que ir a por el equipo necesario y el otro se tiene que quedar allí solo a su suerte.",
-      "inicio": "2026-11-13T14:25:00",
-      "fin": "2026-11-13T16:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/gold.jpg"
-    },
-    {
-      "titulo": "Damas en guerra",
-      "descripcion": "Annie es una mujer soltera cuya vida es un desastre, pero cuando ella descubre que su mejor amiga, Lillian, está comprometida, no tiene otra elección que ser su dama de honor. A pesar de estar soltera y sin dinero, Annie se enfrenta a los rituales extraños y caros asociados a sus responsabilidades como acompañante de la novia.",
-      "inicio": "2026-11-13T16:10:00",
-      "fin": "2026-11-13T18:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El pasajero",
-      "descripcion": "Durante su trayecto habitual de vuelta a casa en tren, un hombre de negocios felizmente casado comienza a hablar con una misteriosa pasajera. Pronto el hombre se verá envuelto en una conspiración criminal que amenaza con poner en peligro tanto su vida como la de sus seres más cercanos.",
-      "inicio": "2026-11-13T18:25:00",
-      "fin": "2026-11-13T20:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elpasajero.jpg"
-    },
-    {
-      "titulo": "Damas en guerra",
-      "descripcion": "Annie es una mujer soltera cuya vida es un desastre, pero cuando ella descubre que su mejor amiga, Lillian, está comprometida, no tiene otra elección que ser su dama de honor. A pesar de estar soltera y sin dinero, Annie se enfrenta a los rituales extraños y caros asociados a sus responsabilidades como acompañante de la novia.",
-      "inicio": "2026-11-13T20:20:00",
-      "fin": "2026-11-13T22:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Resistencia",
-      "descripcion": "Segunda Guerra Mundial. Corre el año 1941 y los judíos de Europa Oriental están siendo masacrados a millares. En la Bielorrusia ocupada, tres hermanos logran escapar de una muerte segura y se refugian en los densos bosques de alrededor de su casa, que conocen desde su infancia. Allí inician su desesperada lucha contra los nazis. Su lucha se convertirá en algo mucho más importante, una forma de vengar las muertes de sus seres queridos al salvar a miles de personas.",
-      "inicio": "2026-11-13T22:35:00",
-      "fin": "2026-11-14T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/resistencia.jpg"
-    },
-    {
-      "titulo": "La guerra del mañana",
-      "descripcion": "Unos viajeros llegan desde el año 2051 para dar un mensaje: 30 años en el futuro, la humanidad estará perdiendo la guerra contra unos alienígenas. La única esperanza para sobrevivir es que los soldados y civiles vayan al futuro y se sumen a la batalla. Decidido a salvar el mundo por su hija, Dan Forester se une a una científica brillante y a su distante padre para reescribir el destino del planeta.",
-      "inicio": "2026-11-14T01:00:00",
-      "fin": "2026-11-14T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laguerradelmanana.jpg"
-    },
-    {
-      "titulo": "Caos: el inicio",
-      "descripcion": "Un joven debe descubrir los oscuros secretos de su planeta para salvar a una chica misteriosa que acaba de aterrizar.",
-      "inicio": "2026-11-14T03:30:00",
-      "fin": "2026-11-14T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los caballeros: Criminales con clase",
-      "descripcion": "Mickey Pearson, hombre de negocios y expatriado estadounidense, ha triunfado en Londres, gracias al tráfico de drogas. Ahora quiere vender su rentable imperio de marihuana valorado en miles de millones, pero no se lo pondrán nada fácil.",
-      "inicio": "2026-11-14T05:30:00",
-      "fin": "2026-11-14T07:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/loscaballeroscriminalesconclase.jpg"
-    },
-    {
-      "titulo": "Los indestructibles 2",
-      "descripcion": "El equipo se vuelve a reunir cuando el señor Church les encarga un trabajo aparentemente sencillo y muy lucrativo. Sin embargo, el plan cambia cuando un peligroso terrorista llamado Villain les tiende una emboscada. Entonces, su único deseo será vengarse. Así es como van sembrando a su paso la destrucción y el caos entre sus enemigos, hasta que se encuentran con una amenaza inesperada: cinco toneladas de plutonio apto para uso militar, una cantidad más que suficiente para cambiar el equilibrio de poder en el mundo.",
-      "inicio": "2026-11-14T07:35:00",
-      "fin": "2026-11-14T09:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Making the Movies",
       "descripcion": "Una mirada tras bastidores a cómo se crean algunas de las películas más taquilleras.",
       "inicio": "2026-11-14T09:25:00",
       "fin": "2026-11-14T13:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/makingthemovies.jpg"
+    },
+    {
+      "titulo": "Rocky V",
+      "descripcion": "Rocky, arruinado y retirado del boxeo, se ve obligado a volver a su barrio de siempre. Allí conoce a un joven con aptitudes para boxear y decide entrenarle.",
+      "inicio": "2026-11-14T13:25:00",
+      "fin": "2026-11-14T15:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rockyv.jpg"
+    },
+    {
+      "titulo": "Con la frente en alto",
+      "descripcion": "Un ex-soldado de las Fuerzas Especiales de EE. UU. regresa a su ciudad natal, ahora invadida por el crimen, las drogas y la violencia para convertirse en sheriff y limpiar el pueblo con la ayuda de su mejor amigo.",
+      "inicio": "2026-11-14T15:15:00",
+      "fin": "2026-11-14T16:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Hobbit: La batalla de los cinco ejércitos",
+      "descripcion": "Mientras Smaug lanza su ira ardiente contra los ciudadanos de la Ciudad del Lago, Sauron envía legiones de orcos a atacar la Montaña Solitaria. La Tierra está en peligro cuando hombres, enanos y elfos deben decidir si se unen o son destruidos.",
+      "inicio": "2026-11-14T16:45:00",
+      "fin": "2026-11-14T19:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Contando a mis ex",
+      "descripcion": "Ally Darling se da cuenta de que está un poco perdida en su vida. Su último romance desapareció, y ella ha sido despedida de su empleo de mercadeo. Entonces ella lee el artículo de una revista que le abre los ojos que advierte que el 96 por ciento de las mujeres que han tenido más de 20 amantes, difícilmente encuentran marido. Decidida a transformar su vida y probar que el artículo es incorrecto, Ally inicia una misión para encontrar a la pareja perfecta entre sus numerosos exnovios.",
+      "inicio": "2026-11-14T19:10:00",
+      "fin": "2026-11-14T21:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Legalmente rubia",
+      "descripcion": "La reina del colegio afirma que triunfará aun sin su exnovio al ingresar en la escuela de leyes de Harvard.",
+      "inicio": "2026-11-14T21:05:00",
+      "fin": "2026-11-14T22:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Marley y yo",
+      "descripcion": "John y Jenny deciden dejar atrás los duros inviernos de Michigan para iniciar sus nuevas vidas en la soleada West Palm Beach, donde adoptan a un perro incorregible.",
+      "inicio": "2026-11-14T22:50:00",
+      "fin": "2026-11-15T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rápidos y furiosos 9",
+      "descripcion": "Domic Toretto lleva una vida tranquila, lejos de todo, con Letty y su hijo, el pequeño Brian. el peligro está siempre al acecho. Esta vez, esta amenaza obligará a Domic Toretto a enfrentarse a los pecados de su pasado para salvar a los que más quiere. Su equipo se reúne de nuevo para detener un plan que conmocionó al mundo, liderado por el mejor piloto y el mayor asesino que han encontrado: Jakob, el hermano abandonado de Domic.",
+      "inicio": "2026-11-15T01:00:00",
+      "fin": "2026-11-15T03:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "John Wick: Sin control",
+      "descripcion": "La ciudad de Nueva York se llena de balas cuando John Wick, un ex asesino a sueldo, enfrenta a los mafiosos rusos que destruyeron todo aquello que él amaba y pusieron precio a su cabeza.",
+      "inicio": "2026-11-15T03:35:00",
+      "fin": "2026-11-15T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Amenaza roja",
+      "descripcion": "Cuando las tropas norcoreanas invaden suelo estadounidense para apoderarse de la ciudad de Spokane, un veterano de la guerra de Irak que acaba de regresar y un grupo de jóvenes huyen al bosque y forman una banda de luchadores por la libertad. Se hacen llamar los Wolverines, e inician unos ataques guerrilleros en contra de los invasores, ¿pero cuánto tiempo podrán mantener la pelea frente a un gran número de enemigos muy bien armados?",
+      "inicio": "2026-11-15T05:30:00",
+      "fin": "2026-11-15T07:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Wanted man: Se busca",
+      "descripcion": "Sigue a un oficial de policía que debe recuperar a un testigo y escoltarla después de que un tiroteo de un cartel deja varios agentes de la DEA muertos, pero luego debe decidir en quién confiar cuando descubren que el ataque fue ejecutado por fuerzas estadounidenses.",
+      "inicio": "2026-11-15T07:05:00",
+      "fin": "2026-11-15T08:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/wantedmansebusca.jpg"
+    },
+    {
+      "titulo": "Making the Movies",
+      "descripcion": "Una mirada tras bastidores a cómo se crean algunas de las películas más taquilleras.",
+      "inicio": "2026-11-15T08:35:00",
+      "fin": "2026-11-15T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/makingthemovies.jpg"
     }
   ]

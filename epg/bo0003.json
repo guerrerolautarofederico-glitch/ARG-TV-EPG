@@ -1,159 +1,19 @@
 {
   "actual": {
-    "titulo": "Sabores bolivianos",
-    "descripcion": "Preparados para llevarte entretenimiento, recetas fáciles y útiles para que prepares en cualquier momento, descubramos juntos los sabores bolivianos.",
-    "inicio": "2026-11-13T10:30:00",
-    "fin": "2026-11-13T13:00:00",
+    "titulo": "Detective Conan: Girasoles del infierno",
+    "descripcion": "Conan va detrás de Kaito Kid, quien supuestamente ha robado una réplica de un cuadro de Van Gogh de una subasta.",
+    "inicio": "2026-11-14T10:00:00",
+    "fin": "2026-11-14T12:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Súper deportivo",
-    "descripcion": "Un programa con energía, originalidad y dirigido a los amantes del deporte. La información más actualizada de tus equipos y disciplinas favoritas, así como los hechos de mayor relevancia mundial estarán presentes cada día.",
-    "inicio": "2026-11-13T13:00:00",
-    "fin": "2026-11-13T13:25:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "El Chavo del 8",
+    "descripcion": "Las vivencias de un grupo de personas que habitan en una vecindad mexicana, donde el Chavo junto con sus amigos, llevan a cabo travesuras que ocasionan malentendidos y discusiones entre los mismos vecinos.",
+    "inicio": "2026-11-14T12:00:00",
+    "fin": "2026-11-14T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
   },
   "lista": [
-    {
-      "titulo": "Sabores bolivianos",
-      "descripcion": "Preparados para llevarte entretenimiento, recetas fáciles y útiles para que prepares en cualquier momento, descubramos juntos los sabores bolivianos.",
-      "inicio": "2026-11-13T10:30:00",
-      "fin": "2026-11-13T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Súper deportivo",
-      "descripcion": "Un programa con energía, originalidad y dirigido a los amantes del deporte. La información más actualizada de tus equipos y disciplinas favoritas, así como los hechos de mayor relevancia mundial estarán presentes cada día.",
-      "inicio": "2026-11-13T13:00:00",
-      "fin": "2026-11-13T13:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Notivisión",
-      "descripcion": "Reportajes nacionales e internacionales, en esta emisión dedicada a llevarte la información más importante ocurrida durante el día, para que estés actualizado con los acontecimientos y hechos más relevantes.",
-      "inicio": "2026-11-13T13:25:00",
-      "fin": "2026-11-13T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Las hijas de la señora García",
-      "descripcion": "Ofelia García es una mujer que su mayor anhelo es tener lujos y tener dinero, razón por la que cuidará la belleza de su hija Mar, aunque la fama no sea para ella. En cambio, su otra hija, Valeria es la que se hace cargo de la familia, quien sabe perfectamente el valor del trabajo y el esfuerzo para lograr los objetivos. Ofelia está dispuesta a hacer todo con tal de que sus hijas no sufran del destino que tuvo ella, que tengan un futuro mejor, por lo que tendrán que olvidar la ambición que las pueda seducir.",
-      "inicio": "2026-11-13T15:00:00",
-      "fin": "2026-11-13T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lashijasdelasenoragarcia.jpg"
-    },
-    {
-      "titulo": "Dulce ambición",
-      "descripcion": "María de la Paz es una decidida repostera ambulante que llega a ser una famosa y rica empresaria veinte años después de una tragedia en el día de su boda con Amadeo. De esa relación interrumpida nació Yos, una joven que busca el poder y siente rechazo por los humildes orígenes de su madre. Temiendo que el reencuentro de sus padres arruine sus planes, Yos se une al seductor Regis en un plan que tiene por fin convencer a María a que se case con él para que luego, juntos, se queden con toda su fortuna. En este éxito arrollador del ganador del Emmy Walcyr Carrasco, el optimismo de María tendrá que ser mayor que la ambición de Yos cuando la repostera descubra la traición y los oscuros secretos de su propia hija.",
-      "inicio": "2026-11-13T16:00:00",
-      "fin": "2026-11-13T17:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dulceambicion.jpg"
-    },
-    {
-      "titulo": "Avance informativo",
-      "descripcion": "Un espacio que actualiza las noticias más relevantes de Bogotá y Colombia antes de sus emisiones principales.",
-      "inicio": "2026-11-13T17:25:00",
-      "fin": "2026-11-13T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El Chavo del 8",
-      "descripcion": "Las vivencias de un grupo de personas que habitan en una vecindad mexicana, donde el Chavo junto con sus amigos, llevan a cabo travesuras que ocasionan malentendidos y discusiones entre los mismos vecinos.",
-      "inicio": "2026-11-13T17:30:00",
-      "fin": "2026-11-13T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
-    },
-    {
-      "titulo": "Dueños de la tarde",
-      "descripcion": "Un espacio donde la información, el debate y el entretenimiento se fusionan de forma innovadora. Daniel Dueñas y Ximena Zalzer abordan temas de salud, bienestar, tecnología y espiritualidad, con la participación de un panel de especialistas. El programa apuesta por la interacción con el público, creando un espacio donde la audiencia tiene voz y es parte activa del desarrollo de los temas.",
-      "inicio": "2026-11-13T18:00:00",
-      "fin": "2026-11-13T19:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Notivisión",
-      "descripcion": "Reportajes nacionales e internacionales, en esta emisión dedicada a llevarte la información más importante ocurrida durante el día, para que estés actualizado con los acontecimientos y hechos más relevantes.",
-      "inicio": "2026-11-13T19:55:00",
-      "fin": "2026-11-13T21:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La gran batalla",
-      "descripcion": "Un reality show donde participarán 20 equipos, cada uno conformado por 8 bailarines en puesta en escena y 1 famoso de la farándula boliviana. Todos ellos realizarán su presentación en nuestro escenario demostrando su talento en baile, interpretación y haciendo playback de artistas seleccionados, brindando un show de alto nivel.",
-      "inicio": "2026-11-13T21:45:00",
-      "fin": "2026-11-13T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lagranbatalla.jpg"
-    },
-    {
-      "titulo": "Que no me pierda",
-      "descripcion": "Espacio informativo nocturno, el escenario perfecto para analizar la coyuntura local y nacional que transcurre a diario. El formato de QNMP se caracteriza por tratar la información desde todo tipo de ámbito, tanto noticioso como social, desde una perspectiva de análisis que debate la problemática diaria con expertos invitados, y por supuesto con sus protagonistas.",
-      "inicio": "2026-11-13T23:00:00",
-      "fin": "2026-11-14T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Problemas y soluciones",
-      "descripcion": "Espacio de contenido religioso.",
-      "inicio": "2026-11-14T01:00:00",
-      "fin": "2026-11-14T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/problemasysoluciones.jpg"
-    },
-    {
-      "titulo": "Notivisión",
-      "descripcion": "Repetición ║ Reportajes nacionales e internacionales, en esta emisión dedicada a llevarte la información más importante ocurrida durante el día, para que estés actualizado con los acontecimientos y hechos más relevantes.",
-      "inicio": "2026-11-14T02:00:00",
-      "fin": "2026-11-14T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dueños de la tarde",
-      "descripcion": "Repetición ║ Un espacio donde la información, el debate y el entretenimiento se fusionan de forma innovadora. Daniel Dueñas y Ximena Zalzer abordan temas de salud, bienestar, tecnología y espiritualidad, con la participación de un panel de especialistas. El programa apuesta por la interacción con el público, creando un espacio donde la audiencia tiene voz y es parte activa del desarrollo de los temas.",
-      "inicio": "2026-11-14T03:30:00",
-      "fin": "2026-11-14T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La gran batalla",
-      "descripcion": "Repetición ║ Un reality show donde participarán 20 equipos, cada uno conformado por 8 bailarines en puesta en escena y 1 famoso de la farándula boliviana. Todos ellos realizarán su presentación en nuestro escenario demostrando su talento en baile, interpretación y haciendo playback de artistas seleccionados, brindando un show de alto nivel.",
-      "inicio": "2026-11-14T05:00:00",
-      "fin": "2026-11-14T05:57:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lagranbatalla.jpg"
-    },
-    {
-      "titulo": "Problemas y soluciones",
-      "descripcion": "Espacio de contenido religioso.",
-      "inicio": "2026-11-14T05:57:00",
-      "fin": "2026-11-14T06:57:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/problemasysoluciones.jpg"
-    },
-    {
-      "titulo": "Identificación red / Himno nacional / Marcha naval",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-14T06:57:00",
-      "fin": "2026-11-14T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El chapulín colorado",
-      "descripcion": "El Chapulín Colorado es una serie de televisión mexicana, parodia de los  programas de superhéroes, creada por Chespirito. Fue transmitida en  México por primera vez en 1970 como un segmento del programa \"Los  Supergenios de la mesa cuadrada\" donde actuaba Chespirito y tres de los  futuros miembros de la serie. Entre 1972 y 1979 paso a tener su propio  programa, al igual que su producción hermana El Chavo del Ocho y tuvo un  capítulo final donde se agradeció a los espectadores. Pero luego  continuo como un segmento de la serie Chespirito hasta 1993. Su nombre  se refiere a un chapulín (el nombre dado en México a una especie de  saltamontes) de color rojo o colorado.\n\nNo aparece en el programa ningún otro superhéroe de ficción, a excepción  de Super Sam, parodia de Superman y el Tio Sam.",
-      "inicio": "2026-11-14T07:00:00",
-      "fin": "2026-11-14T07:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchapulincolorado.jpg"
-    },
-    {
-      "titulo": "El Chavo del 8",
-      "descripcion": "Las vivencias de un grupo de personas que habitan en una vecindad mexicana, donde el Chavo junto con sus amigos, llevan a cabo travesuras que ocasionan malentendidos y discusiones entre los mismos vecinos.",
-      "inicio": "2026-11-14T07:55:00",
-      "fin": "2026-11-14T08:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
-    },
-    {
-      "titulo": "Avatar the Last Airbender",
-      "descripcion": "Todo transcurre en un mundo de influencia principalmente asiática, donde predominan las artes marciales y la manipulación de los elementos en combinación con el misticismo oriental, dando seguimiento a las aventuras de Aang, el más reciente sucesor de una larga línea de avatares, y sus amigos en un intento por salvar su místico mundo de la despiadada Nación del Fuego que busca conquistar a los demás territorios. Durante sus travesías son acechados insistentemente por el desterrado príncipe del fuego Zuko, cuyo objetivo es capturar al avatar para recuperar su honor.",
-      "inicio": "2026-11-14T08:50:00",
-      "fin": "2026-11-14T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Detective Conan: Girasoles del infierno",
       "descripcion": "Conan va detrás de Kaito Kid, quien supuestamente ha robado una réplica de un cuadro de Van Gogh de una subasta.",
@@ -167,6 +27,181 @@
       "inicio": "2026-11-14T12:00:00",
       "fin": "2026-11-14T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
+    },
+    {
+      "titulo": "El chapulín colorado",
+      "descripcion": "El Chapulín Colorado es una serie de televisión mexicana, parodia de los  programas de superhéroes, creada por Chespirito. Fue transmitida en  México por primera vez en 1970 como un segmento del programa \"Los  Supergenios de la mesa cuadrada\" donde actuaba Chespirito y tres de los  futuros miembros de la serie. Entre 1972 y 1979 paso a tener su propio  programa, al igual que su producción hermana El Chavo del Ocho y tuvo un  capítulo final donde se agradeció a los espectadores. Pero luego  continuo como un segmento de la serie Chespirito hasta 1993. Su nombre  se refiere a un chapulín (el nombre dado en México a una especie de  saltamontes) de color rojo o colorado.\n\nNo aparece en el programa ningún otro superhéroe de ficción, a excepción  de Super Sam, parodia de Superman y el Tio Sam.",
+      "inicio": "2026-11-14T13:00:00",
+      "fin": "2026-11-14T13:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchapulincolorado.jpg"
+    },
+    {
+      "titulo": "Notivisión",
+      "descripcion": "Reportajes nacionales e internacionales, en esta emisión dedicada a llevarte la información más importante ocurrida durante el día, para que estés actualizado con los acontecimientos y hechos más relevantes.",
+      "inicio": "2026-11-14T13:25:00",
+      "fin": "2026-11-14T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lo mejor de Las hijas de la señora García",
+      "descripcion": "Ofelia García es una mujer que su mayor anhelo es tener lujos y tener dinero, razón por la que cuidará la belleza de su hija Mar, aunque la fama no sea para ella. En cambio, su otra hija, Valeria es la que se hace cargo de la familia, quien sabe perfectamente el valor del trabajo y el esfuerzo para lograr los objetivos. Ofelia está dispuesta a hacer todo con tal de que sus hijas no sufran del destino que tuvo ella, que tengan un futuro mejor, por lo que tendrán que olvidar la ambición que las pueda seducir.",
+      "inicio": "2026-11-14T15:00:00",
+      "fin": "2026-11-14T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lashijasdelasenoragarcia.jpg"
+    },
+    {
+      "titulo": "Lo mejor de Dulce ambición",
+      "descripcion": "Disfrute del resumen de la historia que cuenta la rivalidad entre dos familias de justicieros enfrentadas hace generaciones puede llegar a su fin gracias al amor entre Maria da Paz y Amadeu.",
+      "inicio": "2026-11-14T17:00:00",
+      "fin": "2026-11-14T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dulceambicion.jpg"
+    },
+    {
+      "titulo": "El Chavo del 8",
+      "descripcion": "Las vivencias de un grupo de personas que habitan en una vecindad mexicana, donde el Chavo junto con sus amigos, llevan a cabo travesuras que ocasionan malentendidos y discusiones entre los mismos vecinos.",
+      "inicio": "2026-11-14T19:00:00",
+      "fin": "2026-11-14T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
+    },
+    {
+      "titulo": "El chapulín colorado",
+      "descripcion": "El Chapulín Colorado es una serie de televisión mexicana, parodia de los  programas de superhéroes, creada por Chespirito. Fue transmitida en  México por primera vez en 1970 como un segmento del programa \"Los  Supergenios de la mesa cuadrada\" donde actuaba Chespirito y tres de los  futuros miembros de la serie. Entre 1972 y 1979 paso a tener su propio  programa, al igual que su producción hermana El Chavo del Ocho y tuvo un  capítulo final donde se agradeció a los espectadores. Pero luego  continuo como un segmento de la serie Chespirito hasta 1993. Su nombre  se refiere a un chapulín (el nombre dado en México a una especie de  saltamontes) de color rojo o colorado.\n\nNo aparece en el programa ningún otro superhéroe de ficción, a excepción  de Super Sam, parodia de Superman y el Tio Sam.",
+      "inicio": "2026-11-14T19:30:00",
+      "fin": "2026-11-14T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchapulincolorado.jpg"
+    },
+    {
+      "titulo": "Lo mejor del Trendy Fashion Week",
+      "descripcion": "Disfruta de la cobertura del evento Trendy Fashion Week 2026, realizada en el Centro de Convenciones de la UPSA en Santa Cruz de la Sierra, Bolivia.",
+      "inicio": "2026-11-14T20:00:00",
+      "fin": "2026-11-14T20:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Notivisión",
+      "descripcion": "Reportajes nacionales e internacionales, en esta emisión dedicada a llevarte la información más importante ocurrida durante el día, para que estés actualizado con los acontecimientos y hechos más relevantes.",
+      "inicio": "2026-11-14T20:55:00",
+      "fin": "2026-11-14T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bolivia siglo XXI",
+      "descripcion": "Repetición ║ Bolivia atraviesa un cuarto de siglo marcado por profundas transformaciones políticas, sociales e institucionales. Desde las crisis que sacudieron al país a comienzos de los años 2000 hasta los acontecimientos de 2025, la historia reciente se reconstruye mediante imágenes de archivo, testimonios y análisis de sus protagonistas. Las transiciones presidenciales, los conflictos sociales, la construcción del Estado Plurinacional, las disputas por los recursos naturales y las tensiones en torno a la democracia forman parte de un recorrido por las decisiones que modificaron el rumbo nacional. La participación de las mujeres, los desafíos ambientales y los cambios en la sociedad completan una mirada a los procesos que definieron la Bolivia contemporánea.",
+      "inicio": "2026-11-14T22:00:00",
+      "fin": "2026-11-14T23:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lo mejor de La gran batalla",
+      "descripcion": "Un reality show donde participarán 20 equipos, cada uno conformado por 8 bailarines en puesta en escena y 1 famoso de la farándula boliviana. Todos ellos realizarán su presentación en nuestro escenario demostrando su talento en baile, interpretación y haciendo playback de artistas seleccionados, brindando un show de alto nivel.",
+      "inicio": "2026-11-14T23:10:00",
+      "fin": "2026-11-15T00:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lagranbatalla.jpg"
+    },
+    {
+      "titulo": "Tierra nuestra",
+      "descripcion": "Un prrograma que contribuye en dar a conocer diferentes lugares del país, mostrando la flora y fauna chilenas, únicas en su especie, además de la importancia de proteger y cuidar la naturaleza; en el marco del Día Mundial del Medio Ambiente.",
+      "inicio": "2026-11-15T00:40:00",
+      "fin": "2026-11-15T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Problemas y soluciones",
+      "descripcion": "Espacio de contenido religioso.",
+      "inicio": "2026-11-15T01:00:00",
+      "fin": "2026-11-15T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/problemasysoluciones.jpg"
+    },
+    {
+      "titulo": "Lo mejor de Las hijas de la señora García",
+      "descripcion": "Repetición ║ Ofelia García es una mujer que su mayor anhelo es tener lujos y tener dinero, razón por la que cuidará la belleza de su hija Mar, aunque la fama no sea para ella. En cambio, su otra hija, Valeria es la que se hace cargo de la familia, quien sabe perfectamente el valor del trabajo y el esfuerzo para lograr los objetivos. Ofelia está dispuesta a hacer todo con tal de que sus hijas no sufran del destino que tuvo ella, que tengan un futuro mejor, por lo que tendrán que olvidar la ambición que las pueda seducir.",
+      "inicio": "2026-11-15T02:00:00",
+      "fin": "2026-11-15T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lashijasdelasenoragarcia.jpg"
+    },
+    {
+      "titulo": "Lo mejor de Dulce ambición",
+      "descripcion": "Repetición ║ Disfrute del resumen de la historia que cuenta la rivalidad entre dos familias de justicieros enfrentadas hace generaciones puede llegar a su fin gracias al amor entre Maria da Paz y Amadeu.",
+      "inicio": "2026-11-15T04:00:00",
+      "fin": "2026-11-15T05:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dulceambicion.jpg"
+    },
+    {
+      "titulo": "Problemas y soluciones",
+      "descripcion": "Espacio de contenido religioso.",
+      "inicio": "2026-11-15T05:57:00",
+      "fin": "2026-11-15T06:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/problemasysoluciones.jpg"
+    },
+    {
+      "titulo": "Identificación red / Himno nacional / Marcha naval",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-15T06:57:00",
+      "fin": "2026-11-15T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El chapulín colorado",
+      "descripcion": "El Chapulín Colorado es una serie de televisión mexicana, parodia de los  programas de superhéroes, creada por Chespirito. Fue transmitida en  México por primera vez en 1970 como un segmento del programa \"Los  Supergenios de la mesa cuadrada\" donde actuaba Chespirito y tres de los  futuros miembros de la serie. Entre 1972 y 1979 paso a tener su propio  programa, al igual que su producción hermana El Chavo del Ocho y tuvo un  capítulo final donde se agradeció a los espectadores. Pero luego  continuo como un segmento de la serie Chespirito hasta 1993. Su nombre  se refiere a un chapulín (el nombre dado en México a una especie de  saltamontes) de color rojo o colorado.\n\nNo aparece en el programa ningún otro superhéroe de ficción, a excepción  de Super Sam, parodia de Superman y el Tio Sam.",
+      "inicio": "2026-11-15T07:00:00",
+      "fin": "2026-11-15T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchapulincolorado.jpg"
+    },
+    {
+      "titulo": "Santa misa",
+      "descripcion": "La celebración de la santa misa desde la Capilla San Juan Pablo II desde Chatsworth, California. Los días 12 de cada mes es transmitida desde la Basílica de Nuestra Señora de Guadalupe en México.",
+      "inicio": "2026-11-15T08:00:00",
+      "fin": "2026-11-15T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
+    },
+    {
+      "titulo": "Bebefinn",
+      "descripcion": "El pequeño Finn nos invita a vivir aventuras llenas de diversión y a aprender algo nuevo cada día.",
+      "inicio": "2026-11-15T09:00:00",
+      "fin": "2026-11-15T09:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Baby Shark's Big Show",
+      "descripcion": "Baby Shark y su mejor amigo, el pez William, emprenden varias aventuras en su comunidad de Carnivore Cove, donde siempre aprenden algo nuevo.",
+      "inicio": "2026-11-15T09:15:00",
+      "fin": "2026-11-15T09:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/babysharksbigshow.jpg"
+    },
+    {
+      "titulo": "Paw Patrol",
+      "descripcion": "Conoce a un equipo de cachorros liderado por el energético Ryder, que está siempre listo cuando se trata de ayudar en la bulliciosa ciudad de Bahía Aventura. Ellos tienen todas las herramientas, aparatos y el valor que necesitan para ayudar a su comunidad.",
+      "inicio": "2026-11-15T09:45:00",
+      "fin": "2026-11-15T10:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Plim Plim, un héroe del corazón",
+      "descripcion": "Con su estilo innovador, El payaso Plim Plim: Un héroe del corazón, hace de la simpleza un valor y de la infancia un mundo mágico. Sus historias en formato de fábula incluyen guiños visuales, musicales, cinematográficos y literarios.",
+      "inicio": "2026-11-15T10:15:00",
+      "fin": "2026-11-15T10:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/plimplimunheroedelcorazon.jpg"
+    },
+    {
+      "titulo": "Space Cops",
+      "descripcion": "Los policías espaciales protegen la Tierra, pero fallan en la vigilancia debido a negligencia en el deber. Entonces, el Comandante Masterking expulsa a los miembros de la Policía Espacial a la destartalada estación de metro de la Tierra. Mientras tanto, el Villano Serpiente pone en peligro la Tierra al resucitar Monstruos Demonio (Sapp), y la Policía Espacial está en crisis. ¿Podrán los Policías Espaciales encontrar y revivir a los Guardianes Espaciales y restaurar la paz de la Tierra y la seguridad de la humanidad.",
+      "inicio": "2026-11-15T10:45:00",
+      "fin": "2026-11-15T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Metal Cardbots",
+      "descripcion": "Tras una explosión que obliga a unos vehículos robóticos llamados Cardbots a llegar a la Tierra, estos se disfrazan de vehículos normales. Un joven ciclista de BMX se hace amigo de ellos y encuentra un dispositivo para darles energía.",
+      "inicio": "2026-11-15T11:00:00",
+      "fin": "2026-11-15T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bob Esponja",
+      "descripcion": "Cerca del Atolón Bikini, a algunas leguas bajo el mar, en una ciudad submarina llamada Fondo Bikini, vive Bob Esponja. No tiene un modo lógico de actuar en la vida, todo lo hace de una manera poco convencional. Sus buenas intenciones y sus ansias de hacer el bien suelen crear bastantes problemas.",
+      "inicio": "2026-11-15T11:30:00",
+      "fin": "2026-11-15T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bobesponja.jpg"
     }
   ]
 }

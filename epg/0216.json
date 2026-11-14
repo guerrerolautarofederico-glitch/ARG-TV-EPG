@@ -1,292 +1,19 @@
 {
   "actual": {
-    "titulo": "Verified Live",
-    "descripcion": "Un programa informativo con las últimas noticias globales y del Reino Unido.",
-    "inicio": "2026-11-13T12:00:00",
-    "fin": "2026-11-13T13:55:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/verifiedlive.jpg"
+    "titulo": "The Media Show",
+    "descripcion": "Redes sociales, redes antisociales, noticias de última hora, noticias falsas. Este es el programa sobre una revolución en los medios.",
+    "inicio": "2026-11-14T11:30:00",
+    "fin": "2026-11-14T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/themediashow.jpg"
   },
   "siguiente": {
-    "titulo": "The Travel Show",
-    "descripcion": "El equipo explora varios destinos alrededor del planeta y descubren el lado escondido de algunos de los sitios más populares del mundo.",
-    "inicio": "2026-11-13T13:55:00",
-    "fin": "2026-11-13T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thetravelshow.jpg"
+    "titulo": "BBC News",
+    "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+    "inicio": "2026-11-14T12:00:00",
+    "fin": "2026-11-14T12:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
   },
   "lista": [
-    {
-      "titulo": "Verified Live",
-      "descripcion": "Un programa informativo con las últimas noticias globales y del Reino Unido.",
-      "inicio": "2026-11-13T12:00:00",
-      "fin": "2026-11-13T13:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/verifiedlive.jpg"
-    },
-    {
-      "titulo": "The Travel Show",
-      "descripcion": "El equipo explora varios destinos alrededor del planeta y descubren el lado escondido de algunos de los sitios más populares del mundo.",
-      "inicio": "2026-11-13T13:55:00",
-      "fin": "2026-11-13T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thetravelshow.jpg"
-    },
-    {
-      "titulo": "Verified Live",
-      "descripcion": "Un programa informativo con las últimas noticias globales y del Reino Unido.",
-      "inicio": "2026-11-13T14:00:00",
-      "fin": "2026-11-13T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/verifiedlive.jpg"
-    },
-    {
-      "titulo": "Focus on Africa",
-      "descripcion": "Las más grandes historias africanas e internacionales de la BBC.",
-      "inicio": "2026-11-13T14:30:00",
-      "fin": "2026-11-13T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/focusonafrica.jpg"
-    },
-    {
-      "titulo": "The World Today with Maryam Moshiri",
-      "descripcion": "Maryam Moshiri presenta lo mejor del periodismo de la BBC en todo el mundo.",
-      "inicio": "2026-11-13T15:00:00",
-      "fin": "2026-11-13T16:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/theworldtodaywithmaryammoshiri.jpg"
-    },
-    {
-      "titulo": "The Travel Show",
-      "descripcion": "El equipo explora varios destinos alrededor del planeta y descubren el lado escondido de algunos de los sitios más populares del mundo.",
-      "inicio": "2026-11-13T16:55:00",
-      "fin": "2026-11-13T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thetravelshow.jpg"
-    },
-    {
-      "titulo": "The Context USA",
-      "descripcion": "Expertos de ambos lados del Atlántico examinan cómo la política estadounidense y el sentimiento de la opinión pública determinan los resultados nacionales e influyen en la dinámica mundial.",
-      "inicio": "2026-11-13T17:00:00",
-      "fin": "2026-11-13T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thecontextusa.jpg"
-    },
-    {
-      "titulo": "The Context",
-      "descripcion": "Un panel regular de invitados de todo el espectro político discute las historias internacionales más importantes del día, junto con entrevistas y análisis de noticias de corresponsales de la BBC en todo el mundo.",
-      "inicio": "2026-11-13T18:00:00",
-      "fin": "2026-11-13T18:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thecontext.jpg"
-    },
-    {
-      "titulo": "The Travel Show",
-      "descripcion": "El equipo explora varios destinos alrededor del planeta y descubren el lado escondido de algunos de los sitios más populares del mundo.",
-      "inicio": "2026-11-13T18:55:00",
-      "fin": "2026-11-13T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thetravelshow.jpg"
-    },
-    {
-      "titulo": "BBC World News America",
-      "descripcion": "Noticias de la noche por los Estados Unidos.",
-      "inicio": "2026-11-13T19:00:00",
-      "fin": "2026-11-13T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcworldnewsamerica.jpg"
-    },
-    {
-      "titulo": "The President's Path",
-      "descripcion": "Caitríona, Courtney y Bernd hablan de la respuesta de Donald Trump al accidente aéreo de Washington D. C. También hablan de los aranceles, los planes de diversidad y las medidas de Trump contra la inmigración en Estados Unidos.",
-      "inicio": "2026-11-13T20:30:00",
-      "fin": "2026-11-13T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thepresidentspath.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-13T21:00:00",
-      "fin": "2026-11-13T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "Tech Now",
-      "descripcion": "Explora las últimas innovaciones y tecnologías que dan forma a nuestras vidas.",
-      "inicio": "2026-11-13T21:30:00",
-      "fin": "2026-11-13T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/technow.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-13T22:00:00",
-      "fin": "2026-11-13T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "Clive Myrie's African Adventure • Abeokuta",
-      "descripcion": "Abeokuta | La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-13T22:30:00",
-      "fin": "2026-11-13T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clivemyriesafricanadventure.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-13T23:00:00",
-      "fin": "2026-11-13T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "The Big Cases • The Downfall of Russell Brand",
-      "descripcion": "The Downfall of Russell Brand | Las historias más interesantes de crímenes y casos judiciales en Reino Unido. Un repaso a la lucha por la justicia, a las investigaciones y a las historias de las personas afectadas por los delitos.",
-      "inicio": "2026-11-13T23:30:00",
-      "fin": "2026-11-14T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thebigcases.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-14T00:00:00",
-      "fin": "2026-11-14T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "The Media Show",
-      "descripcion": "Redes sociales, redes antisociales, noticias de última hora, noticias falsas. Este es el programa sobre una revolución en los medios.",
-      "inicio": "2026-11-14T00:30:00",
-      "fin": "2026-11-14T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/themediashow.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-14T01:00:00",
-      "fin": "2026-11-14T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "The Travel Show",
-      "descripcion": "El equipo explora varios destinos alrededor del planeta y descubren el lado escondido de algunos de los sitios más populares del mundo.",
-      "inicio": "2026-11-14T01:30:00",
-      "fin": "2026-11-14T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thetravelshow.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-14T02:00:00",
-      "fin": "2026-11-14T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "AI Decoded",
-      "descripcion": "Un estudio en profundidad del desarrollo de la inteligencia artificial.",
-      "inicio": "2026-11-14T02:30:00",
-      "fin": "2026-11-14T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aidecoded.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-14T03:00:00",
-      "fin": "2026-11-14T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "Tech Now",
-      "descripcion": "Explora las últimas innovaciones y tecnologías que dan forma a nuestras vidas.",
-      "inicio": "2026-11-14T03:30:00",
-      "fin": "2026-11-14T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/technow.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-14T04:00:00",
-      "fin": "2026-11-14T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "Clive Myrie's African Adventure • Abeokuta",
-      "descripcion": "Abeokuta | La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-14T04:30:00",
-      "fin": "2026-11-14T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clivemyriesafricanadventure.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-14T05:00:00",
-      "fin": "2026-11-14T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "Global Eye • Angola: The Race for Critical Minerals",
-      "descripcion": "Angola: The Race for Critical Minerals | La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-14T05:30:00",
-      "fin": "2026-11-14T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/globaleye.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-14T06:00:00",
-      "fin": "2026-11-14T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-14T07:00:00",
-      "fin": "2026-11-14T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "Talking Business",
-      "descripcion": "A medida que se extienden por las redes sociales tendencias que animan a los trabajadores a limitarse a lo estrictamente necesario, Aaron Heslehurst se pregunta por qué los empleados están desilusionados y qué pueden hacer los directivos al respecto.",
-      "inicio": "2026-11-14T07:30:00",
-      "fin": "2026-11-14T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/talkingbusiness.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-14T08:00:00",
-      "fin": "2026-11-14T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "Unspun World with John Simpson",
-      "descripcion": "John Simpson aporta su experiencia para influir en las historias críticas. A través de debates con expertos de la BBC, utiliza su conocimiento local único para profundizar más allá de los titulares para encontrar la verdad tácita sobre el mundo.",
-      "inicio": "2026-11-14T08:30:00",
-      "fin": "2026-11-14T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/unspunworldwithjohnsimpson.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-14T09:00:00",
-      "fin": "2026-11-14T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "Arts in Motion • Lina Ghotmeh",
-      "descripcion": "Lina Ghotmeh | Figuras renombradas transmiten sus conocimientos a la siguiente generación de artistas a través de una serie de clases magistrales centradas en diversas disciplinas de las artes escénicas, como la danza y la música.",
-      "inicio": "2026-11-14T09:30:00",
-      "fin": "2026-11-14T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-14T10:00:00",
-      "fin": "2026-11-14T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
-    {
-      "titulo": "AI Decoded",
-      "descripcion": "Un estudio en profundidad del desarrollo de la inteligencia artificial.",
-      "inicio": "2026-11-14T10:30:00",
-      "fin": "2026-11-14T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aidecoded.jpg"
-    },
-    {
-      "titulo": "BBC News",
-      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
-      "inicio": "2026-11-14T11:00:00",
-      "fin": "2026-11-14T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
-    },
     {
       "titulo": "The Media Show",
       "descripcion": "Redes sociales, redes antisociales, noticias de última hora, noticias falsas. Este es el programa sobre una revolución en los medios.",
@@ -307,6 +34,300 @@
       "inicio": "2026-11-14T12:30:00",
       "fin": "2026-11-14T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-14T13:00:00",
+      "fin": "2026-11-14T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "The Big Cases • The Downfall of Russell Brand",
+      "descripcion": "The Downfall of Russell Brand | Las historias más interesantes de crímenes y casos judiciales en Reino Unido. Un repaso a la lucha por la justicia, a las investigaciones y a las historias de las personas afectadas por los delitos.",
+      "inicio": "2026-11-14T13:30:00",
+      "fin": "2026-11-14T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thebigcases.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-14T14:00:00",
+      "fin": "2026-11-14T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-14T15:00:00",
+      "fin": "2026-11-14T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "Political Thinking with Nick Robinson • Anita Anand",
+      "descripcion": "Anita Anand | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-14T15:30:00",
+      "fin": "2026-11-14T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-14T16:00:00",
+      "fin": "2026-11-14T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "The Travel Show",
+      "descripcion": "El equipo explora varios destinos alrededor del planeta y descubren el lado escondido de algunos de los sitios más populares del mundo.",
+      "inicio": "2026-11-14T16:30:00",
+      "fin": "2026-11-14T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thetravelshow.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-14T17:00:00",
+      "fin": "2026-11-14T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "AI Decoded",
+      "descripcion": "Un estudio en profundidad del desarrollo de la inteligencia artificial.",
+      "inicio": "2026-11-14T17:30:00",
+      "fin": "2026-11-14T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aidecoded.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-14T18:00:00",
+      "fin": "2026-11-14T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-14T19:00:00",
+      "fin": "2026-11-14T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-14T20:00:00",
+      "fin": "2026-11-14T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "Talking Business",
+      "descripcion": "A medida que se extienden por las redes sociales tendencias que animan a los trabajadores a limitarse a lo estrictamente necesario, Aaron Heslehurst se pregunta por qué los empleados están desilusionados y qué pueden hacer los directivos al respecto.",
+      "inicio": "2026-11-14T20:30:00",
+      "fin": "2026-11-14T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/talkingbusiness.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-14T21:00:00",
+      "fin": "2026-11-14T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "Arts in Motion • Lina Ghotmeh",
+      "descripcion": "Lina Ghotmeh | Figuras renombradas transmiten sus conocimientos a la siguiente generación de artistas a través de una serie de clases magistrales centradas en diversas disciplinas de las artes escénicas, como la danza y la música.",
+      "inicio": "2026-11-14T21:30:00",
+      "fin": "2026-11-14T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-14T22:00:00",
+      "fin": "2026-11-14T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "Political Thinking with Nick Robinson • Anita Anand",
+      "descripcion": "Anita Anand | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-14T22:30:00",
+      "fin": "2026-11-14T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-14T23:00:00",
+      "fin": "2026-11-14T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "AI Decoded",
+      "descripcion": "Un estudio en profundidad del desarrollo de la inteligencia artificial.",
+      "inicio": "2026-11-14T23:30:00",
+      "fin": "2026-11-15T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aidecoded.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-15T00:00:00",
+      "fin": "2026-11-15T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "Global Eye • Angola: The Race for Critical Minerals",
+      "descripcion": "Angola: The Race for Critical Minerals | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-15T00:30:00",
+      "fin": "2026-11-15T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/globaleye.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-15T01:00:00",
+      "fin": "2026-11-15T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "Clive Myrie's African Adventure • Abeokuta",
+      "descripcion": "Abeokuta | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-15T01:30:00",
+      "fin": "2026-11-15T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clivemyriesafricanadventure.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-15T02:00:00",
+      "fin": "2026-11-15T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "Talking Business",
+      "descripcion": "A medida que se extienden por las redes sociales tendencias que animan a los trabajadores a limitarse a lo estrictamente necesario, Aaron Heslehurst se pregunta por qué los empleados están desilusionados y qué pueden hacer los directivos al respecto.",
+      "inicio": "2026-11-15T02:30:00",
+      "fin": "2026-11-15T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/talkingbusiness.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-15T03:00:00",
+      "fin": "2026-11-15T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "The Travel Show",
+      "descripcion": "El equipo explora varios destinos alrededor del planeta y descubren el lado escondido de algunos de los sitios más populares del mundo.",
+      "inicio": "2026-11-15T03:30:00",
+      "fin": "2026-11-15T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thetravelshow.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-15T04:00:00",
+      "fin": "2026-11-15T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "Arts in Motion • Lina Ghotmeh",
+      "descripcion": "Lina Ghotmeh | Figuras renombradas transmiten sus conocimientos a la siguiente generación de artistas a través de una serie de clases magistrales centradas en diversas disciplinas de las artes escénicas, como la danza y la música.",
+      "inicio": "2026-11-15T04:30:00",
+      "fin": "2026-11-15T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-15T05:00:00",
+      "fin": "2026-11-15T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "The Climate Question • How Do You Build a Climate Friendly City?",
+      "descripcion": "How Do You Build a Climate Friendly City? | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-15T05:30:00",
+      "fin": "2026-11-15T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-15T06:00:00",
+      "fin": "2026-11-15T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-15T07:00:00",
+      "fin": "2026-11-15T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "Focus on Africa: The Conversation",
+      "descripcion": "Dos de los talentos emergentes del modelaje de Sudán del Sur hablan sobre sus experiencias, ambiciones y trayectorias hasta la fecha.",
+      "inicio": "2026-11-15T07:30:00",
+      "fin": "2026-11-15T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/focusonafricatheconversation.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-15T08:00:00",
+      "fin": "2026-11-15T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "The President's Path",
+      "descripcion": "Caitríona, Courtney y Bernd hablan de la respuesta de Donald Trump al accidente aéreo de Washington D. C. También hablan de los aranceles, los planes de diversidad y las medidas de Trump contra la inmigración en Estados Unidos.",
+      "inicio": "2026-11-15T08:30:00",
+      "fin": "2026-11-15T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thepresidentspath.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-15T09:00:00",
+      "fin": "2026-11-15T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "The Travel Show",
+      "descripcion": "El equipo explora varios destinos alrededor del planeta y descubren el lado escondido de algunos de los sitios más populares del mundo.",
+      "inicio": "2026-11-15T09:30:00",
+      "fin": "2026-11-15T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thetravelshow.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-15T10:00:00",
+      "fin": "2026-11-15T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "Tech Now",
+      "descripcion": "Explora las últimas innovaciones y tecnologías que dan forma a nuestras vidas.",
+      "inicio": "2026-11-15T10:30:00",
+      "fin": "2026-11-15T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/technow.jpg"
+    },
+    {
+      "titulo": "BBC News",
+      "descripcion": "Las últimas noticias internacionales y nacionales al momento y las 24 horas del día.",
+      "inicio": "2026-11-15T11:00:00",
+      "fin": "2026-11-15T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bbcnews.jpg"
+    },
+    {
+      "titulo": "Clive Myrie's African Adventure • Abeokuta",
+      "descripcion": "Abeokuta | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-15T11:30:00",
+      "fin": "2026-11-15T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/clivemyriesafricanadventure.jpg"
     }
   ]
 }

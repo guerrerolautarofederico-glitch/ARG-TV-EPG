@@ -1,157 +1,115 @@
 {
   "actual": {
-    "titulo": "La mañana",
-    "descripcion": "Programa matinal de NTN24 que presenta las noticias más relevantes con las que amanece América Latina y el mundo.\n\nPresenta:\n\nAndrés Gil",
-    "inicio": "2026-11-13T10:00:00",
-    "fin": "2026-11-13T13:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamanana.jpg"
+    "titulo": "Argentina en vivo",
+    "descripcion": "Programa de información que trae los hechos más importantes de la actualidad argentina.",
+    "inicio": "2026-11-14T09:00:00",
+    "fin": "2026-11-14T13:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "De una",
-    "descripcion": "Con foco en la actualidad, las noticias más importantes de interés general, deportes y espectáculos.",
-    "inicio": "2026-11-13T13:00:00",
-    "fin": "2026-11-13T16:00:00",
+    "titulo": "C5N en tu barrio",
+    "descripcion": "Un programa que busca conocer más sobre los barrios, historias vecinales, los clubes locales y como vive la gente.",
+    "inicio": "2026-11-14T13:00:00",
+    "fin": "2026-11-14T17:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "La mañana",
-      "descripcion": "Programa matinal de NTN24 que presenta las noticias más relevantes con las que amanece América Latina y el mundo.\n\nPresenta:\n\nAndrés Gil",
-      "inicio": "2026-11-13T10:00:00",
-      "fin": "2026-11-13T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamanana.jpg"
-    },
-    {
-      "titulo": "De una",
-      "descripcion": "Con foco en la actualidad, las noticias más importantes de interés general, deportes y espectáculos.",
-      "inicio": "2026-11-13T13:00:00",
-      "fin": "2026-11-13T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Argenzuela",
-      "descripcion": "Un análisis de los temas más relevantes del panorama actual, con el sello característico de Jorge Rial.",
-      "inicio": "2026-11-13T16:00:00",
-      "fin": "2026-11-13T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El diario",
-      "descripcion": "Las últimas noticias nacionales e internacionales, con un variado equipo de columnistas.",
-      "inicio": "2026-11-13T18:00:00",
-      "fin": "2026-11-13T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eldiario.jpg"
-    },
-    {
-      "titulo": "La última pregunta",
-      "descripcion": "Se buscan respuestas a preguntas incómodas o difíciles.",
-      "inicio": "2026-11-13T20:00:00",
-      "fin": "2026-11-13T21:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Periodistas",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-13T21:15:00",
-      "fin": "2026-11-13T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/periodistas.jpg"
-    },
-    {
-      "titulo": "Inteligencia artesanal",
-      "descripcion": "Entrevistas, análisis político y una combinación de actualidad y contexto con textura humana y pensamiento crítico.",
-      "inicio": "2026-11-13T21:30:00",
-      "fin": "2026-11-13T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El expediente",
-      "descripcion": "Un programa que explora los casos judiciales y policiales más importantes.",
-      "inicio": "2026-11-13T23:00:00",
-      "fin": "2026-11-14T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Old Timer",
-      "descripcion": "Espacio con lo mejor de los autos y motos clásicos. Autos de todos los tiempos.",
-      "inicio": "2026-11-14T00:00:00",
-      "fin": "2026-11-14T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Show sobre ruedas",
-      "descripcion": "Programa sobre el mundo del automóvil con las últimas novedades.",
-      "inicio": "2026-11-14T01:00:00",
-      "fin": "2026-11-14T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hacete cargo",
-      "descripcion": "Una invitación para quedarse con todo aquello que parece insignificante, pero que no es menos importante para lo espiritual, para el alma y para vivir mejor sin perder las ganas.",
-      "inicio": "2026-11-14T01:30:00",
-      "fin": "2026-11-14T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Right Now",
-      "descripcion": "Entrevistas a distintos artistas, su backstage, segmentos de moda, gastronomía, fitness y espectáculo.",
-      "inicio": "2026-11-14T02:30:00",
-      "fin": "2026-11-14T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La noche",
-      "descripcion": "Un camino vertiginoso, infinito y único por todos los reveses nocturnos. Sexo, drogas y bebidas se alternan entre encuentro y encuentro, creando un continuado sin tapujos, frente a una cámara tan curiosa como audaz, que se atreve a recorrerlo todo.",
-      "inicio": "2026-11-14T03:00:00",
-      "fin": "2026-11-14T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lanoche.jpg"
-    },
-    {
-      "titulo": "Chicas pochocleras",
-      "descripcion": "Un ciclo que presenta desde entrevistas a actores consagrados hasta recomendaciones de cine y series.",
-      "inicio": "2026-11-14T03:30:00",
-      "fin": "2026-11-14T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El expediente",
-      "descripcion": "Un programa que explora los casos judiciales y policiales más importantes.",
-      "inicio": "2026-11-14T04:00:00",
-      "fin": "2026-11-14T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Right Now",
-      "descripcion": "Entrevistas a distintos artistas, su backstage, segmentos de moda, gastronomía, fitness y espectáculo.",
-      "inicio": "2026-11-14T05:00:00",
-      "fin": "2026-11-14T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dr. C",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-14T05:30:00",
-      "fin": "2026-11-14T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Especial de Lionel Messi",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-14T06:00:00",
-      "fin": "2026-11-14T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bien temprano",
-      "descripcion": "Magazine informativo con todo lo que tenes que saber para comenzar el día de la mejor manera",
-      "inicio": "2026-11-14T07:00:00",
-      "fin": "2026-11-14T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Argentina en vivo",
       "descripcion": "Programa de información que trae los hechos más importantes de la actualidad argentina.",
       "inicio": "2026-11-14T09:00:00",
       "fin": "2026-11-14T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "C5N en tu barrio",
+      "descripcion": "Un programa que busca conocer más sobre los barrios, historias vecinales, los clubes locales y como vive la gente.",
+      "inicio": "2026-11-14T13:00:00",
+      "fin": "2026-11-14T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La voz de la calle",
+      "descripcion": "El pódcast del programa más alternativo y gamberro de la radio, con las noticias más curiosas y la mejor música.",
+      "inicio": "2026-11-14T17:00:00",
+      "fin": "2026-11-14T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fuera de agenda",
+      "descripcion": "Un programa dedicado a retratar el pulso de la actualidad nacional argentina. De la mano de grandes invitados.",
+      "inicio": "2026-11-14T20:00:00",
+      "fin": "2026-11-14T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Televisión registrada",
+      "descripcion": "Resumen de lo ocurrido en la televisión argentina a través de informes con una gran dosis de humor y creatividad.",
+      "inicio": "2026-11-14T21:00:00",
+      "fin": "2026-11-14T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Right Now",
+      "descripcion": "Entrevistas a distintos artistas, su backstage, segmentos de moda, gastronomía, fitness y espectáculo.",
+      "inicio": "2026-11-14T23:00:00",
+      "fin": "2026-11-14T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "C5N a fondo",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-14T23:30:00",
+      "fin": "2026-11-15T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fuera de agenda",
+      "descripcion": "Un programa dedicado a retratar el pulso de la actualidad nacional argentina. De la mano de grandes invitados.",
+      "inicio": "2026-11-15T00:00:00",
+      "fin": "2026-11-15T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Televisión registrada",
+      "descripcion": "Resumen de lo ocurrido en la televisión argentina a través de informes con una gran dosis de humor y creatividad.",
+      "inicio": "2026-11-15T01:00:00",
+      "fin": "2026-11-15T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El expediente",
+      "descripcion": "Un programa que explora los casos judiciales y policiales más importantes.",
+      "inicio": "2026-11-15T03:00:00",
+      "fin": "2026-11-15T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fuera de agenda",
+      "descripcion": "Un programa dedicado a retratar el pulso de la actualidad nacional argentina. De la mano de grandes invitados.",
+      "inicio": "2026-11-15T04:00:00",
+      "fin": "2026-11-15T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Televisión registrada",
+      "descripcion": "Resumen de lo ocurrido en la televisión argentina a través de informes con una gran dosis de humor y creatividad.",
+      "inicio": "2026-11-15T05:00:00",
+      "fin": "2026-11-15T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bien temprano",
+      "descripcion": "Magazine informativo con todo lo que tenes que saber para comenzar el día de la mejor manera",
+      "inicio": "2026-11-15T07:00:00",
+      "fin": "2026-11-15T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Argentina en vivo",
+      "descripcion": "Programa de información que trae los hechos más importantes de la actualidad argentina.",
+      "inicio": "2026-11-15T09:00:00",
+      "fin": "2026-11-15T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

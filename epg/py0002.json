@@ -1,115 +1,122 @@
 {
   "actual": {
-    "titulo": "Meridiano informativo",
-    "descripcion": "Noticiero ideado para ser visto en medio de las actividades cotidianas con un perfil de magazine. El televidente también podrá conocer algo de misceláneas y noticias insólitas que se registran en el país y el mundo.",
-    "inicio": "2026-11-13T11:30:00",
-    "fin": "2026-11-13T13:30:00",
+    "titulo": "Arriba el finde",
+    "descripcion": "El momento más esperado de la semana es el finde y ahora en Telefuturo vamos a vivirlo bien arriba.",
+    "inicio": "2026-11-14T11:00:00",
+    "fin": "2026-11-14T13:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Todo por mi familia",
-    "descripcion": "La serie sigue la historia a cuatro hermanos - Kadir, Ömer, Asiye y Emel - quienes, después de la muerte de su padre y su madre, deberán seguir adelante con sus vidas y enfrentarse a sus problemas.",
-    "inicio": "2026-11-13T13:30:00",
-    "fin": "2026-11-13T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Dragon Ball Daima",
+    "descripcion": "Goku, Vegeta, Bulma y el resto se convierten en niños, y Goten y Trunks vuelven a ser bebés. Parece que un deseo de Shenron provocó que se produjera el cambio, y dependerá de Goku y sus amigos luchar contra las nuevas amenazas que aparezcan.",
+    "inicio": "2026-11-14T13:30:00",
+    "fin": "2026-11-14T14:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dragonballdaima.jpg"
   },
   "lista": [
-    {
-      "titulo": "Meridiano informativo",
-      "descripcion": "Noticiero ideado para ser visto en medio de las actividades cotidianas con un perfil de magazine. El televidente también podrá conocer algo de misceláneas y noticias insólitas que se registran en el país y el mundo.",
-      "inicio": "2026-11-13T11:30:00",
-      "fin": "2026-11-13T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Todo por mi familia",
-      "descripcion": "La serie sigue la historia a cuatro hermanos - Kadir, Ömer, Asiye y Emel - quienes, después de la muerte de su padre y su madre, deberán seguir adelante con sus vidas y enfrentarse a sus problemas.",
-      "inicio": "2026-11-13T13:30:00",
-      "fin": "2026-11-13T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Vive la tarde",
-      "descripcion": "Programa ideado para brindar el mejor entretenimiento a tus tardes. Tendencias a nivel nacional y mundial, deportes, humor, cocina y toda la info sobre tu programación favorita.",
-      "inicio": "2026-11-13T15:00:00",
-      "fin": "2026-11-13T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Leylifer",
-      "descripcion": "Meryem, una joven colombiana que vive en España y viaja a Estambul para una boda familiar, pero su vida da un vuelco trágico cuando su esposo turco desaparece y es hallado muerto.",
-      "inicio": "2026-11-13T16:30:00",
-      "fin": "2026-11-13T17:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/leylifer.jpg"
-    },
-    {
-      "titulo": "Calle 7",
-      "descripcion": "Programa de juegos en el que dos equipos se enfrentarán en una serie de divertidos y complejos desafíos.",
-      "inicio": "2026-11-13T17:35:00",
-      "fin": "2026-11-13T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/calle7.jpg"
-    },
-    {
-      "titulo": "Telediario",
-      "descripcion": "Telediario es el programa informativo de referencia de Televisión Española. Con tres ediciones diarias entre semana y cuatro ediciones en el fin de semana, informa de las noticias más relevantes en los ámbitos nacional, internacional, social, deportivo y meteorológico.",
-      "inicio": "2026-11-13T19:00:00",
-      "fin": "2026-11-13T20:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario.jpg"
-    },
-    {
-      "titulo": "Vale todo",
-      "descripcion": "Una serie que sigue el conflicto entre Raquel, una madre de valores firmes, y su hija María de Fátima, fría y ambiciosa. La jóven está dispuesta a traicionar a su familia y vender su hogar para conseguir fama y lujos en Río de Janeiro.",
-      "inicio": "2026-11-13T20:45:00",
-      "fin": "2026-11-13T21:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/valetodo.jpg"
-    },
-    {
-      "titulo": "El debate del show",
-      "descripcion": "Analizamos juntos los conflictos del programa más importante de la televisión paraguaya ¡Te esperamos para debatir con Alvaro Mora y un panel de expertos en el show!",
-      "inicio": "2026-11-13T21:45:00",
-      "fin": "2026-11-13T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Bajo presión",
-      "descripcion": "Un equipo de médicos trabaja en un hospital de Río de Janeiro en el que faltan todo tipo de recursos. Allí deberán enfrentarse a numerosas dificultades para lidiar con las conmovedoras historias de sus pacientes.",
-      "inicio": "2026-11-13T23:00:00",
-      "fin": "2026-11-14T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cierre de transmisiones",
-      "descripcion": "Fin de emisión diaria del canal.",
-      "inicio": "2026-11-14T00:00:00",
-      "fin": "2026-11-14T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
-    },
-    {
-      "titulo": "Cierre de transmisiones",
-      "descripcion": "Fin de emisión diaria del canal.",
-      "inicio": "2026-11-14T00:00:00",
-      "fin": "2026-11-14T05:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
-    },
-    {
-      "titulo": "Musical de Tereré Jeré",
-      "descripcion": "Un programa que brinda un recopilado de las mejores presentaciones que ha vivido en los diferentes programas de Tereré Jere, en un formato lleno de música y talento nacional. Tus sábados inician con mucha alegría y la mejor música.",
-      "inicio": "2026-11-14T05:20:00",
-      "fin": "2026-11-14T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La lupa",
-      "descripcion": "Este conocido espacio de corte periodístico y dinámico, pone bajo la lupa temas que de una u otra manera afectan a nuestra sociedad. Informaciones, debates y temas actuales de índole nacional e internacional.",
-      "inicio": "2026-11-14T06:00:00",
-      "fin": "2026-11-14T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Arriba el finde",
       "descripcion": "El momento más esperado de la semana es el finde y ahora en Telefuturo vamos a vivirlo bien arriba.",
       "inicio": "2026-11-14T11:00:00",
       "fin": "2026-11-14T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dragon Ball Daima",
+      "descripcion": "Goku, Vegeta, Bulma y el resto se convierten en niños, y Goten y Trunks vuelven a ser bebés. Parece que un deseo de Shenron provocó que se produjera el cambio, y dependerá de Goku y sus amigos luchar contra las nuevas amenazas que aparezcan.",
+      "inicio": "2026-11-14T13:30:00",
+      "fin": "2026-11-14T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dragonballdaima.jpg"
+    },
+    {
+      "titulo": "Dragon Ball Z: El más fuerte del mundo",
+      "descripcion": "Hace cincuenta años, el doctor Willow intentó dominar el mundo valiéndose de sus grandes conocimientos en el campo de la biotecnología. Ahora despierta del letargo en el que estaba sumido y busca vengarse del hombre que le venció entonces.",
+      "inicio": "2026-11-14T14:30:00",
+      "fin": "2026-11-14T15:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La familia de mi novia",
+      "descripcion": "Greg Focker es un enfermero que, tras anunciar su compromiso con su novia Pam, tiene que pasar unos días con los padres de ella para conocerlos. Greg intenta mostrar sus buenas intenciones, pero Jim, su suegro y un ex agente de la CIA, se encargará de convertirse en la peor pesadilla de este hombre.",
+      "inicio": "2026-11-14T15:40:00",
+      "fin": "2026-11-14T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Escuela para fracasados",
+      "descripcion": "Un grupo de alborotadores y abusones son obligados a quedarse en el colegio por las noches para así conseguir aprobar los exámenes que les permitan finalizar sus estudios de bachillerato.",
+      "inicio": "2026-11-14T17:45:00",
+      "fin": "2026-11-14T19:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telediario",
+      "descripcion": "Telediario es el programa informativo de referencia de Televisión Española. Con tres ediciones diarias entre semana y cuatro ediciones en el fin de semana, informa de las noticias más relevantes en los ámbitos nacional, internacional, social, deportivo y meteorológico.",
+      "inicio": "2026-11-14T19:50:00",
+      "fin": "2026-11-14T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario.jpg"
+    },
+    {
+      "titulo": "El conejo",
+      "descripcion": "En medio de la crisis de Dany, una joven que se siente frustrada e insegura, aparece el Conejo, que la hostiga utilizando sus inseguridades y temores. Ella deberá enfrentarlo para reconocer aquello que la está paralizando en esta etapa de su vida.",
+      "inicio": "2026-11-14T21:00:00",
+      "fin": "2026-11-14T23:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elconejo.jpg"
+    },
+    {
+      "titulo": "New Amsterdam",
+      "descripcion": "Inspirado por Bellevue, el hospital público más antiguo de Estados Unidos, este drama médico único sigue al brillante y encantador Dr. Max Goodwin, el director médico más nuevo de la institución, que se propone romper la burocracia y brindar una atención excepcional.",
+      "inicio": "2026-11-14T23:45:00",
+      "fin": "2026-11-15T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newamsterdam.jpg"
+    },
+    {
+      "titulo": "Cierre de transmisiones",
+      "descripcion": "Fin de emisión diaria del canal.",
+      "inicio": "2026-11-15T00:00:00",
+      "fin": "2026-11-15T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
+    },
+    {
+      "titulo": "Cierre de transmisiones",
+      "descripcion": "Fin de emisión diaria del canal.",
+      "inicio": "2026-11-15T00:00:00",
+      "fin": "2026-11-15T05:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
+    },
+    {
+      "titulo": "Esto dice la Iglesia",
+      "descripcion": "Segmento para reflexionar y debatir sobre distintos aspectos que atañen a nuestra fe católica, con un análisis de sus principales enseñanzas.",
+      "inicio": "2026-11-15T05:20:00",
+      "fin": "2026-11-15T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mba'éichapa",
+      "descripcion": "Acompaña semanalmente a Bicho Riveros en un recorrido por los sitios más hermosos y emblemáticos de Paraguay. Atrévete a vivir la aventura y lo mejor de todo, desde la comodidad de tu hogar.",
+      "inicio": "2026-11-15T06:00:00",
+      "fin": "2026-11-15T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Misa de Caacupé",
+      "descripcion": "Transmisión en directo de la Misa de Caacupé, la cual tiene como centro de concentración la capital central de Paraguay. Muchos son los feligreses que se reúnen para honrar a la adoradaVirgen de Caacupé.",
+      "inicio": "2026-11-15T07:00:00",
+      "fin": "2026-11-15T08:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La lupa",
+      "descripcion": "Este conocido espacio de corte periodístico y dinámico, pone bajo la lupa temas que de una u otra manera afectan a nuestra sociedad. Informaciones, debates y temas actuales de índole nacional e internacional.",
+      "inicio": "2026-11-15T08:15:00",
+      "fin": "2026-11-15T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Arriba el finde",
+      "descripcion": "El momento más esperado de la semana es el finde y ahora en Telefuturo vamos a vivirlo bien arriba.",
+      "inicio": "2026-11-15T11:00:00",
+      "fin": "2026-11-15T12:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
