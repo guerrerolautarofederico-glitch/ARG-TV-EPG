@@ -1,199 +1,185 @@
 {
   "actual": {
-    "titulo": "Baserri Gourmet • Ithurria - Arcos de Quejana",
-    "descripcion": "Ithurria - Arcos de Quejana | El cocinero Julius Bienert realiza un viaje gastronómico y sentimental a través de Euskadi para dar a conocer la historia y el patrimonio arquitectónico y paisajístico de antiguos caseríos que han sido reconvertidos en restaurantes.",
-    "inicio": "2026-11-15T12:20:00",
-    "fin": "2026-11-15T13:20:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Directo al grano",
+    "descripcion": "Programa de opinión que aborda de manera directa los acontecimientos más relevantes de la actualidad nacional.",
+    "inicio": "2026-11-16T11:50:00",
+    "fin": "2026-11-16T13:55:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/directoalgrano.jpg"
   },
   "siguiente": {
-    "titulo": "Pipper en ruta • Ribeira Sacra",
-    "descripcion": "Ribeira Sacra | Pipper, el perro 'influencer', viaja a la Ribeira Sacra junto a Pablo con un reto: navegar por el Miño o el Sil.",
-    "inicio": "2026-11-15T13:20:00",
-    "fin": "2026-11-15T13:50:00",
+    "titulo": "Senderos con Juan y Migas • ¿Dónde estás, Balbina?",
+    "descripcion": "¿Dónde estás, Balbina? | Después de recorrer un tramo del Camino Natural de Románico Palentino, Juan y Migas queman kilómetros en la Montaña Palentina y alucinan con Riaño, ya en la provincia de León.",
+    "inicio": "2026-11-16T13:55:00",
+    "fin": "2026-11-16T14:50:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Baserri Gourmet • Ithurria - Arcos de Quejana",
-      "descripcion": "Ithurria - Arcos de Quejana | El cocinero Julius Bienert realiza un viaje gastronómico y sentimental a través de Euskadi para dar a conocer la historia y el patrimonio arquitectónico y paisajístico de antiguos caseríos que han sido reconvertidos en restaurantes.",
-      "inicio": "2026-11-15T12:20:00",
-      "fin": "2026-11-15T13:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pipper en ruta • Ribeira Sacra",
-      "descripcion": "Ribeira Sacra | Pipper, el perro 'influencer', viaja a la Ribeira Sacra junto a Pablo con un reto: navegar por el Miño o el Sil.",
-      "inicio": "2026-11-15T13:20:00",
-      "fin": "2026-11-15T13:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Flash moda • Four seasons",
-      "descripcion": "Four seasons | Nieves Álvarez presenta este espacio que tiene como objetivo dar a conocer el mundo de la moda.",
-      "inicio": "2026-11-15T13:50:00",
-      "fin": "2026-11-15T14:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "D corazón",
-      "descripcion": "Magazine en directo, en donde hacemos un repaso a toda la actualidad social de nuestro país.",
-      "inicio": "2026-11-15T14:20:00",
-      "fin": "2026-11-15T16:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dcorazon.jpg"
-    },
-    {
-      "titulo": "Saber y ganar - Fin de semana",
-      "descripcion": "Concursos que pone a prueba los conocimientos y agilidad mental de los concursantes a través de un auténtico bombardeo de preguntas de ámbito general.",
-      "inicio": "2026-11-15T16:10:00",
-      "fin": "2026-11-15T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/saberyganarfindesemana.jpg"
-    },
-    {
-      "titulo": "Noticias 24h",
-      "descripcion": "Noticias de los servicios informativos que está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.",
-      "inicio": "2026-11-15T17:00:00",
-      "fin": "2026-11-15T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias24h.jpg"
-    },
-    {
-      "titulo": "La vuelta al mundo en 80 likes • Lisboa",
-      "descripcion": "Lisboa | Lisboa es el nuevo destino del programa, donde la periodista Eva Rojas y el creador de contenido Carlo Cuñado descubren los rincones más virales de la ciudad portuguesa.",
-      "inicio": "2026-11-15T17:30:00",
-      "fin": "2026-11-15T18:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cine de barrio • Vaya par de gemelos",
-      "descripcion": "Vaya par de gemelos | Desde el Festival de Cine de San Sebastián, Concha Velasco entrevista a Jordi Mollá y Karra Elejalde, que nos hablan de su película \"Operación Concha\". Y presentan la película que emitimos en Cine de Barrio \"Vaya par de gemelos\".",
-      "inicio": "2026-11-15T18:20:00",
-      "fin": "2026-11-15T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cinedebarrio.jpg"
-    },
-    {
-      "titulo": "Viaje al centro de la tele",
-      "descripcion": "Las caras más frescas y sorprendentes de algunas de las mejores imágenes que Televisión Española ha mostrado en las últimas décadas.",
-      "inicio": "2026-11-15T20:00:00",
-      "fin": "2026-11-15T20:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/viajealcentrodelatele.jpg"
-    },
-    {
-      "titulo": "Cosas nuestras",
-      "descripcion": "Magacín de actualidad y entretenimiento dedicado a todo lo que nos une. Información en directo, participación ciudadana, meteorología, música, costumbres, las historias de nuestra gente y mucho más.",
-      "inicio": "2026-11-15T20:40:00",
-      "fin": "2026-11-15T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cosasnuestras.jpg"
-    },
-    {
-      "titulo": "TD Internacional 24 Horas",
-      "descripcion": "Informativo que prioriza las noticias internacionales sobre las nacionales, asumiendo su edición y realización. El programa tiene autonomía propia y los contenidos son elaborados por periodistas especializados en información internacional.",
-      "inicio": "2026-11-15T22:00:00",
-      "fin": "2026-11-15T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tdinternacional24horas.jpg"
-    },
-    {
-      "titulo": "La suerte en tus manos",
-      "descripcion": "Se hace un análisis de los juegos de loterías y apuestas del Estado, y se retransmite el sorteo de Bonoloto y de Euromillones del viernes.",
-      "inicio": "2026-11-15T22:30:00",
-      "fin": "2026-11-15T22:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lasuerteentusmanos.jpg"
-    },
-    {
-      "titulo": "Imprescindibles • Equipo Cronica",
-      "descripcion": "Equipo Cronica | Serie de documentales que se enfoca en diversos personajes destacados de la cultura española del siglo XX.",
-      "inicio": "2026-11-15T22:35:00",
-      "fin": "2026-11-15T23:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/imprescindibles.jpg"
-    },
-    {
-      "titulo": "Al cielo con ella",
-      "descripcion": "La cómica y escritora Henar Álvarez presenta desde su trono un programa de entrevistas gamberras y reivindicativas en el que se escuchan voces de mujeres que tienen mucho que contar. Manny Calavera es la banda de música encargada de poner ritmo.",
-      "inicio": "2026-11-15T23:35:00",
-      "fin": "2026-11-16T00:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alcieloconella.jpg"
-    },
-    {
-      "titulo": "Cachitos de hierro y cromo • 70 Años no son nada",
-      "descripcion": "Estreno ║ 70 Años no son nada | El programa arranca su 15.ª temporada con un capítulo que repasa las siete décadas de RTVE desde el blanco y negro hasta el HD, atravesando platós imposibles, realizaciones inolvidables y actuaciones que forman parte de la memoria colectiva.",
-      "inicio": "2026-11-16T00:55:00",
-      "fin": "2026-11-16T01:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cachitosdehierroycromo.jpg"
-    },
-    {
-      "titulo": "Plano general",
-      "descripcion": "Jenaro Castro muestra el lado humano de personajes relevantes de todos los ámbitos. Un viaje introspectivo con voluntad de homenajear la trayectoria de los distintos invitados que, además, eligen su música preferida y el lugar de la entrevista.",
-      "inicio": "2026-11-16T01:25:00",
-      "fin": "2026-11-16T02:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planogeneral.jpg"
-    },
-    {
-      "titulo": "Plano general • Luisa Martín",
-      "descripcion": "Luisa Martín | Jenaro Castro recibe a Luisa Martín, una de las actrices de cine, teatro y televisión más queridas para el público español.",
-      "inicio": "2026-11-16T02:10:00",
-      "fin": "2026-11-16T02:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/planogeneral.jpg"
-    },
-    {
-      "titulo": "En portada • Litio: ¿Energía limpia?",
-      "descripcion": "Litio: ¿Energía limpia? | Los expertos analizan cuáles son los usos del litio, un mineral estratégico indispensable para almacenar energía. Además, señalan las consecuencias de su extracción en el altiplano e indagan el coste menos visible de la transición energética.",
-      "inicio": "2026-11-16T02:40:00",
-      "fin": "2026-11-16T03:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enportada.jpg"
-    },
-    {
-      "titulo": "Making of \"Leones en invierno\"",
-      "descripcion": "Detrás de escenas del rodaje del largometraje \"Leones en invierno\", dirigido por Albert Pinto.",
-      "inicio": "2026-11-16T03:20:00",
-      "fin": "2026-11-16T03:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La hora de la 1",
-      "descripcion": "Programa con información sobre temas variados ligados a la actualidad, desde política hasta sociedad.",
-      "inicio": "2026-11-16T03:50:00",
-      "fin": "2026-11-16T06:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahoradela1.jpg"
-    },
-    {
-      "titulo": "Mañaneros 360",
-      "descripcion": "Analizamos los temas de actualidad y entretenimiento, sin dejar de lado la actualidad política con expertos y analistas. Además, un amplio equipo de profesionales se despliega por toda España y el mundo para informar sobre los temas de interés.",
-      "inicio": "2026-11-16T06:35:00",
-      "fin": "2026-11-16T10:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Telediario 1",
-      "descripcion": "Espacio informativo que presenta las noticias más relevantes en los ámbitos nacional, internacional, social, deportivo y meteorológico. La primera edición repasa la actualidad de la jornada de lunes a viernes aportando análisis y contexto.",
-      "inicio": "2026-11-16T10:55:00",
-      "fin": "2026-11-16T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario1.jpg"
-    },
-    {
-      "titulo": "Deportes 1",
-      "descripcion": "Programa informativo que recoge toda la actualidad deportiva del momento.",
-      "inicio": "2026-11-16T11:30:00",
-      "fin": "2026-11-16T11:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportes1.jpg"
-    },
-    {
-      "titulo": "El tiempo",
-      "descripcion": "Presentación de la información sobre el pronóstico meteorológico de todas las provincias a nivel nacional.",
-      "inicio": "2026-11-16T11:35:00",
-      "fin": "2026-11-16T11:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
-    },
-    {
-      "titulo": "Aquí la Tierra",
-      "descripcion": "Una mirada sobre cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.",
-      "inicio": "2026-11-16T11:40:00",
-      "fin": "2026-11-16T11:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquilatierra.jpg"
-    },
     {
       "titulo": "Directo al grano",
       "descripcion": "Programa de opinión que aborda de manera directa los acontecimientos más relevantes de la actualidad nacional.",
       "inicio": "2026-11-16T11:50:00",
       "fin": "2026-11-16T13:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/directoalgrano.jpg"
+    },
+    {
+      "titulo": "Senderos con Juan y Migas • ¿Dónde estás, Balbina?",
+      "descripcion": "¿Dónde estás, Balbina? | Después de recorrer un tramo del Camino Natural de Románico Palentino, Juan y Migas queman kilómetros en la Montaña Palentina y alucinan con Riaño, ya en la provincia de León.",
+      "inicio": "2026-11-16T13:55:00",
+      "fin": "2026-11-16T14:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Saber y ganar",
+      "descripcion": "Concurso que pone a prueba los conocimientos y agilidad mental a través de un auténtico bombardeo de preguntas de ámbito general. Tres concursantes compiten en cada programa para continuar en el siguiente y ganar más dinero.",
+      "inicio": "2026-11-16T14:50:00",
+      "fin": "2026-11-16T15:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/saberyganar.jpg"
+    },
+    {
+      "titulo": "Esto es España",
+      "descripcion": "Un recorrido por la geografía española desde una perspectiva joven y moderna, con el foco puesto en la sostenibilidad, la diversidad y la oferta natural, cultural y social de la España del siglo XXI.",
+      "inicio": "2026-11-16T15:35:00",
+      "fin": "2026-11-16T15:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Malas lenguas",
+      "descripcion": "Los líderes de siete democracias mas ricas del mundo se pierden en un bosque, al tiempo que tratan de redactar una declaración sobre una crisis mundial, enfrentándose a peligros mientras intentan encontrar la salida.",
+      "inicio": "2026-11-16T15:40:00",
+      "fin": "2026-11-16T16:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/malaslenguas.jpg"
+    },
+    {
+      "titulo": "Aquí la Tierra",
+      "descripcion": "Una mirada sobre cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.",
+      "inicio": "2026-11-16T16:25:00",
+      "fin": "2026-11-16T16:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquilatierra.jpg"
+    },
+    {
+      "titulo": "Telediario 2",
+      "descripcion": "Programa informativo cuyo objetivo es resumir las noticias nacionales e internacionales más relevantes de la jornada. Tras un sumario en el que se recopilan los temas que se van a tratar, se suceden las piezas informativas agrupadas por temáticas.",
+      "inicio": "2026-11-16T16:55:00",
+      "fin": "2026-11-16T17:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario2.jpg"
+    },
+    {
+      "titulo": "Deportes 2",
+      "descripcion": "Programa informativo que recoge toda la actualidad deportiva del momento con entrevistas y debates sobre los protagonistas de las próximas jornadas.",
+      "inicio": "2026-11-16T17:50:00",
+      "fin": "2026-11-16T17:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cifras y letras",
+      "descripcion": "Concurso cuyas pruebas deben superarse gracias al conocimiento y habilidades con las cifras y las letras. Los concursantes luchan por conseguir el título del programa, lo cual les da derecho a ir a la ronda final para tratar de ganar el bote.",
+      "inicio": "2026-11-16T17:55:00",
+      "fin": "2026-11-16T18:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Valle Salvaje",
+      "descripcion": "T4 E524 | 1763. La vida de Adriana, una mujer valiente y leal a su familia, sufre un inesperado revés cuando recibe un duro golpe: su padre ha fallecido y, consecuencia de un pacto firmado en secreto, deberá viajar desde la Villa de Madrid hasta Valle Salvaje, en el norte de España, para desposar con un desconocido. Un oscuro secreto del pasado la persigue hasta el remoto valle, hogar de la familia de su prometido y de su complicada tía, doña Victoria. Allí su vida cambiará para siempre. Conocerá el verdadero amor, la traición, y el peligro cuando trate de descubrir la verdad sobre la muerte de su padre.",
+      "inicio": "2026-11-16T18:55:00",
+      "fin": "2026-11-16T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vallesalvaje.jpg"
+    },
+    {
+      "titulo": "La promesa",
+      "descripcion": "T5 E946 | Manuel intenta convencer a Julieta de que no deje el trabajo, pero Ciro interrumpe. Al volver, mira con pena su escritorio vacío y convence a Ciro de que la haga regresar. Pía y Curro leen las cartas de Leocadia y Cristóbal sin sacar nada en claro.",
+      "inicio": "2026-11-16T19:45:00",
+      "fin": "2026-11-16T20:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapromesa.jpg"
+    },
+    {
+      "titulo": "Sukha",
+      "descripcion": "Espacio diario para el conocimiento, la cultura y el bienestar con una mirada entretenida, con humor, nuevos formatos, conexiones en directo, tertulias y arte en vivo. Un lugar de encuentro para personas con curiosidad.",
+      "inicio": "2026-11-16T20:45:00",
+      "fin": "2026-11-16T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sukha.jpg"
+    },
+    {
+      "titulo": "Aquí la Tierra",
+      "descripcion": "Una mirada sobre cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.",
+      "inicio": "2026-11-16T21:30:00",
+      "fin": "2026-11-16T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquilatierra.jpg"
+    },
+    {
+      "titulo": "TD Internacional 24 Horas",
+      "descripcion": "Informativo que prioriza las noticias internacionales sobre las nacionales, asumiendo su edición y realización. El programa tiene autonomía propia y los contenidos son elaborados por periodistas especializados en información internacional.",
+      "inicio": "2026-11-16T22:00:00",
+      "fin": "2026-11-16T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tdinternacional24horas.jpg"
+    },
+    {
+      "titulo": "La revuelta",
+      "descripcion": "Un grupo de grandes cómicos y cómicas acompañan a David Broncano, que entrevista a gente famosa en un teatro del centro de Madrid para que al final el protagonista sea uno del público que se sentó en la tercera fila.",
+      "inicio": "2026-11-16T22:30:00",
+      "fin": "2026-11-16T23:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larevuelta.jpg"
+    },
+    {
+      "titulo": "Masterchef Celebrity",
+      "descripcion": "MasterChef es un espacio de superación personal y esfuerzo donde algunos personajes famosos del ámbito nacional descubrirán en qué consiste la cocina profesional. En juego: 75.000 euros para destinar a una ONG.",
+      "inicio": "2026-11-16T23:45:00",
+      "fin": "2026-11-17T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/masterchefcelebrity.jpg"
+    },
+    {
+      "titulo": "De tapas por España • Murcia: ciudad de la seda e Ilustración",
+      "descripcion": "Murcia: ciudad de la seda e Ilustración | Murcia nos recibe para mostrarnos sus encantos como: la catedral, el museo dedicado a la obra de Salzillo o el Real Casino del siglo XIX, el edificio más visitado de la región.",
+      "inicio": "2026-11-17T03:00:00",
+      "fin": "2026-11-17T03:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/detapasporespana.jpg"
+    },
+    {
+      "titulo": "La hora de la 1",
+      "descripcion": "Programa con información sobre temas variados ligados a la actualidad, desde política hasta sociedad.",
+      "inicio": "2026-11-17T03:50:00",
+      "fin": "2026-11-17T06:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lahoradela1.jpg"
+    },
+    {
+      "titulo": "Mañaneros 360",
+      "descripcion": "Analizamos los temas de actualidad y entretenimiento, sin dejar de lado la actualidad política con expertos y analistas. Además, un amplio equipo de profesionales se despliega por toda España y el mundo para informar sobre los temas de interés.",
+      "inicio": "2026-11-17T06:35:00",
+      "fin": "2026-11-17T10:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telediario 1",
+      "descripcion": "Espacio informativo que presenta las noticias más relevantes en los ámbitos nacional, internacional, social, deportivo y meteorológico. La primera edición repasa la actualidad de la jornada de lunes a viernes aportando análisis y contexto.",
+      "inicio": "2026-11-17T10:55:00",
+      "fin": "2026-11-17T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario1.jpg"
+    },
+    {
+      "titulo": "Deportes 1",
+      "descripcion": "Programa informativo que recoge toda la actualidad deportiva del momento.",
+      "inicio": "2026-11-17T11:30:00",
+      "fin": "2026-11-17T11:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deportes1.jpg"
+    },
+    {
+      "titulo": "El tiempo",
+      "descripcion": "Presentación de la información sobre el pronóstico meteorológico de todas las provincias a nivel nacional.",
+      "inicio": "2026-11-17T11:35:00",
+      "fin": "2026-11-17T11:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eltiempo.jpg"
+    },
+    {
+      "titulo": "Aquí la Tierra",
+      "descripcion": "Una mirada sobre cómo la salud, la arquitectura, la conducta, incluso el arte o la economía, pueden estar condicionados por la meteorología.",
+      "inicio": "2026-11-17T11:40:00",
+      "fin": "2026-11-17T11:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquilatierra.jpg"
+    },
+    {
+      "titulo": "Directo al grano",
+      "descripcion": "Programa de opinión que aborda de manera directa los acontecimientos más relevantes de la actualidad nacional.",
+      "inicio": "2026-11-17T11:50:00",
+      "fin": "2026-11-17T13:50:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/directoalgrano.jpg"
     }
   ]

@@ -1,116 +1,102 @@
 {
   "actual": {
-    "titulo": "Comisión de agricultura",
+    "titulo": "Comisión de hacienda",
     "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-11-15T12:00:00",
-    "fin": "2026-11-15T14:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisiondeagricultura.jpg"
+    "inicio": "2026-11-16T11:00:00",
+    "fin": "2026-11-16T13:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisiondehacienda.jpg"
   },
   "siguiente": {
-    "titulo": "Mentes brillantes",
-    "descripcion": "Serie documental, de carácter humano-histórico científico, que nos cuenta de manera entretenida la historia de la ciencia chilena de los últimos 50 años, a través de sus protagonistas principales: los Premios Nacionales de Ciencias.",
-    "inicio": "2026-11-15T14:30:00",
-    "fin": "2026-11-15T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mentesbrillantes.jpg"
+    "titulo": "Comisión investigadora concesión autopistas y tag",
+    "descripcion": "La información de este programa no se encuentra disponible.",
+    "inicio": "2026-11-16T13:30:00",
+    "fin": "2026-11-16T14:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisioninvestigadoraconcesionautopistasytag.jpg"
   },
   "lista": [
-    {
-      "titulo": "Comisión de agricultura",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-15T12:00:00",
-      "fin": "2026-11-15T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisiondeagricultura.jpg"
-    },
-    {
-      "titulo": "Mentes brillantes",
-      "descripcion": "Serie documental, de carácter humano-histórico científico, que nos cuenta de manera entretenida la historia de la ciencia chilena de los últimos 50 años, a través de sus protagonistas principales: los Premios Nacionales de Ciencias.",
-      "inicio": "2026-11-15T14:30:00",
-      "fin": "2026-11-15T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mentesbrillantes.jpg"
-    },
-    {
-      "titulo": "Comisión de gobierno interior",
-      "descripcion": "Información legislativa a la ciudadanía de las disposiciones efectuadas por los representantes políticos designados por el pueblo chileno.",
-      "inicio": "2026-11-15T15:00:00",
-      "fin": "2026-11-15T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisiondegobiernointerior.jpg"
-    },
-    {
-      "titulo": "Innovación y territorio",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-15T17:00:00",
-      "fin": "2026-11-15T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/innovacionyterritorio.jpg"
-    },
-    {
-      "titulo": "Comisión de deportes",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-15T17:30:00",
-      "fin": "2026-11-15T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisiondedeportes.jpg"
-    },
-    {
-      "titulo": "Noticiero UESTV",
-      "descripcion": "Charlas con investigadores, escritores y académicos sobre temas de interés para la sociedad de Latinoamérica.",
-      "inicio": "2026-11-15T20:00:00",
-      "fin": "2026-11-15T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticierouestv.jpg"
-    },
-    {
-      "titulo": "Puntos de vista",
-      "descripcion": "Segmento en el cual el periodista Guillermo Navarro conversa sobre actualidad y política, con diferentes parlamentarios chilenos, quienes exponen su opinión y apreciaciones sobre los acontecimientos tanto nacionales como internacionales.",
-      "inicio": "2026-11-15T21:00:00",
-      "fin": "2026-11-15T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puntosdevista.jpg"
-    },
-    {
-      "titulo": "Comisión de familia",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-15T21:30:00",
-      "fin": "2026-11-15T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisiondefamilia.jpg"
-    },
-    {
-      "titulo": "Teatro San Javier",
-      "descripcion": "Espacio para conocer más acerca de uno de los recintos más emblemáticos del municipio de San Javier.",
-      "inicio": "2026-11-15T23:30:00",
-      "fin": "2026-11-16T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teatrosanjavier.jpg"
-    },
-    {
-      "titulo": "Sign Off",
-      "descripcion": "Fin de emisión.",
-      "inicio": "2026-11-16T00:30:00",
-      "fin": "2026-11-16T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "CNTV infantil: Bloque niños",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes.",
-      "inicio": "2026-11-16T07:00:00",
-      "fin": "2026-11-16T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantilbloqueninos.jpg"
-    },
-    {
-      "titulo": "Vida en el arte",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-16T09:00:00",
-      "fin": "2026-11-16T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vidaenelarte.jpg"
-    },
-    {
-      "titulo": "Resumen informativo en lengua de señas",
-      "descripcion": "Se presentan las informaciones más recientes referidas a los principales ámbitos de la sociedad, realizando un recorrido por aquellos hechos que mayor impacto han generado. Todo articulado en el lenguaje universal de señas.",
-      "inicio": "2026-11-16T10:00:00",
-      "fin": "2026-11-16T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/resumeninformativoenlenguadesenas.jpg"
-    },
     {
       "titulo": "Comisión de hacienda",
       "descripcion": "La información de este programa no se encuentra disponible.",
       "inicio": "2026-11-16T11:00:00",
       "fin": "2026-11-16T13:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisiondehacienda.jpg"
+    },
+    {
+      "titulo": "Comisión investigadora concesión autopistas y tag",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-16T13:30:00",
+      "fin": "2026-11-16T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisioninvestigadoraconcesionautopistasytag.jpg"
+    },
+    {
+      "titulo": "Antesala",
+      "descripcion": "Alfredo descubrirá, de la peor manera, que todas las acciones que realizamos en este mundo tienen consecuencias y que nadie se escapa de la cosecha de lo sembrado.",
+      "inicio": "2026-11-16T14:30:00",
+      "fin": "2026-11-16T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/antesala.jpg"
+    },
+    {
+      "titulo": "Sesión de sala",
+      "descripcion": "Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.",
+      "inicio": "2026-11-16T15:00:00",
+      "fin": "2026-11-16T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondesala.jpg"
+    },
+    {
+      "titulo": "Comisión de seguridad ciudadana",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-16T17:30:00",
+      "fin": "2026-11-16T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisiondeseguridadciudadana.jpg"
+    },
+    {
+      "titulo": "Comisión Investigadora: Manipulación algorítmica",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-16T19:30:00",
+      "fin": "2026-11-16T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisioninvestigadoramanipulacionalgoritmica.jpg"
+    },
+    {
+      "titulo": "Noticiero UESTV",
+      "descripcion": "Charlas con investigadores, escritores y académicos sobre temas de interés para la sociedad de Latinoamérica.",
+      "inicio": "2026-11-16T21:30:00",
+      "fin": "2026-11-16T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticierouestv.jpg"
+    },
+    {
+      "titulo": "Comisión de ciencias",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-16T22:30:00",
+      "fin": "2026-11-17T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisiondeciencias.jpg"
+    },
+    {
+      "titulo": "Sign Off",
+      "descripcion": "Fin de emisión.",
+      "inicio": "2026-11-17T00:30:00",
+      "fin": "2026-11-17T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "CNTV infantil: Bloque niños",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes.",
+      "inicio": "2026-11-17T06:30:00",
+      "fin": "2026-11-17T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantilbloqueninos.jpg"
+    },
+    {
+      "titulo": "Comisión de hacienda",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-17T08:30:00",
+      "fin": "2026-11-17T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comisiondehacienda.jpg"
+    },
+    {
+      "titulo": "Sesión de sala",
+      "descripcion": "Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.",
+      "inicio": "2026-11-17T10:00:00",
+      "fin": "2026-11-17T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sesiondesala.jpg"
     }
   ]
 }

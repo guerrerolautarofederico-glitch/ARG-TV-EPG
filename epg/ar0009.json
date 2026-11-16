@@ -1,123 +1,158 @@
 {
   "actual": {
-    "titulo": "Liga de Honor Caballeros",
-    "descripcion": "Repetición ║ Disfruta los partidos de la Liga de Honor Caballeros, torneo argentino de clubes de Handball organizado y regulado por la Federación Metropolitana de Balonmano. Otorga a los mejores de dicha competencia desde 2005 el pasaje al Súper 4.",
-    "inicio": "2026-11-15T12:00:00",
-    "fin": "2026-11-15T14:00:00",
+    "titulo": "[En vivo] Recta principal",
+    "descripcion": "En vivo ║ Disfruta de la previa de las carreras más esperadas directamente desde los autódromos donde se realizan. Además, presentan opiniones y entrevistas de los corresponsales realizadas a los pilotos más destacados, haciendo de este espacio una plataforma informativa dedicada exclusivamente al mundo de las competencias del automovilismo.",
+    "inicio": "2026-11-16T13:00:00",
+    "fin": "2026-11-16T14:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "[En vivo] Karate - Torneo Nacional Clausura",
-    "descripcion": "En vivo ║ Desde las instalaciones del CeNARD, disfruta las emociones del Torneo Nacional Clausura de karate que define los puestos finales del ranking para conformar la Selección Argentina de Karate de 2027 en todas sus categorías.",
-    "inicio": "2026-11-15T14:00:00",
-    "fin": "2026-11-15T16:00:00",
+    "titulo": "Pilotos en primera • Edgardo 'Fido' Porfiri",
+    "descripcion": "Edgardo 'Fido' Porfiri | Una propuesta diferente para conocer a fondo la intimidad, historia, presente y futuro de cada uno de los referentes del automovilismo nacional.",
+    "inicio": "2026-11-16T14:00:00",
+    "fin": "2026-11-16T15:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Liga de Honor Caballeros",
-      "descripcion": "Repetición ║ Disfruta los partidos de la Liga de Honor Caballeros, torneo argentino de clubes de Handball organizado y regulado por la Federación Metropolitana de Balonmano. Otorga a los mejores de dicha competencia desde 2005 el pasaje al Súper 4.",
-      "inicio": "2026-11-15T12:00:00",
-      "fin": "2026-11-15T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] Karate - Torneo Nacional Clausura",
-      "descripcion": "En vivo ║ Desde las instalaciones del CeNARD, disfruta las emociones del Torneo Nacional Clausura de karate que define los puestos finales del ranking para conformar la Selección Argentina de Karate de 2027 en todas sus categorías.",
-      "inicio": "2026-11-15T14:00:00",
-      "fin": "2026-11-15T16:00:00",
+      "titulo": "[En vivo] Recta principal",
+      "descripcion": "En vivo ║ Disfruta de la previa de las carreras más esperadas directamente desde los autódromos donde se realizan. Además, presentan opiniones y entrevistas de los corresponsales realizadas a los pilotos más destacados, haciendo de este espacio una plataforma informativa dedicada exclusivamente al mundo de las competencias del automovilismo.",
+      "inicio": "2026-11-16T13:00:00",
+      "fin": "2026-11-16T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Pilotos en primera • Edgardo 'Fido' Porfiri",
       "descripcion": "Edgardo 'Fido' Porfiri | Una propuesta diferente para conocer a fondo la intimidad, historia, presente y futuro de cada uno de los referentes del automovilismo nacional.",
-      "inicio": "2026-11-15T16:00:00",
-      "fin": "2026-11-15T17:00:00",
+      "inicio": "2026-11-16T14:00:00",
+      "fin": "2026-11-16T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Cenard DeporTV",
+      "descripcion": "En vivo ║ La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-16T15:00:00",
+      "fin": "2026-11-16T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DeporTV Textual • Navarro Montoya",
+      "descripcion": "Navarro Montoya | Ceci Ruffa se sienta en el estudio a conversar junto a atletas sobre su carrera tanto deportiva como personal.",
+      "inicio": "2026-11-16T18:00:00",
+      "fin": "2026-11-16T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Despistados",
+      "descripcion": "En vivo ║ Un espacio para los apasionados del automovilismo en donde recibimos a invitados destacados.",
+      "inicio": "2026-11-16T19:00:00",
+      "fin": "2026-11-16T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/despistados.jpg"
+    },
+    {
+      "titulo": "Modo Básquet",
+      "descripcion": "La cobertura completa del básquet con el análisis de los partidos, las últimas noticias, entrevistas y todas las novedades sobre los jugadores nacionales e internacionales.",
+      "inicio": "2026-11-16T19:45:00",
+      "fin": "2026-11-16T20:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Básquet Liga Argentina • Provincial (Rosario) vs Quilmes (Mdp)",
+      "descripcion": "En vivo ║ Provincial (Rosario) vs Quilmes (Mdp) | Vive los partidos de la 43º edición de la Liga Nacional de Básquet, la máxima división nacional de básquet por clubes de Argentina. Disfruta de los enfrentamientos entre los equipos que participan y conoce a los talentos que se presentan en la competición.",
+      "inicio": "2026-11-16T20:55:00",
+      "fin": "2026-11-16T23:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "DeporTV Gamer",
       "descripcion": "Toda la actualidad del gaming en Argentina.",
-      "inicio": "2026-11-15T17:00:00",
-      "fin": "2026-11-15T17:30:00",
+      "inicio": "2026-11-16T23:00:00",
+      "fin": "2026-11-16T23:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "La selección fantasma",
-      "descripcion": "Cuenta una historia de fútbol, resistencia y espíritu deportivo; la que protagonizaron en 1973 futbolistas argentinos en Jujuy. Durante las eliminatorias de 1973, la selección argentina realizó un largo periodo de adaptación a la altura para luego enfrentar a su par de Bolivia en La Paz. El objetivo era clasificar al mundial de Alemania 74 y borrar la decepción de haber quedado afuera de México 70. Para lograrlo, el director técnico Miguel Ignomirielo utilizó un método novedoso para la época: formó un equipo alternativo con mayoría de juveniles, con los que estuvo 90 días entrenando, primero en la Quebrada de Humahuaca, para aclimatarse antes de viajar a Bolivia. En ese equipo estaban Mario Kempes, Ricardo Bochini, Aldo Pedro Poy, Rubén Hueso Glaría, Osvaldo Baby Cortés, Rubén Negro Galván, Marcelo Trobbiani y Ubaldo Pato Fillol, entre otros. Era un año convulsionado por la vuelta de Juan Domingo Perón a la Argentina y la AFA se olvidó de ellos en el norte argentino, por lo que Ignomirielo junto con su preparador físico Carlos Cancela, tuvieron que encontrar la forma de autofinanciar el viaje generando sus propios recursos. A los 88 años, retirado de la actividad pero no de su pasión por el fútbol, Ignomirielo, Cancela y algunos de sus jugadores, recuerdan esa hazaña, entre fotos y recortes periodísticos de la época y los encantadores paisajes norteños de Tilcara y Humahuaca.",
-      "inicio": "2026-11-15T17:30:00",
-      "fin": "2026-11-15T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El observatorio",
-      "descripcion": "Un gimnasio convertido en un laboratorio de pensamiento sobre el deporte. Martín Reich se sirve de dispositivos digitales y redes sociales para poner en crisis los grandes mitos del deporte nacional.",
-      "inicio": "2026-11-15T18:00:00",
-      "fin": "2026-11-15T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Contar la vida",
-      "descripcion": "En un set único, intimista y con una mesa repleta de libros, el escritor Eduardo Sacheri recibe cada semana a destacadas personalidades del deporte argentino. La excusa: leer juntos un cuento o el fragmento de un libro, y disparar, a través de la lectura, una conversación distendida, cálida, aprovechando las virtudes de Sacheri para bucear en la intimidad del personaje. Sacheri hace una introducción, lee con su interlocutor, y avanzan juntos en la charla con las preguntas sobre el cuento y la historia de cada figura del deporte en particular. Agustín Pichot, Noel Barrionuevo, Marcela 'Tigresa' Acuña, Facundo Imhoff, Cachito Vigil, Silvio Velo, Mariano Zabaleta y Macarena Sánchez entre otros personajes ligados al deporte de nuestro país, nos narran su vida en forma de cuento en trece capítulos de colección. Al final, y a manera de epílogo, construyen juntos una visión de pertenencia para con lo transitado.",
-      "inicio": "2026-11-15T18:30:00",
-      "fin": "2026-11-15T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pelotero del mundo",
-      "descripcion": "Un documental de investigación que se adentra en el mundo del fútbol infantojuvenil orientado a la exportación. Con una mirada detallada sobre el proceso formativo en diversos contextos, desde clubes de barrio hasta aquellos vinculados a equipos europeos y fondos de inversión.",
-      "inicio": "2026-11-15T19:00:00",
-      "fin": "2026-11-15T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Somos futbolistas",
-      "descripcion": "Una serie de micro documentales con notas entrañables a diferentes personalidades ligadas al deporte que más aman los argentinos.",
-      "inicio": "2026-11-15T20:00:00",
-      "fin": "2026-11-15T20:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] Liga Nacional femenina de básquet",
-      "descripcion": "En vivo ║ Vive toda la emoción de los partidos de básquet de la Liga Femeninda de Básquet de Argentina. El público podrá disfrutar de los enfrentamientos de los equipos que participan y conocer a los talentos que los conforman.",
-      "inicio": "2026-11-15T20:25:00",
-      "fin": "2026-11-15T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DeporTV Gamer",
-      "descripcion": "Toda la actualidad del gaming en Argentina.",
-      "inicio": "2026-11-15T22:30:00",
-      "fin": "2026-11-15T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pilotos en primera • Edgardo 'Fido' Porfiri",
-      "descripcion": "Edgardo 'Fido' Porfiri | Una propuesta diferente para conocer a fondo la intimidad, historia, presente y futuro de cada uno de los referentes del automovilismo nacional.",
-      "inicio": "2026-11-15T23:00:00",
-      "fin": "2026-11-16T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DeporTV",
-      "descripcion": "La información más completa del mundo de los deportes, con un enfoque analítico y polémico.",
-      "inicio": "2026-11-16T06:00:00",
-      "fin": "2026-11-16T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "DeporTV",
-      "descripcion": "La información más completa del mundo de los deportes, con un enfoque analítico y polémico.",
-      "inicio": "2026-11-16T12:00:00",
-      "fin": "2026-11-16T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Abriendo pista",
-      "descripcion": "Lo mejor del rally y el deporte de motor a lo largo y a lo ancho de la República Argentina. Además, perfiles de corredores de varias provincias del país, así como también una extensa cobertura del Campeonato Argentino de Navegación (CaNav).",
-      "inicio": "2026-11-16T12:30:00",
-      "fin": "2026-11-16T13:00:00",
+      "titulo": "Abriendo pista • Rally Sertoes 2026",
+      "descripcion": "Rally Sertoes 2026 | Lo mejor del rally y el deporte de motor a lo largo y a lo ancho de la República Argentina. Además, perfiles de corredores de varias provincias del país, así como también una extensa cobertura del Campeonato Argentino de Navegación (CaNav).",
+      "inicio": "2026-11-16T23:30:00",
+      "fin": "2026-11-17T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/abriendopista.jpg"
+    },
+    {
+      "titulo": "Despistados",
+      "descripcion": "Un espacio para los apasionados del automovilismo en donde recibimos a invitados destacados.",
+      "inicio": "2026-11-17T00:00:00",
+      "fin": "2026-11-17T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/despistados.jpg"
+    },
+    {
+      "titulo": "Recta principal",
+      "descripcion": "Disfruta de la previa de las carreras más esperadas directamente desde los autódromos donde se realizan. Además, presentan opiniones y entrevistas de los corresponsales realizadas a los pilotos más destacados, haciendo de este espacio una plataforma informativa dedicada exclusivamente al mundo de las competencias del automovilismo.",
+      "inicio": "2026-11-17T01:00:00",
+      "fin": "2026-11-17T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mundial Frontenis Masculino y Femenino 2026",
+      "descripcion": "Repetición ║ Vive toda la emoción de los partidos del vigésimo Campeonato Mundial de Pelota Vasca. Disfruta de los enfrentamientos entre los equipos que se presentan y conoce a los talentos que participan para llevarse el título.",
+      "inicio": "2026-11-17T02:00:00",
+      "fin": "2026-11-17T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rugby Torneo Regional NEA • Curne vs San José, Final",
+      "descripcion": "Repetición ║ Curne vs San José, Final | Disfruta las emociones del Torneo regional de Rugby del Litoral, celebrado en Argentina. Participan 10 equipos de las uniones provinciales de Rosario, Santa Fe y Entre Ríos.",
+      "inicio": "2026-11-17T04:00:00",
+      "fin": "2026-11-17T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Copa de Campeones Masculina • Primera Fase",
+      "descripcion": "Repetición ║ Primera Fase | Disfruta lo más emocionante de los partidos del Torneo Nacional de Clubes Campeones 2026. El público disfruta de una competición que promete varios días de intensa competencia entre los representantes de diferentes regiones. Los participantes estarán divididos en tres grupos de cuatro equipos cada uno. El objetivo será avanzar en la etapa clasificatoria y luchar por uno de los ocho lugares disponibles en los playoffs.",
+      "inicio": "2026-11-17T06:00:00",
+      "fin": "2026-11-17T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Básquet Liga Argentina • Provincial (Rosario) vs Quilmes (Mdp)",
+      "descripcion": "Repetición ║ Provincial (Rosario) vs Quilmes (Mdp) | Vive los partidos de la 43º edición de la Liga Nacional de Básquet, la máxima división nacional de básquet por clubes de Argentina. Disfruta de los enfrentamientos entre los equipos que participan y conoce a los talentos que se presentan en la competición.",
+      "inicio": "2026-11-17T08:00:00",
+      "fin": "2026-11-17T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Tiempo fuera • FEMEBAL",
+      "descripcion": "FEMEBAL | Entrevistas con jugadores, entrenadores y referentes del handball. Tips, análisis y debates.",
+      "inicio": "2026-11-17T10:00:00",
+      "fin": "2026-11-17T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DeporTV Central",
+      "descripcion": "El nuevo informativo polideportivo con el equipo de especialistas de la señal, con la información y el análisis de sus respectivos deportes.",
+      "inicio": "2026-11-17T10:30:00",
+      "fin": "2026-11-17T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Pilotos en primera • Edgardo 'Fido' Porfiri",
+      "descripcion": "Edgardo 'Fido' Porfiri | Una propuesta diferente para conocer a fondo la intimidad, historia, presente y futuro de cada uno de los referentes del automovilismo nacional.",
+      "inicio": "2026-11-17T11:30:00",
+      "fin": "2026-11-17T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "DeporTV Gamer",
+      "descripcion": "Toda la actualidad del gaming en Argentina.",
+      "inicio": "2026-11-17T12:30:00",
+      "fin": "2026-11-17T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Recta principal",
+      "descripcion": "En vivo ║ Disfruta de la previa de las carreras más esperadas directamente desde los autódromos donde se realizan. Además, presentan opiniones y entrevistas de los corresponsales realizadas a los pilotos más destacados, haciendo de este espacio una plataforma informativa dedicada exclusivamente al mundo de las competencias del automovilismo.",
+      "inicio": "2026-11-17T13:00:00",
+      "fin": "2026-11-17T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

@@ -1,144 +1,102 @@
 {
   "actual": {
-    "titulo": "Santa misa",
-    "descripcion": "La celebración de la santa misa desde la Capilla San Juan Pablo II desde Chatsworth, California. Los días 12 de cada mes es transmitida desde la Basílica de Nuestra Señora de Guadalupe en México.",
-    "inicio": "2026-11-15T09:15:00",
-    "fin": "2026-11-15T22:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
-  },
-  "siguiente": {
     "titulo": "Bravissimo",
     "descripcion": "El maestro suplente Impallato descubre a un alumno con unas características excepcionales para la canción lírica y lo explota para obtener fama y riqueza.",
-    "inicio": "2026-11-15T22:00:00",
-    "fin": "2026-11-15T22:00:00",
+    "inicio": "2026-11-16T09:30:00",
+    "fin": "2026-11-17T02:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+  },
+  "siguiente": {
+    "titulo": "Citynoticias - Fin de semana",
+    "descripcion": "Un espacio periodístico en el cual se cubren los últimos acontecimientos y se brinda información de interés para los habitantes de Bogotá con un estilo informal, distendido y dinámico.",
+    "inicio": "2026-11-17T02:00:00",
+    "fin": "2026-11-17T03:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Santa misa",
-      "descripcion": "La celebración de la santa misa desde la Capilla San Juan Pablo II desde Chatsworth, California. Los días 12 de cada mes es transmitida desde la Basílica de Nuestra Señora de Guadalupe en México.",
-      "inicio": "2026-11-15T09:15:00",
-      "fin": "2026-11-15T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/santamisa.jpg"
+      "titulo": "Bravissimo",
+      "descripcion": "El maestro suplente Impallato descubre a un alumno con unas características excepcionales para la canción lírica y lo explota para obtener fama y riqueza.",
+      "inicio": "2026-11-16T09:30:00",
+      "fin": "2026-11-17T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Citynoticias - Fin de semana",
+      "descripcion": "Un espacio periodístico en el cual se cubren los últimos acontecimientos y se brinda información de interés para los habitantes de Bogotá con un estilo informal, distendido y dinámico.",
+      "inicio": "2026-11-17T02:00:00",
+      "fin": "2026-11-17T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Programación comercial",
+      "descripcion": "Un espacio que presenta diversos contenidos comercial y de compra y venta de producto y servicios.",
+      "inicio": "2026-11-17T03:00:00",
+      "fin": "2026-11-17T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Citynoticias - Fin de semana",
+      "descripcion": "Un espacio periodístico en el cual se cubren los últimos acontecimientos y se brinda información de interés para los habitantes de Bogotá con un estilo informal, distendido y dinámico.",
+      "inicio": "2026-11-17T03:00:00",
+      "fin": "2026-11-17T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Bravissimo",
       "descripcion": "El maestro suplente Impallato descubre a un alumno con unas características excepcionales para la canción lírica y lo explota para obtener fama y riqueza.",
-      "inicio": "2026-11-15T22:00:00",
-      "fin": "2026-11-15T22:00:00",
+      "inicio": "2026-11-17T03:30:00",
+      "fin": "2026-11-17T04:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ninja Kamui",
+      "descripcion": "El deseo de venganza del exmiembro de un clan ninja lo lleva a colaborar con los agentes del FBI para investigar el asesinato de su mujer e hijo.",
+      "inicio": "2026-11-17T04:00:00",
+      "fin": "2026-11-17T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ninjakamui.jpg"
+    },
+    {
+      "titulo": "Cierre de transmisiones",
+      "descripcion": "Fin de emisión diaria del canal.",
+      "inicio": "2026-11-17T05:30:00",
+      "fin": "2026-11-17T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
+    },
+    {
+      "titulo": "La leyenda del dragón",
+      "descripcion": "Al ser elegido como el nuevo Dragón Dorado, el joven Ang desata el despecho de su hermana gemela Ling. Rechazada, ella sucumbe al poder del Dragón de las Sombras, obligando a Ang a enfrentarse a su propia familia para salvar el mundo.",
+      "inicio": "2026-11-17T06:00:00",
+      "fin": "2026-11-17T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laleyendadeldragon.jpg"
     },
     {
       "titulo": "Citynoticias de las 8",
       "descripcion": "Al terminar el día siempre es importante estar bien informado, por eso llega hasta ti este espacio que te llevará los hechos más importantes en diferentes ámbitos del acontecer diario nacional e internacional.",
-      "inicio": "2026-11-15T22:00:00",
-      "fin": "2026-11-15T23:00:00",
+      "inicio": "2026-11-17T06:30:00",
+      "fin": "2026-11-17T07:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Noctámbulo",
-      "descripcion": "Durante las mañanas, disfruta del desarrollo de las informaciones correspondientes a los sucesos más importantes ocurridos en la Bogotá noctámbula, para que te enteres de inmediato de lo que sucedió en la noche capitalina.",
-      "inicio": "2026-11-15T23:00:00",
-      "fin": "2026-11-15T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Destinos",
-      "descripcion": "Un espacio que recorre los principales destinos turísticos de Colombia.",
-      "inicio": "2026-11-15T23:30:00",
-      "fin": "2026-11-16T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destinos.jpg"
-    },
-    {
-      "titulo": "Noticiero del Congreso",
-      "descripcion": "Información de las actividades y el trabajo que se desarrolla en el Congreso.",
-      "inicio": "2026-11-16T00:00:00",
-      "fin": "2026-11-16T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Arriba, Bogotá - Reporte semanal",
-      "descripcion": "Un magazine periodístico en donde se brinda toda la información sobre los últimos acontecimientos de la semana: actualidad, tránsito, clima, personajes y mucho más temas destacados.",
-      "inicio": "2026-11-16T00:30:00",
-      "fin": "2026-11-16T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Citynoticias - Fin de semana",
-      "descripcion": "Un espacio periodístico en el cual se cubren los últimos acontecimientos y se brinda información de interés para los habitantes de Bogotá con un estilo informal, distendido y dinámico.",
-      "inicio": "2026-11-16T02:00:00",
-      "fin": "2026-11-16T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Programación comercial",
-      "descripcion": "Un espacio que presenta diversos contenidos comercial y de compra y venta de producto y servicios.",
-      "inicio": "2026-11-16T02:00:00",
-      "fin": "2026-11-16T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Programación comercial",
-      "descripcion": "Un espacio que presenta diversos contenidos comercial y de compra y venta de producto y servicios.",
-      "inicio": "2026-11-16T02:30:00",
-      "fin": "2026-11-16T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Citynoticias - Fin de semana",
-      "descripcion": "Un espacio periodístico en el cual se cubren los últimos acontecimientos y se brinda información de interés para los habitantes de Bogotá con un estilo informal, distendido y dinámico.",
-      "inicio": "2026-11-16T03:00:00",
-      "fin": "2026-11-16T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Sala de redacción",
-      "descripcion": "Análisis y opinión sobre los temas más polémicos de Colombia y el resto del mundo.",
-      "inicio": "2026-11-16T04:00:00",
-      "fin": "2026-11-16T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "En mi semana",
-      "descripcion": "Programa de entretenimiento, entrevistas y tendencias de la televisión colombiana enfocado en conectar con la audiencia mediante historias de la cultura popular y el entretenimiento nacional.",
-      "inicio": "2026-11-16T04:30:00",
-      "fin": "2026-11-16T05:00:00",
+      "titulo": "Arriba Bogotá",
+      "descripcion": "Magazín informativo donde podrás encontrar información de interés sobre los hechos más relevantes ocurridos en la actualidad, desde reportes de tránsito, estado del clima y entretenimiento, entre otros.",
+      "inicio": "2026-11-17T07:30:00",
+      "fin": "2026-11-17T07:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Degrassi: la nueva generación",
       "descripcion": "Serie adolescente que trata sobre las alegrías y problemas de sus jovenes protagonistas en su entorno familiar y escolar. La serie trata en forma entretenida y cotidiana temas propios de los adolescentes de una forma bastante madura.",
-      "inicio": "2026-11-16T05:00:00",
-      "fin": "2026-11-16T05:30:00",
+      "inicio": "2026-11-17T07:30:00",
+      "fin": "2026-11-17T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/degrassilanuevageneracion.jpg"
     },
     {
-      "titulo": "Defensor del televidente",
-      "descripcion": "Espacio de expresión ciudadana cuyo objetivo es fomentar la participación crítica de los televidentes en relación con la calidad de los contenidos y el desempeño del canal, con apego a su Código Deontológico, mediante el seguimiento de críticas, quejas o comentarios fundamentados.",
-      "inicio": "2026-11-16T05:30:00",
-      "fin": "2026-11-16T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La leyenda del dragón",
-      "descripcion": "Al ser elegido como el nuevo Dragón Dorado, el joven Ang desata el despecho de su hermana gemela Ling. Rechazada, ella sucumbe al poder del Dragón de las Sombras, obligando a Ang a enfrentarse a su propia familia para salvar el mundo.",
-      "inicio": "2026-11-16T06:00:00",
-      "fin": "2026-11-16T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laleyendadeldragon.jpg"
-    },
-    {
-      "titulo": "Ninja Kamui",
-      "descripcion": "El deseo de venganza del exmiembro de un clan ninja lo lleva a colaborar con los agentes del FBI para investigar el asesinato de su mujer e hijo.",
-      "inicio": "2026-11-16T07:30:00",
-      "fin": "2026-11-16T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ninjakamui.jpg"
-    },
-    {
-      "titulo": "De fiesta con Danny Marín • Capítulo 86",
-      "descripcion": "Capítulo 86 | Un espacio diferente para disfrutar en familia con mucha música, artistas, entretenimiento, buen humor y grandes sorpresas.",
-      "inicio": "2026-11-16T09:00:00",
-      "fin": "2026-11-16T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Los Simpson",
+      "descripcion": "La familia amarilla más famosa de las series FOX y de la televisión en general, conformada por Homero, Marge, Bart, Lisa y Maggie Simpson, creada por Matt Groening para Fox y emitida en varios países del mundo. La comedia es una sátira de la sociedad estadounidense que narra la vida y el día a día de una familia de clase media de ese país que viven en un pueblo ficticio llamado Springfield.",
+      "inicio": "2026-11-17T09:00:00",
+      "fin": "2026-11-17T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lossimpson.jpg"
     }
   ]
 }
