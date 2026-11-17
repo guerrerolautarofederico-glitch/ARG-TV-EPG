@@ -1,109 +1,123 @@
 {
   "actual": {
-    "titulo": "Los locos Addams",
-    "descripcion": "El delirante y gótico estilo de vida de la peculiar familia Addams se ve amenazado peligrosamente cuando el codicioso dúo que forman madre e hijo, con la ayuda de un abogado sin ningún escrúpulos, conspiran para hacerse con la fortuna familiar.",
-    "inicio": "2026-11-16T13:13:00",
-    "fin": "2026-11-16T14:53:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "La gran estafa",
+    "descripcion": "En la década de los 70, el escritor Clifford Irving engañó a una importante editorial, haciendo creer a sus propietarios que tenía permiso del mismísimo Howard Hugues para publicar su autobiografía. Lo que comienza siendo un acto de picaresca por parte de un escritor sin un céntimo, acaba convirtiéndose en un escándalo que salpica incluso a la Casa Blanca. Basada en hechos reales.",
+    "inicio": "2026-11-17T13:46:00",
+    "fin": "2026-11-17T15:42:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lagranestafa.jpg"
   },
   "siguiente": {
-    "titulo": "Misión imposible",
-    "descripcion": "Ethan Hunt es un superespía capaz de resolver cualquier arriesgada situación con la máxima elegancia. Forma parte de un competente equipo dirigido por el agente Jim Phelps, que ha vuelto a reunir a sus hombres para participar en una dificilísima misión: evitar la venta de un disco robado que contiene información secreta de vital importancia.",
-    "inicio": "2026-11-16T14:53:00",
-    "fin": "2026-11-16T16:43:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/misionimposible.jpg"
+    "titulo": "Drácula De Bram Stoker",
+    "descripcion": "El vampiro de siglos de edad, el Conde Drácula, viene a Inglaterra para seducir a la prometida de su abogado Jonathan Harker, Mina Murray, y causar estragos en el país extranjero.",
+    "inicio": "2026-11-17T15:42:00",
+    "fin": "2026-11-17T17:50:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/draculadebramstoker.jpg"
   },
   "lista": [
     {
-      "titulo": "Los locos Addams",
-      "descripcion": "El delirante y gótico estilo de vida de la peculiar familia Addams se ve amenazado peligrosamente cuando el codicioso dúo que forman madre e hijo, con la ayuda de un abogado sin ningún escrúpulos, conspiran para hacerse con la fortuna familiar.",
-      "inicio": "2026-11-16T13:13:00",
-      "fin": "2026-11-16T14:53:00",
+      "titulo": "La gran estafa",
+      "descripcion": "En la década de los 70, el escritor Clifford Irving engañó a una importante editorial, haciendo creer a sus propietarios que tenía permiso del mismísimo Howard Hugues para publicar su autobiografía. Lo que comienza siendo un acto de picaresca por parte de un escritor sin un céntimo, acaba convirtiéndose en un escándalo que salpica incluso a la Casa Blanca. Basada en hechos reales.",
+      "inicio": "2026-11-17T13:46:00",
+      "fin": "2026-11-17T15:42:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lagranestafa.jpg"
+    },
+    {
+      "titulo": "Drácula De Bram Stoker",
+      "descripcion": "El vampiro de siglos de edad, el Conde Drácula, viene a Inglaterra para seducir a la prometida de su abogado Jonathan Harker, Mina Murray, y causar estragos en el país extranjero.",
+      "inicio": "2026-11-17T15:42:00",
+      "fin": "2026-11-17T17:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/draculadebramstoker.jpg"
+    },
+    {
+      "titulo": "Vacaciones de navidad",
+      "descripcion": "Llegan las vacaciones de Navidad y disfrutar de la nieve en Cortina d'Ampezzo es una buena opción. Mario, un chico de Roma con poco dinero, se enamora de la Samantha, la novia norteamericana del hipocondríaco Roberto. Billo, cantante y playboy, se junta con Ivana. Ahora está casada con un hombre rico, Donatone, pero en el pasado tuvieron un romance y ella quiere encender la llama otra vez.",
+      "inicio": "2026-11-17T17:50:00",
+      "fin": "2026-11-17T19:27:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vacacionesdenavidad.jpg"
+    },
+    {
+      "titulo": "Rocky III",
+      "descripcion": "Tras haber defendido el título diez veces, el campeón mundial de boxeo Rocky Balboa ha decidido retirarse. Sin embargo Clubber Lang, un boxeador muy agresivo que ha ido escalando puestos a base de destrozar a sus rivales, desea arrebatarle el título. Pese a la negativa de Rocky, Clubber consigue provocarle para que acepte el desafío, y esta vez el resultado del combate se presume bastante incierto.",
+      "inicio": "2026-11-17T19:27:00",
+      "fin": "2026-11-17T21:06:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rockyiii.jpg"
+    },
+    {
+      "titulo": "Tiburón",
+      "descripcion": "En la costa de un pequeño pueblo del Este de Estados Unidos, un enorme tiburón ataca a varias personas. Temiendo las fatales consecuencias que esto puede provocar en el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón, en la propia playa, termina con la vida de otro bañista. El terror se ha hecho público, así que un veterano cazador de tiburones, un científico y el jefe de la policía local se unen para dar caza al temible escualo...",
+      "inicio": "2026-11-17T21:06:00",
+      "fin": "2026-11-17T23:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tiburon.jpg"
+    },
+    {
+      "titulo": "Sin rastro",
+      "descripcion": "La serie trata sobre una unidad ficticia del FBI, compuesta por tres hombres y tres mujeres, que se encargan de solucionar las desapariciones de personas en Nueva York, tratando de aclarar si han sido secuestradas, se han suicidado o simplemente han huido. Normalmente cada capítulo trata de la investigación de la desaparición de una persona.",
+      "inicio": "2026-11-17T23:10:00",
+      "fin": "2026-11-18T00:44:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sinrastro.jpg"
+    },
+    {
+      "titulo": "El juez",
+      "descripcion": "Hank Palmer, un importante abogado, regresa a su hogar tras la muerte de su madre. Se entera entonces de que su padre, que es el juez del pueblo y de quien está distanciado, es sospechoso de haber cometido un crimen. Su decisión de investigar el caso lo lleva poco a poco a restablecer con los suyos una relación que estaba rota.",
+      "inicio": "2026-11-18T00:44:00",
+      "fin": "2026-11-18T02:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eljuez.jpg"
+    },
+    {
+      "titulo": "Una película de miedo",
+      "descripcion": "Un grupo de adolescentes de aspecto familiar se ve acosado por un asesino enmascarado más que reconocible. A medida que aumentan las víctimas y las risas se multiplican, ninguna de tus películas de terror favoritas escapa a la mordaz sátira de esta parodia desternillante.",
+      "inicio": "2026-11-18T02:20:00",
+      "fin": "2026-11-18T03:49:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Misión imposible",
-      "descripcion": "Ethan Hunt es un superespía capaz de resolver cualquier arriesgada situación con la máxima elegancia. Forma parte de un competente equipo dirigido por el agente Jim Phelps, que ha vuelto a reunir a sus hombres para participar en una dificilísima misión: evitar la venta de un disco robado que contiene información secreta de vital importancia.",
-      "inicio": "2026-11-16T14:53:00",
-      "fin": "2026-11-16T16:43:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/misionimposible.jpg"
-    },
-    {
-      "titulo": "Santa Cláusula",
-      "descripcion": "Scott Calvin es el padre divorciado de Charlie. La relación entre ellos se ha vuelto insoportable, pero en Nochebuena Santa Claus muere al caer del techo de su casa. Con la ayuda de Charlie, Scott será capaz de reemplazarle temporalmente.",
-      "inicio": "2026-11-16T16:43:00",
-      "fin": "2026-11-16T18:20:00",
+      "titulo": "Furia salvaje",
+      "descripcion": "Gino Felino (Steven Seagal) es un detective de policía de Brooklyn, que un día recibe una llamada comunicándole que su mejor amigo Bobby Lupo (Joe Spataro) ha sido asesinado, a plena luz del día, en la calle y delante de su esposa e hijos, por el capo mafioso Richie Madano (William Forsythe), enemigo de ambos desde su juventud. Gino emprenderá una furiosa caza de Madano, que campa descontrolado por la ciudad.",
+      "inicio": "2026-11-18T03:49:00",
+      "fin": "2026-11-18T05:20:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Espartaco",
-      "descripcion": "Espartaco era un esclavo tracio que fue vendido como gladiador a Léntulo Batiato. En Italia promovió y dirigió la rebelión de los esclavos (73-71 a.C.) contra la República romana. A medida que recorrían el país, innumerables esclavos se iban sumando a la rebelión. Espartaco intentará llegar con su ejército al sur de Italia para poner rumbo a sus hogares.",
-      "inicio": "2026-11-16T18:20:00",
-      "fin": "2026-11-16T21:37:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/espartaco.jpg"
+      "titulo": "Rambo III",
+      "descripcion": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas.",
+      "inicio": "2026-11-18T05:20:00",
+      "fin": "2026-11-18T07:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ramboiii.jpg"
     },
     {
-      "titulo": "Superman III",
-      "descripcion": "Superman se tiene que enfrentar con una máquina creada por un genio de los ordenadores llamado Gus Gorman, contra un magnate megalómano que pretende transformar la Tierra y lo que es mucho peor contra un desdoblamiento de personalidad. Pero también habrá tiempo para que Clark Kent vuelva a Smallville, donde se encontrará con Lana Lang, su novia de la adolescencia.",
-      "inicio": "2026-11-16T21:37:00",
-      "fin": "2026-11-16T23:42:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/supermaniii.jpg"
-    },
-    {
-      "titulo": "Highlander, el Inmortal",
-      "descripcion": "Los Inmortales son seres de una raza especial que sólo pueden morir decapitados entre sí. Viven desde hace siglos entre los hombres, pero ocultando su identidad. Unos defienden el Bien, otros, el Mal. Una maldición los obliga a luchar entre sí hasta que sólo quede uno de ellos. El escocés Connor MacLeod (Christopher Lambert) es uno de los supervivientes del clan de los Inmortales que ha llegado hasta nuestros días",
-      "inicio": "2026-11-16T23:42:00",
-      "fin": "2026-11-17T01:38:00",
+      "titulo": "La batalla por el planeta de los simios",
+      "descripcion": "Diez años después de una serie mundial de revoluciones de simios y una brutal guerra nuclear entre humanos, César debe proteger a los sobrevivientes de ambas especies de un insidioso culto humano y de una facción de simios militantes por igual.",
+      "inicio": "2026-11-18T07:02:00",
+      "fin": "2026-11-18T08:38:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Halloween",
-      "descripcion": "Tras sobrevivir a los sangrientos crímenes de la noche de Halloween, Laurie Strode (Scout Taylor-Compton) trata de rehacer su vida junto al sheriff Brackett (Brad Dourif) y su amiga Annie (Danielle Harris). Pero dos años después de los asesinatos de Michael Myers el pasado vuelve y la joven Strode tendrá que enfrentarse nuevamente al psicópata en una noche regada de horror y sangre.",
-      "inicio": "2026-11-17T01:38:00",
-      "fin": "2026-11-17T03:09:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/halloween.jpg"
+      "titulo": "Rocky Balboa",
+      "descripcion": "El mundo del boxeo está tan devaluado que el campeón Mason Dixon no encuentra un rival a su altura. Han pasado 30 años desde que a Rocky Balboa, un hombre sin futuro, se le presentó la oportunidad de boxear y enfrentarse contra el gran campeón Apollo Creed. El coraje y perseverancia de Rocky, tanto en la vida como en el ring, alimentó las esperanzas de millones de personas. Ahora, ya retirado, se pasa las tardes contando viejas historias a los clientes del Adrian's, el restaurante que lleva el nombre de su esposa, por la que todavía guarda un silencioso luto. Apenas ve a su hijo, que está demasiado centrado en su propia vida. El paso del tiempo y los golpes recibidos lo han hecho más humilde y lo han envejecido, pero en el fondo aún sigue siendo un luchador.",
+      "inicio": "2026-11-18T08:38:00",
+      "fin": "2026-11-18T10:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rockybalboa.jpg"
     },
     {
-      "titulo": "Super Mario Bros",
-      "descripcion": "Basada en el famoso videojuego de la compañía Nintendo. Dos hermanos fontaneros se adentran en un mundo paralelo para salvar a la princesa Daisy de las garras del rey Koopa y su ejército de reptiles",
-      "inicio": "2026-11-17T03:09:00",
-      "fin": "2026-11-17T04:54:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/supermariobros.jpg"
+      "titulo": "Escape del planeta de los simios",
+      "descripcion": "Tres simios, la doctora Zira, Cornelius y el doctor Milo, han conseguido sobrevivir al desastre nuclear en su planeta y, tras arreglar la nave de los humanos, viajan en el tiempo hasta llegar a la Tierra de finales del siglo XX. Al llegar, mientras son estudiados en un centro de investigación para determinar su nivel de inteligencia, se niegan a revelar lo que saben sobre la civilización humana.",
+      "inicio": "2026-11-18T10:20:00",
+      "fin": "2026-11-18T11:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/escapedelplanetadelossimios.jpg"
     },
     {
-      "titulo": "George de la Selva 2",
-      "descripcion": "La malvada suegra de George no puede permitir que su hija y su nieto pasen toda la vida en la jungla con un salvaje que no soporta, por lo que idea un plan con la ayuda del ex novio de Ursula, Lyle, para hipnotizarla, hacer que abandone a George y destruir su querida Jungla. George, Ape, Shep y Tookie van a Las Vegas a rescatar a Ursula pero tienen que volver corriendo a la selva para detener a Lyle y sus malvados matones.",
-      "inicio": "2026-11-17T04:54:00",
-      "fin": "2026-11-17T06:22:00",
+      "titulo": "La casa de cera",
+      "descripcion": "Seis amigos que viajan por carretera para asistir al campeonato universitario de fútbol más importante del año, deciden acampar al aire libre la víspera del partido. A la mañana siguiente, se dan cuenta de que su coche ha sido manipulado, así que aceptan la invitación de un conductor que los lleva hasta Ambrose. Al llegar, visitan la principal atracción de la ciudad: la Casa de Cera de Trudy, que está llena de esculturas de cera cuyo parecido con personas reales es asombroso. Cuando descubren, horrorizados, la razón de esta inquietante semejanza, comprenden que o escapan de la ciudad o se convertirán en estatuas del tenebroso museo de cera.",
+      "inicio": "2026-11-18T11:57:00",
+      "fin": "2026-11-18T13:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasadecera.jpg"
+    },
+    {
+      "titulo": "Parque Jurásico",
+      "descripcion": "El multimillonario John Hammond tiene una idea para un espectacular parque temático: una isla retirada donde los visitantes puedan observar dinosaurios reales. Con la última tecnología en el desarrollo de DNA, los científicos pueden clonar braquiosaurios, triceratops, velociraptors y un tiranosaurio rex, utilizando para ello la sangre fosilizada en ámbar contenida en insectos que los mordieron hace millones de años. Los paleontólogos Alan Grant, Ellie Sattler y Ian Malcolm visitan el parque y quedan muy sorprendidos con los resultados obtenidos. Pero cuando un problemático empleado manipula el sofisticado sistema de seguridad los dinosaurios escapan, obligando a los visitantes a luchar por su supervivencia.",
+      "inicio": "2026-11-18T13:50:00",
+      "fin": "2026-11-18T15:57:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Batman regresa",
-      "descripcion": "Cuando un empresario corrupto y el grotesco Pingüino tratan de tomar el control de Ciudad Gótica, sólo Batman puede detenerlos, mientras que Gatúbela tiene sus propios planes.",
-      "inicio": "2026-11-17T06:22:00",
-      "fin": "2026-11-17T08:28:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los tomates asesinos atacan de nuevo",
-      "descripcion": "El ayudante de policía Lance Goyle tiene que investigar los misteriosos ataques de unos tomates asesinos para lo que cuenta con una experta en tomates, El creador de los tomates, Mortimer Gangrena, quiere matar a la tomatóloga porque se interpone en sus planes de conquistar el mundo.",
-      "inicio": "2026-11-17T08:28:00",
-      "fin": "2026-11-17T09:56:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lostomatesasesinosatacandenuevo.jpg"
-    },
-    {
-      "titulo": "Un Ángel Enamorado",
-      "descripcion": "Cuando el ángel guardián Seth que invisiblemente vigila a los ciudadanos de Los Ángeles- queda cautivado por Maggie, un cirujano de corazón fuerte, que reflexiona sobre el comercio de su existencia pura, de otro mundo, para una vida mortal con su amada. La pareja se embarca en un romance tierno pero prohibido que abarca el cielo y la Tierra.",
-      "inicio": "2026-11-17T09:56:00",
-      "fin": "2026-11-17T11:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Superman II",
-      "descripcion": "Superman se tiene que enfrentar con una máquina creada por un genio de los ordenadores llamado Gus Gorman, contra un magnate megalómano que pretende transformar la Tierra y lo que es mucho peor contra un desdoblamiento de personalidad. Pero también habrá tiempo para que Clark Kent vuelva a Smallville, donde se encontrará con Lana Lang, su novia de la adolescencia.",
-      "inicio": "2026-11-17T11:50:00",
-      "fin": "2026-11-17T13:46:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/supermanii.jpg"
     }
   ]
 }
