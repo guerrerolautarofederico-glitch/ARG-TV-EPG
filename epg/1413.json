@@ -1,130 +1,25 @@
 {
   "actual": {
-    "titulo": "The Pat McAfee Show",
-    "descripcion": "Estreno ║ Pat McAfee aporta su humor y sarcasmo al micrófono para resaltar las principales noticias del día.",
-    "inicio": "2026-11-17T14:00:00",
-    "fin": "2026-11-17T16:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thepatmcafeeshow.jpg"
+    "titulo": "First Take",
+    "descripcion": "Estreno ║ Programa matutino de debate semanal sobre los temas deportivos más candentes, con la participación de colaboradores habituales e invitados.",
+    "inicio": "2026-11-18T12:00:00",
+    "fin": "2026-11-18T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/firsttake.jpg"
   },
   "siguiente": {
-    "titulo": "ESPN Tres North",
-    "descripcion": "Programación de ESPN.",
-    "inicio": "2026-11-17T16:00:00",
-    "fin": "2026-11-17T18:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "The Pat McAfee Show",
+    "descripcion": "Estreno ║ Pat McAfee aporta su humor y sarcasmo al micrófono para resaltar las principales noticias del día.",
+    "inicio": "2026-11-18T14:00:00",
+    "fin": "2026-11-18T16:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thepatmcafeeshow.jpg"
   },
   "lista": [
     {
-      "titulo": "The Pat McAfee Show",
-      "descripcion": "Estreno ║ Pat McAfee aporta su humor y sarcasmo al micrófono para resaltar las principales noticias del día.",
-      "inicio": "2026-11-17T14:00:00",
-      "fin": "2026-11-17T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thepatmcafeeshow.jpg"
-    },
-    {
-      "titulo": "ESPN Tres North",
-      "descripcion": "Programación de ESPN.",
-      "inicio": "2026-11-17T16:00:00",
-      "fin": "2026-11-17T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] NFL",
-      "descripcion": "En vivo ║ Acceso exclusivo a la pretemporada y a los partidos de la NFL.",
-      "inicio": "2026-11-17T18:00:00",
-      "fin": "2026-11-17T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nfl.jpg"
-    },
-    {
-      "titulo": "ESPN Tenis • A la sombra de los gigantes",
-      "descripcion": "A la sombra de los gigantes | Toda la información del tenis a nivel mundial, las novedades de los jugadores latinoamericanos y mucho más.",
-      "inicio": "2026-11-17T19:00:00",
-      "fin": "2026-11-17T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Tres North",
-      "descripcion": "Programación de ESPN.",
-      "inicio": "2026-11-17T20:00:00",
-      "fin": "2026-11-17T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "CFP Rankings Show: College Football Playoff: Top 25",
-      "descripcion": "Estreno ║ Los mejores 25 momentos del 🏈🎓 [NCAAF] College Football Playoff.",
-      "inicio": "2026-11-17T23:00:00",
-      "fin": "2026-11-17T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Baloncesto Universitario • UNLV vs Kansas",
-      "descripcion": "Estreno ║ UNLV vs Kansas | Desde el Michelob ULTRA Arena, en Las Vegas, Nevada.",
-      "inicio": "2026-11-17T23:30:00",
-      "fin": "2026-11-18T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Tres North",
-      "descripcion": "Programación de ESPN.",
-      "inicio": "2026-11-18T00:00:00",
-      "fin": "2026-11-18T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "FIM Road Racing World Championship Highlights",
-      "descripcion": "Recopilación de los momentos más emocionantes de las carreras del campeonato mundial de motociclismo.",
-      "inicio": "2026-11-18T01:30:00",
-      "fin": "2026-11-18T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fimroadracingworldchampionshiphighlights.jpg"
-    },
-    {
-      "titulo": "Baloncesto Universitario • West Virginia vs Auburn",
-      "descripcion": "Estreno ║ West Virginia vs Auburn | Desde el Michelob ULTRA Arena, en Las Vegas, Nevada.",
-      "inicio": "2026-11-18T02:00:00",
-      "fin": "2026-11-18T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Tres North",
-      "descripcion": "Programación de ESPN.",
-      "inicio": "2026-11-18T04:00:00",
-      "fin": "2026-11-18T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Baloncesto Universitario • Illinois vs Duke",
-      "descripcion": "Illinois vs Duke | Desde Cameron Indoor Stadium en Durham, N.C.",
-      "inicio": "2026-11-18T06:00:00",
-      "fin": "2026-11-18T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "ESPN Tres North",
-      "descripcion": "Programación de ESPN.",
-      "inicio": "2026-11-18T08:00:00",
-      "fin": "2026-11-18T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "SportsCenter",
-      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
-      "inicio": "2026-11-18T09:00:00",
-      "fin": "2026-11-18T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
-    },
-    {
-      "titulo": "Get Up",
-      "descripcion": "Estreno ║ Las últimas noticias del mundo de los deportes en un programa original.",
-      "inicio": "2026-11-18T10:00:00",
-      "fin": "2026-11-18T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/getup.jpg"
-    },
-    {
-      "titulo": "ESPN Tres North",
-      "descripcion": "Programación de ESPN.",
+      "titulo": "First Take",
+      "descripcion": "Estreno ║ Programa matutino de debate semanal sobre los temas deportivos más candentes, con la participación de colaboradores habituales e invitados.",
       "inicio": "2026-11-18T12:00:00",
       "fin": "2026-11-18T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/firsttake.jpg"
     },
     {
       "titulo": "The Pat McAfee Show",
@@ -132,6 +27,104 @@
       "inicio": "2026-11-18T14:00:00",
       "fin": "2026-11-18T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thepatmcafeeshow.jpg"
+    },
+    {
+      "titulo": "Baloncesto Universitario • Players Era 8, juego de consolación 1: Rutgers vs Notre Dame",
+      "descripcion": "Estreno ║ Players Era 8, juego de consolación 1: Rutgers vs Notre Dame | Cobertura del primer juego de consolación del Players Era 8, 2026. Desde el Michelob Ultra Arena, en Paradise, Nevada.",
+      "inicio": "2026-11-18T16:00:00",
+      "fin": "2026-11-18T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] College Basketball Scoreboard",
+      "descripcion": "En vivo ║ Cobertura completa de las competiciones con todos los resultados del baloncesto universitario americano, la mayor vitrina de los talentos para la NBA.",
+      "inicio": "2026-11-18T18:00:00",
+      "fin": "2026-11-18T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Baloncesto Universitario • Players Era 8, semifinal 1: Houston vs Florida",
+      "descripcion": "Estreno ║ Players Era 8, semifinal 1: Houston vs Florida | Cobertura de la primera semifinal del Players Era 8, 2026. Desde el Michelob Ultra Arena, en Paradise, Nevada.",
+      "inicio": "2026-11-18T18:30:00",
+      "fin": "2026-11-18T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "NBA Countdown",
+      "descripcion": "Estreno ║ Los expertos en la materia opinan, discuten y debaten enfocados en las historias principales del torneo.",
+      "inicio": "2026-11-18T20:30:00",
+      "fin": "2026-11-18T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-11-18T21:00:00",
+      "fin": "2026-11-18T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Baloncesto Universitario • Players Era 8, semifinal 2: Equipos por confirmar",
+      "descripcion": "Estreno ║ Players Era 8, semifinal 2: Equipos por confirmar | Cobertura de la segunda semifinal del Players Era 8, 2026. Desde el Michelob Ultra Arena, en Paradise, Nevada.",
+      "inicio": "2026-11-18T21:30:00",
+      "fin": "2026-11-18T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] College Basketball Scoreboard",
+      "descripcion": "En vivo ║ Cobertura completa de las competiciones con todos los resultados del baloncesto universitario americano, la mayor vitrina de los talentos para la NBA.",
+      "inicio": "2026-11-18T23:30:00",
+      "fin": "2026-11-19T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Baloncesto Universitario • Players Era 8, juego de consolación 2: Equipos por confirmar",
+      "descripcion": "Estreno ║ Players Era 8, juego de consolación 2: Equipos por confirmar | Cobertura del segundo juego de consolación del Players Era 8, 2026. Desde el Michelob Ultra Arena, en Paradise, Nevada.",
+      "inicio": "2026-11-19T00:00:00",
+      "fin": "2026-11-19T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Baloncesto Universitario • Players Era 8, semifinal 2: Equipos por confirmar",
+      "descripcion": "Players Era 8, semifinal 2: Equipos por confirmar | Cobertura de la segunda semifinal del Players Era 8, 2026. Desde el Michelob Ultra Arena, en Paradise, Nevada.",
+      "inicio": "2026-11-19T02:00:00",
+      "fin": "2026-11-19T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Baloncesto NBA • Milwaukee Bucks vs Miami Heat",
+      "descripcion": "Milwaukee Bucks vs Miami Heat | Semana 5 de la temporada 2026-27 de la NBA. En el último enfrentamiento, Miami 🏀 [NBA] Heat venció 112-105 a Milwaukee 🏀 [NBA] Bucks. Tras 8 duelos, los 🏀 [NBA] Bucks se ubicaron en la sexta posición en triples anotados con un promedio de 15.1.",
+      "inicio": "2026-11-19T04:00:00",
+      "fin": "2026-11-19T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/baloncestonba.jpg"
+    },
+    {
+      "titulo": "Baloncesto NBA • Boston Celtics vs Denver Nuggets",
+      "descripcion": "Boston Celtics vs Denver Nuggets | Semana 5 de la NBA 2026-27. Boston 🏀 [NBA] Celtics busca la primera victoria frente a Denver 🏀 [NBA] Nuggets desde la temporada 2024-25. Tras 7 duelos, los 🏀 [NBA] Nuggets se ubicaron en la quinta posición en tiros libres anotados con un promedio de 22.4.",
+      "inicio": "2026-11-19T06:30:00",
+      "fin": "2026-11-19T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/baloncestonba.jpg"
+    },
+    {
+      "titulo": "SportsCenter",
+      "descripcion": "Estreno ║ Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en \"SportsCenter\", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de \"SportsCenter\" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.",
+      "inicio": "2026-11-19T09:00:00",
+      "fin": "2026-11-19T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sportscenter.jpg"
+    },
+    {
+      "titulo": "Get Up",
+      "descripcion": "Estreno ║ Las últimas noticias del mundo de los deportes en un programa original.",
+      "inicio": "2026-11-19T10:00:00",
+      "fin": "2026-11-19T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/getup.jpg"
+    },
+    {
+      "titulo": "First Take",
+      "descripcion": "Estreno ║ Programa matutino de debate semanal sobre los temas deportivos más candentes, con la participación de colaboradores habituales e invitados.",
+      "inicio": "2026-11-19T12:00:00",
+      "fin": "2026-11-19T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/firsttake.jpg"
     }
   ]
 }
