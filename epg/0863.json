@@ -1,116 +1,144 @@
 {
   "actual": {
-    "titulo": "Ocean’s 11",
-    "descripcion": "Feature Film • 1960. A crook (Frank Sinatra) and his 10 war buddies plan to rob five Las Vegas casinos on New Year's Eve.",
-    "inicio": "2026-11-18T11:59:00",
-    "fin": "2026-11-18T14:07:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/oceans11.jpg"
+    "titulo": "Walk the Line",
+    "descripcion": "Feature Film • 2005. The story of music legends Johnny Cash (Joaquin Phoenix) and June Carter Cash (Reese Witherspoon).",
+    "inicio": "2026-11-19T12:10:00",
+    "fin": "2026-11-19T14:26:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/walktheline.jpg"
   },
   "siguiente": {
-    "titulo": "Crazy, Stupid, Love",
-    "descripcion": "La situación del cuarentón y puritano Cal Weaver es perfecta: tiene un buen trabajo, una bonita casa y unos hijos estupendos y está casado con el amor de su adolescencia. Sin embargo, cuando Cal se entera de que su esposa, Emily, le ha engañado y quiere divorciarse, su vida 'perfecta' se desmorona. Para colmo, en el actual mundo de los solteros, Cal, que no ha tenido una cita desde hace décadas, es el desastre en persona.",
-    "inicio": "2026-11-18T14:07:00",
-    "fin": "2026-11-18T16:06:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/crazystupidlove.jpg"
+    "titulo": "Gimme Shelter",
+    "descripcion": "Una detallada crónica de la famosa gira que el grupo de rock británico The Rolling Stones realizó por los Estados Unidos en 1969, que culminó con el desastroso y trágico concierto celebrado el 6 de diciembre en el Altamont Speedway Free Festival, un evento de trascendencia histórica, pues marcó el final de una era: la generación de la paz y el amor se convirtió de golpe en la generación del desengaño.",
+    "inicio": "2026-11-19T14:26:00",
+    "fin": "2026-11-19T15:58:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/gimmeshelter.jpg"
   },
   "lista": [
-    {
-      "titulo": "Ocean’s 11",
-      "descripcion": "Feature Film • 1960. A crook (Frank Sinatra) and his 10 war buddies plan to rob five Las Vegas casinos on New Year's Eve.",
-      "inicio": "2026-11-18T11:59:00",
-      "fin": "2026-11-18T14:07:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/oceans11.jpg"
-    },
-    {
-      "titulo": "Crazy, Stupid, Love",
-      "descripcion": "La situación del cuarentón y puritano Cal Weaver es perfecta: tiene un buen trabajo, una bonita casa y unos hijos estupendos y está casado con el amor de su adolescencia. Sin embargo, cuando Cal se entera de que su esposa, Emily, le ha engañado y quiere divorciarse, su vida 'perfecta' se desmorona. Para colmo, en el actual mundo de los solteros, Cal, que no ha tenido una cita desde hace décadas, es el desastre en persona.",
-      "inicio": "2026-11-18T14:07:00",
-      "fin": "2026-11-18T16:06:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/crazystupidlove.jpg"
-    },
-    {
-      "titulo": "Mississippi Masala",
-      "descripcion": "Expulsados por la dictadura de Uganda en 1972, un matrimonio hindú y su pequeña hija Mina emigran a los Estados Unidos donde, después de varios años de tranquilidad, la pasión de la hermosa Mina por un hombre de color les hace revivir el odio racial, la angustia y el amor de sus vidas pasadas.",
-      "inicio": "2026-11-18T16:06:00",
-      "fin": "2026-11-18T18:04:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mississippimasala.jpg"
-    },
-    {
-      "titulo": "Halloween: The Curse of Michael Myers",
-      "descripcion": "Feature Film • 1995. An ancient Celtic ritual drives Dr. Loomis' patient to sacrifice an entire family in Illinois.",
-      "inicio": "2026-11-18T18:04:00",
-      "fin": "2026-11-18T19:32:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Halloween H20: 20 Years Later",
-      "descripcion": "Feature Film • 1998. A woman's (Jamie Lee Curtis) lethal brother returns for her 20 years later.",
-      "inicio": "2026-11-18T19:32:00",
-      "fin": "2026-11-18T20:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Halloween: Resurrection",
-      "descripcion": "Un grupo de adolescentes gana un concurso para pasar una noche en la casa donde nació Michael Myers. Pero el juego se convierte en una lucha para conseguir salir con vida de la casa",
-      "inicio": "2026-11-18T20:59:00",
-      "fin": "2026-11-18T22:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/halloweenresurrection.jpg"
-    },
-    {
-      "titulo": "A Clockwork Orange",
-      "descripcion": "Feature Film • 1971. Alex and his droogs barbarize in a decaying near-future.",
-      "inicio": "2026-11-18T22:29:00",
-      "fin": "2026-11-19T00:46:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Night on Earth",
-      "descripcion": "Feature Film • 1992. Five stories of five taxis on the same night in Los Angeles, New York, Rome, Paris and Helsinki.",
-      "inicio": "2026-11-19T00:46:00",
-      "fin": "2026-11-19T02:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Twin Peaks: Fire Walk With Me",
-      "descripcion": "Feature Film • 1992. Agent Cooper comes to Twin Peaks, Wash., following two murders and the disappearance of two agents.",
-      "inicio": "2026-11-19T02:55:00",
-      "fin": "2026-11-19T05:11:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Open Water",
-      "descripcion": "Basada en hechos reales, narra una historia ocurrida en Las Bahamas. Una pareja adicta al trabajo había decidido tomarse un tiempo de relax y pasar unos días buceando. La lancha que los lleva, debido a un descuido de la tripulación, los abandona en medio de un mar, a la deriva y lejos de la costa, en unas aguas infestadas de tiburones... Según la crítica americana, la película de terror más impactante exhibida en el Festival de Sundance desde \"The Blair Witch Project\", en 1999.",
-      "inicio": "2026-11-19T05:11:00",
-      "fin": "2026-11-19T06:33:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/openwater.jpg"
-    },
-    {
-      "titulo": "Don’t Tell Mom the Babysitter’s Dead",
-      "descripcion": "Feature Film • 1991. Now-in-charge L.A. teen (Christina Applegate) lands job to feed her siblings.",
-      "inicio": "2026-11-19T06:33:00",
-      "fin": "2026-11-19T08:18:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hoot",
-      "descripcion": "Feature Film • 2006. A youth and his friends fight to protect endangered owls in Florida.",
-      "inicio": "2026-11-19T08:18:00",
-      "fin": "2026-11-19T09:49:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoot.jpg"
-    },
-    {
-      "titulo": "Robin Hood",
-      "descripcion": "Inglaterra, siglo XIII. Robin Longstride, un magnífico arquero al servicio del rey Ricardo Corazón de León, vuelve de las cruzadas en tierra santa saqueando poblados mientras lucha contra las tropas francesas. Cuando Ricardo muere bajo una fecha francesa, Robin se traslada a Nottingham con el objetivo de cumplir una promesa que hizo a Sir Robert Loxley antes de morir: devolver una espada a su padre, Sir Walter Loxley. Allí conoce a lady Marion, su viuda, una mujer con carácter. Mientras tanto, en un país debilitado por una larga guerra, regido por Juan, un rey débil y poco eficaz, contra las rebeliones internas y las amenazas externas maquinadas por el pérfido Godfrey, Robin y sus hombres se dejan llevar hacia una aventura mayor: deciden ayudar a impedir que el país caiga irremediablemente en una sangrienta guerra civil, y devolver la gloria a Inglaterra.",
-      "inicio": "2026-11-19T09:49:00",
-      "fin": "2026-11-19T12:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/robinhood.jpg"
-    },
     {
       "titulo": "Walk the Line",
       "descripcion": "Feature Film • 2005. The story of music legends Johnny Cash (Joaquin Phoenix) and June Carter Cash (Reese Witherspoon).",
       "inicio": "2026-11-19T12:10:00",
       "fin": "2026-11-19T14:26:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/walktheline.jpg"
+    },
+    {
+      "titulo": "Gimme Shelter",
+      "descripcion": "Una detallada crónica de la famosa gira que el grupo de rock británico The Rolling Stones realizó por los Estados Unidos en 1969, que culminó con el desastroso y trágico concierto celebrado el 6 de diciembre en el Altamont Speedway Free Festival, un evento de trascendencia histórica, pues marcó el final de una era: la generación de la paz y el amor se convirtió de golpe en la generación del desengaño.",
+      "inicio": "2026-11-19T14:26:00",
+      "fin": "2026-11-19T15:58:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/gimmeshelter.jpg"
+    },
+    {
+      "titulo": "Ghost Dog: The Way of the Samurai",
+      "descripcion": "Feature Film • 1999. A hit man (Forest Whitaker) must fend for his life against his boss (John Tormey).",
+      "inicio": "2026-11-19T15:58:00",
+      "fin": "2026-11-19T17:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sherlock Holmes: A Game of Shadows",
+      "descripcion": "Feature Film • 2011. The famous detective and his astute associate face their archenemy, evil genius Moriarty.",
+      "inicio": "2026-11-19T17:55:00",
+      "fin": "2026-11-19T20:04:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Adjustment Bureau",
+      "descripcion": "Feature Film • 2011. A man (Matt Damon) battles the agents of Fate to be with the woman (Emily Blunt) he loves.",
+      "inicio": "2026-11-19T20:04:00",
+      "fin": "2026-11-19T21:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Kiss of the Spider Woman",
+      "descripcion": "Feature Film • 1985. A homosexual film-buff (William Hurt) and a rebel (Raul Julia) share a prison cell in Latin America.",
+      "inicio": "2026-11-19T21:50:00",
+      "fin": "2026-11-19T23:51:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Hitcher",
+      "descripcion": "Feature Film • 1986. A teen motorist (C. Thomas Howell) cannot get away from a psycho (Rutger Hauer).",
+      "inicio": "2026-11-19T23:51:00",
+      "fin": "2026-11-20T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Sweet Dreams",
+      "descripcion": "Feature Film • 1985. Country singer Patsy Cline (Jessica Lange) on the road to tragic stardom.",
+      "inicio": "2026-11-20T01:30:00",
+      "fin": "2026-11-20T03:28:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sweetdreams.jpg"
+    },
+    {
+      "titulo": "IT",
+      "descripcion": "Un tranquilo y pequeño pueblo de Maine está siendo aterrorizado por una fuerza malévola oculta tras la máscara de un payaso, y que tan sólo se la conoce como \"Eso\". Tras sus primeras víctimas, una pandilla formada por siete amigos de la infancia dedicen volver a reunirse para atacar el mal y destruirlo, intentando librar así del terror a su pueblo natal.",
+      "inicio": "2026-11-20T03:28:00",
+      "fin": "2026-11-20T06:41:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/it.jpg"
+    },
+    {
+      "titulo": "Open Water",
+      "descripcion": "Basada en hechos reales, narra una historia ocurrida en Las Bahamas. Una pareja adicta al trabajo había decidido tomarse un tiempo de relax y pasar unos días buceando. La lancha que los lleva, debido a un descuido de la tripulación, los abandona en medio de un mar, a la deriva y lejos de la costa, en unas aguas infestadas de tiburones... Según la crítica americana, la película de terror más impactante exhibida en el Festival de Sundance desde \"The Blair Witch Project\", en 1999.",
+      "inicio": "2026-11-20T06:41:00",
+      "fin": "2026-11-20T08:01:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/openwater.jpg"
+    },
+    {
+      "titulo": "The Hobbit",
+      "descripcion": "TV Movie • 1977. J.R.R. Tolkien's wee Bilbo Baggins helps dwarves fight the dragon Smaug.",
+      "inicio": "2026-11-20T08:01:00",
+      "fin": "2026-11-20T09:19:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Reframed: Next Gen Narratives • Season 1 • Episode 6",
+      "descripcion": "Season 1 • Episode 6 | Series • 2025. Trapped in a bizarre, bureaucratic afterlife, a famous Mohawk ghost is drawn into an encounter.",
+      "inicio": "2026-11-20T09:19:00",
+      "fin": "2026-11-20T09:36:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Reframed: Next Gen Narratives • Season 1 • Episode 5",
+      "descripcion": "Season 1 • Episode 5 | Series • 2025. Robina takes justice into her own hands when a new grocery store steals her family's recipe.",
+      "inicio": "2026-11-20T09:36:00",
+      "fin": "2026-11-20T09:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Reframed: Next Gen Narratives • Season 1 • Episode 1",
+      "descripcion": "Season 1 • Episode 1 | Series • 2025. Clover must leave her family behind to compete in an algorithm-based singing competition.",
+      "inicio": "2026-11-20T09:57:00",
+      "fin": "2026-11-20T10:17:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "The Gift",
+      "descripcion": "Una pintora en Estambul se embarca en un viaje personal mientras descubre secretos universales sobre un sitio arqueológico de Anatolia y su vínculo con su pasado.",
+      "inicio": "2026-11-20T10:17:00",
+      "fin": "2026-11-20T10:34:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thegift.jpg"
+    },
+    {
+      "titulo": "Talk Black",
+      "descripcion": "Short Film • 2021. A timid engineer develops a wild split personality that helps her stand up to male co-workers.",
+      "inicio": "2026-11-20T10:34:00",
+      "fin": "2026-11-20T10:49:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Godzilla vs King Ghidorah",
+      "descripcion": "Feature Film • 1991. Time travelers from the 23rd century hope to stop Godzilla's creation so they can destroy Japan.",
+      "inicio": "2026-11-20T10:49:00",
+      "fin": "2026-11-20T12:33:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "My Big Fat Greek Wedding",
+      "descripcion": "Feature Film • 2002. A woman (Nia Vardalos) wants her family to accept her true love (John Corbett).",
+      "inicio": "2026-11-20T12:33:00",
+      "fin": "2026-11-20T14:08:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
