@@ -1,194 +1,19 @@
 {
   "actual": {
-    "titulo": "Cablenoticias: Edición Central",
-    "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
-    "inicio": "2026-11-19T14:00:00",
-    "fin": "2026-11-19T15:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
+    "titulo": "CableNoticias: En la Mañana",
+    "descripcion": "Informativo que resume la actualidad nacional e internacional. El registro de los hechos más importantes y llevados en el momento que se producen. Las noticias en desarrollo, los personajes y el análisis de los sucesos impactantes.",
+    "inicio": "2026-11-20T12:00:00",
+    "fin": "2026-11-20T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Enlaces",
-    "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
-    "inicio": "2026-11-19T15:30:00",
-    "fin": "2026-11-19T16:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlaces.jpg"
+    "titulo": "Cablenoticias: Edición Central",
+    "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
+    "inicio": "2026-11-20T14:00:00",
+    "fin": "2026-11-20T15:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
   },
   "lista": [
-    {
-      "titulo": "Cablenoticias: Edición Central",
-      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
-      "inicio": "2026-11-19T14:00:00",
-      "fin": "2026-11-19T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
-    },
-    {
-      "titulo": "Enlaces",
-      "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
-      "inicio": "2026-11-19T15:30:00",
-      "fin": "2026-11-19T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlaces.jpg"
-    },
-    {
-      "titulo": "Primer plano",
-      "descripcion": "La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad. No nos limitamos a narrar acontecimientos, ahondamos en las causas y la evolución.\n\nPrimer plano: interesante, impactante, informativo.",
-      "inicio": "2026-11-19T16:00:00",
-      "fin": "2026-11-19T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/primerplano.jpg"
-    },
-    {
-      "titulo": "Actualidad en análisis",
-      "descripcion": "Programa informativo y de análisis internacional de DW (Deutsche Welle) que examina en profundidad los acontecimientos políticos, económicos y sociales más relevantes de la actualidad global, con especial enfoque en sus repercusiones para América Latina y el mundo.",
-      "inicio": "2026-11-19T16:30:00",
-      "fin": "2026-11-19T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/actualidadenanalisis.jpg"
-    },
-    {
-      "titulo": "Cablenoticias a las 3",
-      "descripcion": "Actualización de las noticias y lo último del acontecer nacional e internacional sobre política, economía y sociedad a las 3 de la tarde.",
-      "inicio": "2026-11-19T17:00:00",
-      "fin": "2026-11-19T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Franja de especiales",
-      "descripcion": "Programas de salud y de cuidado personal.",
-      "inicio": "2026-11-19T18:00:00",
-      "fin": "2026-11-19T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La otra cara de la moneda",
-      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
-      "inicio": "2026-11-19T19:00:00",
-      "fin": "2026-11-19T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cablenoticias: Edición Central",
-      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
-      "inicio": "2026-11-19T20:00:00",
-      "fin": "2026-11-19T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
-    },
-    {
-      "titulo": "Hoy en el mundo",
-      "descripcion": "Toda la información de las noticias internacionales.",
-      "inicio": "2026-11-19T21:00:00",
-      "fin": "2026-11-19T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
-    },
-    {
-      "titulo": "La otra cara de la moneda",
-      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
-      "inicio": "2026-11-19T22:00:00",
-      "fin": "2026-11-19T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cablenoticias: Edición Central",
-      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
-      "inicio": "2026-11-19T23:00:00",
-      "fin": "2026-11-20T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
-    },
-    {
-      "titulo": "360 Grados",
-      "descripcion": "Los temas de actualidad de Colombia y el mundo son discutidos con debates y entrevistas.",
-      "inicio": "2026-11-20T00:00:00",
-      "fin": "2026-11-20T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La otra cara de la moneda",
-      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
-      "inicio": "2026-11-20T00:30:00",
-      "fin": "2026-11-20T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cablenoticias: Edición Central",
-      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
-      "inicio": "2026-11-20T01:30:00",
-      "fin": "2026-11-20T02:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
-    },
-    {
-      "titulo": "360 Grados",
-      "descripcion": "Los temas de actualidad de Colombia y el mundo son discutidos con debates y entrevistas.",
-      "inicio": "2026-11-20T02:30:00",
-      "fin": "2026-11-20T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hoy en el mundo",
-      "descripcion": "Toda la información de las noticias internacionales.",
-      "inicio": "2026-11-20T03:00:00",
-      "fin": "2026-11-20T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
-    },
-    {
-      "titulo": "Cablenoticias: Edición Central",
-      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
-      "inicio": "2026-11-20T04:00:00",
-      "fin": "2026-11-20T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
-    },
-    {
-      "titulo": "La otra cara de la moneda",
-      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
-      "inicio": "2026-11-20T05:00:00",
-      "fin": "2026-11-20T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hoy en el mundo",
-      "descripcion": "Toda la información de las noticias internacionales.",
-      "inicio": "2026-11-20T06:00:00",
-      "fin": "2026-11-20T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
-    },
-    {
-      "titulo": "Cablenoticias: Edición Central",
-      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
-      "inicio": "2026-11-20T07:00:00",
-      "fin": "2026-11-20T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
-    },
-    {
-      "titulo": "Hoy en el mundo",
-      "descripcion": "Toda la información de las noticias internacionales.",
-      "inicio": "2026-11-20T08:00:00",
-      "fin": "2026-11-20T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
-    },
-    {
-      "titulo": "La otra cara de la moneda",
-      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
-      "inicio": "2026-11-20T09:00:00",
-      "fin": "2026-11-20T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Global Es",
-      "descripcion": "8.000 millones de personas poblamos la Tierra. Y nunca hemos estado tan conectadas. ¿Cómo abordarlo? Global 3000 se convierte en Global Es, porque ahora más que nunca es necesaria una coexistencia consciente. ¿Cómo enfrentar los urgentes problemas mundiales?\n\nEl cambio climático y la pérdida de biodiversidad exigen una nueva forma de economía. Algo va a tener que cambiar si queremos vivir, trabajar y alimentarnos de forma digna en el futuro. El progreso y los cambios tecnológicos pueden ayudarnos a conseguirlo. Global Es da ideas sorprendentes, muestra posibles soluciones y ofrece perspectivas para un mundo que cambia a toda velocidad. Y para ello, parte de personas que buscan e impulsan el cambio y, así, inspiran a los demás.",
-      "inicio": "2026-11-20T10:00:00",
-      "fin": "2026-11-20T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/globales.jpg"
-    },
-    {
-      "titulo": "Especial Salud",
-      "descripcion": "Sección dedicada a informar sobre lo más destacado en el área de la salud en Colombia y el mundo, los avances, los problemas, las soluciones, las políticas, con entrevistas a los expertos.",
-      "inicio": "2026-11-20T10:30:00",
-      "fin": "2026-11-20T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La otra cara de la moneda",
-      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
-      "inicio": "2026-11-20T11:00:00",
-      "fin": "2026-11-20T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "CableNoticias: En la Mañana",
       "descripcion": "Informativo que resume la actualidad nacional e internacional. El registro de los hechos más importantes y llevados en el momento que se producen. Las noticias en desarrollo, los personajes y el análisis de los sucesos impactantes.",
@@ -202,6 +27,209 @@
       "inicio": "2026-11-20T14:00:00",
       "fin": "2026-11-20T15:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
+    },
+    {
+      "titulo": "Global Es",
+      "descripcion": "8.000 millones de personas poblamos la Tierra. Y nunca hemos estado tan conectadas. ¿Cómo abordarlo? Global 3000 se convierte en Global Es, porque ahora más que nunca es necesaria una coexistencia consciente. ¿Cómo enfrentar los urgentes problemas mundiales?\n\nEl cambio climático y la pérdida de biodiversidad exigen una nueva forma de economía. Algo va a tener que cambiar si queremos vivir, trabajar y alimentarnos de forma digna en el futuro. El progreso y los cambios tecnológicos pueden ayudarnos a conseguirlo. Global Es da ideas sorprendentes, muestra posibles soluciones y ofrece perspectivas para un mundo que cambia a toda velocidad. Y para ello, parte de personas que buscan e impulsan el cambio y, así, inspiran a los demás.",
+      "inicio": "2026-11-20T15:30:00",
+      "fin": "2026-11-20T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/globales.jpg"
+    },
+    {
+      "titulo": "360 Grados",
+      "descripcion": "Los temas de actualidad de Colombia y el mundo son discutidos con debates y entrevistas.",
+      "inicio": "2026-11-20T16:00:00",
+      "fin": "2026-11-20T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Actualidad en análisis",
+      "descripcion": "Programa informativo y de análisis internacional de DW (Deutsche Welle) que examina en profundidad los acontecimientos políticos, económicos y sociales más relevantes de la actualidad global, con especial enfoque en sus repercusiones para América Latina y el mundo.",
+      "inicio": "2026-11-20T16:30:00",
+      "fin": "2026-11-20T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/actualidadenanalisis.jpg"
+    },
+    {
+      "titulo": "Cablenoticias a las 3",
+      "descripcion": "Actualización de las noticias y lo último del acontecer nacional e internacional sobre política, economía y sociedad a las 3 de la tarde.",
+      "inicio": "2026-11-20T17:00:00",
+      "fin": "2026-11-20T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Franja de especiales",
+      "descripcion": "Programas de salud y de cuidado personal.",
+      "inicio": "2026-11-20T18:00:00",
+      "fin": "2026-11-20T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La otra cara de la moneda",
+      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
+      "inicio": "2026-11-20T19:00:00",
+      "fin": "2026-11-20T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cablenoticias: Edición Central",
+      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
+      "inicio": "2026-11-20T20:00:00",
+      "fin": "2026-11-20T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
+    },
+    {
+      "titulo": "Hoy en el mundo",
+      "descripcion": "Toda la información de las noticias internacionales.",
+      "inicio": "2026-11-20T21:00:00",
+      "fin": "2026-11-20T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
+    },
+    {
+      "titulo": "La otra cara de la moneda",
+      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
+      "inicio": "2026-11-20T22:00:00",
+      "fin": "2026-11-20T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cablenoticias: Edición Central",
+      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
+      "inicio": "2026-11-20T23:00:00",
+      "fin": "2026-11-21T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
+    },
+    {
+      "titulo": "Deportes Cable Noticias",
+      "descripcion": "Lo mejor de todos los deportes nacionales e internacionales. Fútbol, tenis, ciclismo, carreras automovilísticas y mucho más.",
+      "inicio": "2026-11-21T00:00:00",
+      "fin": "2026-11-21T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La otra cara de la moneda",
+      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
+      "inicio": "2026-11-21T00:30:00",
+      "fin": "2026-11-21T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cablenoticias: Edición Central",
+      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
+      "inicio": "2026-11-21T01:30:00",
+      "fin": "2026-11-21T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
+    },
+    {
+      "titulo": "Deportes Cable Noticias",
+      "descripcion": "Lo mejor de todos los deportes nacionales e internacionales. Fútbol, tenis, ciclismo, carreras automovilísticas y mucho más.",
+      "inicio": "2026-11-21T02:30:00",
+      "fin": "2026-11-21T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hoy en el mundo",
+      "descripcion": "Toda la información de las noticias internacionales.",
+      "inicio": "2026-11-21T03:00:00",
+      "fin": "2026-11-21T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
+    },
+    {
+      "titulo": "Cablenoticias: Edición Central",
+      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
+      "inicio": "2026-11-21T04:00:00",
+      "fin": "2026-11-21T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
+    },
+    {
+      "titulo": "La otra cara de la moneda",
+      "descripcion": "Espacio de opinión, debate y entrevistas, donde se abordan temas de interés y actualidad.",
+      "inicio": "2026-11-21T05:00:00",
+      "fin": "2026-11-21T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hoy en el mundo",
+      "descripcion": "Toda la información de las noticias internacionales.",
+      "inicio": "2026-11-21T06:00:00",
+      "fin": "2026-11-21T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoyenelmundo.jpg"
+    },
+    {
+      "titulo": "Cablenoticias: Edición Central",
+      "descripcion": "El noticiero central con el resumen más completo de la jornada en San Antonio y sus alrededores.",
+      "inicio": "2026-11-21T07:00:00",
+      "fin": "2026-11-21T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cablenoticiasedicioncentral.jpg"
+    },
+    {
+      "titulo": "Deportes Cable Noticias",
+      "descripcion": "Lo mejor de todos los deportes nacionales e internacionales. Fútbol, tenis, ciclismo, carreras automovilísticas y mucho más.",
+      "inicio": "2026-11-21T08:00:00",
+      "fin": "2026-11-21T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cablenoticias fin de semana",
+      "descripcion": "Las noticias más importantes de la actualidad nacional e internacional.",
+      "inicio": "2026-11-21T08:30:00",
+      "fin": "2026-11-21T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Enfoque",
+      "descripcion": "En un mundo agitado por los conflictos, la política, la violencia y el cambio climático, y que genera noticia las 24 horas del día, se necesita conocer los hechos más importantes junto a las opiniones de los protagonista, analistas y expertos.",
+      "inicio": "2026-11-21T09:00:00",
+      "fin": "2026-11-21T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Especial Salud",
+      "descripcion": "Sección dedicada a informar sobre lo más destacado en el área de la salud en Colombia y el mundo, los avances, los problemas, las soluciones, las políticas, con entrevistas a los expertos.",
+      "inicio": "2026-11-21T09:30:00",
+      "fin": "2026-11-21T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Noticias internacionales",
+      "descripcion": "Un resumen con las principales noticias del mundo.",
+      "inicio": "2026-11-21T10:00:00",
+      "fin": "2026-11-21T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Especial Salud",
+      "descripcion": "Sección dedicada a informar sobre lo más destacado en el área de la salud en Colombia y el mundo, los avances, los problemas, las soluciones, las políticas, con entrevistas a los expertos.",
+      "inicio": "2026-11-21T10:30:00",
+      "fin": "2026-11-21T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TV Agro",
+      "descripcion": "Difusión de temas del sector agropecuario dentro de un contexto didáctico e informativo.",
+      "inicio": "2026-11-21T11:30:00",
+      "fin": "2026-11-21T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Hechos y Crónicas",
+      "descripcion": "Entrevistas y testimonios.",
+      "inicio": "2026-11-21T12:00:00",
+      "fin": "2026-11-21T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bloque económico",
+      "descripcion": "El más completo análisis de los mercados bursátiles a nivel mundial, desde su apertura hasta su cierre.",
+      "inicio": "2026-11-21T13:00:00",
+      "fin": "2026-11-21T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "360 Grados",
+      "descripcion": "Los temas de actualidad de Colombia y el mundo son discutidos con debates y entrevistas.",
+      "inicio": "2026-11-21T13:30:00",
+      "fin": "2026-11-21T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }
