@@ -1,122 +1,101 @@
 {
   "actual": {
-    "titulo": "Mediodía noticias",
-    "descripcion": "Toda la información sobre la actualidad nacional e internacional, y diversos temas de interés del público.",
-    "inicio": "2026-11-20T13:00:00",
-    "fin": "2026-11-20T14:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "La familia Ingalls",
+    "descripcion": "Una familia de pioneros lucha por sobrevivir en Minnesota alrededor del año 1870.",
+    "inicio": "2026-11-21T11:00:00",
+    "fin": "2026-11-21T18:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lafamiliaingalls.jpg"
   },
   "siguiente": {
-    "titulo": "La cocina rebelde",
-    "descripcion": "Con humor, recetas fáciles, consejos de nutrición e invitados especiales, el programa promete romper con el formato tradicional de cocina.",
-    "inicio": "2026-11-20T14:30:00",
-    "fin": "2026-11-20T16:15:00",
+    "titulo": "Nada es lo que parece",
+    "descripcion": "Cuenta la historia de un antiguo profesor de Antropología Cultural de la Universidad de Milán, convencido ateo, que tras ser abandonado por su esposa inicia una investigación sobre los orígenes de la \"fiesta del fuego\".",
+    "inicio": "2026-11-21T18:00:00",
+    "fin": "2026-11-21T19:45:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Mediodía noticias",
-      "descripcion": "Toda la información sobre la actualidad nacional e internacional, y diversos temas de interés del público.",
-      "inicio": "2026-11-20T13:00:00",
-      "fin": "2026-11-20T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La cocina rebelde",
-      "descripcion": "Con humor, recetas fáciles, consejos de nutrición e invitados especiales, el programa promete romper con el formato tradicional de cocina.",
-      "inicio": "2026-11-20T14:30:00",
-      "fin": "2026-11-20T16:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cuestión de peso",
-      "descripcion": "Personas con sobrepeso reciben ayuda para mejorar su calidad de vida.",
-      "inicio": "2026-11-20T16:15:00",
-      "fin": "2026-11-20T18:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "¡Ahora caigo!",
-      "descripcion": "Un concurso de agilidad mental, conocimientos de cultura general y rapidez en dónde los concursantes competirán para convertirse en el líder y conseguir el gran premio final.",
-      "inicio": "2026-11-20T18:15:00",
-      "fin": "2026-11-20T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ahoracaigo.jpg"
-    },
-    {
-      "titulo": "Telenoche",
-      "descripcion": "El mejor equipo de profesionales, primero estás vos.",
-      "inicio": "2026-11-20T20:00:00",
-      "fin": "2026-11-20T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telenoche.jpg"
-    },
-    {
-      "titulo": "Es mi sueño",
-      "descripcion": "En busca de la nueva estrella que brille en todo el país y que, con su talento e historia, conmueva a todos los argentinos. El objetivo es descubrir esa voz, esa presencia, ese artista capaz de trascender la pantalla y conquistar corazones.",
-      "inicio": "2026-11-20T21:00:00",
-      "fin": "2026-11-20T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Otro día perdido",
-      "descripcion": "Un espacio para romper con lo establecido, cuestionar la actualidad desde una mirada ácida y divertida, y ofrecer un diálogo con el espectador.",
-      "inicio": "2026-11-20T22:30:00",
-      "fin": "2026-11-21T00:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/otrodiaperdido.jpg"
-    },
-    {
-      "titulo": "Síntesis",
-      "descripcion": "Programa semanal en el que se abordarán los acontecimientos sociales, políticos y económicos más importantes en América Latina.",
-      "inicio": "2026-11-21T00:15:00",
-      "fin": "2026-11-21T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cucinare",
-      "descripcion": "Un programa compuesto de videos breves que explican el paso a paso para realizar las mejores y más sencillas recetas de cocina.",
-      "inicio": "2026-11-21T01:00:00",
-      "fin": "2026-11-21T01:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Cierre de transmisiones",
-      "descripcion": "Fin de emisión diaria del canal.",
-      "inicio": "2026-11-21T01:15:00",
-      "fin": "2026-11-21T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
-    },
-    {
-      "titulo": "Apertura TX",
-      "descripcion": "Inicio de la transmisión.",
-      "inicio": "2026-11-21T07:30:00",
-      "fin": "2026-11-21T07:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Pintín al rescate",
-      "descripcion": "La familia Pintín: Ada, Bepo y el abuelo Fierro deben rescatar a Luna, la hija menor de la familia, que fue secuestrada por humanos y llevada hasta una isla que funciona como zoológico privado de un siniestro personaje. Los esperará una travesía llena de peligros y aventuras.",
-      "inicio": "2026-11-21T07:40:00",
-      "fin": "2026-11-21T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lospintinalrescate.jpg"
-    },
-    {
-      "titulo": "Agro TV",
-      "descripcion": "Espacio que te acerca toda la tecnología agropecuaria, exhibiendo las experiencias más exitosas y rentables de los productores de punta. Con la opinión de los trabajadores y los agentes del cambio del agro argentino. Información al servicio del productor.",
-      "inicio": "2026-11-21T09:00:00",
-      "fin": "2026-11-21T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los Tres Chiflados",
-      "descripcion": "Serie de TV (1930-1970). 26 temporadas. 190 episodios. Serie cómica que alcanzó un reconocimiento mundial. El conjunto conoció varias formaciones, y sus integrantes más festejados son mejor conocidos por sus apodos que por sus nombres.",
-      "inicio": "2026-11-21T10:00:00",
-      "fin": "2026-11-21T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lostreschiflados.jpg"
-    },
     {
       "titulo": "La familia Ingalls",
       "descripcion": "Una familia de pioneros lucha por sobrevivir en Minnesota alrededor del año 1870.",
       "inicio": "2026-11-21T11:00:00",
       "fin": "2026-11-21T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lafamiliaingalls.jpg"
+    },
+    {
+      "titulo": "Nada es lo que parece",
+      "descripcion": "Cuenta la historia de un antiguo profesor de Antropología Cultural de la Universidad de Milán, convencido ateo, que tras ser abandonado por su esposa inicia una investigación sobre los orígenes de la \"fiesta del fuego\".",
+      "inicio": "2026-11-21T18:00:00",
+      "fin": "2026-11-21T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cásate conmigo",
+      "descripcion": "Kat Valdez, una superestrella pop es abandonada por Bastian, una estrella de rock, momentos antes de su boda en un concierto en el Madison Square Garden, por lo que ella por revancha se casa con un fanático que escoge entre el público.",
+      "inicio": "2026-11-21T19:45:00",
+      "fin": "2026-11-21T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casateconmigo.jpg"
+    },
+    {
+      "titulo": "Todo sigue igual",
+      "descripcion": "Espacio que combina actualidad, análisis y humor para repasar los acontecimientos que marcaron la semana con un invitado especial en cada edición.",
+      "inicio": "2026-11-21T21:30:00",
+      "fin": "2026-11-21T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La noche de Mirtha",
+      "descripcion": "La Chiqui encabezará las mesas con las figuras y los invitados más representativos, importantes y destacados de la cultura, política, espectáculos y el deporte. Jimena Monteverde será la encargada de preparar los exquisitos platos para los invitados, que disfrutarán en una escenografía renovada, moderna y lujosa.",
+      "inicio": "2026-11-21T22:30:00",
+      "fin": "2026-11-22T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Resto del mundo",
+      "descripcion": "Un recorrido por los lugares más alucinantes del mundo.",
+      "inicio": "2026-11-22T00:00:00",
+      "fin": "2026-11-22T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cucinare",
+      "descripcion": "Un programa compuesto de videos breves que explican el paso a paso para realizar las mejores y más sencillas recetas de cocina.",
+      "inicio": "2026-11-22T00:45:00",
+      "fin": "2026-11-22T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cierre de transmisiones",
+      "descripcion": "Fin de emisión diaria del canal.",
+      "inicio": "2026-11-22T01:00:00",
+      "fin": "2026-11-22T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
+    },
+    {
+      "titulo": "Apertura TX",
+      "descripcion": "Inicio de la transmisión.",
+      "inicio": "2026-11-22T08:30:00",
+      "fin": "2026-11-22T08:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El Garage TV",
+      "descripcion": "Como hace más de 25 años, El Garage sigue descubriendo y mostrando las 'joyitas' clásicas y actuales del mundo automotor, que dan vida a la inexplicable pasión argentina por los motores.",
+      "inicio": "2026-11-22T08:45:00",
+      "fin": "2026-11-22T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Extraños en la noche",
+      "descripcion": "Martín y Sol son una joven pareja de artistas en busca de sus destinos. Martín es un músico de formación académica que espera poder vivir de sus composiciones clásicas, mientras que Sol quiere triunfar como vocalista y líder de una banda de rock indie.",
+      "inicio": "2026-11-22T09:30:00",
+      "fin": "2026-11-22T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/extranosenlanoche.jpg"
+    },
+    {
+      "titulo": "La familia Ingalls",
+      "descripcion": "Una familia de pioneros lucha por sobrevivir en Minnesota alrededor del año 1870.",
+      "inicio": "2026-11-22T11:00:00",
+      "fin": "2026-11-22T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lafamiliaingalls.jpg"
     }
   ]

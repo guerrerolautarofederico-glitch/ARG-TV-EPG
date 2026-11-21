@@ -1,151 +1,116 @@
 {
   "actual": {
-    "titulo": "El Chiringuito",
-    "descripcion": "Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.",
-    "inicio": "2026-11-20T12:00:00",
-    "fin": "2026-11-20T14:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchiringuito.jpg"
+    "titulo": "Liga 1 Radio",
+    "descripcion": "Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análisis y comentarios del fútbol.",
+    "inicio": "2026-11-21T13:00:00",
+    "fin": "2026-11-21T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/liga1radio.jpg"
   },
   "siguiente": {
-    "titulo": "La palabra en juego • Óscar Vílchez",
-    "descripcion": "Óscar Vílchez | Entrevista a Óscar Vílchez, exfutbolista peruano reconocido por los títulos obtenidos con Alianza Lima y Sporting Cristal.",
-    "inicio": "2026-11-20T14:30:00",
-    "fin": "2026-11-20T15:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapalabraenjuego.jpg"
+    "titulo": "Fútbol Peruano Primera División • Cusco FC vs ADT",
+    "descripcion": "Cusco FC vs ADT | Jornada 17 del Torneo Clausura 2026 de la Liga 1. Cusco FC enfrenta a ADT. Desde el Estadio Garcilaso de la Vega.",
+    "inicio": "2026-11-21T14:00:00",
+    "fin": "2026-11-21T16:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
   },
   "lista": [
-    {
-      "titulo": "El Chiringuito",
-      "descripcion": "Programación deportiva que abarca toda la información reciente acerca de los equipos de fútbol español.",
-      "inicio": "2026-11-20T12:00:00",
-      "fin": "2026-11-20T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchiringuito.jpg"
-    },
-    {
-      "titulo": "La palabra en juego • Óscar Vílchez",
-      "descripcion": "Óscar Vílchez | Entrevista a Óscar Vílchez, exfutbolista peruano reconocido por los títulos obtenidos con Alianza Lima y Sporting Cristal.",
-      "inicio": "2026-11-20T14:30:00",
-      "fin": "2026-11-20T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapalabraenjuego.jpg"
-    },
-    {
-      "titulo": "Liga 1, la previa • Alianza Atlético vs FBC Melgar",
-      "descripcion": "Alianza Atlético vs FBC Melgar | Análisis previo del partido de la fecha 17 del Torneo Clausura 2026 de la Liga 1 entre Alianza Atlético y FBC Melgar. Desde el Estadio Campeones del 36, en Sullana.",
-      "inicio": "2026-11-20T15:30:00",
-      "fin": "2026-11-20T15:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/liga1laprevia.jpg"
-    },
-    {
-      "titulo": "[En vivo] Fútbol Peruano Primera División • Alianza Atlético vs Melgar",
-      "descripcion": "En vivo ║ Alianza Atlético vs Melgar | Jornada 17 del Torneo Clausura 2026 de la Liga 1. Alianza Atlético enfrenta a Melgar. Desde el Campeones del 36.",
-      "inicio": "2026-11-20T15:45:00",
-      "fin": "2026-11-20T18:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
-    },
-    {
-      "titulo": "Liga 1, el post • Alianza Atlético vs FBC Melgar",
-      "descripcion": "Alianza Atlético vs FBC Melgar | Análisis posterior del partido de la fecha 17 del Torneo Clausura 2026 de la Liga 1 entre Alianza Atlético y FBC Melgar. Desde el Estadio Campeones del 36, en Sullana.",
-      "inicio": "2026-11-20T18:15:00",
-      "fin": "2026-11-20T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/liga1elpost.jpg"
-    },
-    {
-      "titulo": "Liga 1, la previa • Deportivo Moquegua vs Atlético Grau",
-      "descripcion": "Deportivo Moquegua vs Atlético Grau | Análisis previo del partido de la fecha 17 del Torneo Clausura 2026 de la Liga 1 entre Deportivo Moquegua y Atlético Grau. Desde el Estadio 25 de Noviembre, en Moquegua.",
-      "inicio": "2026-11-20T18:30:00",
-      "fin": "2026-11-20T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/liga1laprevia.jpg"
-    },
-    {
-      "titulo": "[En vivo] Fútbol Peruano Primera División • CD Moquegua vs Atlético Grau",
-      "descripcion": "En vivo ║ CD Moquegua vs Atlético Grau | Acción de la fecha 17 del Torneo Clausura 2026. CD Moquegua enfrenta a Atlético Grau. Desde el Estadio 25 de Noviembre.",
-      "inicio": "2026-11-20T19:00:00",
-      "fin": "2026-11-20T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
-    },
-    {
-      "titulo": "Fútbol Peruano Primera División • Cusco FC vs Asociación Deportiva Tarma",
-      "descripcion": "Cusco FC vs Asociación Deportiva Tarma | Jornada 11 del torneo Apertura 2024. Cusco se enfrenta a ADT. Desde el estadio Inca Garcilaso de la Vega.",
-      "inicio": "2026-11-20T21:30:00",
-      "fin": "2026-11-21T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
-    },
-    {
-      "titulo": "Liga 1 Radio",
-      "descripcion": "Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análisis y comentarios del fútbol.",
-      "inicio": "2026-11-21T00:00:00",
-      "fin": "2026-11-21T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/liga1radio.jpg"
-    },
-    {
-      "titulo": "Fútbol Peruano Primera División • Alianza Atlético vs Melgar",
-      "descripcion": "Alianza Atlético vs Melgar | Jornada 17 del Torneo Clausura 2026 de la Liga 1. Alianza Atlético enfrenta a Melgar. Desde el Campeones del 36.",
-      "inicio": "2026-11-21T02:00:00",
-      "fin": "2026-11-21T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
-    },
-    {
-      "titulo": "Liga 1 Radio",
-      "descripcion": "Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análisis y comentarios del fútbol.",
-      "inicio": "2026-11-21T04:30:00",
-      "fin": "2026-11-21T05:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/liga1radio.jpg"
-    },
-    {
-      "titulo": "Match gol",
-      "descripcion": "Resumen completo de los partidos y los mejores goles del fin de semana del campeonato peruano Liga 1.",
-      "inicio": "2026-11-21T05:30:00",
-      "fin": "2026-11-21T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matchgol.jpg"
-    },
-    {
-      "titulo": "Fútbol Peruano Primera División • Juan Pablo II College vs Deportivo Garcilaso",
-      "descripcion": "Juan Pablo II College vs Deportivo Garcilaso | Jornada 17 del Torneo Clausura 2026 de la Liga 1. Juan Pablo II College enfrenta a Deportivo Garcilaso.",
-      "inicio": "2026-11-21T06:00:00",
-      "fin": "2026-11-21T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
-    },
-    {
-      "titulo": "Liga 1 Radio",
-      "descripcion": "Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análisis y comentarios del fútbol.",
-      "inicio": "2026-11-21T08:30:00",
-      "fin": "2026-11-21T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/liga1radio.jpg"
-    },
-    {
-      "titulo": "Match gol • Fecha 17 Clausura",
-      "descripcion": "Fecha 17 Clausura | Primera parte de la recopilación de los mejores goles de la fecha 17 del Torneo Clausura 2026 de la Liga 1.",
-      "inicio": "2026-11-21T09:30:00",
-      "fin": "2026-11-21T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matchgol.jpg"
-    },
-    {
-      "titulo": "La palabra en juego • Gustavo Peralta",
-      "descripcion": "Gustavo Peralta | Una charla con el periodista deportivo Gustavo Peralta Coello.",
-      "inicio": "2026-11-21T10:00:00",
-      "fin": "2026-11-21T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapalabraenjuego.jpg"
-    },
-    {
-      "titulo": "Liga 1 Radio",
-      "descripcion": "Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análisis y comentarios del fútbol.",
-      "inicio": "2026-11-21T11:00:00",
-      "fin": "2026-11-21T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/liga1radio.jpg"
-    },
-    {
-      "titulo": "La palabra en juego • Gustavo Peralta",
-      "descripcion": "Gustavo Peralta | Una charla con el periodista deportivo Gustavo Peralta Coello.",
-      "inicio": "2026-11-21T12:00:00",
-      "fin": "2026-11-21T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lapalabraenjuego.jpg"
-    },
     {
       "titulo": "Liga 1 Radio",
       "descripcion": "Cobertura de la Liga 1 de Perú con reconocidos periodistas que aportan sus análisis y comentarios del fútbol.",
       "inicio": "2026-11-21T13:00:00",
       "fin": "2026-11-21T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/liga1radio.jpg"
+    },
+    {
+      "titulo": "Fútbol Peruano Primera División • Cusco FC vs ADT",
+      "descripcion": "Cusco FC vs ADT | Jornada 17 del Torneo Clausura 2026 de la Liga 1. Cusco FC enfrenta a ADT. Desde el Estadio Garcilaso de la Vega.",
+      "inicio": "2026-11-21T14:00:00",
+      "fin": "2026-11-21T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
+    },
+    {
+      "titulo": "Liga 1, la previa • Alianza Atlético vs FBC Melgar",
+      "descripcion": "Alianza Atlético vs FBC Melgar | Análisis previo del partido de la fecha 17 del Torneo Clausura 2026 de la Liga 1 entre Alianza Atlético y FBC Melgar. Desde el Estadio Campeones del 36, en Sullana.",
+      "inicio": "2026-11-21T16:30:00",
+      "fin": "2026-11-21T17:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/liga1laprevia.jpg"
+    },
+    {
+      "titulo": "[En vivo] Minuto a minuto • Alianza Lima vs FC Cajamarca",
+      "descripcion": "En vivo ║ Alianza Lima vs FC Cajamarca | Fecha 17 del Torneo Clausura 2026 de la Liga 1. Alianza Lima se enfrenta a Cajamarca. Desde el estadio Alejandro Villanueva, en Lima.",
+      "inicio": "2026-11-21T17:15:00",
+      "fin": "2026-11-21T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/minutoaminuto.jpg"
+    },
+    {
+      "titulo": "Liga 1, el post • Alianza Lima vs FC Cajamarca",
+      "descripcion": "Alianza Lima vs FC Cajamarca | Análisis posterior del partido de la fecha 17 del Torneo Clausura 2026 de la Liga 1 entre Alianza Lima y Cajamarca. Desde el estadio Alejandro Villanueva, en Lima.",
+      "inicio": "2026-11-21T19:45:00",
+      "fin": "2026-11-21T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/liga1elpost.jpg"
+    },
+    {
+      "titulo": "Fútbol Peruano Primera División • Alianza Lima vs FC Cajamarca",
+      "descripcion": "Alianza Lima vs FC Cajamarca | Jornada 17 del Torneo Clausura 2026 de la Liga 1. Alianza Lima enfrenta a FC Cajamarca. Desde el Estadio Alejandro Villanueva.",
+      "inicio": "2026-11-21T20:30:00",
+      "fin": "2026-11-21T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
+    },
+    {
+      "titulo": "Fútbol Peruano Primera División • Alianza Atlético vs Melgar",
+      "descripcion": "Alianza Atlético vs Melgar | Jornada 17 del Torneo Clausura 2026 de la Liga 1. Alianza Atlético enfrenta a Melgar. Desde el Campeones del 36.",
+      "inicio": "2026-11-21T23:00:00",
+      "fin": "2026-11-22T01:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
+    },
+    {
+      "titulo": "Fútbol Peruano Primera División • Alianza Lima vs FC Cajamarca",
+      "descripcion": "Alianza Lima vs FC Cajamarca | Jornada 17 del Torneo Clausura 2026 de la Liga 1. Alianza Lima enfrenta a FC Cajamarca. Desde el Estadio Alejandro Villanueva.",
+      "inicio": "2026-11-22T01:30:00",
+      "fin": "2026-11-22T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
+    },
+    {
+      "titulo": "Fútbol Peruano Primera División • Juan Pablo II College vs Deportivo Garcilaso",
+      "descripcion": "Juan Pablo II College vs Deportivo Garcilaso | Jornada 17 del Torneo Clausura 2026 de la Liga 1. Juan Pablo II College enfrenta a Deportivo Garcilaso.",
+      "inicio": "2026-11-22T04:00:00",
+      "fin": "2026-11-22T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
+    },
+    {
+      "titulo": "Fútbol Peruano Primera División • Juan Pablo II College vs Deportivo Garcilaso",
+      "descripcion": "Juan Pablo II College vs Deportivo Garcilaso | Jornada 17 del Torneo Clausura 2026 de la Liga 1. Juan Pablo II College enfrenta a Deportivo Garcilaso.",
+      "inicio": "2026-11-22T06:00:00",
+      "fin": "2026-11-22T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
+    },
+    {
+      "titulo": "Fútbol Peruano Primera División • Cusco FC vs AD Tarma",
+      "descripcion": "Cusco FC vs AD Tarma | Fecha 10 del Torneo Clausura 2025 de la Liga 1. Desde el estadio Inca Garcilaso de la Vega, en Cusco. Los Guerreros Dorados buscan comenzar una racha de victorias consecutivas ante un AD Tarma que viene de vencer 3-1 al UTC.",
+      "inicio": "2026-11-22T06:30:00",
+      "fin": "2026-11-22T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
+    },
+    {
+      "titulo": "Fútbol Peruano Primera División • Alianza Lima vs FC Cajamarca",
+      "descripcion": "Alianza Lima vs FC Cajamarca | Jornada 17 del Torneo Clausura 2026 de la Liga 1. Alianza Lima enfrenta a FC Cajamarca. Desde el Estadio Alejandro Villanueva.",
+      "inicio": "2026-11-22T09:00:00",
+      "fin": "2026-11-22T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
+    },
+    {
+      "titulo": "Liga 1, el post • Alianza Lima vs FC Cajamarca",
+      "descripcion": "Alianza Lima vs FC Cajamarca | Análisis posterior del partido de la fecha 17 del Torneo Clausura 2026 de la Liga 1 entre Alianza Lima y Cajamarca. Desde el estadio Alejandro Villanueva, en Lima.",
+      "inicio": "2026-11-22T11:30:00",
+      "fin": "2026-11-22T12:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/liga1elpost.jpg"
+    },
+    {
+      "titulo": "Fútbol Peruano Primera División • Alianza Atlético vs Melgar",
+      "descripcion": "Alianza Atlético vs Melgar | Jornada 17 del Torneo Clausura 2026 de la Liga 1. Alianza Atlético enfrenta a Melgar. Desde el Campeones del 36.",
+      "inicio": "2026-11-22T12:15:00",
+      "fin": "2026-11-22T14:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/futbolperuanoprimeradivision.jpg"
     }
   ]
 }

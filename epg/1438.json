@@ -1,108 +1,150 @@
 {
   "actual": {
-    "titulo": "NFL",
-    "descripcion": "Vive los partidos de la edición 107º de la NFL. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos.",
-    "inicio": "2026-11-20T12:30:00",
-    "fin": "2026-11-20T16:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nfl.jpg"
+    "titulo": "Circuito ROTAX",
+    "descripcion": "Repetición ║ Disfruta de la adrenalina de la carrera del Circuito Rotax.",
+    "inicio": "2026-11-21T13:00:00",
+    "fin": "2026-11-21T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Media cancha",
-    "descripcion": "Repetición ║ Un espacio dedicado al básquet, donde compartiremos historias, invitados de lujo, curiosidades, virales y juegos.",
-    "inicio": "2026-11-20T16:00:00",
-    "fin": "2026-11-20T17:00:00",
+    "titulo": "[En vivo] Copa Rotax - RMC",
+    "descripcion": "En vivo ║ Disfruta lo más destacado de las instancias finales de la Copa Rotax RMC Argentina 2026. Los amantes del deporte podrán ser parte de las carreras más emocionantes mientras los pilotos de kartings lo dejan todo por la victoria.",
+    "inicio": "2026-11-21T14:00:00",
+    "fin": "2026-11-21T17:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "NFL",
-      "descripcion": "Vive los partidos de la edición 107º de la NFL. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos.",
-      "inicio": "2026-11-20T12:30:00",
-      "fin": "2026-11-20T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nfl.jpg"
-    },
-    {
-      "titulo": "Media cancha",
-      "descripcion": "Repetición ║ Un espacio dedicado al básquet, donde compartiremos historias, invitados de lujo, curiosidades, virales y juegos.",
-      "inicio": "2026-11-20T16:00:00",
-      "fin": "2026-11-20T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] Casa Marketing registrado",
-      "descripcion": "En vivo ║ Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.",
-      "inicio": "2026-11-20T17:00:00",
-      "fin": "2026-11-20T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Copa Intercontinental de futsal • Palma Futsal vs Sporting Futsal, Final",
-      "descripcion": "Repetición ║ Palma Futsal vs Sporting Futsal, Final | Vive las emociones de los partidos de la edición 2026 de la Copa Intercontinental de futsal. Participan 6 equipos divididos en 2 grupos de 3 y se celebra en la Arena Cláudio Petrycoski en Pato Branco, Paraná, Brasil.",
-      "inicio": "2026-11-20T18:00:00",
-      "fin": "2026-11-20T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mundial de Karting Rotax 3",
-      "descripcion": "Repetición ║ Disfruta lo más destacado de las instancias finales de la Copa Rotax RMC Argentina 2026. Los amantes del deporte podrán ser parte de las carreras más emocionantes mientras los pilotos de kartings lo dejan todo por la victoria.",
-      "inicio": "2026-11-20T20:00:00",
-      "fin": "2026-11-21T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Born Racers",
-      "descripcion": "Sigue la Red Bull MotoGP Rookies Cup 2023, contando las historias de jóvenes promesas en su camino hacia el Campeonato del Mundo de motociclismo.",
-      "inicio": "2026-11-21T00:00:00",
-      "fin": "2026-11-21T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bornracers.jpg"
-    },
-    {
-      "titulo": "Copa Intercontinental del Futsal • Semifinal II",
-      "descripcion": "Repetición ║ Semifinal II | Vive las emociones de los partidos de la edición 2026 de la Copa Intercontinental de futsal. Participan 6 equipos divididos en 2 grupos de 3 y se celebra en la Arena Cláudio Petrycoski en Pato Branco, Paraná, Brasil.",
-      "inicio": "2026-11-21T03:00:00",
-      "fin": "2026-11-21T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Copa Intercontinental del Futsal • Final",
-      "descripcion": "Repetición ║ Final | Vive las emociones de los partidos de la edición 2026 de la Copa Intercontinental de futsal. Participan 6 equipos divididos en 2 grupos de 3 y se celebra en la Arena Cláudio Petrycoski en Pato Branco, Paraná, Brasil.",
-      "inicio": "2026-11-21T05:00:00",
-      "fin": "2026-11-21T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Media cancha",
-      "descripcion": "Repetición ║ Un espacio dedicado al básquet, donde compartiremos historias, invitados de lujo, curiosidades, virales y juegos.",
-      "inicio": "2026-11-21T07:00:00",
-      "fin": "2026-11-21T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Red Bull Chasing Winter NBC - CBC Special Dirty",
-      "descripcion": "Repetición ║ Un documental que sigue a los snowboarders Mark McMorris, Jake Canter, Hailey Langland, Takeru Otsuka, Miyabi Onitsuka y Brock Crouch mientras se preparan para los Juegos Olímpicos en un campo de entrenamiento de élite en Saas-Fee, Suiza.",
-      "inicio": "2026-11-21T08:00:00",
-      "fin": "2026-11-21T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Copa Intercontinental del Futsal • Final",
-      "descripcion": "Repetición ║ Final | Vive las emociones de los partidos de la edición 2026 de la Copa Intercontinental de futsal. Participan 6 equipos divididos en 2 grupos de 3 y se celebra en la Arena Cláudio Petrycoski en Pato Branco, Paraná, Brasil.",
-      "inicio": "2026-11-21T09:00:00",
-      "fin": "2026-11-21T10:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "[En vivo] Copa de Portugal • Mafra vs FC Arouca, 16vos de final, Estadio Municipal de Mafra",
-      "descripcion": "En vivo ║ Mafra vs FC Arouca, 16vos de final, Estadio Municipal de Mafra | Mafra recibe a FC Arouca en el Estadio Municipal de Mafra por los 16vos de final de la Copa de Portugal. El equipo local llega tras una derrota 2-1 ante un rival de Liga 3, mientras que Arouca viene de perder 1-0 en la Primeira Liga. En el historial directo, Arouca ha ganado una vez y han empatado en tres ocasiones, siendo el último enfrentamiento el 15 de mayo de 2021, donde Arouca se impuso 1-0.",
-      "inicio": "2026-11-21T10:50:00",
-      "fin": "2026-11-21T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Circuito ROTAX",
       "descripcion": "Repetición ║ Disfruta de la adrenalina de la carrera del Circuito Rotax.",
       "inicio": "2026-11-21T13:00:00",
       "fin": "2026-11-21T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Copa Rotax - RMC",
+      "descripcion": "En vivo ║ Disfruta lo más destacado de las instancias finales de la Copa Rotax RMC Argentina 2026. Los amantes del deporte podrán ser parte de las carreras más emocionantes mientras los pilotos de kartings lo dejan todo por la victoria.",
+      "inicio": "2026-11-21T14:00:00",
+      "fin": "2026-11-21T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rafael Ortiz - Red Bull Chasing Waterfalls",
+      "descripcion": "El mexicano Rafa Ortiz sueña con tirarse en kayak por las Cataratas del Niágara y busca conseguirlo aunque no sea capaz de imaginar cómo lograrlo.",
+      "inicio": "2026-11-21T17:00:00",
+      "fin": "2026-11-21T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Handball de primera",
+      "descripcion": "Repetición ║ Un espacio dedicado por completo a la emoción del handball.",
+      "inicio": "2026-11-21T17:30:00",
+      "fin": "2026-11-21T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Red Bull Aconcagua: A New Chance",
+      "descripcion": "Repetición ║ la ultramaratoniana Fernanda Maciel mientras viaja a Argentina e intenta convertirse en la primera mujer en subir y bajar una de las montañas más altas del planeta, el Aconcagua, en un día.",
+      "inicio": "2026-11-21T19:30:00",
+      "fin": "2026-11-21T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Red Bull Adventure: Jaan Roose - Life On the Line",
+      "descripcion": "Repetición ║ Una producción que explora cómo cómo el atleta estonio de slackline Jaan Roose, redefinió los límites del logro humano al cruzar a pie el Estrecho de Mesina, desde la Italia continental hasta Sicilia, caminando sobre un slackline de 3,6 km.",
+      "inicio": "2026-11-21T20:30:00",
+      "fin": "2026-11-21T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Red Bull Fairy Flight",
+      "descripcion": "Repetición ║ Valentin Delluc desciende desde los icónicos globos aerostáticos de la mágica Capadocia en Turquía para vivir una aventura de vuelo a alta velocidad llena de acción.",
+      "inicio": "2026-11-21T21:00:00",
+      "fin": "2026-11-21T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lady fierros",
+      "descripcion": "Repetición ║ Un programa que promueve el empoderamiento femenino alrededor del vehículo y la mecánica. En esta clínica de autos es una comunidad que capacita y educa, a mujeres y todos los interesados, en todo lo relacionado a la industria automotriz: decisión de compra, reparación, técnicas de manejo, detección y solución entre otras cosas.",
+      "inicio": "2026-11-21T21:30:00",
+      "fin": "2026-11-21T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Casa Marketing registrado",
+      "descripcion": "Repetición ║ Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.",
+      "inicio": "2026-11-21T22:30:00",
+      "fin": "2026-11-21T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Encouraged",
+      "descripcion": "Repetición ║ Courage Adams nació en Nigeria y se mudó a España de niño junto a su familia. A los 12 años comenzó a andar en BMX y a los 16 se convirtió en profesional. Ya reconocido en el deporte, emprende un emocionante viaje de regreso para descubrir sus orígenes y la escena local de BMX.",
+      "inicio": "2026-11-21T23:30:00",
+      "fin": "2026-11-22T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/encouraged.jpg"
+    },
+    {
+      "titulo": "Copa de Portugal • Vitória Guimaraes vs SC Braga, 16vos de final, Estádio D. Afonso Henriques",
+      "descripcion": "Repetición ║ Vitória Guimaraes vs SC Braga, 16vos de final, Estádio D. Afonso Henriques | Vitória Guimaraes recibe a SC Braga en la Copa de Portugal por los 16vos de final. El equipo local llega tras una derrota 1-2 ante un rival en la Primeira Liga, mientras que el visitante viene de una victoria 1-0 en su último partido. En el historial reciente entre ambos, SC Braga ha ganado 2 de los últimos 5 enfrentamientos, mientras que Vitória Guimaraes ha logrado una victoria y se han registrado 2 empates.",
+      "inicio": "2026-11-22T00:00:00",
+      "fin": "2026-11-22T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Searching Peru",
+      "descripcion": "Gabriel Villarán y sus amigos abren paso a nuevas rutas en esta épica aventura que recorre toda la costa peruana de norte a sur, descubriendo olas impresionantes que nunca han sido surfeadas.",
+      "inicio": "2026-11-22T02:00:00",
+      "fin": "2026-11-22T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/searchingperu.jpg"
+    },
+    {
+      "titulo": "Jorge Prado - Under the Lights",
+      "descripcion": "Repetición ║ Seguimos al piloto español de motocross Jorge Prado.",
+      "inicio": "2026-11-22T03:00:00",
+      "fin": "2026-11-22T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mundial de Karting Rotax 3",
+      "descripcion": "Repetición ║ Disfruta lo más destacado de las instancias finales de la Copa Rotax RMC Argentina 2026. Los amantes del deporte podrán ser parte de las carreras más emocionantes mientras los pilotos de kartings lo dejan todo por la victoria.",
+      "inicio": "2026-11-22T03:30:00",
+      "fin": "2026-11-22T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Circuito ROTAX",
+      "descripcion": "Repetición ║ Disfruta de la adrenalina de la carrera del Circuito Rotax.",
+      "inicio": "2026-11-22T07:00:00",
+      "fin": "2026-11-22T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Ekstraklasa • Raków Czestochowa vs Widzew Lodz, Fecha 15",
+      "descripcion": "En vivo ║ Raków Czestochowa vs Widzew Lodz, Fecha 15 | Disfruta las emociones de la edición número 93 de la máxima competición del fútbol de Polonia. Participan 18 equipos en un sistema de todos contra todos.",
+      "inicio": "2026-11-22T08:00:00",
+      "fin": "2026-11-22T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Red Bull Diving: Hidden Cliffs - Saudi Arabia's Water Sports",
+      "descripcion": "Repetición ║ Antes de las Series Mundiales de Red Bull Cliff Diving 2024, el rumano Catalin Preda y el estadounidense David Colturi se convierten en las primeras personas en sumergirse en los wadis de Arabia Saudita, el país sin ríos más grande del mundo.",
+      "inicio": "2026-11-22T10:30:00",
+      "fin": "2026-11-22T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lady fierros",
+      "descripcion": "Repetición ║ Un programa que promueve el empoderamiento femenino alrededor del vehículo y la mecánica. En esta clínica de autos es una comunidad que capacita y educa, a mujeres y todos los interesados, en todo lo relacionado a la industria automotriz: decisión de compra, reparación, técnicas de manejo, detección y solución entre otras cosas.",
+      "inicio": "2026-11-22T11:00:00",
+      "fin": "2026-11-22T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "[En vivo] Copa Rotax - RMC",
+      "descripcion": "En vivo ║ Disfruta lo más destacado de las instancias finales de la Copa Rotax RMC Argentina 2026. Los amantes del deporte podrán ser parte de las carreras más emocionantes mientras los pilotos de kartings lo dejan todo por la victoria.",
+      "inicio": "2026-11-22T12:00:00",
+      "fin": "2026-11-22T15:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

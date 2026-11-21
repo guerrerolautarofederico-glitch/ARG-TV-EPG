@@ -1,117 +1,19 @@
 {
   "actual": {
-    "titulo": "Sale el sol",
-    "descripcion": "Estreno ║ Programa matutino divertido y dinámico que toca temas actuales que inspiran, informan y generan una actitud positiva.",
-    "inicio": "2026-11-20T12:30:00",
-    "fin": "2026-11-20T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/saleelsol.jpg"
+    "titulo": "Sale el sol para todos",
+    "descripcion": "Un resumen que recapitula lo más importante de la semana.",
+    "inicio": "2026-11-21T12:45:00",
+    "fin": "2026-11-21T13:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/saleelsolparatodos.jpg"
   },
   "siguiente": {
-    "titulo": "Rocío a tu lado",
-    "descripcion": "Hablar de los problemas es el primer paso para superarlos, por eso, Rocío trae un programa único para hablar de todo lo que preocupa y, en conjunto, encontrar una solución.",
-    "inicio": "2026-11-20T15:00:00",
-    "fin": "2026-11-20T16:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rocioatulado.jpg"
+    "titulo": "Pareja de emergencia",
+    "descripcion": "Una pareja divorciada reavivan lo que sentían por el otro cuando se reencuentran como internos en el mismo hospital.",
+    "inicio": "2026-11-21T13:30:00",
+    "fin": "2026-11-21T15:45:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/parejadeemergencia.jpg"
   },
   "lista": [
-    {
-      "titulo": "Sale el sol",
-      "descripcion": "Estreno ║ Programa matutino divertido y dinámico que toca temas actuales que inspiran, informan y generan una actitud positiva.",
-      "inicio": "2026-11-20T12:30:00",
-      "fin": "2026-11-20T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/saleelsol.jpg"
-    },
-    {
-      "titulo": "Rocío a tu lado",
-      "descripcion": "Hablar de los problemas es el primer paso para superarlos, por eso, Rocío trae un programa único para hablar de todo lo que preocupa y, en conjunto, encontrar una solución.",
-      "inicio": "2026-11-20T15:00:00",
-      "fin": "2026-11-20T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rocioatulado.jpg"
-    },
-    {
-      "titulo": "Historias de un milagro",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-20T16:00:00",
-      "fin": "2026-11-20T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/historiasdeunmilagro.jpg"
-    },
-    {
-      "titulo": "Imagen noticias con Crystal Mendívil",
-      "descripcion": "Estreno ║ Las noticias más relevantes del momento.",
-      "inicio": "2026-11-20T17:00:00",
-      "fin": "2026-11-20T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/imagennoticiasconcrystalmendivil.jpg"
-    },
-    {
-      "titulo": "De primera mano",
-      "descripcion": "Estreno ║ Un programa de opinión sobre el mundo de los espectáculos. En él, además de presentarse los hechos y secretos más relevantes de la farándula, se da a conocer la opinión de los comunicadores y se profundiza la opinión y sentir del público.",
-      "inicio": "2026-11-20T18:00:00",
-      "fin": "2026-11-20T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/deprimeramano.jpg"
-    },
-    {
-      "titulo": "Legado de amor",
-      "descripcion": "Cuando fallece el patriarca de una casa, la vida de sus herederos cambia. Durante la lectura del testamento aparece Sara, la hermana que los jóvenes hijos no sabían que existía.",
-      "inicio": "2026-11-20T20:30:00",
-      "fin": "2026-11-20T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Jesús",
-      "descripcion": "La trayectoria de Jesucristo antes de la resurrección. Sus milagros y el calvario de la cruz. Las vidas de quienes fueron curados por Jesucristo y quiénes eran los apóstoles.",
-      "inicio": "2026-11-20T22:00:00",
-      "fin": "2026-11-20T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/jesus.jpg"
-    },
-    {
-      "titulo": "Destino roto",
-      "descripcion": "Toprak despierta de un coma tras cinco años sin recordar nada de su pasado, y regresa a una familia que no reconoce, incluida su prometida de toda la vida y un niño que vive con él. Sin embargo, su amnesia lo mantiene en una incertidumbre constante.",
-      "inicio": "2026-11-20T23:30:00",
-      "fin": "2026-11-21T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/destinoroto.jpg"
-    },
-    {
-      "titulo": "Me prohíbo amarte",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-21T00:30:00",
-      "fin": "2026-11-21T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/meprohiboamarte.jpg"
-    },
-    {
-      "titulo": "Imagen Noticias con Nacho Lozano",
-      "descripcion": "Una mirada aguda a las noticias y los hechos más relevantes de la realidad local, nacional e internacional.",
-      "inicio": "2026-11-21T01:30:00",
-      "fin": "2026-11-21T02:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/imagennoticiasconnacholozano.jpg"
-    },
-    {
-      "titulo": "¡Qué importa!",
-      "descripcion": "Espacio con las mejores noticias del día con tono divertido. Propone al espectador terminar el día bien informado y contento.",
-      "inicio": "2026-11-21T02:10:00",
-      "fin": "2026-11-21T02:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/queimporta.jpg"
-    },
-    {
-      "titulo": "Farmacias Similares",
-      "descripcion": "Espacio infomercial.",
-      "inicio": "2026-11-21T02:40:00",
-      "fin": "2026-11-21T03:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/farmaciassimilares.jpg"
-    },
-    {
-      "titulo": "CV directo",
-      "descripcion": "Venta de productos de todo tipo.",
-      "inicio": "2026-11-21T03:30:00",
-      "fin": "2026-11-21T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cvdirecto.jpg"
-    },
-    {
-      "titulo": "CV directo",
-      "descripcion": "Venta de productos de todo tipo.",
-      "inicio": "2026-11-21T09:30:00",
-      "fin": "2026-11-21T12:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cvdirecto.jpg"
-    },
     {
       "titulo": "Sale el sol para todos",
       "descripcion": "Un resumen que recapitula lo más importante de la semana.",
@@ -125,6 +27,76 @@
       "inicio": "2026-11-21T13:30:00",
       "fin": "2026-11-21T15:45:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/parejadeemergencia.jpg"
+    },
+    {
+      "titulo": "Al fin de primera mano",
+      "descripcion": "Un programa de opinión sobre el mundo de los espectáculos. En él, además de presentarse los hechos y secretos más relevantes de la farándula, se da a conocer la opinión de los comunicadores y se profundiza la opinión y sentir del público.",
+      "inicio": "2026-11-21T15:45:00",
+      "fin": "2026-11-21T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alfindeprimeramano.jpg"
+    },
+    {
+      "titulo": "Nosotros los rateros",
+      "descripcion": "\"Nosotros los rateros\" es una película mexicana de la época de oro del cine mexicano que tiene como actores principales a Manolín (Manuel Palacios Sierra) y Shilinsky (Estanislao Shilinsky) y como director a Juan Bustillo Oro. Trata de una familia de rateros, de la aventura de uno de ellos en un hotel y los enredos que tienen lugar ahí, y del juicio de otro hermano.",
+      "inicio": "2026-11-21T18:00:00",
+      "fin": "2026-11-21T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Las tandas del principal",
+      "descripcion": "A principios del siglo XX, un chico se enamora de una mujer que parece ser una chica decente, pero le espera una gran desilusión.",
+      "inicio": "2026-11-21T19:45:00",
+      "fin": "2026-11-21T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lastandasdelprincipal.jpg"
+    },
+    {
+      "titulo": "Rocío a tu lado - Lo mejor",
+      "descripcion": "Lo mejor del programa donde se habla de todo lo que preocupa y, en conjunto, encontrar una solución.",
+      "inicio": "2026-11-21T22:00:00",
+      "fin": "2026-11-21T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/rocioatuladolomejor.jpg"
+    },
+    {
+      "titulo": "El minuto que cambió mi destino sin censura • Especial: Mejores programas",
+      "descripcion": "Especial: Mejores programas | Programa de entrevistas que muestra el minuto que transformó la vida de grandes personalidades del mundo del espectáculo y les quita las máscaras de los personajes que han pretendido ser a lo largo de sus carreras.",
+      "inicio": "2026-11-21T23:00:00",
+      "fin": "2026-11-22T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Mentes únicas",
+      "descripcion": "Un grupo de periodistas neurodivergentes entrevista a las figuras más conocidas del deporte, el entretenimiento, los negocios y los medios de comunicación de México.",
+      "inicio": "2026-11-22T00:30:00",
+      "fin": "2026-11-22T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mentesunicas.jpg"
+    },
+    {
+      "titulo": "El indiano",
+      "descripcion": "El sencillo padre de Jaime declara que su hijo se hace pasar por un millonario cuando en realidad es hijo de una humilde cantante, que se presenta para solucionar sus problemas de noviazgo.",
+      "inicio": "2026-11-22T01:00:00",
+      "fin": "2026-11-22T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "CV directo",
+      "descripcion": "Venta de productos de todo tipo.",
+      "inicio": "2026-11-22T03:00:00",
+      "fin": "2026-11-22T08:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cvdirecto.jpg"
+    },
+    {
+      "titulo": "CV directo",
+      "descripcion": "Venta de productos de todo tipo.",
+      "inicio": "2026-11-22T08:50:00",
+      "fin": "2026-11-22T12:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cvdirecto.jpg"
+    },
+    {
+      "titulo": "La semana de pisa y corre",
+      "descripcion": "Lo más relevante de la información nacional e internacional. Además, contenidos de interés general y reportajes exclusivos.",
+      "inicio": "2026-11-22T12:35:00",
+      "fin": "2026-11-22T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lasemanadepisaycorre.jpg"
     }
   ]
 }

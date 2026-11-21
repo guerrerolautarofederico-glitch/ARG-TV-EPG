@@ -1,95 +1,123 @@
 {
   "actual": {
-    "titulo": "Reportajes DW",
-    "descripcion": "Selección de reportajes y documentales de la cadena alemana Deutsche Welle, que abordan temas de actualidad, ciencia y cultura a nivel mundial.",
-    "inicio": "2026-11-20T13:00:00",
-    "fin": "2026-11-20T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reportajesdw.jpg"
+    "titulo": "Matinal siempre juntos",
+    "descripcion": "Repetición del programa matinal enfocado en la comunidad, con lo mejor de la semana.",
+    "inicio": "2026-11-21T10:00:00",
+    "fin": "2026-11-21T14:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matinalsiemprejuntos.jpg"
   },
   "siguiente": {
-    "titulo": "Multiversos",
-    "descripcion": "Programa de divulgación que explora diversos temas desde una perspectiva científica y académica, abarcando desde la historia hasta la tecnología.",
-    "inicio": "2026-11-20T14:00:00",
-    "fin": "2026-11-20T16:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/multiversos.jpg"
+    "titulo": "Conéctate TVU",
+    "descripcion": "Programa de fin de semana con datos de turismo, tendencias, música en vivo y deportes no tradicionales.",
+    "inicio": "2026-11-21T14:00:00",
+    "fin": "2026-11-21T15:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Reportajes DW",
-      "descripcion": "Selección de reportajes y documentales de la cadena alemana Deutsche Welle, que abordan temas de actualidad, ciencia y cultura a nivel mundial.",
-      "inicio": "2026-11-20T13:00:00",
-      "fin": "2026-11-20T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reportajesdw.jpg"
-    },
-    {
-      "titulo": "Multiversos",
-      "descripcion": "Programa de divulgación que explora diversos temas desde una perspectiva científica y académica, abarcando desde la historia hasta la tecnología.",
-      "inicio": "2026-11-20T14:00:00",
-      "fin": "2026-11-20T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/multiversos.jpg"
-    },
-    {
-      "titulo": "CNTV infantil",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-      "inicio": "2026-11-20T16:00:00",
-      "fin": "2026-11-20T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "Multiversos",
-      "descripcion": "Repetición del programa de divulgación que explora diversos temas desde una perspectiva científica y académica.",
-      "inicio": "2026-11-20T18:00:00",
-      "fin": "2026-11-20T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/multiversos.jpg"
-    },
-    {
-      "titulo": "TVU Noticias Central",
-      "descripcion": "Edición central de las noticias de TVU, con un completo resumen de los hechos más importantes de la jornada en la región y el mundo.",
-      "inicio": "2026-11-20T20:00:00",
-      "fin": "2026-11-20T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tvunoticiascentral.jpg"
-    },
-    {
-      "titulo": "La Conversa",
-      "descripcion": "Programa de conversación sobre temas de actualidad económica, social y legal, con análisis y debate junto a expertos.",
-      "inicio": "2026-11-20T20:30:00",
-      "fin": "2026-11-20T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laconversa.jpg"
-    },
-    {
-      "titulo": "Portavoz noticias",
-      "descripcion": "Un noticiero nacional accesible, hecho para todas las regiones.",
-      "inicio": "2026-11-20T21:00:00",
-      "fin": "2026-11-20T21:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
-    },
-    {
-      "titulo": "Matinal siempre juntos",
-      "descripcion": "Repetición del programa matinal enfocado en la comunidad, con lo mejor de la jornada.",
-      "inicio": "2026-11-20T21:45:00",
-      "fin": "2026-11-20T23:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matinalsiemprejuntos.jpg"
-    },
-    {
-      "titulo": "TVU Noticias Central",
-      "descripcion": "Repetición de la edición central de las noticias de TVU.",
-      "inicio": "2026-11-20T23:15:00",
-      "fin": "2026-11-21T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tvunoticiascentral.jpg"
-    },
-    {
-      "titulo": "CNTV infantil",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-      "inicio": "2026-11-21T08:00:00",
-      "fin": "2026-11-21T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
     {
       "titulo": "Matinal siempre juntos",
       "descripcion": "Repetición del programa matinal enfocado en la comunidad, con lo mejor de la semana.",
       "inicio": "2026-11-21T10:00:00",
       "fin": "2026-11-21T14:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matinalsiemprejuntos.jpg"
+    },
+    {
+      "titulo": "Conéctate TVU",
+      "descripcion": "Programa de fin de semana con datos de turismo, tendencias, música en vivo y deportes no tradicionales.",
+      "inicio": "2026-11-21T14:00:00",
+      "fin": "2026-11-21T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
+      "inicio": "2026-11-21T15:00:00",
+      "fin": "2026-11-21T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Conéctate TVU",
+      "descripcion": "Repetición del programa de fin de semana con datos de turismo, tendencias, música y deportes.",
+      "inicio": "2026-11-21T17:00:00",
+      "fin": "2026-11-21T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Multiversos",
+      "descripcion": "Repetición del programa de divulgación que explora diversos temas desde una perspectiva científica y académica.",
+      "inicio": "2026-11-21T18:00:00",
+      "fin": "2026-11-21T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/multiversos.jpg"
+    },
+    {
+      "titulo": "Documental Invasores",
+      "descripcion": "Serie documental que explora cómo las especies exóticas invasoras están amenazando la naturaleza y biodiversidad de Chile.",
+      "inicio": "2026-11-21T19:30:00",
+      "fin": "2026-11-21T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "TVU Noticias Central",
+      "descripcion": "Edición central de las noticias de TVU, con un completo resumen de los hechos más importantes de la jornada en la región y el mundo.",
+      "inicio": "2026-11-21T20:00:00",
+      "fin": "2026-11-21T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tvunoticiascentral.jpg"
+    },
+    {
+      "titulo": "Portavoz noticias",
+      "descripcion": "Un noticiero nacional accesible, hecho para todas las regiones.",
+      "inicio": "2026-11-21T20:30:00",
+      "fin": "2026-11-21T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/portavoznoticias.jpg"
+    },
+    {
+      "titulo": "Concierto Sinfónico Escuela Verano UdeC",
+      "descripcion": "Presentación de un concierto de la Orquesta Sinfónica de la Universidad de Concepción, en el marco de la tradicional Escuela de Verano UdeC.",
+      "inicio": "2026-11-21T21:00:00",
+      "fin": "2026-11-21T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La Conversa",
+      "descripcion": "Repetición del programa de conversación sobre temas de actualidad económica, social y legal.",
+      "inicio": "2026-11-21T22:00:00",
+      "fin": "2026-11-21T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laconversa.jpg"
+    },
+    {
+      "titulo": "Recomendados",
+      "descripcion": "Espacio con una selección de los mejores momentos de la semana, avances de programación y recomendaciones de panoramas y actividades.",
+      "inicio": "2026-11-21T22:30:00",
+      "fin": "2026-11-21T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/recomendados.jpg"
+    },
+    {
+      "titulo": "Cartelera nocturna",
+      "descripcion": "Programa nocturno con una selección de videos musicales, cortometrajes y otros contenidos de entretenimiento para terminar el día.",
+      "inicio": "2026-11-21T23:30:00",
+      "fin": "2026-11-22T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/carteleranocturna.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
+      "inicio": "2026-11-22T08:00:00",
+      "fin": "2026-11-22T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "SJ Cocina en Familia",
+      "descripcion": "Repetición del programa de cocina familiar, ideal para preparar recetas entretenidas y sabrosas durante el fin de semana.",
+      "inicio": "2026-11-22T12:00:00",
+      "fin": "2026-11-22T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Reportajes DW",
+      "descripcion": "Selección de reportajes y documentales de la cadena alemana Deutsche Welle, que abordan temas de actualidad, ciencia y cultura a nivel mundial.",
+      "inicio": "2026-11-22T13:00:00",
+      "fin": "2026-11-22T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/reportajesdw.jpg"
     }
   ]
 }
