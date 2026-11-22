@@ -1,130 +1,529 @@
 {
   "actual": {
-    "titulo": "[En vivo] Vivo el sábado x A24",
-    "descripcion": "En vivo ║ Actualidad, información, móviles en vivo, corresponsales en todo el país y en el mundo desde el lugar de los hechos.",
-    "inicio": "2026-11-21T07:00:00",
-    "fin": "2026-11-21T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "NHK Amateur Singing Contest • Sakai City, Fukui Prefecture",
+    "descripcion": "Sakai City, Fukui Prefecture | Song competition held at different towns and cities around Japan; guest singers join in for support.",
+    "inicio": "2026-11-22T12:35:00",
+    "fin": "2026-11-22T13:20:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nhkamateursingingcontest.jpg"
   },
   "siguiente": {
-    "titulo": "[En vivo] A24 Internacional",
-    "descripcion": "En vivo ║ Damian Svalzb conduce un espacio que aborda las noticias más destacadas del ámbito internacional. A través de reportajes, entrevistas y análisis, el público podrá informarse al competo sobre la realidad en el mundo.",
-    "inicio": "2026-11-21T14:00:00",
-    "fin": "2026-11-21T14:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "World Weather",
+    "descripcion": "Weather information of the different areas around the world.",
+    "inicio": "2026-11-22T13:20:00",
+    "fin": "2026-11-22T13:25:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/worldweather.jpg"
   },
   "lista": [
     {
-      "titulo": "[En vivo] Vivo el sábado x A24",
-      "descripcion": "En vivo ║ Actualidad, información, móviles en vivo, corresponsales en todo el país y en el mundo desde el lugar de los hechos.",
-      "inicio": "2026-11-21T07:00:00",
-      "fin": "2026-11-21T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "NHK Amateur Singing Contest • Sakai City, Fukui Prefecture",
+      "descripcion": "Sakai City, Fukui Prefecture | Song competition held at different towns and cities around Japan; guest singers join in for support.",
+      "inicio": "2026-11-22T12:35:00",
+      "fin": "2026-11-22T13:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nhkamateursingingcontest.jpg"
     },
     {
-      "titulo": "[En vivo] A24 Internacional",
-      "descripcion": "En vivo ║ Damian Svalzb conduce un espacio que aborda las noticias más destacadas del ámbito internacional. A través de reportajes, entrevistas y análisis, el público podrá informarse al competo sobre la realidad en el mundo.",
-      "inicio": "2026-11-21T14:00:00",
-      "fin": "2026-11-21T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "World Weather",
+      "descripcion": "Weather information of the different areas around the world.",
+      "inicio": "2026-11-22T13:20:00",
+      "fin": "2026-11-22T13:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/worldweather.jpg"
     },
     {
-      "titulo": "Lo mejor de A24",
-      "descripcion": "Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.",
-      "inicio": "2026-11-21T14:30:00",
-      "fin": "2026-11-21T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Songs for Everyone",
+      "descripcion": "A program where children can sing along by reading the lyrics on the screen.",
+      "inicio": "2026-11-22T13:25:00",
+      "fin": "2026-11-22T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/songsforeveryone.jpg"
     },
     {
-      "titulo": "Mundo visual",
-      "descripcion": "Recorrida por los destinos turísticos más importantes de Argentina y el mundo, con información práctica de un viajero experimentado.",
-      "inicio": "2026-11-21T15:00:00",
-      "fin": "2026-11-21T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundovisual.jpg"
+      "titulo": "Relaxing Life on Remote Islands • Nozakijima, Nagasaki; Ogijima, Kagawa ; Muzukijima, Ehime",
+      "descripcion": "Nozakijima, Nagasaki; Ogijima, Kagawa ; Muzukijima, Ehime | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-22T13:30:00",
+      "fin": "2026-11-22T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
     },
     {
-      "titulo": "[En vivo] El diario de la tarde",
-      "descripcion": "En vivo ║ Un programa que aborda la actualidad y las primicias a nivel nacional e internacional. A través del trabajo de periodistas, expertos y reporteros, el público podrá informarse al completo sobre la realidad.",
-      "inicio": "2026-11-21T16:00:00",
-      "fin": "2026-11-21T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "What the Villains Have to Say",
+      "descripcion": "Villains are seen by the public as being dirty, noxious and ugly, but their amazing abilities are revealed by the latest research, as well as the real villains, who are actually a little bit fascinating.",
+      "inicio": "2026-11-22T15:00:00",
+      "fin": "2026-11-22T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/whatthevillainshavetosay.jpg"
     },
     {
-      "titulo": "Lo mejor de A24",
-      "descripcion": "Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.",
-      "inicio": "2026-11-21T19:00:00",
-      "fin": "2026-11-21T19:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Science ZERO",
+      "descripcion": "Examining the latest research, disasters and accidents from a scientific perspective.",
+      "inicio": "2026-11-22T15:30:00",
+      "fin": "2026-11-22T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/sciencezero.jpg"
     },
     {
-      "titulo": "[En vivo] Indignados",
-      "descripcion": "En vivo ║ Informes periodísticos sobre problemáticas de la sociedad argentina.",
-      "inicio": "2026-11-21T19:45:00",
-      "fin": "2026-11-21T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/indignados.jpg"
+      "titulo": "Fish Masters",
+      "descripcion": "Fish enthusiast Sakana-kun dives into the world of different fish and explores their types and unique characteristics.",
+      "inicio": "2026-11-22T16:00:00",
+      "fin": "2026-11-22T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fishmasters.jpg"
     },
     {
-      "titulo": "Lo mejor de A24",
-      "descripcion": "Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.",
-      "inicio": "2026-11-21T22:00:00",
-      "fin": "2026-11-22T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "World Weather",
+      "descripcion": "Weather information of the different areas around the world.",
+      "inicio": "2026-11-22T16:30:00",
+      "fin": "2026-11-22T16:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/worldweather.jpg"
     },
     {
-      "titulo": "LP Moda",
-      "descripcion": "Leo Paparella muestra, a través de cambios de look, cómo para cada tipo de rostro hay un corte de cabello adecuado y para cada tono de piel hay una coloración que marca el verdadero estilo y personalidad de la mujer o el hombre moderno. El famoso estilista intenta orientar a los televidentes a través de diferentes secciones informativas, lo cual hace de este un excelente magazine de moda y servicios.",
-      "inicio": "2026-11-22T01:00:00",
-      "fin": "2026-11-22T01:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Grand Sumo 2026 November Tournament Highlights",
+      "descripcion": "A comprehensive and detailed insight into the highlights of the 2026 edition of the Grand Sumo tournament.",
+      "inicio": "2026-11-22T16:35:00",
+      "fin": "2026-11-22T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
     },
     {
-      "titulo": "Boca es Boca",
-      "descripcion": "Repetición ║ Información y actualidad de todo lo que acontece en el mundo Boca. Notas, sorteos, la opinión de la gente y un poquito de humor.",
-      "inicio": "2026-11-22T01:30:00",
-      "fin": "2026-11-22T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Brothers in Arms",
+      "descripcion": "T1 E45 | Hideyoshi bars Hidenaga from seeing him, and even Kanbei's attempts to mend the rift fail; as tensions spread through the Toyotomi household, news arrives that Chacha is pregnant; while Hideyoshi celebrates, Hidetsugu, who has long considered himself Hideyoshi's heir, is stunned; then graffiti appears on the walls of Jurakudai claiming that Chacha's unborn child is not Hideyoshi's, sending Hideyoshi into a furious rage.",
+      "inicio": "2026-11-22T17:00:00",
+      "fin": "2026-11-22T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
     },
     {
-      "titulo": "TeveCompras",
-      "descripcion": "En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de 'Teve Compras', los cuales pueden ser adquiridos telefónicamente.",
-      "inicio": "2026-11-22T02:00:00",
-      "fin": "2026-11-22T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tevecompras.jpg"
+      "titulo": "Ukiyoe Edo-Life",
+      "descripcion": "Siglos atrás, Tokio era conocido como Edo. Más de un millón de personas disfrutaron de la vida en esta pequeña pero abundante ciudad, y vivían de los grabados en madera ukiyo-e. Cada episodio es una inmersión profunda en una de esas impresiones y una exploración del alma del viejo Tokio. Examinamos obras de artistas como Hokusai e Hiroshige no solo por su valor estético e histórico, sino también por las historias que cuentan sobre la vida cotidiana.",
+      "inicio": "2026-11-22T17:45:00",
+      "fin": "2026-11-22T17:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ukiyoeedolife.jpg"
     },
     {
-      "titulo": "Lo mejor de A24",
-      "descripcion": "Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.",
-      "inicio": "2026-11-22T03:00:00",
-      "fin": "2026-11-22T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Hello! NHK WORLD-JAPAN",
+      "descripcion": "Showcasing various programs and activities of NHK WORLD-JAPAN, which provides the latest information on Japan and Asia to the global audience.",
+      "inicio": "2026-11-22T17:50:00",
+      "fin": "2026-11-22T17:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hellonhkworldjapan.jpg"
     },
     {
-      "titulo": "Mundo visual",
-      "descripcion": "Repetición ║ Recorrida por los destinos turísticos más importantes de Argentina y el mundo, con información práctica de un viajero experimentado.",
-      "inicio": "2026-11-22T05:00:00",
-      "fin": "2026-11-22T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mundovisual.jpg"
+      "titulo": "World Weather",
+      "descripcion": "Weather information of the different areas around the world.",
+      "inicio": "2026-11-22T17:55:00",
+      "fin": "2026-11-22T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/worldweather.jpg"
     },
     {
-      "titulo": "Lo mejor de A24",
-      "descripcion": "Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.",
-      "inicio": "2026-11-22T06:00:00",
-      "fin": "2026-11-22T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "News",
+      "descripcion": "The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-22T18:00:00",
+      "fin": "2026-11-22T18:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
     },
     {
-      "titulo": "[En vivo] Arriba domingo",
-      "descripcion": "En vivo ║ Toda la información necesaria para arrancar el día, con un enfoque dinámico y preciso.",
-      "inicio": "2026-11-22T07:00:00",
-      "fin": "2026-11-22T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "With Mother: Requested Songs Special",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-22T18:10:00",
+      "fin": "2026-11-22T18:39:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/withmotherrequestedsongsspecial.jpg"
     },
     {
-      "titulo": "Luis Novaresio entrevista",
-      "descripcion": "Luis Novaresio realiza importantes entrevistas a las personalidades más destacadas de la actualidad.",
-      "inicio": "2026-11-22T13:00:00",
-      "fin": "2026-11-22T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Mini Program",
+      "descripcion": "Featuring a variety of short mini programs.",
+      "inicio": "2026-11-22T18:39:00",
+      "fin": "2026-11-22T18:43:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniprogram.jpg"
+    },
+    {
+      "titulo": "Natural Grandeur of the East",
+      "descripcion": "Enjoy the natural beauty of Japan and the many creatures that inhabit the country.",
+      "inicio": "2026-11-22T18:43:00",
+      "fin": "2026-11-22T18:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/naturalgrandeuroftheeast.jpg"
+    },
+    {
+      "titulo": "News & Weather",
+      "descripcion": "The latest up-to-date news and nationwide weather information.",
+      "inicio": "2026-11-22T18:53:00",
+      "fin": "2026-11-22T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newsweather.jpg"
+    },
+    {
+      "titulo": "News: Good Morning, Japan",
+      "descripcion": "Fresh news and information to start off the morning.",
+      "inicio": "2026-11-22T19:00:00",
+      "fin": "2026-11-22T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newsgoodmorningjapan.jpg"
+    },
+    {
+      "titulo": "The Business Keyhole • Vegetables and Fruits",
+      "descripcion": "Vegetables and Fruits | The filmmakers delve into the hidden workings of global industries by exploring behind-the-scenes business practices and uncovering unique insights that help illuminate the path toward tomorrow.",
+      "inicio": "2026-11-22T19:30:00",
+      "fin": "2026-11-22T19:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "Mini Program",
+      "descripcion": "Featuring a variety of short mini programs.",
+      "inicio": "2026-11-22T19:53:00",
+      "fin": "2026-11-22T19:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniprogram.jpg"
+    },
+    {
+      "titulo": "Weather",
+      "descripcion": "The latest up-to-date weather information.",
+      "inicio": "2026-11-22T19:55:00",
+      "fin": "2026-11-22T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/weather.jpg"
+    },
+    {
+      "titulo": "Blossom",
+      "descripcion": "T1 E41 | Hano Tama was born in Iwakuni, Japan, in 1897, and grows up in a society that severely limits women's opportunities; she moves to Tokyo and rekindles her dream of becoming a writer; as Japan undergoes changes, she faces one hardship after another.",
+      "inicio": "2026-11-22T20:00:00",
+      "fin": "2026-11-22T20:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/blossom.jpg"
+    },
+    {
+      "titulo": "Relaxing Life on Remote Islands • Nozakijima, Nagasaki; Ogijima, Kagawa ; Muzukijima, Ehime",
+      "descripcion": "Nozakijima, Nagasaki; Ogijima, Kagawa ; Muzukijima, Ehime | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-22T20:15:00",
+      "fin": "2026-11-22T21:44:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "Natural Grandeur of the East",
+      "descripcion": "Enjoy the natural beauty of Japan and the many creatures that inhabit the country.",
+      "inicio": "2026-11-22T21:44:00",
+      "fin": "2026-11-22T21:49:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/naturalgrandeuroftheeast.jpg"
+    },
+    {
+      "titulo": "Mini Program",
+      "descripcion": "Featuring a variety of short mini programs.",
+      "inicio": "2026-11-22T21:49:00",
+      "fin": "2026-11-22T21:54:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniprogram.jpg"
+    },
+    {
+      "titulo": "World Weather",
+      "descripcion": "Weather information of the different areas around the world.",
+      "inicio": "2026-11-22T21:54:00",
+      "fin": "2026-11-22T21:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/worldweather.jpg"
+    },
+    {
+      "titulo": "Exercise for Everyone",
+      "descripcion": "An easy-to-do exercise program for everyone from children to the elderly.",
+      "inicio": "2026-11-22T21:55:00",
+      "fin": "2026-11-22T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/exerciseforeveryone.jpg"
+    },
+    {
+      "titulo": "News & Weather",
+      "descripcion": "The latest up-to-date news and nationwide weather information.",
+      "inicio": "2026-11-22T22:00:00",
+      "fin": "2026-11-22T22:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newsweather.jpg"
+    },
+    {
+      "titulo": "Rokkaku Seiji's Nomitetsu Railroad Trip • Rikuu East Line And Rikuu West Line",
+      "descripcion": "Rikuu East Line And Rikuu West Line | Train enthusiast and actor Seiji Rokkaku travels across Japan by train and explores various places during his journey.",
+      "inicio": "2026-11-22T22:05:00",
+      "fin": "2026-11-22T22:49:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "Mini Program",
+      "descripcion": "Featuring a variety of short mini programs.",
+      "inicio": "2026-11-22T22:49:00",
+      "fin": "2026-11-22T22:51:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniprogram.jpg"
+    },
+    {
+      "titulo": "Natural Grandeur of the East",
+      "descripcion": "Enjoy the natural beauty of Japan and the many creatures that inhabit the country.",
+      "inicio": "2026-11-22T22:51:00",
+      "fin": "2026-11-22T23:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/naturalgrandeuroftheeast.jpg"
+    },
+    {
+      "titulo": "The Employee",
+      "descripcion": "T1 E6 | She was supposed to have climbed to the top the right way, rationally and methodically; a threatening letter suddenly arrives, shaking both one woman's career and the organization itself.",
+      "inicio": "2026-11-22T23:05:00",
+      "fin": "2026-11-22T23:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "Songs for Everyone",
+      "descripcion": "A program where children can sing along by reading the lyrics on the screen.",
+      "inicio": "2026-11-22T23:50:00",
+      "fin": "2026-11-22T23:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/songsforeveryone.jpg"
+    },
+    {
+      "titulo": "World Weather",
+      "descripcion": "Weather information of the different areas around the world.",
+      "inicio": "2026-11-22T23:55:00",
+      "fin": "2026-11-23T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/worldweather.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-23T00:00:00",
+      "fin": "2026-11-23T00:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "Ramen Japan",
+      "descripcion": "Un recorrido gourmet de ramen por todo Japón. Esta vez: el lugar de nacimiento de tonkotsu, Fukuoka. Mirando los estilos Hakata y Nagahama, aprenderemos los secretos de estos ramen y la historia de su creación.",
+      "inicio": "2026-11-23T00:15:00",
+      "fin": "2026-11-23T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ramenjapan.jpg"
+    },
+    {
+      "titulo": "Hiyokko",
+      "descripcion": "T1 E76 | Mineko, a girl born in Ibaraki Prefecture, comes up to Tokyo for mass employment.",
+      "inicio": "2026-11-23T00:30:00",
+      "fin": "2026-11-23T00:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "Blossom",
+      "descripcion": "T1 E41 | Hano Tama was born in Iwakuni, Japan, in 1897, and grows up in a society that severely limits women's opportunities; she moves to Tokyo and rekindles her dream of becoming a writer; as Japan undergoes changes, she faces one hardship after another.",
+      "inicio": "2026-11-23T00:45:00",
+      "fin": "2026-11-23T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/blossom.jpg"
+    },
+    {
+      "titulo": "News & Weather",
+      "descripcion": "The latest up-to-date news and nationwide weather information.",
+      "inicio": "2026-11-23T01:00:00",
+      "fin": "2026-11-23T01:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newsweather.jpg"
+    },
+    {
+      "titulo": "Songs of Our Generation",
+      "descripcion": "Musicians who rarely appear on television perform, featuring genres from folk music to new music.",
+      "inicio": "2026-11-23T01:05:00",
+      "fin": "2026-11-23T01:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/songsofourgeneration.jpg"
+    },
+    {
+      "titulo": "World Music Album",
+      "descripcion": "A program for the lovers of classical music.",
+      "inicio": "2026-11-23T01:50:00",
+      "fin": "2026-11-23T01:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/worldmusicalbum.jpg"
+    },
+    {
+      "titulo": "The Great Nature",
+      "descripcion": "A view of Earth's unexplored regions.",
+      "inicio": "2026-11-23T01:55:00",
+      "fin": "2026-11-23T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "Kanto University Rugby League Keio Univ. vs Waseda Univ",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-23T02:00:00",
+      "fin": "2026-11-23T04:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "Train Driver's Cab View",
+      "descripcion": "A view from the train driver's cab is shown.",
+      "inicio": "2026-11-23T04:00:00",
+      "fin": "2026-11-23T04:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "The Great Nature • Siberia",
+      "descripcion": "Siberia | A view of Earth's unexplored regions.",
+      "inicio": "2026-11-23T04:10:00",
+      "fin": "2026-11-23T04:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "Actor Koyuki and the Fermenting Master, Grandma",
+      "descripcion": "Actor Koyuki loves fermented food, visits grandmas throughout Japan who are experts in making fermented foods, and learns recipes for local dishes she wants to pass down for future generations.",
+      "inicio": "2026-11-23T04:40:00",
+      "fin": "2026-11-23T05:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/actorkoyukiandthefermentingmastergrandma.jpg"
+    },
+    {
+      "titulo": "Fun With Japanese",
+      "descripcion": "Children learn correct Japanese by having fun with the words.",
+      "inicio": "2026-11-23T05:10:00",
+      "fin": "2026-11-23T05:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/funwithjapanese.jpg"
+    },
+    {
+      "titulo": "Peek-a-boo",
+      "descripcion": "Bringing potential and capability of children ages 0-2 years by stimulation with pictures and sounds.",
+      "inicio": "2026-11-23T05:20:00",
+      "fin": "2026-11-23T05:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/peekaboo.jpg"
+    },
+    {
+      "titulo": "With Mother",
+      "descripcion": "Featuring a puppet show, cartoons, music and gymnastics in which children can participate.",
+      "inicio": "2026-11-23T05:35:00",
+      "fin": "2026-11-23T05:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/withmother.jpg"
+    },
+    {
+      "titulo": "1-Minute Anime: Songs for SDGs",
+      "descripcion": "A collection of exciting songs about the Sustainable Development Goals (SDGs) is showcased to educate young viewers.",
+      "inicio": "2026-11-23T05:59:00",
+      "fin": "2026-11-23T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/1minuteanimesongsforsdgs.jpg"
+    },
+    {
+      "titulo": "News",
+      "descripcion": "The latest up-to-date news from Tokyo.",
+      "inicio": "2026-11-23T06:00:00",
+      "fin": "2026-11-23T06:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/news.jpg"
+    },
+    {
+      "titulo": "We Love Fluffy Animals",
+      "descripcion": "This program introduces many cute pets and great relationships between animals and humans.",
+      "inicio": "2026-11-23T06:05:00",
+      "fin": "2026-11-23T06:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/welovefluffyanimals.jpg"
+    },
+    {
+      "titulo": "Kid's Discovery",
+      "descripcion": "Education related to health, environment, language and expressions to nurture a child's creativity.",
+      "inicio": "2026-11-23T06:10:00",
+      "fin": "2026-11-23T06:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "Nyan-chu Space Broadcasting",
+      "descripcion": "Nyan-chu, an intelligent cat from the Earth, introduces human lives and cultures to the aliens in outer space.",
+      "inicio": "2026-11-23T06:25:00",
+      "fin": "2026-11-23T06:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/nyanchuspacebroadcasting.jpg"
+    },
+    {
+      "titulo": "World Weather",
+      "descripcion": "Weather information of the different areas around the world.",
+      "inicio": "2026-11-23T06:55:00",
+      "fin": "2026-11-23T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/worldweather.jpg"
+    },
+    {
+      "titulo": "NHK News 7",
+      "descripcion": "Espacio que brinda informes sobre las últimas historias del día en Japón y fuera de sus fronteras. Este compacto también incluye datos deportivos y reportes meteorológicos.",
+      "inicio": "2026-11-23T07:00:00",
+      "fin": "2026-11-23T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "Win the Regular Program Slot! • Monthly Rent: Under 100,000 yen",
+      "descripcion": "Monthly Rent: Under 100,000 yen | Television producers from all over Japan compete against each other to make the most popular show and win a regular time slot.",
+      "inicio": "2026-11-23T07:30:00",
+      "fin": "2026-11-23T08:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "Ichibanmori: The People Behind Japan's Best",
+      "descripcion": "Featuring distinguished programs ranging from entertainment shows to documentaries.",
+      "inicio": "2026-11-23T08:15:00",
+      "fin": "2026-11-23T08:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "Natural Grandeur of the East",
+      "descripcion": "Enjoy the natural beauty of Japan and the many creatures that inhabit the country.",
+      "inicio": "2026-11-23T08:45:00",
+      "fin": "2026-11-23T08:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/naturalgrandeuroftheeast.jpg"
+    },
+    {
+      "titulo": "News & Weather",
+      "descripcion": "The latest up-to-date news and nationwide weather information.",
+      "inicio": "2026-11-23T08:55:00",
+      "fin": "2026-11-23T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newsweather.jpg"
+    },
+    {
+      "titulo": "News Watch 9",
+      "descripcion": "NHK's mainstay evening news program.",
+      "inicio": "2026-11-23T09:00:00",
+      "fin": "2026-11-23T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newswatch9.jpg"
+    },
+    {
+      "titulo": "Puppy Comes Home!",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-23T09:30:00",
+      "fin": "2026-11-23T09:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puppycomeshome.jpg"
+    },
+    {
+      "titulo": "Mini Program",
+      "descripcion": "Featuring a variety of short mini programs.",
+      "inicio": "2026-11-23T09:57:00",
+      "fin": "2026-11-23T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniprogram.jpg"
+    },
+    {
+      "titulo": "The Fountain of Ancient Wisdom • Fujiwara no Teika",
+      "descripcion": "Fujiwara no Teika | The challenges we face today are similar to what our predecessors have encountered; seeking clues to solve problems by examining historical challenges.",
+      "inicio": "2026-11-23T10:00:00",
+      "fin": "2026-11-23T10:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/thefountainofancientwisdom.jpg"
+    },
+    {
+      "titulo": "The Blue Flowers and the Ceramic Forest",
+      "descripcion": "T1 E17 | La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-23T10:45:00",
+      "fin": "2026-11-23T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "Late Night Show with Nitty and Gritty",
+      "descripcion": "Two puppets host an interview show, whose guests, who cannot show their faces in public, appear as puppets and answer sensitive questions.",
+      "inicio": "2026-11-23T11:00:00",
+      "fin": "2026-11-23T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/latenightshowwithnittyandgritty.jpg"
+    },
+    {
+      "titulo": "News & Weather",
+      "descripcion": "The latest up-to-date news and nationwide weather information.",
+      "inicio": "2026-11-23T11:30:00",
+      "fin": "2026-11-23T11:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newsweather.jpg"
+    },
+    {
+      "titulo": "Mini Program",
+      "descripcion": "Featuring a variety of short mini programs.",
+      "inicio": "2026-11-23T11:35:00",
+      "fin": "2026-11-23T11:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miniprogram.jpg"
+    },
+    {
+      "titulo": "Natsui Itsuki's Haiku Trip! • Shikoku Special",
+      "descripcion": "Shikoku Special | Haiku poet Natsui Itsuki and host Roland travel across Japan to explore the lives and stories behind the work of fellow haiku authors.",
+      "inicio": "2026-11-23T11:45:00",
+      "fin": "2026-11-23T12:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0222_fallback.jpg"
+    },
+    {
+      "titulo": "World Weather",
+      "descripcion": "Weather information of the different areas around the world.",
+      "inicio": "2026-11-23T12:29:00",
+      "fin": "2026-11-23T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/worldweather.jpg"
+    },
+    {
+      "titulo": "Cooking for Beginners",
+      "descripcion": "Tips on cooking for beginners.",
+      "inicio": "2026-11-23T12:30:00",
+      "fin": "2026-11-23T12:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cookingforbeginners.jpg"
+    },
+    {
+      "titulo": "Child-Rearing Hints & Tips",
+      "descripcion": "A program offering helpful tips on child-rearing.",
+      "inicio": "2026-11-23T12:45:00",
+      "fin": "2026-11-23T13:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/childrearinghintstips.jpg"
     }
   ]
 }

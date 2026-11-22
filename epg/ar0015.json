@@ -1,151 +1,95 @@
 {
   "actual": {
-    "titulo": "Salud",
-    "descripcion": "Una mirada al poder de la ciencia para mejorar la calidad de vida de las personas.",
-    "inicio": "2026-11-21T13:00:00",
-    "fin": "2026-11-21T14:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "La robineta",
+    "descripcion": "Un recorrido en vivo por los lugares mas sorprendentes con el estilo único de su conductor.",
+    "inicio": "2026-11-22T13:00:00",
+    "fin": "2026-11-22T16:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larobineta.jpg"
   },
   "siguiente": {
-    "titulo": "+Entrevistas",
-    "descripcion": "Un mano a mano con los principales personajes del momento.",
-    "inicio": "2026-11-21T14:00:00",
-    "fin": "2026-11-21T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas.jpg"
+    "titulo": "+Noticias Finde",
+    "descripcion": "Los temas del día, el análisis y la compañía durante tus tardes.",
+    "inicio": "2026-11-22T16:00:00",
+    "fin": "2026-11-22T18:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Salud",
-      "descripcion": "Una mirada al poder de la ciencia para mejorar la calidad de vida de las personas.",
-      "inicio": "2026-11-21T13:00:00",
-      "fin": "2026-11-21T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "+Entrevistas",
-      "descripcion": "Un mano a mano con los principales personajes del momento.",
-      "inicio": "2026-11-21T14:00:00",
-      "fin": "2026-11-21T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas.jpg"
-    },
-    {
-      "titulo": "Resumen de la semana",
-      "descripcion": "Los hechos semanales más importantes de la Argentina y el mundo resumidos en una hora.",
-      "inicio": "2026-11-21T15:00:00",
-      "fin": "2026-11-21T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/resumendelasemana.jpg"
-    },
-    {
-      "titulo": "+Entrevistas",
-      "descripcion": "Un mano a mano con los principales personajes del momento.",
-      "inicio": "2026-11-21T17:00:00",
-      "fin": "2026-11-21T18:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas.jpg"
-    },
-    {
-      "titulo": "+noticias sábados",
-      "descripcion": "Un repaso de toda la actualidad durante el fin de semana.",
-      "inicio": "2026-11-21T18:00:00",
-      "fin": "2026-11-21T20:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La trama del poder",
-      "descripcion": "Entrevista a los personajes más influyentes de la sociedad argentina.",
-      "inicio": "2026-11-21T20:30:00",
-      "fin": "2026-11-21T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/latramadelpoder.jpg"
-    },
-    {
-      "titulo": "Hambre de futuro",
-      "descripcion": "Un recorrido por el país para conocer las realidades y los sueños de los niños que viven en las comunidades más vulnerables.",
-      "inicio": "2026-11-21T22:00:00",
-      "fin": "2026-11-21T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hambredefuturo.jpg"
-    },
-    {
-      "titulo": "Hacedores",
-      "descripcion": "Ciclo de entrevistas para conocer en profundidad a los emprendedores más importantes del país.",
-      "inicio": "2026-11-21T23:00:00",
-      "fin": "2026-11-21T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Resumen de la semana",
-      "descripcion": "Los hechos semanales más importantes de la Argentina y el mundo resumidos en una hora.",
-      "inicio": "2026-11-21T23:30:00",
-      "fin": "2026-11-22T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/resumendelasemana.jpg"
-    },
-    {
-      "titulo": "+Entrevistas",
-      "descripcion": "Un mano a mano con los principales personajes del momento.",
-      "inicio": "2026-11-22T00:00:00",
-      "fin": "2026-11-22T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas.jpg"
-    },
-    {
-      "titulo": "Resumen de la semana",
-      "descripcion": "Los hechos semanales más importantes de la Argentina y el mundo resumidos en una hora.",
-      "inicio": "2026-11-22T01:00:00",
-      "fin": "2026-11-22T02:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/resumendelasemana.jpg"
-    },
-    {
-      "titulo": "+Entrevistas",
-      "descripcion": "Un mano a mano con los principales personajes del momento.",
-      "inicio": "2026-11-22T02:00:00",
-      "fin": "2026-11-22T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas.jpg"
-    },
-    {
-      "titulo": "Resumen de la semana",
-      "descripcion": "Los hechos semanales más importantes de la Argentina y el mundo resumidos en una hora.",
-      "inicio": "2026-11-22T03:00:00",
-      "fin": "2026-11-22T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/resumendelasemana.jpg"
-    },
-    {
-      "titulo": "Hambre de futuro",
-      "descripcion": "Un recorrido por el país para conocer las realidades y los sueños de los niños que viven en las comunidades más vulnerables.",
-      "inicio": "2026-11-22T04:00:00",
-      "fin": "2026-11-22T05:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hambredefuturo.jpg"
-    },
-    {
-      "titulo": "+Entrevistas",
-      "descripcion": "Un mano a mano con los principales personajes del momento.",
-      "inicio": "2026-11-22T05:00:00",
-      "fin": "2026-11-22T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistas.jpg"
-    },
-    {
-      "titulo": "Resumen de la semana",
-      "descripcion": "Los hechos semanales más importantes de la Argentina y el mundo resumidos en una hora.",
-      "inicio": "2026-11-22T06:00:00",
-      "fin": "2026-11-22T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/resumendelasemana.jpg"
-    },
-    {
-      "titulo": "+Info fin de semana",
-      "descripcion": "Toda la información de Argentina y el mundo a cargo del mejor equipo de columnistas en todos los temas.",
-      "inicio": "2026-11-22T07:00:00",
-      "fin": "2026-11-22T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/infofindesemana.jpg"
-    },
-    {
-      "titulo": "+Noticias fin de semana",
-      "descripcion": "Toda la información de la Argentina y el mundo, con la mejor conducción y un excelente grupo de columnistas.",
-      "inicio": "2026-11-22T10:00:00",
-      "fin": "2026-11-22T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticiasfindesemana.jpg"
-    },
-    {
-      "titulo": "Innovación",
-      "descripcion": "Se conversa con especialistas acerca de las mejores formas de generar una nueva estrategia para el mundo que viene.",
+      "titulo": "La robineta",
+      "descripcion": "Un recorrido en vivo por los lugares mas sorprendentes con el estilo único de su conductor.",
       "inicio": "2026-11-22T13:00:00",
-      "fin": "2026-11-22T14:00:00",
+      "fin": "2026-11-22T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larobineta.jpg"
+    },
+    {
+      "titulo": "+Noticias Finde",
+      "descripcion": "Los temas del día, el análisis y la compañía durante tus tardes.",
+      "inicio": "2026-11-22T16:00:00",
+      "fin": "2026-11-22T18:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Especial domingo",
+      "descripcion": "Noticias y más de la mano de Agustina Girón y Hugo Macchiavelli.",
+      "inicio": "2026-11-22T18:00:00",
+      "fin": "2026-11-22T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/especialdomingo.jpg"
+    },
+    {
+      "titulo": "La cornisa",
+      "descripcion": "Luis Majul continúa caminando, para mostrarte todo lo que está pasando con la realidad, con el estilo inconfundible de siempre, notas, informes y toda la información de primera mano.",
+      "inicio": "2026-11-22T20:30:00",
+      "fin": "2026-11-22T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacornisa.jpg"
+    },
+    {
+      "titulo": "Comunidad de negocios",
+      "descripcion": "Un espacio donde confluyen los protagonistas de la economía cotidiana y los negocios, en el país y en el mundo.",
+      "inicio": "2026-11-22T22:00:00",
+      "fin": "2026-11-22T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comunidaddenegocios.jpg"
+    },
+    {
+      "titulo": "Especiales LN+",
+      "descripcion": "Cada domingo, La Nacion te trae los mejores informes, entrevistas e investigaciones.",
+      "inicio": "2026-11-22T23:30:00",
+      "fin": "2026-11-23T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Miralo bien",
+      "descripcion": "Al mediodía, Robertito Funes y equipo te traen toda la información y la mejor compañía.",
+      "inicio": "2026-11-23T00:00:00",
+      "fin": "2026-11-23T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/miralobien.jpg"
+    },
+    {
+      "titulo": "Pre mañana",
+      "descripcion": "El clima, el tránsito y todo lo que tenés que saber para arrancar el día.",
+      "inicio": "2026-11-23T06:00:00",
+      "fin": "2026-11-23T06:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/premanana.jpg"
+    },
+    {
+      "titulo": "Mañana mías",
+      "descripcion": "Un programa dinámico que acompaña tus mañanas con entretenimiento y rigor periodístico.",
+      "inicio": "2026-11-23T06:45:00",
+      "fin": "2026-11-23T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Buen día Nación",
+      "descripcion": "Francisco Olivera, Paula Rossi y equipo te acompañan todas las mañanas para vivir la actualidad minuto a minuto.",
+      "inicio": "2026-11-23T10:00:00",
+      "fin": "2026-11-23T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buendianacion.jpg"
+    },
+    {
+      "titulo": "La robineta",
+      "descripcion": "Un recorrido en vivo por los lugares mas sorprendentes con el estilo único de su conductor.",
+      "inicio": "2026-11-23T13:00:00",
+      "fin": "2026-11-23T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larobineta.jpg"
     }
   ]
 }

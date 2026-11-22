@@ -2,45 +2,38 @@
   "actual": {
     "titulo": "Música",
     "descripcion": "El mejor contenido de música.",
-    "inicio": "2026-11-21T12:00:00",
-    "fin": "2026-11-22T01:00:00",
+    "inicio": "2026-11-22T12:00:00",
+    "fin": "2026-11-23T11:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musica.jpg"
   },
   "siguiente": {
-    "titulo": "Música",
-    "descripcion": "El mejor contenido de música.",
-    "inicio": "2026-11-22T01:00:00",
-    "fin": "2026-11-22T11:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musica.jpg"
+    "titulo": "Entrevista infinita",
+    "descripcion": "Revisitamos la entrevista de \"AHORA ES CUANDO\", donde Juan Manuel Astorga analiza junto a los actores principales, el tema del dìa.",
+    "inicio": "2026-11-23T11:30:00",
+    "fin": "2026-11-23T12:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistainfinita.jpg"
   },
   "lista": [
     {
       "titulo": "Música",
       "descripcion": "El mejor contenido de música.",
-      "inicio": "2026-11-21T12:00:00",
-      "fin": "2026-11-22T01:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musica.jpg"
-    },
-    {
-      "titulo": "Música",
-      "descripcion": "El mejor contenido de música.",
-      "inicio": "2026-11-22T01:00:00",
-      "fin": "2026-11-22T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musica.jpg"
-    },
-    {
-      "titulo": "La jungla",
-      "descripcion": "Conversación y analisis de la contingencia nacional con una mirada profunda a la semana política con el estilo mordaz y descarnado.",
-      "inicio": "2026-11-22T11:00:00",
-      "fin": "2026-11-22T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lajungla.jpg"
-    },
-    {
-      "titulo": "Radio Infinita",
-      "descripcion": "La información de este programa no se encuentra disponible.",
       "inicio": "2026-11-22T12:00:00",
-      "fin": "2026-11-22T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "fin": "2026-11-23T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/musica.jpg"
+    },
+    {
+      "titulo": "Entrevista infinita",
+      "descripcion": "Revisitamos la entrevista de \"AHORA ES CUANDO\", donde Juan Manuel Astorga analiza junto a los actores principales, el tema del dìa.",
+      "inicio": "2026-11-23T11:30:00",
+      "fin": "2026-11-23T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistainfinita.jpg"
+    },
+    {
+      "titulo": "Qué hay de nuevo",
+      "descripcion": "Revisamos los hechos noticiosos que han marcado la mañana y se proyecta lo que vendrá, con entrevistas, bloque económico y panelistas internacionales y de espectáculos para abordar las distintas temáticas del día.",
+      "inicio": "2026-11-23T12:00:00",
+      "fin": "2026-11-23T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/quehaydenuevo.jpg"
     }
   ]
 }

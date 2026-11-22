@@ -1,95 +1,109 @@
 {
   "actual": {
-    "titulo": "Pulso urbano: La cocina",
-    "descripcion": "Un espacio de cocina que presenta todo tipo de recetas para que el público replique en el hogar. Un equipo de cocineros profesionales ofrece todo tipo de tips y consejos para cada preparación.",
-    "inicio": "2026-11-21T10:00:00",
-    "fin": "2026-11-21T17:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Érase una vez",
+    "descripcion": "Mezclando el mundo real y los cuentos de hadas, se narra la historia de Emma Swan, una mujer cuya vida cambia cuando su hijo, al que había dado en adopción diez años antes, la encuentra.",
+    "inicio": "2026-11-22T11:00:00",
+    "fin": "2026-11-22T17:15:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eraseunavez.jpg"
   },
   "siguiente": {
-    "titulo": "Tres solteros y una pequeña dama",
-    "descripcion": "No te pierdas esta divertida comedia familiar, que lideró la taquilla norteamericana en el año de su estreno. Diviértete con las aventuras de tres hombres solteros que deben criar a una traviesa niña de cinco años.",
-    "inicio": "2026-11-21T17:30:00",
-    "fin": "2026-11-21T19:55:00",
+    "titulo": "Piratas del Caribe: El cofre de la muerte",
+    "descripcion": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida, Will tendrá que encontrar a Jack y conseguir su misteriosa brújula. Esta esconde un gran poder, además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma Holandés Errante.",
+    "inicio": "2026-11-22T17:15:00",
+    "fin": "2026-11-22T20:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Pulso urbano: La cocina",
-      "descripcion": "Un espacio de cocina que presenta todo tipo de recetas para que el público replique en el hogar. Un equipo de cocineros profesionales ofrece todo tipo de tips y consejos para cada preparación.",
-      "inicio": "2026-11-21T10:00:00",
-      "fin": "2026-11-21T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Tres solteros y una pequeña dama",
-      "descripcion": "No te pierdas esta divertida comedia familiar, que lideró la taquilla norteamericana en el año de su estreno. Diviértete con las aventuras de tres hombres solteros que deben criar a una traviesa niña de cinco años.",
-      "inicio": "2026-11-21T17:30:00",
-      "fin": "2026-11-21T19:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "24 Horas Magazine",
-      "descripcion": "Ponte al día con las noticias más relevantes de Paraguay y el mundo.",
-      "inicio": "2026-11-21T19:55:00",
-      "fin": "2026-11-21T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Los justicieros",
-      "descripcion": "Decidido a retirarse de su trabajo como representante de la ley, el legendario Wyatt Earp se establece en Tombstone, Arizona, junto a sus hermanos. Pero un grupo de forajidos interrumpirá su tranquilidad.",
-      "inicio": "2026-11-21T21:00:00",
-      "fin": "2026-11-21T23:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hellboy",
-      "descripcion": "Nacido de las llamas del infierno hace sesenta años durante la Segunda Guerra Mundial, Hellboy (Ron Perlman) fue enviado a la Tierra por el loco diabólico Grigori Rasputín (Karel Roden) para hacer el mal. Destinado a ser un presagio del Apocalipsis, Hellboy fue rescatado por las Fuerzas Aliadas lideradas por el profesor Broom (John Hurt), fundador del clandestino I.I.P.D. (Instituto para la Investigación Paranormal y de Defensa), que lo crió como un hijo y desarrolló sus extraordinarios poderes paranormales. A pesar de sus oscuros orígenes, Hellboy se convierte en un extraño héroe del bien, que lucha contra las fuerzas del mal que amenazan nuestro mundo.",
-      "inicio": "2026-11-21T23:20:00",
-      "fin": "2026-11-22T01:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hellboy.jpg"
-    },
-    {
-      "titulo": "Cine Trasnoche",
-      "descripcion": "El mejor contenido audiovisual del cine trasnoche.",
-      "inicio": "2026-11-22T01:20:00",
-      "fin": "2026-11-22T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cinetrasnoche.jpg"
-    },
-    {
-      "titulo": "Beyblade Burst",
-      "descripcion": "Valt Aoi y sus compañeros de clases luchan, a su manera, en diferentes torneos con sus ojos puestos en el título de Blader número uno.",
-      "inicio": "2026-11-22T06:00:00",
-      "fin": "2026-11-22T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/beybladeburst.jpg"
-    },
-    {
-      "titulo": "Misa de Caacupé",
-      "descripcion": "Transmisión en directo de la Misa de Caacupé, la cual tiene como centro de concentración la capital central de Paraguay. Muchos son los feligreses que se reúnen para honrar a la adoradaVirgen de Caacupé.",
-      "inicio": "2026-11-22T07:00:00",
-      "fin": "2026-11-22T08:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pulso urbano",
-      "descripcion": "Se busca el análisis en profundidad de los periodistas sobre los temas que fueron importantes en la semana, dando más detalles de la información.",
-      "inicio": "2026-11-22T08:15:00",
-      "fin": "2026-11-22T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Pulso urbano: La cocina",
-      "descripcion": "Un espacio de cocina que presenta todo tipo de recetas para que el público replique en el hogar. Un equipo de cocineros profesionales ofrece todo tipo de tips y consejos para cada preparación.",
-      "inicio": "2026-11-22T10:00:00",
-      "fin": "2026-11-22T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
       "titulo": "Érase una vez",
-      "descripcion": "Mezclando el mundo real y los cuentos de hadas, se cuenta la historia de Emma Swan, una mujer cuya vida cambia cuando su hijo, al que había dado en adopción diez años antes, la encuentra. Él cree que su madre pertenece a un mundo irreal y que es la hija de Blancanieves.",
+      "descripcion": "Mezclando el mundo real y los cuentos de hadas, se narra la historia de Emma Swan, una mujer cuya vida cambia cuando su hijo, al que había dado en adopción diez años antes, la encuentra.",
       "inicio": "2026-11-22T11:00:00",
       "fin": "2026-11-22T17:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eraseunavez.jpg"
+    },
+    {
+      "titulo": "Piratas del Caribe: El cofre de la muerte",
+      "descripcion": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida, Will tendrá que encontrar a Jack y conseguir su misteriosa brújula. Esta esconde un gran poder, además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma Holandés Errante.",
+      "inicio": "2026-11-22T17:15:00",
+      "fin": "2026-11-22T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Senete • Juegos",
+      "descripcion": "Juegos | Prueba tu suerte en cada sorteo de esta importante lotería que trae para ti increíbles premios a repartir, que van desde miles de millones hasta camionetas último modelo, porque la buena fortuna ha llegado.",
+      "inicio": "2026-11-22T20:00:00",
+      "fin": "2026-11-22T20:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Superman",
+      "descripcion": "En un mundo cínico que ha perdido la fe en la bondad, Superman lucha por reconciliar su herencia kryptoniana con su crianza humana en Smallville como Clark Kent. Mientras protege a la humanidad, encarna la verdad y la justicia, desafía una era que considera estos valores obsoletos.",
+      "inicio": "2026-11-22T20:15:00",
+      "fin": "2026-11-22T22:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/superman.jpg"
+    },
+    {
+      "titulo": "Spartacus",
+      "descripcion": "Traicionado por su país. Convertido en esclavo. Renacido como guerrero. Spartacus protagoniza la historia más gráfica y visceral del gladiador más famoso de Roma. Con un reparto estelar, asistimos a una mezcla única de acción, efectos gráficos y brutales batallas. Separado del amor de su vida, Spartacus tendrá que luchar por su supervivencia, participando en un espectáculo, donde el principal entretenimiento es la muerte. En un mundo de corrupción, violencia, sexo y fama acabará interviniendo en política y vivirá atormentado por el deseo de venganza.",
+      "inicio": "2026-11-22T22:45:00",
+      "fin": "2026-11-22T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/spartacus.jpg"
+    },
+    {
+      "titulo": "Black Sails",
+      "descripcion": "Basada en la famosa novela ‘La isla del tesoro’, aventuras de piratas plagada de sangre, sexo y violencia, ‘Black Sails‘ sigue las aventuras con el capitán Flint, un famoso pirata que supuestamente depositó un tesoro en una isla. Flint estará acompañado de un grumete llamado Long John Silver.",
+      "inicio": "2026-11-22T23:30:00",
+      "fin": "2026-11-23T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/blacksails.jpg"
+    },
+    {
+      "titulo": "Tierra de lobos",
+      "descripcion": "La vida de Antonio Lobos da un vuelco repentino cuando dos hermanos foragidos deciden regresar a la casa de su infancia ubicada en las tierras que perteneces a la familia Lobos. La historia se intensifica cuando una de sus hermanas se enamora de uno de ellos y los enfrentamientos crecen.",
+      "inicio": "2026-11-23T01:00:00",
+      "fin": "2026-11-23T02:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Águila roja",
+      "descripcion": "En el Siglo de Oro, durante el reinado de Felipe IV, Gonzalo de Montalvo, maestro de profesión, se verá envuelto en diversas aventuras e intrigas, tratando de descubrir la conspiración que se esconde tras el asesinato de su esposa.",
+      "inicio": "2026-11-23T02:30:00",
+      "fin": "2026-11-23T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aguilaroja.jpg"
+    },
+    {
+      "titulo": "Bandolera",
+      "descripcion": "Sara Reeves es una estudiante de Literatura Hispánica de Oxford. Entusiasta del Mito de “Carmen” y de todo lo que tenga que ver con Andalucía, pasó sus primeros años en Río Tinto (Huelva) ya que un tío suyo, acaudalado empresario, tenía intereses en esas minas. Criados, posesiones, lujo y un pretendiente de su mismo estatus que le aguarda para el matrimonio… En eso consiste el mundo que rodea a Sara. Un mundo tan rico en objetos como vacío en emociones. Ella sueña con escribir, con vivir aventuras, con conocer cigarreras, con oler a azahar paseando por las calles del Sur… Por eso, comete una locura, digna de una de sus admiradas heroínas literarias. Sin decir nada a su familia, Sara huye a Andalucía en busca de emociones fuertes…",
+      "inicio": "2026-11-23T03:30:00",
+      "fin": "2026-11-23T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Kay'uhape",
+      "descripcion": "Antes que se inicie el día, nuestro idioma autóctono tiene su merecido espacio televisivo en Kay 'uhape, pionero absoluto de los programas en guaraní.",
+      "inicio": "2026-11-23T04:30:00",
+      "fin": "2026-11-23T05:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La mañana de cada día",
+      "descripcion": "Producción, artística y creatividad son los componentes necesarios para lograr un programa ágil y moderno según las exigencias actuales. Tiene bloques de noticias, deportes, cocina, juegos y mucho más.",
+      "inicio": "2026-11-23T05:30:00",
+      "fin": "2026-11-23T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Arriba Paraguay",
+      "descripcion": "Programa de entretenimiento en formato Magazine con un enfoque divertido y positivo a todo lo que sucede dentro del país.",
+      "inicio": "2026-11-23T09:30:00",
+      "fin": "2026-11-23T11:25:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Informativo del mediodía",
+      "descripcion": "El Noticiero que al medio día mantendrá informado al país, presentando una síntesis de los sucesos más relevantes del día, dándole una perspectiva diferente, en un formato con mucho dinamismo y objetividad.",
+      "inicio": "2026-11-23T11:25:00",
+      "fin": "2026-11-23T13:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
 }

@@ -1,172 +1,193 @@
 {
   "actual": {
-    "titulo": "Amigos salvajes 3",
-    "descripcion": "Boog se hace pasar por un oso pardo de un circo que se le parece mucho y le sustituye en una actuación. Sin embargo, cuando el circo decide volver a Rusia, Eliot y la pandilla tendrán que rescatarlo antes de que sea demasiado tarde.",
-    "inicio": "2026-11-21T12:00:00",
-    "fin": "2026-11-21T13:25:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "El milagro del Padre Stu",
+    "descripcion": "Sigue la vida del padre Stuart Long, un boxeador convertido en sacerdote que inspiró a innumerables personas durante su viaje desde la autodestrucción hasta la redención.",
+    "inicio": "2026-11-22T11:00:00",
+    "fin": "2026-11-22T13:15:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmilagrodelpadrestu.jpg"
   },
   "siguiente": {
-    "titulo": "Morning Show Mysteries: Countdown to Murder",
-    "descripcion": "El asesinato del dueño de un supermercado pone a la chef de televisión Billie Blessings y al detective Ian Jackson en la búsqueda de un posible asesino en serie, mientras aceptan su floreciente romance.",
-    "inicio": "2026-11-21T13:25:00",
-    "fin": "2026-11-21T15:05:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/morningshowmysteriescountdowntomurder.jpg"
+    "titulo": "Lilo, Lilo, Cocodrilo",
+    "descripcion": "La familia Primm se muda a Nueva York, pero su hijo pequeño Josh, tiene dificultades para adaptarse a su nueva escuela y a sus nuevos amigos. Sin embargo, conoce a Lyle, un cocodrilo cantante, qué está viviendo en el ático de su nueva casa.",
+    "inicio": "2026-11-22T13:15:00",
+    "fin": "2026-11-22T15:05:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lilolilococodrilo.jpg"
   },
   "lista": [
-    {
-      "titulo": "Amigos salvajes 3",
-      "descripcion": "Boog se hace pasar por un oso pardo de un circo que se le parece mucho y le sustituye en una actuación. Sin embargo, cuando el circo decide volver a Rusia, Eliot y la pandilla tendrán que rescatarlo antes de que sea demasiado tarde.",
-      "inicio": "2026-11-21T12:00:00",
-      "fin": "2026-11-21T13:25:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Morning Show Mysteries: Countdown to Murder",
-      "descripcion": "El asesinato del dueño de un supermercado pone a la chef de televisión Billie Blessings y al detective Ian Jackson en la búsqueda de un posible asesino en serie, mientras aceptan su floreciente romance.",
-      "inicio": "2026-11-21T13:25:00",
-      "fin": "2026-11-21T15:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/morningshowmysteriescountdowntomurder.jpg"
-    },
-    {
-      "titulo": "Amigos salvajes 2",
-      "descripcion": "Un grupo de animales se une para rescatar a un perro salchicha secuestrado por mascotas domesticadas.",
-      "inicio": "2026-11-21T15:05:00",
-      "fin": "2026-11-21T16:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/amigossalvajes2.jpg"
-    },
-    {
-      "titulo": "Hotel Transilvania",
-      "descripcion": "Drácula regenta un hotel en el que se alojan personajes como Frankenstein, la Momia, el Hombre Invisible, hombres-lobo... El problema del conde es que tiene una hija de espíritu aventurero a la que le resulta difícil controlar. El conflicto surge cuando se aloja en el hotel un ser humano que se siente atraído por la hija del dueño.",
-      "inicio": "2026-11-21T16:30:00",
-      "fin": "2026-11-21T18:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hoteltransilvania.jpg"
-    },
-    {
-      "titulo": "Matilda",
-      "descripcion": "Matilda Wormwood es una jovencita extremadamente curiosa e inteligente, todo lo contrario que sus chabacanos padres, que a menudo la ignoran. A medida que crece va descubriendo que posee poderes telequinéticos, hasta que un día un profesor le enseña que puede usar esos poderes para ayudar a sus amigos. Además las personas que hasta ese momento le han hecho la vida imposible sufrirán las consecuencias.",
-      "inicio": "2026-11-21T18:05:00",
-      "fin": "2026-11-21T19:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/matilda.jpg"
-    },
-    {
-      "titulo": "Jumanji: El siguiente nivel",
-      "descripcion": "La pandilla ha vuelto. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas e inexploradas para escapar del juego más peligroso del mundo.",
-      "inicio": "2026-11-21T19:50:00",
-      "fin": "2026-11-21T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/jumanjielsiguientenivel.jpg"
-    },
-    {
-      "titulo": "Pasajeros",
-      "descripcion": "Una nave espacial interestelar, que viaja con piloto automático a un planeta lejano transportando a miles de personas, choca con un gran meteorito, hecho que ocasiona una avería en una de las cápsulas de hibernación. Como resultado, Jim Preston, uno de los pasajeros, se despierta noventa años antes del final del viaje. Estando completamente solo, Jim intenta por todos los medios volver a su estado inicial, pero tras un año desiste. Su situación mental comienza a flaquear al tiempo que termina por obsesionarse con despertar a Aurora Lane, una de las tripulantes.",
-      "inicio": "2026-11-21T22:00:00",
-      "fin": "2026-11-22T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pasajeros.jpg"
-    },
-    {
-      "titulo": "El coleccionista de huesos",
-      "descripcion": "Lincoln Rhyme es un criminalista forense que quedó discapacitado mientras servía en el ejército y se convirtió en una leyenda en la comunidad del orden público. Amelia Donaghy es una oficial de policía que descubre un cuerpo sin vida mutilado brutalmente. A Rhyme se le pide que investigue el caso, pero no lo acepta. Sin embargo, las pruebas despiertan su curiosidad, ya que las fotos revelan mensajes complejos en los detalles. El psicópata, que podría ser un taxista, se sorprende a si mismo rindiendo homenaje a asesinatos legendarios en sus propios actos. A Amelia se le asigna trabajar con Rhyme, y deberán capturar al asesino antes de que ataque de nuevo.",
-      "inicio": "2026-11-22T00:00:00",
-      "fin": "2026-11-22T02:14:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elcoleccionistadehuesos.jpg"
-    },
-    {
-      "titulo": "La Colonia",
-      "descripcion": "Jack Quinn, uno de los mejores agentes antiterroristas, va tras la pista de Stavros, un peligroso traficante de armas, en la que será su última misión. Sin embargo, fracasará en su intento por arrestarlo y quedará recluido de por vida en 'La Colonia', una especie de retiro forzado para 'oficiales fracasados'. Desde entonces, la única obsesión de Quinn será escapar y rescatar a su esposa embarazada, que ha sido capturada por su mortal enemigo. Para ello contará con la ayuda de Yazz, un criminal bastante excéntrico. ¿Podrá Jack salvar la vida de su mujer y su hija.",
-      "inicio": "2026-11-22T02:14:00",
-      "fin": "2026-11-22T03:54:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacolonia.jpg"
-    },
-    {
-      "titulo": "Morning Show Mysteries: Murder Ever After",
-      "descripcion": "La presentadora de televisión Billie Blessings encuentra huesos en el sótano de la casa de un viejo amigo, desenterrando un oscuro secreto que amenaza con desentrañar las vidas de las personas más poderosas de su ciudad.",
-      "inicio": "2026-11-22T03:54:00",
-      "fin": "2026-11-22T05:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/morningshowmysteriesmurdereverafter.jpg"
-    },
-    {
-      "titulo": "Designing Women • My Daughter, My Self",
-      "descripcion": "My Daughter, My Self | Mary Jo le prohíbe a Claudia salir con un hombre mayor y luego decide salir ella misma con él.",
-      "inicio": "2026-11-22T05:29:00",
-      "fin": "2026-11-22T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/designingwomen.jpg"
-    },
-    {
-      "titulo": "Designing Women • And Now, Here's Bernice",
-      "descripcion": "And Now, Here's Bernice | Un cliente atractivo le rompe el corazón a Mary Jo. Bernice consigue su propio programa de televisión nocturno.",
-      "inicio": "2026-11-22T06:00:00",
-      "fin": "2026-11-22T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/designingwomen.jpg"
-    },
-    {
-      "titulo": "Designing Women • Pearls of Wisdom",
-      "descripcion": "Pearls of Wisdom | Mary Jo cambia sus perlas falsas por las auténticas de Suzanne en broma, pero luego las pierde.",
-      "inicio": "2026-11-22T06:30:00",
-      "fin": "2026-11-22T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/designingwomen.jpg"
-    },
-    {
-      "titulo": "Casados con hijos México • Nacido para caminar",
-      "descripcion": "Nacido para caminar | Alexa y Poncho van a sacar sus licencias para conducir. Poncho reprueba el examen y Alexa intenta llevarlo a un evento de condecoración de su equipo de fútbol.",
-      "inicio": "2026-11-22T07:00:00",
-      "fin": "2026-11-22T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Enloqueciendo contigo • Todos en familia",
-      "descripcion": "Todos en familia | Los padres de Jimena están de visita y la situación es tensa. Pablo la anima a confrontarlos y lograr así un momento feliz.",
-      "inicio": "2026-11-22T07:30:00",
-      "fin": "2026-11-22T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enloqueciendocontigo.jpg"
-    },
-    {
-      "titulo": "Designing Women • High Noon in a Laundry Room",
-      "descripcion": "High Noon in a Laundry Room | Anthony pone a prueba su hombría enfrentándose a un matón del barrio.",
-      "inicio": "2026-11-22T08:00:00",
-      "fin": "2026-11-22T08:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/designingwomen.jpg"
-    },
-    {
-      "titulo": "Designing Women • How Long Has This Been Going On?",
-      "descripcion": "How Long Has This Been Going On? | Anthony y las damas espían a Julia cuando ella comienza a actuar de manera misteriosa.",
-      "inicio": "2026-11-22T08:30:00",
-      "fin": "2026-11-22T09:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/designingwomen.jpg"
-    },
-    {
-      "titulo": "Casados con hijos México • Al filo de la navaja",
-      "descripcion": "Al filo de la navaja | Esteban discute con Marilú y se va de casa. Poncho, deslumbrado por la cocina de Esteban, trata de mantenerlo de inquilino y Marilú intenta que Esteban vuelva con ella.",
-      "inicio": "2026-11-22T09:00:00",
-      "fin": "2026-11-22T09:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Casados con hijos México • De Brasil con amor",
-      "descripcion": "De Brasil con amor | Angie, Poncho y los vecinos son seducidos por una secta de cuatro jóvenes y hermosos integrantes. ¿Quién los podrá salvar?",
-      "inicio": "2026-11-22T09:30:00",
-      "fin": "2026-11-22T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Enloqueciendo contigo • El pintor",
-      "descripcion": "El pintor | Diego, un ex de Jimena, pinta el departamento de la pareja. Fernanda, en medio del divorcio, se acuesta con él.",
-      "inicio": "2026-11-22T10:00:00",
-      "fin": "2026-11-22T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enloqueciendocontigo.jpg"
-    },
-    {
-      "titulo": "Enloqueciendo contigo • Estoy tan feliz por ti",
-      "descripcion": "Estoy tan feliz por ti | Jimena recibe un aumento y, mientras todos la celebran, Pablo sufre por su situación laboral.",
-      "inicio": "2026-11-22T10:30:00",
-      "fin": "2026-11-22T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enloqueciendocontigo.jpg"
-    },
     {
       "titulo": "El milagro del Padre Stu",
       "descripcion": "Sigue la vida del padre Stuart Long, un boxeador convertido en sacerdote que inspiró a innumerables personas durante su viaje desde la autodestrucción hasta la redención.",
       "inicio": "2026-11-22T11:00:00",
       "fin": "2026-11-22T13:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elmilagrodelpadrestu.jpg"
+    },
+    {
+      "titulo": "Lilo, Lilo, Cocodrilo",
+      "descripcion": "La familia Primm se muda a Nueva York, pero su hijo pequeño Josh, tiene dificultades para adaptarse a su nueva escuela y a sus nuevos amigos. Sin embargo, conoce a Lyle, un cocodrilo cantante, qué está viviendo en el ático de su nueva casa.",
+      "inicio": "2026-11-22T13:15:00",
+      "fin": "2026-11-22T15:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lilolilococodrilo.jpg"
+    },
+    {
+      "titulo": "Amigos salvajes 3",
+      "descripcion": "Boog se hace pasar por un oso pardo de un circo que se le parece mucho y le sustituye en una actuación. Sin embargo, cuando el circo decide volver a Rusia, Eliot y la pandilla tendrán que rescatarlo antes de que sea demasiado tarde.",
+      "inicio": "2026-11-22T15:05:00",
+      "fin": "2026-11-22T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0810_fallback.jpg"
+    },
+    {
+      "titulo": "Padre no hay más que uno 4: Campanas de boda",
+      "descripcion": "¿Qué efecto tendría en unos padres que el mismo día que su hija mayor cumple 18 años su novio le proponga matrimonio y ella acepte de inmediato? ¿Lograrán mantener el caos o se verán arrastrados por la situación ?",
+      "inicio": "2026-11-22T16:30:00",
+      "fin": "2026-11-22T18:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/padrenohaymasqueuno4campanasdeboda.jpg"
+    },
+    {
+      "titulo": "Prisionera del espacio",
+      "descripcion": "En el espacio exterior hay una prisión de máxima seguridad, con los criminales más peligrosos del planeta. Allí está la hija del presidente de Estados Unidos, pero su vida estará en riesgo cuando comience un motín, y solo un hombre podrá salvarla.",
+      "inicio": "2026-11-22T18:20:00",
+      "fin": "2026-11-22T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0810_fallback.jpg"
+    },
+    {
+      "titulo": "Baby: El aprendiz del crimen",
+      "descripcion": "Baby, un joven y talentoso conductor especializado en fugas, depende del ritmo de su banda sonora personal para ser el mejor en lo suyo. Cuando conoce a la chica de sus sueños, ve una oportunidad para abandonar su vida criminal y realizar una huida limpia. Pero después de ser forzado a trabajar para un jefe de una banda criminal, deberá dar la cara cuando un golpe malogrado amenace su vida, su amor y su libertad.",
+      "inicio": "2026-11-22T20:00:00",
+      "fin": "2026-11-22T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/babyelaprendizdelcrimen.jpg"
+    },
+    {
+      "titulo": "El justiciero 2",
+      "descripcion": "Robert McCall se entera de que una de sus amigas, Susan, ha sido asesinada. McCall decide volver a sus viejos métodos y buscar, encontrar y castigar a los perpetradores.",
+      "inicio": "2026-11-22T22:00:00",
+      "fin": "2026-11-23T00:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/eljusticiero2.jpg"
+    },
+    {
+      "titulo": "Colombiana",
+      "descripcion": "En Colombia, durante 1992, una pequeña que lleva por nombre Cataleya, de tan solo nueve años, escapa a Estados Unidos junto a su tío Emilio tras presenciar el asesinato de sus padres. Su pariente, convertido a través del tiempo en un gánster, le enseña a la pequeña el oficio de matar y la emplea como liquidadora profesional. Quince años después, la joven decide remover su pasado y buscar a los culpables del homicidio de sus padres en busca de venganza, aunque para ello tenga que sacrificar todo lo que más quiere y ama.",
+      "inicio": "2026-11-23T00:10:00",
+      "fin": "2026-11-23T02:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/colombiana.jpg"
+    },
+    {
+      "titulo": "Cadáver",
+      "descripcion": "Cuando Megan Reed trabaja en el turno de noche de la morgue, recibe un cadáver desfigurado. Sola y encerrada en los pasillos del sótano, Megan comienza a experimentar espeluznantes visiones, y sospecha que el cuerpo está poseído por un demonio.",
+      "inicio": "2026-11-23T02:00:00",
+      "fin": "2026-11-23T03:34:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cadaver.jpg"
+    },
+    {
+      "titulo": "Prisionera del espacio",
+      "descripcion": "En el espacio exterior hay una prisión de máxima seguridad, con los criminales más peligrosos del planeta. Allí está la hija del presidente de Estados Unidos, pero su vida estará en riesgo cuando comience un motín, y solo un hombre podrá salvarla.",
+      "inicio": "2026-11-23T03:34:00",
+      "fin": "2026-11-23T05:14:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0810_fallback.jpg"
+    },
+    {
+      "titulo": "Designing Women • High Noon in a Laundry Room",
+      "descripcion": "High Noon in a Laundry Room | Anthony pone a prueba su hombría enfrentándose a un matón del barrio.",
+      "inicio": "2026-11-23T05:14:00",
+      "fin": "2026-11-23T05:44:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/designingwomen.jpg"
+    },
+    {
+      "titulo": "Designing Women • How Long Has This Been Going On?",
+      "descripcion": "How Long Has This Been Going On? | Anthony y las damas espían a Julia cuando ella comienza a actuar de manera misteriosa.",
+      "inicio": "2026-11-23T05:44:00",
+      "fin": "2026-11-23T06:14:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/designingwomen.jpg"
+    },
+    {
+      "titulo": "Casados con hijos México • Cada quien sus problemas",
+      "descripcion": "Cada quien sus problemas | Poncho y Angie están emocionados porque irán a la despedida de su taquería favorita. La cita se ve interrumpida y todo parece interponerse para que la ansiosa pareja salga de la casa.",
+      "inicio": "2026-11-23T06:14:00",
+      "fin": "2026-11-23T06:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0810_fallback.jpg"
+    },
+    {
+      "titulo": "Casados con hijos México • Nacido para caminar",
+      "descripcion": "Nacido para caminar | Alexa y Poncho van a sacar sus licencias para conducir. Poncho reprueba el examen y Alexa intenta llevarlo a un evento de condecoración de su equipo de fútbol.",
+      "inicio": "2026-11-23T06:40:00",
+      "fin": "2026-11-23T07:05:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0810_fallback.jpg"
+    },
+    {
+      "titulo": "Casados con hijos México • Al filo de la navaja",
+      "descripcion": "Al filo de la navaja | Esteban discute con Marilú y se va de casa. Poncho, deslumbrado por la cocina de Esteban, trata de mantenerlo de inquilino y Marilú intenta que Esteban vuelva con ella.",
+      "inicio": "2026-11-23T07:05:00",
+      "fin": "2026-11-23T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0810_fallback.jpg"
+    },
+    {
+      "titulo": "Enloqueciendo contigo • El pintor",
+      "descripcion": "El pintor | Diego, un ex de Jimena, pinta el departamento de la pareja. Fernanda, en medio del divorcio, se acuesta con él.",
+      "inicio": "2026-11-23T07:30:00",
+      "fin": "2026-11-23T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enloqueciendocontigo.jpg"
+    },
+    {
+      "titulo": "Designing Women • The Emperor's New Nose",
+      "descripcion": "The Emperor's New Nose | Las damas se sorprenden cuando ven los resultados de la operación de nariz de Bernice.",
+      "inicio": "2026-11-23T08:00:00",
+      "fin": "2026-11-23T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/designingwomen.jpg"
+    },
+    {
+      "titulo": "Designing Women • Maybe Baby",
+      "descripcion": "Maybe Baby | Suzanne empieza a fumar. Mary Jo decide tener otro hijo.",
+      "inicio": "2026-11-23T08:30:00",
+      "fin": "2026-11-23T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/designingwomen.jpg"
+    },
+    {
+      "titulo": "Casados con hijos México • Al filo de la navaja",
+      "descripcion": "Al filo de la navaja | Esteban discute con Marilú y se va de casa. Poncho, deslumbrado por la cocina de Esteban, trata de mantenerlo de inquilino y Marilú intenta que Esteban vuelva con ella.",
+      "inicio": "2026-11-23T09:00:00",
+      "fin": "2026-11-23T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0810_fallback.jpg"
+    },
+    {
+      "titulo": "Casados con hijos México • De Brasil con amor",
+      "descripcion": "De Brasil con amor | Angie, Poncho y los vecinos son seducidos por una secta de cuatro jóvenes y hermosos integrantes. ¿Quién los podrá salvar?",
+      "inicio": "2026-11-23T09:30:00",
+      "fin": "2026-11-23T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0810_fallback.jpg"
+    },
+    {
+      "titulo": "Casados con hijos México • Cuestión de amor",
+      "descripcion": "Cuestión de amor | El día de San Valentín llega a Villa Coapa. Angie le pide a Poncho un regalo: que él le diga que la ama mientras Alexa y Jonathan buscan nuevas conquistas.",
+      "inicio": "2026-11-23T10:00:00",
+      "fin": "2026-11-23T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0810_fallback.jpg"
+    },
+    {
+      "titulo": "Enloqueciendo contigo • Estoy tan feliz por ti",
+      "descripcion": "Estoy tan feliz por ti | Jimena recibe un aumento y, mientras todos la celebran, Pablo sufre por su situación laboral.",
+      "inicio": "2026-11-23T10:30:00",
+      "fin": "2026-11-23T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enloqueciendocontigo.jpg"
+    },
+    {
+      "titulo": "Enloqueciendo contigo • Visita Guadalajara",
+      "descripcion": "Visita Guadalajara | Pablo dirige un comercial para Jimena y, pese a las dificultades, las cosas salen bien.",
+      "inicio": "2026-11-23T11:00:00",
+      "fin": "2026-11-23T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enloqueciendocontigo.jpg"
+    },
+    {
+      "titulo": "Enloqueciendo contigo • Una oferta que no podrás rechazar",
+      "descripcion": "Una oferta que no podrás rechazar | Jimena necesita bautizarse, pero como Pablo es su padrino, el sacerdote anula el sacramento.",
+      "inicio": "2026-11-23T11:30:00",
+      "fin": "2026-11-23T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enloqueciendocontigo.jpg"
+    },
+    {
+      "titulo": "Vivo",
+      "descripcion": "Vivo, un mono capuchino único en su tipo, debe encontrar su camino desde La Habana a Miami para poder entregar una canción en nombre de su amado dueño y mentor, Andrés.",
+      "inicio": "2026-11-23T12:00:00",
+      "fin": "2026-11-23T13:34:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vivo.jpg"
     }
   ]
 }

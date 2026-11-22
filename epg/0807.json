@@ -1,137 +1,130 @@
 {
   "actual": {
-    "titulo": "Nace una estrella",
-    "descripcion": "Norman Maine, un famoso actor, descubre a Esther y decide impulsar su carrera en el cine. Ella consigue la fama y contraen matrimonio. Pero a medida que el éxito de Esther aumenta, decae el de Norman.",
-    "inicio": "2026-11-21T13:06:00",
-    "fin": "2026-11-21T13:28:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Alemania",
+    "descripcion": "Lola, una adolescente de 16 años, quiere irse de viaje, pero su familia se opone pues están absorbidos por el trastorno mental de su hermana mayor. La inestabilidad y el desgaste en el vínculo con su familia hacen que Lola busque nuevas experiencias.",
+    "inicio": "2026-11-22T12:35:00",
+    "fin": "2026-11-22T14:10:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alemania.jpg"
   },
   "siguiente": {
-    "titulo": "A Star Is Born",
-    "descripcion": "Jackson, una estrella de la música country con problemas de alcoholismo, descubre el talento de Ally, una joven cantante de la cual se enamora. Mientras la carrera de ella despega, Jackson percibe que sus días de gloria están llegando a su fin.",
-    "inicio": "2026-11-21T13:28:00",
-    "fin": "2026-11-21T16:27:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/astarisborn.jpg"
+    "titulo": "Rojo",
+    "descripcion": "Un misterioso hombre llega a una ciudad y sin motivo aparente agrede a Claudio, un exitoso abogado. Tras un intento fallido, los ataques continúan, lo que despierta la ira de la esposa de Claudio.",
+    "inicio": "2026-11-22T14:10:00",
+    "fin": "2026-11-22T16:07:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0807_fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Nace una estrella",
-      "descripcion": "Norman Maine, un famoso actor, descubre a Esther y decide impulsar su carrera en el cine. Ella consigue la fama y contraen matrimonio. Pero a medida que el éxito de Esther aumenta, decae el de Norman.",
-      "inicio": "2026-11-21T13:06:00",
-      "fin": "2026-11-21T13:28:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "A Star Is Born",
-      "descripcion": "Jackson, una estrella de la música country con problemas de alcoholismo, descubre el talento de Ally, una joven cantante de la cual se enamora. Mientras la carrera de ella despega, Jackson percibe que sus días de gloria están llegando a su fin.",
-      "inicio": "2026-11-21T13:28:00",
-      "fin": "2026-11-21T16:27:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/astarisborn.jpg"
-    },
-    {
-      "titulo": "El ciclista",
-      "descripcion": "Un ciclista atraviesa los tres peores días de su vida durante las convulsas primeras etapas del excepcionalmente polémico Tour de Francia de 1998, que se disputaron en Irlanda.",
-      "inicio": "2026-11-21T16:27:00",
-      "fin": "2026-11-21T16:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "The Racer",
-      "descripcion": "Verano de 1998: las etapas iniciales del Tour de Francia se trasladan a Irlanda. El ciclista belga Dom Chabol (finales de los 30) ha sido uno de los mejores “Domestiques” (corredores de apoyo) del Tour durante los últimos 20 años. Es un papel de sacrificio: marcar el ritmo, bloquear el viento y brindar apoyo para que el velocista del equipo llegue a la victoria; ganar no es una opción. Pero Dom alberga en secreto el deseo de usar la camiseta amarilla, solo una vez antes de que termine su carrera. Al comienzo de lo que probablemente será su último Tour, Dom es retirado sin ceremonias del Equipo al que ha dedicado su vida. Su mejor amigo Sonny, el masajista del equipo, no logra tranquilizarlo sobre su futuro. Pero una relación casual con Lynn, una joven médica irlandesa, suaviza el golpe y Dom comienza a aceptar, e incluso a disfrutar, la idea de la vida civil.",
-      "inicio": "2026-11-21T16:40:00",
-      "fin": "2026-11-21T18:12:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/theracer.jpg"
-    },
-    {
-      "titulo": "Batman",
-      "descripcion": "La oscura y peligrosa ciudad de Gotham tan sólo se ve protegida por su corrupto cuerpo de policía. A pesar de los esfuerzos del fiscal del distrito Harvey Dent y del comisionado de policía Jim Gordon, la ciudad cada vez se halla más insegura. La aparición de un personaje conocido como Batman, el señor de la noche, puede llegar a ser la única salvación para proteger a los ciudadanos del crimen organizado de Gotham.",
-      "inicio": "2026-11-21T18:12:00",
-      "fin": "2026-11-21T20:27:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/batman.jpg"
-    },
-    {
-      "titulo": "Alemania",
-      "descripcion": "Lola, una adolescente de 16 años, quiere irse de viaje, pero su familia se opone pues están absorbidos por el trastorno mental de su hermana mayor. La inestabilidad y el desgaste en el vínculo con su familia hacen que Lola busque nuevas experiencias.",
-      "inicio": "2026-11-21T20:27:00",
-      "fin": "2026-11-21T22:01:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alemania.jpg"
-    },
-    {
-      "titulo": "Alma en suplicio",
-      "descripcion": "Tras el abandono de su marido, Mildred Pierce demuestra que puede llevar una vida independiente, pero no logra ganarse la aprobación de su hija consentida.",
-      "inicio": "2026-11-21T22:01:00",
-      "fin": "2026-11-21T23:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/almaensuplicio.jpg"
-    },
-    {
-      "titulo": "To Be Announced",
-      "descripcion": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "inicio": "2026-11-21T23:59:00",
-      "fin": "2026-11-22T01:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El ataque de los zombies en la nieve",
-      "descripcion": "Unos jóvenes que practican el snowboard están atrapados en un remoto centro de esquí, donde son perseguidos por zombis.",
-      "inicio": "2026-11-22T01:50:00",
-      "fin": "2026-11-22T03:06:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elataquedeloszombiesenlanieve.jpg"
-    },
-    {
-      "titulo": "To Be Announced",
-      "descripcion": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "inicio": "2026-11-22T03:06:00",
-      "fin": "2026-11-22T05:42:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Hollywood One on One",
-      "descripcion": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.",
-      "inicio": "2026-11-22T05:42:00",
-      "fin": "2026-11-22T05:55:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hollywoodoneonone.jpg"
-    },
-    {
-      "titulo": "TNT Buzz",
-      "descripcion": "Programa de entrevista, reportaje y noticias del mundo del entretenimiento que lo ponen al corriente del acontecer actual.",
-      "inicio": "2026-11-22T05:55:00",
-      "fin": "2026-11-22T06:01:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tntbuzz.jpg"
-    },
-    {
-      "titulo": "Hollywood One on One",
-      "descripcion": "Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.",
-      "inicio": "2026-11-22T06:01:00",
-      "fin": "2026-11-22T06:24:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hollywoodoneonone.jpg"
-    },
-    {
-      "titulo": "Trenque Lauquen - Parte 2",
-      "descripcion": "En medio de todos los misterios explorados, Rafael y Ezequiel comienzan a entender las circunstancias detrás de la desaparición de Laura. Pero surge una nueva incógnita en el pueblo que involucra a una pareja y a su experimento científico.",
-      "inicio": "2026-11-22T06:24:00",
-      "fin": "2026-11-22T08:38:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "El ciclista",
-      "descripcion": "Un ciclista atraviesa los tres peores días de su vida durante las convulsas primeras etapas del excepcionalmente polémico Tour de Francia de 1998, que se disputaron en Irlanda.",
-      "inicio": "2026-11-22T08:38:00",
-      "fin": "2026-11-22T10:19:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Batman",
-      "descripcion": "La oscura y peligrosa ciudad de Gotham tan sólo se ve protegida por su corrupto cuerpo de policía. A pesar de los esfuerzos del fiscal del distrito Harvey Dent y del comisionado de policía Jim Gordon, la ciudad cada vez se halla más insegura. La aparición de un personaje conocido como Batman, el señor de la noche, puede llegar a ser la única salvación para proteger a los ciudadanos del crimen organizado de Gotham.",
-      "inicio": "2026-11-22T10:19:00",
-      "fin": "2026-11-22T12:35:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/batman.jpg"
-    },
     {
       "titulo": "Alemania",
       "descripcion": "Lola, una adolescente de 16 años, quiere irse de viaje, pero su familia se opone pues están absorbidos por el trastorno mental de su hermana mayor. La inestabilidad y el desgaste en el vínculo con su familia hacen que Lola busque nuevas experiencias.",
       "inicio": "2026-11-22T12:35:00",
       "fin": "2026-11-22T14:10:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/alemania.jpg"
+    },
+    {
+      "titulo": "Rojo",
+      "descripcion": "Un misterioso hombre llega a una ciudad y sin motivo aparente agrede a Claudio, un exitoso abogado. Tras un intento fallido, los ataques continúan, lo que despierta la ira de la esposa de Claudio.",
+      "inicio": "2026-11-22T14:10:00",
+      "fin": "2026-11-22T16:07:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0807_fallback.jpg"
+    },
+    {
+      "titulo": "SPL3: Paradoja",
+      "descripcion": "Un oficial de Hong Kong recorre Tailandia para buscar a su hija desaparecida.",
+      "inicio": "2026-11-22T16:07:00",
+      "fin": "2026-11-22T17:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/spl3paradoja.jpg"
+    },
+    {
+      "titulo": "La gran apuesta",
+      "descripcion": "Cuando cuatro tipos fuera del sistema descubren que los grandes bancos, los medios de comunicación y el gobierno se niegan a reconocer el colapso de la economía, tienen una idea: 'La Gran Apuesta'…  pero sus inversiones de riesgo les conducen al lado oscuro de la banca moderna, donde deben poner en duda todo y a todos...",
+      "inicio": "2026-11-22T17:45:00",
+      "fin": "2026-11-22T19:38:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lagranapuesta.jpg"
+    },
+    {
+      "titulo": "Aprendices de cuervos II",
+      "descripcion": "El último curso en la escuela secundaria Suzuran se acerca a su fin para Genji y sus compañeros. Aun así, los problemas para los Cuervos no han hecho más que empezar. Genji sigue obsesionado con vencer a Rindaman, aunque todos sus intentos terminen en derrota, para alegría del grupo de Serizawa.",
+      "inicio": "2026-11-22T19:38:00",
+      "fin": "2026-11-22T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0807_fallback.jpg"
+    },
+    {
+      "titulo": "Un Retazo de Azul",
+      "descripcion": "Un negro negociante hace amistad con una mujer ciega de 18 años de edad y él le da un sentido de confianza en sí mismo.",
+      "inicio": "2026-11-22T22:00:00",
+      "fin": "2026-11-22T23:52:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0807_fallback.jpg"
+    },
+    {
+      "titulo": "La dama de la mafia",
+      "descripcion": "Hyun-jung empezó su vida en el submundo como prostituta y ahora está en lo más alto de una organización criminal. Su gran secreto es que, mientras estaba en la cárcel, dio a luz a un hijo. Cuando esto sale a la luz, el niño entra en el punto de mira de los enemigos de Hyun-jung, y esta deberá proteger con uñas y dientes (y balas) al pequeño.",
+      "inicio": "2026-11-22T23:52:00",
+      "fin": "2026-11-23T01:26:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ladamadelamafia.jpg"
+    },
+    {
+      "titulo": "Herencia de carne",
+      "descripcion": "Wade Hunnicutt, el hombre más rico y poderoso de un pueblo de Texas, es un mujeriego empedernido. Para olvidar los problemas del matrimonio, su mujer se dedica en cuerpo y alma a su hijo. Sin embargo, Wade decide educarlo y convertirlo en un hombre.",
+      "inicio": "2026-11-23T01:26:00",
+      "fin": "2026-11-23T04:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0807_fallback.jpg"
+    },
+    {
+      "titulo": "Crónicas de una santa errante",
+      "descripcion": "En un pequeño pueblo rural de Argentina, Rita López, una mujer piadosa pero insaciablemente competitiva, descubre que escenificar un milagro podría ser su boleto a la santidad.",
+      "inicio": "2026-11-23T04:02:00",
+      "fin": "2026-11-23T05:31:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cronicasdeunasantaerrante.jpg"
+    },
+    {
+      "titulo": "Hollywood One on One",
+      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
+      "inicio": "2026-11-23T05:31:00",
+      "fin": "2026-11-23T05:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hollywoodoneonone.jpg"
+    },
+    {
+      "titulo": "TNT Buzz",
+      "descripcion": "Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.",
+      "inicio": "2026-11-23T05:55:00",
+      "fin": "2026-11-23T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tntbuzz.jpg"
+    },
+    {
+      "titulo": "Hollywood One on One",
+      "descripcion": "Las celebridades de Hollywood dan cuenta de su vida personal y profesional, y se sinceran sobre sus próximos proyectos.",
+      "inicio": "2026-11-23T06:00:00",
+      "fin": "2026-11-23T07:08:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hollywoodoneonone.jpg"
+    },
+    {
+      "titulo": "Rojo",
+      "descripcion": "Un misterioso hombre llega a una ciudad y sin motivo aparente agrede a Claudio, un exitoso abogado. Tras un intento fallido, los ataques continúan, lo que despierta la ira de la esposa de Claudio.",
+      "inicio": "2026-11-23T07:08:00",
+      "fin": "2026-11-23T09:02:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0807_fallback.jpg"
+    },
+    {
+      "titulo": "SPL3: Paradoja",
+      "descripcion": "Un oficial de Hong Kong recorre Tailandia para buscar a su hija desaparecida.",
+      "inicio": "2026-11-23T09:02:00",
+      "fin": "2026-11-23T10:39:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/spl3paradoja.jpg"
+    },
+    {
+      "titulo": "La gran apuesta",
+      "descripcion": "Cuando cuatro tipos fuera del sistema descubren que los grandes bancos, los medios de comunicación y el gobierno se niegan a reconocer el colapso de la economía, tienen una idea: 'La Gran Apuesta'…  pero sus inversiones de riesgo les conducen al lado oscuro de la banca moderna, donde deben poner en duda todo y a todos...",
+      "inicio": "2026-11-23T10:39:00",
+      "fin": "2026-11-23T12:35:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lagranapuesta.jpg"
+    },
+    {
+      "titulo": "Aprendices de cuervos II",
+      "descripcion": "El último curso en la escuela secundaria Suzuran se acerca a su fin para Genji y sus compañeros. Aun así, los problemas para los Cuervos no han hecho más que empezar. Genji sigue obsesionado con vencer a Rindaman, aunque todos sus intentos terminen en derrota, para alegría del grupo de Serizawa.",
+      "inicio": "2026-11-23T12:35:00",
+      "fin": "2026-11-23T15:01:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0807_fallback.jpg"
     }
   ]
 }

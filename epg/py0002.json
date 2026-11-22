@@ -1,122 +1,129 @@
 {
   "actual": {
-    "titulo": "Meridiano informativo",
-    "descripcion": "Noticiero ideado para ser visto en medio de las actividades cotidianas con un perfil de magazine. El televidente también podrá conocer algo de misceláneas y noticias insólitas que se registran en el país y el mundo.",
-    "inicio": "2026-11-21T12:00:00",
-    "fin": "2026-11-21T13:30:00",
+    "titulo": "Tereré Jeré",
+    "descripcion": "Un formato donde vas a disfrutar de un encuentro entre amigos, buena música de la mano de grandes artistas nacionales, un rico asado y mucho tereré. Un programa que brinda espacio al talento paraguayo.",
+    "inicio": "2026-11-22T12:00:00",
+    "fin": "2026-11-22T14:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Dragon Ball Daima",
-    "descripcion": "Goku y sus compañeros llevaban una vida pacífica cuando, de repente, ¡se transfoman en niños! Al descubrir que esto podría ser obra del Reino Demoníaco, aparece ante ellos un misterioso joven Majin llamado Glorio.",
-    "inicio": "2026-11-21T13:30:00",
-    "fin": "2026-11-21T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dragonballdaima.jpg"
+    "titulo": "Dragon Ball Super",
+    "descripcion": "Continúa las aventuras de Goku luego de seis meses de que Majin Boo es derrotado, cuando la Tierra se ha convertido, una vez más, en un lugar pacífico.",
+    "inicio": "2026-11-22T14:00:00",
+    "fin": "2026-11-22T15:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dragonballsuper.jpg"
   },
   "lista": [
-    {
-      "titulo": "Meridiano informativo",
-      "descripcion": "Noticiero ideado para ser visto en medio de las actividades cotidianas con un perfil de magazine. El televidente también podrá conocer algo de misceláneas y noticias insólitas que se registran en el país y el mundo.",
-      "inicio": "2026-11-21T12:00:00",
-      "fin": "2026-11-21T13:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Dragon Ball Daima",
-      "descripcion": "Goku y sus compañeros llevaban una vida pacífica cuando, de repente, ¡se transfoman en niños! Al descubrir que esto podría ser obra del Reino Demoníaco, aparece ante ellos un misterioso joven Majin llamado Glorio.",
-      "inicio": "2026-11-21T13:30:00",
-      "fin": "2026-11-21T15:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dragonballdaima.jpg"
-    },
-    {
-      "titulo": "Telecine familiar 1ra. función",
-      "descripcion": "Un espacio que ofrece las mejores películas.",
-      "inicio": "2026-11-21T15:00:00",
-      "fin": "2026-11-21T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Telecine familiar 2da. función",
-      "descripcion": "En compañía de toda la familia disfrutá la tarde con tus películas favoritas.",
-      "inicio": "2026-11-21T17:30:00",
-      "fin": "2026-11-21T19:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Telediario",
-      "descripcion": "Telediario es el programa informativo de referencia de Televisión Española. Con tres ediciones diarias entre semana y cuatro ediciones en el fin de semana, informa de las noticias más relevantes en los ámbitos nacional, internacional, social, deportivo y meteorológico.",
-      "inicio": "2026-11-21T19:50:00",
-      "fin": "2026-11-21T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telediario.jpg"
-    },
-    {
-      "titulo": "El conejo",
-      "descripcion": "En medio de la crisis de Dany, una joven que se siente frustrada e insegura, aparece el Conejo, que la hostiga utilizando sus inseguridades y temores. Ella deberá enfrentarlo para reconocer aquello que la está paralizando en esta etapa de su vida.",
-      "inicio": "2026-11-21T21:00:00",
-      "fin": "2026-11-21T23:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elconejo.jpg"
-    },
-    {
-      "titulo": "New Amsterdam",
-      "descripcion": "Inspirado por Bellevue, el hospital público más antiguo de Estados Unidos, este drama médico único sigue al brillante y encantador Dr. Max Goodwin, el director médico más nuevo de la institución, que se propone romper la burocracia y brindar una atención excepcional.",
-      "inicio": "2026-11-21T23:45:00",
-      "fin": "2026-11-22T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/newamsterdam.jpg"
-    },
-    {
-      "titulo": "Cierre de transmisiones",
-      "descripcion": "Fin de emisión diaria del canal.",
-      "inicio": "2026-11-22T00:00:00",
-      "fin": "2026-11-22T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
-    },
-    {
-      "titulo": "Cierre de transmisiones",
-      "descripcion": "Fin de emisión diaria del canal.",
-      "inicio": "2026-11-22T00:00:00",
-      "fin": "2026-11-22T05:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
-    },
-    {
-      "titulo": "Esto dice la Iglesia",
-      "descripcion": "Segmento para reflexionar y debatir sobre distintos aspectos que atañen a nuestra fe católica, con un análisis de sus principales enseñanzas.",
-      "inicio": "2026-11-22T05:20:00",
-      "fin": "2026-11-22T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Mba'éichapa",
-      "descripcion": "Acompaña semanalmente a Bicho Riveros en un recorrido por los sitios más hermosos y emblemáticos de Paraguay. Atrévete a vivir la aventura y lo mejor de todo, desde la comodidad de tu hogar.",
-      "inicio": "2026-11-22T06:00:00",
-      "fin": "2026-11-22T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Misa de Caacupé",
-      "descripcion": "Transmisión en directo de la Misa de Caacupé, la cual tiene como centro de concentración la capital central de Paraguay. Muchos son los feligreses que se reúnen para honrar a la adoradaVirgen de Caacupé.",
-      "inicio": "2026-11-22T07:00:00",
-      "fin": "2026-11-22T08:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "La lupa",
-      "descripcion": "Este conocido espacio de corte periodístico y dinámico, pone bajo la lupa temas que de una u otra manera afectan a nuestra sociedad. Informaciones, debates y temas actuales de índole nacional e internacional.",
-      "inicio": "2026-11-22T08:15:00",
-      "fin": "2026-11-22T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Arriba el finde",
-      "descripcion": "El momento más esperado de la semana es el finde y ahora en Telefuturo vamos a vivirlo bien arriba.",
-      "inicio": "2026-11-22T11:00:00",
-      "fin": "2026-11-22T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
     {
       "titulo": "Tereré Jeré",
       "descripcion": "Un formato donde vas a disfrutar de un encuentro entre amigos, buena música de la mano de grandes artistas nacionales, un rico asado y mucho tereré. Un programa que brinda espacio al talento paraguayo.",
       "inicio": "2026-11-22T12:00:00",
       "fin": "2026-11-22T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Dragon Ball Super",
+      "descripcion": "Continúa las aventuras de Goku luego de seis meses de que Majin Boo es derrotado, cuando la Tierra se ha convertido, una vez más, en un lugar pacífico.",
+      "inicio": "2026-11-22T14:00:00",
+      "fin": "2026-11-22T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/dragonballsuper.jpg"
+    },
+    {
+      "titulo": "Jumanji: El siguiente nivel",
+      "descripcion": "La pandilla ha vuelto. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas e inexploradas para escapar del juego más peligroso del mundo.",
+      "inicio": "2026-11-22T15:00:00",
+      "fin": "2026-11-22T17:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/jumanjielsiguientenivel.jpg"
+    },
+    {
+      "titulo": "Venom: Carnage liberado",
+      "descripcion": "Eddie Brock y su simbionte Venom todavía están intentando descubrir cómo vivir juntos cuando un preso que está en el corredor de la muerte se infecta con un simbionte propio.",
+      "inicio": "2026-11-22T17:10:00",
+      "fin": "2026-11-22T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/venomcarnageliberado.jpg"
+    },
+    {
+      "titulo": "Telebingo",
+      "descripcion": "Disfruta de este bingo tradicional y prueba tu suerte para que optes a ser el ganador de increíbles premios, entre los que se encuentra un auto que se estará rifando semanalmente.",
+      "inicio": "2026-11-22T19:00:00",
+      "fin": "2026-11-22T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Cobra Kai • Luego aprender a volar",
+      "descripcion": "Luego aprender a volar | Kenny intenta entrenar en Cobra Kai con el apoyo de Robby, mientras Johnny le pide a Sam que aprenda a confiar en sí misma.",
+      "inicio": "2026-11-22T19:30:00",
+      "fin": "2026-11-22T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cobrakai.jpg"
+    },
+    {
+      "titulo": "Políticamente yncorrecto",
+      "descripcion": "Luis Bareiro presenta un espacio donde las opiniones candentes, las entrevistas picantes y sin filtro son los principales protagonistas.",
+      "inicio": "2026-11-22T20:30:00",
+      "fin": "2026-11-22T21:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Telefútbol",
+      "descripcion": "Un programa cargado de pasión al futbol. El resumen deportivo de cada fecha del torneo paraguayo y sus principales protagonistas. Los goles, resúmenes, sucesos y polémicas que ocurren en el ambo futbolístico.",
+      "inicio": "2026-11-22T21:45:00",
+      "fin": "2026-11-22T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Fútbol a lo grande",
+      "descripcion": "Toda la actualidad sobre el campeonato nacional e internacional. Todos los domingos a puro futbol. Goles, debates y resúmenes de todo lo acontecido a nivel futbolístico.",
+      "inicio": "2026-11-22T23:00:00",
+      "fin": "2026-11-23T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Princesa valiente • Capítulo 29",
+      "descripcion": "Capítulo 29 | Durante los tiempos caóticos de Wei, ciudadanos inocentes eran secuestrados y convertidos en esclavos. En ese contexto, Chu Qiao fue arrojada a un bosque junto con otros esclavos, pero fue salvada por el Príncipe de Yanbei, Yan Xun.",
+      "inicio": "2026-11-23T00:00:00",
+      "fin": "2026-11-23T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/princesavaliente.jpg"
+    },
+    {
+      "titulo": "Cierre de transmisiones",
+      "descripcion": "Fin de emisión diaria del canal.",
+      "inicio": "2026-11-23T01:00:00",
+      "fin": "2026-11-23T01:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
+    },
+    {
+      "titulo": "Cierre de transmisiones",
+      "descripcion": "Fin de emisión diaria del canal.",
+      "inicio": "2026-11-23T01:00:00",
+      "fin": "2026-11-23T05:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
+    },
+    {
+      "titulo": "Día a día",
+      "descripcion": "Un espacio periodístico que presenta un resumen de las noticias más importantes del día, una proyección de los temas que serán noticia en la jornada que se inicia.",
+      "inicio": "2026-11-23T05:20:00",
+      "fin": "2026-11-23T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/diaadia.jpg"
+    },
+    {
+      "titulo": "Vive la vida",
+      "descripcion": "Disfruta un programa de revisita con lo más relevante del día.",
+      "inicio": "2026-11-23T09:00:00",
+      "fin": "2026-11-23T11:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "El deportivo",
+      "descripcion": "Información, novedades y todo el resumen de las jornadas deportivas de campeonatos nacionales e internacionales.",
+      "inicio": "2026-11-23T11:30:00",
+      "fin": "2026-11-23T11:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Meridiano informativo",
+      "descripcion": "Noticiero ideado para ser visto en medio de las actividades cotidianas con un perfil de magazine. El televidente también podrá conocer algo de misceláneas y noticias insólitas que se registran en el país y el mundo.",
+      "inicio": "2026-11-23T11:50:00",
+      "fin": "2026-11-23T13:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
