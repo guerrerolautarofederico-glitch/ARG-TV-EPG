@@ -1,73 +1,108 @@
 {
   "actual": {
-    "titulo": "Lo Mejor de la Semana",
-    "descripcion": "Selección y repetición de los mejores contenidos del canal.",
-    "inicio": "2026-11-22T13:00:00",
-    "fin": "2026-11-22T18:00:00",
+    "titulo": "Ronda de Corresponsales",
+    "descripcion": "La visión global y las novedades internacionales de la mano de Jorge Elías y su red de corresponsales.",
+    "inicio": "2026-11-23T14:30:00",
+    "fin": "2026-11-23T16:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "siguiente": {
-    "titulo": "Especiales +Perfil",
-    "descripcion": "Selección y repetición de los mejores contenidos del canal.",
-    "inicio": "2026-11-22T18:00:00",
-    "fin": "2026-11-22T23:59:00",
+    "titulo": "Ronda de Economistas",
+    "descripcion": "El panorama financiero, los mercados y las variables económicas analizados por Fernando Meaños.",
+    "inicio": "2026-11-23T16:30:00",
+    "fin": "2026-11-23T18:00:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Lo Mejor de la Semana",
-      "descripcion": "Selección y repetición de los mejores contenidos del canal.",
-      "inicio": "2026-11-22T13:00:00",
-      "fin": "2026-11-22T18:00:00",
+      "titulo": "Ronda de Corresponsales",
+      "descripcion": "La visión global y las novedades internacionales de la mano de Jorge Elías y su red de corresponsales.",
+      "inicio": "2026-11-23T14:30:00",
+      "fin": "2026-11-23T16:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Especiales +Perfil",
-      "descripcion": "Selección y repetición de los mejores contenidos del canal.",
-      "inicio": "2026-11-22T18:00:00",
-      "fin": "2026-11-22T23:59:00",
+      "titulo": "Ronda de Economistas",
+      "descripcion": "El panorama financiero, los mercados y las variables económicas analizados por Fernando Meaños.",
+      "inicio": "2026-11-23T16:30:00",
+      "fin": "2026-11-23T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ronda de Escritores",
+      "descripcion": "Un espacio para la literatura, los libros y el pensamiento cultural conducido por Osvaldo Quiroga.",
+      "inicio": "2026-11-23T18:00:00",
+      "fin": "2026-11-23T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ronda de Editores",
+      "descripcion": "Las primicias, enfoques y debates periodísticos con los principales editores de Editorial Perfil.",
+      "inicio": "2026-11-23T19:30:00",
+      "fin": "2026-11-23T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "QR!",
+      "descripcion": "Actualidad, política y debate en la noche del canal con la conducción de Pablo Caruso.",
+      "inicio": "2026-11-23T21:00:00",
+      "fin": "2026-11-23T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Rebord",
+      "descripcion": "Espacio de entrevistas e impresiones conducido por Tomás Rebord.",
+      "inicio": "2026-11-23T23:00:00",
+      "fin": "2026-11-23T23:59:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Cierre de transmisiones",
       "descripcion": "Fin de emisión diaria del canal.",
-      "inicio": "2026-11-22T23:59:00",
-      "fin": "2026-11-23T00:00:00",
+      "inicio": "2026-11-23T23:59:00",
+      "fin": "2026-11-24T00:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cierredetransmisiones.jpg"
     },
     {
       "titulo": "Programación trasnoche",
       "descripcion": "Selección y repetición de los mejores contenidos del canal.",
-      "inicio": "2026-11-23T00:00:00",
-      "fin": "2026-11-23T06:00:00",
+      "inicio": "2026-11-24T00:00:00",
+      "fin": "2026-11-24T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/programaciontrasnoche.jpg"
     },
     {
       "titulo": "La mañana informativa",
       "descripcion": "Espacio informativo en el que se abordan los acontecimientos más relevantes de la actualidad, datos de servicios como el tiempo y el tráfico vehicular.",
-      "inicio": "2026-11-23T06:00:00",
-      "fin": "2026-11-23T08:00:00",
+      "inicio": "2026-11-24T06:00:00",
+      "fin": "2026-11-24T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamananainformativa.jpg"
     },
     {
       "titulo": "Longobardi",
       "descripcion": "Noticias, análisis y entrevistas con la conducción de Marcelo Longobardi.",
-      "inicio": "2026-11-23T08:00:00",
-      "fin": "2026-11-23T10:00:00",
+      "inicio": "2026-11-24T08:00:00",
+      "fin": "2026-11-24T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Modo Fontevecchia",
       "descripcion": "Periodismo y análisis de la realidad política, económica y social, conducido por Jorge Fontevecchia.",
-      "inicio": "2026-11-23T10:00:00",
-      "fin": "2026-11-23T13:00:00",
+      "inicio": "2026-11-24T10:00:00",
+      "fin": "2026-11-24T13:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/modofontevecchia.jpg"
     },
     {
       "titulo": "Ronda de Investigación",
       "descripcion": "Investigaciones periodísticas y análisis profundo con la conducción de Natalia Volosin.",
-      "inicio": "2026-11-23T13:00:00",
-      "fin": "2026-11-23T14:30:00",
+      "inicio": "2026-11-24T13:00:00",
+      "fin": "2026-11-24T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ronda de Corresponsales",
+      "descripcion": "La visión global y las novedades internacionales de la mano de Jorge Elías y su red de corresponsales.",
+      "inicio": "2026-11-24T14:30:00",
+      "fin": "2026-11-24T16:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]

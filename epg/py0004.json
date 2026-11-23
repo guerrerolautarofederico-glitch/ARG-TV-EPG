@@ -1,151 +1,193 @@
 {
   "actual": {
-    "titulo": "Tarde de películas",
-    "descripcion": "Disfruta de las mejores películas.",
-    "inicio": "2026-11-22T13:00:00",
-    "fin": "2026-11-22T15:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "La rosa de Guadalupe",
+    "descripcion": "La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros. Una rosa blanca aparecerá como símbolo de las peticiones, que el personaje o protagonista invocará, siempre ante la imagen de ella.",
+    "inicio": "2026-11-23T15:30:00",
+    "fin": "2026-11-23T16:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larosadeguadalupe.jpg"
   },
   "siguiente": {
-    "titulo": "El Chavo del 8",
-    "descripcion": "Las vivencias de un grupo de personas que habitan en una vecindad mexicana, donde el Chavo junto con sus amigos, llevan a cabo travesuras que ocasionan malentendidos y discusiones entre los mismos vecinos.",
-    "inicio": "2026-11-22T15:00:00",
-    "fin": "2026-11-22T16:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
+    "titulo": "Caso cerrado",
+    "descripcion": "La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica. Con mediación sensata busca mantener la armonía y la paz en las relaciones personales. Resuelve en poco más de quince minutos casos que pueden tomar meses en una corte y lo hace de manera bastante equilibrada. Antes de la transmisión del espacio, ambas partes firman un acuerdo legal, jurando que se regirán por las decisiones que ella tome.",
+    "inicio": "2026-11-23T16:30:00",
+    "fin": "2026-11-23T17:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casocerrado.jpg"
   },
   "lista": [
     {
-      "titulo": "Tarde de películas",
-      "descripcion": "Disfruta de las mejores películas.",
-      "inicio": "2026-11-22T13:00:00",
-      "fin": "2026-11-22T15:00:00",
+      "titulo": "La rosa de Guadalupe",
+      "descripcion": "La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros. Una rosa blanca aparecerá como símbolo de las peticiones, que el personaje o protagonista invocará, siempre ante la imagen de ella.",
+      "inicio": "2026-11-23T15:30:00",
+      "fin": "2026-11-23T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larosadeguadalupe.jpg"
+    },
+    {
+      "titulo": "Caso cerrado",
+      "descripcion": "La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica. Con mediación sensata busca mantener la armonía y la paz en las relaciones personales. Resuelve en poco más de quince minutos casos que pueden tomar meses en una corte y lo hace de manera bastante equilibrada. Antes de la transmisión del espacio, ambas partes firman un acuerdo legal, jurando que se regirán por las decisiones que ella tome.",
+      "inicio": "2026-11-23T16:30:00",
+      "fin": "2026-11-23T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/casocerrado.jpg"
+    },
+    {
+      "titulo": "Al estilo Pelusa",
+      "descripcion": "Entretenido y didáctico para la mujer y la familia, donde Pelusa Rubín, con su inconfundible estilo, sigue hablando en positivo a las féminas paraguayas, compartiendo con ellas su proceso de crecimiento con optimismo.",
+      "inicio": "2026-11-23T17:30:00",
+      "fin": "2026-11-23T19:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "El Chavo del 8",
-      "descripcion": "Las vivencias de un grupo de personas que habitan en una vecindad mexicana, donde el Chavo junto con sus amigos, llevan a cabo travesuras que ocasionan malentendidos y discusiones entre los mismos vecinos.",
-      "inicio": "2026-11-22T15:00:00",
-      "fin": "2026-11-22T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchavodel8.jpg"
+      "titulo": "Querer sin límites",
+      "descripcion": "Abogado prometedor, Caio es considerado para administrar a García, una de las compañías más grandes del país, sin embargo, cuando Bibi decide poner fin a su relación, deja todo atrás y se muda a Estados Unidos. 15 años después, regresa a Brasil con más experiencia en el poder judicial y se reúne una vez más con Bibi, que no completó la universidad y está casada con Rubinho. Rubinho pasa por una delicada situación financiera.",
+      "inicio": "2026-11-23T19:00:00",
+      "fin": "2026-11-23T19:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/querersinlimites.jpg"
     },
     {
-      "titulo": "Walker, Texas Ranger",
-      "descripcion": "El ranger Cordell Walker (Chuck Norris) es un experto en artes marciales, defensor de la justicia y ex luchador de la guerra de Vietnam que combate los delitos de la ciudad de Dallas. Le acompañan, inicialmente, el antiguo futbolista americano de Baltimore Jimmy Trivette (Clarence Gilyard), el antiguo ranger C.D. Parker (Noble Willingham) y la asistente del fiscal Alex Cahill (Sheree J. Wilson). Luego se suman los rangers Francis Gage (Judson Mills) y Sidney Cooke (Nia Peeples)",
-      "inicio": "2026-11-22T16:00:00",
-      "fin": "2026-11-22T17:00:00",
+      "titulo": "La guerrera",
+      "descripcion": "Morena Ribeiro es una madre soltera de unos veinte años que vive con su pequeño hijo y su mamá en un barrio. La joven recibe una oferta de trabajo fuera del país, pero es engañada y acaba trabajando en un burdel.",
+      "inicio": "2026-11-23T19:45:00",
+      "fin": "2026-11-23T20:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Magnum P.I",
-      "descripcion": "El ex oficial de la inteligencia marina Thomas Magnum renuncia a su comisión para convertirse en un investigador privado en el norte de la costa de Oahu, Hawaii, específicamente en la mansión del millonario escritor Robin Masters.",
-      "inicio": "2026-11-22T17:00:00",
-      "fin": "2026-11-22T18:00:00",
+      "titulo": "Telenoche Noticias",
+      "descripcion": "Reporte completo de los hechos que mayor impacto han causado en la actualidad. Análisis objetivo y veraz aunado a la verdad.",
+      "inicio": "2026-11-23T20:30:00",
+      "fin": "2026-11-23T22:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Megacine estelar",
-      "descripcion": "Las clásicas y más reconocidas producciones cinematográficas tienen su espacio en este magazine realizado con la intención de entretenerte y mostrarte lo mejor del séptimo arte.",
-      "inicio": "2026-11-22T18:00:00",
-      "fin": "2026-11-22T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "Teresa",
+      "descripcion": "Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.",
+      "inicio": "2026-11-23T22:00:00",
+      "fin": "2026-11-23T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/teresa.jpg"
     },
     {
-      "titulo": "Polémica en el bar",
-      "descripcion": "Un espacio que combina entrevistas picantes, debates, show y mucho humor de la mano de un equipo de panelistas. El objetivo es reunir voces diversas, incluso opuestas, que conviertan cada emisión en un terreno fértil para el debate.",
-      "inicio": "2026-11-22T20:00:00",
-      "fin": "2026-11-22T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/polemicaenelbar.jpg"
-    },
-    {
-      "titulo": "Zona franca",
-      "descripcion": "Generando noticias minuto a minuto con entrevistas de los protagonistas, noticias del mundo y nuestro pais participación directa de los oyentes.",
-      "inicio": "2026-11-22T21:30:00",
-      "fin": "2026-11-22T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/zonafranca.jpg"
-    },
-    {
-      "titulo": "Dogma",
-      "descripcion": "Un investigador de eventos sobrenaturales que se ve obligado a trabajar con Alicia, una teóloga especializada en cultos religiosos. Los casos que investigan incluyen rituales de exorcismo y otros fenómenos sobrenaturales.",
-      "inicio": "2026-11-22T23:00:00",
-      "fin": "2026-11-23T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+      "titulo": "El Chema",
+      "descripcion": "La telenovela reinventa la vida del narcotraficante Joaquín Guzmán Loera \"El Chapo\", aunque toma elementos ficticios para el desarrollo del personaje de El Chema. El Chema cuenta la historia de cómo el Chema Venegas (Mauricio Ochmann) empezó en el crimen organizado y subió por las filas para convertirse en la cabeza del cartel que dirige en la serie El Señor de los Cielos. El Chema empezó a violar la ley a una edad temprana, transportando marihuana a través de la frontera entre Estados Unidos y México cuando era un niño. Poco a poco, trabajó su camino hasta convertirse en un líder exitoso y hábil, ganando su lugar a través del derramamiento de sangre y la brutalidad, en la historia del tráfico de drogas. Desde que era un joven, El Chema ha sido uno de los enemigos públicos más importantes tanto de los gobiernos de los Estados Unidos como de México.",
+      "inicio": "2026-11-23T23:00:00",
+      "fin": "2026-11-24T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/elchema.jpg"
     },
     {
       "titulo": "Pare de sufrir",
       "descripcion": "Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios.",
-      "inicio": "2026-11-23T00:00:00",
-      "fin": "2026-11-23T01:00:00",
+      "inicio": "2026-11-24T00:00:00",
+      "fin": "2026-11-24T01:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/paredesufrir.jpg"
     },
     {
       "titulo": "Palma TV",
       "descripcion": "Baile al ritmo de los mejores videoclips.",
-      "inicio": "2026-11-23T01:00:00",
-      "fin": "2026-11-23T01:30:00",
+      "inicio": "2026-11-24T01:00:00",
+      "fin": "2026-11-24T02:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "El show de Palma",
-      "descripcion": "La mejor música y entretenimiento.",
-      "inicio": "2026-11-23T01:30:00",
-      "fin": "2026-11-23T04:00:00",
+      "titulo": "Telenoche",
+      "descripcion": "El mejor equipo de profesionales, primero estás vos.",
+      "inicio": "2026-11-24T02:30:00",
+      "fin": "2026-11-24T03:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/telenoche.jpg"
+    },
+    {
+      "titulo": "Al estilo Pelusa",
+      "descripcion": "Entretenido y didáctico para la mujer y la familia, donde Pelusa Rubín, con su inconfundible estilo, sigue hablando en positivo a las féminas paraguayas, compartiendo con ellas su proceso de crecimiento con optimismo.",
+      "inicio": "2026-11-24T03:30:00",
+      "fin": "2026-11-24T04:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
-      "titulo": "Noche de show",
-      "descripcion": "Noche de show para que vivas tus sábados con el entretenimiento familiar. Viví la noche de los sábados de la mejor forma, mirando tu programa favorito. Te vamos a divertir y entretener y sobre todo acompañar.",
-      "inicio": "2026-11-23T04:00:00",
-      "fin": "2026-11-23T06:00:00",
+      "titulo": "Voces del Paraguay",
+      "descripcion": "Segmento que resalta los valores resultantes de las acciones protagonizadas por los personajes más famosos de la cultura popular del Paraguay en doscientos años de historia, buscando acceder al corazón de los televidentes.",
+      "inicio": "2026-11-24T04:30:00",
+      "fin": "2026-11-24T04:57:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Gotas de paz",
+      "descripcion": "Proyecto de evangelización católica animado por los Hermanos Franciscanos Capuchinos de Paraguay con la colaboración de un grupo de laicos comprometidos, los cuales sintieron la necesidad de ocupar un espacio en los medios de comunicación.",
+      "inicio": "2026-11-24T04:57:00",
+      "fin": "2026-11-24T05:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Voces del Paraguay",
+      "descripcion": "Segmento que resalta los valores resultantes de las acciones protagonizadas por los personajes más famosos de la cultura popular del Paraguay en doscientos años de historia, buscando acceder al corazón de los televidentes.",
+      "inicio": "2026-11-24T05:00:00",
+      "fin": "2026-11-24T06:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Heidi",
       "descripcion": "Heidi es una alegre y charlatana huérfana de ocho años que vive con su abuelo en el idílico escenario de los Alpes Suizos. Heidi hace amistades rápidamente, y todo el mundo sabe que puede confiar en ella cuando precisa ayuda.",
-      "inicio": "2026-11-23T06:00:00",
-      "fin": "2026-11-23T06:30:00",
+      "inicio": "2026-11-24T06:00:00",
+      "fin": "2026-11-24T06:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/heidi.jpg"
     },
     {
       "titulo": "La rosa de Guadalupe",
       "descripcion": "La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros. Una rosa blanca aparecerá como símbolo de las peticiones, que el personaje o protagonista invocará, siempre ante la imagen de ella.",
-      "inicio": "2026-11-23T06:30:00",
-      "fin": "2026-11-23T08:00:00",
+      "inicio": "2026-11-24T06:30:00",
+      "fin": "2026-11-24T08:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larosadeguadalupe.jpg"
     },
     {
       "titulo": "Como dice el dicho",
       "descripcion": "Espacio en el que se darán a conocer historias conmovedoras y divertidas con una fórmula muy peculiar: llevan los dichos más populares de nuestro país a la televisión.",
-      "inicio": "2026-11-23T08:00:00",
-      "fin": "2026-11-23T09:00:00",
+      "inicio": "2026-11-24T08:00:00",
+      "fin": "2026-11-24T09:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comodiceeldicho.jpg"
     },
     {
       "titulo": "El manantial",
       "descripcion": "Esta es una historia de pasión y venganza donde el conflicto principal parte de la rivalidad entre dos familias del pueblo de San Andrés: Los Valdés y los Ramírez",
-      "inicio": "2026-11-23T09:00:00",
-      "fin": "2026-11-23T10:00:00",
+      "inicio": "2026-11-24T09:00:00",
+      "fin": "2026-11-24T10:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Karu Pora",
       "descripcion": "Espacio dedicado al arte culinario, a través del cual podrás aprender ricas recetas de comida que además cumplen con un régimen alimenticio saludable y, aún mejor, económico de realizar.",
-      "inicio": "2026-11-23T10:00:00",
-      "fin": "2026-11-23T11:15:00",
+      "inicio": "2026-11-24T10:00:00",
+      "fin": "2026-11-24T11:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "El misterio de Rose",
       "descripcion": "Una mujer emprende una búsqueda para encontrar a su marido distanciado y a la hija que abandonó hace años. A medida que avanza, los secretos y los pecados emergen, amenazando con romper los corazones que han estado anhelando sanar.",
-      "inicio": "2026-11-23T11:15:00",
-      "fin": "2026-11-23T12:15:00",
+      "inicio": "2026-11-24T11:15:00",
+      "fin": "2026-11-24T12:15:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     },
     {
       "titulo": "Kuma, la otra esposa",
       "descripcion": "Una joven acusada de asesinato debe convertirse en la segunda esposa del hermano de la víctima.",
-      "inicio": "2026-11-23T12:15:00",
-      "fin": "2026-11-23T13:30:00",
+      "inicio": "2026-11-24T12:15:00",
+      "fin": "2026-11-24T13:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Teledía Noticias",
+      "descripcion": "Espacio que te trae los acontecimientos de mayor importancia de una manera oportuna y veraz, con un amplio equipo periodístico que pone todo su profesionalismo al servicio del espectador.",
+      "inicio": "2026-11-24T13:30:00",
+      "fin": "2026-11-24T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Lo que la vida me robó",
+      "descripcion": "Para salvar a su familia de la ruina, y obligada por su madre, Monserrat debe casarse con Alejandro, un hombre al que no ama y que es dueño de una gran fortuna. Sin embargo, Monserrat está enamorada de otro hombre.",
+      "inicio": "2026-11-24T14:30:00",
+      "fin": "2026-11-24T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "La rosa de Guadalupe",
+      "descripcion": "La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros. Una rosa blanca aparecerá como símbolo de las peticiones, que el personaje o protagonista invocará, siempre ante la imagen de ella.",
+      "inicio": "2026-11-24T15:30:00",
+      "fin": "2026-11-24T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/larosadeguadalupe.jpg"
     }
   ]
 }
