@@ -1,418 +1,19 @@
 {
   "actual": {
-    "titulo": "RoboGobo • La ladrona de cumpleaños / ¡Un aplauso para Allie",
-    "descripcion": "La ladrona de cumpleaños / ¡Un aplauso para Allie | Dax ayuda a Booster a evitar que Slink se vuelva invisible y arruine una fiesta de cumpleaños./ Cuando Monkey Wrench crea un problema ruidoso, Allie debe ser valiente para salvar el día.",
-    "inicio": "2026-11-24T15:30:00",
-    "fin": "2026-11-24T16:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/robogobo.jpg"
-  },
-  "siguiente": {
-    "titulo": "Supergatitos • Los Supergatitos y la rosatástrofe / Los Supergatitos y la batalla de los malos",
-    "descripcion": "Los Supergatitos y la rosatástrofe / Los Supergatitos y la batalla de los malos | Los Supergatitos tienen una misión, deben impedir que Zsa-Zsa se robe todos los objetos rosas de Kittydale. / El Sr. Puppypaws y el gato Ladrón, compiten para ver quién es el mejor villano de la ciudad.",
-    "inicio": "2026-11-24T16:00:00",
-    "fin": "2026-11-24T16:32:00",
+    "titulo": "Spidey y sus sorprendentes amigos • El súper pulpo de Doc Ock / El ataque de las risitas verdes",
+    "descripcion": "El súper pulpo de Doc Ock / El ataque de las risitas verdes | Cuando el suero de crecimiento de Doc Ock se usa en un pulpo bebé, el equipo Spidey tiene que evitar que accidentalmente arrase la ciudad. Green Goblin lanza gas goblin por toda la ciudad.",
+    "inicio": "2026-11-25T15:02:00",
+    "fin": "2026-11-25T15:31:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
   },
+  "siguiente": {
+    "titulo": "RoboGobo • Baño congelado / Robo robótico",
+    "descripcion": "Baño congelado / Robo robótico | Cuando Pupsicle congela un bebedero para pájaros, RoboGobo debe rescatar la bandada de pájaros de Bob Beaks. / Dax y Wingo deben recuperar los Robo-Trajes del equipo de Gimme Pig.",
+    "inicio": "2026-11-25T15:31:00",
+    "fin": "2026-11-25T16:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/robogobo.jpg"
+  },
   "lista": [
-    {
-      "titulo": "RoboGobo • La ladrona de cumpleaños / ¡Un aplauso para Allie",
-      "descripcion": "La ladrona de cumpleaños / ¡Un aplauso para Allie | Dax ayuda a Booster a evitar que Slink se vuelva invisible y arruine una fiesta de cumpleaños./ Cuando Monkey Wrench crea un problema ruidoso, Allie debe ser valiente para salvar el día.",
-      "inicio": "2026-11-24T15:30:00",
-      "fin": "2026-11-24T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/robogobo.jpg"
-    },
-    {
-      "titulo": "Supergatitos • Los Supergatitos y la rosatástrofe / Los Supergatitos y la batalla de los malos",
-      "descripcion": "Los Supergatitos y la rosatástrofe / Los Supergatitos y la batalla de los malos | Los Supergatitos tienen una misión, deben impedir que Zsa-Zsa se robe todos los objetos rosas de Kittydale. / El Sr. Puppypaws y el gato Ladrón, compiten para ver quién es el mejor villano de la ciudad.",
-      "inicio": "2026-11-24T16:00:00",
-      "fin": "2026-11-24T16:32:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Disney Jr. Ariel - La sirenita • El Mundo de Cristal / Magia Octo-Malabarismo",
-      "descripcion": "El Mundo de Cristal / Magia Octo-Malabarismo | Ariel explora el Mundo de Cristal, para averiguar adónde se ha ido su amigo ajolote. / Lucía intenta realizar el truco de magia del Octo-Malabarismo, aunque descubre que es más difícil de lo que esperaba.",
-      "inicio": "2026-11-24T16:32:00",
-      "fin": "2026-11-24T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "La casa de Mickey Mouse+ • Mickey va de pesca",
-      "descripcion": "Mickey va de pesca | Mickey va a pescar, pero tiene mala suerte al hacerlo, hasta que sus amigos le muestran algunos consejos.",
-      "inicio": "2026-11-24T17:00:00",
-      "fin": "2026-11-24T17:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
-    },
-    {
-      "titulo": "La casa de Mickey Mouse+ • Goofy en Marte",
-      "descripcion": "Goofy en Marte | Goofy se estrella en Marte y depende de los Sensacionales Seis para salvarlo.",
-      "inicio": "2026-11-24T17:30:00",
-      "fin": "2026-11-24T18:01:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
-    },
-    {
-      "titulo": "Bluey • Bedroom / Perfect / Obstacle Course",
-      "descripcion": "Bedroom / Perfect / Obstacle Course | Bluey está emocionada de tener su propia habitación. Pero cuando llega la hora de dormir, extraña a Bingo más de lo que esperaba y debe encontrar una manera de mantenerse en contacto con su hermana./ Bluey quiere dibujar la tarjeta perfecta para el Día del Padre recordando los juegos divertidos que jugó con papá, pero comienza a frustrarse cuando encuentra un problema en cada dibujo. Ninguno de ellos es lo suficientemente perfecto./ Mamá organiza una carrera de obstáculos en el patio trasero solo por diversión, pero papá quiere correr. Ahora los niños están decididos a ganar por cualquier medio necesario.",
-      "inicio": "2026-11-24T18:01:00",
-      "fin": "2026-11-24T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
-    },
-    {
-      "titulo": "Princesita Sofía: magia real • Una jinete sin problemas / El monstruo verde",
-      "descripcion": "Una jinete sin problemas / El monstruo verde | Sofía y su nuevo caballo volador, Superrayo, audicionan para el Derby Volador del Colegium Musicum. / En su afán por ser bueno con las pociones, Zane crea por accidente unos goma-monstruos verdes, pero se terminan descontrolando.",
-      "inicio": "2026-11-24T18:30:00",
-      "fin": "2026-11-24T19:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/princesitasofiamagiareal.jpg"
-    },
-    {
-      "titulo": "Iron Man y sus increíbles amigos • Tony y las piedras rodantes / La aventura lodosa de Ironheart",
-      "descripcion": "Tony y las piedras rodantes / La aventura lodosa de Ironheart | Tony intenta mover una roca que bloquea el camino. / Riri quiere jugar a los barquitos de papel, pero Swarm ha drenado el arroyo para arruinar el parque.",
-      "inicio": "2026-11-24T19:00:00",
-      "fin": "2026-11-24T19:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ironmanysusincreiblesamigos.jpg"
-    },
-    {
-      "titulo": "Spidey y sus sorprendentes amigos • La guarida perdida de Barba de Telaraña / Duende América",
-      "descripcion": "La guarida perdida de Barba de Telaraña / Duende América | El equipo Spidey encuentra el escondite perdido del Pirata Barba-Telaraña en la Isla Araña. / El Duende Verde roba el escudo del Capitán América.",
-      "inicio": "2026-11-24T19:30:00",
-      "fin": "2026-11-24T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Bluey • Fin de semana / Parrillada / Murciélago",
-      "descripcion": "Fin de semana / Parrillada / Murciélago | El fin de semana, Bluey y Bingo juegan en el jardín con su papá. / Es la hora del almuerzo en las cubiertas traseras de Bluey y su papá. / Sin querer irse a la cama, Bluey intenta soñar con ser un murciélago frutero nocturno para poder quedarse despierta toda la noche.",
-      "inicio": "2026-11-24T20:00:00",
-      "fin": "2026-11-24T20:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
-    },
-    {
-      "titulo": "La casa de Mickey Mouse+ • The Twelve Pies of Christmas",
-      "descripcion": "The Twelve Pies of Christmas | Mickey y sus amigos dan la bienvenida a todos de nuevo a la casa club para vivir nuevas aventuras llenas de música, risas y nuevas sorpresas.",
-      "inicio": "2026-11-24T20:29:00",
-      "fin": "2026-11-24T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
-    },
-    {
-      "titulo": "Supergatitos • Miedo a los fuegos artificiales / Árboles de queso",
-      "descripcion": "Miedo a los fuegos artificiales / Árboles de queso | Todos los fuegos artificiales de Kittydale desaparecen repentinamente. / Los super gatitos deben evitar que Kittydale se convierta en queso.",
-      "inicio": "2026-11-24T21:00:00",
-      "fin": "2026-11-24T21:31:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Los magicampistas • A Different Kind of Cloud / Magi-Sneezies",
-      "descripcion": "A Different Kind of Cloud / Magi-Sneezies | Piston se preocupa al ver una Nube Oscura. / Jayden se resfría.",
-      "inicio": "2026-11-24T21:31:00",
-      "fin": "2026-11-24T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losmagicampistas.jpg"
-    },
-    {
-      "titulo": "¡Hola, AJ! • Para mamá con lava / Feliz aniversario de amistad",
-      "descripcion": "Para mamá con lava / Feliz aniversario de amistad | AJ y Marty intentan hornear el mejor postre para Siggi, pero su pastel se convierte en un desastre de volcán de chocolate. / AJ no recuerda por qué hoy es tan especial para Jessie.",
-      "inicio": "2026-11-24T22:00:00",
-      "fin": "2026-11-24T22:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/holaaj.jpg"
-    },
-    {
-      "titulo": "Equipo de rescate • Robo de tapacubos / Fiasco del camión de comida",
-      "descripcion": "Robo de tapacubos / Fiasco del camión de comida | Una pintura hecha en un tapacubos es arrebatada de un museo y depende de los Firebuds recuperarla. / Los Firebuds ayudan a un camión de tacos que está varado en una carretera de montaña.",
-      "inicio": "2026-11-24T22:30:00",
-      "fin": "2026-11-24T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Puppy Dog Pals • Levanten anclas / Cachorros buscadores de oro",
-      "descripcion": "Levanten anclas / Cachorros buscadores de oro | Bob alquila una casa flotante en el río Misisipi con Bingo y Rolly./ Bob y los pugs se van en unas vacaciones temáticas del Salvaje Oeste.",
-      "inicio": "2026-11-24T23:00:00",
-      "fin": "2026-11-24T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puppydogpals.jpg"
-    },
-    {
-      "titulo": "Princesita Sofía • Sofía en el Elfomundo",
-      "descripcion": "Sofía en el Elfomundo | Sofía y Clover descubren una tierra encantada de elfos.",
-      "inicio": "2026-11-24T23:30:00",
-      "fin": "2026-11-25T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Princesita Sofía • La biblioteca secreta",
-      "descripcion": "La biblioteca secreta | Tilly, la tía de Sofía, vuelve para darle un regalo que va a desbloquear un mundo secreto y nombra a Sofía guardiana de las historias.",
-      "inicio": "2026-11-25T00:00:00",
-      "fin": "2026-11-25T00:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Supergatitos • Los Supergatitos y la desaparición del Señor Greenie / Los Supergatitos y el problema del piano",
-      "descripcion": "Los Supergatitos y la desaparición del Señor Greenie / Los Supergatitos y el problema del piano | Mr. Puppypaws arrebata el juguete favorito de Bitsy. / El piano abandonado que está tocando Cat Burglar se daña repentinamente.",
-      "inicio": "2026-11-25T00:29:00",
-      "fin": "2026-11-25T00:53:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "La maravillosa pastelería de Alicia • Celebración de Hanukkah / Verano de nieve",
-      "descripcion": "Celebración de Hanukkah / Verano de nieve | En Hanukkah, Hattie recibe su propia parrilla. Alicia hace demasiada nieve, y debe encontrar la manera de calentar al pais de las maravillas.",
-      "inicio": "2026-11-25T00:53:00",
-      "fin": "2026-11-25T01:18:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamaravillosapasteleriadealicia.jpg"
-    },
-    {
-      "titulo": "Kiya y los héroes de Kimoja • El rompecabezas de Primadonna / Fuera de la misión",
-      "descripcion": "El rompecabezas de Primadonna / Fuera de la misión | Primadonna toma kebabs del camión de comida de Daddy Jo, para disgusto de Kiya. Una larga alfombra roja se extiende por la ciudad de Kimoja hacia la presentación de una película, y aunque Primadonna camina sobre ella con estilo, resulta resbaladiza para todos los demás.",
-      "inicio": "2026-11-25T01:18:00",
-      "fin": "2026-11-25T01:43:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "La casa de Mickey Mouse+ • Mickey va de pesca",
-      "descripcion": "Mickey va de pesca | Mickey va a pescar, pero tiene mala suerte al hacerlo, hasta que sus amigos le muestran algunos consejos.",
-      "inicio": "2026-11-25T01:43:00",
-      "fin": "2026-11-25T02:07:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
-    },
-    {
-      "titulo": "La casa de Mickey Mouse+ • Goofy en Marte",
-      "descripcion": "Goofy en Marte | Goofy se estrella en Marte y depende de los Sensacionales Seis para salvarlo.",
-      "inicio": "2026-11-25T02:07:00",
-      "fin": "2026-11-25T02:32:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
-    },
-    {
-      "titulo": "PJ Masks: héroes en pijamas • El alboroto robot de Catboy y Gecko / La amiga emplumada de Ululette",
-      "descripcion": "El alboroto robot de Catboy y Gecko / La amiga emplumada de Ululette | Cuando el nuevo robot de Romeo, Robette, pierde un tornillo, decide encargarse del mundo ella sola. / Ululette encuentra un pájaro en el cuartel y decide que será su dueña.",
-      "inicio": "2026-11-25T02:32:00",
-      "fin": "2026-11-25T02:56:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pjmasksheroesenpijamas.jpg"
-    },
-    {
-      "titulo": "Aventuras de jóvenes Jedi • El salvaje Aklyrr / El sable de luz perdido de Lys",
-      "descripcion": "El salvaje Aklyrr / El sable de luz perdido de Lys | Los Jedi ayudan a su amigo a encontrar una criatura extraña. Lys pierde su sable de luz en Batuu.",
-      "inicio": "2026-11-25T02:56:00",
-      "fin": "2026-11-25T03:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Spidey y sus sorprendentes amigos • No puedo dejar de bailar / El ladrón hormiga",
-      "descripcion": "No puedo dejar de bailar / El ladrón hormiga | Spidey salva el día después de que el dispositivo del Duende Verde obligue a la gente a bailar. / Spin y Ghost-Spider se embarcan en una pequeña aventura con Ant Man y The Wasp después de que las hormigas roban el museo.",
-      "inicio": "2026-11-25T03:20:00",
-      "fin": "2026-11-25T03:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Mickey Mouse Funhouse • Rescatando el rubí Rutabaga / ¡Goofy no quiere",
-      "descripcion": "Rescatando el rubí Rutabaga / ¡Goofy no quiere | La pandilla ayuda a su amigo, el Capitán Salty Bones, a recuperar el Rutabaga Ruby del Belching Idol; Goofy se niega a probar comida nueva durante el Año Nuevo Lunar.",
-      "inicio": "2026-11-25T03:45:00",
-      "fin": "2026-11-25T04:09:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mickeymousefunhouse.jpg"
-    },
-    {
-      "titulo": "PJ Masks: héroes en pijamas • El vuelo del ninja / La montaña Romeusa",
-      "descripcion": "El vuelo del ninja / La montaña Romeusa | Después de separarse, Gekko debe enfrentar sus errores solo para derrotar a Night Ninja. / Romeo ha transferido la energía de los PJ Masks , por lo que el equipo debe trabajar con los otros villanos para detenerlo.",
-      "inicio": "2026-11-25T04:09:00",
-      "fin": "2026-11-25T04:33:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pjmasksheroesenpijamas.jpg"
-    },
-    {
-      "titulo": "Supergatitos • Los Supergatitos y el despegue de Labo Rata / Los Supergatitos y Súper Rockhound",
-      "descripcion": "Los Supergatitos y el despegue de Labo Rata / Los Supergatitos y Súper Rockhound | Lab Rat cree que la Luna está hecha de queso, por lo que intenta secuestrar un cohete que pronto partirá hacia allí. / Los Superkitties son convocados para proteger un nuevo artefacto en el museo.",
-      "inicio": "2026-11-25T04:33:00",
-      "fin": "2026-11-25T04:57:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Disney Jr.'s Ariel: The Little Mermaid • El campamento mágico de Úrsula / El cuaderno de Fernie",
-      "descripcion": "El campamento mágico de Úrsula / El cuaderno de Fernie | Cuando Lucía quiere ganar una insignia en el Campamento Mágico de Ursula, Ariel y Ursula la ayudan a aprender que mantener las cosas pequeñas y simples es la mejor manera de alcanzar su objetivo; A Fernie le preocupa no hacer un buen trabajo en Open Market Show and Tell después de perder su confiable cuaderno de datos sobre peces.",
-      "inicio": "2026-11-25T04:57:00",
-      "fin": "2026-11-25T05:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "La Guardia del León • El pequeño geco",
-      "descripcion": "El pequeño geco | Beshte se hace amigo de Hodari, un pequeñl gecko que quiere ser un cocodrilo. La Guardia del león lo ayuda a cumplir su sueño mientras tratan de hacerlo entrar en razón.",
-      "inicio": "2026-11-25T05:20:00",
-      "fin": "2026-11-25T05:43:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laguardiadelleon.jpg"
-    },
-    {
-      "titulo": "Fancy Nancy Clancy • ¡Crece, JoJo! / La cena surpema de Nancy",
-      "descripcion": "¡Crece, JoJo! / La cena surpema de Nancy | Cuando llega el jefe de papá, Nancy intenta demostrar que es lo suficientemente adulta como para pasar tiempo con adultos. Nancy se enfada cuando su camarera favorita le presta especial atención a Jo Jo.",
-      "inicio": "2026-11-25T05:43:00",
-      "fin": "2026-11-25T06:07:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Doctora Juguetes • Un día accidentado / Luna nueva",
-      "descripcion": "Un día accidentado / Luna nueva | Doc y los juguetes están emocionados de asistir al espectáculo de Lambie en el teatro. Doc trae a casa la cinta azul de la feria de ciencias, junto con Luna 2200, una muñeca espacial.",
-      "inicio": "2026-11-25T06:07:00",
-      "fin": "2026-11-25T06:31:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/doctorajuguetes.jpg"
-    },
-    {
-      "titulo": "Vampirina • ¡Criaturas! / Tierni-monstruo",
-      "descripcion": "¡Criaturas! / Tierni-monstruo | A Lobito le cayó un polvillo mágico por accidente que lo hizo encogerse, entonces deben llamar al criaterinario, es decir, el doctor que ayuda a criaturas mágicas. / Llega al hotel una tierni-monstruo llamada Botones para hospedarse y quiere que la ayuden a asustar de manera temible y no suavemente y tierna.",
-      "inicio": "2026-11-25T06:31:00",
-      "fin": "2026-11-25T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vampirina.jpg"
-    },
-    {
-      "titulo": "La casa de Mickey Mouse+ • Coco, la monita de Goofy",
-      "descripcion": "Coco, la monita de Goofy | Coco, la amiga de Goofy, organiza una fiesta pero tiene un problema: ¡no encuentra cocos para la fiesta! Así que iremos con Goofy y sus amigos a la selva a buscar cocos.",
-      "inicio": "2026-11-25T07:00:00",
-      "fin": "2026-11-25T07:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
-    },
-    {
-      "titulo": "Spidey y sus sorprendentes amigos • ¡Bum bum sónico! / ¡Bromas en el minigolf",
-      "descripcion": "¡Bum bum sónico! / ¡Bromas en el minigolf | Mientras Peter, Gwen y Miles están en la playa, los cangrejos comienzan a invadir la playa lo suficiente como para ahuyentar a todos. El equipo acorrala a los cangrejos y recluta a una oceanógrafa llamada Isla Coralton para ayudar con la situación. Por otro lado, Gwen y Helen están jugando en el campo de golf en miniatura mientras Gwen lucha con el tiro del molino de viento. Después de que Gwen hace el tiro, las pelotas de golf de nadie emergen de todo el campo. Se descubre que Green Goblin es responsable de las pelotas de golf que faltan, ya que disparan una sustancia pegajosa por todo el campo de golf en miniatura.",
-      "inicio": "2026-11-25T07:29:00",
-      "fin": "2026-11-25T07:59:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Bluey • Las abuelitas / Pelota de yoga / Calypso",
-      "descripcion": "Las abuelitas / Pelota de yoga / Calypso | Un juego de 'Grannies' es divertido, hasta que Bingo y Bluey no pueden ponerse de acuerdo en una simple pregunta: ¿Pueden bailar las Grannies? Ahora necesitarán hacer una videollamada con su Nana para obtener la respuesta./ A Bingo le encanta jugar con su papá, pero a veces él olvida que Bingo es más pequeño que su hermana. Mamá le enseña a Bingo cómo usar su ladrido de niño grande para mantener la diversión dentro de sus límites. / En la escuela, Bluey y sus amigos se lanzan a varios juegos.",
-      "inicio": "2026-11-25T07:59:00",
-      "fin": "2026-11-25T08:24:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
-    },
-    {
-      "titulo": "El rincón de Gracie: cortos • Wheels on the Bus",
-      "descripcion": "Wheels on the Bus | Gracie comparte canciones y bailes con sus familiares y amigos para acompañar el aprendizaje de los más pequeños. Las melodías combinan ritmos como el hiphop, el reggae y el R&B con canciones infantiles conocidas y composiciones originales. Cada corto invita a participar mediante el movimiento y la música, mientras presenta temas como el abecedario, los números, la higiene, la autoestima y la convivencia. Las aventuras imaginarias de Gracie convierten situaciones cotidianas en oportunidades para descubrir y aprender.",
-      "inicio": "2026-11-25T08:24:00",
-      "fin": "2026-11-25T08:33:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Supergatitos • Problemas con el camión de golosinas / La omisión del láser",
-      "descripcion": "Problemas con el camión de golosinas / La omisión del láser | Toda la comida para mascotas en Kittydale se reemplaza con comida para perros. / La rata de laboratorio intenta librar a la ciudad de sus habitantes felinos utilizando un dispositivo con puntero láser al que los gatos no pueden resistir.",
-      "inicio": "2026-11-25T08:33:00",
-      "fin": "2026-11-25T09:02:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "CoComelon Playdates with Sanrio Friends • En la granja de MacDonald",
-      "descripcion": "En la granja de MacDonald | JJ y sus amigos hacen manualidades de cartón para jugar como distintos animales.",
-      "inicio": "2026-11-25T09:02:00",
-      "fin": "2026-11-25T09:05:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cocomelonplaydateswithsanriofriends.jpg"
-    },
-    {
-      "titulo": "CoComelon Playdates with Sanrio Friends • Piedra, papel, tijera",
-      "descripcion": "Piedra, papel, tijera | JJ y sus amigos hacen manualidades de cartón para jugar como distintos animales.",
-      "inicio": "2026-11-25T09:05:00",
-      "fin": "2026-11-25T09:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cocomelonplaydateswithsanriofriends.jpg"
-    },
-    {
-      "titulo": "Pequeñas historias de Bluey • Bingo 3000",
-      "descripcion": "Bingo 3000 | Papá compra un robot 'Bingo 3000' nuevo.",
-      "inicio": "2026-11-25T09:15:00",
-      "fin": "2026-11-25T09:17:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pequenashistoriasdebluey.jpg"
-    },
-    {
-      "titulo": "Pequeñas historias de Bluey • Robot Bingo",
-      "descripcion": "Robot Bingo | Mamá intenta que Robo Bingo se limpie los dientes, con instrucciones muy específicas. Entonces, él actua como un robot, para no saltearse ningún paso. ¿Logrará hacerlo correctamente?",
-      "inicio": "2026-11-25T09:17:00",
-      "fin": "2026-11-25T09:19:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pequenashistoriasdebluey.jpg"
-    },
-    {
-      "titulo": "Pequeñas historias de Bluey • Al lado",
-      "descripcion": "Al lado | Te mostramos una pequeña historia comparativa, sobre como vive Bluey, aunque por otro lado, te mostramos la vida de su compañero, como desarrollan su rutina diaria cada uno.",
-      "inicio": "2026-11-25T09:19:00",
-      "fin": "2026-11-25T09:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pequenashistoriasdebluey.jpg"
-    },
-    {
-      "titulo": "Aventuras de jóvenes Jedi • Mejórate, Nubs / El gigante de chatarra",
-      "descripcion": "Mejórate, Nubs / El gigante de chatarra | Después de que Nubs se enferma antes de un próximo viaje escolar al Kublop Geyser, Brightstar y Solay se embarcan en una misión para adquirir hojas del árbol Yara, que tienen propiedades curativas. Por otro lado, Brightstar, Solay, Nubs, Durango y RJ-83 ayudan a Marlaa Jinara, traficante de chatarra de Chadra-Fan, a investigar una serie de robos en su depósito de chatarra.",
-      "inicio": "2026-11-25T09:29:00",
-      "fin": "2026-11-25T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Iron Man y sus increíbles amigos • El veloz Capitán América / El patio de juegos de Ironheart",
-      "descripcion": "El veloz Capitán América / El patio de juegos de Ironheart | Ultron roba el paquete de energía de Cap y se vuelve turbo. / Los planes del patio de juegos de Riri se ven frustrados por los mosquitos robot que consumen energía de Swarm.",
-      "inicio": "2026-11-25T10:00:00",
-      "fin": "2026-11-25T10:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ironmanysusincreiblesamigos.jpg"
-    },
-    {
-      "titulo": "Bluey • Paquete plano / Reinas / Trenes",
-      "descripcion": "Paquete plano / Reinas / Trenes | Mientras mamá y papá luchan por construir nuevos muebles de paquete plano, Bluey y Bingo transforman las cajas vacías en su propio mundo nuevo./ Durante un juego de Queens, Bluey y Bingo descubren que jugar al mayordomo es mucho más divertido./ Todos a bordo del Tren de Papá. Bingo va de su casa a la guardería a su trabajo en el veterinario todas las mañanas, pero hay problemas en la línea.",
-      "inicio": "2026-11-25T10:30:00",
-      "fin": "2026-11-25T11:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
-    },
-    {
-      "titulo": "Bluey • Ejército / Restaurante elegante / Festival",
-      "descripcion": "Ejército / Restaurante elegante / Festival | El primer día de Jack en la escuela de Bluey, Calypso le sugiere que juegue al Ejército al aire libre con Rusty en el monte./ Bluey y Bingo quieren que mamá y papá sean románticos, así que montan un elegante restaurante y los invitan a una noche romántica./ Mientras los padres arrancan tocones en el jardín, Bluey, Bingo y Muffin convierten un tocón en un salón de manicura.",
-      "inicio": "2026-11-25T11:00:00",
-      "fin": "2026-11-25T11:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
-    },
-    {
-      "titulo": "La casa de Mickey Mouse+ • The Twelve Pies of Christmas",
-      "descripcion": "The Twelve Pies of Christmas | Mickey y sus amigos dan la bienvenida a todos de nuevo a la casa club para vivir nuevas aventuras llenas de música, risas y nuevas sorpresas.",
-      "inicio": "2026-11-25T11:30:00",
-      "fin": "2026-11-25T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
-    },
-    {
-      "titulo": "Princesita Sofía: magia real • El lago encantado / Trixie, la ladrona",
-      "descripcion": "El lago encantado / Trixie, la ladrona | Zane pierde accidentalmente el preciado cuaderno de Layla en el lago Charmswell. / Camila le presta su varita a un simpático troll, y el troll huye con ella.",
-      "inicio": "2026-11-25T12:00:00",
-      "fin": "2026-11-25T12:29:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/princesitasofiamagiareal.jpg"
-    },
-    {
-      "titulo": "Disney Junior's Ariel: The Little Mermaid • El pez perro perdido / Exploradores marinos",
-      "descripcion": "El pez perro perdido / Exploradores marinos | Ariel realmente quiere conservar un pez perro perdido que encuentra. / Un niño sirena que está de visita se une a Ariel y sus amigos en una excursión de Swim Scouts.",
-      "inicio": "2026-11-25T12:29:00",
-      "fin": "2026-11-25T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
-    {
-      "titulo": "Kinder: El musical • Mis botas favoritas / Tómame o déjame",
-      "descripcion": "Mis botas favoritas / Tómame o déjame | Radish tiene miedo de decirle a Jamil que su invento, el paraguas para botas, no funciona. / Todos los niños están intercambiando borradores de frutas, pero Radish quiere que jueguen con su colección de hojas.",
-      "inicio": "2026-11-25T13:00:00",
-      "fin": "2026-11-25T13:27:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/kinderelmusical.jpg"
-    },
-    {
-      "titulo": "CoComelon Playdates with Sanrio Friends • Canción de la limpieza",
-      "descripcion": "Canción de la limpieza | Benny falla en el concurso de limpieza, pero Pompompurin tiene una habilidad especial.",
-      "inicio": "2026-11-25T13:27:00",
-      "fin": "2026-11-25T13:32:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cocomelonplaydateswithsanriofriends.jpg"
-    },
-    {
-      "titulo": "Los magicampistas • Cómo Dracoon perdió su fuego / Descarte",
-      "descripcion": "Cómo Dracoon perdió su fuego / Descarte | Dracoon pierde el aliento, luego de escupir demasiado fuego de una bocanada. / Jayden comienza a crear una lista de reglas para todos los campistas.",
-      "inicio": "2026-11-25T13:32:00",
-      "fin": "2026-11-25T14:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losmagicampistas.jpg"
-    },
-    {
-      "titulo": "Cachorros a la obra • Cachorros en la luna / Demasiados juguetes",
-      "descripcion": "Cachorros en la luna / Demasiados juguetes | La cuadrilla de cachorros, junto a su pequeño amigo, el hamster, viajan al espacio para construir un parque en la Luna. / Hay una gran acumulación de juguetes en el cuartel, lo que obliga a los cachorros a ingeniárselas para ordenar, e incluso reciclar, antes de que el taller termine por colapsar.",
-      "inicio": "2026-11-25T14:00:00",
-      "fin": "2026-11-25T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cachorrosalaobra.jpg"
-    },
-    {
-      "titulo": "Bluey • Bob, el conejo / Juego de espías / Para llevar",
-      "descripcion": "Bob, el conejo / Juego de espías / Para llevar | Es el turno de Bingo de llevar su títere a casa y grabar su fin de semana. / Cuando Bingo deja de jugar al juego de espías de Bluey, su 'control para adultos' deja de funcionar. / Esperando su pedido en un restaurante, las chicas sobrepasan los límites de la paciencia de papá.",
-      "inicio": "2026-11-25T14:30:00",
-      "fin": "2026-11-25T14:53:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
-    },
-    {
-      "titulo": "El rincón de Gracie: cortos • Wheels on the Bus",
-      "descripcion": "Wheels on the Bus | Gracie comparte canciones y bailes con sus familiares y amigos para acompañar el aprendizaje de los más pequeños. Las melodías combinan ritmos como el hiphop, el reggae y el R&B con canciones infantiles conocidas y composiciones originales. Cada corto invita a participar mediante el movimiento y la música, mientras presenta temas como el abecedario, los números, la higiene, la autoestima y la convivencia. Las aventuras imaginarias de Gracie convierten situaciones cotidianas en oportunidades para descubrir y aprender.",
-      "inicio": "2026-11-25T14:53:00",
-      "fin": "2026-11-25T15:02:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
-    },
     {
       "titulo": "Spidey y sus sorprendentes amigos • El súper pulpo de Doc Ock / El ataque de las risitas verdes",
       "descripcion": "El súper pulpo de Doc Ock / El ataque de las risitas verdes | Cuando el suero de crecimiento de Doc Ock se usa en un pulpo bebé, el equipo Spidey tiene que evitar que accidentalmente arrase la ciudad. Green Goblin lanza gas goblin por toda la ciudad.",
@@ -426,6 +27,405 @@
       "inicio": "2026-11-25T15:31:00",
       "fin": "2026-11-25T16:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/robogobo.jpg"
+    },
+    {
+      "titulo": "Supergatitos • Los Supergatitos y Franken-Rata / Los Supergatitos y el desfile de calabazas",
+      "descripcion": "Los Supergatitos y Franken-Rata / Los Supergatitos y el desfile de calabazas | Los Kitties deben salvar los dulces de Halloween de Kittydale del robot Franken-Rat de Lab Rat/ Los Kitties impiden que el Sr. Puppypaws arruine el Desfile de Calabazas de Kittydale.",
+      "inicio": "2026-11-25T16:00:00",
+      "fin": "2026-11-25T16:32:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "Disney Jr.'s Ariel: The Little Mermaid • Las pequeñas aletas / El mayor tesoro terrestre",
+      "descripcion": "Las pequeñas aletas / El mayor tesoro terrestre | Con la ayuda de Ariel, los pequeños aletas aprenden a hacer música hermosa. / Ariel y sus amigos descubren un gran tesoro terrestre, pero sus intentos de mover el gran objeto provocan el caos.",
+      "inicio": "2026-11-25T16:32:00",
+      "fin": "2026-11-25T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "La casa de Mickey Mouse+ • Donald El Príncipe Sapo",
+      "descripcion": "Donald El Príncipe Sapo | Donald se convierte en sapo al beber la nueva poción del profesor Von Drake. La única forma de que vuelva a ser pato es mediante un beso de la princesa Daisy, quién está encerrada en la torre más alta.",
+      "inicio": "2026-11-25T17:00:00",
+      "fin": "2026-11-25T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
+    },
+    {
+      "titulo": "La casa de Mickey Mouse+ • El cumpleaños de Minnie",
+      "descripcion": "El cumpleaños de Minnie | Mickey y sus amigos le piden al espectador que los ayude a organizar una fiesta sorpresa para Minnie, pero ¿serán todos capaces de lograr que la curiosa Minnie no se entere de la fiesta hasta que esté lista? Usan una canasta (para que Minnie ocupe su tiempo recogiendo fresas), un elefante bebé (para inflar los globos de cumpleaños), una soga de saltar (para mantener ocupada a Minnie), y una vela (para ayudar a Minnie a pedir un deseo).",
+      "inicio": "2026-11-25T17:30:00",
+      "fin": "2026-11-25T18:01:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
+    },
+    {
+      "titulo": "Bluey • Promises / Magic / Mini Bluey",
+      "descripcion": "Promises / Magic / Mini Bluey | Cuando Bluey y papá empiezan a romper sus promesas, mamá dice que tienen que cumplirlas, pero luego empiezan a utilizarlas para engañarse mutuamente. Luego, Bluey le enseña a Bingo cómo usar la magia para que pueda hacer que mamá juegue con ella, pero se olvida de explicarle la regla más importante: nunca uses la magia para ser descarado. Por otro lado, cuando papá se queja de lo diferentes que son Bluey y Bingo, Bluey trama un plan para hacerlos más parecidos y felizmente presenta a Mini-Bluey.",
+      "inicio": "2026-11-25T18:01:00",
+      "fin": "2026-11-25T18:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
+    },
+    {
+      "titulo": "Princesita Sofía: magia real • Hechizo para dormir / Zane, el héroe",
+      "descripcion": "Hechizo para dormir / Zane, el héroe | En una pijamada en el castillo de Sofía con Camila y Layla, los peluches cobran vida mágicamente. / Un dragón gruñón anda suelto en el Colegium Musicum y Zane intenta domar a la torpe bestia.",
+      "inicio": "2026-11-25T18:29:00",
+      "fin": "2026-11-25T18:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/princesitasofiamagiareal.jpg"
+    },
+    {
+      "titulo": "Iron Man y sus increíbles amigos • Navidad entre amigos / Frío como el hielo",
+      "descripcion": "Navidad entre amigos / Frío como el hielo | Cuando Ultron roba todos los regalos, los Amigos de Hierro deben salvar la Navidad. / Aña y Tony se dirigen al Festival de Invierno, pero el Hombre Absorbente congela todo el evento.",
+      "inicio": "2026-11-25T18:59:00",
+      "fin": "2026-11-25T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ironmanysusincreiblesamigos.jpg"
+    },
+    {
+      "titulo": "Spidey y sus sorprendentes amigos • Mezclando problemas / Atrapando a un gato",
+      "descripcion": "Mezclando problemas / Atrapando a un gato | La poción de Lagarto lo convierte en un dragón que escupe fuego. Peter y Gwen persiguen a Gato Negro y Rinoceronte tras robar las joyas de la tía May.",
+      "inicio": "2026-11-25T19:30:00",
+      "fin": "2026-11-25T19:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "Bluey • Caballito / Hotel / La bicicleta",
+      "descripcion": "Caballito / Hotel / La bicicleta | Cuando Bluey se olvida de guardar su juguete favorito, el primo de Muffin, Socks, lo agarra y no lo suelta. Los niños organizan una boda a caballo para distraerlo, con papá y tío Stripe como caballos. / Bluey y Bingo dirigen un 'hotel' loco con papá como su primer y único huésped. Pero cuando Bingo se rinde porque Bluey es demasiado controlador, su papá debe enseñarles la importancia del compromiso. / Un día en el parque, Bluey está luchando por aprender a andar en su propia bicicleta. Pero mientras ella y su papá observan la determinación de sus amigos con sus propias tareas, Bluey se siente inspirada para intentarlo de nuevo.",
+      "inicio": "2026-11-25T19:59:00",
+      "fin": "2026-11-25T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
+    },
+    {
+      "titulo": "La casa de Mickey Mouse+ • La gran sorpresa de Pete",
+      "descripcion": "La gran sorpresa de Pete | Mickey y sus amigos viajan hacia la Isla Mágica y tienen una mágica aventura juntos. Una vez allí, Pete revelará una gran sorpresa.",
+      "inicio": "2026-11-25T20:30:00",
+      "fin": "2026-11-25T20:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
+    },
+    {
+      "titulo": "Supergatitos • Sorpresa silenciosa / Fufu Snafu",
+      "descripcion": "Sorpresa silenciosa / Fufu Snafu | Un pájaro se lleva las voces de las Ardillas Cantoras antes de su gran concierto. / Una estatua de oro del Museo Kittydale desaparece repentinamente.",
+      "inicio": "2026-11-25T20:59:00",
+      "fin": "2026-11-25T21:31:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "Los magicampistas • The Pugness Monster / Butterflairy Friends",
+      "descripcion": "The Pugness Monster / Butterflairy Friends | Loomis descubre una criatura grande y rara. Darly y Fifi ayudan a una criatura perdida.",
+      "inicio": "2026-11-25T21:31:00",
+      "fin": "2026-11-25T21:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losmagicampistas.jpg"
+    },
+    {
+      "titulo": "¡Hola, AJ! • Come Here Chameleon / The Trouble with Jazz",
+      "descripcion": "Come Here Chameleon / The Trouble with Jazz | AJ cuida al camaleón favorito de Jessie. / AJ y Jessie están emocionados de hacerse amigos de Jazz, el nuevo chico del pueblo, y ayudarlo a descubrir el supermundo de la imaginación.",
+      "inicio": "2026-11-25T21:59:00",
+      "fin": "2026-11-25T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/holaaj.jpg"
+    },
+    {
+      "titulo": "Equipo de rescate • Casa del árbol complicada / El auto de escape que escapó",
+      "descripcion": "Casa del árbol complicada / El auto de escape que escapó | Los Firebuds quieren construir una casa club en un árbol, pero al no ponerse de acuerdo aparecen los problemas. / Piston libera accidentalmente un auto ladrón arrestado.",
+      "inicio": "2026-11-25T22:30:00",
+      "fin": "2026-11-25T22:59:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "Puppy Dog Pals • Patada de bota / Tic Toc el reloj está roto",
+      "descripcion": "Patada de bota / Tic Toc el reloj está roto | Bob necesita botas de vaquero en Texas, así que Bingo y Rolly buscan el par perfecto./ Cuando Bob descubre que la torre del reloj en un pequeño pueblo que está visitando está rota, los cachorros se embarcan en una misión para arreglarlo.",
+      "inicio": "2026-11-25T22:59:00",
+      "fin": "2026-11-25T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/puppydogpals.jpg"
+    },
+    {
+      "titulo": "Iron Man y sus increíbles amigos • Swarm Visits the Pier / Ultron Says",
+      "descripcion": "Swarm Visits the Pier / Ultron Says | Aña se une a Tony, Riri y Scott en el muelle, pero los cangrejos robóticos de Swarm provocan un desastre con los mariscos. / Los Iron Friends se equipan con armaduras para impedir que el rayo 'Ultron Dice' de Ultron controle la ciudad.",
+      "inicio": "2026-11-25T23:30:00",
+      "fin": "2026-11-26T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ironmanysusincreiblesamigos.jpg"
+    },
+    {
+      "titulo": "Iron Man y sus increíbles amigos • Los Iron Friends y el misterio del muelle / El hipo del Hombre Absorbente",
+      "descripcion": "Los Iron Friends y el misterio del muelle / El hipo del Hombre Absorbente | Un bromista misterioso roba los coches parachoques del muelle. El Hombre Absorbente tiene hipo y cambia de forma incontrolablemente.",
+      "inicio": "2026-11-26T00:00:00",
+      "fin": "2026-11-26T00:29:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ironmanysusincreiblesamigos.jpg"
+    },
+    {
+      "titulo": "Supergatitos • Marmotas atontadas / Vuela, pajarito",
+      "descripcion": "Marmotas atontadas / Vuela, pajarito | Los SuperKitties detienen a Lab Rat después de que ella echa a todas las marmotas de su lugar especial. / En el día de Kittydale, Zsa-Zsa usa un spray para que todos en Kittydale actúen como pájaros.",
+      "inicio": "2026-11-26T00:29:00",
+      "fin": "2026-11-26T00:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "La maravillosa pastelería de Alicia • Sombreros y liebres / Olvídame-ya",
+      "descripcion": "Sombreros y liebres / Olvídame-ya | A Hattie le preocupa que los diseños de los sombreros de Papá Sombrerero y de la Liebre de Marzo sean demasiado extravagantes para la familia real. Alicia escucha la melodía de la flor de ' Olvídame-Ya' y olvida todas sus recetas.",
+      "inicio": "2026-11-26T00:53:00",
+      "fin": "2026-11-26T01:18:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lamaravillosapasteleriadealicia.jpg"
+    },
+    {
+      "titulo": "Kiya y los héroes de Kimoja • Llamando la atención / Duelo de inventos",
+      "descripcion": "Llamando la atención / Duelo de inventos | Debido a que MC Harmony le está dando el papel estelar del programa a quien sea más útil en la ciudad, Jay y Primadonna realizan una serie de acciones. Haddy y Motsie se enfrentan en una batalla de dispositivos.",
+      "inicio": "2026-11-26T01:18:00",
+      "fin": "2026-11-26T01:42:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "La casa de Mickey Mouse+ • Donald El Príncipe Sapo",
+      "descripcion": "Donald El Príncipe Sapo | Donald se convierte en sapo al beber la nueva poción del profesor Von Drake. La única forma de que vuelva a ser pato es mediante un beso de la princesa Daisy, quién está encerrada en la torre más alta.",
+      "inicio": "2026-11-26T01:42:00",
+      "fin": "2026-11-26T02:07:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
+    },
+    {
+      "titulo": "La casa de Mickey Mouse+ • El cumpleaños de Minnie",
+      "descripcion": "El cumpleaños de Minnie | Mickey y sus amigos le piden al espectador que los ayude a organizar una fiesta sorpresa para Minnie, pero ¿serán todos capaces de lograr que la curiosa Minnie no se entere de la fiesta hasta que esté lista? Usan una canasta (para que Minnie ocupe su tiempo recogiendo fresas), un elefante bebé (para inflar los globos de cumpleaños), una soga de saltar (para mantener ocupada a Minnie), y una vela (para ayudar a Minnie a pedir un deseo).",
+      "inicio": "2026-11-26T02:07:00",
+      "fin": "2026-11-26T02:31:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
+    },
+    {
+      "titulo": "PJ Masks: héroes en pijamas • Ululette y la pelea de los cuarteles / Gecko y el caos en el museo",
+      "descripcion": "Ululette y la pelea de los cuarteles / Gecko y el caos en el museo | Ninja Nocturno crea una fortaleza de autobuses escolares con la intención de derribar el cuartel general de PJ Masks. Impresionada por su fortaleza, Owlette olvida todo lo que su propio cuartel general es capaz de hacer. / Cuando Romeo desata su Gran Caja del Mal, Gekko debe aprender que hay más de una manera de resolver un problema si quiere salvar el día.",
+      "inicio": "2026-11-26T02:31:00",
+      "fin": "2026-11-26T02:55:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pjmasksheroesenpijamas.jpg"
+    },
+    {
+      "titulo": "Aventuras de jóvenes Jedi • Escape de la torre / El jetpack defectuoso",
+      "descripcion": "Escape de la torre / El jetpack defectuoso | Los Jedi escapan de la Torre Yarrum. / Maz Kanata visita Tenoo.",
+      "inicio": "2026-11-26T02:55:00",
+      "fin": "2026-11-26T03:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "Spidey y sus sorprendentes amigos • Atrapado en la arena / Demasiada diversión",
+      "descripcion": "Atrapado en la arena / Demasiada diversión | El equipo Spidey queda atrapado en el gigantesco laberinto de arena de Sandman. / El equipo de Spidey entra en acción para recuperar la diversión después de que Electro sobrecarga el parque de diversiones.",
+      "inicio": "2026-11-26T03:20:00",
+      "fin": "2026-11-26T03:44:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "Mickey Mouse Funhouse • ¡Un día en el mar! / ¡Sé amable",
+      "descripcion": "¡Un día en el mar! / ¡Sé amable | La serie sigue a Funny, una casa de juegos parlante encantada que guía a Mickey Mouse y sus amigos en aventuras imaginativas. En este episodio, Mortimer se une a la pandilla en un viaje en barco, lo que lleva a algunas sorpresas tormentosas. Por otro lado, la pandilla construye un nuevo amigo de nieve llamado Rosie, que juega un poco demasiado duro para Sunny.",
+      "inicio": "2026-11-26T03:44:00",
+      "fin": "2026-11-26T04:08:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mickeymousefunhouse.jpg"
+    },
+    {
+      "titulo": "PJ Masks: héroes en pijamas • Gecko y el rayo opuesto / Los héroes en pijamas contra los malos unidos",
+      "descripcion": "Gecko y el rayo opuesto / Los héroes en pijamas contra los malos unidos | Tres niños viven vidas normales durante el día pero de noche se vuelven héroes que luchan contra villanos. En este episodio, gracias a su nuevo invento, Romeo transforma a Yoyo y Bibou en supermalos, para ponerlos a su servicio. Solo Gluglu escapa al formidable rayo. Por otro lado, todos los villanos unen sus fuerzas para finalmente derrotar a los PJ Masks de una vez por todas.",
+      "inicio": "2026-11-26T04:08:00",
+      "fin": "2026-11-26T04:32:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pjmasksheroesenpijamas.jpg"
+    },
+    {
+      "titulo": "Supergatitos • Los Supergatitos en problemas profundos / Los supergatitos y el robopulpo",
+      "descripcion": "Los Supergatitos en problemas profundos / Los supergatitos y el robopulpo | El Sr. Puppypaws cava unos agujeros en un parque, provocando temblores que aterrorizan a algunos animales subterráneos. / Sparks hace que su dispositivo volador se mueva más rápido que Bitsy, por lo que su colega siente que ha perdido su valor para el equipo.",
+      "inicio": "2026-11-26T04:32:00",
+      "fin": "2026-11-26T04:56:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "Disney Junior's Ariel: The Little Mermaid • Equipo de limpieza / Almejas",
+      "descripcion": "Equipo de limpieza / Almejas | A pesar de la advertencia del Rey Tritón, Ariel usa magia para limpiar su habitación; Ariel y sus amigos se hacen amigos de una almeja tímida.",
+      "inicio": "2026-11-26T04:56:00",
+      "fin": "2026-11-26T05:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "La Guardia del León • La sabiduría de Kongwe",
+      "descripcion": "La sabiduría de Kongwe | Fuli y Makini tienen la tarea de escoltar a uno de los animales más sabios de las Tierras del Orgullo, una tortuga llamada Kongwe, a Pride Rock.",
+      "inicio": "2026-11-26T05:20:00",
+      "fin": "2026-11-26T05:43:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/laguardiadelleon.jpg"
+    },
+    {
+      "titulo": "Fancy Nancy Clancy • Vive la Révolution / El mejor pececillo",
+      "descripcion": "Vive la Révolution / El mejor pececillo | Nancy se opone a las normas cuando le prohíben trepar a la copa de un árbol muy alto./ Nancy sueña con convertirse en nadadora de natación sincronizada, pero antes debe vencer su miedo a sumergirse en el agua.",
+      "inicio": "2026-11-26T05:43:00",
+      "fin": "2026-11-26T06:07:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "Doctora Juguetes • Enfermera de vocación - Partes 1 y 2",
+      "descripcion": "Enfermera de vocación - Partes 1 y 2 | Durante su viaje a la Inglaterra del siglo XIX, Doc y los juguetes ayudan a Florence Nightingale a convertirse en enfermera.",
+      "inicio": "2026-11-26T06:07:00",
+      "fin": "2026-11-26T06:31:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/doctorajuguetes.jpg"
+    },
+    {
+      "titulo": "Vampirina • Boris, acróbata / El puesto de limonada",
+      "descripcion": "Boris, acróbata / El puesto de limonada | A Boris le llega una invitación para unirse nuevamente a los Acro-vampas como en su juventud. Pero hace mucho que no practica los trucos aéreos y se desmoraliza porque ya no es el acróbata aéreo que solía ser.",
+      "inicio": "2026-11-26T06:31:00",
+      "fin": "2026-11-26T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/vampirina.jpg"
+    },
+    {
+      "titulo": "La casa de Mickey Mouse+ • Pluto al rescate",
+      "descripcion": "Pluto al rescate | Donald y Goofy construyen un muñeco de nieve tan grande que deben ser rescatados por Pluto.",
+      "inicio": "2026-11-26T07:00:00",
+      "fin": "2026-11-26T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
+    },
+    {
+      "titulo": "Spidey y sus sorprendentes amigos • El bebé Hulk / Sorpresa de fiesta sorpresa",
+      "descripcion": "El bebé Hulk / Sorpresa de fiesta sorpresa | Hulk le muestra a Spidey, Ghost-Spider y Spin su lugar de reunión llamado Hulk's Smash Yard, donde practica su aplastamiento. Green Goblin usa su nueva arma Baby Boomer para convertir cualquier cosa golpeada por su rayo en bebés, lo que le permite cometer crímenes. Cuando Hulk se convierte en un bebé, el Equipo Spidey debe encontrar una manera de frustrar el atraco de Green Goblin. Luego, es el cumpleaños de Ghost-Spider y Spidey y Spin preparan una fiesta sorpresa con la ayuda de Iron Man, Hulk, Ms. Marvel y Black Panther.",
+      "inicio": "2026-11-26T07:30:00",
+      "fin": "2026-11-26T08:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "Bluey • La doctora / La máquina / El mercado",
+      "descripcion": "La doctora / La máquina / El mercado | Honey está atrapada esperando la cita del Dr. Bingo mientras todas las demás lesiones más emocionantes se ven antes que las de ella./ Cuando Bluey y Bingo no pueden agarrar algunos adornos de chocolate en una máquina Magic Claw, ambos regresan a su casa./ Cuando Bluey visita los mercados con cinco dólares del hada de los dientes, las opciones para ella son infinitas.",
+      "inicio": "2026-11-26T08:00:00",
+      "fin": "2026-11-26T08:23:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
+    },
+    {
+      "titulo": "El rincón de Gracie: cortos • Humpty Dumpty Song",
+      "descripcion": "Humpty Dumpty Song | Gracie comparte canciones y bailes con sus familiares y amigos para acompañar el aprendizaje de los más pequeños. Las melodías combinan ritmos como el hiphop, el reggae y el R&B con canciones infantiles conocidas y composiciones originales. Cada corto invita a participar mediante el movimiento y la música, mientras presenta temas como el abecedario, los números, la higiene, la autoestima y la convivencia. Las aventuras imaginarias de Gracie convierten situaciones cotidianas en oportunidades para descubrir y aprender.",
+      "inicio": "2026-11-26T08:23:00",
+      "fin": "2026-11-26T08:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "Supergatitos • Los Supergatitos y la desaparición del Señor Greenie / Los Supergatitos y el problema del piano",
+      "descripcion": "Los Supergatitos y la desaparición del Señor Greenie / Los Supergatitos y el problema del piano | Mr. Puppypaws arrebata el juguete favorito de Bitsy. / El piano abandonado que está tocando Cat Burglar se daña repentinamente.",
+      "inicio": "2026-11-26T08:30:00",
+      "fin": "2026-11-26T09:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "CoComelon Playdates with Sanrio Friends • Canción de la limpieza",
+      "descripcion": "Canción de la limpieza | Benny falla en el concurso de limpieza, pero Pompompurin tiene una habilidad especial.",
+      "inicio": "2026-11-26T09:00:00",
+      "fin": "2026-11-26T09:04:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cocomelonplaydateswithsanriofriends.jpg"
+    },
+    {
+      "titulo": "CoComelon Playdates with Sanrio Friends • Hay que correr (el carrito de compra)",
+      "descripcion": "Hay que correr (el carrito de compra) | JJ, Hello Kitty, Boba y Cinnamoroll corren con vehículos que se transforman.",
+      "inicio": "2026-11-26T09:04:00",
+      "fin": "2026-11-26T09:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cocomelonplaydateswithsanriofriends.jpg"
+    },
+    {
+      "titulo": "Pequeñas historias de Bluey • Poción poderosa",
+      "descripcion": "Poción poderosa | Bingo toma una poción mágica que le da fuerza para levantar a Papá con facilidad.",
+      "inicio": "2026-11-26T09:15:00",
+      "fin": "2026-11-26T09:16:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pequenashistoriasdebluey.jpg"
+    },
+    {
+      "titulo": "Pequeñas historias de Bluey • Tattoo Shop",
+      "descripcion": "Tattoo Shop | Papá visita la 'tienda de tatuajes' del niño.",
+      "inicio": "2026-11-26T09:16:00",
+      "fin": "2026-11-26T09:17:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pequenashistoriasdebluey.jpg"
+    },
+    {
+      "titulo": "Pequeñas historias de Bluey • ¿Dónde está Bingo",
+      "descripcion": "¿Dónde está Bingo | Papá está buscando desesperadamente a Bingo, pero no la encuentra por ninguna parte.",
+      "inicio": "2026-11-26T09:17:00",
+      "fin": "2026-11-26T09:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/pequenashistoriasdebluey.jpg"
+    },
+    {
+      "titulo": "Aventuras de jóvenes Jedi • El rescate en la montaña nevada / El ataque de los droides de entrenamiento",
+      "descripcion": "El rescate en la montaña nevada / El ataque de los droides de entrenamiento | Los jóvenes jedi encuentran una nave perdida./ Kai causa problemas cuando intenta programar droides para limpiar el templo.",
+      "inicio": "2026-11-26T09:30:00",
+      "fin": "2026-11-26T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "Iron Man y sus increíbles amigos • La canción de Ultrón / Pantera Negra y el robot",
+      "descripcion": "La canción de Ultrón / Pantera Negra y el robot | Ultrón se apodera de las ondas y los Amigos de Hierro deben detenerlo. / Una visita de T'Challa se vuelve tensa cuando un dispositivo amenaza su traje y su coeficiente intelectual.",
+      "inicio": "2026-11-26T10:00:00",
+      "fin": "2026-11-26T10:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ironmanysusincreiblesamigos.jpg"
+    },
+    {
+      "titulo": "Bluey • El show / Cangrecosquillas / Escape",
+      "descripcion": "El show / Cangrecosquillas / Escape | Cuando Bingo deja caer el desayuno en la cama de mamá al suelo, ella está convencida de que ha arruinado su gran día./ Cuando papá trae un par de tenaces cangrejos cosquilleantes a casa desde la playa, ningún lugar de la casa es seguro./ Cuando mamá y papá describen un mundo inventado donde pueden relajarse sin las niñas, Bluey y Bingo deciden irrumpir en su fantasía y perseguirlas. ¿Cómo escaparán mamá y papá?",
+      "inicio": "2026-11-26T10:30:00",
+      "fin": "2026-11-26T11:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
+    },
+    {
+      "titulo": "Bluey • Autobús / Escuela para mamás / A cuestas",
+      "descripcion": "Autobús / Escuela para mamás / A cuestas | Durante un juego de autobús, la mamá pasajera tiene demasiado miedo para decirle al papá, el conductor del autobús, que lo ama en secreto, hasta que recibe ayuda de las abuelas./ Bluey hace de madre de una generación de globos saltarines, incluido un flotador incontenible llamado Greenie. Pero pronto descubre que ser madre es mucho más difícil de lo que imaginaba./ Los Heeler dan un largo paseo por la orilla del río, pero Bingo tiene las piernas cansadas y quiere que la lleven a cuestas. Para distraerla, mamá y papá inventan juegos divertidos y hacen que sus patitas vuelvan a moverse.",
+      "inicio": "2026-11-26T11:00:00",
+      "fin": "2026-11-26T11:28:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
+    },
+    {
+      "titulo": "La casa de Mickey Mouse+ • Hot Dog Day",
+      "descripcion": "Hot Dog Day | Mickey y sus amigos dan la bienvenida a todos de nuevo a la casa club para vivir nuevas aventuras llenas de música, risas y nuevas sorpresas.",
+      "inicio": "2026-11-26T11:28:00",
+      "fin": "2026-11-26T12:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lacasademickeymouse.jpg"
+    },
+    {
+      "titulo": "Princesita Sofía: magia real • Travesuras de Halloween / Lucha de disfraces",
+      "descripcion": "Travesuras de Halloween / Lucha de disfraces | Zane libera a un duende travieso para ganar un concurso de decoración de Halloween. / Lucinda la Bruja y Camila pasan la Noche de Brujas con Sofía.",
+      "inicio": "2026-11-26T12:00:00",
+      "fin": "2026-11-26T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/princesitasofiamagiareal.jpg"
+    },
+    {
+      "titulo": "Disney Junior's Ariel: The Little Mermaid • Día de aventura de padre e hija / Cuevas arcoíris",
+      "descripcion": "Día de aventura de padre e hija / Cuevas arcoíris | Ariel y Tritón pasan juntos el Día de Aventuras de Padre e Hija. / Ariel y sus amigos exploran las Cuevas del Mar Arcoíris.",
+      "inicio": "2026-11-26T12:30:00",
+      "fin": "2026-11-26T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "Kinder: El musical • ¿Los escucharon cantar? / Hola, Dino Dolly",
+      "descripcion": "¿Los escucharon cantar? / Hola, Dino Dolly | Los alumnos del jardín de infantes escriben una canción y la cantan para toda la escuela. Tej lleva su dinosaurio de juguete favorito a la escuela, pero no quiere que sus amigos jueguen con él.",
+      "inicio": "2026-11-26T13:00:00",
+      "fin": "2026-11-26T13:27:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/kinderelmusical.jpg"
+    },
+    {
+      "titulo": "CoComelon Playdates with Sanrio Friends • Hay que correr (el carrito de compra)",
+      "descripcion": "Hay que correr (el carrito de compra) | JJ, Hello Kitty, Boba y Cinnamoroll corren con vehículos que se transforman.",
+      "inicio": "2026-11-26T13:27:00",
+      "fin": "2026-11-26T13:32:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cocomelonplaydateswithsanriofriends.jpg"
+    },
+    {
+      "titulo": "Los magicampistas • Truffaloves / El príncipe del burro",
+      "descripcion": "Truffaloves / El príncipe del burro | Darly dirige una Camp Quest en el bosque. Loomis consigue un papel importante en la obra de Fifi.",
+      "inicio": "2026-11-26T13:32:00",
+      "fin": "2026-11-26T14:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/losmagicampistas.jpg"
+    },
+    {
+      "titulo": "Cachorros a la obra • El gran trabajo de Bailey / Buen intento Bobby",
+      "descripcion": "El gran trabajo de Bailey / Buen intento Bobby | Phinny, un joven corgi innovador, puede ser el cachorro más pequeño de la tripulación, pero demuestra que no se necesitan patas grandes para tener grandes sueños o grandes ideas.",
+      "inicio": "2026-11-26T14:00:00",
+      "fin": "2026-11-26T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cachorrosalaobra.jpg"
+    },
+    {
+      "titulo": "Bluey • Las abuelitas / Pelota de yoga / Calypso",
+      "descripcion": "Las abuelitas / Pelota de yoga / Calypso | Un juego de 'Grannies' es divertido, hasta que Bingo y Bluey no pueden ponerse de acuerdo en una simple pregunta: ¿Pueden bailar las Grannies? Ahora necesitarán hacer una videollamada con su Nana para obtener la respuesta./ A Bingo le encanta jugar con su papá, pero a veces él olvida que Bingo es más pequeño que su hermana. Mamá le enseña a Bingo cómo usar su ladrido de niño grande para mantener la diversión dentro de sus límites. / En la escuela, Bluey y sus amigos se lanzan a varios juegos.",
+      "inicio": "2026-11-26T14:30:00",
+      "fin": "2026-11-26T14:53:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/bluey.jpg"
+    },
+    {
+      "titulo": "El rincón de Gracie: cortos • Humpty Dumpty Song",
+      "descripcion": "Humpty Dumpty Song | Gracie comparte canciones y bailes con sus familiares y amigos para acompañar el aprendizaje de los más pequeños. Las melodías combinan ritmos como el hiphop, el reggae y el R&B con canciones infantiles conocidas y composiciones originales. Cada corto invita a participar mediante el movimiento y la música, mientras presenta temas como el abecedario, los números, la higiene, la autoestima y la convivencia. Las aventuras imaginarias de Gracie convierten situaciones cotidianas en oportunidades para descubrir y aprender.",
+      "inicio": "2026-11-26T14:53:00",
+      "fin": "2026-11-26T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
+    },
+    {
+      "titulo": "Spidey y sus sorprendentes amigos • Caótico día de las madres / La casa no tan de la risa",
+      "descripcion": "Caótico día de las madres / La casa no tan de la risa | Doc Ock escapa de la cárcel para interrumpir el picnic del Día de la Madre en el parque. Miles debe tomar una gran decisión para salvar a su madre de la casa de diversión no tan divertida de Green Goblin.",
+      "inicio": "2026-11-26T15:00:00",
+      "fin": "2026-11-26T15:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0311_fallback.jpg"
     }
   ]
 }
