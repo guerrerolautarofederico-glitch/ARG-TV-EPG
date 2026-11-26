@@ -1,194 +1,19 @@
 {
   "actual": {
-    "titulo": "Efemérides / Cápsulas Varias",
-    "descripcion": "Cápsulas informativas de cine e historia.",
-    "inicio": "2026-11-25T15:10:00",
-    "fin": "2026-11-25T15:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    "titulo": "Siguiendo (a) la Luna",
+    "descripcion": "La talentosa artista y compositora, Luna Marinetti, nos trae este espacio donde conversará con los más grandes exponentes de la música chilena.",
+    "inicio": "2026-11-26T14:30:00",
+    "fin": "2026-11-26T15:10:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siguiendoalaluna.jpg"
   },
   "siguiente": {
-    "titulo": "CNTV infantil",
-    "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-    "inicio": "2026-11-25T15:30:00",
-    "fin": "2026-11-25T17:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    "titulo": "Efemérides / Cápsulas Varias",
+    "descripcion": "Cápsulas informativas de cine e historia.",
+    "inicio": "2026-11-26T15:10:00",
+    "fin": "2026-11-26T15:30:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
   },
   "lista": [
-    {
-      "titulo": "Efemérides / Cápsulas Varias",
-      "descripcion": "Cápsulas informativas de cine e historia.",
-      "inicio": "2026-11-25T15:10:00",
-      "fin": "2026-11-25T15:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "CNTV infantil",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-      "inicio": "2026-11-25T15:30:00",
-      "fin": "2026-11-25T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "Aquí casuales: The Show",
-      "descripcion": "Espacio donde se comentan noticias sobre videojuegos, animé, cine, televisión y tecnología, entre otros temas de la comunidad geek.",
-      "inicio": "2026-11-25T17:00:00",
-      "fin": "2026-11-25T18:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Ecolatinoamérica",
-      "descripcion": "Un magacín con todas las noticias sobre el medio ambiente.",
-      "inicio": "2026-11-25T18:15:00",
-      "fin": "2026-11-25T18:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/ecolatinoamerica.jpg"
-    },
-    {
-      "titulo": "Nuestra casa - Lo mejor",
-      "descripcion": "Camila Schuler y Luis Santana te acompañan con información, entretención y una variedad de temas que seguro te servirán para tu diario vivir.",
-      "inicio": "2026-11-25T18:45:00",
-      "fin": "2026-11-25T20:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Noticias Central Internacional",
-      "descripcion": "Un espacio de noticias internacionales donde el público puede mantenerse actualizado sobre lo que ocurre en el mundo. A través de informes de diversos periodistas, se ofrece una cobertura completa de los acontecimientos globales.",
-      "inicio": "2026-11-25T20:15:00",
-      "fin": "2026-11-25T20:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Noticias, edición central",
-      "descripcion": "Cuatro ediciones diarias con las informaciones más importantes de la Región del Biobío y el país. Katherine Toloza, Priscilla Muñoz y Hans Loosli conducen los noticieros con el respaldo de Radio Bío Bío.",
-      "inicio": "2026-11-25T20:45:00",
-      "fin": "2026-11-25T21:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Aquí estamos",
-      "descripcion": "Claudio Moreno y el psicólogo Daniel Sánchez reflexionan sobre la vida cotidiana. Humor y psicología se unen con grandes invitados para analizar temas del día a día. ¡No te lo pierdas!",
-      "inicio": "2026-11-25T21:30:00",
-      "fin": "2026-11-25T22:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquiestamos.jpg"
-    },
-    {
-      "titulo": "Lo que está en juego",
-      "descripcion": "Espacio en formato podcast que ofrece una mirada amplia y profunda a los temas clave del país y la región, en un año marcado especialmente por las elecciones presidenciales.",
-      "inicio": "2026-11-25T22:00:00",
-      "fin": "2026-11-25T22:40:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "La voz de las sombras",
-      "descripcion": "Una joven de clase trabajadora puede heredar un patrimonio si ella y su novio se atienen a una serie de extrañas estipulaciones.",
-      "inicio": "2026-11-25T22:40:00",
-      "fin": "2026-11-25T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lavozdelassombras.jpg"
-    },
-    {
-      "titulo": "Noticias, edición noche",
-      "descripcion": "Cuatro ediciones diarias con las informaciones más importantes de la Región del Biobío y el país. Katherine Toloza, Priscilla Muñoz y Hans Loosli conducen los noticieros con el respaldo de Radio Bío Bío.",
-      "inicio": "2026-11-25T23:00:00",
-      "fin": "2026-11-25T23:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "¿Cómo te afecta?",
-      "descripcion": "El programa para los jóvenes de América Latina\n\nLas nuevas generaciones consumen noticias, sobre todo, en redes sociales. ¿Cómo te afecta? quiere llegar a jóvenes y adolescentes de América Latina con temas de actualidad que les preocupan y afectan.\n\nEl lenguaje visual de ¿Cómo te afecta? es fresco, dinámico, basado en el estilo que impera en YouTube y al que están acostumbrados los jóvenes de hoy en día, alejados de los programas tradicionales de televisión.\n\nErnesto Andrés Fuenmayor y Tamara Rivera Castro serán los YouTubers que analicen y pongan en contexto temas y noticias de actualidad con voces de  jóvenes afectados por estos problemas, pero también de expertos que ayuden a pensar en soluciones ofreciendo, de este modo, un periodismo constructivo.",
-      "inicio": "2026-11-25T23:30:00",
-      "fin": "2026-11-25T23:50:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/comoteafecta.jpg"
-    },
-    {
-      "titulo": "Efemérides / Cápsulas Varias",
-      "descripcion": "Cápsulas informativas de cine e historia.",
-      "inicio": "2026-11-25T23:50:00",
-      "fin": "2026-11-26T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Iglesia Universal",
-      "descripcion": "La Iglesia Universal del Reino de Dios presenta palabras de fe e historias de personas que, a través de la fe, lograron vencer enfermedades, vicios, problemas familiares, económicos y espirituales, por medio de la palabra de Dios y su amor incondicional.",
-      "inicio": "2026-11-26T00:00:00",
-      "fin": "2026-11-26T00:20:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/iglesiauniversal.jpg"
-    },
-    {
-      "titulo": "Infomercial Seúl",
-      "descripcion": "Programa que muestra a los televidentes y emprendedores, productos de panadería, rotisería, gastronomía y refrigeración para su negocio.",
-      "inicio": "2026-11-26T00:20:00",
-      "fin": "2026-11-26T00:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Unidad evangélica",
-      "descripcion": "Programa religioso de corte Evangélico.",
-      "inicio": "2026-11-26T00:30:00",
-      "fin": "2026-11-26T01:10:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/unidadevangelica.jpg"
-    },
-    {
-      "titulo": "Cartones publicitario",
-      "descripcion": "Espacio publicitario nocturno, acompañado de la mejor música.",
-      "inicio": "2026-11-26T01:10:00",
-      "fin": "2026-11-26T06:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Infórmate primero",
-      "descripcion": "Noticias de la región del Bío Bío y los mejores videoclips para comenzar el día.",
-      "inicio": "2026-11-26T06:30:00",
-      "fin": "2026-11-26T07:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "CNTV infantil",
-      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
-      "inicio": "2026-11-26T07:00:00",
-      "fin": "2026-11-26T07:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
-    },
-    {
-      "titulo": "Noticias, edición matinal",
-      "descripcion": "Cuatro ediciones diarias con las informaciones más importantes de la Región del Biobío y el país. Katherine Toloza, Priscilla Muñoz y Hans Loosli conducen los noticieros con el respaldo de Radio Bío Bío.",
-      "inicio": "2026-11-26T07:30:00",
-      "fin": "2026-11-26T08:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Nuestra casa",
-      "descripcion": "El matinal de la región del Bío Bío con interesantes invitados y los temas que te importan y entretienen.",
-      "inicio": "2026-11-26T08:15:00",
-      "fin": "2026-11-26T12:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Psicología abierta",
-      "descripcion": "Psicología aplicada a tu día a día. Temas de hoy y herramientas para tu bienestar emocional.",
-      "inicio": "2026-11-26T12:30:00",
-      "fin": "2026-11-26T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/psicologiaabierta.jpg"
-    },
-    {
-      "titulo": "Efemérides / Cápsulas Varias",
-      "descripcion": "Cápsulas informativas de cine e historia.",
-      "inicio": "2026-11-26T13:00:00",
-      "fin": "2026-11-26T13:15:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
-    {
-      "titulo": "Impacto tecnológico",
-      "descripcion": "Impacto Tecnológico: el espacio definitivo sobre transformación digital, inteligencia artificial y ciberseguridad. Analizamos cómo el avance de la ciencia y las startups mueven la economía de Chile.",
-      "inicio": "2026-11-26T13:15:00",
-      "fin": "2026-11-26T13:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/impactotecnologico.jpg"
-    },
-    {
-      "titulo": "Noticias, edición mediodía",
-      "descripcion": "Cuatro ediciones diarias con las informaciones más importantes de la Región del Biobío y el país. Katherine Toloza, Priscilla Muñoz y Hans Loosli conducen los noticieros con el respaldo de Radio Bío Bío.",
-      "inicio": "2026-11-26T13:45:00",
-      "fin": "2026-11-26T14:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
-    },
     {
       "titulo": "Siguiendo (a) la Luna",
       "descripcion": "La talentosa artista y compositora, Luna Marinetti, nos trae este espacio donde conversará con los más grandes exponentes de la música chilena.",
@@ -202,6 +27,181 @@
       "inicio": "2026-11-26T15:10:00",
       "fin": "2026-11-26T15:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
+      "inicio": "2026-11-26T15:30:00",
+      "fin": "2026-11-26T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Lo que está en juego",
+      "descripcion": "Espacio en formato podcast que ofrece una mirada amplia y profunda a los temas clave del país y la región, en un año marcado especialmente por las elecciones presidenciales.",
+      "inicio": "2026-11-26T17:00:00",
+      "fin": "2026-11-26T18:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Aquí estoy",
+      "descripcion": "Conversaciones con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Historias de migración, de integración y de éxito; de arte o de política; pero sobre todo historias personales.",
+      "inicio": "2026-11-26T18:15:00",
+      "fin": "2026-11-26T18:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/aquiestoy.jpg"
+    },
+    {
+      "titulo": "Nuestra casa - Lo mejor",
+      "descripcion": "Camila Schuler y Luis Santana te acompañan con información, entretención y una variedad de temas que seguro te servirán para tu diario vivir.",
+      "inicio": "2026-11-26T18:45:00",
+      "fin": "2026-11-26T20:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Noticias Central Internacional",
+      "descripcion": "Un espacio de noticias internacionales donde el público puede mantenerse actualizado sobre lo que ocurre en el mundo. A través de informes de diversos periodistas, se ofrece una cobertura completa de los acontecimientos globales.",
+      "inicio": "2026-11-26T20:15:00",
+      "fin": "2026-11-26T20:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Noticias, edición central",
+      "descripcion": "Cuatro ediciones diarias con las informaciones más importantes de la Región del Biobío y el país. Katherine Toloza, Priscilla Muñoz y Hans Loosli conducen los noticieros con el respaldo de Radio Bío Bío.",
+      "inicio": "2026-11-26T20:45:00",
+      "fin": "2026-11-26T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Entrevista De Tomás Mosciatti",
+      "descripcion": "Conversaciones directas y sin reservas con los protagonistas de la noticia.\n\nDirige: Tomás Mosciatti\n\nPresenta:\n\nTomás Mosciatti",
+      "inicio": "2026-11-26T21:30:00",
+      "fin": "2026-11-26T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistadetomasmosciatti.jpg"
+    },
+    {
+      "titulo": "Del fin del mundo",
+      "descripcion": "Gianluca hace una videoconferencia con Mía y Venti para contarles algo muy importante con respecto a una profecía que está por cumplirse, sin embargo, ellos tienen un plan muy distinto y la noche será una prueba para la paciencia de Gianluca.",
+      "inicio": "2026-11-26T22:00:00",
+      "fin": "2026-11-26T22:40:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/delfindelmundo.jpg"
+    },
+    {
+      "titulo": "Efemérides / Cápsulas Varias",
+      "descripcion": "Cápsulas informativas de cine e historia.",
+      "inicio": "2026-11-26T22:40:00",
+      "fin": "2026-11-26T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Noticias, edición noche",
+      "descripcion": "Cuatro ediciones diarias con las informaciones más importantes de la Región del Biobío y el país. Katherine Toloza, Priscilla Muñoz y Hans Loosli conducen los noticieros con el respaldo de Radio Bío Bío.",
+      "inicio": "2026-11-26T23:00:00",
+      "fin": "2026-11-26T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Enlaces",
+      "descripcion": "Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.",
+      "inicio": "2026-11-26T23:30:00",
+      "fin": "2026-11-26T23:50:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/enlaces.jpg"
+    },
+    {
+      "titulo": "Efemérides / Cápsulas Varias",
+      "descripcion": "Cápsulas informativas de cine e historia.",
+      "inicio": "2026-11-26T23:50:00",
+      "fin": "2026-11-27T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Iglesia Universal",
+      "descripcion": "La Iglesia Universal del Reino de Dios presenta palabras de fe e historias de personas que, a través de la fe, lograron vencer enfermedades, vicios, problemas familiares, económicos y espirituales, por medio de la palabra de Dios y su amor incondicional.",
+      "inicio": "2026-11-27T00:00:00",
+      "fin": "2026-11-27T00:20:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/iglesiauniversal.jpg"
+    },
+    {
+      "titulo": "Infomercial Seúl",
+      "descripcion": "Programa que muestra a los televidentes y emprendedores, productos de panadería, rotisería, gastronomía y refrigeración para su negocio.",
+      "inicio": "2026-11-27T00:20:00",
+      "fin": "2026-11-27T00:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Unidad evangélica",
+      "descripcion": "Programa religioso de corte Evangélico.",
+      "inicio": "2026-11-27T00:30:00",
+      "fin": "2026-11-27T01:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/unidadevangelica.jpg"
+    },
+    {
+      "titulo": "Cartones publicitario",
+      "descripcion": "Espacio publicitario nocturno, acompañado de la mejor música.",
+      "inicio": "2026-11-27T01:10:00",
+      "fin": "2026-11-27T06:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Infórmate primero",
+      "descripcion": "Noticias de la región del Bío Bío y los mejores videoclips para comenzar el día.",
+      "inicio": "2026-11-27T06:30:00",
+      "fin": "2026-11-27T07:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "CNTV infantil",
+      "descripcion": "Bloque de programación variada, entretenida, cultural y educativa, diseñada especialmente para estimular el aprendizaje de niños, niñas y adolescentes",
+      "inicio": "2026-11-27T07:00:00",
+      "fin": "2026-11-27T07:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/cntvinfantil.jpg"
+    },
+    {
+      "titulo": "Noticias, edición matinal",
+      "descripcion": "Cuatro ediciones diarias con las informaciones más importantes de la Región del Biobío y el país. Katherine Toloza, Priscilla Muñoz y Hans Loosli conducen los noticieros con el respaldo de Radio Bío Bío.",
+      "inicio": "2026-11-27T07:30:00",
+      "fin": "2026-11-27T08:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Nuestra casa",
+      "descripcion": "El matinal de la región del Bío Bío con interesantes invitados y los temas que te importan y entretienen.",
+      "inicio": "2026-11-27T08:15:00",
+      "fin": "2026-11-27T12:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "A todo Jazz",
+      "descripcion": "Jota Torres nos trae este espacio de conversación y música, dentro del mundo del Jazz Chileno, donde nos presenta los rostros más relevantes de la escena.",
+      "inicio": "2026-11-27T12:30:00",
+      "fin": "2026-11-27T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/atodojazz.jpg"
+    },
+    {
+      "titulo": "Efemérides / Cápsulas Varias",
+      "descripcion": "Cápsulas informativas de cine e historia.",
+      "inicio": "2026-11-27T13:00:00",
+      "fin": "2026-11-27T13:15:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Yo invito",
+      "descripcion": "Aprende a preparar lo mejor de nuestra gastronomía, desde el pebre más fresco hasta platos de fondo, con pasos súper fáciles. ¡Tradición y sabor al alcance de todos!",
+      "inicio": "2026-11-27T13:15:00",
+      "fin": "2026-11-27T13:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/yoinvito.jpg"
+    },
+    {
+      "titulo": "Noticias, edición mediodía",
+      "descripcion": "Cuatro ediciones diarias con las informaciones más importantes de la Región del Biobío y el país. Katherine Toloza, Priscilla Muñoz y Hans Loosli conducen los noticieros con el respaldo de Radio Bío Bío.",
+      "inicio": "2026-11-27T13:45:00",
+      "fin": "2026-11-27T14:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/0153_fallback.jpg"
+    },
+    {
+      "titulo": "Entrevista De Tomás Mosciatti",
+      "descripcion": "Conversaciones directas y sin reservas con los protagonistas de la noticia.\n\nDirige: Tomás Mosciatti\n\nPresenta:\n\nTomás Mosciatti",
+      "inicio": "2026-11-27T14:30:00",
+      "fin": "2026-11-27T15:10:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/entrevistadetomasmosciatti.jpg"
     }
   ]
 }

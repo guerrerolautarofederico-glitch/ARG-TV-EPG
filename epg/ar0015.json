@@ -1,103 +1,19 @@
 {
   "actual": {
-    "titulo": "Código Nación",
-    "descripcion": "La información más caliente contrastada con la frialdad de los datos.",
-    "inicio": "2026-11-25T15:00:00",
-    "fin": "2026-11-25T17:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/codigonacion.jpg"
+    "titulo": "Noticias",
+    "descripcion": "Hugo Machiavelli y Viviana Valles cierran el día informando con responsabilidad sobre los hechos de la jornada.",
+    "inicio": "2026-11-26T13:00:00",
+    "fin": "2026-11-26T15:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
   },
   "siguiente": {
-    "titulo": "Clima de época",
-    "descripcion": "Un camino diferente para entender la actualidad.",
-    "inicio": "2026-11-25T17:00:00",
-    "fin": "2026-11-25T18:30:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/climadeepoca.jpg"
+    "titulo": "Código Nación",
+    "descripcion": "La información más caliente contrastada con la frialdad de los datos.",
+    "inicio": "2026-11-26T15:00:00",
+    "fin": "2026-11-26T17:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/codigonacion.jpg"
   },
   "lista": [
-    {
-      "titulo": "Código Nación",
-      "descripcion": "La información más caliente contrastada con la frialdad de los datos.",
-      "inicio": "2026-11-25T15:00:00",
-      "fin": "2026-11-25T17:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/codigonacion.jpg"
-    },
-    {
-      "titulo": "Clima de época",
-      "descripcion": "Un camino diferente para entender la actualidad.",
-      "inicio": "2026-11-25T17:00:00",
-      "fin": "2026-11-25T18:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/climadeepoca.jpg"
-    },
-    {
-      "titulo": "Siempre +",
-      "descripcion": "Cristina Pérez llega con compromiso, análisis y toda la información que necesitás saber.",
-      "inicio": "2026-11-25T18:30:00",
-      "fin": "2026-11-25T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siempre.jpg"
-    },
-    {
-      "titulo": "Majul a las 20",
-      "descripcion": "Investigaciones, información exclusiva y las editoriales que marcan agenda.",
-      "inicio": "2026-11-25T20:00:00",
-      "fin": "2026-11-25T21:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/majulalas20.jpg"
-    },
-    {
-      "titulo": "Una batalla tras otra",
-      "descripcion": "El debate necesario para combatir la desinformación y acercarse a la verdad.",
-      "inicio": "2026-11-25T21:00:00",
-      "fin": "2026-11-25T23:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/unabatallatrasotra.jpg"
-    },
-    {
-      "titulo": "Mesa chica",
-      "descripcion": "José del Rio llega con toda la actualidad económica y política junto a las voces de sus protagonistas.",
-      "inicio": "2026-11-25T23:00:00",
-      "fin": "2026-11-26T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/mesachica.jpg"
-    },
-    {
-      "titulo": "Mañana mías",
-      "descripcion": "Un programa dinámico que acompaña tus mañanas con entretenimiento y rigor periodístico.",
-      "inicio": "2026-11-26T00:00:00",
-      "fin": "2026-11-26T03:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Majul a las 20",
-      "descripcion": "Investigaciones, información exclusiva y las editoriales que marcan agenda.",
-      "inicio": "2026-11-26T03:00:00",
-      "fin": "2026-11-26T04:30:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/majulalas20.jpg"
-    },
-    {
-      "titulo": "Una batalla tras otra",
-      "descripcion": "El debate necesario para combatir la desinformación y acercarse a la verdad.",
-      "inicio": "2026-11-26T04:30:00",
-      "fin": "2026-11-26T06:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/unabatallatrasotra.jpg"
-    },
-    {
-      "titulo": "Pre mañana",
-      "descripcion": "El clima, el tránsito y todo lo que tenés que saber para arrancar el día.",
-      "inicio": "2026-11-26T06:00:00",
-      "fin": "2026-11-26T06:45:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/premanana.jpg"
-    },
-    {
-      "titulo": "Mañana mías",
-      "descripcion": "Un programa dinámico que acompaña tus mañanas con entretenimiento y rigor periodístico.",
-      "inicio": "2026-11-26T06:45:00",
-      "fin": "2026-11-26T10:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Buen día Nación",
-      "descripcion": "Francisco Olivera, Paula Rossi y equipo te acompañan todas las mañanas para vivir la actualidad minuto a minuto.",
-      "inicio": "2026-11-26T10:00:00",
-      "fin": "2026-11-26T13:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buendianacion.jpg"
-    },
     {
       "titulo": "Noticias",
       "descripcion": "Hugo Machiavelli y Viviana Valles cierran el día informando con responsabilidad sobre los hechos de la jornada.",
@@ -111,6 +27,90 @@
       "inicio": "2026-11-26T15:00:00",
       "fin": "2026-11-26T17:00:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/codigonacion.jpg"
+    },
+    {
+      "titulo": "Clima de época",
+      "descripcion": "Un camino diferente para entender la actualidad.",
+      "inicio": "2026-11-26T17:00:00",
+      "fin": "2026-11-26T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/climadeepoca.jpg"
+    },
+    {
+      "titulo": "Siempre +",
+      "descripcion": "Cristina Pérez llega con compromiso, análisis y toda la información que necesitás saber.",
+      "inicio": "2026-11-26T18:30:00",
+      "fin": "2026-11-26T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/siempre.jpg"
+    },
+    {
+      "titulo": "Majul a las 20",
+      "descripcion": "Investigaciones, información exclusiva y las editoriales que marcan agenda.",
+      "inicio": "2026-11-26T20:00:00",
+      "fin": "2026-11-26T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/majulalas20.jpg"
+    },
+    {
+      "titulo": "Una batalla tras otra",
+      "descripcion": "El debate necesario para combatir la desinformación y acercarse a la verdad.",
+      "inicio": "2026-11-26T21:30:00",
+      "fin": "2026-11-26T23:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/unabatallatrasotra.jpg"
+    },
+    {
+      "titulo": "Hora 23",
+      "descripcion": "Maxi Montenegro te acerca el análisis justo para entender la actualidad.",
+      "inicio": "2026-11-26T23:00:00",
+      "fin": "2026-11-27T00:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/hora23.jpg"
+    },
+    {
+      "titulo": "Mañana mías",
+      "descripcion": "Un programa dinámico que acompaña tus mañanas con entretenimiento y rigor periodístico.",
+      "inicio": "2026-11-27T00:00:00",
+      "fin": "2026-11-27T03:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Majul a las 20",
+      "descripcion": "Investigaciones, información exclusiva y las editoriales que marcan agenda.",
+      "inicio": "2026-11-27T03:00:00",
+      "fin": "2026-11-27T04:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/majulalas20.jpg"
+    },
+    {
+      "titulo": "Una batalla tras otra",
+      "descripcion": "El debate necesario para combatir la desinformación y acercarse a la verdad.",
+      "inicio": "2026-11-27T04:30:00",
+      "fin": "2026-11-27T06:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/unabatallatrasotra.jpg"
+    },
+    {
+      "titulo": "Pre mañana",
+      "descripcion": "El clima, el tránsito y todo lo que tenés que saber para arrancar el día.",
+      "inicio": "2026-11-27T06:00:00",
+      "fin": "2026-11-27T06:45:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/premanana.jpg"
+    },
+    {
+      "titulo": "Mañana mías",
+      "descripcion": "Un programa dinámico que acompaña tus mañanas con entretenimiento y rigor periodístico.",
+      "inicio": "2026-11-27T06:45:00",
+      "fin": "2026-11-27T10:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Buen día Nación",
+      "descripcion": "Francisco Olivera, Paula Rossi y equipo te acompañan todas las mañanas para vivir la actualidad minuto a minuto.",
+      "inicio": "2026-11-27T10:00:00",
+      "fin": "2026-11-27T13:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/buendianacion.jpg"
+    },
+    {
+      "titulo": "Noticias",
+      "descripcion": "Hugo Machiavelli y Viviana Valles cierran el día informando con responsabilidad sobre los hechos de la jornada.",
+      "inicio": "2026-11-27T13:00:00",
+      "fin": "2026-11-27T15:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/noticias.jpg"
     }
   ]
 }
