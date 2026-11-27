@@ -1,66 +1,129 @@
 {
   "actual": {
-    "titulo": "Trecevisión (Canal 13)",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-11-26T12:00:00",
-    "fin": "2026-11-26T16:00:00",
-    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    "titulo": "Despierta América",
+    "descripcion": "Revista matutina con noticias, temas de actualidad, reportajes de farándula y música.",
+    "inicio": "2026-11-27T12:00:00",
+    "fin": "2026-11-27T16:00:00",
+    "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/despiertaamerica.jpg"
   },
   "siguiente": {
-    "titulo": "Trecevisión (Canal 13)",
-    "descripcion": "La información de este programa no se encuentra disponible.",
-    "inicio": "2026-11-26T16:00:00",
-    "fin": "2026-11-26T20:00:00",
+    "titulo": "Ben 10: fuerza alienígena",
+    "descripcion": "El mundo será invadido por unos nuevos enemigos, los DNAliens. Pero Ben luchará con la ayuda de su prima Gwen, cuyas habilidades mágicas regresaron, Kevin Levin y los hijos de los Plomeros.",
+    "inicio": "2026-11-27T16:00:00",
+    "fin": "2026-11-27T16:30:00",
     "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
   },
   "lista": [
     {
-      "titulo": "Trecevisión (Canal 13)",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-26T12:00:00",
-      "fin": "2026-11-26T16:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Trecevisión (Canal 13)",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-26T16:00:00",
-      "fin": "2026-11-26T20:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Trecevisión (Canal 13)",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-26T20:00:00",
-      "fin": "2026-11-27T00:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Trecevisión (Canal 13)",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-27T00:00:00",
-      "fin": "2026-11-27T04:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Trecevisión (Canal 13)",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-27T04:00:00",
-      "fin": "2026-11-27T08:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Trecevisión (Canal 13)",
-      "descripcion": "La información de este programa no se encuentra disponible.",
-      "inicio": "2026-11-27T08:00:00",
-      "fin": "2026-11-27T12:00:00",
-      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
-    },
-    {
-      "titulo": "Trecevisión (Canal 13)",
-      "descripcion": "La información de este programa no se encuentra disponible.",
+      "titulo": "Despierta América",
+      "descripcion": "Revista matutina con noticias, temas de actualidad, reportajes de farándula y música.",
       "inicio": "2026-11-27T12:00:00",
       "fin": "2026-11-27T16:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/despiertaamerica.jpg"
+    },
+    {
+      "titulo": "Ben 10: fuerza alienígena",
+      "descripcion": "El mundo será invadido por unos nuevos enemigos, los DNAliens. Pero Ben luchará con la ayuda de su prima Gwen, cuyas habilidades mágicas regresaron, Kevin Levin y los hijos de los Plomeros.",
+      "inicio": "2026-11-27T16:00:00",
+      "fin": "2026-11-27T16:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Jake y los piratas del país de Nunca Jamás",
+      "descripcion": "Una tripulación de niños piratas liderados por el entusiasta y valiente Jake nos sumergirá en historias llenas de música y diversión, mientras el chico guía a su equipo, a bordo de su asombroso barco Bucky.",
+      "inicio": "2026-11-27T16:30:00",
+      "fin": "2026-11-27T17:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Princesita Sofía",
+      "descripcion": "La pequeña Sofía comienza su vida como una niña común. Pero cuando su mamá Miranda se casa con el Rey Roland II, ella rápidamente pasa a un glamoroso mundo de castillos y realeza con nuevos hermanastros: Amber y James.",
+      "inicio": "2026-11-27T17:00:00",
+      "fin": "2026-11-27T17:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Elena de Avalor",
+      "descripcion": "El viaje de la princesa Elena comenzó hace mucho tiempo, cuando la malvada hechicera Shuriki le arrebató a sus padres y su reino. Para defender a su hermana menor y a sus abuelos, ella la enfrentó pero quedó atrapada en su amuleto mágico.",
+      "inicio": "2026-11-27T17:30:00",
+      "fin": "2026-11-27T18:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Ultimate Spider-Man",
+      "descripcion": "Peter Parker ha sido Spider-Man solo un año. Él ha salvado vidas, pero aún está en proceso de aprender a ser un superhéroe. Nick Fury de S.H.I.E.L.D. le ofrece a Peter convertirse en el último Hombre Araña.",
+      "inicio": "2026-11-27T18:00:00",
+      "fin": "2026-11-27T18:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Guardianes de la galaxia",
+      "descripcion": "Los Guardianes encuentran un artefacto secreto que sólo parece reaccionar ante el ADN de Peter Quill. Cuando lo abre, Quill descubre un mapa del tesoro que les conduce a una poderosa arma conocida como la \"semilla cósmica\", y que al parecer es capaz de crear un universo entero. De este momento en adelante será tarea de los Guardianes encontrar, proteger y en última instancia destruir la semilla cósmica con tal de impedir que caiga en las manos equivocadas.",
+      "inicio": "2026-11-27T18:30:00",
+      "fin": "2026-11-27T19:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/guardianesdelagalaxia.jpg"
+    },
+    {
+      "titulo": "Los Vengadores unidos",
+      "descripcion": "El grupo más famoso de superhéroes, Iron Man, Hulk, el Capitán América, Thor, Hawkeye y Black Widow, junto con el recién llegado Falcon, se unen para luchar contra amenazas que un único héroe no podría resistir.",
+      "inicio": "2026-11-27T19:00:00",
+      "fin": "2026-11-27T19:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Bugs Bunny y amigos",
+      "descripcion": "Yunques que caen en picada, pianos que dan volteretas, explosivos de dinamita y trenes fuera de control. Comprimimos a todos estos personajes favoritos de dibujos animados clásicos que incluyen a Bugs Bunny, el pato Lucas, el Coyote y más.",
+      "inicio": "2026-11-27T19:30:00",
+      "fin": "2026-11-27T20:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Taz-Mania",
+      "descripcion": "La serie nos cuenta la historia de Taz, un demonio de Tasmania muy loco y de toda su familia, aun mas loca si cabe, además de la vida de otros de los habitantes de Australia.",
+      "inicio": "2026-11-27T20:00:00",
+      "fin": "2026-11-27T20:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/tazmania.jpg"
+    },
+    {
+      "titulo": "Merrie Melodies Show",
+      "descripcion": "Antología animada con cortos de la biblioteca de Looney Tunes y Merrie Melodies, principalmente los producidos después de 1960 y con Speedy Gonzales, Sylvester y Pato Lucas.",
+      "inicio": "2026-11-27T20:30:00",
+      "fin": "2026-11-27T21:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Droopy Detective And Screwball",
+      "descripcion": "La información de este programa no se encuentra disponible.",
+      "inicio": "2026-11-27T21:00:00",
+      "fin": "2026-11-27T21:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Supersónicos",
+      "descripcion": "Conozca a Súper Sónico....su mujer Ultra... su hija Lucero... su hijo Cometín... La melodía pegadiza de Los Supersónicos capta idealmente la esencia desenfadada del programa, un contrapunto futurista de Los Picapiedra que reflejó el optimismo espacial de la época. Los Supersónicos fueron la primera familia, animada o no, en tener un sistema de entretenimiento casero de pantalla grande décadas antes de que se hiciera realidad. También tenían coches voladores, ciudades flotantes y androides, el decorado más común de los superventas de ciencia ficción más populares de hoy en día.",
+      "inicio": "2026-11-27T21:30:00",
+      "fin": "2026-11-27T22:00:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lossupersonicos.jpg"
+    },
+    {
+      "titulo": "Tom and Jerry Theatricals",
+      "descripcion": "Sigue las alocadas aventuras del juego original del gato y el ratón mientras Tom, un gato doméstico, y Jerry, un ratón ingenioso luchan.",
+      "inicio": "2026-11-27T22:00:00",
+      "fin": "2026-11-27T22:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
+    },
+    {
+      "titulo": "Los Picapiedra",
+      "descripcion": "Únete a la diversión en el pueblo de Piedradura con esta familia fabulosamente famosa y moderna de la Edad de Piedra. Cortar el césped con un dinosaurio con dientes de sierra regar las plantas con agua que sale de la trompa de un mamut lanudo y comer hamburguesas de brontosaurio son sucesos de todos los días para los adorables Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol. Vivir en tiempos prehistóricos tiene sus desventajas pero los Picapiedras y sus vecinos sobreviven con estilo. No te pierdas de estos momentos yabba-dabba-too con los Picapiedras.",
+      "inicio": "2026-11-27T22:30:00",
+      "fin": "2026-11-27T23:30:00",
+      "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/lospicapiedra.jpg"
+    },
+    {
+      "titulo": "T 13 noticias",
+      "descripcion": "Un noticiero con todo el acontecer nacional e internacional, deportes y farándula.",
+      "inicio": "2026-11-27T23:30:00",
+      "fin": "2026-11-28T23:30:00",
       "icono": "https://raw.githubusercontent.com/Puticastillo/EPGCL/main/zoidberg/fallback.jpg"
     }
   ]
